@@ -1,0 +1,38 @@
+name: Nightly
+
+on:
+  push:
+    branches: [ "master" ]
+    paths-ignore:
+      - '**.md'
+      - LICENSE
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Package Files
+      run: zip -r -v LastStarshipTranslations_nightly.zip data/
+
+    - name: Update git tag
+      run: |
+        git tag -f nightly
+        git push -f origin nightly
+
+    - name: Update Nightly Release
+      uses: ncipollo/release-action@main
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        artifacts: "LastStarshipTranslations_nightly.zip"
+        tag: "nightly"
+        commit: ${{ github.ref_name }}
+        prerelease: true
+        allowUpdates: true
+        updateOnlyUnreleased: true
+        removeArtifacts: true

@@ -1,0 +1,33 @@
+name: Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version'
+        required: true
+        type: string
+        default: 'X.Y{.Z}'
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Package Files
+      run: zip -r -v LastStarshipTranslations_v${{ github.event.inputs.version }}.zip data/
+
+    - name: Release
+      uses: ncipollo/release-action@main
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        allowUpdates: false
+        artifactErrorsFailBuild: true
+        draft: true
+        prerelease: false
+        commit: ${{ github.ref_name }}
+        tag: 'v${{ github.event.inputs.version }}'
+        artifacts: 'ComicRackCE_v${{ github.event.inputs.version }}.zip,ComicRackCESetup_v${{ github.event.inputs.version }}.exe'
