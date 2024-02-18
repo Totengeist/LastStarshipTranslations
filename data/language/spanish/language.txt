@@ -1,0 +1,1534 @@
+
+# =============================================================================
+# Basic dialog strings
+# =============================================================================
+
+dialog_new                              Nuevo
+dialog_load                             Cargar
+dialog_save                             Guardar
+dialog_saveas                           Guardar Como
+dialog_delete                           Borrar
+dialog_width                            Ancho
+dialog_height                           Alto
+dialog_name                             Nombre
+dialog_type                             Tipo
+dialog_x                                X
+dialog_y                                Y
+dialog_z								Z
+dialog_w                                W
+dialog_h                                H
+dialog_exit                             Salir
+dialog_cancel                           Cancelar
+dialog_ok                               Ok
+dialog_open                             Abrir
+dialog_close                            Cerrar
+dialog_closed                           Cerrado
+dialog_add                              Añadir
+dialog_up                               Arriba
+dialog_down                             Abajo
+dialog_yes                              Sí
+dialog_no                               No
+dialog_loading                          Cargando...
+dialog_low                              Bajo
+dialog_medium                           Medio
+dialog_high                             Alto
+dialog_none                             Ninguno
+ellipsis                                ...
+
+# =============================================================================
+# Analytics Consent Dialog
+# =============================================================================
+
+analyticsconsentdialog_title           Coleccion de datos para Telemetría
+analyticsconsentdialog_accept          Aceptar
+analyticsconsentdialog_reject          Denegar
+analyticsconsentdialog_moreinfo        Mas Informacion...
+analyticsconsentdialog_text            We need to collect usage data to help us to better understand how people are playing and to help us to improve the game. \n\nWe do not collect any personally identifiable information. If you are OK with this please hit the Accept button.
+
+
+
+# =============================================================================
+# File Dialog
+# =============================================================================
+
+filedialog_title                       Elija un Archivo
+
+# =============================================================================
+# Dialog Editor
+# =============================================================================
+
+dialogeditor_title                      Dialog Editor
+dialogeditor_back                       Back
+dialogeditor_front                      Front
+dialogeditor_reloadlanguage             Reload Language
+dialogeditor_test                       Test
+dialogeditor_window                     Window
+dialogeditor_grid                       Grid
+dialogeditor_caption                    Caption
+dialogeditor_component                  Component
+dialogeditor_select						Select
+dialogeditor_create						Create
+dialogeditor_background                 BG img
+dialogeditor_panel                      Panel
+
+dialogcomponent_custom                  Custom
+dialogcomponent_button                  Button
+dialogcomponent_container               Container
+dialogcomponent_caption                 Caption
+dialogcomponent_titlecaption            TitleCaption
+dialogcomponent_checkbox                Checkbox
+dialogcomponent_inputfield              InputField
+dialogcomponent_inputslider             InputSlider
+dialogcomponent_dropdownmenu            DropDownMenu
+dialogcomponent_selectionlist           SelectionList
+dialogcomponent_selectionlistitem       SelectionListItem
+dialogcomponent_scrollbar               Scrollbar
+dialogcomponent_progressbar             ProgressBar
+dialogcomponent_canvas                  Canvas
+dialogcomponent_iconbox					IconBox
+
+dialogposition_absolute                 Absolute
+dialogposition_relative                 Relative
+dialogposition_scaled                   Scaled
+
+
+# =============================================================================
+# Profiler
+# =============================================================================
+
+profiler_title                          Profiler
+profiler_name                           Name
+profiler_timings                        Timings
+profiler_totaltime                      Total
+profiler_glfinishcaption                glFinish
+profiler_reset                          Reset
+
+
+# =============================================================================
+# Sound tools
+# =============================================================================
+
+soundchannelviewer_title                Sound Channels
+soundeditor_title                       Sound Editor
+soundinstanceeditor_title				Sound Instance Editor
+
+soundeditor_positiontitle		        Position Type
+soundeditor_instancetitle		        Instance Type
+soundeditor_looptitle			        Loop Type
+soundeditor_sourcetypetitle		        Sound Type
+soundeditor_soundnametitle		        Sound Name
+
+soundeditor_volumetitle			        Volume
+soundeditor_frequencytitle              Frequency
+soundeditor_mindistancetitle            Min Distance
+soundeditor_attacktitle                 Attack
+soundeditor_sustaintitle                Sustain
+soundeditor_releasetitle                Release
+soundeditor_loopdelaytitle              Loop Delay
+soundeditor_dsptitle                    DSP
+soundeditor_nexteventtitle              Next Event
+
+soundeditor_play                        Play
+soundeditor_stop                        Stop
+
+soundparametereditor_title              Sound Parameter
+soundparametereditor_typetitle          Type
+soundparametereditor_linktitle          Linked To
+soundparametereditor_updatetitle        Update Type
+soundparametereditor_smoothing          Smoothing
+soundparametereditor_chaintitle         Chain
+
+soundeditor_newdsp                      Add DSP
+sounddspeditor_title                    DSP Editor
+samplebankeditor_title                  Sample Bank Editor
+samplebankeditor_addsample              Add Sound
+samplebank                              (Sample Bank)
+
+
+# =============================================================================
+# Main Menu
+# =============================================================================
+
+tagline									THE LAST STARSHIP
+mainmenu_title							Menu Principal 
+mainmenu_newgameA 						Nueva Partida - Praxis
+mainmenu_newgameB                       Nueva Partida - Sleek
+mainmenu_newgameC                       Nueva Partida - Inner Shapes
+mainmenu_newgameD                       Nueva Partida - Shipyard
+mainmenu_newgameE                       Nueva Partida - Large Logistics
+mainmenu_savegame                       Guardar Partida
+mainmenu_loadgame                       Cargar Partida
+mainmenu_abandongame					Abandonar Partida
+mainmenu_steamworkshop                  Steam Workshop
+mainmenu_tweet                          Twittea mi nave!
+mainmenu_legal                          Privacidad / Legal
+
+mainmenu_gamemode_survival              Supervivencia
+mainmenu_gamemode_survival_tooltip      Mantente un paso por delante de una devastadora anomalia, durante todo el tiempo que puedas.
+mainmenu_gamemode_freeroam              Juego libre
+mainmenu_gamemode_freeroam_tooltip      Eres libre de perseguir cualquier carrera o profesion a tu propio ritmo. Sin anomalia, Sin Puerta Estelar.
+mainmenu_gamemode_creative              Creativo
+mainmenu_gamemode_creative_tooltip      Tienes recursos infinitos para construir sin limites cualquier nave que quieras.
+mainmenu_gamemode_industry              PROYECTO "PUERTA ESTELAR"
+mainmenu_gamemode_industry_tooltip      Tu objetivo es desarrollar y construir una Puerta Estelar hacia la galaxia Andromeda.
+
+mainmenu_stargate_caption               Take part in the construction of a galactic megaproject - a STARGATE with enough range to reach our nearest neighbouring galaxy ANDROMEDA
+
+mainmenu_createship						DEVELOPER Create Ship
+mainmenu_loadship						DEVELOPER Load Ship
+mainmenu_loadgamedev                    DEVELOPER Load Test Game
+
+mainmenu_exportship                     Exportar Nave
+mainmenu_importship                     Importar Nave
+mainmenu_importfriendly                 Importar Nave Aliada
+mainmenu_importhostile					Importar Nave Hostil
+mainmenu_tools							Herramientas de Desarrollador
+mainmenu_quit 							Salir
+
+settings_analytics                      Analytics
+settings_analytics_tooltip              We need to collect usage data to help us to better understand how people are playing and to help us to improve the game. \n\nWe do not collect any personally identifiable information.\n\nTo find out more visit Legal Information (bottom of the screen)
+settings_hud                            Mostrar HUD
+settings_music                          Musica
+settings_hudscale                       UI Scale
+settings_mastervolume                   Volumen General
+settings_effectsvolume                  Volumen de Efectos
+settings_musicvolume                    Volumen de Musica
+settings_fullscreen                     Pantalla Completa
+settings_resolution                     Resolucion
+settings_language                       Lenguaje
+
+legal_button                            Informacion Legal
+wishlist_button                         Añadir a Lista de Deseados
+feedback_button                         Proporcionar Feedback
+
+toolsmenu_title                         Menu de Herramientas
+toolsmenu_dialogeditor                  Editor de Dialogo
+toolsmenu_spriteeditor                  Editor de Sprites
+toolsmenu_close                         Cerrar
+
+
+# =============================================================================
+# Steam Workshop Menu
+# =============================================================================
+
+steamworkshopmenu_title                         Steam Workshop Menu
+
+# Save Games section on the left
+steamworkshopmenu_savegamesectionlabel          ========================== Save Games ==========================
+steamworkshopmenu_uploadsavegametitlelabel      Titulo
+steamworkshopmenu_uploadsavegamedesclabel       Descripcion
+steamworkshopmenu_uploadsavegame                Subir
+steamworkshopmenu_updateselectedsavegame        Actualizar Seleccionado
+steamworkshopmenu_savegamelegalagreementtext    By submitting this item, you agree to the
+steamworkshopmenu_savegamelegalagreementbutton  workshop terms of service
+steamworkshopmenu_uploadsavegameprogress        =
+steamworkshopmenu_publishedsavegamelistlabel    Partidas Guardadas Publicadas
+steamworkshopmenu_refreshpublishedsavegamelist  Actualizar Lista
+steamworkshopmenu_subscribedsavegamelistlabel   Partidas Guardadas Subscritas
+steamworkshopmenu_refreshsubscribedsavegamelist Actualizar Lista
+steamworkshopmenu_loadselectedsavegame          Cargar
+
+# Ship section on the right
+steamworkshopmenu_shipsectionlabel              =============================== Ships ===============================
+steamworkshopmenu_uploadshiptitlelabel          Nombre
+steamworkshopmenu_uploadshipdesclabel           Descripcion
+steamworkshopmenu_uploadship                    Subir
+steamworkshopmenu_updateselectedship            Actualizar Seleccionado
+steamworkshopmenu_shiplegalagreementtext        By submitting this item, you agree to the
+steamworkshopmenu_shiplegalagreementbutton      workshop terms of service
+steamworkshopmenu_uploadshipprogress            =
+steamworkshopmenu_publishedshiplistlabel        Naves Publicadas
+steamworkshopmenu_refreshpublishedshiplist      Actualizar Lista
+steamworkshopmenu_subscribedshiplistlabel       Naves Subscritas
+steamworkshopmenu_refreshsubscribedshiplist     Actualizar Lista
+steamworkshopmenu_loadselectedship              Cargar
+
+steamworkshopmenu_close                         Cerrar
+
+
+# =============================================================================
+# New Main Menu
+# =============================================================================
+
+newmainmenu_newgame                     NUEVA PARTIDA
+newmainmenu_loadgame                    CARGAR PARTIDA
+newmainmenu_savegame                    GUARDAR PARTIDA
+newmainmenu_settings                    OPCIONES
+newmainmenu_quit                        SALIR
+newmainmenu_abandon                     ABANDONAR PARTIDA
+newmainmenu_resume                      REANUDAR
+newmainmenu_chooseship                  CHOOSE STARTING SHIP
+newmainmenu_begingame                   COMENZAR PARTIDA
+newmainmenu_shipeditor                  MODO CREATIVO
+newmainmenu_editship                    EDITAR NAVE
+newmainmenu_loadship                    CARGAR NAVE
+newmainmenu_loadgamedev                 LOAD GAME (DEV)
+newmainmenu_createship                  CREAR NUEVA NAVE
+newmainmenu_createnewsave               CREAR NUEVO GUARDADO
+newmainmenu_exportship                  EXPORTAR NAVE
+newmainmenu_includedocked               INCLUDE DOCKED SHIPS IN EXPORT
+newmainmenu_uploadship                  SUBIR A STEAM
+newmainmenu_setshipname                 NOMBRAR NAVE
+newmainmenu_importhostile               IMPORTAR HOSTIL
+newmainmenu_importfriendly              IMPORTAR ALIADO
+newmainmenu_createnewexport             CREATE NEW EXPORT
+newmainmenu_createnewupload             CREATE NEW WORKSHOP ITEM
+newmainmenu_updateexistingupload        UPDATE EXISTING WORKSHOP ITEM
+newmainmenu_steamworkshop               STEAM WORKSHOP
+newmainmenu_uploadprogress              UPLOAD PROGRESS: *P %
+newmainmenu_quitmessage                 The Last Starship is coming to Early Access this Spring!\n\nThank you for playing the Demo of The Last Starship.\nIf you liked the game, please add it to your Steam Wish List so that you can hear about the game as soon as it has been released.
+newmainmenu_lockedindemo                LOCKED IN DEMO
+newmainmenu_multisystem_simulation      Enable Multi-system Simulation
+newmainmenu_debug_freespace             Enable FreeSpace Debugging
+
+shiplibrary_hullonly                    (HULL)
+
+scenario_funds                          FONDOS
+scenario_praxis                         A small science vessel with all necessary equipment for interstellar adventure, and provisioned with enough supplies for a small crew.
+scenario_sleek                          A more complex setup. A large and capable ship with plenty of room for upgrades, but all equipment and supplies must be purchased before embarking.
+scenario_innershapes                    Another large vessel well suited to combat and dangerous operations, with a fully armoured forward hull.
+scenario_largelogistics                 A modular and easily expanded ship design, ideal for interstellar logistics and mining operations. With cabin space for over 50 crew or passengers.
+scenario_carrierfrigate                 A community fuselage built by Zion - perfect for the violent pursuit of armed combat.
+scenario_shipyard                       Build your own ship!  The absolute minimum ship fuselage, but you are docked at a fully operational Shipyard with a generous starting budget.
+scenario_industry                       The Stargate Project demands your help! Industry and Automation take centre stage as you manufacture parts for a megaproject stargate to the Andromeda Galaxy.
+origin_official                         Official
+origin_community                        Community
+origin_user                             Hecho por Jugador/a
+origin_steam                            Subscribed on Steam Workshop
+origin_steamuser                        Uploaded to Steam Workshop
+
+# =============================================================================
+# HUD
+# =============================================================================
+
+debugbuildpanel_hull					Casco
+debugbuildpanel_scaffold				Andamio
+debugbuildpanel_interior				Interior
+debugbuildpanel_armour					Blindaje
+debugbuildpanel_cable					Cable
+debugbuildpanel_pipe					Tubería
+debugbuildpanel_equipment				Equipamiento
+debugbuildpanel_floor					Piso
+debugbuildpanel_habitation      		Habitation
+debugbuildpanel_wall					Pared
+debugbuildpanel_entity					Entity
+debugbuildpanel_damage					Daño
+debugbuildpanel_frame                   Frame
+
+save_warning_header                     ADVERTENCIA: Loading future save version
+save_warning_body                       You have loaded a game with a future save format, you may experience that some parts of the game do not work correctly
+
+hudmode_tactical						VISTA TACTICA
+hudmode_external						VISTA EXTERNA
+hudmode_multisystemsimulation           SIMULACION MULTISISTEMA
+
+hud_trade								Comercio
+hud_preparejump							Preparar Salto
+hud_abortjump							Abortar Salto
+hud_aligning							Alineando...
+hud_outofalignment                      Alineacion Falsa...
+hud_idle								En Espera
+hud_ready								LISTO
+hud_jump								SALTO
+hud_jumpnextsector						SALTAR AL SIGUIENTE SECTOR
+hud_ftlloading							Cargando...
+hud_ftlcharging  						Energizando...
+hud_ftlcooldown							Cooldown...
+hud_ftl									Motor FTL
+hud_ftlincluded                         Jump
+hud_ftlexcluded                         Stay
+hud_noftl								NO SE HA ENCONTRADO MOTOR FTL
+hud_ftlnodestination					SIN PUNTO DESTINO
+hud_ftlwaiting                          Esperando...
+hud_debugbuild                          Debug
+hud_endcreativemode                     El Modo Creativo terminará
+hud_endcreativemode2                    Cuando saltes al Hiperespacio
+hud_endcreativemodewarning              SALIENDO DEL MODO CREATIVO
+hud_endcreativemodefull                 El Modo Creativo terminará cuando saltes al Hiperespacio
+hud_hyperspace                          HYPERESPACIO
+
+hud_direction_up                        Babor
+hud_direction_right                     Proa
+hud_direction_down                      Estribor
+hud_direction_left                      Popa
+hud_camerattracking                     Seguimiento de Camara
+hud_enabled                             Activado
+hud_disabled                            Desactivado
+
+hud_window_construction                 CONSTRUCCION
+hud_window_designation					DESIGNATION
+hud_window_shipyard                     ASTILLERO
+hud_window_trade                        COMERCIO
+hud_window_missions						CONTRATOS
+hud_window_power                        POWERGRID
+hud_window_logistics                    LOGISTICA
+hud_window_ftl                          FTL
+hud_window_sectormap					MAPA DEL SECTOR
+hud_window_score                        PUNTUACION
+hud_window_editor                       EDITOR
+hud_window_stargate                     PUERTA ESTELAR
+hud_window_techtree                     INVESTIGACION
+hud_window_storage                      ZONAS DE ALMACENADO
+
+hud_scoresystem_population              Poblacion
+hud_scoresystem_sectorjump              Sector Jump
+
+hud_overlays							OVERLAYS
+hud_overlay_cables                      Cables
+hud_overlay_pipes                       Tuberias
+hud_overlay_walls                       Paredes
+hud_overlay_atmosphere                  Atmosfera
+hud_overlay_exterior                    Exterior
+hud_overlay_habitation					Habitation Deck
+hud_overlay_jobs						Trabajos
+hud_overlay_structure                   Estructura
+hud_overlay_schematic                   Schematic
+hud_overlay_creativemode                - Creative Mode -
+
+hud_doors								CONPUERTAS
+hud_doors_openall						Abrir Todas
+hud_doors_closeall						Cerrar Todas
+hud_doors_openvents						Rejillas de Ventilacion Abiertas
+hud_doors_closevents					Rejillas de Ventilacion Cerradas
+
+hud_orders								ORDENES
+hud_install                             Instalar
+hud_uninstall							Desmantelar
+hud_status_allocated					Asignado
+hud_status_inprogress					En Progreso
+hud_storage								Zonas de
+hud_zones								Almacenaje
+hud_storage_cargo						CUALQUIER CARGA
+hud_storage_equipment				    CUALQUIER EQUIPAMIENTO
+hud_storage_component                   CUALQUIER COMPONENTE
+hud_editor                              EDITOR
+
+hud_shipyard                            Astillero
+hud_shipyard_buildhull					Construir Estructura
+hud_shipyard_buildinterior				Construir Interior
+hud_shipyard_buildarmour				Instalar Blindaje 
+hud_shipyard_buildscaffold				Construir Andamios
+hud_shipyard_buildhabitation            Añadir Superficie Habitable
+hud_shipyard_buildrepairone             Reparar 100 Daño
+hud_shipyard_buildrepairall             Reparar TODO el Daño
+hud_shipyard_buildbuyfromlibrary        Comprar Nave
+hud_shipyard_selectship                 Seleccionar una Nave
+
+hud_tooltip_leftclickplace              [LMB] Ubicar
+hud_tooltip_leftclickbuild              [LMB] Construir
+hud_tooltip_leftclickdismantle          [LMB] Desmantelar
+hud_tooltip_leftclickresearch           [LMB] Investigar
+hud_tooltip_rightclickcancel            [RMB] Cancelar
+hud_tooltip_rightclickclear             [RMB] Clear
+hud_tooltip_rightclickdelete            [RMB] Delete
+hud_tooltip_rightclickpurge             [RMB] Purgar
+hud_tooltip_leftclickchangerecipe       [LMB] Ciclar receta
+hud_tooltip_rightclickconfigure         [RMB] Configurar
+hud_tooltip_rotate                      [R] Rotar
+hud_tooltip_boxed                       [BOXED]
+hud_tooltip_charge                      Charge
+hud_totalproduction                     PRODUCCION TOTAL
+
+hud_mission_collection                  COLECCION PARA MISION EN PROGRESO
+
+hud_layer_hostile                       HOSTIL
+hud_layer_derelict                      DERELICTO
+hud_layer_forsale                       [EN VENTA]
+
+hud_trade_incoming                      TRADE INCOMING
+hud_trade_owed                          TRADE OWED
+hud_drones_deployed                     ADVERTENCIA - DRONES DESPLEGADOS: *X
+hud_spacewalking_crew                   ADVERTENCIA - TRIPULANTES EN EL ESPACIO: *X
+
+hud_invalidplacement                    UBICACION INVALIDA
+hud_invalidplacement_tooltip            Este equipo no puede funcionar correctamente debido a su posicion actual.
+
+communicator_incomingcall               LLAMADA ENTRANTE...
+
+# =============================================================================
+# Welfare
+# =============================================================================
+
+welfare_overlay_severely_dehydrated     TRIPULACION SEVERAMENTE DESHIDRATADA
+welfare_overlay_dehydrated              TRIPULACION DESHIDRATADA
+welfare_overlay_thirsty                 TRIPULACION SEDIENTA
+
+welfare_overlay_famished                TRIPULACION SEVERAMENTE HAMBRIENTA
+welfare_overlay_starving                TRIPULACION MUY HAMBRIENTA
+welfare_overlay_hungry                  TRIPULACION HAMBRIENTA
+
+# =============================================================================
+# Equipment
+# =============================================================================
+
+equipment_temperature_short             TEMP
+equipment_power                         ENERGÍA
+equipment_output                        OUTPUT
+equipment_blocked                       BLOQUEADO
+
+equipment_factory_stop                  PARAR
+equipment_factory_stopped               PARADO
+equipment_factory_refine                Refinar *X
+equipment_factory_make                  Producir *X
+
+equipment_robotarm_nopickup		        SELECCIONAR TIPO
+equipment_robotarm_pickupnone		    NINGUNO
+equipment_robotarm_forcedrop			FORCE DROP
+
+equipment_weaponsconsole_noselection       SELECCIONAR ARMAMENTO
+equipment_weaponsconsole_deselect          NINGUNO
+equipment_weaponsconsole_locked            SLOT *X BLOQUEADO
+equipment_weaponsconsole_extradescription  *X Armas Conectadas
+equipment_weaponsconsole_connected         Controlado por Consola de Armamento
+
+factory_stockpileoutput                 STOCKPILE
+factory_stockpileoutput_tooltip         STOCKPILE\n\nWhen ticked, the produced items will be immediately unloaded into any cargo storage area, stockpiling the item.\n\nIf unticked, the produced item will remain until it is used somewhere, or until there is specific cargo space available.
+
+        
+# =============================================================================
+# Ship Editor
+# =============================================================================
+
+shipeditor_commit                       CONFIRMAR
+shipeditor_shipyardrequired1            Debes estar en un Astillero
+shipeditor_shipyardrequired2            para aplicar las modificaciones
+shipeditor_mode_hull                    Casco
+shipeditor_tooltip_hull                 Modifica la forma del Casco de tu nave
+shipeditor_mode_interior                Pisos
+shipeditor_tooltip_interior             Abre el interior de tu nave para crear cabinas.
+shipeditor_mode_walls                   Paredes
+shipeditor_tooltip_walls                Construye paredes dentro de tu nave para particionar el espacio interior
+shipeditor_mode_armour                  Blindaje
+shipeditor_tooltip_armour               Mejora tu Casco con blindaje para poder absorber mas daño
+shipeditor_mode_habitation              Habitacion
+shipeditor_tooltip_habitation           Expande tu espacio habitable para tener mas tripulacion y pasajeros
+shipeditor_mode_scaffold                Andamios
+shipeditor_tooltip_scaffold             Añade andamiaje para soportar equipamiento en el exterior de tu nave
+shipeditor_mode_dock                    Dock
+shipeditor_tooltip_dock                 Install a docking port. Every ship needs at least one functioning docking port.
+shipeditor_mode_deconstruct             Destruir
+shipeditor_tooltip_deconstruct          Deconstruye tu nave bloque por bloque
+shipeditor_mode_createship              Crear Nave
+shipeditor_tooltip_createship           Crea una nueva Nave completamente desde cero
+shipeditor_mode_spawn                   Spawn
+shipeditor_tooltip_spawn                Spawn equipment and resources inside your ship. (Creative Mode only)
+shipeditor_brush_freehand               FREEHAND
+shipeditor_brush_box                    BOX TOOL
+shipeditor_price_button                 Cost
+
+shipeditor_stat_Mass                    Masa
+shipeditor_stat_Toughness               Resistencia
+shipeditor_stat_Capacity                Capacidad
+shipeditor_stat_Value                   Valor Monetario
+
+shipeditor_symmetry                     SYMETRÍA
+shipeditor_symmetry_short               S
+shipeditor_symmetry_leftclickdrag       [LMB] Arrastrar
+shipeditor_symmetry_rightclicktoggle    [RMB] Toggle
+
+    
+# =============================================================================
+# Interstellar Travel 
+# =============================================================================
+
+interstellar_travel						NAVEGACION INTERESTELAR
+
+galaxymap_title							SECTOR MAP
+galaxymap_entrysystem					Llegada
+galaxymap_exitsystem					Al Siguiente Sector
+galaxymap_fleet							FLOTA
+galaxymap_unreachable					INALCANZABLE
+galaxymap_civilians                     CIVILES
+galaxymap_noescape						SIN ESCAPE
+galaxymap_colony						COLONIA
+galaxymap_starbase						BASE ESTELAR
+galaxymap_shipyard						SHIPYARD
+galaxymap_distresscall					LLAMADA DE AUXILIO
+galaxymap_derelict						DERELICT
+galaxymap_hostile                       HOSTILES
+galaxymap_objectives                    CONTRATOS DE SECTOR
+galaxymap_comet                         COMETA
+sector_start                            HOME SECTOR
+
+galaxymap_endof                         END OF
+galaxymap_demo                          DEMO
+galaxymap_playtest                      PLAYTEST
+
+
+# =============================================================================
+# Power Grid
+# =============================================================================
+
+powergrid_title							POWER GRID
+powergrid_power                         ENERGÍA
+powergrid_category_reactor              REACTOR
+powergrid_category_battery              BATERÍA
+powergrid_category_engines              MOTORES
+powergrid_category_FTL                  FTL
+powergrid_category_weapons              ARMAMENTO
+powergrid_category_defenses             DEFENSAS
+powergrid_category_lifesupport          SOPORTE VITAL
+powergrid_category_logistics			LOGISTICA
+powergrid_category_science   			CIENCIA
+powergrid_category_other                OTROS
+
+
+# =============================================================================
+# Trade
+# =============================================================================
+
+trade_title                             COMERCIO
+trade_category_equipment                Equipamiento
+trade_category_resource                 Recurso
+trade_category_reagent                  Reagent
+trade_cash                              Dinero
+trade_confirm                           CONFIRMAR
+trade_buy                               COMPRAR
+trade_sell                              VENDER
+trade_cannot                            CANNOT
+trade_afford                            AFFORD
+trade_cannot_afford                     CANNOT AFFORD
+trade_cost                              Costo
+trade_cost_price                        Costo: *X
+trade_profit                            Beneficios
+trade_showoutofstock                    Show out of stock
+
+trade_overlay_price                     PRECIO
+trade_overlay_them                      ELLOS
+trade_overlay_you                       TU
+trade_overlay_boxed                     [boxed]
+
+trade_window_Energy                     Energía
+trade_window_Propulsion                 Propulsion
+trade_window_Habitation                 Habitation
+trade_window_Defense                    Defensa
+trade_window_Industry                   Industria
+trade_window_Logistics                  Logistica
+trade_window_Science                    Ciencia
+trade_window_Resources                  Recursos
+trade_window_Components                 Componentes
+trade_window_Crew                       Tripulacion
+
+trade_equipment_size                    - Size *X x *Y
+trade_equipment_rotatable               - Rotatable
+trade_equipment_powered                 - Powered
+trade_equipment_charge                  - Charge (per use) : *X MW
+trade_stack                             Stack of *X
+trade_boxed                             En Caja
+trade_component                         Componente
+trade_sell_ship                         VENDER NAVE
+
+trade_allitems                          ALL ITEMS
+
+trade_tooltip_buy                       [LMB] Comprar
+trade_tooltip_sell                      [LMB] Vender
+trade_tooltip_cancel                    [RMB] Cancelar
+trade_tooltip_shift                     [SHIFT] x5
+trade_ourstock                          Tu tienes *X a bordo
+trade_buying                            Comprando *X
+trade_selling                           Vendiendo *X
+trade_tooltip_canceltrade               [LMB] Cancelar
+trade_tooltip_cancelalltrade            [RMB] Cancelar Todos
+
+trade_profit                            *X BENEFICIO
+trade_cost                              COSTO *X
+trade_cash                              DINERO *x
+
+
+# =============================================================================
+# Tech Tree
+# =============================================================================
+
+techtree_title                          RESERACH
+techtree_researched                     INVESTIGADO
+techtree_available                      DISPONIBLE
+techtree_unavailable                    REQUERIMIENTOS NO CUMPLIDOS
+techtree_in_progress                    INVESTIGACION EN CURSO
+techtree_busy                           LOS CIENTIFICOS ESTAN OCUPADOS
+techtree_cost_RP                        Coste: *X RP
+techtree_cost_CP                        Coste: *X CP
+techtree_cost_RP+CP                     Coste: *X RP + *Y CP
+techtree_currentResearch                Investigando Actualmente:
+techtree_researchPoints                 Puntos de Investigacion:
+techtree_computationPoints              Puntos de Computacion:
+techtree_rewards                        Recompensas:
+techtree_unlocks                        Desbloquea:
+techtree_boosts                         Empuje de Performance:
+techtree_blueprint                      Blueprint
+techtree_deselect                       Deseleccionar
+techtree_accept                         Empezar Desarrollo
+techtree_warning                        ADVERTENCIA!
+techtree_lose_progress                  Empezar un nuevo projecto de Investigacion borrara el progreso de el projecto actual
+techtree_missing_equipment              Este projecto de Investigacion requiere de un *X para ser completado
+
+techtree_node_title_FluidLogistics1              Logisticas de Fluidos Nivel 1
+techtree_node_caption_FluidLogistics1            Desbloquea los planos del Tanque Pequeño
+techtree_node_title_FluidLogistics2              Logisticas de Fluidos Nivel 2
+techtree_node_caption_FluidLogistics2            Desbloquea los planos del Tanque Mediano
+techtree_node_title_FluidLogistics3              Logisticas de Fluidos Nivel 3
+techtree_node_caption_FluidLogistics3            Desbloquea los planos del Tanque Grande
+techtree_node_title_Automation                   Automatizacion Industrial
+techtree_node_caption_Automation                 Desbloquea los planos del Brazo Robotico y la Cinta Transportadora
+techtree_node_title_CompactAutomation            Automatizacion Conpacta
+techtree_node_caption_CompactAutomation          Desbloquea los planos del Brazo Robotico Corto
+techtree_node_title_SmartAutomation              Automatizacion Inteligente
+techtree_node_caption_SmartAutomation            Desbloquea los planos del Brazo Robotico Inteligente
+techtree_node_title_Metallurgy1                  Metalurgia Level 1
+techtree_node_caption_Metallurgy1                Alto Hornos producen un 20% mas
+techtree_node_title_Metallurgy2                  Metalurgia Level 2
+techtree_node_caption_Metallurgy2                Alto Hornos producen un 40% mas
+techtree_node_title_EnergyTransmission           Transmision de Energía
+techtree_node_caption_EnergyTransmission         Desbloquea los planos del Transmisor y el Receptor de Energía
+techtree_node_title_WeaponsConsoleExtraSlot1     Consola Armamentistica Espacio Extra
+techtree_node_caption_WeaponsConsoleExtraSlot1   La consola de Armas ahora puede conectar con 3 armamentos a la vez
+techtree_node_title_WeaponsConsoleExtraSlot2     Consola Armamentistica Espacio Extra
+techtree_node_caption_WeaponsConsoleExtraSlot2   La consola de Armas ahora puede conectar con 4 armamentos a la vez
+boost_SmelterEfficiency                 Smelter Efficiency +*X%
+special_WeaponsConsoleSlot3             Weapons Console 3rd Slot
+special_WeaponsConsoleSlot4             Weapons Console 4th Slot
+
+techtree_editor_save                    GUARDAR CAMBIOS
+techtree_editor_reset                   RELOAD TREE
+techtree_award_title                    INVESTIGACION COMPLETADA
+award_rewards                           Recompensas
+
+# =============================================================================
+# Tactical Window
+# =============================================================================
+
+tactical_docked                         --- DOCKED ---
+tactical_undock                         UNDOCK
+tactical_throttle                       ACELERADOR
+tactical_detach_all                     DESACOPLAR TODO
+tactical_velocity                       VELOCIDAD
+tactical_evasion                        EVASION
+tactical_weapons                        ARMAS
+tactical_fire                           FUEGO
+tactical_hold                           AGUANTAR
+tactical_maneuvering                    MANIOBRA
+tactical_damaged                        DAÑADO
+tactical_reloading                      RECARGANDO
+tactical_lowpower                       ENERGÍA BAJA
+
+# =============================================================================
+# Logistics Window
+# =============================================================================
+
+logisticswindow_title                   LOGISTICA
+
+logistics_tooltip_transfer              [LMB] Transfer 1 from *X
+
+
+# =============================================================================
+# Missions / Contracts
+# =============================================================================
+
+missions_title							CONTRACTS
+mission_accept							Aceptar
+mission_accepted						Aceptado
+mission_acceptonlayer                   Aceptar y asignar a *X
+mission_assignedtolayer                 Aceptado y asignado a L*X
+mission_cannotassigntolayer             No se puede asignar a *X
+
+mission_episode_1                       EPISODIO 1
+mission_deliver							Entregar
+mission_turnin							Completar el Contrato
+mission_completed						COMPLETADO
+mission_missioncompleted                CONTRATO COMPLETADO
+mission_paymenttitle                    Pago
+mission_paymentcash                     PAGO *X
+mission_payment							Payment will be $*X.
+mission_paymentinflation                (El cliente ofrece *Xx mas dinero de lo usual)
+mission_paymentinflationpercent         (El cliente ofrece *X% mas dinero de lo usual)
+mission_contractcompleted				Contrato Completado
+mission_cannotaccept                    No puedes aceptar esta mision
+mission_special                         Mision Especial
+mission_new                             NUEVO
+mission_illegal                         ACTIVIDAD ILEGAL
+mission_assignedto                      (Assigned to *X)
+
+mission_requires_equipment              Contrato requiere Equipamiento : *X
+mission_requires_stock                  Contrato requiere *X
+mission_requires_combatvessel           Contrato requiere una nave con armamento
+mission_requires_cabinspace             Contrato requiere al menos *X cabinas libres 
+mission_requires_combatrating           Necesitas un Rating de Combate de al menos *X
+mission_requires_industryrating         Necesitas un Rating de Industria de al menos *X
+mission_requires_logisticsrating        Necesitas un Rating de Logistica de al menos *X
+mission_requires_humanitarianrating     Necesitas un Rating Humanitario de al menos *X
+mission_requires_notindemo              No disponible para jugadores de la Demo
+mission_difficulty                      Esta mision ha sido asignada una difcultad de *X.
+
+mission_requirement_passed              [PASADO]
+mission_requirement_failed              [FALLIDO]
+
+mission_type_delivery					Delivery
+mission_delivery_title					Courier mission: Llevar carga a otro sistema
+mission_delivery_titlefurther			Llevar carga a otro sector
+mission_delivery_description			Tengo *X cajas de suministros que necesitan ser entregadas.
+mission_delivery_descriptionfurther		Su destino esta a *Y Saltos de Sector de distancia, en el Sector *X.
+mission_delivery_destination			Su destino esta en este sector, en el sistema estelar *X.
+mission_delivery_timed                  Esta carga es requerida de inmediato. Solo tendrás *X minutos. (+50% pago)
+mission_delivery_timeremaining          Solo le quedan *X segundos para hacer la entrega!
+mission_delivery_outoftime              Es demasiado tarde - ya no se te pagara por el cargamento restante.
+mission_delivery_shuttle				Un transbordador esta en camino hacia usted con el cargamento.
+mission_delivery_delivery				Entregados *X de *Y objetos.
+mission_delivery_alldelivered			Todo el cargamento esta a bordo. Buena Suerte.
+mission_delivery_turnin					Un transbordador esta en camino para recojer la carga.
+mission_delivery_received				Recibidos *X de *Y objetos. Pago total debido $*Z.
+mission_delivery_toolate                Recibidos *X de *Y objetos, pero el tiempo limite ha expirado.
+mission_delivery_lost                   Los restantes *X objetos de cargo no han llegado.
+mission_delivery_wrongdestination       Parte del cargamento ha sido entregado a un destino equvocado. No se le pagara.
+mission_delivery_success                Entregados *X de *Y objetos
+
+mission_type_passengers					Transporta pasajeros
+mission_passengers_title				Urgente pedido de transporte de pasajeros
+mission_passengers_titlefurther			Pasajeros requieren transporte a traves de sectores
+mission_passengers_description			Hay un grupo de *X civiles que estan en busca de transito seguro.
+mission_passengers_descriptionfurther	Su destino esta a *Y Saltos de Sector de distancia, en el Sector *X.
+mission_passengers_destination			Su destino esta en este sector. Dejalos en el sistema estelar *X.
+mission_passengers_requirements         Tu nave necesitara suficientes cabinas libres en tu habitation deck.
+mission_passengers_shuttle				Estan de camino hacia usted y el transbordador atracara con su nave pronto.
+mission_passengers_delivery				*X de *Y pasajeros estan a bordo.
+mission_passengers_alldelivered			Ya está, todos los pasajeros estan a bordo de su nave. Viajes seguros comandante.
+mission_passengers_turnin				Bienvenidos! Hemos enviado un transbordador para recojer los pasajeros.
+mission_passengers_received				*X pasajeros de *Y han llegados seguros a su destino. Pago total debido $*Z.
+mission_passengers_lost                 *X pasajeros no llegaron a su destino de manera segura.
+mission_passengers_wrongdestination     Has dejado a los pasajeros en el lugar equivocado! No se te pagara por su viaje.
+mission_passengers_success              Transportados *X de *Y pasajeros
+
+mission_type_refugees                   Refugiados
+mission_refugees_title                  Toma el cuidado de refugiados permanentes
+mission_refugees_description            Tenemos *X civiles viviendo aquí que no tienen ningun lugar a donde ir, y ninguna manera de escapar la anomaía antes de que llegue aquí.
+mission_refugees_description2           Encuentra un lugar para ellos en tu flota, cuida de ellos, y estaremos en eterna gratitud.
+mission_refugees_requirements           Tu nave necesitara suficientes cabinas libres en tu habitation deck.
+mission_refugees_alldelivered			Todos los refugiados estan a bordo. Te deseamos la mejor de las suertes, comandante.
+mission_refugees_received               *X de *Y pasajeros estan a bordo. Pago total $*Z.
+
+mission_type_rescue                     Rescate
+mission_rescue_title                    Rescata civiles de una nave varada
+mission_rescue_description1             Una nave se a varado debido a severos problemas mecanicos, y la tripulacion necesita de rescate inmediato.
+mission_rescue_description2             La nave dañada esta en el sistema *X. Apresuraté!
+mission_rescue_description2b            La nave esta en el siguiente sector.
+mission_rescue_description3             Hay *X tripulantes a bordo, y deben ser llevados de manera segura a una estacion o colonia cercana.
+mission_rescue_timed                    Los motores de la nave van a estallar en poco tiempo. (+25% pay).
+mission_rescue_meteors                  Hay reportes de una lluvia de meteoros en el areá. (+25% pay).
+mission_rescue_thrust                   La nave esta en movimiento - necesitaras un poco de habilidad para atracar de manera segura. (+25% pay)
+mission_rescue_spin                     La nave esta girando descontroladamente. Sera desafiante atracar con ella. (+25% pay)
+mission_rescue_hostiles                 Hay fuerzas hostiles en el area. (+50% pay)
+mission_rescue_requirements             Requeriras de propulsores de maniobra para atracar exitosamente con la nave varada.
+mission_rescue_accepted                 Hemos marcado la pocision de la nave civil en tu mapa. Por favor Apresuraté!
+mission_rescue_rescued                  *X tripulantes de *Y han sido rescatados y estan a bordo.
+mission_rescue_allrescued               Toda la tripulacion ha sido rescatada de la nave! Dejalos en la Colonia o Base Estelar mas cercana.
+mission_rescue_received                 *X tripulantes de *Y han llegado seguros. Pago total debido $*Z.
+mission_rescue_lost                     *X tripulantes no llegaron a salvo.
+mission_rescue_timer                    El reactor de la nave va a estallar en *X segundos!!
+
+mission_type_combat                     Combate
+mission_combat_title_mines              Despejar peligroso Campo Minado
+mission_combat_title_roguefighters      Ataca y destruye cazas rebeldes 
+mission_combat_title_pirategang         Neutralizar banda pirata
+mission_combat_title_armouredthugs      Erradicar ladrones armados
+mission_combat_title_mercenarystation   Destruye plataforma militarizada mercenaria hostil
+mission_combat_title_communityships     Ataca y destruye banda pirata hostil
+mission_combat_description1             Hay una pequeña flota de Naves Hostiles operando ilegalmente en un sistema estelar en este sector.
+mission_combat_description2             Ellos han estad acosando a las naves humanitarias y de comercio por demasiado tiempo. No lo aceptaremos mas.
+mission_combat_description3             Viaja al sistema, enfrentalos en combate y destruyelos.
+mission_combat_requirements             Requeriras de una nave armada para aceptar esta mision.
+mission_combat_piratecount              Reportes sugieren que hay *X naves en la flota hostil, escondiendose en el sistema *Y.
+mission_combat_mines_description1       Fuerzas Piratas han creado un peligroso campo minado en medio de una concurrida ruta comercial.
+mission_combat_mines_description2       Su objetivo parece ser deshabilitar cualquier nave comercial que se acerque, para luego robar toda carga de valor que lleven.
+mission_combat_mines_description3       Viaja al sistema y despeja el campo minado, antes de que las fuerzas pirata aparezcan.
+mission_combat_mines_requirement        Necesitaras un sistema de armas para destruir las minas desde una distancia segura.
+mission_combat_accept                   Hemos marcado la ubicacion de las fuerzas hostiles en tu mapa. Buena caza.
+mission_combat_attacknow                Has localizado las fuerzas hostiles! Destruyelos de inmediato.
+mission_combat_destroyed                Has destruido *X hostiles de un total de *Y
+mission_combat_alldestroyed             Todas las fuerzas hostiles han sido destruidas. Pago total $*X.
+mission_combat_failure                  Las fuerzas hostiler restantes han escapado.
+mission_combat_success                  Destruidos *X/*Y Hostiles
+mission_combat_location                 Las naves hostiles estan localizadas en el sistema *X.
+
+mission_type_industry                   Minería de Asteroides
+mission_industry_title                  Contrato Minero: Extraer minerales criticos
+mission_industry_refined_title          Extraer y refinar recursos criticos
+mission_industry_description            Hay una enorme demanda para Celulas de Combustible FTL, para alimentar las naves de evacuacion.
+mission_industry_description2           Podemos producir las Celulas FTL, pero necesitamos Tilium ore que solo puede encontrarse en ciertos cinturones de asteroides.
+mission_industry_description3           Afortunadamente hay uno de tales cinturones cerca, dentro de este sector, en el sistema *X.
+mission_industry_description3b          El cinturon de asteroides mas cercano se encuentra en el siguiente sector. 
+mission_industry_tiliumrequired         Viaja al cinturon de asteroides y extrae *X Tilium ore.
+mission_industry_refinedrequired        Luego refina el mineral obtenido en un Smelter.
+mission_industry_description4           Luego deposita el producto en cualquier puesto comercial para obtener tu pago.
+mission_industry_requirements           Este contrato requiere de una nave adecuada, equipada con Laseres de Mieria y Drones Logisticos.
+mission_industry_accepted1              Hemos marcado la ubicacion del cinturon de asteroides en tu mapa.
+mission_industry_gathered               Tienes *X Tilium ore en esta nave (Necesitamos *Y)
+mission_industry_received               Hemos recibido *X Tilium de un total de *Y. Pago total debido $*Z.
+mission_industry_meteorshower           ADVERTENCIA: Existen reportes de una lluvia de meteoritos en ese sistema. (+50% pay).
+mission_industry_hostiles               ADVERTENCIA: Existen fuerzas hostiles acampando cerca del cinturon de asteroides. (+50% pay)
+mission_industry_refined                ==> El Tilium debe primero ser refinado en un Smelter antes de la entrega. <==
+mission_industry_shuttle                Hemos enviado un transbordador a recolectar el Tilium Ore.
+mission_industry_lost                   No hay mas Tilium a bordo de tu nave.
+mission_industry_success                Extraido *X/*Y Ore
+
+mission_type_production                 Produccion
+mission_production_title                Contrato de Produccion: Manufacture resources
+mission_production_description1         Tenemos un urgente requerimiento para *X stacks de R*Y.
+mission_production_description2         Puedes elegir producir el producto usando materiales crudos, o adquirirlo a traves de otros medios.
+mission_production_marketprice          El precio de mercado de estos objetos sería $*X.
+mission_production_markup               (Estamos ofreciendo un *X% sobre precio de mercado debido a la urgencia).
+mission_production_available            Tu tienes *X stacks de R*Y disponible para transferir en tu flota (Necesitamos *Z)
+mission_production_received             Hemos recibido *X stacks de R*Y , de un total de *Z. 
+mission_production_nomore               No hay mas R*X disponible en tu flota.
+mission_production_success              Provistos *X/*Y objetos
+        
+mission_type_SectorDestroy              Destruye Fuerzas Hostiles
+mission_sectordestroy_title             OBJECTIVO DE SECTOR: Destruye todas las fuerzas hostiles
+mission_sectordestroy_system            Has destruido las fuerzas hostiles en el sistema *X. Un pago de $*Y va en camino.
+mission_sectordestroy_progress          Despejados *X de *Y sistemas
+mission_sectordestroy_desc1             Fuerzas hostiles han tomado residencia dentro de este sector. Estan entorpeciendo nuestros esfuerzos de evacuacion robandonos vitales recursos.
+mission_sectordestroy_desc2             Queremos que visites cada ubicacion marcada con HOSTILES en el mapa.
+mission_sectordestroy_desc3             Aniquila todas las naves enemigas que encuentres en esas ubicaciones.
+mission_sectordestroy_payment           Un pago de $*X se te concedera por cada sistema, para un posible total de $*Y.
+mission_sectordestroy_map               Destruye los Hostiles [*X/*Y]
+mission_sectordestory_success           HOSTILES ELIMINADOS
+
+mission_type_SectorRescue               Rescate (Sector)
+mission_sectorrescue_title              OBJETIVO DE SECTOR: Rescata a los civiles de su nave dañada
+mission_sectorrescue_description1       Investiga una llamada de auxilio en el sistema *X.
+mission_sectorrescue_thrusters          NB. YOU WILL NEED THRUSTERS TO MANOEUVRE INTO POSITION.
+mission_sectorrescue_timed              Los motores de la nave van a estallar en poco tiempo. (+25% pay).
+mission_sectorrescue_meteors            Hay reportes de una lluvia de meteoros en el areá. (+25% pay).
+mission_sectorrescue_thrust             La nave esta en movimiento - necesitaras un poco de habilidad para atracar de manera segura. (+25% pay)
+mission_sectorrescue_spin               La nave esta girando descontroladamente. Sera desafiante atracar con ella. (+25% pay)
+mission_sectorrescue_hostiles           Hay fuerzas hostiles en el area. (+50% pay)
+mission_sectorrescue_requirements       Requeriras de propulsores de maniobra para atracar exitosamente con la nave varada.
+mission_sectorrescue_accepted           Hemos marcado la pocision de la nave civil en tu mapa. Por favor Apresuraté!
+mission_sectorrescue_rescued            *X tripulantes de *Y han sido rescatados y estan a bordo.
+mission_sectorrescue_allrescued         Toda la tripulacion ha sido rescatada de la nave! Dejalos en la Colonia o Base Estelar mas cercana.
+mission_sectorrescue_received           *X tripulantes de *Y han llegado seguros. Pago total debido $*Z.
+mission_sectorrescue_lost               *X tripulantes no llegaron a salvo.
+mission_sectorrescue_timer              El reactor de la nave va a estallar en *X segundos!!
+mission_sectorrescue_map_initial        Investiga Llamada de Auxilio
+mission_sectorrescue_map                Individuos rescatados [*X/*Y]
+mission_sectorrescue_awardcaption       *X Individuos rescatados.
+mission_sectorrescue_success            RESCATE COMPLETADO
+
+
+mission_type_sectorevacuate             Evacua el Sector
+mission_sectorevacuate_title            OBJETIVO DE SECTOR: Evacua los civiles varados
+mission_sectorevacuate_description      Hay *X civiles varados en este sector, sin ninguna manera de escapar la catastrofe que se acerca.
+mission_sectorevacuate_description2     Viaja a sus sistemas estelares y recojelos, proporcionales un refugio temporal en tu flota.
+mission_sectorevacuate_description3     Transportalos de manera segura hasta el siguiente sector y dejalos en la primera estacion estelar para completar el objetivo.
+mission_sectorevacuate_requirements     Tu nave necesitara suficientes cabinas libres en tu habitation deck.
+mission_sectorevacuate_requirements2    (Puedes expandir tu espacio habitable en un Astillero usando el Editor de Naves)
+mission_sectorevacuate_payment          El pago total por rescatar todos los *X civiles sera de $*Y
+mission_sectorevacuate_received         *X de *Y civiles han sido recojidos.
+mission_sectorevacuate_died             *X civiles han muerto durante la evacuacion.
+mission_sectorevacuate_arrived          *X pasajeros de *Y han llegados seguros a su destino. Pago total debido $*Z.
+mission_sectorevacuate_lost             *X pasajeros no llegaron a su destino de manera segura.
+mission_sectorevacuate_finished         Gracias por sus esfuerzos comandante.
+mission_sectorevacuate_map              Evacua a los Civiles [*X/*Y]
+
+scienceobjective_title                  MISION ESPECIAL: ANALIZA LA ANOMALÍA
+scienceobjective_description1           Necesitamos mas datos para poder entender lo que es esta Anomalía.
+scienceobjective_description2           Y no tenemos posibilidad de detener a la Anomalía hasta que la comprendamos.
+scienceobjective_description3           Si puedes acumular suficiente datos para nosotros, creemos tener una buena chance de diseñar una manera para contraarrestar la Anomalía.
+scienceobjective_accepted1              Hemos diseñado un paquete de sensores personalizado que nos dara la informacion que necesitamos.
+scienceobjective_accepted2              Un transbordador esta de camino hacia usted con dos de estos sensores. 
+scienceobjective_receivedsensors1       Ambos sensores estan a bordo de su nave. Necesita instalarlos.
+scienceobjective_installsensors         Instala los sensores en tu nave (*X/2)
+scienceobjective_installsensors2        Aseguraté de que los sensores tienen energía y estan operativos
+scienceobjective_sensorsinstalled       Sensores Instalados
+scienceobjective_usesensors1            Estos sensores obtendran datos de la Anomalía mientras usted esta en el Hyperespacio.
+scienceobjective_usesensors2            Cuanto mas cerca usted pueda hypersaltar con respecto a la Anomalía, mas rapido podra obtener datos.
+scienceobjective_capturedata            Has capturado *X Datos de la Anomalía.
+scienceobjective_successbonus           Capturados *X Datos. Bono monetario $*Y.
+scienceobjective_nextbonus              Siguente bono por *X Datos capturados : $*Y.
+scienceobjective_scientist              Instituto de Investigacion
+scienceobjective_funding                Podemos enviarle fondos de investigacion a medida que capture datos. Capture 10 datos de la Anomalía y enviaremos el primer paquete de fondos.
+scienceobjective_award                  SCIENCE AWARD
+scienceobjective_success                Capturados *X Datos
+
+scienceobjective_milestone1a            Hemos recibido los datos preliminares de sus sensores. Fascinante! Parece que la Anomalía se esta expandiendo, y la velocidad a la que se expande esta aumentando.
+scienceobjective_milestone1b            Acabamos de pagarle un bono Scientifico de $10,000. Capture 100 datos para recibid mas fondos. Lo mas cerca que vuele de la Anomalía, lo mas rapído que los sensores obtendran datos.
+scienceobjective_milestone2a            Hemos recibido 100 paquetes de datos de sus sensores, Gracias. Estos datos son invaluables para nosotros.
+scienceobjective_milestone2b            Acabamos de enviarle otros $100,000.  El siguiente bono sera de $1 Millon por 1000 datos de senor.  Usted puede comprar mas sensores Hyperespaciales en colonias y bases estelares.
+scienceobjective_milestone3a            Sus sensores han ahora capturado 1000 datos de la Anomalía. Tenemos a nuestras mejores mentes trabajando en una solucion y tus datos han sido invaluables.
+scienceobjective_milestone3b            Estamos enviando un pago de $1M hacia usted ahora.  Sigua haciendo lo que hace! Mas fondos se le proporcionaran cuando capture 10,000 datos.
+scienceobjective_milestone4a            10,000 datos cientificos recibidos. Pago de $10M.
+scienceobjective_milestone4b            Siguiente bono monetario en 100,000 datos cientificos.
+
+evacuationobjective_title               MISION ESPECIAL: EVACUACION
+evacuationobjective_description1        Algunos de nuestros cientificos no creen que el colapso de vacio pueda jamas ser detenido.
+evacuationobjective_description2        Si esto es verdad, entonces billones de civiles necesitaran ser evacuados de sus planetas.
+evacuationobjective_description3        Nunca en la historia ha habido una evacuacion de esta escala y magnitud.
+evacuationobjective_description4        Y ni siquiera sabemos donde podemos ir que sea seguro.
+evacuationobjective_accepted1           Todo planeta colonizado que visite tendrá civiles en necesidad de evacuacion.
+evacuationobjective_accepted2           Necesitaras expandir tu habitation deck e incluso mejorar a una nave mas grande eventualmente.
+evacuationobjective_total               Has evacuado *X civiles de planetas condenados.
+evacuationobjective_successbonus        Evacuados *X civiles. Bono monetario $*Y.
+evacuationobjective_nextbonus           El siguiente bono monetario sera por la evacuacion de *X civiles : $*Y.
+evacuationobjective_award               RECOMPENSA DE EVACUACION
+evacuationobjective_success             Evacuados *X civiles
+
+nomadobjective_title                    MISION ESPECIAL: NOMADÁ
+nomadobjective_description1             Es posible que nunca podamos ser capaces de detener la Anomalía de colapso del vacio.
+nomadobjective_description2             Quiza se sigua expandiendo eternamente. Puede que no haya ningun lugar seguro en el que parar.
+nomadobjective_description3             En tal caso necesitamos acostumbrarnos a vivir en naves autosuficientes, indefinidamente.
+nomadobjective_accepted1                Necesitaras convertir a tus naves en una flota autosustentable a largo plazo.
+nomadobjective_accepted2                Trae contigo la mayor cantidad de gente que puedas, y no mires hacia atrás.
+nomadobjective_total                    Tienes *X residentes permanentes en tu flota.
+nomadobjective_successbonus             La poblacion ha alcanzado *X residentes. Bono monetario $*Y.
+nomadobjective_nextbonus                Siguente bono cuando la poblacion alcance *X residentes - $*Y.
+nomadobjective_award                    RECOMPENSA NOMADÁ
+nomadobjective_success                  *X residentes en la flota
+
+# =============================================================================
+# Object Types
+# =============================================================================
+
+object_airduct							Ducto de Ventilacíon
+object_airduct_description              Bombea Oxígeno al compartimiento hasta que una atmosfera respirable se forma. Debe ser alimentado con Oxígeno mediante tuberias.
+object_battery							Batería
+object_battery_description              Almacena el exceso de energía en la red, hasta 1000Mw. La Batería descargara la energía cuando sea neceraria electricidad adicional.
+object_box                              Caja
+object_bullets							Balas
+object_bullets_description              Una caja de municion para Ametralladoras Gatling (PDC).
+object_railgunshell						Railgun Slugs
+object_railgunshell_description         Una caja de municion llena de municiones para Cañones de Riel.
+object_cargo							Cargamento
+object_civilian							Civil
+object_refugee                          Refugiado
+object_crewmember						Tripulante
+object_scientist                        Cientifíco
+object_weaponsspecialist                Oficial de Armamento
+object_data                             Datos
+object_deuterium                        Deuterio
+object_deuterium_description            Combustible para un Reactor de Fusion nuclear.
+object_dockingport						Docking Port
+object_dockingport_description          Provee un punto de acceso a la nave, al cual un transbordador espacial se puede atracar.
+object_door								Compuerta
+object_door_description                 Una pesada compuerta presurizada que se puede usar para sellar areas en caso de fuegos o agujeros en el casco.
+object_tank								Tanque Enorme
+object_tank_description                 Un tanque masivo que puede almacenar una gran cantidad de liquidos o gases.
+object_smalltank						Tanque Medio
+object_smalltank_description            Un tanque que puede almacenar liquidos o gases.
+object_tinytank                         Tanque Pequeño
+object_tinytank_description             Un tanque que puede almacenar liquidos o gases. 
+object_dronebay							Bahía de Drones
+object_dronebay_description             Este equipamiento es requerido para lanzar Drones de Logistica desde tu nave. Los Drones pueden recojer recursos y chatarra en el espacio, y traerlos a la nave a traves de la Bahía de Drones. Una Bahía de Drones puede lanzar varios Drones.
+object_energycell						Celula de Energía
+object_energytransmitter                Transmisor de Energía
+object_engine							Motor
+object_engine_description               La fuente principal de Propulcion de una nave.  Debe ser abastecido de combustible (via tuberias) y Energía (via un cable).
+object_thruster                         Motor de Maniobra
+object_thruster_description             Propulsor de Maniobra. Debe ser instalado en la pared de una nave. Provee empuje para permitir movimientos laterales y rotacion.
+object_entity							Entity
+object_equipment						Equipamiento
+object_fighter							Caza
+object_food                             Comida
+object_ftlcharge						Celula FTL
+object_ftldrive							Motor FTL
+object_fuel								Conbustible
+object_fusionreactor                    Reactor de Fusíon
+object_fusionreactor_description        Usa la fusion nuclear del Deuterio para generar grandes cantidades de Energía. Sin embargo, el reactor debe ser activado usando una enorme cantidad inicial de energía antes de que empieze a generar electricidad.  \n\nGenera una cantidad de Energía maxima de 500MW.
+object_weaponsconsole                   Centro de control de Armamento
+object_weaponsconsole_description       Una terminal donde un Oficial de Armas puede controlar multiples armamentos al mismo tiempo.
+object_gatlinggun						Ametralladora Gatling
+object_gatlinggun_description           Un arma de corto alcance y fuego rapido, primariamente diseñado para defender contra cazas y municiones.  La Ametralladora Gatling es excelente destruyendo objetivos rapidos a corto alcance, pero carece del poder necesario para penetrar objetivos blindados.
+object_cannon							Cañon
+object_cannon_description               Un arma de alcance medio que lanza una andanada de municiones explosivas contra el objetivo. Las balas de cañon son exelentes para dañar un gran area de la nave enemiga, y son muy capaces de destruir blindaje.
+object_cannonshell						Municiones de Cañon
+object_mininglaser						Laser de Minería
+object_mininglaser_description          Puede taladrar yacimientos (encontrados en cinturones de asteroides) para extraer valiosos recursos.
+object_generator						Generador
+object_hullbreach						Agujero en el Casco
+object_loader							Cargador
+object_loader_description               Una version de todo-proposito del Cargador de Combustible y el Cargador de Oxígeno, puede manejar celulas de cualquier gas o liquido.  Tiende a confundir a los nuevos capitanes.  Usa tuberias para conectarlo con Equipamiento.
+object_fuelloader                       Cargador de Combustible
+object_fuelloader_description           Toma una celula de Combustible, y la bombea a traves de tuberias. Usa tuberias para conectar esto con tu Reactor y tus Motores.
+object_oxygenloader                     Cargador de Oxígeno
+object_oxygenloader_description         Toma una celula de oxígeno presurizado, y lo bombea a traves de tuberias.  Usa tuberias para conectar esto con tu Ducto de Ventilacíon y Trajes Espaciales.
+object_logisticsdrone                   Dron de Logistíca
+object_logisticsdrone_description       Un robot semi-inteligente increiblemente util, capaz de reclamar chatarra y objetos del espacio profundo. Tambien puede efectuar reparaciones menores en el Casco. Debe ser lanzado desde una Bahía de Drones.
+object_meteor							Meteoro
+object_asteroid							Asteroide
+object_comet                            Cometa
+object_mineralpatch						Yacimiento de Minerales
+object_none								NoType
+object_ordnance                         Ordnance
+object_oxygen							Oxígeno
+object_powercoil                        Power Coil
+object_powercoilcharged                 Charged Power Coil
+object_powerinjector                    Power Injector
+object_railgun							Cañon de Riel
+object_railgun_description              Un arma con una precision y alcance extremadamente altos. El cañon de Riel es un arma que puede penetrar a traves de blidaje y destruir equipamiento dentro de la nave objetivo. Sin embargo, el arma drena una gran cantidad de energía para recargarse despues de cada disparo.
+object_reactor							Reactor
+object_reactor_description              Quema Combustible de alta densidad para producir energía. Debe ser provisto de combustible (via Tuberias). Usa cables para conectarlo al equipamiento.\nGenera una cantidad de Energía maxima de 100MW.
+object_sciencestation                   Estacion Cientifica
+object_sciencestation_description       Un espacio para que un cientifico pueda conducir valiosos experimentos.
+object_supercomputer                    Super Computador
+object_supercomputer_description        Una potente computadora para procesado de numeros y simulaciones de importantes investigaciones.
+object_shuttle							Transbordador
+object_spacesuit						Traje Espacial
+object_spacesuitpod						Armario de Traje Espacial
+object_spacesuitpod_description         Un lugar en el que colocar los Trajes Espaciales que necesiten ser recargados de Oxígeno.
+object_tank								Tanque
+object_water							Agua
+object_stairs							Escaleras
+object_stairs_description               La Tripulacion y los Pasajeros solo pueden acceder al espacio habitable superior mediante Escaleras.
+object_hyperspacesensor                 Sensor Hyperespacial
+object_hyperspacesensorlr               Sensor Hyperespacial LD
+object_hyperspacesensorlr_description   A Long Range and extremely sensitive prototype version of the standard hyperspace sensor.
+object_missioncargo                     Cargamento de Mision
+object_repairstructure					Reparar Daños Estructurales
+object_repairstructure_description      El Astillero local puede reparar el gran daño estrcuctural de tu nave, por un precio.
+object_scrapmetal                       Chatarra Metalica
+object_metalingot						Lingote de Metal
+object_preciousore						Minerales Preciosos
+object_preciousmetals					Metales Preciosos
+object_tiliumore                        Tilium Ore
+object_refinedtilium                    Tilium Crystals
+object_metallicminerals                 Minerales Metalicos
+object_copperminerals                   Minerales de Cobre
+object_copperingot                      Lingote de Cobre
+object_ice                              Hielo
+object_metreongas                       Gas Metreon
+object_refinedmetreon                   Metreon Refinado
+object_explosives                       Explosivos
+object_hyperspaceisotopes               Isótopos Hyperespaciales
+object_stableisotopes                   Isótopos Estables
+object_seeds                            Semillas
+object_seeds_description                A small bag of mixed vegetable seeds, that you might be able to grow in a Hydroponic Garden.
+object_smelter							Alto Horno
+object_smelter_description              Esta máquina de procesamiento industrial puede fundir minerales en lingotes de metal utilizables. Una vez instalado, haga clic en él para cambiar el tipo de mineral.
+object_sewagepipe                       Tuberia de Aguas Residuales
+object_sewagepipe_description           Esta tuberia descarga el desague de los pisos habitables. Luego, puedes llevar las aguas residuales a un tanque de almacenamiento y (eventualmente) reprocesarlas a agua limpia.  The Pipe MUST BE DIRECTLY UNDER THE HABITATION DECK to function.
+object_sewagemachine					Máquina de tratamiento de residuos
+object_sewagemachine_description        Toma aguas residuales del piso habitable, separa los solidos de los liquidos, y los recicla parcialmente. Este dispositivo produce agua sucia y composta.
+object_waterpurifier					Purificador de Agua
+object_waterpurifier_description        Toma agua sucia de la Máquina de tratamiento de residuos o del hielo natural, y la purifica, convirtiendola en agua limpia y segura.
+object_oxygenmaker						Creador de Oxígeno
+object_oxygenmaker_description          Usa energía elctrica para extraer Oxígeno del agua.
+object_scrubber							CO2 Scrubber
+object_scrubber_description             Extrae Dioxido de Carbono de la atmosfera. Su escape debe ser canalizado hacia un tanque o la maquina se atascará.
+object_airreprocessor					Reprocesador de Aire
+object_airreprocessor_description       Convierte Dioxido de Carbono en Oxígeno puro.
+object_icegrinder                       Molino de hielo
+object_icegrinder_description           Muele trozos gigantes de hielo en trozos pequeños, luego calienta el hielo hasta que se vuelve líquido. El agua resultante debe filtrarse antes de que sea segura para beber.
+object_proximitymine                    Mina
+object_gascollector                     Colector de Gas
+object_gascollector_description         Una gran sistema de ventilacion exterior que aspira los gases del espacio. Muchos gases que se encuentran en las nebulosas se pueden usar para producir recursos útiles como combustible, celulas FTL y explosivos.
+object_refinery                         Refinería
+object_refinery_description             Una máquina industrial automática para refinar productos químicos y gases crudos.
+object_chemicallab                      Laboratorio Químico
+object_chemicallab_description          Un equipo científico complejo. Puede combinar múltiples entradas químicas diferentes (líquidos, gases y sólidos) en diferentes salidas. El usuario puede ciclar la receta activa haciendo clic en ella.
+object_hyperspacecollector              Filtro Hyperespacial
+object_hyperspacecollector_description  El Filtro Hyperespacial se coloca en la parte delantera de una nave y mira hacia la dirección del viaje. Durante el Hyperespacio, un fuerte campo magnético se proyecta hacia adelante, atrayendo grandes volúmenes de materia interestelar. Los isótopos recolectados de esta manera se pueden refinar en combustible FTL.
+object_munitionsfactory                 Mesa de Municiones
+object_munitionsfactory_description     Una mesa de trabajo donde un miembro experto de la tripulación puede fabricar diferentes tipos de munición para las armas de la nave. Utiliza metal y explosivos para producir balas, proyectiles de cañón de riel, municiones de cañón, etc.
+object_hydroponics                      Granja Hidroponica
+object_hydroponics_description          Un dispositivo de invernadero cerrado que se puede utilizar para cultivar plantas, con el fin de alimentar a la tripulación. Requiere composta y agua, y semillas para comenzar.  
+object_fabricator                       Fabricador
+object_assembler                        Mesa de Ensamblado
+object_robotarm                         Brazo Robotico
+object_robotarmshort                    Brazo Robotico Corto
+object_robotarmsmart			Brazo Robotico Inteligente
+object_track                            Cinta Transportadora
+object_ruinedequipment                  Equipamiento en Ruinas
+object_solarpanel                       Panel Solar
+object_solarpanel_description           Estos deben instalarse fuera de su nave, con andamios como apoyo. Cada panel genera 10MW.
+
+object_framecomponent                   Marco
+object_motorcomponent                   Motor
+object_coilcomponent                    Bobina de energía
+object_lenscomponent                    Lente
+object_stargatestructure                Estructura de Puerta Estelar
+object_stargateresin                    Resina de Puerta Estelar
+object_stargateactuator                 Actuador de Puerta Estelar
+object_stargatereceiver                 Receptor de Puerta Estelar
+
+object_sewage							Aguas Residuales
+object_wastewater						Aguas Contaminadas
+object_compost							Composta
+object_carbondioxide					CO2
+
+object_short_oxygen                     O2
+object_short_ftlcharge                  FTL
+object_short_bullets                    Ammo
+object_short_railgunshell               Slugs
+object_short_cannonshell                Shells
+object_short_deuterium                  Dtrm
+
+entity_unconscious						INCONSCIENTE
+entity_dead								MUERTO
+entity_suffocating						SOFOCANDOSE
+entity_stunned							ATONTADO
+entity_suitrequired						TRAJE REQUERIDO
+entity_dehydrated						DESHIDRATADO
+entity_fainted                          DESMAYADO
+        
+entity_death_injury                     Herida Fatal
+entity_death_suffocation                Ahogado
+entity_death_dehydration                Dehydration
+entity_death_starvation                 Starvation
+entity_death_co2poisoning               Carbon Dioxide
+        
+order_none								None
+order_salvage						    Agarrar Chatarra
+order_gather							Reúnir materiales
+order_repairhull						Reparar Casco
+order_shiftwork							Shift Work
+order_suitson							Trajes Puestos
+order_exteriorwork                      Trabajo Exterior
+order_weaponsactive                     Fuego a Discrecion
+order_fleetlogistics                    Logisticas de Flota
+order_battlestations                    Estaciones de Combate
+order_mining                            Minar
+
+battle_title                            ESTACIONES
+stations_title                          DE COMBATE
+
+designation_civilian                    Civil
+designation_crewquarters                Crew Quarters
+
+loader_mode_stop                        Parar
+loader_mode_load                        Cargar
+loader_mode_unload                      Descargar
+
+
+# =============================================================================
+# Story stuff
+# =============================================================================
+
+pressanykey                             - continue -
+
+opentextcrawl_1                         It is the 23rd century.  Humanity has colonised the stars.
+opentextcrawl_2                         Millions of people now live off world, sometimes hundreds of light years from Earth.
+opentextcrawl_3                         Word has reached Earth from one such colony. A dark anomaly has been seen, and cannot be explained.
+opentextcrawl_4                         Where once there was a star, now there is nothing but a black void, slowly expanding.
+opentextcrawl_5                         Those who live nearby call it THE COLLAPSE, and believe it will eventually consume the entire galaxy.
+opentextcrawl_6                         There are few who believe them.
+opentextcrawl_7                         Nevertheless, Earth has dispatched you and your crew in the science vessel PRAXIS to investigate.
+
+mission_flightready_title               Make your new ship ready for flight
+mission_flightready_description1        All ships must pass basic flight ready certification before being allowed on operations.
+mission_flightready_description2        A ship requires each of the following capabilities in order to be certified 'Flight Ready':
+mission_flightready_power_help          A reactor to generate power. Use a Fuel Loader to pipe fuel into the Reactor.
+mission_flightready_engines_help        Engines for propulsion.  Test fire your engines (From the TACTICAL view) to certify them.
+mission_flightready_lifesupport_help    Life support to make the cabin breathable.  Use an Airduct to pressurise the cabin, connected to an Oxygen Loader to supply the air.
+mission_flightready_ftljump_help        An FTL Drive.  Test your new FTL engine by making a jump to the destination marked on the map.
+mission_type_tutorialflightready        DESTINATION
+
+mission_flightready_power               A Reactor, generating power.
+mission_flightready_power_done          [DONE] A Reactor, generating power
+mission_flightready_engines             Engines capable of propulsion
+mission_flightready_engines_done        [DONE] Engines capable of propulsion
+mission_flightready_movement            Test the engines from the TACTICAL screen
+mission_flightready_movement_done       [DONE] Test the engines from the TACTICAL screen
+mission_flightready_lifesupport         Life support to make the interior habitable [*X%]
+mission_flightready_lifesupport_done    [DONE] Life support to make the interior habitable
+mission_flightready_ftl                 An FTL Drive capable of Hyperspace jumps
+mission_flightready_ftl_done            [DONE] An FTL Drive capable of Hyperspace jumps
+mission_flightready_ftljump             Jump to the marked destination
+mission_flightready_ftljump_done        [DONE] Jump to the marked destination
+
+
+# =============================================================================
+# The trouble with Tiddlets
+# =============================================================================
+
+
+mission_type_episodetiddlets            Deliver Tiddlets
+mission_tiddlets_title                  The trouble with Tiddlets
+mission_tiddlets_description1           We need a transport vessel to ferry a litter of lovable, rare live animals to a sanctuary, many jumps away.
+mission_tiddlets_description2           The animals aren't dangerous, but they do have some special requirements that must be closely followed or they will not survive the journey.
+mission_tiddlets_description3           We will pay $*X if the entire litter is delivered safely.
+mission_tiddlets_accepted               Excellent. We are sending a shuttle to you now.
+mission_tiddlets_accepted1              Thank you very much for helping us with these unique creatures. If I'm honest, we have struggled to find a captain who was willing to undertake this mission.
+mission_tiddlets_accepted2              We have left you with a litter of eight female Tiddlets, along with some comfortable crates for them to sleep in.
+mission_tiddlets_accepted3              Please take very good care of them! 
+mission_tiddlets_delivered              We have delivered *X out of 8 Tiddlets.
+mission_tiddlets_alldelivered1          All 8 Tiddlets have been delivered.
+mission_tiddlets_alldelivered2          Now, there is one crucial detail you must adhere to, in order to safely transport these Tiddlets.
+mission_tiddlets_alldelivered3          They can survive up to *X seconds in hyperspace safely, but anything beyond that risks them dying of shock.
+mission_tiddlets_alldelivered4          Please be very careful when choosing your hyperspace route.
+mission_tiddlets_stillalive             Tiddlets still alive : *X
+mission_tiddlets_dead                   There are now *X dead tiddlets on board
+mission_tiddlets_saferadius             TIDDLET SAFE DISTANCE
+mission_tiddlets_reproduction1          Oh my goodness! We were certain all 8 were female, but clearly we made a mistake.
+mission_tiddlets_reproduction2          We would suggest you separate them, but tiddlets reproduce telepathically, and only ever during hyperspace travel.
+mission_tiddlets_shock                  Oh my goodness!! There are so many of them!
+mission_tiddlets_payment                We have safely received *X out of 8 Tiddlets - Payment due $*Y
+mission_tiddlets_extras                 We have now received an additional *X Tiddlets! 
+mission_tiddlets_alldelivered           We have received all of your Tiddlets. Thank you so much!
+mission_tiddlets_extrareward1           Since you delivered an entirely new litter to us, we thought it only fair to reward you with a gift.
+mission_tiddlets_extrareward2           We have sent you a couple of prototype Long Range Hyperspace Sensors. They are much more sensitive than the standard model. We hope you find them useful.
+mission_tiddlets_notenough              But we trusted you to look after their safety. You've let us down.
+mission_tiddlets_failure                What the hell happened? We trusted you with those Tiddlets and you let us down!
+mission_tiddlets_suppliername           Tiddlet Breeder
+mission_tiddlets_invite1                Greetings! We are looking for a pilot who can help us with an important animal welfare matter.
+mission_tiddlets_invite2                If you'd like to help (and earn a lot of credits) please find our job in the CONTRACTS list.
+mission_tiddlets_success                Delivered *X Tiddlets
+
+mission_tiddletssale_title              WANTED: Tiddlets
+mission_type_episodetiddletssale        WANTED: Tiddlets
+mission_tiddletssale_description1       We are willing to pay a very generous price to any individual who can supply us with one or more Tiddlets.
+mission_tiddletssale_accepted1          If you have Tiddlets available then bring them to us and we will reward you handsomely.
+mission_tiddletssale_accepted2          We won't ask any questions as to where they came from. But we will need every Tiddlet you have - so we can be sure there is at least one male among the litter.
+mission_tiddletssale_offer              We will pay $*X for every Tiddlet you have.
+mission_tiddletssale_fulloffer          We are offering you $*Y for all *X of your Tiddlets.
+mission_tiddletssale_received           We have received *X Tiddlets. Total payment due $*Y.
+mission_tiddletssale_allreceived        Well, thank you very much. With this many Tiddlets we can begin farming these delicious creatures immediately.
+mission_tiddletssale_invite1            We've heard a rumour you might have some rare, valuable life-forms on board.
+mission_tiddletssale_invite2            Stop by your nearest Contract Board and we might be able to make a deal.
+mission_tiddletssale_buyername          Shady Buyer
+mission_tiddletssale_success            Traded *X Tiddlets
+
+object_tiddlet                          Tiddlet
+tiddlet_child                           Baby
+tiddlet_boxed                           Boxed
+
+# =============================================================================
+# New Player Help
+# =============================================================================
+
+newplayerhelp_fuelpipe                  <FUEL PIPE
+
+# =============================================================================
+# Alerts
+# =============================================================================
+
+alert_title                             ALERTS
+
+alert_type_none                         SIN ALERTAS
+alert_type_test                         ALERTA DE TEST
+alert_type_hullbreach                   AGUJERO EN EL CASCO
+alert_type_hullbreach_caption           Repair *X%
+alert_type_hullbreach_tooltip           There is a hole in your ship hull and the cabin is depressurising. Your crew will fix the breach, but you should consider closing your Door Vents to seal off the area.
+alert_type_co2                          CO2 WARNING
+alert_type_co2_tooltip                  There is a dangerous build up of CO2 inside your ship. If it reaches 100%, your crew will suffocate. Consider buying a CO2 Scrubber and connecting it to a storage tank.
+alert_type_co2_caption                  *X% Fatal
+alert_type_meteorshower                 LLUVIA DE METEOROS
+alert_type_hostileforces                CONTACTO HOSTIL
+alert_type_hostileforces_caption        *X enemy ships
+alert_type_crewoverworked               CONTRATAR MAS TRIPULACION
+alert_type_heavydamage                  HEAVY DAMAGE
+alert_type_heavydamage_caption          Damage *X%
+alert_type_suffocating                  TRIPULACION SOFOCANDOSE
+alert_type_suffocating_caption          *X suffocating
+alert_type_dead                         MUERTES
+alert_type_dead_caption                 *X dead
+alert_type_lowresource_caption          *X
+alert_type_lowfuel                      BAJO COMBUSTIBLE
+alert_type_lowftl                       FTL CHARGES
+alert_type_lowoxygen                    BAJO OXIJENO
+alert_type_lowbattery                   BAJA BATERIA
+alert_type_lowbattery_caption           *X%
+alert_type_lowbattery_tooltip           Your batteries have been drained. It is likely your reactors are not creating enough power to meet the needs of your ship. You will need either more Reactors, or more battery storage, or both.
+alert_type_powercut                     CORTE ELECTRICO
+alert_type_powercut_nofuel              Fuel supply interrupted
+alert_type_powercut_tooltip             Your reactor has cut out. It is likely the fuel supply has been interrupted.  Consider using storage tanks to create a permanent store of fuel for your Reactor to draw from.
+alert_type_nostorage                    NO STORAGE
+
+warning_unbreathable                    IRRESPIRABLE
+warning_suitsrequired                   TRAJES ESPACIALES REQUERIDOS
+warning_deliveryblocked                 ENTREGA BLOQUEADA
+warning_storagerequired                 CREATE ZONAS DE ALMACENAJE
+
+# =============================================================================
+# Misc
+# =============================================================================
+ 
+ format_currency                        $*X 
+ format_per_square                      *X / sq
+
+# =============================================================================
+# Ratings
+# =============================================================================
+
+ratings                                 RANGOS
+rating_word                             rating
+rating_rankincreased                    RANGO INCREMENTADO
+rating_combat                           Combate
+rating_industry                         Industria
+rating_humanitarian                     Humanitaria
+rating_logistics                        Logistica
+rating_criminal                         Criminal
+rating_title_combat                     Rango de Combate
+rating_title_industry                   Rango Industrial
+rating_title_humanitarian               Rango Humanitario
+rating_title_logistics                  Rango Logistico
+rating_title_criminal                   Rango Criminal
+rating_rank                             RANGO *X
+
+# =============================================================================
+# Stargate
+# =============================================================================
+
+phase_title                             Phase *X
+
+stargate_help                           To submit completed parts to the stargate project, sell them at any trade outpost in the sector
+
+recipe_resources_required               Required resources
+recipe_created_in                       Created in *X
+recipe_duration                         Duration: *X seconds
+recipe_quantity_required                *X x *Y
+
+stargate_energy_required                REQUIRED: *X MW
+stargate_energy_received                RECEIVED: *X MW
+
+stargate_testfire_help                  Provide enough power to the stargate with energy transmitters to complete the testfire! Each transmitter beams up to 100MW to the stargate
+
+smelt_title                             Smelt *X
+
+stargate_award_title                    STARGATE PROGRESS
+stargate_award_subtitle                 Phase *X Completed
+
+# =============================================================================
+# Industry Tutorial
+# =============================================================================
+
+opentextcrawlindustry_1                 It is the 23rd century.  Humanity has colonised the stars.
+opentextcrawlindustry_2                 Millions of people now live off world, sometimes hundreds of light years from Earth.
+opentextcrawlindustry_3                 The era of massive industrialisation of space has begun, feeding an insatiable desire for energy and metal.
+opentextcrawlindustry_4                 Powerful businesses control vast swathes of space, backed by untold reserves of wealth.
+opentextcrawlindustry_5                 The CEO of one such company - the INTERSTELLAR MINING CORPORATION - has challenged humanity to build a stargate so powerful it can reach our nearest Galaxy.
+opentextcrawlindustry_6                 Trillions of dollars in funding have been set aside.
+opentextcrawlindustry_7                 The time is perfect for a small entrepreneurial and industrious team of miners to start a new career - and make their fortune in the stars.
+
+tutorial_introduction_title             TUTORIAL
+tutorial_next                           NEXT
+tutorial_introduction1                  Welcome to our new home.
+tutorial_introduction2                  This space station hasn't been used in years.\n\nIt's a derelict, without power or a breathable atmosphere. Our first job is to fix that.\n\nClick NEXT to continue.
+
+tutorial_camera_title                   CAMERA CONTROLS
+tutorial_cameracontrols                 Use WASD or the ARROW KEYS to move the view around.\n\nZoom the view using the MOUSE WHEEL, or Q/E on the keyboard.\n\nDrag the view by holding the MIDDLE MOUSE BUTTON.
+
+tutorial_power_title                     INSTALLING POWER
+tutorial_power_titlecomplete            POWER INSTALLED
+tutorial_powerinstallmenu              Let's begin by installing a REACTOR, to generate power for our ship.\n\nClick into the CONSTRUCTION menu, then click INSTALL.
+tutorial_powerselectreactor            This is all the boxed equipment you have available on-board.\n\nSelect REACTOR from the list.
+tutorial_powerplacereactor             Stamp the REACTOR down inside your ship in the South West module.
+tutorial_powerreactorinprogress        Your crew will install the REACTOR.
+tutorial_powerselectloader             The REACTOR needs FUEL, and we use a FUEL LOADER to pump it to the REACTOR.\n\nSelect the FUEL LOADER from the Construction menu.
+tutorial_powerplaceloader              Stamp the FUEL LOADER down somewhere near the REACTOR.
+tutorial_powerselectpipes              We need to connect the FUEL LOADER to the REACTOR, using a Pipe.\n\nSelect PIPES from the Construction Menu.
+tutorial_powerpipeconnect              FUEL PIPES are used to connect the output from one piece of equipment into the input of another.\n\nFUEL PIPES are yellow and must connect the yellow circles on equipment.\n\nDrag a pipe from the FUEL LOADER to the REACTOR, connecting the yellow pipe circles.
+tutorial_powerreactorpowerup           The REACTOR is starting up.
+tutorial_powerreactoractive            The REACTOR is activated! We are now generating power for our station.
+
+tutorial_air_title                     OXYGEN
+tutorial_airinstallairduct             We now need to provide a breathable atmosphere for our crew. This is done with an AIRDUCT.\n\nInstall an AIRDUCT somewhere near the Reactor.
+tutorial_aircables                     The AIRDUCT needs to be powered from the REACTOR.  Select CABLES from the CONSTRUCTION menu.
+tutorial_aircabletoreactor             POWER CABLES are used to connect reactors to any equipment that needs power.\n\nPOWER CABLES are red and must connect red circles on equipment.\n\nDrag a power cable from the REACTOR to the AIRDUCT, connecting the red circles.
+tutorial_airinstallairloader           The AIRDUCT needs OXYGEN, in the same way as the REACTOR needs FUEL. We can use an OXYGEN LOADER to provide OXYGEN.\n\nInstall an OXYGEN LOADER near the AIRDUCT.
+tutorial_airpipes                      We need to connect the OXYGEN LOADER into the AIRDUCT using PIPES.\n\nSelect PIPES from the CONSTRUCTION menu.
+tutorial_airpipetoairduct              Drag a PIPE from the OXYGEN LOADER to the AIRDUCT, connecting the BLUE circles.
+tutorial_airdone                       The AIRDUCT is activated and is pressurising the cabin! The atmosphere will soon be breathable.
+
+tutorial_stargatescreen_title           STARGATE PROJECT
+tutorial_stargatescreen1                Lets turn our attention to the STARGATE PROJECT.\n\nWe can view our progress from the Stargate screen.\n\nOpen the STARGATE screen.
+tutorial_stargatescreen2                This screen shows the phases that require construction in order to complete the STARGATE.\n\nWe are in PHASE 1. Work has only just begun.
+tutorial_stargatescreen3                On the left of the screen you can see the requirements to complete PHASE 1.\n\nWe need to manufacture:\n- 100 STARGATE FRAMES\n- 10 STARGATE RESIN
+tutorial_stargatescreen4                These PHASE 1 components are easy to manufacture, and we already have what we need onboard.\n\nBut we can sell them to the STARGATE PROJECT for a small fortune.
+tutorial_stargatescreen5                Close the STARGATE screen by clicking on the toolbar again (or press ESC).
+
+tutorial_fabrication_title              FABRICATION
+tutorial_fabricationinstallfabricator       Components are manufactured in a FABRICATOR, using raw materials like METAL INGOTS.\n\nInstall a FABRICATOR somewhere in the South East quadrant of the station.
+tutorial_fabricationinstallassemblytable    Those components are then assembled into finished products on an ASSEMBLY TABLE.\n\nInstall an ASSEMBLY TABLE somewhere near the FABRICATOR.
+tutorial_fabricationpower               This new equipment needs power.  Build POWER CABLES to connect your REACTOR to the FABRICATOR and ASSEMBLY TABLE.
+tutorial_fabricationconfigurefab1       We need to configure the new equipment to make the products that we want.\n\nRIGHT CLICK on the FABRICATOR to configure it.
+tutorial_fabricationconfigurefab2       This drop-down menu shows all of the components that we can manufacture in a FABRICATOR.\n\nSelect FRAME from the list.
+tutorial_fabricationconfigureass1       We need to configure the ASSEMBLY TABLE in the same way.\n\nRIGHT CLICK on the assembly table.
+tutorial_fabricationconfigureass2       Select STARGATE FRAME from the drop-down menu.
+tutorial_fabricationclosefab1           Close the Equipment Panel by clicking the X in the top right corner, or pressing ESC.
+tutorial_fabricationclosefab2           Close the Equipment Panel by clicking the X in the top right corner, or pressing ESC.
+tutorial_fabricationworking             Your crew are now fabricating FRAMES out of METAL INGOTS, then assembling those FRAMES into STARGATE FRAMES, which we can sell to the STARGATE project for profit.
+
+tutorial_smelters_title                 SMELTERS
+tutorial_smeltersintroduction           We are going to need a lot of METAL INGOTS if we're to make enough of those STARGATE FRAMES.\n\nWe don't have many METAL INGOTS on board, and will run out soon.
+tutorial_smeltersbuild                  But we do have plenty of SCRAP METAL, and we can melt that down in a SMELTER.\n\nBuild a SMELTER somewhere near the production line.
+tutorial_smelterspower                  Connect the smelters to the REACTOR using POWER CABLES
+tutorial_smeltersscrapmetal             Right click on the SMELTER and set its material to be SCRAP METAL.
+tutorial_smeltersoperational            The crew will now load in all the SCRAP METAL and smelt it into much more useful METAL INGOTS.
+tutorial_smeltersdismantle              There is a ton of RUINED EQUIPMENT around this old station, that we can break down into SCRAP METAL.\n\nSelect DISMANTLE from the CONSTRUCTION toolbar.
+tutorial_smelterssalvage                Click on the nearby RUINED EQUIPMENT to instruct your crew to dismantle it into SCRAP.
+tutorial_smeltersstoragetoolbar         We can make things more efficient for our crew by telling them to store SCRAP METAL near to the SMELTER.\n\nSelect STORAGE from the CONSTRUCTION toolbar, then select SCRAP METAL from the list.
+tutorial_smeltersstorageworld           Now drag out a storage zone near to the SMELTER.
+tutorial_smeltersstoragedone            The crew will move all the SCRAP METAL into this zone.
+
+tutorial_trade_title                    TRADE
+tutorial_tradewaitforsellable           Your crew will now use the equipment to produce some STARGATE FRAMES.
+tutorial_tradeintroduction              Now that we've produced some STARGATE FRAMES, it's time to get paid for our efforts.  The STARGATE PROJECT will buy any components we've produced, and are paying quite a premium.\n\nOpen the TRADE screen to sell the STARGATE FRAMES.
+tutorial_tradesell                      Select SELL from the list of trade categories.
+tutorial_tradesellframes                Find the STARGATE FRAMES you've produced, and click to add them to a sale.\n\nThey should be at the top of the SELL screen, highlighted in gold.\n\nBe sure to add ALL the STARGATE FRAMES to the sale.
+tutorial_tradecommit                    Click on CONFIRM to commit the trade and sell the STARGATE FRAMES.
+tutorial_tradeinbound                   A shuttle will now dock with the station and the crew will transfer the traded items.
+tutorial_tradeothersupplies             We can also use the TRADE system to buy raw materials to produce more STARGATE FRAMES, as well as resources we will need to survive.\n\nReopen the TRADE screen.
+tutorial_tradebuyminerals               METALLIC MINERALS can be smelted into METAL INGOTS just like SCRAP METAL.\n\nAdd all the METALLIC MINERALS to the trade.
+tutorial_tradebuysmelter                We will also need another SMELTER to begin processing those METALLIC MINERALS.\n\nFind the SMELTER under the INDUSTRY tab and add one to the order.
+tutorial_tradebuymore                   This is a good opportunity to stock up on some other resources that are critical for life support.\n\nWe'd recommend you purchase:\n\n - 2x FUEL\n - 2x OXYGEN\n - 2x WATER\n - 2x FOOD\n\n- HIRE 5 MORE CREW\n\nCONFIRM the order when you are done.
+tutorial_tradeinstallsmelter            Once those goods have arrived, you should install your second SMELTER somewhere near the first.
+tutorial_tradesmeltmetallicminerals     Set the SMELTER to process those METALLIC MINERALS you bought into more METAL INGOTS.
+        
+tutorial_fleet_title                    YOUR FLEET
+tutorial_fleetinspect                   For the next phase, we will need a ship that is more mobile than our current space station.\n\nThere happens to be another ship for sale that looks perfect.\n\nSelect the ship INDUSTRIOUS in the SHIP LIST.
+tutorial_fleettooexpensive              We can't afford to buy it yet, but it has everything we need for a runabout ship to complement our station.\n\nRe-select the station in the ship list.
+tutorial_fleetearnenough                Continue to manufacture and sell STARGATE FRAMES until you have $300,000 cash on hand. Then we will be able to afford to buy the second ship.
+tutorial_fleetinspect2                  You've raised enough money to buy the second ship!\n\nSelect the INDUSTRIOUS in the ship list.
+tutorial_fleetbuy                       Click on the BUY button to purchase the INDUSTRIOUS.
+tutorial_fleettrade                     The ship is fitted with engines and an FTL drive for Interstellar Travel! But it does need a crew.\n\nOpen the TRADE SCREEN.
+tutorial_fleetcrew                      We will need a crew. Hire five CREW MEMBERS from the TRADE screen.
+tutorial_fleetspacesuits                Those crew will also need SPACESUITS as there is no atmosphere onboard our ship yet.\n\nOrder five SPACESUITS for the new crew.
+tutorial_fleettradeconfirm              CONFIRM the trade.
+tutorial_fleetcrewarrival               Your new crew will arrive by shuttle.
+tutorial_fleetresources                 We also need resources for the ship to function.\n\nUse the TRADE screen to buy:\n- 5x FUEL\n- 5x OXYGEN\n- 5x FTL CHARGE\n- 2x FOOD\n- 2x WATER.\n\nCONFIRM the trade when you are done.
+tutorial_fleetwaitforpowerup            Your crew will now power up the ship and bring the engines and life support online.
+
+tutorial_flight_title                   FLIGHT
+tutorial_flighttactical                 Unlike our station, we can move this ship around and even travel to different star systems with our FTL drive.\n\nTo maneuver our ship, switch into TACTICAL mode by clicking the highlighted button, or pressing T.
+tutorial_flightengines                  We can directly control our engine THROTTLE from here.\n\nTry setting the engine THROTTLE to full power.
+tutorial_flightturning                  We can also turn the ship by left clicking in TACTICAL mode, in the direction we wish to travel.
+tutorial_flightexittactical             Exit TACTICAL mode by clicking the button again, or pressing T.
+tutorial_flightinformation              Your crew will continue to operate the ship and keep the engines running as you travel around. Try flying around the system until you have a handle on the controls.\n\nWhen you are ready, bring the ship to a stop by setting the THROTTLE to zero in TACTICAL mode.
+tutorial_flightsetcourse                Switch to TACTICAL VIEW, then zoom out and find the JMC MINING STATION.\n\nRemember you can zoom using the MOUSE WHEEL, and you can drag the view with WASD or by holding the MIDDLE MOUSE BUTTON.\n\nMove our ship close by RIGHT CLICKING near the JMC MINING STATION to set an autopilot.\n\n
+
+tutorial_finance_title                  CONTRACTS
+tutorial_financemissionscreen           Selling Stargate components isn't the only way to make money.  We can also complete contracts for increased reputation and financial rewards.\n\nOpen the CONTRACTS screen to see a list of available contracts.
+tutorial_financeselectship              Contracts are assigned to the ship you currently have selected.\n\nOnly the INDUSTRIOUS can travel between locations, so select the INDUSTRIOUS.
+tutorial_financeselecttransport         Here we have a TRANSPORT PASSENGER contract, click it to see more details.
+tutorial_financeassigntransport         This mission requires us to transport a group of people from here to another location in the sector.\n\nClick the accept button to assign this contract to the INDUSTRIOUS.
+tutorial_financepassengersinbound       The passengers will be delivered to the INDUSTRIOUS by shuttle.
+tutorial_financesectormap               All passengers have been delivered to the INDUSTRIOUS. We must now plot an FTL jump to their destination.\n\nOpen the SECTOR MAP.
+tutorial_financesetdestination          This is a map of all the systems in this sector.\n\nOur ship and our space station are located in the middle, where the map is marked FLEET.\n\nSet a course to the destination (labelled TRANSPORT PASSENGERS) by clicking on it.
+tutorial_financeclosesectormap          Close the SECTOR MAP by clicking the X in the top right corner, or by pressing ESC.
+tutorial_financeftlwindow               Open the FTL screen to order the FTL jump.
+tutorial_financepreparejump             Click on PREPARE JUMP to align the ship and prepare for hyperspace.
+tutorial_financepreparingjump           The INDUSTRIOUS will align the ship for hyperspace, and prepare the FTL drive to make the jump.
+tutorial_financejump                    Click the JUMP button to jump to hyperspace.
+tutorial_financehyperspace              We are in hyperspace!
+tutorial_financearrived                 We have arrived at the destination system.
+tutorial_financeselectmission           We now need to turn in our completed passenger contract.\n\nOpen the CONTRACTS screen and select the passenger mission.
+tutorial_financeturnin                  Click the DELIVER button to drop off the passengers and receive payment
+tutorial_financeturningin               A shuttle will be dispatched to collect the passengers.
+tutorial_financemissioncomplete         The passengers have all arrived safely. You will now be paid the fee and will also receive points toward your Humanitarian rating - giving you access to more difficult and lucrative missions.
+
+tutorial_tutorialend                    [End of tutorial - Alpha 7]
+tutorial_tutorialskip                   Are you sure you wish to skip the tutorial?
+tutorial_tutorialskipyes                SKIP TUTORIAL
+tutorial_tutorialskipno                 RESUME TUTORIAL
+
+tutorial_resin_title                    GAS COLLECTORS
+tutorial_resinintro                     Turning our attention back to the Stargate, the Stargate project also requires us to produce STARGATE RESIN.\n\nWe are going to use the INDUSTRIOUS to collect METREON GAS, refine it, and process it into STARGATE RESIN.
+tutorial_resinintro2                    Raise enough money to purchase for INDUSTRIOUS:\n\n- 1x GAS COLLECTOR\n- 1x REFINERY\n- 1x CHEMICAL LAB
+tutorial_resinselectnebula              Before we can start collecting the METREON GAS, we need to move the INDUSTRIOUS to a system containing a GAS CLOUD.\n\nUse the SECTOR MAP to select a suitable destination.
+tutorial_resinjumptonebula              Close the sector map and use the FTL Window to jump the INDUSTRIOUS to the nebula.
+tutorial_resininstallgascollector       Install the GAS COLLECTOR, REFINERY and CHEMICAL LAB so that they are close to each other.
+tutorial_resinpowerup                   Power up the GAS COLLECTOR, REFINERY and CHEMICAL LAB.
+tutorial_resinrefineryrecipe            Right click on the REFINERY and set its recipe to REFINE METREON GAS.
+tutorial_resinchemicallabrecipe         Right click on the CHEMICAL LAB and set its recipe to MAKE STARGATE RESIN.
+tutorial_resinconnectgascollector       Connect the GAS COLLECTOR to the REFINERY with a PIPE.
+tutorial_resinconnectchemicallab        Connect the REFINERY to the CHEMICAL LAB with a PIPE.
+tutorial_resinsuccess                   Well done, you have started to produce STARGATE RESIN.\n\nWhen you have produced enough, travel back to any COLONY, SHIP YARD or the STARGATE system to sell it to the STARGATE PROJECT.
+
+tutorial_end_title                      END OF TUTORIAL
+
