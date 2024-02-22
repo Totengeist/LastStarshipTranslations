@@ -18,7 +18,7 @@ jobs:
       uses: actions/checkout@v4
 
     - name: Package Files
-      run: zip -r -v LastStarshipTranslations_nightly.zip data/
+      run: zip -r -v LastStarshipTranslations_nightly.zip data/ README.md
 
     - name: Update git tag
       run: |
