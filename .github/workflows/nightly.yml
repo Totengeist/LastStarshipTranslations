@@ -30,6 +30,9 @@ jobs:
         done
       working-directory: ./legacy
 
+    - name: List files
+      run: ls -R
+
     - name: Update git tag
       run: |
         git tag -f nightly
