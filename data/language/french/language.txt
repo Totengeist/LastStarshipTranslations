@@ -41,9 +41,9 @@ ellipsis                                ...
 
 analyticsconsentdialog_title           Collecte de donnees de telemetrie
 analyticsconsentdialog_accept          Accepter
-Analyticsconsentdialog_reject 		Rejeter
-Analyticsconsentdialog_moreinfo 	Plus d'informations...
-Analyticsconsentdialog_text 		Nous devons collecter des donnees d'utilisation pour nous aider a mieux comprendre comment les gens jouent et a ameliorer le jeu. \n\nNous ne collectons aucune information personnelle identifiable. Si cela vous convient, veuillez cliquer sur le bouton Accepter.
+analyticsconsentdialog_reject          Rejeter
+analyticsconsentdialog_moreinfo        Plus d'informations...
+analyticsconsentdialog_text            Nous devons collecter des donnees d'utilisation pour nous aider a mieux comprendre comment les gens jouent et a ameliorer le jeu. \n\nNous ne collectons aucune information personnelle identifiable. Si cela vous convient, veuillez cliquer sur le bouton Accepter.
 
 
 
@@ -109,40 +109,40 @@ profiler_reset                          Réinitialiser
 # =============================================================================
 
 soundchannelviewer_title                Canaux sonores
-soundeditor_title 			Editeur de son
-soundinstanceeditor_title 		Editeur d'instances sonores
+soundeditor_title                       Editeur de son
+soundinstanceeditor_title				Editeur d'instances sonores
 
-soundeditor_positiontitle 		Type de poste
-soundeditor_instancetitle 		Type d'instance
-soundeditor_looptitle 			Type de boucle
-soundeditor_sourcetypetitle 		Type de son
-soundeditor_soundnametitle 		Nom du son
+soundeditor_positiontitle		        Type de poste
+soundeditor_instancetitle		        Type d'instance
+soundeditor_looptitle			        Type de boucle
+soundeditor_sourcetypetitle		        Type de son
+soundeditor_soundnametitle		        Nom du son
 
-soundeditor_volumetitle 		Volume
-soundeditor_ Frequencytitle 		Fréquence
-soundeditor_mindistancetitle 		Distance minimale
-soundeditor_attacktitle 		Attaque
-soundeditor_sustaintitle 		Maintenir
-soundeditor_releasetitle 		Sortie
-soundeditor_loopdelaytitle 		Retard de boucle
-soundeditor_dsptitle 			DSP
-soundeditor_nexteventtitle 		Prochain evenement
+soundeditor_volumetitle			        Volume
+soundeditor_frequencytitle              Fréquence
+soundeditor_mindistancetitle            Distance minimale
+soundeditor_attacktitle                 Attaque
+soundeditor_sustaintitle                Maintenir
+soundeditor_releasetitle                Sortie
+soundeditor_loopdelaytitle              Retard de boucle
+soundeditor_dsptitle                    DSP
+soundeditor_nexteventtitle              Prochain evenement
 
-soundeditor_play 			Jouer
-soundeditor_stop 			Arreter
+soundeditor_play                        Jouer
+soundeditor_stop                        Arreter
 
-soundparametereditor_title 		Parametre sonore
-soundparametereditor_typetitle 		Type
-soundparametereditor_linktitle 		Lie à
-soundparametereditor_updatetitle 	Type de mise a jour
-soundparametereditor_smoothing 		Lissage
-soundparametereditor_chaintitle 	Chaine
+soundparametereditor_title              Parametre sonore
+soundparametereditor_typetitle          Type
+soundparametereditor_linktitle          Lie à
+soundparametereditor_updatetitle        Type de mise a jour
+soundparametereditor_smoothing          Lissage
+soundparametereditor_chaintitle         Chaine
 
-soundeditor_newdsp 			Ajouter un DSP
-sounddspeditor_title 			Editeur DSP
-samplebankeditor_title 			Editeur de banques d'echantillons
-samplebankeditor_addsample 		Ajouter du son
-samplebank 				(Banque d'echantillons)
+soundeditor_newdsp                      Ajouter un DSP
+sounddspeditor_title                    Editeur DSP
+samplebankeditor_title                  Editeur de banques d'echantillons
+samplebankeditor_addsample              Ajouter du son
+samplebank                              (Banque d'echantillons)
 
 
 # =============================================================================
@@ -150,15 +150,15 @@ samplebank 				(Banque d'echantillons)
 # =============================================================================
 
 tagline									THE LAST STARSHIP
-mainmenu_title				Menu principal 
-mainmenu_newgameA 			Nouveau jeu - Praxis
+mainmenu_title							Menu principal 
+mainmenu_newgameA 						Nouveau jeu - Praxis
 mainmenu_newgameB                       Nouveau jeu - Sleek
 mainmenu_newgameC                       Nouveau jeu - Inner Shapes
 mainmenu_newgameD                       Nouveau jeu - Shipyard
 mainmenu_newgameE                       Nouveau jeu - Large Logistics
 mainmenu_savegame                       Sauvegarder la partie
 mainmenu_loadgame                       Charger la partie
-mainmenu_abandongame			Abandonner la partie
+mainmenu_abandongame					Abandonner la partie
 mainmenu_steamworkshop                  Steam Workshop
 mainmenu_tweet                          Tweet My Starship!
 mainmenu_legal                          Privacy / Legal
@@ -174,8 +174,8 @@ mainmenu_gamemode_industry_tooltip      Votre objectif est de rechercher et de c
 
 mainmenu_stargate_caption               Participez à la construction d'un megaprojet galactique : une porte des etoiles avec une portée suffisante pour atteindre notre galaxie voisine la plus proche, Andromede.
 
-mainmenu_createship			DEVELOPPEUR Créer un vaisseau
-mainmenu_loadship			DEVELOPPEUR Charger un vaisseau
+mainmenu_createship						DEVELOPPEUR Créer un vaisseau
+mainmenu_loadship						DEVELOPPEUR Charger un vaisseau
 mainmenu_loadgamedev                    DEVELOPPEUR Jeu de test de charge
 
 mainmenu_exportship                     Exporter un vaisseau
@@ -230,20 +230,20 @@ steamworkshopmenu_loadselectedsavegame          Charger
 
 # Ship section on the right
 steamworkshopmenu_shipsectionlabel              =============================== Ships ===============================
-steamworkshopmenu_uploadshiptitlelabel 		Titre
-steamworkshopmenu_uploadshipdesclabel 		descriptif
-steamworkshopmenu_uploadship 			Télécharger
-steamworkshopmenu_updateselectedship 		Mettre à jour la sélection
-steamworkshopmenu_shiplegalagreementtext 	En soumettant cet article, vous acceptez les 
-steamworkshopmenu_shiplegalagreementbutton	conditions d'utilisation de l'atelier
-steamworkshopmenu_uploadshipprogress 		=
-steamworkshopmenu_publishedshiplistlabel 	Navires publiés
-steamworkshopmenu_refreshpublishedshiplist 	Actualiser la liste
-steamworkshopmenu_subscribeshiplistlabel 	Navires abonnés
-steamworkshopmenu_refreshsubscribeshiplist 	Actualiser la liste
-steamworkshopmenu_loadselectedship 		Charger
+steamworkshopmenu_uploadshiptitlelabel          Titre
+steamworkshopmenu_uploadshipdesclabel           descriptif
+steamworkshopmenu_uploadship                    Télécharger
+steamworkshopmenu_updateselectedship            Mettre à jour la sélection
+steamworkshopmenu_shiplegalagreementtext        En soumettant cet article, vous acceptez les 
+steamworkshopmenu_shiplegalagreementbutton      conditions d'utilisation de l'atelier
+steamworkshopmenu_uploadshipprogress            =
+steamworkshopmenu_publishedshiplistlabel        Navires publiés
+steamworkshopmenu_refreshpublishedshiplist      Actualiser la liste
+steamworkshopmenu_subscribedshiplistlabel       Navires abonnés
+steamworkshopmenu_refreshsubscribedshiplist     Actualiser la liste
+steamworkshopmenu_loadselectedship              Charger
 
-steamworkshopmenu_close 			Fermer
+steamworkshopmenu_close                         Fermer
 
 
 # =============================================================================
@@ -269,17 +269,17 @@ newmainmenu_exportship                  EXPORTER LE VAISSEAU
 newmainmenu_includedocked               INCLURE LES VAISSEAUX A QUAI DANS L'EXPORTATION
 newmainmenu_uploadship                  TELECHARGER SUR STEAM
 newmainmenu_setshipname                 CHOISIR UN NOM DE VAISSEAU
-newmainmenu_importhostile 		IMPORTATION HOSTILE
-newmainmenu_importfriendly 		IMPORTATION AMI
-newmainmenu_createnewexport 		CREER UNE NOUVELLE EXPORTATION
-newmainmenu_createnewupload 		CREER UN NOUVEL ARTICLE DU WORKSHOP
-newmainmenu_updateexistingupload 	METTRE A JOUR L'ELEMENT EXISTANT DU WORKSHOP
-newmainmenu_steamworkshop 		WORKSHOP
-newmainmenu_uploadprogress 		PROGRES DU TELECHARGEMENT : *P %
-newmainmenu_quitmessage 		The Last Starship sera disponible en accès anticipé ce printemps !\n\nMerci d'avoir joue a la demo de The Last Starship.\nSi vous avez aime le jeu, veuillez l'ajouter a votre liste de souhaits Steam afin que vous puissiez en savoir plus sur le jeu des que possible, des sa sortie.
-newmainmenu_lockedindemo 		VERROUILLE DANS LA DEMO
-newmainmenu_multisystem_simulation 	Activer la simulation multisystème
-newmainmenu_debug_frespace 		Activer le debogage FreeSpace
+newmainmenu_importhostile               IMPORTATION HOSTILE
+newmainmenu_importfriendly              IMPORTATION AMI
+newmainmenu_createnewexport             CREER UNE NOUVELLE EXPORTATION
+newmainmenu_createnewupload             CREER UN NOUVEL ARTICLE DU WORKSHOP
+newmainmenu_updateexistingupload        METTRE A JOUR L'ELEMENT EXISTANT DU WORKSHOP
+newmainmenu_steamworkshop               WORKSHOP
+newmainmenu_uploadprogress              PROGRES DU TELECHARGEMENT : *P %
+newmainmenu_quitmessage                 The Last Starship sera disponible en accès anticipé ce printemps !\n\nMerci d'avoir joue a la demo de The Last Starship.\nSi vous avez aime le jeu, veuillez l'ajouter a votre liste de souhaits Steam afin que vous puissiez en savoir plus sur le jeu des que possible, des sa sortie.
+newmainmenu_lockedindemo                VERROUILLE DANS LA DEMO
+newmainmenu_multisystem_simulation      Activer la simulation multisystème
+newmainmenu_debug_freespace             Activer le debogage FreeSpace
 
 shiplibrary_hullonly                    (COQUE)
 
@@ -301,51 +301,51 @@ origin_steamuser                        Téléchargé sur le Steam Workshop
 # HUD
 # =============================================================================
 
-debugbuildpanel_hull 			Coque
-debugbuildpanel_scaffold 		Echafaudage
-debugbuildpanel_interior 		Intérieur
-debugbuildpanel_armour 			Armure
-debugbuildpanel_cable 			Câble
-debugbuildpanel_pipe 			Tuyau
-debugbuildpanel_equipment 		Equipement
-debugbuildpanel_floor 			Etage
-debugbuildpanel_habitation 		Habitation
-debugbuildpanel_wall 			Mur
-debugbuildpanel_entity 			Entité
-debugbuildpanel_damage 			Dommages
-debugbuildpanel_frame 			Châssis
+debugbuildpanel_hull					Coque
+debugbuildpanel_scaffold				Echafaudage
+debugbuildpanel_interior				Intérieur
+debugbuildpanel_armour					Armure
+debugbuildpanel_cable					Câble
+debugbuildpanel_pipe					Tuyau
+debugbuildpanel_equipment				Equipement
+debugbuildpanel_floor					Etage
+debugbuildpanel_habitation      		Habitation
+debugbuildpanel_wall					Mur
+debugbuildpanel_entity					Entité
+debugbuildpanel_damage					Dommages
+debugbuildpanel_frame                   Châssis
 
-save_warning_header 			AVERTISSEMENT : chargement de la future version de sauvegarde
-save_warning_body 			Vous avez chargé un jeu avec un futur format de sauvegarde, vous constaterez peut-être que certaines parties du jeu ne fonctionnent pas correctement
+save_warning_header                     AVERTISSEMENT : chargement de la future version de sauvegarde
+save_warning_body                       Vous avez chargé un jeu avec un futur format de sauvegarde, vous constaterez peut-être que certaines parties du jeu ne fonctionnent pas correctement
 
-hudmode_tactical 			TACTIQUE
-hudmode_external 			EXTERNE
-hudmode_multisystemsimulation 		SIMULATION MULTISYSTEME
+hudmode_tactical						TACTIQUE
+hudmode_external						EXTERNE
+hudmode_multisystemsimulation           SIMULATION MULTISYSTEME
 
-hud_trade 				Commerce
-hud_preparejump 			Préparer le saut
-hud_abortjump 				Abandonner le saut
-hud_aligning 				Alignement...
-hud_outofalignment 			Mal aligné...
-hud_idle 				Inactif
-hud_ready 				PRET
-hud_jump 				SAUTER
-hud_jumpnextsector 			SAUTER AU SECTEUR SUIVANT
-hud_ftlloading 				Chargement...
-hud_ftlcharging  			Recharge...
-hud_ftlcooldown 			Temps de recharge...
-hud_ftl 				Moteur FTL
-hud_ftlincluded  			Saut
-hud_ftlexcluded 			Rester
-hud_noftl 				AUCUN FTL TROUVE
-hud_ftlnodestination 			AUCUNE DESTINATION
-hud_ftlwaiting 				En attente...
-hud_debugbuild 				Débogage
-hud_endcreativemode 			Le mode créatif se terminera
-hud_endcreativemode2 			Lorsque vous passez à l'hyperespace
-hud_endcreativemodewarning 		QUITTER LE MODE CREATIF
-hud_endcreativemodefull 		Le mode créatif se terminera lorsque vous passerez en hyperespace
-hud_hyperspace 				HYPERESPACE
+hud_trade								Commerce
+hud_preparejump							Préparer le saut
+hud_abortjump							Abandonner le saut
+hud_aligning							Alignement...
+hud_outofalignment                      Mal aligné...
+hud_idle								Inactif
+hud_ready								PRET
+hud_jump								SAUTER
+hud_jumpnextsector						SAUTER AU SECTEUR SUIVANT
+hud_ftlloading							Chargement...
+hud_ftlcharging  						Recharge...
+hud_ftlcooldown							Temps de recharge...
+hud_ftl									Moteur FTL
+hud_ftlincluded                         Saut
+hud_ftlexcluded                         Rester
+hud_noftl								AUCUN FTL TROUVE
+hud_ftlnodestination					AUCUNE DESTINATION
+hud_ftlwaiting                          En attente...
+hud_debugbuild                          Débogage
+hud_endcreativemode                     Le mode créatif se terminera
+hud_endcreativemode2                    Lorsque vous passez à l'hyperespace
+hud_endcreativemodewarning              QUITTER LE MODE CREATIF
+hud_endcreativemodefull                 Le mode créatif se terminera lorsque vous passerez en hyperespace
+hud_hyperspace                          HYPERESPACE
 
 hud_direction_up                        Haut
 hud_direction_right                     Droite
@@ -1404,7 +1404,7 @@ tutorial_introduction2                  Cette station spatiale n'a pas été uti
 tutorial_camera_title                   COMMANDES DE LA CAMERA
 tutorial_cameracontrols                 Utilisez ZQSD ou les TOUCHES FLECHEES pour déplacer la vue.\n\nZoomez sur la vue à l'aide de la MOLETTE DE LA SOURIS ou de A/E sur le clavier.\n\nFaites glisser la vue en maintenant enfoncé le BOUTON DU MILIEU DE LA SOURIS.
 
-tutorial_power_title                    INSTALLATION DE L'ELECTRICITE
+tutorial_power_title                     INSTALLATION DE L'ELECTRICITE
 tutorial_power_titlecomplete            ENERGIE INSTALLEE
 tutorial_powerinstallmenu              Commençons par installer un REACTEUR, pour générer de l'énergie pour notre vaisseau.\n\nCliquez sur le menu CONSTRUCTION, puis cliquez sur INSTALLER.
 tutorial_powerselectreactor            Il s'agit de tout l'équipement en stock dont vous disposez à bord.\n\nSélectionnez REACTEUR dans la liste.

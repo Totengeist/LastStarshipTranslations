@@ -683,6 +683,7 @@ techtree_node_title_WeaponsConsoleExtraSlot1     Consola Armamentistica Espacio 
 techtree_node_caption_WeaponsConsoleExtraSlot1   La consola de Armas ahora puede conectar con 3 armamentos a la vez
 techtree_node_title_WeaponsConsoleExtraSlot2     Consola Armamentistica Espacio Extra
 techtree_node_caption_WeaponsConsoleExtraSlot2   La consola de Armas ahora puede conectar con 4 armamentos a la vez
+
 boost_SmelterEfficiency                 Smelter Efficiency +*X%
 special_WeaponsConsoleSlot3             Weapons Console 3rd Slot
 special_WeaponsConsoleSlot4             Weapons Console 4th Slot
@@ -1131,7 +1132,7 @@ object_fabricator                       Fabricador
 object_assembler                        Mesa de Ensamblado
 object_robotarm                         Brazo Robotico
 object_robotarmshort                    Brazo Robotico Corto
-object_robotarmsmart			Brazo Robotico Inteligente
+object_robotarmsmart			        Brazo Robotico Inteligente
 object_track                            Cinta Transportadora
 object_ruinedequipment                  Equipamiento en Ruinas
 object_solarpanel                       Panel Solar
