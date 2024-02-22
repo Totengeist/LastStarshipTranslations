@@ -25,7 +25,7 @@ jobs:
       run: |
         for d in */ ; do
           pushd "$d"
-          zip -r -v "../../LastStarshipTranslations_$d_nightly.zip" assets/ data/ ../README.md
+          zip -r -v "../../LastStarshipTranslations_${d%/}_nightly.zip" assets/ data/ ../README.md
           popd
         done
       working-directory: ./legacy
