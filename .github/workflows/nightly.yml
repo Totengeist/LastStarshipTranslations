@@ -17,20 +17,29 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
 
-    - name: Package Files
-      run: zip -r -v ../LastStarshipTranslations_nightly.zip assets/ data/ ../README.md
+    - name: Package latest translations
+      run: zip -r -v ../LastStarshipTranslations_alpha8_nightly.zip assets/ data/ ../README.md
       working-directory: ./latest
+
+    - name: Package legacy translations
+      run: |
+        for d in */ ; do
+          pushd "$d"
+          zip -r -v "../../LastStarshipTranslations_$d_nightly.zip" assets/ data/ ../README.md
+          popd
+        done
+      working-directory: ./legacy
 
     - name: Update git tag
       run: |
         git tag -f nightly
         git push -f origin nightly
 
-    - name: Update Nightly Release
+    - name: Update nightly release
       uses: ncipollo/release-action@main
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        artifacts: "LastStarshipTranslations_nightly.zip"
+        artifacts: "LastStarshipTranslations_*_nightly.zip"
         tag: "nightly"
         commit: ${{ github.ref_name }}
         prerelease: true
