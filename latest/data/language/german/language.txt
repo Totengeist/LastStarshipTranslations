@@ -1,0 +1,1259 @@
+﻿
+# =============================================================================
+# Basic dialog strings
+# =============================================================================
+
+dialog_new                              Neu
+dialog_load                             Laden
+dialog_save                             Speichern
+dialog_saveas                           Speichern unter
+dialog_delete                           Löschen
+dialog_width                            Breite
+dialog_height                           Höhe
+dialog_name                             Name
+dialog_type                             Art
+dialog_x                                X
+dialog_y                                Y
+dialog_z								Z
+dialog_w                                W
+dialog_h                                H
+dialog_exit                             Beenden
+dialog_cancel                           Abbrechen
+dialog_ok                               OK
+dialog_open                             Öffnen
+dialog_close                            Schließen
+dialog_closed                           Geschlossen
+dialog_add                              Hinzufügen
+dialog_up                               Nach oben
+dialog_down                             Nach unten
+dialog_yes                              Ja
+dialog_no                               Nein
+dialog_loading                          Laden …
+dialog_low                              Niedrig
+dialog_medium                           Mittel
+dialog_high                             Hoch
+dialog_none                             Nichts
+ellipsis                                …
+
+# =============================================================================
+# Analytics Consent Dialog
+# =============================================================================
+
+analyticsconsentdialog_title           Erfassung von Telemetriedaten
+analyticsconsentdialog_accept          Zustimmen
+analyticsconsentdialog_reject          Ablehnen
+analyticsconsentdialog_moreinfo        Weitere Informationen …
+analyticsconsentdialog_text            Wir sammeln Nutzungsdaten, damit wir ein besseres Verständnis dafür gewinnen, wie gespielt wird, und damit wir das Spiel verbessern können. \n\nWir erfassen keine personenbezogenen Daten. Wenn du mit der Erfassung einverstanden bist, klicke bitte auf die Schaltfläche „Zustimmen“.
+
+
+# =============================================================================
+# File Dialog
+# =============================================================================
+
+filedialog_title                       Datei auswählen
+
+# =============================================================================
+# Dialog Editor
+# =============================================================================
+
+dialogeditor_title                      Dialog-Editor
+dialogeditor_back                       Zurück
+dialogeditor_front                      Vorderseite
+dialogeditor_reloadlanguage             Sprache neu laden
+dialogeditor_test                       Test
+dialogeditor_window                     Fenster
+dialogeditor_grid                       Gitter
+dialogeditor_caption                    Titel
+dialogeditor_component                  Komponente
+dialogeditor_select						Auswählen
+dialogeditor_create						Erstellen
+dialogeditor_background                 HG-Bild
+dialogeditor_panel                      Bereich
+
+dialogcomponent_custom                  Benutzerdefiniert
+dialogcomponent_button                  Taste
+dialogcomponent_container               Container
+dialogcomponent_caption                 Titel
+dialogcomponent_titlecaption            Titel
+dialogcomponent_checkbox                Kontrollkästchen
+dialogcomponent_inputfield              Eingabefeld
+dialogcomponent_inputslider             Eingabe-Schieberegler
+dialogcomponent_dropdownmenu            Dropdownmenü
+dialogcomponent_selectionlist           Auswahlliste
+dialogcomponent_selectionlistitem       Auswahllistenelement
+dialogcomponent_scrollbar               Bildlaufleiste
+dialogcomponent_progressbar             Statusleiste
+dialogcomponent_canvas                  Zeichenbereich
+dialogcomponent_iconbox					Symbolfeld
+
+dialogposition_absolute                 Absolut
+dialogposition_relative                 Relativ
+dialogposition_scaled                   Skaliert
+
+
+# =============================================================================
+# Profiler
+# =============================================================================
+
+profiler_title                          Profiler
+profiler_name                           Name
+profiler_timings                        Timings
+profiler_totaltime                      Gesamt
+profiler_glfinishcaption                glFinish
+profiler_reset                          Zurücksetzen
+
+
+# =============================================================================
+# Sound tools
+# =============================================================================
+
+soundchannelviewer_title                Sound-Kanäle
+soundeditor_title                       Sound-Editor
+soundinstanceeditor_title				Sound-Instance-Editor
+
+soundeditor_positiontitle		        Position Art
+soundeditor_instancetitle		        Instance-Typ
+soundeditor_looptitle			        Loop-Typ
+soundeditor_sourcetypetitle		        Sound-Typ
+soundeditor_soundnametitle		        Sound-Name
+
+soundeditor_volumetitle			        Lautstärke
+soundeditor_frequencytitle              Frequenz
+soundeditor_mindistancetitle            Mindestabstand
+soundeditor_attacktitle                 Attack
+soundeditor_sustaintitle                Sustain
+soundeditor_releasetitle                Release
+soundeditor_loopdelaytitle              Loop-Verzögerung
+soundeditor_dsptitle                    DSP
+soundeditor_nexteventtitle              Nächstes Event
+
+soundeditor_play                        Abspielen
+soundeditor_stop                        Stopp
+
+soundparametereditor_title              Soundparameter
+soundparametereditor_typetitle          Art
+soundparametereditor_linktitle          Linked To
+soundparametereditor_updatetitle        Update-Typ
+soundparametereditor_smoothing          Glätten
+soundparametereditor_chaintitle         Chain
+
+soundeditor_newdsp                      DSP hinzufügen
+sounddspeditor_title                    DSP-Editor
+samplebankeditor_title                  Sample-Bank-Editor
+samplebankeditor_addsample              Sound hinzufügen
+samplebank                              (Sample-Bank)
+
+
+# =============================================================================
+# Main Menu
+# =============================================================================
+
+tagline									THE LAST STARSHIP
+mainmenu_title							Hauptmenü
+mainmenu_newgameA 						Neues Spiel: Praktyka
+mainmenu_newgameB                       Neues Spiel: Sleek
+mainmenu_newgameC                       Neues Spiel: Inner Shapes
+mainmenu_newgameD                       Neues Spiel: Shipyard
+mainmenu_newgameE                       Neues Spiel: Large Logistics
+mainmenu_savegame                       Spiel speichern
+mainmenu_loadgame                       Spiel laden
+mainmenu_abandongame					Spiel abbrechen
+mainmenu_steamworkshop                  Steam Workshop
+mainmenu_tweet                          Twittere mein Sternenschiff!
+mainmenu_legal                          Datenschutz/Rechtliches
+
+mainmenu_gamemode_survival              Überleben
+mainmenu_gamemode_survival_tooltip      Sei, solange du kannst, der Anomalie immer einen Schritt voraus.
+mainmenu_gamemode_freeroam              Ungebunden
+mainmenu_gamemode_freeroam_tooltip      Es steht dir frei, jede Laufbahn einzuschlagen und dabei selbst dein Tempo zu bestimmen. Keine Anomalie.
+mainmenu_gamemode_creative              Kreativ
+mainmenu_gamemode_creative_tooltip      Dir stehen unbegrenzte Ressourcen zur Verfügung, um jedes Schiff zu bauen, das du willst.
+mainmenu_gamemode_industry              Industrie
+mainmenu_gamemode_industry_tooltip      Du hast das Ziel, die Voraussetzungen für ein Sternentor nach Andromeda zu erforschen und es zu konstruieren.
+
+mainmenu_createship						DEVELOPER Schiff erstellen
+mainmenu_loadship						DEVELOPER Schiff laden
+mainmenu_loadgamedev                    DEVELOPER Testspiel laden
+
+mainmenu_exportship                     Schiff exportieren
+mainmenu_importship                     Schiff importieren
+mainmenu_importfriendly                 Verbündetes Schiff importieren
+mainmenu_importhostile					Gegnerisches Schiff importieren
+mainmenu_tools							Entwickler-Tools
+mainmenu_quit 							Beenden
+
+settings_analytics                      Analytik
+settings_hud                            HUD anzeigen
+settings_music                          Musik
+settings_hudscale                       UI-Skalierung
+settings_mastervolume                   Hauptlautstärke
+settings_effectsvolume                  Effektlautstärke
+settings_musicvolume                    Musiklautstärke
+settings_fullscreen                     Vollbild
+settings_resolution                     Auflösung
+settings_language                       Sprache
+
+legal_button                            Rechtsinformationen
+wishlist_button                         Zur Wunschliste hinzufügen
+feedback_button                         Feedback geben
+
+toolsmenu_title                         Tools-Menü
+toolsmenu_dialogeditor                  Dialog-Editor
+toolsmenu_spriteeditor                  Sprite-Editor
+toolsmenu_close                         Schließen
+
+
+# =============================================================================
+# Steam Workshop Menu
+# =============================================================================
+
+steamworkshopmenu_title                         Steam Workshop: Menü
+
+# Save Games section on the left
+steamworkshopmenu_savegamesectionlabel          ========================== Gespeicherte Spielstände ==========================
+steamworkshopmenu_uploadsavegametitlelabel      Titel
+steamworkshopmenu_uploadsavegamedesclabel       Beschreibung
+steamworkshopmenu_uploadsavegame                Hochladen
+steamworkshopmenu_updateselectedsavegame        Ausgewählte aktualisieren
+steamworkshopmenu_savegamelegalagreementtext    Indem du diesen Artikel einreichst, erklärst du dich mit den
+steamworkshopmenu_savegamelegalagreementbutton  Nutzungsbedingungen des Workshops einverstanden.
+steamworkshopmenu_uploadsavegameprogress        =
+steamworkshopmenu_publishedsavegamelistlabel    Veröffentlichte Spielstände
+steamworkshopmenu_refreshpublishedsavegamelist  Liste aktualisieren
+steamworkshopmenu_subscribedsavegamelistlabel   Abonnierte Spielstände
+steamworkshopmenu_refreshsubscribedsavegamelist Liste aktualisieren
+steamworkshopmenu_loadselectedsavegame          Laden
+
+# Ship section on the right
+steamworkshopmenu_shipsectionlabel              =============================== Schiffe ===============================
+steamworkshopmenu_uploadshiptitlelabel          Titel
+steamworkshopmenu_uploadshipdesclabel           Beschreibung
+steamworkshopmenu_uploadship                    Hochladen
+steamworkshopmenu_updateselectedship            Ausgewählte aktualisieren
+steamworkshopmenu_shiplegalagreementtext        Indem du diesen Artikel einreichst, erklärst du dich mit den
+steamworkshopmenu_shiplegalagreementbutton      Nutzungsbedingungen des Workshops einverstanden.
+steamworkshopmenu_uploadshipprogress            =
+steamworkshopmenu_publishedshiplistlabel        Veröffentlichte Schiffe
+steamworkshopmenu_refreshpublishedshiplist      Liste aktualisieren
+steamworkshopmenu_subscribedshiplistlabel       Abonnierte Schiffe
+steamworkshopmenu_refreshsubscribedshiplist     Liste aktualisieren
+steamworkshopmenu_loadselectedship              Laden
+
+steamworkshopmenu_close                         Schließen
+
+
+# =============================================================================
+# New Main Menu
+# =============================================================================
+
+newmainmenu_newgame                     NEUES SPIEL
+newmainmenu_loadgame                    SPIEL LADEN
+newmainmenu_savegame                    SPIEL SPEICHERN
+newmainmenu_settings                    EINSTELLUNGEN
+newmainmenu_quit                        BEENDEN
+newmainmenu_abandon                     SPIEL ABBRECHEN
+newmainmenu_resume                      FORTFAHREN
+newmainmenu_chooseship                  STARTSCHIFF AUSWÄHLEN
+newmainmenu_begingame                   SPIEL BEGINNEN
+newmainmenu_shipeditor                  KREATIVMODUS
+newmainmenu_editship                    SCHIFF BEARBEITEN
+newmainmenu_loadship                    SCHIFF LADEN
+newmainmenu_loadgamedev                 SPIEL LADEN (DEV)
+newmainmenu_createship                  NEUES SCHIFF ERSTELLEN
+newmainmenu_createnewsave               NEUEN SPEICHERSTAND ERSTELLEN
+newmainmenu_exportship                  SCHIFF EXPORTIEREN
+newmainmenu_includedocked               ANGEKOPPELTE SCHIFFE MIT EXPORTIEREN
+newmainmenu_uploadship                  AUF STEAM HOCHLADEN
+newmainmenu_setshipname                 SCHIFFSNAMEN FESTLEGEN
+newmainmenu_importhostile               GEGNER IMPORTIEREN
+newmainmenu_importfriendly              VERBÜNDETE IMPORTIEREN
+newmainmenu_createnewexport             NEUEN EXPORT ERSTELLEN
+newmainmenu_createnewupload             NEUES WORKSHOP-OBJEKT ERSTELLEN
+newmainmenu_updateexistingupload        BESTEHENDES WORKSHOP-OBJEKT AKTUALISIEREN
+newmainmenu_steamworkshop               STEAM WORKSHOP
+newmainmenu_uploadprogress              UPLOAD-FORTSCHRITT: *P %
+newmainmenu_quitmessage                 Die Early-Access-Phase von „The Last Starship“ beginnt dieses Frühjahr!\n\nVielen Dank, dass du die Demo von „The Last Starship“ gespielt hast.\nSollte dir das Spiel gefallen haben, nimm es bitte in deine Wunschliste bei Steam auf. Dann erfährst du sofort, wenn das Spiel veröffentlicht wird.
+newmainmenu_lockedindemo                IN DER DEMO GESPERRT
+
+shiplibrary_hullonly                    (HÜLLE)
+
+scenario_funds                          FINANZMITTEL
+scenario_praxis                         Eignet sich für neue Spieler am besten. Dieses kleine Wissenschaftsschiff verfügt über alles, was man für interstellare Abenteuer braucht, und seine Vorräte reichen für eine kleine Crew.
+scenario_sleek                          Komplexer in allen Belangen. Dieses große und leistungsfähige Schiff bietet viel Raum für Upgrades, allerdings musst du die gesamte Ausrüstung und alle Vorräte selbst kaufen, bevor du an Bord gehst.
+scenario_innershapes                    Dieses große Schiff eignet sich gut für den Kampf und gefährliche Einsätze. Der vordere Bereich seiner Hülle ist komplett gepanzert.
+scenario_largelogistics                 Dieses Schiff ist modular konzipiert und somit leicht erweiterbar. Es ist perfekt für interstellare Logistik und Ressourcengewinnung geeignet. Die Kabine eignet sich für mehr als 50 Crewmitglieder oder Passagiere.
+scenario_carrierfrigate                 Dieser Rumpf eignet sich perfekt für das gewalttätige Streben nach Waffeneinsatz im Kampf.
+scenario_shipyard                       Konstruiere dein eigenes Schiff! Das absolute Minimum, was man sich für einen Raumschiffsrumpf so vorstellen kann, aber – du bist an einer voll funktionsfähigen Schiffswerft angekoppelt und verfügst über ein großzügiges Startbudget.
+scenario_industry                       Das Projekt Sternentor braucht deine Unterstützung! Du fertigst Teile für das Megaprojekt Sternentor, mit dem du zur Andromeda-Galaxie gelangen willst. Im Mittelpunkt des Fertigungsprozesses stehen Industrie und Automatisierung.
+origin_official                         Offiziell
+origin_community                        Community
+origin_user                             Von Spielern erstellt
+origin_steam                            Im Steam Workshop abonniert
+origin_steamuser                        Zum Steam Workshop hochgeladen
+
+# =============================================================================
+# HUD
+# =============================================================================
+
+debugbuildpanel_hull					Hülle
+debugbuildpanel_scaffold				Gerüst
+debugbuildpanel_interior				Innen
+debugbuildpanel_armour					Panzerung
+debugbuildpanel_cable					Kabel
+debugbuildpanel_pipe					Rohrleitung
+debugbuildpanel_equipment				Ausrüstung
+debugbuildpanel_floor					Boden
+debugbuildpanel_habitation      		Quartiere
+debugbuildpanel_wall					Wand
+debugbuildpanel_entity					Entität
+debugbuildpanel_damage					Schaden
+debugbuildpanel_frame                   Rahmen
+
+hudmode_tactical						TAKTISCH
+hudmode_external						EXTERN
+
+hud_trade								Handel
+hud_preparejump							Sprung vorbereiten
+hud_abortjump							Sprung abbrechen
+hud_aligning							Ausrichten …
+hud_outofalignment                      Nicht ausgerichtet …
+hud_idle								Leerlauf
+hud_ready								BEREIT
+hud_jump								SPRINGEN
+hud_jumpnextsector						ZUM NÄCHSTEN SEKTOR SPRINGEN
+hud_ftlloading							Laden …
+hud_ftlcharging  						Aufladen …
+hud_ftlcooldown							Cooldown …
+hud_ftl									FTL-Antrieb
+hud_noftl								KEIN FTL GEFUNDEN
+hud_ftlnodestination					KEIN ZIELORT
+hud_debugbuild                          Debuggen
+hud_endcreativemode                     Der Kreativmodus wird beendet,
+hud_endcreativemode2                    wenn du in den Hyperraum wechselst.
+
+hud_direction_up                        Hafen
+hud_direction_right                     Bugwärts
+hud_direction_down                      Steuerbord
+hud_direction_left                      Achtern
+hud_camerattracking                     Kameraverfolgung
+hud_enabled                             Aktiviert
+hud_disabled                            Deaktiviert
+
+hud_window_construction                 KONSTRUKTION
+hud_window_designation					BESTIMMUNG
+hud_window_shipyard                     WERFT
+hud_window_trade                        HANDEL
+hud_window_missions						VERTRÄGE
+hud_window_power                        ENERGIEVERSORGUNGSNETZ
+hud_window_logistics                    LOGISTIK
+hud_window_ftl                          FTL
+hud_window_sectormap					SEKTORENKARTE
+hud_window_score                        PUNKTESTAND
+hud_window_editor                       EDITOR
+hud_window_stargate                     STERNENTOR
+
+hud_scoresystem_population              Bevölkerung
+hud_scoresystem_sectorjump              Sektorensprung
+
+hud_overlays							OVERLAYS
+hud_overlay_cables                      Kabel
+hud_overlay_pipes                       Rohrleitungen
+hud_overlay_walls                       Wände
+hud_overlay_atmosphere                  Atmosphäre
+hud_overlay_exterior                    Außen
+hud_overlay_habitation					Quartiere Deck
+hud_overlay_jobs						Jobs
+hud_overlay_structure                   Struktur
+hud_overlay_schematic                   Plan
+hud_overlay_creativemode                – Kreativmodus –
+
+hud_doors								TÜREN
+hud_doors_openall						Alle öffnen
+hud_doors_closeall						Alle schließen
+hud_doors_openvents						Alle Belüftung
+hud_doors_closevents					Belüftung schließen
+
+hud_orders								BEFEHLE
+hud_install                             Installieren
+hud_uninstall							Demontieren
+hud_status_allocated					Zugewiesen
+hud_status_inprogress					In Bearbeitung
+hud_storage								Lager
+hud_zones								Zonen
+hud_storage_cargo						BELIEBIGE FRACHT
+hud_storage_equipment				    Beliebige Ausrüstung
+hud_storage_component                   Beliebige Komponenten
+hud_editor                              EDITOR
+
+hud_shipyard                            Werft
+hud_shipyard_buildhull					Hülle konstruieren
+hud_shipyard_buildinterior				Innenbereich erstellen
+hud_shipyard_buildarmour				Installieren Panzerung
+hud_shipyard_buildscaffold				Gerüst bauen
+hud_shipyard_buildhabitation            Quartiere hinzufügen Deck
+hud_shipyard_buildrepairone             Repariere 100 Schaden.
+hud_shipyard_buildrepairall             Repariere den GESAMTEN Schaden.
+
+hud_tooltip_leftclickplace              [LMT] Platzieren
+hud_tooltip_leftclickbuild              [LMT] Bauen
+hud_tooltip_leftclickdismantle          [LMT] Demontieren
+hud_tooltip_rightclickcancel            [RMT] Abbrechen
+hud_tooltip_rightclickclear             [RMT] Entfernen
+hud_tooltip_rightclickdelete            [RMT] Löschen
+hud_tooltip_rightclickpurge             [RMT] Purge
+hud_tooltip_leftclickchangerecipe       [LMT] Rezept wechseln
+hud_tooltip_rightclickconfigure         [RMT] Konfigurieren
+hud_tooltip_rotate                      [R] Drehen
+hud_tooltip_boxed                       [VERPACKT]
+hud_tooltip_charge                      Ladung
+hud_totalproduction                     GESAMTPRODUKTION
+
+hud_mission_collection                  MISSIONSERFÜLLUNG NOCH NICHT ABGESCHLOSSEN
+
+hud_layer_hostile                       GEGNER
+hud_layer_derelict                      WRACK
+hud_layer_forsale                       [ZU VERKAUFEN]
+
+hud_trade_incoming                      HANDELSANFRAGE
+hud_trade_owed                          HANDEL AUSSTEHEND
+hud_drones_deployed                     ACHTUNG! EINGESETZTE DROHNEN: *X
+hud_spacewalking_crew                   ACHTUNG! CREWMITGLIEDER IM ALL: *X
+
+hud_invalidplacement                    UNZULÄSSIGE PLATZIERUNG
+hud_invalidplacement_tooltip            Diese Ausrüstung kann nicht richtig funktionieren, wenn sie an dieser Stelle montiert bzw. installiert ist.
+
+communicator_incomingcall               WIR WERDEN GERUFEN …
+
+# =============================================================================
+# Welfare
+# =============================================================================
+
+welfare_overlay_severely_dehydrated     CREW STARK DEHYDRIERT
+welfare_overlay_dehydrated              CREW DEHYDRIERT
+welfare_overlay_thirsty                 CREW DURSTIG
+
+welfare_overlay_famished                CREW VERHUNGERT
+welfare_overlay_starving                CREW HUNGERT
+welfare_overlay_hungry                  CREW HUNGRIG
+
+# =============================================================================
+# Equipment
+# =============================================================================
+
+equipment_temperature_short             TEMP
+equipment_power                         ENERGIE
+equipment_output                        ERGEBNIS
+equipment_blocked                       BLOCKIERT
+
+equipment_factory_stop                  STOPP
+equipment_factory_stopped               ANGEHALTEN
+equipment_factory_refine                *X veredeln
+equipment_factory_make                  *X herstellen
+
+# =============================================================================
+# Ship Editor
+# =============================================================================
+
+shipeditor_commit                       BESTÄTIGEN
+shipeditor_shipyardrequired1            Du musst eine Werft aufsuchen,
+shipeditor_shipyardrequired2            um die Änderungen umzusetzen.
+shipeditor_mode_hull                    Hülle
+shipeditor_tooltip_hull                 Verändere die Form der Hülle des Raumschiffs.
+shipeditor_mode_interior                Böden
+shipeditor_tooltip_interior             Schaffe im Inneren des Raumschiffs Platz für Kabinen.
+shipeditor_mode_walls                   Wände
+shipeditor_tooltip_walls                Ziehe in deinem Raumschiff Wände, um den Innenraum zu unterteilen.
+shipeditor_mode_armour                  Panzerung
+shipeditor_tooltip_armour               Rüste die Hülle mithilfe von Panzerplatten auf, die Schaden absorbieren
+shipeditor_mode_habitation              Quartiere
+shipeditor_tooltip_habitation           Erweitere die Quartiere, um eine größere Zahl an Crewmitgliedern und Passagieren unterbringen zu können.
+shipeditor_mode_scaffold                Gerüst
+shipeditor_tooltip_scaffold             Füge ein Gerüst hinzu, um Ausrüstung an der Außenseite des Schiffes zu unterstützen.
+shipeditor_mode_dock                    Ankoppeln
+shipeditor_tooltip_dock                 Montiere ein Kopplungssystem. Jedes Schiff braucht mindestens einen funktionierenden Kopplungsadapter.
+shipeditor_mode_deconstruct             Zerstören
+shipeditor_tooltip_deconstruct          Nimm das Schiff Quadrat für Quadrat auseinander.
+shipeditor_mode_createship              Schiff erstellen
+shipeditor_tooltip_createship           Erstelle ein neues Schiff von Grund auf.
+shipeditor_mode_spawn                   Spawnen
+shipeditor_tooltip_spawn                Spawne im Innern des Schiffs Ausrüstung und Ressourcen (nur im Kreativmodus).
+shipeditor_brush_freehand               FREIHAND
+shipeditor_brush_box                    KISTEN-TOOL
+shipeditor_price_button                 Kosten
+
+shipeditor_stat_Mass                    Masse
+shipeditor_stat_Toughness               Belastbarkeit
+shipeditor_stat_Capacity                Kapazität
+shipeditor_stat_Value                   Wert
+
+shipeditor_symmetry                     SYMMETRIE
+shipeditor_symmetry_short               S
+shipeditor_symmetry_leftclickdrag       [LMT] Ziehen
+shipeditor_symmetry_rightclicktoggle    [RMT] Umschalten
+
+
+# =============================================================================
+# Interstellar Travel
+# =============================================================================
+
+interstellar_travel						INTERSTELLARES REISEN
+
+galaxymap_title							SEKTORENKARTE
+galaxymap_entrysystem					Ankunft
+galaxymap_exitsystem					Zum nächsten Sektor
+galaxymap_fleet							FLOTTEN
+galaxymap_unreachable					AUSSERHALB DER REICHWEITE
+galaxymap_civilians                     ZIVILISTEN
+galaxymap_noescape						KEIN ENTKOMMEN
+galaxymap_colony						KOLONIE
+galaxymap_starbase						STERNENBASIS
+galaxymap_shipyard						WERFT
+galaxymap_distresscall					NOTRUF
+galaxymap_derelict						WRACK
+galaxymap_hostile                       GEGNER
+galaxymap_objectives                    SEKTORENVERTRÄGE
+galaxymap_comet                         KOMET
+sector_start                            HEIMATSEKTOR
+
+galaxymap_endof                         ENDE DER
+galaxymap_demo                          DEMO
+galaxymap_playtest                      SPIELTEST
+
+
+# =============================================================================
+# Power Grid
+# =============================================================================
+
+powergrid_title							ENERGIEVERSORGUNGSNETZ
+powergrid_power                         ENERGIE
+powergrid_category_reactor              REAKTOR
+powergrid_category_battery              AKKU
+powergrid_category_engines              TRIEBWERKE
+powergrid_category_FTL                  FTL
+powergrid_category_weapons              WAFFEN
+powergrid_category_defenses             VERTEIDIGUNG
+powergrid_category_lifesupport          LEBENSERHALTUNG
+powergrid_category_logistics			LOGISTIK
+powergrid_category_other                SONSTIGES
+
+
+# =============================================================================
+# Trade
+# =============================================================================
+
+trade_title                             HANDEL
+trade_category_equipment                Ausrüstung
+trade_category_resource                 Ressource
+trade_category_reagent                  Reagens
+trade_cash                              Bargeld
+trade_confirm                           BESTÄTIGEN
+trade_buy                               KAUFEN
+trade_sell                              VERKAUFEN
+trade_cannot                            UNGENÜGENDE
+trade_afford                            MITTEL
+trade_cannot_afford                     UNGENÜGENDE MITTEL
+trade_cost                              Kosten
+trade_cost_price                        Kosten: *X
+trade_profit                            Gewinn
+trade_showoutofstock                    Nicht Vorrätige anzeigen
+
+trade_overlay_price                     PREIS
+trade_overlay_them                      GEGENPARTEI
+trade_overlay_you                       DU
+trade_overlay_boxed                     [Verpackt]
+
+trade_window_Energy                     Energie
+trade_window_Propulsion                 Antrieb
+trade_window_Habitation                 Quartiere
+trade_window_Defense                    Verteidigung
+trade_window_Industry                   Industrie
+trade_window_Logistics                  Logistik
+trade_window_Resources                  Ressourcen
+trade_window_Components                 Komponenten
+trade_window_Crew                       Crew
+
+trade_equipment_size                    – Größe: *X x *Y
+trade_equipment_rotatable               – Drehbar
+trade_equipment_powered                 – Mit Energie versorgt
+trade_equipment_charge                  – Ladung (pro Nutzung): *X MW
+trade_stack                             *Xer-Stapel
+trade_boxed                             Verpackt
+trade_component                         Komponente
+trade_sell_ship                         SCHIFF VERKAUFEN
+
+trade_allitems                          ALLE GEGENSTÄNDE
+
+trade_tooltip_buy                       [LMT] Kaufen
+trade_tooltip_sell                      [LMT] Verkaufen
+trade_tooltip_cancel                    [RMT] Abbrechen
+trade_tooltip_shift                     [UMSCHALT] x5
+trade_ourstock                          Du hast *X an Bord:
+trade_buying                            Ankauf: *X
+trade_selling                           Verkauf: *X
+trade_tooltip_canceltrade               [LMT] Abbrechen
+trade_tooltip_cancelalltrade            [RMT] Alle abbrechen
+
+trade_profit                            *X GEWINN
+trade_cost                              KOSTEN: *X
+trade_cash                              BARGELD: *x
+
+# =============================================================================
+# Tactical Window
+# =============================================================================
+
+tactical_docked                         — ANGEKOPPELT —
+tactical_undock                         ABKOPPELN
+tactical_throttle                       LEISTUNG
+tactical_detach_all                     ALLE ABTRENNEN
+tactical_velocity                       GESCHWINDIGKEIT
+tactical_evasion                        AUSWEICHEN
+tactical_weapons                        WAFFEN
+tactical_fire                           FEUERN
+tactical_hold                           HALTEN
+tactical_maneuvering                    MANÖVRIERT
+tactical_damaged                        BESCHÄDIGT
+tactical_reloading                      LÄDT NACH
+tactical_lowpower                       ENERGIE GEHT ZUR NEIGE
+
+# =============================================================================
+# Logistics Window
+# =============================================================================
+
+logisticswindow_title                   LOGISTIK
+
+logistics_tooltip_transfer              [LMT] 1 von diesem Schiff übernommen: *X
+
+
+# =============================================================================
+# Missions / Contracts
+# =============================================================================
+
+missions_title							VERTRÄGE
+mission_accept							Annehmen
+mission_accepted						Angenommen
+mission_acceptonlayer                   Annehmen und zuweisen: *X
+mission_assignedtolayer                 Angenommen und zugewiesen: L*X
+mission_cannotassigntolayer             Kann *X nicht zugewiesen werden
+
+mission_episode_1                       EPISODE 1
+mission_deliver							Liefern
+mission_turnin							Vertrag abschließen
+mission_completed						ABGESCHLOSSEN
+mission_missioncompleted                VERTRAG ABGESCHLOSSEN
+mission_paymenttitle                    Bezahlung
+mission_paymentcash                     HONORAR: *X
+mission_payment							Das wird *X $ kosten.
+mission_paymentinflation                (Der Auftraggeber bietet das *Xfache des üblichen Betrags.)
+mission_paymentinflationpercent         (Der Auftraggeber bietet *X % mehr als sonst.)
+mission_contractcompleted				Vertrag abgeschlossen
+mission_cannotaccept                    Du kannst diese Mission nicht annehmen.
+mission_special                         Sondermission
+mission_new                             NEU
+mission_illegal                         ILLEGALE AKTIVITÄT
+mission_assignedto                      (Zugewiesen: *X)
+
+mission_requires_equipment              Vertrag erfordert Ausrüstung: *X
+mission_requires_stock                  Vertrag erfordert *X
+mission_requires_combatvessel           Vertrag erfordert bewaffnetes Kampfschiff.
+mission_requires_cabinspace             Vertrag erfordert mindestens *X freie Kabinen.
+mission_requires_combatrating           Du brauchst einen Kampfwert von mindestens *X.
+mission_requires_industryrating         Du brauchst einen Industriewert von mindestens *X.
+mission_requires_logisticsrating        Du brauchst einen Logistikwert von mindestens *X.
+mission_requires_humanitarianrating     Du brauchst eine Humanitäre Wert von mindestens *X.
+mission_requires_notindemo              Für Demo-Spieler nicht verfügbar
+mission_difficulty                      Diese Mission hat den Schwierigkeitsgrad „*X“.
+
+mission_requirement_passed              [ERFÜLLT]
+mission_requirement_failed              [FEHLGESCHLAGEN]
+
+mission_type_delivery					Lieferung
+mission_delivery_title					Kuriermission: Liefere Fracht in ein nahe gelegenes System.
+mission_delivery_titlefurther			Liefere Fracht in ein anderes System.
+mission_delivery_description			Ich habe *X Kisten mit Vorräten, die ausgeliefert werden müssen.
+mission_delivery_descriptionfurther		Der Zielort ist *Y Sektorsprünge weit entfernt im Sektor *X.
+mission_delivery_destination			Der Zielort befindet sich in aktuellen Sektor im Sternensystem *X.
+mission_delivery_timed                  Diese Waren werden sofort benötigt. Dir stehen nur *X Minuten zur Verfügung (+50 % Honorar).
+mission_delivery_timeremaining          Du musst innerhalb der nächsten *X Sekunden die Lieferung durchführen!
+mission_delivery_outoftime              Es ist zu spät. Für die restliche Ladung wirst du nicht mehr bezahlt.
+mission_delivery_shuttle				Ein Shuttle mit den Vorräten ist jetzt zu dir unterwegs.
+mission_delivery_delivery				*X von *Y Gegenständen geliefert.
+mission_delivery_alldelivered			Die gesamte Fracht ist geliefert worden. Viel Glück!
+mission_delivery_turnin					Ein Shuttle ist unterwegs, um die Fracht abzuholen.
+mission_delivery_received				*X von *Y Gegenständen erhalten. Fällige Gesamtzahlung: *Z $.
+mission_delivery_toolate                *X von *Y Gegenständen erhalten, das Zeitlimit ist jetzt jedoch überschritten.
+mission_delivery_lost                   Die verbleibenden *X Gegenstände der Fracht sind unauffindbar.
+mission_delivery_wrongdestination       Ein Teil der Ladung wurde an den falschen Ort geliefert. Du erhältst keine Bezahlung.
+mission_delivery_success                *X von *Y Artikeln geliefert
+
+mission_type_passengers					Passagiere befördern
+mission_passengers_title				Dringende Anfrage zur Personenbeförderung
+mission_passengers_titlefurther			Einige Passagiere benötigen einen sektorübergreifenden Transport.
+mission_passengers_description			Eine Gruppe von *X Zivilisten hätte gerne eine sichere Transportmöglichkeit.
+mission_passengers_descriptionfurther	Ihr Zielort ist *Y Sektorsprünge entfernt, und zwar in Sektor *X.
+mission_passengers_destination			Ihr Zielort liegt im aktuellen Sektor. Setze sie im Sternensystem *X ab.
+mission_passengers_requirements         In den Quartieren deines Schiffs muss es genügend freie Kabinen geben.
+mission_passengers_shuttle				Sie sind jetzt auf dem Weg zu dir und werden in Kürze ankoppeln.
+mission_passengers_delivery				*X von *Y Passagieren sind an Bord.
+mission_passengers_alldelivered			Das wars. Alle Passagiere sind an Bord des Schiffs. Gute und sichere Reise!
+mission_passengers_turnin				Willkommen! Wir haben ein Shuttle losgeschickt, um die Passagiere abzuholen.
+mission_passengers_received				*X Passagiere von *Y haben es sicher an den Zielort geschafft. Fällige Gesamtzahlung: *Z $.
+mission_passengers_lost                 *X Passagiere sind nicht sicher am Zielort angekommen.
+mission_passengers_wrongdestination     Die Fahrgäste wurden am falschen Zielort abgesetzt! Für diesen Transport wirst du nicht bezahlt.
+mission_passengers_success              *X von *Y Passagieren befördert
+
+mission_type_refugees                   Geflüchtete
+mission_refugees_title                  Nimm Geflüchtete in deine Obhut.
+mission_refugees_description            Hier leben *X Zivilisten, die keinen Ausweg mehr haben und denen jegliche Möglichkeit fehlt, der Leere rechtzeitig zu entkommen.
+mission_refugees_description2           Ihre Heimat wurde zerstört. Bringe sie in deiner Flotte unter und kümmere dich um sie. Unsere Dankbarkeit ist dir sicher.
+mission_refugees_requirements           In den Quartieren deines Schiffs muss es genügend freie Kabinen geben.
+mission_refugees_alldelivered			Die Geflüchteten sind alle an Bord. Wir wünschen dir viel Glück!
+mission_refugees_received               *X von *Y Passagieren sind an Bord. Gesamtzahlung: *Z $.
+
+mission_type_rescue                     Rettungsaktion
+mission_rescue_title                    Rette Zivilisten aus einem Schiffswrack.
+mission_rescue_description1             Der Antrieb eines Schiffs ist ausgefallen und die Crew muss dringend gerettet werden.
+mission_rescue_description2             Das beschädigte Schiff ist in der Nähe im System *X. Beeil dich!
+mission_rescue_description2b            Das Schiff befindet sich im nächsten Sektor.
+mission_rescue_description3             Es sind *X Crewmitglieder an Bord. Sie müssen irgendwo in der Nähe sicher abgesetzt werden.
+mission_rescue_timed                    Das Schiffstriebwerk wird sehr bald in die Luft fliegen. (+25 % Honorar)
+mission_rescue_meteors                  Berichten zufolge gibt es in diesem Bereich einen Meteoritenschauer. (+25 % Honorar).
+mission_rescue_thrust                   Das Schiff ist in Bewegung. Du wirst etwas Geschick benötigen, um sicher anzukoppeln. (+25 % Honorar)
+mission_rescue_spin                     Das Schiff dreht sich unkontrolliert. Das Ankoppeln wird eine ziemliche Herausforderung darstellen. (+25 % Honorar)
+mission_rescue_hostiles                 In dieser Gegend befinden sich gegnerische Streitkräfte. (+50 % Honorar)
+mission_rescue_requirements             Du benötigst Manövrierdüsen, um erfolgreich an das beschädigte Schiff anzukoppeln.
+mission_rescue_accepted                 Wir haben die Position des Schiffswracks auf der Karte markiert. Bitte beeil dich!
+mission_rescue_rescued                  *X von *Y Crewmitglieder wurden gerettet und befinden sich an Bord.
+mission_rescue_allrescued               Alle Crewmitglieder des Schiffs wurden gerettet! Setze sie bei der nächsten Sternenbasis oder Kolonie ab.
+mission_rescue_received                 *X von *Y Crewmitglieder habe es geschafft und sind in Sicherheit. Gesamtzahlung: *Z $.
+mission_rescue_lost                     *X Crewmitglieder sind nicht heil angekommen.
+mission_rescue_timer                    Der Antriebskern des Schiffes wird in *X Sekunden explodieren!
+
+mission_type_combat                     Kampf
+mission_combat_title_mines              Räume ein gefährliches Minenfeld.
+mission_combat_title_roguefighters      Greife abtrünnige Jäger an und vernichte sie.
+mission_combat_title_pirategang         Schalte eine Piratenbande aus.
+mission_combat_title_armouredthugs      Beseitige eine gepanzerte Schlägertruppe.
+mission_combat_title_mercenarystation   Zerstöre die Waffenplattform der gegnerischen Söldner.
+mission_combat_description1             In einem nahen Sternensystem dieses Sektors geht eine kleine Flotte gegnerischer Schiffe illegalen Aktivitäten nach.
+mission_combat_description2             Sie schikanieren schon viel zu lange humanitäre sowie Handelsraumschiffe.
+mission_combat_description3             Reise in das System, kämpfe gegen sie und zerstöre sie.
+mission_combat_requirements             Du benötigst ein bewaffnetes Kriegsschiff, um diese Mission anzunehmen.
+mission_combat_piratecount              Berichten zufolge besteht die gegnerische Flotte aus *X Schiffen. Sie halten sich im Sternensystem *Y versteckt.
+mission_combat_mines_description1       Die Piraten haben ein gefährliches Minenfeld in einer häufig genutzten Handelsroute gelegt.
+mission_combat_mines_description2       Anscheinend wollen sie die Handelsschiffe, die hineingeraten, lahmlegen, um sie dann in aller Ruhe ausrauben zu können.
+mission_combat_mines_description3       Begib dich zu dem System und zerstöre das Minenfeld, bevor die Piraten auftauchen.
+mission_combat_mines_requirement        Du benötigst ein Waffensystem, um die Minen aus der Ferne zu zerstören.
+mission_combat_accept                   Wir haben den Standort der gegnerischen Truppen auf der Karte vermerkt. Viel Erfolg!
+mission_combat_attacknow                Du hast die gegnerischen Streitkräfte ausfindig gemacht. Vernichte sie mit sofortiger Wirkung!
+mission_combat_destroyed                Du hast *X von *Y Gegnern vernichtet. Die Gesamtsumme des ausgezahlten Kopfgelds beläuft sich auf *Z $.
+mission_combat_alldestroyed             Alle gegnerischen Streitkräfte wurden vernichtet.
+mission_combat_failure                  Die verbliebenen Gegner sind geflohen.
+
+mission_type_industry                   Asteroidenabbau
+mission_industry_title                  Ressourcenabbau-Vertrag: Baue wichtige Mineralien ab.
+mission_industry_refined_title          Baue wichtige Ressourcen ab und veredle sie.
+mission_industry_description            Die Nachfrage nach FTL-Brennstoffzellen zum Betrieb der Evakuierungsschiffe ist groß.
+mission_industry_description2           Wir sind in der Lage, FTL-Treibstoff herzustellen, allerdings benötigen wir dazu Tilium. Dieses Erz findet man nur in bestimmten Asteroidengürteln.
+mission_industry_description3           Glücklicherweise gibt es genau so einen Asteroidengürtel nicht weit von hier in diesem Sektor. Du findest ihn im System *X.
+mission_industry_description3b          Der nächstgelegene Asteroidengürtel befindet sich im nächsten Sektor.
+mission_industry_tiliumrequired         Begib dich zum Asteroidengürtel und baue *X Tiliumerz ab.
+mission_industry_refinedrequired        Veredle das abgebaute Erz anschließend in einem Schmelzofen.
+mission_industry_description4           Liefere das Erz danach an einem beliebigen Handelsposten und du erhältst dein Honorar.
+mission_industry_requirements           Für diesen Auftrag ist ein geeignetes Bergbauschiff erforderlich, das mit Bergbaulasern und Logistikdrohnen ausgestattet ist.
+mission_industry_accepted1              Wir haben die Position des Asteroidengürtels auf der Karte markiert.
+mission_industry_gathered               Dieses Schiff hat *X Tiliumerz geladen. (Wir benötigen *Y.)
+mission_industry_received               Wir haben *X von *Y Tilium erhalten. Das Gesamthonorar beläuft sich auf *Z $.
+mission_industry_meteorshower           ACHTUNG: Berichten zufolge gibt es in dem System einen Meteoritenschauer. (+50 % Honorar).
+mission_industry_hostiles               ACHTUNG: In der Nähe des Asteroidengürtels befinden sich gegnerische Streitkräfte. (+50 % Honorar)
+mission_industry_refined                #ERROR!
+mission_industry_shuttle                Wir haben ein Shuttle losgeschickt, um das Tiliumerz abzuholen.
+mission_industry_lost                   Dein Schiff hat kein Tilium mehr geladen.
+mission_industry_success                *X/*Y Erz abgebaut
+
+mission_type_production                 Produktion
+mission_production_title                Produktionsvertrag: Ressourcen verarbeiten
+mission_production_description1         Wir benötigen dringend *X Stapel R*Y.
+mission_production_description2         Stelle das Produkt entweder aus Rohstoffen selbst her oder beschaffe es auf andere Weise.
+mission_production_marketprice          Der Marktpreis für diese Gegenstände ist *X $.
+mission_production_markup               (Unser Angebot ist *X % höher als der Marktpreis, da wir dringenden Bedarf haben.)
+mission_production_available            In deiner Flotte stehen *X Stapel R*Y zur Weitergabe zur Verfügung. (Wir benötigen *Z.)
+mission_production_received             Wir haben *X von insgesamt *Z Stapeln R*Y erhalten.
+mission_production_nomore               Die Ressource R*X ist in deiner Flotte nicht mehr verfügbar.
+mission_production_success              *X/*Y Gegenstände bereitgestellt
+
+mission_type_SectorDestroy              Vernichte gegnerische Truppen.
+mission_sectordestroy_title             ZIELVORGABE FÜR DIESEN SEKTOR: Vernichte alle gegnerischen Streitkräfte.
+mission_sectordestroy_system            Du hast die gegnerischen Streitkräfte im System *X vernichtet. Das Honorar in Höhe von *Y $ ist unterwegs.
+mission_sectordestroy_progress          *X von *Y Systemen gesichert
+mission_sectordestroy_desc1             In diesem Sektor haben sich gegnerische Streitkräfte niedergelassen. Sie behindern unsere Evakuierungsbemühungen und stehlen wichtige Ressourcen.
+mission_sectordestroy_desc2             Überprüfe jede Position, die auf der Karte mit GEGNER markiert ist.
+mission_sectordestroy_desc3             Schalte alle gegnerischen Schiffe aus, die du vorfindest.
+mission_sectordestroy_payment           Nach Sicherung einer Position werden jeweils *X $ gezahlt, insgesamt für alle Positionen also *Y $.
+mission_sectordestroy_map               Gegner vernichten [*X/*Y]
+mission_sectordestory_success           GEGNER ELIMINIERT
+
+mission_type_SectorRescue               Rettung (Sektor)
+mission_sectorrescue_title              ZIELVORGABE FÜR DIESEN SEKTOR: Rette Zivilisten aus einem Schiffswrack.
+mission_sectorrescue_description1       Gehe einem Notruf im System *X nach.
+mission_sectorrescue_timed              Das Schiffstriebwerk wird sehr bald in die Luft fliegen. (+25 % Honorar)
+mission_sectorrescue_meteors            Berichten zufolge gibt es in diesem Bereich einen Meteoritenschauer. (+25 % Honorar).
+mission_sectorrescue_thrust             Das Schiff ist in Bewegung. Du wirst etwas Geschick benötigen, um sicher anzukoppeln. (+25 % Honorar)
+mission_sectorrescue_spin               Das Schiff dreht sich unkontrolliert. Das Ankoppeln wird eine ziemliche Herausforderung darstellen. (+25 % Honorar)
+mission_sectorrescue_hostiles           In dieser Gegend befinden sich gegnerische Streitkräfte. (+50 % Honorar)
+mission_sectorrescue_requirements       Du benötigst Manövrierdüsen, um erfolgreich an das beschädigte Schiff anzukoppeln.
+mission_sectorrescue_accepted           Wir haben die Position des Schiffswracks auf der Karte markiert. Bitte beeil dich!
+mission_sectorrescue_rescued            *X von *Y Crewmitglieder wurden gerettet und befinden sich an Bord.
+mission_sectorrescue_allrescued         Alle Crewmitglieder des Schiffs wurden gerettet! Setze sie bei der nächsten Sternenbasis oder Kolonie ab.
+mission_sectorrescue_received           *X von *Y Crewmitglieder habe es geschafft und sind in Sicherheit. Ausstehendes Honorar: *Z $.
+mission_sectorrescue_lost               *X Crewmitglieder sind nicht heil angekommen.
+mission_sectorrescue_timer              Der Antriebskern des Schiffes wird in *X Sekunden explodieren!
+mission_sectorrescue_map_initial        Gehe dem Notruf nach.
+mission_sectorrescue_map                Gerettete [*X/*Y]
+mission_sectorrescue_awardcaption       *X Gerettete.
+mission_sectorrescue_success            RETTUNG ABGESCHLOSSEN
+
+
+mission_type_sectorevacuate             Evakuiere den Sektor.
+mission_sectorevacuate_title            ZIELVORGABE FÜR DIESEN SEKTOR: Evakuiere gestrandete Zivilisten.
+mission_sectorevacuate_description      Es gibt *X Zivilisten und Zivilistinnen, die in dem Sektor gestrandet sind und keine Möglichkeit haben, der anstehenden Katastrophe zu entkommen.
+mission_sectorevacuate_description2     Hole sie in ihren Sternensystemen ab und bringe sie vorübergehend in deiner Flotte unter.
+mission_sectorevacuate_description3     Bringe sie sicher in den nächsten Sektor und lade sie an der ersten Sternenbasis aus. Damit ist dann das Ziel der Mission erreicht.
+mission_sectorevacuate_requirements     In den Quartieren deines Schiffs muss es genügend freie Kabinen geben.
+mission_sectorevacuate_requirements2    (In einer Werft kannst du deine Quartiere mithilfe des Schiffseditors erweitern.)
+mission_sectorevacuate_payment          Das Gesamthonorar für die Rettung aller *X Zivilisten beträgt *Y $.
+mission_sectorevacuate_received         *X von *Y Zivilisten wurden an Bord genommen.
+mission_sectorevacuate_died             *X Zivilisten wurden bei der Evakuierung getötet.
+mission_sectorevacuate_arrived          *X Passagiere von *Y haben es sicher an den Zielort geschafft. Gesamtzahlung: *Z $.
+mission_sectorevacuate_lost             *X Passagiere sind nicht sicher am Zielort angekommen.
+mission_sectorevacuate_finished         Danke für deinen Einsatz!
+mission_sectorevacuate_map              Evakuiere Zivilisten [*X/*Y]
+
+scienceobjective_title                  SONDERMISSION: ANALYSIERE DIE ANOMALIE.
+scienceobjective_description1           Wir brauchen mehr Daten, wenn wir das Wesen dieser Anomalie verstehen wollen.
+scienceobjective_description2           Und solange wir die Anomalie nicht verstehen, können wir sie nicht aufhalten.
+scienceobjective_description3           Wenn du eine ausreichende Menge an wissenschaftlichen Daten für uns sammeln kannst, stehen die Chancen gut, dass wir eine Möglichkeit finden, der Anomalie entgegenzuwirken.
+scienceobjective_accepted1              Wir haben ein genau abgestimmtes Sensorpaket entwickelt, das uns die benötigten Informationen liefert.
+scienceobjective_accepted2              Ein Shuttle ist jetzt unterwegs und hat zwei Sensoren dieser Art an Bord.
+scienceobjective_receivedsensors1       Beide Sensoren befinden sich an Bord deines Schiffes. Du musst sie montieren.
+scienceobjective_installsensors         Montiere die Sensoren an deinem Schiff (*X/2).
+scienceobjective_installsensors2        Stelle sicher, dass die Sensoren mit Energie versorgt werden und betriebsbereit sind.
+scienceobjective_sensorsinstalled       Sensoren montiert.
+scienceobjective_usesensors1            Diese Sensoren erfassen Daten der Anomalie, während du dich im Hyperraum befindest.
+scienceobjective_usesensors2            Je näher du der Anomalie mit einem Hypersprung kommen kannst, desto schneller werden sie die Daten erfasst haben.
+scienceobjective_capturedata            Du hast *X Daten der Anomalie erfasst.
+scienceobjective_successbonus           *X Daten erfasst. Forschungsgelder in Höhe von *Y $.
+scienceobjective_nextbonus              Nächster Bonus für *X erfasste Daten: *Y $.
+scienceobjective_scientist              Forschungsinstitut
+scienceobjective_funding                Während du Daten erfasst, können wir dir Forschungsgelder zukommen lassen. Erfasse 10 Daten der Anomalie und wir schicken dir die erste Rate der Forschungsgelder.
+scienceobjective_award                  WISSENSCHAFTSPREIS
+scienceobjective_success                *X Daten erfasst.
+
+scienceobjective_milestone1a            Wir haben deine vorläufigen Sensordaten erhalten. Faszinierend! Anscheinend dehnt sich die Anomalie aus und die Geschwindigkeit, mit der sie es tut, nimmt zu.
+scienceobjective_milestone1b            Wir haben dir gerade einen Wissenschaftszuschuss in Höhe von 10.000 $ ausgezahlt. Erfasse 100 Daten, um weitere Mittel freizuschalten. Je näher du der Anomalie bist, desto schneller erfassen die Sensoren die erforderlichen Daten.
+scienceobjective_milestone2a            Deine Sensoren haben uns jetzt 100 Wissenschaftspakete gesendet. Vielen Dank. Für uns sind diese Daten von unschätzbarem Wert.
+scienceobjective_milestone2b            Wir haben dir gerade weitere 100.000 $ geschickt. Der nächste Bonus für 1000 Sensordaten beläuft sich auf 1 Million $. Du kannst weitere Hyperraumsensoren in Sternenbasen und Kolonien kaufen.
+scienceobjective_milestone3a            Deine Sensoren haben bis dato 1000 Daten der Anomalie aufgezeichnet. Unsere besten Leute arbeiten an einer Lösung und deine Daten waren dabei von unschätzbarem Wert.
+scienceobjective_milestone3b            Wir überweisen dir gerade einen Wissenschaftszuschuss von 1 Million Dollar. Mach weiter so! Weitere Mittel werden bei 10.000 wissenschaftlichen Daten freigeschaltet.
+scienceobjective_milestone4a            10.000 wissenschaftliche Daten erhalten. Honorar 10 Millionen $.
+scienceobjective_milestone4b            Der nächste Bonus wird bei 100.000 wissenschaftlichen Daten fällig.
+
+evacuationobjective_title               SONDERMISSION: EVAKUIERUNG
+evacuationobjective_description1        Einige unserer Wissenschaftler gehen davon aus, dass der Untergang der Leere nicht aufgehalten werden kann.
+evacuationobjective_description2        Sollte das stimmt, müssen Milliarden Bewohner unserer Heimatplaneten evakuiert werden.
+evacuationobjective_description3        Noch nie wurden so viele Leute auf einmal evakuiert.
+evacuationobjective_description4        Und dabei wissen wir nicht einmal, wo wir hin können. Wo sind wir sicher? Niemand weiß das.
+evacuationobjective_accepted1           Auf jedem kolonisierten Planeten, den du besuchst, gibt es Zivilisten, die evakuiert werden müssen.
+evacuationobjective_accepted2           Du wirst die Quartiere ausbauen und irgendwann sogar auf ein größeres Schiff umsteigen müssen.
+evacuationobjective_total               Du hast *X Zivilisten von ihren dem Untergang geweihten Heimatwelten evakuiert.
+evacuationobjective_successbonus        *X Zivilisten evakuiert. Forschungsgelder in Höhe von *Y $.
+evacuationobjective_nextbonus           Nächster Bonus bei Evakuierung von *X Zivilisten: *Y $.
+evacuationobjective_award               EVAKUIERUNGSBELOHNUNG
+evacuationobjective_success             *X Zivilisten evakuiert.
+
+nomadobjective_title                    SONDERMISSION: NOMADE
+nomadobjective_description1             Möglicherweise werden wir die Anomalie des Untergangs der Leere nie aufhalten können.
+nomadobjective_description2             Es ist möglich, dass sie sich einfach immer weiter ausdehnt. Vielleicht gibt es gar keinen Ort, an dem wir bleiben können und in Sicherheit sind.
+nomadobjective_description3             Sollte das der Fall sein, werden wir uns daran gewöhnen müssen, auf unbestimmte Zeit auf autarken Schiffen zu leben.
+nomadobjective_accepted1                Du musst deine Schiffe in eine Flotte verwandeln, die langfristig autark bestehen kann.
+nomadobjective_accepted2                Nimm so viele Leute wie möglich mit und grübele nicht über die Vergangenheit nach.
+nomadobjective_total                    Deine Flotte hat *X permanente Bewohner.
+nomadobjective_successbonus             Die Bevölkerung beläuft sich auf *X Bewohner. Forschungsgelder in Höhe von *Y $.
+nomadobjective_nextbonus                Nächster Bonus bei *X Bewohnern: *Y $.
+nomadobjective_award                    NOMADENBELOHNUNG
+nomadobjective_success                  Flottenbevölkerung von *X
+
+# =============================================================================
+# Object Types
+# =============================================================================
+
+object_airduct							Lüftungsanlage
+object_airduct_description              Bringt Sauerstoff in die umliegende Kabine ein, bis die Luft sich atmen lässt. Muss über eine Rohrleitung mit Sauerstoff versorgt werden.
+object_battery							Akku
+object_battery_description              Speichert überschüssige Energie aus dem Energieversorgungsnetz bis zu einem Maximalwert von 1000 MW. Der Akku liefert immer dann Energie, wenn ein Engpass vorliegt.
+object_box                              Kiste
+object_bullets							Kugeln
+object_bullets_description              Diese Kiste enthält Munition für Gatling-Kanonen. (PDC).
+object_railgunshell						Railgun-Geschosse
+object_railgunshell_description         Diese Kiste enthält Munition für Railguns.
+object_cargo							Fracht
+object_civilian							Zivilist
+object_refugee                          Geflüchteter
+object_crewmember						Crew
+object_scientist                        Wissenschaftliches Personal
+object_data                             Daten
+object_deuterium                        Deuterium
+object_deuterium_description            Dieser Treibstoff eignet sich für Fusionsreaktoren.
+object_dockingport						Kopplungsadapter
+object_dockingport_description          Über den Kopplungsadapter wird der Zugang zum Schiff ermöglicht. Hier koppeln Shuttle-Schiffe an und ab.
+object_door								Tür
+object_door_description                 Diese Tür mit hoher Druckdichte riegelt bei Hüllenbruch oder Feuer einzelne Bereiche ab.
+object_tank								Huge Tank
+object_tank_description                 In diesem riesigen Tank lässt sich eine große Menge an Flüssigkeit oder Gas lagern.
+object_smalltank						Mittelgroßer Tank
+object_smalltank_description            In diesem Tank werden Flüssigkeiten oder Gase gelagert.
+object_tinytank                         Kleiner Tank
+object_tinytank_description             In diesem Tank werden Flüssigkeiten oder Gase gelagert.
+object_dronebay							Drohnenbucht
+object_dronebay_description             Drohnenbuchten werden benötigt, um vom Schiff aus Logistikdrohnen auszusenden. Drohnen sammeln im Weltraum Rohstoffe und Bergungsgut und kehren danach über die Drohnenbucht zurück ins Schiff. Eine Drohnenbucht kann mehrere Drohnen aussenden.
+object_energycell						Energiezelle
+object_engine							Antrieb
+object_engine_description               Das Hauptantriebssystem für die Vorwärtsbewegung des Schiffs. Muss über eine Rohrleitung mit Treibstoff und über ein Kabel mit Energie versorgt werden.
+object_thruster                         Steuerrakete
+object_thruster_description             Manövriertriebwerk. Muss an der Wand des Schiffs befestigt werden. Sorgt für Schub, um seitliche und Rotationsbewegungen zu ermöglichen.
+object_entity							Entität
+object_equipment						Ausrüstung
+object_fighter							Jäger
+object_food                             Nahrung
+object_ftlcharge						FTL-Ladung
+object_ftldrive							FTL-Antrieb
+object_fuel								Treibstoff
+object_fusionreactor                    Fusionsreaktor
+object_gatlinggun						Gatling-Kanone
+object_gatlinggun_description           Dieses Schnellfeuerwaffensystem für den Nahbereich, das in erster Linie als Verteidigungsmaßnahme gegenüber Angriffsjägern und Artillerie entwickelt wurde. Die Gatling-Kanone eignet sich hervorragend, um sich schnell bewegende Ziele aus nächster Nähe zu zerstören. Allerdings fehlt ihr die Durchschlagskraft, um gepanzerte Ziele zu durchdringen.
+object_cannon							Kanone
+object_cannon_description               Dieses Waffensystem mittlerer Reichweite beschießt das Ziel massiv mit Sprenggranaten. Kanonengeschosse eignen sich hervorragend, um einem gegnerischen Schiff Flächenschaden zuzufügen und dessen Hüllenplatten zu zerstören.
+object_cannonshell						Kanonengeschosse
+object_mininglaser						Bergbaulaser
+object_mininglaser_description          Kann für Bohrungen in den Mineralienfeldern der Asteroidengürtel eingesetzt werden, um wertvolle Mineralien zu gewinnen.
+object_generator						Generator
+object_hullbreach						Hüllenbruch
+object_loader							Belader
+object_loader_description               Es handelt sich um eine Allzweckversion des Treibstoff- und des Sauerstoffbeladers, die jegliche Art von Flüssigkeits- oder Gaskanister aufnehmen kann. Das System ist bekannt dafür, neue Kapitäne schwer zu verwirren. Verwende Rohrleitungen, um den Lader mit anderen Teilen der Ausrüstung zu verbinden.
+object_fuelloader                       Treibstoffbelader
+object_fuelloader_description           Ergreift einen Kanister mit Treibstoff und pumpt den Inhalt in eine Unterflurrohrleitung. Setze Rohrleitungen ein, um ihn mit dem Reaktor und den Triebwerken zu verbinden.
+object_oxygenloader                     Sauerstoffbelader
+object_oxygenloader_description         Ergreift einen unter Druck stehenden Kanister mit Sauerstoff und pumpt den Inhalt in eine Unterflurrohrleitung. Setze Rohrleitungen ein, um ihn mit der Lüftungsanlage zu verbinden und die Kabine mit Sauerstoff zu versorgen.
+object_logisticsdrone                   Logistikdrohne
+object_logisticsdrone_description       Dieser extrem nützliche, halbintelligente Roboter ist in der Lage, im Weltraum Bergungsgut einzusammeln. Kleinere Reparaturen an einer beschädigten Hülle kann er ebenfalls durchführen. Er muss von einer Drohnenbucht aus gestartet werden.
+object_meteor							Meteor
+object_asteroid							Asteroid
+object_comet                            Komet
+object_mineralpatch						Mineralienfeld
+object_none								NoType
+object_ordnance                         Artilleriemunition
+object_oxygen							Sauerstoff
+object_powercoil                        Hochspannungsspule
+object_powercoilcharged                 Geladene Hochspannungsspule
+object_powerinjector                    Energiespeisemodul
+object_railgun							Railgun
+object_railgun_description              Dieses extrem präzise Waffensystem verfügt über eine große Reichweite und verwendet massive Metallgeschosse. Die Railgun ist eine präzise Waffe, die die Panzerung einer Hülle durchdringen und Ausrüstung im Inneren des anvisierten Schiffs zerstören kann. Allerdings verbraucht die Waffe nach jedem Schuss sehr viel Energie, um neu zu laden.
+object_reactor							Reaktor
+object_reactor_description              Verbrennt energiereichen Treibstoff und erzeugt Energie. Muss über eine Rohrleitung mit Treibstoff versorgt werden. Stelle dann mithilfe von Kabeln eine Verbindung zu den Geräten her, die mit Energie versorgt werden sollen.
+object_shuttle							Shuttle
+object_spacesuit						Raumanzug
+object_spacesuitpod						Raumanzugscontainer
+object_spacesuitpod_description         Hier werden Raumanzüge gelagert, um ihren Sauerstofftank wieder aufzufüllen.
+object_tank								Tank
+object_water							Wasser
+object_stairs							Leiter
+object_stairs_description               Crew und Passagiere können die oberen Quartiere nur über eine Leiter erreichen.
+object_hyperspacesensor                 Hyperraumsensor
+object_hyperspacesensorlr               Hyperraumsensor LS
+object_hyperspacesensorlr_description   Diese extrem empfindliche Variante des Standard-Hyperraumsensors verfügt über eine große Reichweite.
+object_missioncargo                     Missionsfracht
+object_repairstructure					Repariere strukturellen Schaden
+object_repairstructure_description      Die Werft in der Region kann die schweren strukturellen Schäden an deinem Schiff reparieren. Es hat allerdings seinen Preis.
+object_scrapmetal                       Metallschrott
+object_metalingot						Metallbarren
+object_preciousore						Edles Erz
+object_preciousmetals					Edelmetalle
+object_tiliumore                        Tiliumerz
+object_refinedtilium                    Tiliumkristalle
+object_metallicminerals                 Metallische Mineralien
+object_copperminerals                   Kupfererz
+object_copperingot                      Kupferbarren
+object_ice                              Eis
+object_metreongas                       Metreongas
+object_refinedmetreon                   Veredeltes Metreon
+object_explosives                       Sprengstoffe
+object_hyperspaceisotopes               Hyperraum-Isotopen
+object_seeds                            Saatgut
+object_seeds_description                Diese kleine Tüte enthält eine Gemüsesamenmischung, die du vielleicht in einem Hydroponik-Garten anbauen kannst.
+object_smelter							Schmelzofen
+object_smelter_description              Diese industrielle Verarbeitungsmaschine schmilzt Erze zu gebrauchsfertigen Metallbarren. Nach der Montage kannst du den Erztyp ändern, indem du darauf klickst.
+object_sewagepipe                       Schmutzwasserrohr
+object_sewagepipe_description           Dieses Rohr leitet das Schmutzwasser der darüber liegenden Quartiere ab. Du kannst das Schmutzwasser dann in einen Vorratstank leiten und (am Ende) wieder zu Wasser aufbereiten. Das Rohr MUSS DIREKT UNTERHALB DER QUARTIERE liegen, damit es seine Aufgabe erfüllen kann.
+object_sewagemachine					Abwasserreinigungsmaschine
+object_sewagemachine_description        Nimmt das Schmutzwasser der Quartiere auf, trennt die festen und flüssigen Abfälle und recycelt Teile davon. Endprodukte der Maschine sind verunreinigtes Wasser und Kompost.
+object_waterpurifier					Wasseraufbereiter
+object_waterpurifier_description        Das verunreinigte Wasser aus dem Schmutzwasserkreislauf oder auch Eis, wie es direkt der Natur entnommen wird, werden aufbereitet und zu Trinkwasser veredelt.
+object_oxygenmaker						Sauerstoff-Elektrolyseur
+object_oxygenmaker_description          Nutzt elektrische Energie, um durch Elektrolyse aus Wasser Sauerstoff zu gewinnen.
+object_scrubber							CO2-Absorber
+object_scrubber_description             Spaltet Kohlendioxid aus der Atmosphäre ab. Das gewonnene Gas muss direkt in einen Vorratstank geleitet werden, um zu verhindern, dass der Wäscher blockiert.
+object_airreprocessor					Luftaufbereiter
+object_airreprocessor_description       Wandelt Kohlendioxid in Sauerstoff für die Atemluft um.
+object_icegrinder                       Eiswolf
+object_icegrinder_description           Er zerkleinert riesige Eisklumpen zu kleinen Stücken und erwärmt diese dann, bis sie schmelzen. Das so gewonnene Wasser wird gefiltert, um schließlich als Trinkwasser Einsatz zu finden.
+object_proximitymine                    Mine
+object_gascollector                     Gaskollektor
+object_gascollector_description         Dieser große Außenschacht saugt Gase aus dem Weltraum an. Einige der in Nebeln vorkommenden Gase können zur Herstellung nützlicher Ressourcen wie Treibstoff, FTL-Ladungen und Sprengstoff verwendet werden.
+object_refinery                         Raffinerie
+object_refinery_description             Diese automatische Industriemaschine raffiniert chemische Rohstoffe und Gase.
+object_chemicallab                      Chemisches Labor
+object_chemicallab_description          Dieses wissenschaftliche Gerät ist äußerst komplex. Es kann mehrere chemische Stoffe (Flüssigkeiten, Gase und Feststoffe) zu unterschiedlichen Endmaterialien kombinieren. Man wählt eines der „Rezepte“ aus, indem man auf das Labor klickt.
+object_hyperspacecollector              Hyperraum-Schaufel
+object_hyperspacecollector_description  Die Hyperraum-Schaufel ist am Bug des Raumschiffs angebracht und zeigt in Fahrtrichtung. Im Hyperraum wird in Vorwärtsrichtung ein starkes Magnetfeld projiziert. Dieses zieht große Mengen an interstellarer Materie an. Die auf diese Weise gesammelten Isotope werden zu FTL-Treibstoff veredelt.
+object_munitionsfactory                 Werkbank für Munition
+object_munitionsfactory_description     Mithilfe dieser Werkbank stellt ein erfahrenes Crewmitglied verschiedene Formen von Munition für Schiffswaffensysteme her. Mit Metall und Sprengstoff werden Geschosse, Railgun-Geschosse, Kanonengeschosse und anderes gefertigt.
+object_hydroponics                      Hydroponik-Garten
+object_hydroponics_description          Ein geschlossenes Gewächshaus, in dem du Pflanzen anbauen kannst, um deine Crew zu ernähren. Kompost, Wasser und Saatgut werden benötigt, um den Anbau in Gang zu bringen.
+object_fabricator                       Fabrikator
+object_assembler                        Montagetisch
+object_robotarm                         Roboterarm
+object_track                            Schiene
+object_ruinedequipment                  Zerstörte Ausrüstung
+
+object_framecomponent                   Rahmen
+object_motorcomponent                   Motor
+object_coilcomponent                    Energiespule
+object_stargatestructure                Sternentor-Rahmen
+object_stargateresin                    Sternentor-Harz
+object_stargateactuator                 Sternentor-Aktuator
+
+object_sewage							Schmutzwasser
+object_wastewater						Abwasser
+object_compost							Kompost
+object_carbondioxide					CO2
+
+object_short_oxygen                     O2
+object_short_ftlcharge                  FTL
+object_short_bullets                    Munition
+object_short_railgunshell               Geschosse
+object_short_cannonshell                Geschosse
+
+entity_unconscious						BEWUSSTLOS
+entity_dead								TOT
+entity_suffocating						ERSTICKT GERADE
+entity_stunned							BETÄUBT
+entity_suitrequired						ANZUG ERFORDERLICH
+entity_dehydrated						DEHYDRIERT
+entity_fainted                          OHNMÄCHTIG
+
+entity_death_injury                     Tödliche Verletzung
+entity_death_suffocation                Ersticken
+entity_death_dehydration                Dehydrierung
+entity_death_starvation                 Verhungern
+entity_death_co2poisoning               Kohlendioxid
+
+order_none								Keine
+order_salvage						    Bergungsgut einsammeln
+order_gather							Materialien sammeln
+order_repairhull						Hülle reparieren
+order_shiftwork							Schichtarbeit
+order_suitson							Anzüge anziehen
+order_exteriorwork                      Arbeiten im Außenbereich
+order_weaponsactive                     Feuer frei
+order_fleetlogistics                    Flottenlogistik
+order_battlestations                    Kampfstationen
+
+battle_title
+stations_title
+
+designation_civilian                    Zivilist
+designation_crewquarters                Quartiere der Crew
+
+loader_mode_stop                        Stopp
+loader_mode_load                        Laden
+loader_mode_unload                      Entladen
+
+
+# =============================================================================
+# Story stuff
+# =============================================================================
+
+pressanykey                             – Weiter –
+
+opentextcrawl_1                         Es ist das 23. Jahrhundert. Die Menschheit hat die Sterne kolonisiert.
+opentextcrawl_2                         Millionen von Menschen leben auf anderen Planeten, manche davon Hunderte von Lichtjahren von der Erde entfernt.
+opentextcrawl_3                         Von einer dieser Kolonien hat die Erde eine dringende Nachricht erhalten. Es wurde eine finstere Anomalie entdeckt, für die niemand eine Erklärung findet.
+opentextcrawl_4                         Wo einst ein Stern war, ist jetzt nichts als eine schwarze Leere – und diese Leere breitet sich allmählich aus.
+opentextcrawl_5                         Alle, die in ihrer Nähe leben, nennen sie den UNTERGANG und glauben, dass sie irgendwann die gesamte Galaxis verschlingen wird.
+opentextcrawl_6                         Allerdings sind nur wenige bereit, ihnen zu glauben.
+opentextcrawl_7                         Nichtsdestotrotz hat die Erde dich und deine Crew mit dem Wissenschaftsschiff PRAKTYKA ausgesandt, um das Phänomen vor Ort zu untersuchen.
+
+mission_flightready_title               Mach dein neues Schiff flugbereit.
+mission_flightready_description1        Alle Schiffe müssen die Basiszertifizierung zur Flugbereitschaft erhalten, bevor sie für den Betrieb zugelassen werden können.
+mission_flightready_description2        Ein Schiff benötigt Folgendes, um offiziell seine Flugbereitschaft bescheinigt zu bekommen:
+mission_flightready_power_help          Reaktor zur Energieerzeugung. Setze einen Treibstoffbelader ein, um Treibstoff in den Reaktor zu leiten.
+mission_flightready_engines_help        Triebwerke für den Antrieb. Teste deinen Antrieb in der Ansicht TAKTISCH, um ihn zu zertifizieren.
+mission_flightready_lifesupport_help    Lebenserhaltungssysteme, um die Kabine mit Atemluft zu versorgen. Setze eine Lüftungsanlage ein, um die Kabine unter Druck zu setzen, sowie einen Sauerstoffbelader, um Atemluft zuzuführen.
+mission_flightready_ftljump_help        Einen FTL-Antrieb. Teste deinen neuen FTL-Antrieb und springe zu dem auf der Karte markierten Zielort.
+mission_type_tutorialflightready        ZIELORT
+
+mission_flightready_power               Ein Reaktor, der Energie erzeugt.
+mission_flightready_power_done          [ABGESCHLOSSEN] Ein Reaktor, der Energie erzeugt
+mission_flightready_engines             Triebwerke für den Antrieb
+mission_flightready_engines_done        [ABGESCHLOSSEN] Triebwerke für den Antrieb
+mission_flightready_movement            Teste die Triebwerke in der Ansicht TAKTISCH.
+mission_flightready_movement_done       [ABGESCHLOSSEN] Teste die Triebwerke in der Ansicht TAKTISCH.
+mission_flightready_lifesupport         Lebenserhaltungssysteme, um das Innere des Schiffs bewohnbar zu machen [*X %]
+mission_flightready_lifesupport_done    [ABGESCHLOSSEN] Lebenserhaltungssysteme, um das Innere des Schiffs bewohnbar zu machen
+mission_flightready_ftl                 Einen FTL-Antrieb, der Hyperraum-Sprünge ermöglicht.
+mission_flightready_ftl_done            [ABGESCHLOSSEN] Einen FTL-Antrieb, der Hyperraum-Sprünge ermöglicht.
+mission_flightready_ftljump             Sprung zum markierten Zielort
+mission_flightready_ftljump_done        [ABGESCHLOSSEN] Sprung zum markierten Zielort
+
+
+# =============================================================================
+# The trouble with Tiddlets
+# =============================================================================
+
+
+mission_type_episodetiddlets            Tiddlets abliefern
+mission_tiddlets_title                  Kennst du Tiddlets?
+mission_tiddlets_description1           Wir benötigen ein Schiff, das den Transport eines Wurfs seltener, niedlicher Tiere in ein viele Sprünge entferntes Reservat übernimmt.
+mission_tiddlets_description2           Die Tiere sind nicht gefährlich. Allerdings gibt es besondere Anforderungen, die genau eingehalten werden müssen, damit sie den Transport überleben.
+mission_tiddlets_description3           Wir zahlen *X $, sobald der gesamte Wurf sicher abgeliefert wurde.
+mission_tiddlets_accepted               Ausgezeichnet. Wir schicken jetzt ein Shuttle zu dir.
+mission_tiddlets_accepted1              Vielen Dank, dass du uns und diesen einzigartigen Kreaturen hilfst. Ehrlich gesagt, war es schwierig, einen Kapitän zu finden, der diese Mission übernehmen wollte.
+mission_tiddlets_accepted2              Wir haben dir einen Wurf von acht Tiddlets-Weibchen überlassen. Es sind auch noch ein paar bequeme Boxen dabei, in denen sie schlafen können.
+mission_tiddlets_accepted3              Bitte pass gut auf sie auf!
+mission_tiddlets_delivered              Wir haben *X von 8 Tiddlets geliefert.
+mission_tiddlets_alldelivered1          abbrechen 8 Tiddlets wurden abgeliefert.
+mission_tiddlets_alldelivered2          Allerdings gibt es ein entscheidendes Detail, das unbedingt zu beachten ist, um Tiddlets sicher zu transportieren.
+mission_tiddlets_alldelivered3          Sie können problemlos bis zu *X Sekunden lang im Hyperraum überleben. Wird dieser Zeitraum überschritten, besteht die Gefahr, dass sie einem tödlichen Schock erliegen.
+mission_tiddlets_alldelivered4          Bitte sei sehr vorsichtig bei der Wahl der Hyperraumroute.
+mission_tiddlets_stillalive             Verbliebene lebendige Tiddlets: *X
+mission_tiddlets_dead                   Es sind jetzt *X tote Tiddlets an Bord.
+mission_tiddlets_saferadius             TIDDLETS: SICHERHEITSABSTAND
+mission_tiddlets_reproduction1          Ach, du meine Güte! Wir waren uns sicher, dass alle 8 weiblich sind, aber offensichtlich haben wir uns geirrt.
+mission_tiddlets_reproduction2          Andere Lebewesen würde man in einem solchen Fall räumlich trennen, aber Tiddlets pflanzen sich telepathisch fort – und zwar ausschließlich während der Reise durch den Hyperraum.
+mission_tiddlets_shock                  Ach, du meine Güte! Das sind einfach so viele!
+mission_tiddlets_payment                Wir haben *X von 8 Tiddlets erhalten. Fälliges Honorar: *Y $.
+mission_tiddlets_extras                 Wir haben jetzt *X Tiddlets zusätzlich erhalten!
+mission_tiddlets_alldelivered           Wir haben alle deine Tiddlets erhalten. Vielen Dank!
+mission_tiddlets_extrareward1           Da du uns einen ganz neuen Wurf gebracht hast, fanden wir es angebracht, unserer Dankbarkeit mit einem Geschenk Ausdruck zu verleihen.
+mission_tiddlets_extrareward2           Wir haben dir ein paar Prototypen eines Langstrecken-Hyperraumsensors geschickt. Sie sind deutlich präziser als das Standardmodell. Wir hoffen, sie werden sich als nützlich erweisen.
+mission_tiddlets_notenough              Aber wir haben uns darauf verlassen, dass du für ihre Sicherheit sorgst. Du hast uns enttäuscht.
+mission_tiddlets_failure                Was zum Teufel ist passiert? Wir haben dir die Tiddlets anvertraut und du hast uns zutiefst enttäuscht!
+mission_tiddlets_suppliername           Tiddlet-Züchter
+mission_tiddlets_invite1                Sei gegrüßt! Wir suchen einen Piloten, der uns bei einer wichtigen Tierschutzangelegenheit helfen kann.
+mission_tiddlets_invite2                Wenn du helfen und eine Menge Credits verdienen möchtest, findest du unseren Job in der Liste der VERTRÄGE.
+mission_tiddlets_success                *X Tiddlets geliefert.
+
+mission_tiddletssale_title              GESUCHT: Tiddlets
+mission_type_episodetiddletssale        GESUCHT: Tiddlets
+mission_tiddletssale_description1       Wir zahlen einen sehr großzügig bemessenen Preis jeder Person, die uns einen oder mehrere Tiddlets zur Verfügung stellen kann.
+mission_tiddletssale_accepted1          Solltest du Tiddlets besitzen, dann bring sie zu uns und wir werden dich reich belohnen.
+mission_tiddletssale_accepted2          Wir werden auch nicht nachfragen, woher sie stammen. Aber wir benötigen jeden Tiddlet, den du hast. Wir müssen sichergehen, dass mindestens ein Männchen im Wurf ist.
+mission_tiddletssale_offer              Wir zahlen *X $ pro Tiddlet.
+mission_tiddletssale_fulloffer          Wir bieten dir *Y $ für alle *X Tiddlets.
+mission_tiddletssale_received           Wir haben *X Tiddlets erhalten. Fällige Gesamtzahlung: *Y $.
+mission_tiddletssale_allreceived        Vielen Dank! Bei so vielen Tiddlets können wir direkt beginnen, diese köstlichen Kreaturen zu züchten.
+mission_tiddletssale_invite1            Gerüchten zufolge sollst du einige seltene und wertvolle Lebensformen an Bord haben.
+mission_tiddletssale_invite2            Schau bei deiner nächsten Vertragsbehörde vorbei und vielleicht werden wir uns ja einig.
+mission_tiddletssale_buyername          Zwielichtiger Käufer
+mission_tiddletssale_success            *X Tiddlets gehandelt
+
+object_tiddlet                          Tiddlet
+tiddlet_child                           Baby
+tiddlet_boxed                           Verpackt
+
+# =============================================================================
+# New Player Help
+# =============================================================================
+
+newplayerhelp_fuelpipe                  <TREIBSTOFFROHRLEITUNG
+
+# =============================================================================
+# Alerts
+# =============================================================================
+
+alert_title                             ALARME
+
+alert_type_none                         KEIN ALARM
+alert_type_test                         TESTALARM
+alert_type_hullbreach                   HÜLLENBRUCH
+alert_type_hullbreach_caption           Repariere *X %.
+alert_type_hullbreach_tooltip           Die Hülle deines Schiffs wurde durchlöchert und der Druck in der Kabine fällt. Deine Crew wird den Bruch reparieren, aber du solltest vielleicht die Belüftungsgitter der Türen schließen, um den Bereich abzudichten.
+alert_type_co2                          CO2-WARNUNG
+alert_type_co2_tooltip                  Im Schiff hat sich eine riskante Menge an CO2 angesammelt. Wenn sie 100 % erreicht, wird deine Crew ersticken. Kaufe einen CO2-Absorber und schließe ihn an einen Lagertank an.
+alert_type_co2_caption                  *X % tödlich
+alert_type_meteorshower                 METEORSCHWARM
+alert_type_hostileforces                KONTAKT MIT DEM GEGNER
+alert_type_hostileforces_caption        *X gegnerische Schiffe
+alert_type_crewoverworked               HEUERE MEHR CREWMITGLIEDER AN
+alert_type_heavydamage                  SCHWERER SCHADEN
+alert_type_heavydamage_caption          Schaden: *X %
+alert_type_suffocating                  CREW ERSTICKT GERADE
+alert_type_suffocating_caption          *X ersticken gerade
+alert_type_dead                         TODESFÄLLE
+alert_type_dead_caption                 *X tot
+alert_type_lowresource_caption          *X
+alert_type_lowfuel                      TREIBSTOFF GEHT ZUR NEIGE
+alert_type_lowftl                       FTL-LADUNGEN
+alert_type_lowoxygen                    SAUERSTOFF GEHT ZUR NEIGE
+alert_type_lowbattery                   AKKU FAST LEER
+alert_type_lowbattery_caption           *X %
+alert_type_lowbattery_tooltip           Deine Akkus sind leer. Wahrscheinlich erzeugen deine Reaktoren nicht genügend Energie und der Bedarf deines Schiffs wird nicht gedeckt. Du brauchst entweder weitere Reaktoren oder mehr Akkuspeicher oder beides.
+alert_type_powercut                     ENERGIEAUSFALL
+alert_type_powercut_nofuel              Treibstoffversorgung unterbrochen
+alert_type_powercut_tooltip             Der Reaktor hat sich abgeschaltet. Es ist davon auszugehen, dass die Treibstoffversorgung unterbrochen wurde. Du solltest vielleicht Vorratstanks einsetzen, damit du zuverlässig über einen Vorrat an Treibstoff für deinen Reaktor verfügst, aus dem du dich jederzeit bedienen kannst.
+alert_type_nostorage                    KEIN LAGERPLATZ
+
+warning_unbreathable                    KEINE ATEMLUFT
+warning_suitsrequired                   RAUMANZÜGE ERFORDERLICH
+warning_deliveryblocked                 LIEFERUNG BLOCKIERT
+warning_storagerequired                 LAGERZONEN BEREITSTELLEN
+
+# =============================================================================
+# Misc
+# =============================================================================
+
+format_currency                        *X $
+format_per_square                      *X/Feld
+
+# =============================================================================
+# Ratings
+# =============================================================================
+
+ratings                                 WERTE
+rating_word                             Wert
+rating_rankincreased                    RANG ERHÖHT
+rating_combat                           Kampf
+rating_industry                         Industrie
+rating_humanitarian                     Humanitär
+rating_logistics                        Logistik
+rating_criminal                         Kriminell
+rating_title_combat                     Kampfwert
+rating_title_industry                   Industriewert
+rating_title_humanitarian               Humanitärer Wert
+rating_title_logistics                  Logistikwert
+rating_title_criminal                   Kriminell Wert
+rating_rank                             RANG *X
+
+# =============================================================================
+# Stargate
+# =============================================================================
+
+phase_title                             Phase *X
+
+stargate_help                           Wenn du fertige Teile für das Sternentor-Projekt einreichen willst, verkaufe sie an einem beliebigen Handelsaußenposten im Sektor.
+
+recipe_resources_required               Erforderliche Ressourcen
+recipe_created_in                       Fertigung in: *X
+recipe_duration                         Dauer: *X Sekunden
+recipe_quantity_required                *X x *Y
+
+smelt_title                             *X schmelzen
