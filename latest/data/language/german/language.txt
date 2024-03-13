@@ -1,4 +1,4 @@
-﻿
+
 # =============================================================================
 # Basic dialog strings
 # =============================================================================
@@ -44,6 +44,7 @@ analyticsconsentdialog_accept          Zustimmen
 analyticsconsentdialog_reject          Ablehnen
 analyticsconsentdialog_moreinfo        Weitere Informationen …
 analyticsconsentdialog_text            Wir sammeln Nutzungsdaten, damit wir ein besseres Verständnis dafür gewinnen, wie gespielt wird, und damit wir das Spiel verbessern können. \n\nWir erfassen keine personenbezogenen Daten. Wenn du mit der Erfassung einverstanden bist, klicke bitte auf die Schaltfläche „Zustimmen“.
+
 
 
 # =============================================================================
@@ -171,6 +172,8 @@ mainmenu_gamemode_creative_tooltip      Dir stehen unbegrenzte Ressourcen zur Ve
 mainmenu_gamemode_industry              Industrie
 mainmenu_gamemode_industry_tooltip      Du hast das Ziel, die Voraussetzungen für ein Sternentor nach Andromeda zu erforschen und es zu konstruieren.
 
+mainmenu_stargate_caption               Beteilige Dich am Bau eines galaktischen Megaprojekts – ein STARGATE mit ausreichender Reichweite, um unsere nächste Nachbargalaxie ANDROMEDA zu erreichen
+
 mainmenu_createship						DEVELOPER Schiff erstellen
 mainmenu_loadship						DEVELOPER Schiff laden
 mainmenu_loadgamedev                    DEVELOPER Testspiel laden
@@ -183,6 +186,7 @@ mainmenu_tools							Entwickler-Tools
 mainmenu_quit 							Beenden
 
 settings_analytics                      Analytik
+settings_analytics_tooltip              Wir müssen Nutzungsdaten sammeln, um besser zu verstehen, wie Leute spielen, und um das Spiel zu verbessern. \n\nWir erfassen keine personenbezogene Daten.\n\nWeitere Informationen finden Sie unter „Rechtsinformationen“ (unten auf dem Bildschirm).
 settings_hud                            HUD anzeigen
 settings_music                          Musik
 settings_hudscale                       UI-Skalierung
@@ -274,6 +278,8 @@ newmainmenu_steamworkshop               STEAM WORKSHOP
 newmainmenu_uploadprogress              UPLOAD-FORTSCHRITT: *P %
 newmainmenu_quitmessage                 Die Early-Access-Phase von „The Last Starship“ beginnt dieses Frühjahr!\n\nVielen Dank, dass du die Demo von „The Last Starship“ gespielt hast.\nSollte dir das Spiel gefallen haben, nimm es bitte in deine Wunschliste bei Steam auf. Dann erfährst du sofort, wenn das Spiel veröffentlicht wird.
 newmainmenu_lockedindemo                IN DER DEMO GESPERRT
+newmainmenu_multisystem_simulation      Multisystemsimulation aktivieren
+newmainmenu_debug_freespace             Debuggen von freiem Stauraum aktivieren
 
 shiplibrary_hullonly                    (HÜLLE)
 
@@ -309,8 +315,12 @@ debugbuildpanel_entity					Entität
 debugbuildpanel_damage					Schaden
 debugbuildpanel_frame                   Rahmen
 
+save_warning_header                     ACHTUNG: Zukünftige Speicherversion wird geladen
+save_warning_body                       Sie laden ein Spiel mit einem zukünftigen Speicherformat. Es kann sein, dass einige Teile des Spiels nicht richtig funktionieren
+
 hudmode_tactical						TAKTISCH
 hudmode_external						EXTERN
+hudmode_multisystemsimulation           MULTISYSTEMSIMULATION
 
 hud_trade								Handel
 hud_preparejump							Sprung vorbereiten
@@ -325,11 +335,17 @@ hud_ftlloading							Laden …
 hud_ftlcharging  						Aufladen …
 hud_ftlcooldown							Cooldown …
 hud_ftl									FTL-Antrieb
+hud_ftlincluded                         Springen
+hud_ftlexcluded                         Bleiben
 hud_noftl								KEIN FTL GEFUNDEN
 hud_ftlnodestination					KEIN ZIELORT
+hud_ftlwaiting                          Warten...
 hud_debugbuild                          Debuggen
 hud_endcreativemode                     Der Kreativmodus wird beendet,
 hud_endcreativemode2                    wenn du in den Hyperraum wechselst.
+hud_endcreativemodewarning              KREATIVMODUS WIRD VERLASSEN
+hud_endcreativemodefull                 Der Kreativmodus endet, wenn Sie in den Hyperraum springen
+hud_hyperspace                          HYPERRAUM
 
 hud_direction_up                        Hafen
 hud_direction_right                     Bugwärts
@@ -351,6 +367,8 @@ hud_window_sectormap					SEKTORENKARTE
 hud_window_score                        PUNKTESTAND
 hud_window_editor                       EDITOR
 hud_window_stargate                     STERNENTOR
+hud_window_techtree                     FORSCHUNG
+hud_window_storage                      LAGERZONEN
 
 hud_scoresystem_population              Bevölkerung
 hud_scoresystem_sectorjump              Sektorensprung
@@ -393,10 +411,13 @@ hud_shipyard_buildscaffold				Gerüst bauen
 hud_shipyard_buildhabitation            Quartiere hinzufügen Deck
 hud_shipyard_buildrepairone             Repariere 100 Schaden.
 hud_shipyard_buildrepairall             Repariere den GESAMTEN Schaden.
+hud_shipyard_buildbuyfromlibrary        Schiff kaufen
+hud_shipyard_selectship                 Wähle ein Schiff aus
 
 hud_tooltip_leftclickplace              [LMT] Platzieren
 hud_tooltip_leftclickbuild              [LMT] Bauen
 hud_tooltip_leftclickdismantle          [LMT] Demontieren
+hud_tooltip_leftclickresearch           [LMT] Forschung
 hud_tooltip_rightclickcancel            [RMT] Abbrechen
 hud_tooltip_rightclickclear             [RMT] Entfernen
 hud_tooltip_rightclickdelete            [RMT] Löschen
@@ -450,6 +471,20 @@ equipment_factory_stopped               ANGEHALTEN
 equipment_factory_refine                *X veredeln
 equipment_factory_make                  *X herstellen
 
+equipment_robotarm_nopickup		        TYP AUSWÄHLEN
+equipment_robotarm_pickupnone		    KEINE
+equipment_robotarm_forcedrop			FORCE DROP
+
+equipment_weaponsconsole_noselection       WAFFE AUSWÄHLEN
+equipment_weaponsconsole_deselect          KEINE
+equipment_weaponsconsole_locked            STECKPLATZ *X GESPERRT
+equipment_weaponsconsole_extradescription  *X Verbundene Waffen
+equipment_weaponsconsole_connected         Von Waffenskonsol gesteuert
+
+factory_stockpileoutput                 LAGER
+factory_stockpileoutput_tooltip         LAGER\n\nWenn diese Option aktiviert ist, werden die produzierten Artikel sofort in einen beliebigen Frachtlagerbereich entladen und der Artikel dort gelagert.\n\nWenn nicht aktiviert, bleibt der produzierte Artikel so lange dort, bis er irgendwo verwendet wird oder bis ein bestimmter Frachtraum verfügbar ist.
+
+        
 # =============================================================================
 # Ship Editor
 # =============================================================================
@@ -491,9 +526,9 @@ shipeditor_symmetry_short               S
 shipeditor_symmetry_leftclickdrag       [LMT] Ziehen
 shipeditor_symmetry_rightclicktoggle    [RMT] Umschalten
 
-
+    
 # =============================================================================
-# Interstellar Travel
+# Interstellar Travel 
 # =============================================================================
 
 interstellar_travel						INTERSTELLARES REISEN
@@ -534,6 +569,7 @@ powergrid_category_weapons              WAFFEN
 powergrid_category_defenses             VERTEIDIGUNG
 powergrid_category_lifesupport          LEBENSERHALTUNG
 powergrid_category_logistics			LOGISTIK
+powergrid_category_science   			WISSENSCHAFT
 powergrid_category_other                SONSTIGES
 
 
@@ -568,6 +604,7 @@ trade_window_Habitation                 Quartiere
 trade_window_Defense                    Verteidigung
 trade_window_Industry                   Industrie
 trade_window_Logistics                  Logistik
+trade_window_Science                    Wissenschaft
 trade_window_Resources                  Ressourcen
 trade_window_Components                 Komponenten
 trade_window_Crew                       Crew
@@ -596,6 +633,66 @@ trade_tooltip_cancelalltrade            [RMT] Alle abbrechen
 trade_profit                            *X GEWINN
 trade_cost                              KOSTEN: *X
 trade_cash                              BARGELD: *x
+
+
+# =============================================================================
+# Tech Tree
+# =============================================================================
+
+techtree_title                          FORSCHUNG
+techtree_researched                     ERFORSCHT
+techtree_available                      VERFÜGBAR
+techtree_unavailable                    ANFORDERUNGEN NICHT ERFÜLLT
+techtree_in_progress                    FORSCHUNG LÄUFT
+techtree_busy                           FORSCHER SIND BESCHÄFTIGT
+techtree_cost_RP                        Kosten: *X FP
+techtree_cost_CP                        Kosten: *X BP
+techtree_cost_RP+CP                     Kosten: *X FP + *Y BP
+techtree_currentResearch                Aktuelle Forschung:
+techtree_researchPoints                 Forschungspunkte:
+techtree_computationPoints              Berechnungspunkte:
+techtree_rewards                        Belohnung:
+techtree_unlocks                        Entsperrt:
+techtree_boosts                         Leistungssteigerung:
+techtree_blueprint                      Plan
+techtree_deselect                       Abwählen
+techtree_accept                         Forschung anfangen
+techtree_warning                        ACHTUNG!
+techtree_lose_progress                  Wenn ein neues Forschungsprojekt anfängt, alle Fortschritte des aktuellen werden verloren
+techtree_missing_equipment              Für dieses Forschungsprojekt ist ein *X erforderlich
+
+techtree_node_title_FluidLogistics1              Fluidlogistik Level 1
+techtree_node_caption_FluidLogistics1            Schaltet den Bauplan für Kleinen Tank frei
+techtree_node_title_FluidLogistics2              Fluidlogistik Level 2
+techtree_node_caption_FluidLogistics2            Schaltet den Bauplan für Mittelgroßen Tank frei
+techtree_node_title_FluidLogistics3              Fluidlogistik Level 3
+techtree_node_caption_FluidLogistics3            Schaltet den Bauplan für Riesigen Tank frei
+
+techtree_node_title_Automation                   Fabrikautomation
+techtree_node_caption_Automation                 Schaltet den Bauplan für Schiene und Roboterarm frei
+techtree_node_title_CompactAutomation            Kompakte Automatisierung
+techtree_node_caption_CompactAutomation          Schaltet den Bauplan für Kurzer Roboterarm frei
+techtree_node_title_SmartAutomation              Intelligente Automatisierung
+techtree_node_caption_SmartAutomation            Schaltet den Bauplan für Intelligenter Roboterarm frei
+techtree_node_title_Metallurgy1                  Metallurgie Level 1
+techtree_node_caption_Metallurgy1                Schmelzofen produzieren 20 % mehr Leistung
+techtree_node_title_Metallurgy2                  Metallurgie Level 2
+techtree_node_caption_Metallurgy2                Schmelzofen produzieren 40 % mehr Leistung
+techtree_node_title_EnergyTransmission           Energieübertragung
+techtree_node_caption_EnergyTransmission         Schaltet den Bauplan für Energiesender und -empfänger frei
+techtree_node_title_WeaponsConsoleExtraSlot1     Zusätzlicher Steckplatz für Waffenkonsole
+techtree_node_caption_WeaponsConsoleExtraSlot1   Die Waffenkonsole kann jetzt mit 3 Waffen gleichzeitig verbunden werden
+techtree_node_title_WeaponsConsoleExtraSlot2     Zusätzlicher Steckplatz für Waffenkonsole
+techtree_node_caption_WeaponsConsoleExtraSlot2   Die Waffenkonsole kann jetzt mit 4 Waffen gleichzeitig verbunden werden
+
+boost_SmelterEfficiency                 Schmelzofen Effizienz +*X%
+special_WeaponsConsoleSlot3             Waffenkonsole dritter Steckplatz
+special_WeaponsConsoleSlot4             Waffenkonsole vierter Steckplatz
+
+techtree_editor_save                    ÄNDERUNGEN SPEICHERN
+techtree_editor_reset                   BAUM NEU LADEN
+techtree_award_title                    FORSCHUNG ABGESCHLOSSEN
+award_rewards                           Belohnung
 
 # =============================================================================
 # Tactical Window
@@ -651,6 +748,14 @@ mission_special                         Sondermission
 mission_new                             NEU
 mission_illegal                         ILLEGALE AKTIVITÄT
 mission_assignedto                      (Zugewiesen: *X)
+mission_recovered                       WIEDERHERGESTELLT
+mission_delivered                       GELIEFERT
+mission_collected                       GESAMMELT
+mission_showonmap                       AUF KARTE ANZEIGEN
+mission_youarehere                      DU BIST HIER
+mission_courseplotted                   KURS GEPLANT
+mission_onroute                         AUF DER STRECKE
+mission_reward                          ZAHLUNG
 
 mission_requires_equipment              Vertrag erfordert Ausrüstung: *X
 mission_requires_stock                  Vertrag erfordert *X
@@ -662,9 +767,11 @@ mission_requires_logisticsrating        Du brauchst einen Logistikwert von minde
 mission_requires_humanitarianrating     Du brauchst eine Humanitäre Wert von mindestens *X.
 mission_requires_notindemo              Für Demo-Spieler nicht verfügbar
 mission_difficulty                      Diese Mission hat den Schwierigkeitsgrad „*X“.
+mission_difficulty_short                SCHWIERIGKEIT *X
 
 mission_requirement_passed              [ERFÜLLT]
 mission_requirement_failed              [FEHLGESCHLAGEN]
+mission_show_completed                  ABGESCHLOSSENE ANZEIGEN
 
 mission_type_delivery					Lieferung
 mission_delivery_title					Kuriermission: Liefere Fracht in ein nahe gelegenes System.
@@ -684,6 +791,7 @@ mission_delivery_toolate                *X von *Y Gegenständen erhalten, das Ze
 mission_delivery_lost                   Die verbleibenden *X Gegenstände der Fracht sind unauffindbar.
 mission_delivery_wrongdestination       Ein Teil der Ladung wurde an den falschen Ort geliefert. Du erhältst keine Bezahlung.
 mission_delivery_success                *X von *Y Artikeln geliefert
+mission_delivery_location               Reise zum Liefersystem
 
 mission_type_passengers					Passagiere befördern
 mission_passengers_title				Dringende Anfrage zur Personenbeförderung
@@ -700,6 +808,8 @@ mission_passengers_received				*X Passagiere von *Y haben es sicher an den Zielo
 mission_passengers_lost                 *X Passagiere sind nicht sicher am Zielort angekommen.
 mission_passengers_wrongdestination     Die Fahrgäste wurden am falschen Zielort abgesetzt! Für diesen Transport wirst du nicht bezahlt.
 mission_passengers_success              *X von *Y Passagieren befördert
+mission_passengers_collection           Sammel alle Passagiere
+mission_passengers_location             Transportiere die Passagiere zum Ziel
 
 mission_type_refugees                   Geflüchtete
 mission_refugees_title                  Nimm Geflüchtete in deine Obhut.
@@ -727,6 +837,7 @@ mission_rescue_allrescued               Alle Crewmitglieder des Schiffs wurden g
 mission_rescue_received                 *X von *Y Crewmitglieder habe es geschafft und sind in Sicherheit. Gesamtzahlung: *Z $.
 mission_rescue_lost                     *X Crewmitglieder sind nicht heil angekommen.
 mission_rescue_timer                    Der Antriebskern des Schiffes wird in *X Sekunden explodieren!
+mission_rescue_location                 Reise zum gestrandeten Schiff
 
 mission_type_combat                     Kampf
 mission_combat_title_mines              Räume ein gefährliches Minenfeld.
@@ -734,6 +845,7 @@ mission_combat_title_roguefighters      Greife abtrünnige Jäger an und vernich
 mission_combat_title_pirategang         Schalte eine Piratenbande aus.
 mission_combat_title_armouredthugs      Beseitige eine gepanzerte Schlägertruppe.
 mission_combat_title_mercenarystation   Zerstöre die Waffenplattform der gegnerischen Söldner.
+mission_combat_title_communityships     Greife eine feindliche Piratenbande an und vernichte sie
 mission_combat_description1             In einem nahen Sternensystem dieses Sektors geht eine kleine Flotte gegnerischer Schiffe illegalen Aktivitäten nach.
 mission_combat_description2             Sie schikanieren schon viel zu lange humanitäre sowie Handelsraumschiffe.
 mission_combat_description3             Reise in das System, kämpfe gegen sie und zerstöre sie.
@@ -748,6 +860,9 @@ mission_combat_attacknow                Du hast die gegnerischen Streitkräfte a
 mission_combat_destroyed                Du hast *X von *Y Gegnern vernichtet. Die Gesamtsumme des ausgezahlten Kopfgelds beläuft sich auf *Z $.
 mission_combat_alldestroyed             Alle gegnerischen Streitkräfte wurden vernichtet.
 mission_combat_failure                  Die verbliebenen Gegner sind geflohen.
+mission_combat_success                  *X/*Y Feinde vernichtet
+mission_combat_location                 Die feindlichen Schiffe befinden sich im System *X.
+mission_combat_objective                Finde und bekämpfe feindliche Kräfte
 
 mission_type_industry                   Asteroidenabbau
 mission_industry_title                  Ressourcenabbau-Vertrag: Baue wichtige Mineralien ab.
@@ -769,6 +884,7 @@ mission_industry_refined                #ERROR!
 mission_industry_shuttle                Wir haben ein Shuttle losgeschickt, um das Tiliumerz abzuholen.
 mission_industry_lost                   Dein Schiff hat kein Tilium mehr geladen.
 mission_industry_success                *X/*Y Erz abgebaut
+mission_industry_location               Reise zum Asteroidengürtel
 
 mission_type_production                 Produktion
 mission_production_title                Produktionsvertrag: Ressourcen verarbeiten
@@ -780,7 +896,7 @@ mission_production_available            In deiner Flotte stehen *X Stapel R*Y zu
 mission_production_received             Wir haben *X von insgesamt *Z Stapeln R*Y erhalten.
 mission_production_nomore               Die Ressource R*X ist in deiner Flotte nicht mehr verfügbar.
 mission_production_success              *X/*Y Gegenstände bereitgestellt
-
+        
 mission_type_SectorDestroy              Vernichte gegnerische Truppen.
 mission_sectordestroy_title             ZIELVORGABE FÜR DIESEN SEKTOR: Vernichte alle gegnerischen Streitkräfte.
 mission_sectordestroy_system            Du hast die gegnerischen Streitkräfte im System *X vernichtet. Das Honorar in Höhe von *Y $ ist unterwegs.
@@ -795,6 +911,7 @@ mission_sectordestory_success           GEGNER ELIMINIERT
 mission_type_SectorRescue               Rettung (Sektor)
 mission_sectorrescue_title              ZIELVORGABE FÜR DIESEN SEKTOR: Rette Zivilisten aus einem Schiffswrack.
 mission_sectorrescue_description1       Gehe einem Notruf im System *X nach.
+mission_sectorrescue_thrusters          NB. SIE BENÖTIGEN STEUERRAKETEN, UM IN DIE POSITION ZU MANÖVIEREN.
 mission_sectorrescue_timed              Das Schiffstriebwerk wird sehr bald in die Luft fliegen. (+25 % Honorar)
 mission_sectorrescue_meteors            Berichten zufolge gibt es in diesem Bereich einen Meteoritenschauer. (+25 % Honorar).
 mission_sectorrescue_thrust             Das Schiff ist in Bewegung. Du wirst etwas Geschick benötigen, um sicher anzukoppeln. (+25 % Honorar)
@@ -900,6 +1017,7 @@ object_civilian							Zivilist
 object_refugee                          Geflüchteter
 object_crewmember						Crew
 object_scientist                        Wissenschaftliches Personal
+object_weaponsspecialist                Waffenoffizier
 object_data                             Daten
 object_deuterium                        Deuterium
 object_deuterium_description            Dieser Treibstoff eignet sich für Fusionsreaktoren.
@@ -907,7 +1025,7 @@ object_dockingport						Kopplungsadapter
 object_dockingport_description          Über den Kopplungsadapter wird der Zugang zum Schiff ermöglicht. Hier koppeln Shuttle-Schiffe an und ab.
 object_door								Tür
 object_door_description                 Diese Tür mit hoher Druckdichte riegelt bei Hüllenbruch oder Feuer einzelne Bereiche ab.
-object_tank								Huge Tank
+object_tank								Riesiger Tank
 object_tank_description                 In diesem riesigen Tank lässt sich eine große Menge an Flüssigkeit oder Gas lagern.
 object_smalltank						Mittelgroßer Tank
 object_smalltank_description            In diesem Tank werden Flüssigkeiten oder Gase gelagert.
@@ -916,6 +1034,7 @@ object_tinytank_description             In diesem Tank werden Flüssigkeiten ode
 object_dronebay							Drohnenbucht
 object_dronebay_description             Drohnenbuchten werden benötigt, um vom Schiff aus Logistikdrohnen auszusenden. Drohnen sammeln im Weltraum Rohstoffe und Bergungsgut und kehren danach über die Drohnenbucht zurück ins Schiff. Eine Drohnenbucht kann mehrere Drohnen aussenden.
 object_energycell						Energiezelle
+object_energytransmitter                Energiesender
 object_engine							Antrieb
 object_engine_description               Das Hauptantriebssystem für die Vorwärtsbewegung des Schiffs. Muss über eine Rohrleitung mit Treibstoff und über ein Kabel mit Energie versorgt werden.
 object_thruster                         Steuerrakete
@@ -928,6 +1047,9 @@ object_ftlcharge						FTL-Ladung
 object_ftldrive							FTL-Antrieb
 object_fuel								Treibstoff
 object_fusionreactor                    Fusionsreaktor
+object_fusionreactor_description        Nutzt die Kernfusion von Deuterium, um große Energiemengen zu erzeugen. Allerdings muss der Fusionsreaktor mit einer großen Energiemenge „hochgefahren“ werden, bevor er selbst Strom erzeugen kann.\n\nErzeugt eine maximale Leistung von 500 MW.
+object_weaponsconsole                   Waffenkontrollzentrum
+object_weaponsconsole_description       Ein Terminal, an dem ein Waffenoffizier mehrere Waffen gleichzeitig steuern kann.
 object_gatlinggun						Gatling-Kanone
 object_gatlinggun_description           Dieses Schnellfeuerwaffensystem für den Nahbereich, das in erster Linie als Verteidigungsmaßnahme gegenüber Angriffsjägern und Artillerie entwickelt wurde. Die Gatling-Kanone eignet sich hervorragend, um sich schnell bewegende Ziele aus nächster Nähe zu zerstören. Allerdings fehlt ihr die Durchschlagskraft, um gepanzerte Ziele zu durchdringen.
 object_cannon							Kanone
@@ -959,6 +1081,10 @@ object_railgun							Railgun
 object_railgun_description              Dieses extrem präzise Waffensystem verfügt über eine große Reichweite und verwendet massive Metallgeschosse. Die Railgun ist eine präzise Waffe, die die Panzerung einer Hülle durchdringen und Ausrüstung im Inneren des anvisierten Schiffs zerstören kann. Allerdings verbraucht die Waffe nach jedem Schuss sehr viel Energie, um neu zu laden.
 object_reactor							Reaktor
 object_reactor_description              Verbrennt energiereichen Treibstoff und erzeugt Energie. Muss über eine Rohrleitung mit Treibstoff versorgt werden. Stelle dann mithilfe von Kabeln eine Verbindung zu den Geräten her, die mit Energie versorgt werden sollen.
+object_sciencestation                   Wissenschaftsstation
+object_sciencestation_description       Ein Arbeitsplatz für einen Wissenschaftler zur Durchführung wertvoller Forschungsarbeiten.
+object_supercomputer                    Supercomputer
+object_supercomputer_description        Ein leistungsstarker Computer zum Berechnen von Zahlen und zum Simulieren wichtiger Forschungsergebnisse.
 object_shuttle							Shuttle
 object_spacesuit						Raumanzug
 object_spacesuitpod						Raumanzugscontainer
@@ -987,6 +1113,7 @@ object_metreongas                       Metreongas
 object_refinedmetreon                   Veredeltes Metreon
 object_explosives                       Sprengstoffe
 object_hyperspaceisotopes               Hyperraum-Isotopen
+object_stableisotopes                   Stabile Isotope
 object_seeds                            Saatgut
 object_seeds_description                Diese kleine Tüte enthält eine Gemüsesamenmischung, die du vielleicht in einem Hydroponik-Garten anbauen kannst.
 object_smelter							Schmelzofen
@@ -1021,15 +1148,21 @@ object_hydroponics_description          Ein geschlossenes Gewächshaus, in dem d
 object_fabricator                       Fabrikator
 object_assembler                        Montagetisch
 object_robotarm                         Roboterarm
+object_robotarmshort                    Kurtzer Roboterarm
+object_robotarmsmart			        Intelligenter Roboterarm
 object_track                            Schiene
 object_ruinedequipment                  Zerstörte Ausrüstung
+object_solarpanel                       Sonnenkollektor
+object_solarpanel_description           Diese müssen außerhalb Ihres Schiffes installiert werden, mit Gerüsten zur Unterstützung. Jeder Kollektor erzeugt 10 MW.
 
 object_framecomponent                   Rahmen
 object_motorcomponent                   Motor
 object_coilcomponent                    Energiespule
+object_lenscomponent                    Linse
 object_stargatestructure                Sternentor-Rahmen
 object_stargateresin                    Sternentor-Harz
 object_stargateactuator                 Sternentor-Aktuator
+object_stargatereceiver                 Sternentor-Empfänger
 
 object_sewage							Schmutzwasser
 object_wastewater						Abwasser
@@ -1041,6 +1174,7 @@ object_short_ftlcharge                  FTL
 object_short_bullets                    Munition
 object_short_railgunshell               Geschosse
 object_short_cannonshell                Geschosse
+object_short_deuterium                  Dtrm
 
 entity_unconscious						BEWUSSTLOS
 entity_dead								TOT
@@ -1049,13 +1183,13 @@ entity_stunned							BETÄUBT
 entity_suitrequired						ANZUG ERFORDERLICH
 entity_dehydrated						DEHYDRIERT
 entity_fainted                          OHNMÄCHTIG
-
+        
 entity_death_injury                     Tödliche Verletzung
 entity_death_suffocation                Ersticken
 entity_death_dehydration                Dehydrierung
 entity_death_starvation                 Verhungern
 entity_death_co2poisoning               Kohlendioxid
-
+        
 order_none								Keine
 order_salvage						    Bergungsgut einsammeln
 order_gather							Materialien sammeln
@@ -1066,9 +1200,10 @@ order_exteriorwork                      Arbeiten im Außenbereich
 order_weaponsactive                     Feuer frei
 order_fleetlogistics                    Flottenlogistik
 order_battlestations                    Kampfstationen
+order_mining                            Bergbau
 
-battle_title
-stations_title
+battle_title                            GEFECHTS-
+stations_title                          STATIONEN
 
 designation_civilian                    Zivilist
 designation_crewquarters                Quartiere der Crew
@@ -1102,17 +1237,11 @@ mission_flightready_ftljump_help        Einen FTL-Antrieb. Teste deinen neuen FT
 mission_type_tutorialflightready        ZIELORT
 
 mission_flightready_power               Ein Reaktor, der Energie erzeugt.
-mission_flightready_power_done          [ABGESCHLOSSEN] Ein Reaktor, der Energie erzeugt
 mission_flightready_engines             Triebwerke für den Antrieb
-mission_flightready_engines_done        [ABGESCHLOSSEN] Triebwerke für den Antrieb
 mission_flightready_movement            Teste die Triebwerke in der Ansicht TAKTISCH.
-mission_flightready_movement_done       [ABGESCHLOSSEN] Teste die Triebwerke in der Ansicht TAKTISCH.
 mission_flightready_lifesupport         Lebenserhaltungssysteme, um das Innere des Schiffs bewohnbar zu machen [*X %]
-mission_flightready_lifesupport_done    [ABGESCHLOSSEN] Lebenserhaltungssysteme, um das Innere des Schiffs bewohnbar zu machen
 mission_flightready_ftl                 Einen FTL-Antrieb, der Hyperraum-Sprünge ermöglicht.
-mission_flightready_ftl_done            [ABGESCHLOSSEN] Einen FTL-Antrieb, der Hyperraum-Sprünge ermöglicht.
 mission_flightready_ftljump             Sprung zum markierten Zielort
-mission_flightready_ftljump_done        [ABGESCHLOSSEN] Sprung zum markierten Zielort
 
 
 # =============================================================================
@@ -1256,4 +1385,12 @@ recipe_created_in                       Fertigung in: *X
 recipe_duration                         Dauer: *X Sekunden
 recipe_quantity_required                *X x *Y
 
+stargate_energy_required                ERFORDERLICH: *X MW
+stargate_energy_received                ERHALTEN: *X MW
+
+stargate_testfire_help                  Versorge mit Energiesendern genug Energie zum Sternentor, um den Testbrand abzuschließen! Jeder Sender strahlt bis zu 100 MW zum Sternentor
+
 smelt_title                             *X schmelzen
+
+stargate_award_title                    STARGATE-FORTSCHRITT
+stargate_award_subtitle                 Phase *X abgeschlossen
