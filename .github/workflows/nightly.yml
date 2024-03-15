@@ -16,18 +16,27 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v4
+      
+    - name: Use base64 README
+      run: |
+        rm README.md
+        mv README-base64.md README.md
 
     - name: Package latest translations
       run: |
         version=`cat version`
-        zip -r -v ../LastStarshipTranslations_${version}_nightly.zip assets/ data/ ../README.md
+        cp ../README.md ./README.md
+        zip -r -v ../LastStarshipTranslations_${version}_nightly.zip data/ README.md
+        unzip -l ../LastStarshipTranslations_${version}_nightly.zip
       working-directory: ./latest
 
     - name: Package legacy translations
       run: |
         for d in */ ; do
           pushd "$d"
-          zip -r -v "../../LastStarshipTranslations_${d%/}_nightly.zip" assets/ data/ ../README.md
+          cp ../../README.md ./README.md
+          zip -r -v "../../LastStarshipTranslations_${d%/}_nightly.zip" data/ README.md
+          unzip -l "../../LastStarshipTranslations_${d%/}_nightly.zip"
           popd
         done
       working-directory: ./legacy

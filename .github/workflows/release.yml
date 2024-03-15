@@ -16,20 +16,25 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v4
+      
+    - name: Use base64 README
+      run: |
+        rm README.md
+        mv README-base64.md README.md
 
     - name: Package Files
       run: |
         mv latest/data data
-        zip -r -v LastStarshipTranslations_v${{ github.event.inputs.version }}.zip assets/ data/ README.md
+        zip -r -v LastStarshipTranslations_v${{ github.event.inputs.version }}.zip data/ README.md
 
     - name: Release
       uses: ncipollo/release-action@main
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
+        artifacts: 'LastStarshipTranslations_v${{ github.event.inputs.version }}.zip'
+        tag: 'v${{ github.event.inputs.version }}'
+        commit: ${{ github.ref_name }}
+        prerelease: false
         allowUpdates: false
         artifactErrorsFailBuild: true
         draft: true
-        prerelease: false
-        commit: ${{ github.ref_name }}
-        tag: 'v${{ github.event.inputs.version }}'
-        artifacts: 'ComicRackCE_v${{ github.event.inputs.version }}.zip,ComicRackCESetup_v${{ github.event.inputs.version }}.exe'
