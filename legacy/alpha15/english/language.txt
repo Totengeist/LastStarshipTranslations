@@ -231,10 +231,6 @@ settings_exitsaves_tooltip              When enabled, the current game will be s
 settings_hud                            Show HUD
 settings_music                          Music
 settings_hudscale                       UI Scale
-settings_sound                          SOUND
-settings_appearance                     APPEARANCE
-settings_keybindings                    KEYBOARD
-settings_other                          OTHER
 settings_mastervolume                   Master Volume
 settings_effectsvolume                  Effects Volume
 settings_musicvolume                    Music Volume
@@ -244,12 +240,7 @@ settings_language                       Language
 settings_credit_tooltip                 With thanks to:
 settings_arraytextures                  Use Array Textures
 settings_dynamiclighting                Use Dynamic Lighting
-settings_uibounce                       UI Highlight Bounce
-settings_accentinsensitivesearch        Accent Insensitive Search
-settings_accentinsensitivesearch_description   When searching in lists, ignore accented characters, e.g. "é" will match "e"
-settings_translatorassist               Translator Assist (Ctrl, Alt)
-settings_translatorassist_description   Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.
-    
+
 legal_button                            Legal Information
 wishlist_button                         Add to Wishlist
 steamstore_button                       Visit Steam Store
@@ -262,67 +253,6 @@ toolsmenu_spriteeditor                  Sprite Editor
 toolsmenu_close                         Close
 
 language_helpustranslate                Help Us Translate!
-
-# =============================================================================
-# Key Bindings
-# =============================================================================
-
-keybinding_title_action                         Action
-keybinding_title_key                            Key
-keybinding_press_a_key                          PRESS A KEY
-keybinding_revert                               RESET
-
-keybinding_panleft1                             Pan Left (1)
-keybinding_panleft2                             Pan Left (2)
-keybinding_panright1                            Pan Right (1)
-keybinding_panright2                            Pan Right (2)
-keybinding_pandown1                             Pan Down (1)
-keybinding_pandown2                             Pan Down (2)
-keybinding_panup1                               Pan Up (1)
-keybinding_panup2                               Pan Up (2)
-keybinding_zoomin                               Zoom In
-keybinding_zoomout                              Zoom Out
-keybinding_ManoeuvreLeft                        Thrust Left
-keybinding_ManoeuvreRight                       Thrust Right
-keybinding_ManoeuvreUp                          Thrust Up
-keybinding_ManoeuvreDown                        Thrust Down
-keybinding_ManoeuvreClockwise                   Thrust Clockwise
-keybinding_ManoeuvreCounterClockwise            Thrust C-Clockwise
-keybinding_toggletactical                       Toggle Tactical
-keybinding_togglemap                            Toggle Map
-keybinding_increasethrust                       Engines +
-keybinding_decreasethrust                       Engines -
-keybinding_hudscaleup                           Increase HUD Scale
-keybinding_hudscaledown                         Decrease HUD Scale
-keybinding_recentrehome                         Recentre Ship
-keybinding_togglepause                          Pause
-keybinding_gamespeed1                           Normal Speed
-keybinding_gamespeed2                           2x Speed
-keybinding_gamespeed3                           3x Speed
-keybinding_gamespeed4                           4x Speed
-keybinding_gamespeed5                           5x Speed
-keybinding_gamespeed6                           6x Speed
-keybinding_gamespeed7                           7x Speed
-keybinding_gamespeed8                           8x Speed
-keybinding_gamespeed9                           9x Speed
-keybinding_gamespeed0                           Half Speed
-keybinding_rotateobject                         Rotate Object
-keybinding_takescreenshot                       Screenshot (+ {MetaCtrl})
-keybinding_alttool,                             Eye-dropper
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # =============================================================================
@@ -464,17 +394,11 @@ scenario_habitation                     Cabins: *X
 scenario_armour                         Armour: *X%
 scenario_noarmour                       Armour: None
 
-origin_official                         OFFICIAL
-origin_community                        COMMUNITY
-origin_user                             PLAYER-MADE
-origin_steam                            SUBSCRIBED ON STEAM WORKSHOP
-origin_steamuser                        UPLOADED TO STEAM WORKSHOP
-
-origin_shipofficial                     OFFICIAL SHIPS
-origin_shipcommunity                    COMMUNITY SHIPS
-origin_shipuser                         PLAYER-MADE SHIPS
-origin_shipsteam                        SUBSCRIBED SHIPS ON STEAM WORKSHOP
-origin_shipsteamuser                    SHIPS UPLOADED TO STEAM WORKSHOP
+origin_official                         Official
+origin_community                        Community
+origin_user                             Player-made
+origin_steam                            Subscribed on Steam Workshop
+origin_steamuser                        Uploaded to Steam Workshop
 
 # =============================================================================
 # HUD
@@ -768,8 +692,6 @@ shipeditor_mode_createship              Create Ship
 shipeditor_tooltip_createship           Create an entirely new ship from scratch
 shipeditor_mode_spawn                   Spawn
 shipeditor_tooltip_spawn                Spawn equipment and resources inside your ship. (Creative Mode only)
-shipeditor_mode_eyedropper              Eyedropper
-shipeditor_tooltip_eyedropper           Lets you select a paint from the exterior of your ship (can also be used by pressing the "Shift" key)
 shipeditor_brush_freehand               FREEHAND
 shipeditor_brush_box                    BOX TOOL
 shipeditor_price_button                 Cost
@@ -787,30 +709,6 @@ shipeditor_symmetry_rightclicktoggle    [RMB] Toggle
 
 shipeditor_draw                         DRAW
 shipeditor_erase                        ERASE
-shipeditor_paint                        PAINT
-
-shipeditor_paint_paint                  Foreground Paint
-shipeditor_paint_erase                  Background Paint
-
-shipeditor_paint_name                   Paint Name
-shipeditor_paint_standard               Standard Paint
-shipeditor_paint_custom                 Custom Paint
-shipeditor_paint_primary                Base Primary
-shipeditor_paint_secondary              Base Secondary
-shipeditor_paint_detailprimary          Detail Primary
-shipeditor_paint_detailsecondary        Detail Secondary
-shipeditor_paint_detailtertiary         Detail Tertiary
-
-shipeditor_palettelibrary_title_import  IMPORT PALETTES
-shipeditor_palettelibrary_title_export  EXPORT PALETTES
-
-shipeditor_palettelibrary_createname    CREATE NEW PALETTE
-shipeditor_palettelibrary_import        IMPORT
-shipeditor_palettelibrary_delete        DELETE
-shipeditor_palettelibrary_confirm       CONFIRM
-shipeditor_palettelibrary_cancel        CANCEL
-shipeditor_palettelibrary_export        EXPORT
-shipeditor_palettelibrary_upload        UPLOAD
 
 # =============================================================================
 # Interstellar Travel 
@@ -898,8 +796,7 @@ trade_showoutofstock                    Show out of stock
 trade_shuttleinbound                    SHUTTLE INBOUND
 trade_autotrade                         AUTO-TRADE
 trade_cancelautotrade                   CANCEL AUTO-TRADE
-trade_autotradecancelled                LAST ORDER CANCELLED
-trade_autotradedisabled                 DISABLED IN ORDER MENU
+trade_autotradecancelled                CANCELLED
 
 trade_overlay_price                     PRICE
 trade_overlay_them                      THEM
@@ -1064,7 +961,7 @@ special_mininglaseraccuracy             Mining Laser Precision
 
 special_stargatepart1                   Andromeda Project Phases 1, 2
 special_stargatepart2                   Andromeda Project Phase 3
-special_stargatepart3                   Andromeda Project Phases 4, 5
+special_stargatepart3                   Andromeda Project Phases 4, 5, 6
 
 techtree_editor_save                    SAVE CHANGES
 techtree_editor_reset                   RELOAD TREE
@@ -1120,7 +1017,6 @@ order_weaponsactive                     Weapons Free
 order_fleetlogistics                    Fleet Logistics
 order_battlestations                    Battle Stations
 order_mining                            Mining
-order_autotradeactive                   Auto Trade
 
 action_opendoors                        Open All Doors
 action_closedoors                       Close All Doors
@@ -1620,11 +1516,6 @@ object_storagecrate                     Storage Crate
 object_storagecrate_description         Storage crate, stores a single type of resource but at 4x the usual amount per square 
 object_smallstoragecrate                Small Storage Crate
 object_smallstoragecrate_description    Small storage crate, stores a single type of resource but at 4x the usual amount per square 
-object_table                            Table
-object_smalltable                       Small Table
-object_chair                            Chair
-object_sofa                             Sofa
-object_potplant                         Pot Plant
 
 object_framecomponent                   Frame
 object_motorcomponent                   Motor
@@ -1945,7 +1836,7 @@ tutorial_powerplaceloader              Stamp the FUEL LOADER down somewhere near
 tutorial_powerselectpipes              We need to connect the FUEL LOADER to the REACTOR, using a Pipe.\n\nSelect PIPES from the Construction Menu.
 tutorial_powerpipeconnect              Drag a pipe from the FUEL LOADER to the REACTOR, connecting the yellow pipe circles.\n\nFUEL PIPES are used to connect the output from one piece of equipment into the input of another.\n\nFUEL PIPES are yellow and must connect the yellow circles on equipment.
 tutorial_powerreactorpowerup           The REACTOR is starting up.
-tutorial_powerreactoractive            The REACTOR is activated! We are now generating power for our ship.
+tutorial_powerreactoractive            The REACTOR is activated! We are now generating power for our station.
 
 tutorial_air_title                     OXYGEN
 tutorial_airinstallairduct             We now need to provide a breathable atmosphere for our crew. This is done with an AIRDUCT.\n\nInstall an AIRDUCT somewhere near the Reactor.
@@ -2120,25 +2011,6 @@ tutorial_combatselecttarget           Target their weapon systems so that they c
 tutorial_combatbattlestations         The effect of the EMP is wearing off!\n\nDeploy your weapons and make your crew ready to fight by clicking on BATTLE STATIONS.    
 tutorial_combatkeepmoving             Make sure to keep moving during combat, this increases your EVASION and makes you a harder target to hit.
 tutorial_combatsuccess                Well done. You have learned how to use weapons. Now fire at will at the pirate ship!
-
-tutorial_battlestations_title         BATTLE STATIONS
-tutorial_battlestationsstart          We are now going to learn how to deploy our weapons for combat.\n\nThe game has been paused for now.
-tutorial_battlestationsactivate       BATTLE STATIONS must be activated before your weapons can be used.\n\nThis will tell your crew to prepare for battle!
-tutorial_battlestationshighlightcrew  Your crew will run to the weapons to deploy them.\n\nGatling guns don't require any crew to deploy them.
-tutorial_battlestationshighlightguns  The gun barrels will begin to extend when they arrive.\n\nWhen the barrels are fully extended they will be ready to fire!
-tutorial_battlestationssuccess        Well done, your weapons are now successfully deployed for battle!
-
-tutorial_stargatejump_title             STARGATE JUMPING
-tutorial_stargatejumpstart              We are now going to learn how to jump using the newly powered-up Stargate.
-tutorial_stargatejumpnopower            The Stargate currently has lost power and needs to be started again.\n\nUse energy transmitters to power the Stargate.\n\nWhen the Stargate is ready, we will try again!
-tutorial_stargatejumpintro              The Stargate enables travel between different sectors.\n\nThe jump costs a single FTL charge and the Stargate will use more power while a jump is in progress.
-tutorial_stargatejumpselectsystem       Let's have a look at your ship in the Stargate system.\n\nStargate jumps can only be performed from the Stargate system.
-tutorial_stargatejumpopenftl            First, let's open the FTL window.
-tutorial_stargatejumpabortjump          We will need to abort the jump that's currently planned.
-tutorial_stargatejumphighlightalign     When no jump is planned on the sector map, you can align your fleet for a Stargate jump.
-tutorial_stargatejumphighlightaligning  Great! The selected ships will now align for the jump.
-tutorial_stargatejumphighlightjump      Your fleet is ready to jump to the new sector!\n\nYou can come back to this sector by performing another Stargate jump.
-tutorial_stargatejumpsuccess            Well done. You can now jump between sectors!
 
 tutorial_mining_title                 MINING
 tutorial_miningstart                  We are now going to learn how to mine and collect resources from asteroids.
@@ -3190,8 +3062,6 @@ dsi_part2_advertisement                     Captain, I think it's time we resume
 
 dsi_part2_action_accept                     Call X
 
-dsi_part2_objective_sellreminder            Sell your manufactured parts to submit them to the Stargate project
-
 dsi_part2_introcall1                        Welcome back, Captain.  I've been taking a look at the schematics published by the Andromeda Project, and the next phase is going to need a huge upgrade to our facilities.
 dsi_part2_introcall2                        However, nothing they're asking us to produce is impossible, and I have a strong personal interest in seeing this project completed.  The sooner the better.
 dsi_part2_introcall3                        The Andromeda Project have released specifications for three different components.  We need to manufacture large quantities of all three to complete this phase, and each will require a different industrial setup.
@@ -3217,7 +3087,7 @@ dsi_part2_objective_minecopper              Begin mining copper minerals [*X/100
 dsi_part2_objective_copperingots            Begin smelting Copper Ingots [*X/100]
 dsi_part2_objective_producemotors           Begin fabricating Motors [*X/100]
 
-dsi_part2_objective_installengines          OPTIONAL: Install engines in the A.J.E Foundry
+dsi_part2_objective_installengines          OPTIONAL: Install engines in the A.J.E Industry
 dsi_part2_introcall6                        The second part is a chemical compound they're calling Stargate Resin.  It's synthesised in a Chemical Lab, but we first need huge volumes of Metreon Gas.  It's found only in deep space nebulas.
 dsi_part2_introcall7                        My thinking is to buy a suitable fuselage from a Shipyard, and then convert it into a dedicated gas capture and refining facility.  There's a good ship nearby.  You can buy it on my behalf and then set it up, and we'll drop it off in a rich gas cloud and leave it running.
 
@@ -3289,5 +3159,3 @@ dsi_part2_scene_z5                          THERE WILL BE NO FURTHER WARNING.
 
 dsi_part2_scene_y7                          You've left me no choice.
 dsi_part2_scene_y8                          I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.
-
-

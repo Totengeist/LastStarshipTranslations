@@ -1,120 +1,10 @@
-﻿state,key,svn,english,translation
-NEW,settings_accentinsensitivesearch,2803,Accent Insensitive Search,Поиск без акцента
-NEW,settings_accentinsensitivesearch_description,2803,"When searching in lists, ignore accented characters, e.g. ""é"" will match ""e""","При поиске в списках игнорируй акцентированные символы, например, ""é"" будет соответствовать ""e"""
-NEW,settings_translatorassist,2803,"Translator Assist (Ctrl, Alt)","Помощник переводчика (Ctrl, Alt)"
-NEW,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.","Включи функции, помогающие переводчикам, например Alt для раскрытия английского языка и Ctrl для раскрытия фразового ключа."
-CURRENT,settings_sound,2793,SOUND,ЗВУК
-CURRENT,settings_appearance,2793,APPEARANCE,ВНЕШНИЙ ВИД
-CURRENT,settings_keybindings,2793,KEYBOARD,КЛАВИАТУРА
-CURRENT,settings_other,2793,OTHER,ДРУГОЙ
-CURRENT,settings_uibounce,2793,UI Highlight Bounce,UI Highlight Bounce
-CURRENT,keybinding_title_action,2793,Action,Действие
-CURRENT,keybinding_title_key,2793,Key,Ключ
-CURRENT,keybinding_press_a_key,2793,PRESS A KEY,НАЖМИТЕ КЛАВИШУ
-CURRENT,keybinding_revert,2793,RESET,СБРОС
-CURRENT,keybinding_panleft1,2793,Pan Left (1),Панель левая (1)
-CURRENT,keybinding_panleft2,2793,Pan Left (2),Сковорода слева (2)
-CURRENT,keybinding_panright1,2793,Pan Right (1),Панорамирование справа (1)
-CURRENT,keybinding_panright2,2793,Pan Right (2),Панорамирование справа (2)
-CURRENT,keybinding_pandown1,2793,Pan Down (1),Панорамирование вниз (1)
-CURRENT,keybinding_pandown2,2793,Pan Down (2),Панорамирование вниз (2)
-CURRENT,keybinding_panup1,2793,Pan Up (1),Пан ап (1)
-CURRENT,keybinding_panup2,2793,Pan Up (2),Панорамирование вверх (2)
-CURRENT,keybinding_zoomin,2793,Zoom In,Увеличить
-CURRENT,keybinding_zoomout,2793,Zoom Out,Уменьшение масштаба
-CURRENT,keybinding_ManoeuvreLeft,2793,Thrust Left,Упор влево
-CURRENT,keybinding_ManoeuvreRight,2793,Thrust Right,Удар вправо
-CURRENT,keybinding_ManoeuvreUp,2793,Thrust Up,Подтянись
-CURRENT,keybinding_ManoeuvreDown,2793,Thrust Down,Удар вниз
-CURRENT,keybinding_ManoeuvreClockwise,2793,Thrust Clockwise,Тяни по часовой стрелке
-CURRENT,keybinding_ManoeuvreCounterClockwise,2793,Thrust C-Clockwise,Натяжение по часовой стрелке
-CURRENT,keybinding_toggletactical,2793,Toggle Tactical,Тактический тумблер
-CURRENT,keybinding_togglemap,2793,Toggle Map,Карта
-CURRENT,keybinding_increasethrust,2793,Engines +,Двигатели +
-CURRENT,keybinding_decreasethrust,2793,Engines -,Двигатели -
-CURRENT,keybinding_hudscaleup,2793,Increase HUD Scale,Увеличение масштаба HUD
-CURRENT,keybinding_hudscaledown,2793,Decrease HUD Scale,Уменьшение шкалы HUD
-CURRENT,keybinding_recentrehome,2793,Recentre Ship,Корабль Recentre
-CURRENT,keybinding_togglepause,2793,Pause,Пауза
-CURRENT,keybinding_gamespeed1,2793,Normal Speed,Нормальная скорость
-CURRENT,keybinding_gamespeed2,2793,2x Speed,2x Скорость
-CURRENT,keybinding_gamespeed3,2793,3x Speed,3x Скорость
-CURRENT,keybinding_gamespeed4,2793,4x Speed,4x Скорость
-CURRENT,keybinding_gamespeed5,2793,5x Speed,5-кратная скорость
-CURRENT,keybinding_gamespeed6,2793,6x Speed,6-кратная скорость
-CURRENT,keybinding_gamespeed7,2793,7x Speed,7-кратная скорость
-CURRENT,keybinding_gamespeed8,2793,8x Speed,8-кратная скорость
-CURRENT,keybinding_gamespeed9,2793,9x Speed,9-кратная скорость
-CURRENT,keybinding_gamespeed0,2793,Half Speed,Полускорость
-CURRENT,keybinding_rotateobject,2793,Rotate Object,Поверни объект
-CURRENT,keybinding_takescreenshot,2793,Screenshot (+ {MetaCtrl}),Скриншот (+ {MetaCtrl})
-CURRENT,"keybinding_alttool,",2793,Eye-dropper,Пипетка для глаз
-CURRENT,origin_shipofficial,2793,OFFICIAL SHIPS,ОФИЦИАЛЬНЫЕ КОРАБЛИ
-CURRENT,origin_shipcommunity,2793,COMMUNITY SHIPS,ОБЩЕСТВЕННЫЕ КОРАБЛИ
-CURRENT,origin_shipuser,2793,PLAYER-MADE SHIPS,"КОРАБЛИ, СОЗДАННЫЕ ИГРОКАМИ"
-CURRENT,origin_shipsteam,2793,SUBSCRIBED SHIPS ON STEAM WORKSHOP,ПОДПИСНЫЕ КОРАБЛИ НА ПАРОВОЙ МАСТЕРСКОЙ
-CURRENT,origin_shipsteamuser,2793,SHIPS UPLOADED TO STEAM WORKSHOP,КОРАБЛИ ЗАГРУЖЕНЫ В STEAM WORKSHOP
-CURRENT,shipeditor_mode_eyedropper,2793,Eyedropper,Пипетка для глаз
-CURRENT,shipeditor_tooltip_eyedropper,2793,"Lets you select a paint from the exterior of your ship (can also be used by pressing the ""Shift"" key)","Позволяет выбрать краску с внешней стороны твоего корабля (также можно использовать, зажав клавишу ""Shift"")"
-CURRENT,shipeditor_paint,2793,PAINT,PAINT
-CURRENT,shipeditor_paint_paint,2793,Foreground Paint,Краска для переднего плана
-CURRENT,shipeditor_paint_erase,2793,Background Paint,Фоновая краска
-CURRENT,shipeditor_paint_name,2793,Paint Name,Название краски
-CURRENT,shipeditor_paint_standard,2793,Standard Paint,Стандартная краска
-CURRENT,shipeditor_paint_custom,2793,Custom Paint,Пользовательская покраска
-CURRENT,shipeditor_paint_primary,2793,Base Primary,Базовый основной
-CURRENT,shipeditor_paint_secondary,2793,Base Secondary,База вторичная
-CURRENT,shipeditor_paint_detailprimary,2793,Detail Primary,Деталь Первичная
-CURRENT,shipeditor_paint_detailsecondary,2793,Detail Secondary,Деталь вторичная
-CURRENT,shipeditor_paint_detailtertiary,2793,Detail Tertiary,Деталь Третичный
-CURRENT,shipeditor_palettelibrary_title_import,2793,IMPORT PALETTES,ИМПОРТИРУЙТЕ ПАЛИТРЫ
-CURRENT,shipeditor_palettelibrary_title_export,2793,EXPORT PALETTES,ЭКСПОРТИРУЙТЕ ПАЛИТРЫ
-CURRENT,shipeditor_palettelibrary_createname,2793,CREATE NEW PALETTE,СОЗДАЙ НОВУЮ ПАЛИТРУ
-CURRENT,shipeditor_palettelibrary_import,2793,IMPORT,ИМПОРТ
-CURRENT,shipeditor_palettelibrary_delete,2793,DELETE,УДАЛИТЬ
-CURRENT,shipeditor_palettelibrary_confirm,2793,CONFIRM,CONFIRM
-CURRENT,shipeditor_palettelibrary_cancel,2793,CANCEL,ОТМЕНА
-CURRENT,shipeditor_palettelibrary_export,2793,EXPORT,ЭКСПОРТ
-CURRENT,shipeditor_palettelibrary_upload,2793,UPLOAD,ЗАГРУЗИТЕ
-CURRENT,trade_autotradedisabled,2793,DISABLED IN ORDER MENU,ОТКЛЮЧАЕТСЯ В МЕНЮ ЗАКАЗОВ
-CURRENT,order_autotradeactive,2793,Auto Trade,Автоторговля
-CURRENT,object_table,2793,Table,Таблица
-CURRENT,object_smalltable,2793,Small Table,Маленький столик
-CURRENT,object_chair,2793,Chair,Стул
-CURRENT,object_sofa,2793,Sofa,Диван
-CURRENT,object_potplant,2793,Pot Plant,Горшечное растение
-CURRENT,tutorial_battlestations_title,2793,BATTLE STATIONS,БОЕВЫЕ ПОСТЫ
-CURRENT,tutorial_battlestationsstart,2793,We are now going to learn how to deploy our weapons for combat.\n\nThe game has been paused for now.,Сейчас мы научимся применять оружие в бою.\n\nНа данный момент игра поставлена на паузу.
-CURRENT,tutorial_battlestationsactivate,2793,BATTLE STATIONS must be activated before your weapons can be used.\n\nThis will tell your crew to prepare for battle!,"Боевые станции должны быть активированы до того, как ты сможешь использовать оружие.\n\nЭто прикажет твоей команде приготовиться к бою!"
-CURRENT,tutorial_battlestationshighlightcrew,2793,Your crew will run to the weapons to deploy them.\n\nGatling guns don't require any crew to deploy them.,"Твоя команда будет бегать к оружию, чтобы развернуть его.\n\nГатлинг-пушки не требуют никакой команды для их развертывания."
-CURRENT,tutorial_battlestationshighlightguns,2793,The gun barrels will begin to extend when they arrive.\n\nWhen the barrels are fully extended they will be ready to fire!,"Стволы пушек начнут выдвигаться, когда они прибудут на место.\n\nКогда стволы будут полностью выдвинуты, они будут готовы к стрельбе!"
-CURRENT,tutorial_battlestationssuccess,2793,"Well done, your weapons are now successfully deployed for battle!","Молодец, теперь твое оружие успешно развернуто для боя!"
-CURRENT,tutorial_stargatejump_title,2793,STARGATE JUMPING,ПРЫЖКИ ЧЕРЕЗ ЗВЕЗДНЫЕ ВРАТА
-CURRENT,tutorial_stargatejumpstart,2793,We are now going to learn how to jump using the newly powered-up Stargate.,"Сейчас мы научимся прыгать, используя только что включенные Звездные врата."
-CURRENT,tutorial_stargatejumpnopower,2793,"The Stargate currently has lost power and needs to be started again.\n\nUse energy transmitters to power the Stargate.\n\nWhen the Stargate is ready, we will try again!","В настоящее время Звездные врата потеряли энергию и должны быть запущены снова.\n\nИспользуй передатчики энергии, чтобы запитать Звездные врата.\n\nКогда Звездные врата будут готовы, мы повторим попытку!"
-CURRENT,tutorial_stargatejumpintro,2793,The Stargate enables travel between different sectors.\n\nThe jump costs a single FTL charge and the Stargate will use more power while a jump is in progress.,"Звездные врата позволяют путешествовать между разными секторами.\n\nПрыжок стоит один сверхсветовой заряд, и Звездные врата будут потреблять больше энергии, пока идет прыжок."
-CURRENT,tutorial_stargatejumpselectsystem,2793,Let's have a look at your ship in the Stargate system.\n\nStargate jumps can only be performed from the Stargate system.,Давай посмотрим на твой корабль в системе Звездных врат.\n\nПрыжки через Звездные врата можно совершать только из системы Звездных врат.
-CURRENT,tutorial_stargatejumpopenftl,2793,"First, let's open the FTL window.",Для начала давай откроем окно FTL.
-CURRENT,tutorial_stargatejumpabortjump,2793,We will need to abort the jump that's currently planned.,"Придется отменить прыжок, который сейчас запланирован."
-CURRENT,tutorial_stargatejumphighlightalign,2793,"When no jump is planned on the sector map, you can align your fleet for a Stargate jump.","Когда на карте сектора не запланирован прыжок, ты можешь выстроить свой флот для прыжка через Звездные врата."
-CURRENT,tutorial_stargatejumphighlightaligning,2793,Great! The selected ships will now align for the jump.,Отлично! Теперь выбранные корабли выровняются для прыжка.
-CURRENT,tutorial_stargatejumphighlightjump,2793,Your fleet is ready to jump to the new sector!\n\nYou can come back to this sector by performing another Stargate jump.,"Твой флот готов к прыжку в новый сектор!\n\nТы можешь вернуться в этот сектор, совершив еще один прыжок через Звездные врата."
-CURRENT,tutorial_stargatejumpsuccess,2793,Well done. You can now jump between sectors!,Отличная работа. Теперь ты можешь прыгать между секторами!
-CURRENT,dsi_part2_objective_sellreminder,2793,Sell your manufactured parts to submit them to the Stargate project,"Продай изготовленные тобой детали, чтобы представить их для проекта ""Звездные врата"""
-CURRENT,trade_autotradecancelled,2793,LAST ORDER CANCELLED,ПОСЛЕДНИЙ ЗАКАЗ ОТМЕНЕН
-CURRENT,origin_official,2793,OFFICIAL,ОФИЦИАЛЬНЫЙ
-CURRENT,origin_community,2793,COMMUNITY,КОММУНИЗМ
-CURRENT,origin_user,2793,PLAYER-MADE,PLAYER-MADE
-CURRENT,origin_steam,2793,SUBSCRIBED ON STEAM WORKSHOP,ПОДПИСАЛСЯ НА STEAM WORKSHOP
-CURRENT,origin_steamuser,2793,UPLOADED TO STEAM WORKSHOP,ЗАГРУЖЕНО В STEAM WORKSHOP
-CURRENT,special_stargatepart3,2793,"Andromeda Project Phases 4, 5","Проект ""Андромеда"" Фазы 4, 5"
-CURRENT,tutorial_powerreactoractive,2793,The REACTOR is activated! We are now generating power for our ship.,Реактор активирован! Теперь мы вырабатываем энергию для нашего корабля.
-CURRENT,dsi_part2_objective_installengines,2793,OPTIONAL: Install engines in the A.J.E Foundry,ВАРИАНТ: Установи двигатели в литейном цехе A.J.E
+state,key,svn,english,translation
 CURRENT,settings_exitsaves_tooltip,2675,"When enabled, the current game will be saved when abandoned or when the game is quit in a file called exitsave.\n\nCAUTION: This file will be overwritten on every exit.","Если эта функция включена, то текущая игра будет сохраняться при выходе из нее или при завершении игры в файл под названием exitsave.\n\n ВНИМАНИЕ: Этот файл будет перезаписываться при каждом выходе."
 CURRENT,settings_dynamiclighting,2675,Use Dynamic Lighting,Используй динамическое освещение
 CURRENT,newmainmenu_exitsaves,2675,Exit-saves,Выход - спасение
 CURRENT,hud_ftlshipnotviablewarning,2675,Ship needs either hull or scaffolding to be brought into hyperspace,"Для вывода корабля в гиперпространство нужен либо корпус, либо леса"
 CURRENT,trade_cancelautotrade,2675,CANCEL AUTO-TRADE,ОТМЕНИТЬ АВТОТОРГОВЛЮ
+CURRENT,trade_autotradecancelled,2675,CANCELLED,ОТМЕНЕН
 CURRENT,hud_collector_tooltip_totalgathered,2675,TOTAL GATHERED,ВСЕГО ПОЛУЧИЛОСЬ
 CURRENT,save_cloudsavefailed_header,2639,WARNING: Cloud Save Failed,ПРЕДУПРЕЖДЕНИЕ: Облачное сохранение не удалось
 CURRENT,save_cloudsavefailed_body,2639,"The game failed to save to the cloud, the game has been saved locally instead.\n\nPlease check that you have enough storage in the Steam Cloud and try again.","Не удалось сохранить игру в облаке, вместо этого она была сохранена локально.\n\nПожалуйста, проверь, достаточно ли у тебя места в облаке Steam, и попробуй еще раз."
@@ -632,6 +522,11 @@ CURRENT,scenario_value,2448,Value: $*X,Стоимость: $*X
 CURRENT,scenario_habitation,2448,Cabins: *X,Каюты: *X
 CURRENT,scenario_armour,2448,Armour: *X%,Броня: *X%
 CURRENT,scenario_noarmour,2448,Armour: None,Броня: Нет
+CURRENT,origin_official,2448,Official,Официальный сайт
+CURRENT,origin_community,2448,Community,Сообщество
+CURRENT,origin_user,2448,Player-made,Создано игроками
+CURRENT,origin_steam,2448,Subscribed on Steam Workshop,Подписан на Steam Workshop
+CURRENT,origin_steamuser,2448,Uploaded to Steam Workshop,Загружено в Мастерскую Steam
 CURRENT,debugbuildpanel_hull,2448,Hull,Корпус
 CURRENT,debugbuildpanel_scaffold,2448,Scaffold,Строительные леса
 CURRENT,debugbuildpanel_interior,2448,Interior,Интерьер
@@ -1040,6 +935,7 @@ CURRENT,special_dronebatchcollection,2448,Drone Batch Collection,Пакетны�
 CURRENT,special_mininglaseraccuracy,2448,Mining Laser Precision,Точность горного лазера
 CURRENT,special_stargatepart1,2448,"Andromeda Project Phases 1, 2","Проект Андромеда Фазы 1, 2"
 CURRENT,special_stargatepart2,2448,Andromeda Project Phase 3,Проект Андромеда Фаза 3
+CURRENT,special_stargatepart3,2448,"Andromeda Project Phases 4, 5, 6","Проект Андромеда Фазы 4, 5, 6"
 CURRENT,techtree_editor_save,2448,SAVE CHANGES,СОХРАНИТЬ ИЗМЕНЕНИЯ
 CURRENT,techtree_editor_reset,2448,RELOAD TREE,ПЕРЕЗАГРУЗИТЬ ДЕРЕВО
 CURRENT,techtree_award_title,2448,RESEARCH COMPLETED,ИССЛЕДОВАНИЕ ЗАВЕРШЕНО
@@ -1711,6 +1607,7 @@ CURRENT,tutorial_powerplaceloader,2448,Stamp the FUEL LOADER down somewhere near
 CURRENT,tutorial_powerselectpipes,2448,"We need to connect the FUEL LOADER to the REACTOR, using a Pipe.\n\nSelect PIPES from the Construction Menu.",Нам нужно соединить загрузчик топлива с реактором с помощью трубы.\n\nВыберите ТРУБЫ из меню КОНСТРУКЦИЯ
 CURRENT,tutorial_powerpipeconnect,2448,"Drag a pipe from the FUEL LOADER to the REACTOR, connecting the yellow pipe circles.\n\nFUEL PIPES are used to connect the output from one piece of equipment into the input of another.\n\nFUEL PIPES are yellow and must connect the yellow circles on equipment.","Перетащите трубу от ЗАГРУЗЧИКА к РЕАКТОРУ, соединив желтые круги на трубе.\n\nТрубы используются для соединения выхода одного оборудования с входом другого.\n\nТрубы желтого цвета и должны соединять желтые круги на оборудовании"
 CURRENT,tutorial_powerreactorpowerup,2448,The REACTOR is starting up.,РЕАКТОР запускается
+CURRENT,tutorial_powerreactoractive,2448,The REACTOR is activated! We are now generating power for our station.,Реактор активирован! Теперь мы вырабатываем энергию для нашей станции
 CURRENT,tutorial_air_title,2448,OXYGEN,КИСЛОРОД
 CURRENT,tutorial_airinstallairduct,2448,We now need to provide a breathable atmosphere for our crew. This is done with an AIRDUCT.\n\nInstall an AIRDUCT somewhere near the Reactor.,Теперь нам нужно обеспечить дыхательную атмосферу для нашего экипажа. Это можно сделать с помощью воздушной трубы.\n\nУстановите воздушную трубу где-нибудь рядом с реактором
 CURRENT,tutorial_aircables,2448,The AIRDUCT needs to be powered from the REACTOR.  Select CABLES from the CONSTRUCTION menu.,ВОЗДУХОВОД должен быть запитан от РЕАКТОРА.  Выберите КАБЕЛИ в меню КОНСТРУКЦИЯ
@@ -2494,6 +2391,7 @@ CURRENT,dsi_part2_objective_mineminerals,2448,Begin mining metallic minerals [*X
 CURRENT,dsi_part2_objective_minecopper,2448,Begin mining copper minerals [*X/100],Начать добычу медных минералов [*X/100]
 CURRENT,dsi_part2_objective_copperingots,2448,Begin smelting Copper Ingots [*X/100],Начать выплавку медных слитков [*X/100]
 CURRENT,dsi_part2_objective_producemotors,2448,Begin fabricating Motors [*X/100],Начать изготовление двигателей [*X/100]
+CURRENT,dsi_part2_objective_installengines,2448,OPTIONAL: Install engines in the A.J.E Industry,ВАРИАНТ: Установить двигатели в промышленности A.J.E
 CURRENT,dsi_part2_introcall6,2448,"The second part is a chemical compound they're calling Stargate Resin.  It's synthesised in a Chemical Lab, but we first need huge volumes of Metreon Gas.  It's found only in deep space nebulas.","Вторая часть - это химическое соединение, которое они называют смолой Звездных Врат.  Она синтезируется в химической лаборатории, но сначала нам понадобятся огромные объемы газа Метреон.  Он встречается только в туманностях глубокого космоса"
 CURRENT,dsi_part2_introcall7,2448,"My thinking is to buy a suitable fuselage from a Shipyard, and then convert it into a dedicated gas capture and refining facility.  There's a good ship nearby.  You can buy it on my behalf and then set it up, and we'll drop it off in a rich gas cloud and leave it running.","Я думаю купить подходящий фюзеляж на верфи, а затем переоборудовать его в специальную установку для улавливания и переработки газа.  Поблизости есть хороший корабль.  Вы можете купить его от моего имени, затем установить его, а мы высадим его в богатом газовом облаке и оставим работать"
 CURRENT,dsi_part2_objective_buygasfuselage,2448,Buy the Gas Capture fuselage,Купить фюзеляж газового захвата
@@ -2536,15 +2434,6 @@ CURRENT,dsi_part2_scene_z4,2448,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2448,THERE WILL BE NO FURTHER WARNING.,ДАЛЬНЕЙШИХ ПРЕДУПРЕЖДЕНИЙ НЕ БУДЕТ
 CURRENT,dsi_part2_scene_y7,2448,You've left me no choice.,Вы не оставили мне выбора
 CURRENT,dsi_part2_scene_y8,2448,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Я приду за тобой, Александр, и на этот раз я не попрошу 10%. Я хочу все"
-OBSOLETE,trade_autotradecancelled,2675,CANCELLED,ОТМЕНЕН
-OBSOLETE,origin_official,2448,Official,Официальный сайт
-OBSOLETE,origin_community,2448,Community,Сообщество
-OBSOLETE,origin_user,2448,Player-made,Создано игроками
-OBSOLETE,origin_steam,2448,Subscribed on Steam Workshop,Подписан на Steam Workshop
-OBSOLETE,origin_steamuser,2448,Uploaded to Steam Workshop,Загружено в Мастерскую Steam
-OBSOLETE,special_stargatepart3,2448,"Andromeda Project Phases 4, 5, 6","Проект Андромеда Фазы 4, 5, 6"
-OBSOLETE,tutorial_powerreactoractive,2448,The REACTOR is activated! We are now generating power for our station.,Реактор активирован! Теперь мы вырабатываем энергию для нашей станции
-OBSOLETE,dsi_part2_objective_installengines,2448,OPTIONAL: Install engines in the A.J.E Industry,ВАРИАНТ: Установить двигатели в промышленности A.J.E
 OBSOLETE,hud_collector_tooltip_totalgathered,2624,TOTAL GATHERED:,ВСЕГО СОБРАНО:
 OBSOLETE,mission_type_sectorjumpgate,2624,Jumpgate (Secotr),Прыжковые ворота (Секотр)
 OBSOLETE,stargate_newsystems_harken_2,2624,"Unfortunately it seems pirates have gotten to them first, and have set up their own shipyards around the neubidium deposits in the system.","К сожалению, похоже, пираты добрались до них первыми и создали собственные верфи вокруг месторождений нейбидиума в системе."

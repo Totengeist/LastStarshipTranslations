@@ -1,115 +1,4 @@
-﻿state,key,svn,english,translation
-NEW,settings_accentinsensitivesearch,2803,Accent Insensitive Search,Ricerca senza accenti
-NEW,settings_accentinsensitivesearch_description,2803,"When searching in lists, ignore accented characters, e.g. ""é"" will match ""e""","Quando cerchi negli elenchi, ignora i caratteri accentati, ad esempio ""é"" corrisponderà a ""e"""
-NEW,settings_translatorassist,2803,"Translator Assist (Ctrl, Alt)","Assistenza al traduttore (Ctrl, Alt)"
-NEW,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.","Abilita le funzioni per aiutare i traduttori, come Alt per rivelare l'inglese e Ctrl per rivelare la frase chiave."
-CURRENT,settings_sound,2793,SOUND,SUONO
-CURRENT,settings_appearance,2793,APPEARANCE,APPARIZIONE
-CURRENT,settings_keybindings,2793,KEYBOARD,TASTIERA
-CURRENT,settings_other,2793,OTHER,ALTRO
-CURRENT,keybinding_title_action,2793,Action,Azione
-CURRENT,keybinding_title_key,2793,Key,Chiave
-CURRENT,keybinding_press_a_key,2793,PRESS A KEY,PREMI UN TASTO
-CURRENT,keybinding_revert,2793,RESET,RESET
-CURRENT,keybinding_panleft1,2793,Pan Left (1),Pan Sinistra (1)
-CURRENT,keybinding_panleft2,2793,Pan Left (2),Pan Sinistro (2)
-CURRENT,keybinding_panright1,2793,Pan Right (1),Pan a destra (1)
-CURRENT,keybinding_panright2,2793,Pan Right (2),Pan a destra (2)
-CURRENT,keybinding_pandown1,2793,Pan Down (1),Pan Down (1)
-CURRENT,keybinding_pandown2,2793,Pan Down (2),Pan Down (2)
-CURRENT,keybinding_panup1,2793,Pan Up (1),Pan Up (1)
-CURRENT,keybinding_panup2,2793,Pan Up (2),Pan Up (2)
-CURRENT,keybinding_zoomin,2793,Zoom In,Zoom In
-CURRENT,keybinding_zoomout,2793,Zoom Out,Zoom Out
-CURRENT,keybinding_ManoeuvreLeft,2793,Thrust Left,Spinta a sinistra
-CURRENT,keybinding_ManoeuvreRight,2793,Thrust Right,Spinta a destra
-CURRENT,keybinding_ManoeuvreUp,2793,Thrust Up,Spinta verso l'alto
-CURRENT,keybinding_ManoeuvreDown,2793,Thrust Down,Spinta verso il basso
-CURRENT,keybinding_ManoeuvreClockwise,2793,Thrust Clockwise,Spinta in senso orario
-CURRENT,keybinding_ManoeuvreCounterClockwise,2793,Thrust C-Clockwise,Spinta C in senso orario
-CURRENT,keybinding_toggletactical,2793,Toggle Tactical,Toggle Tactical
-CURRENT,keybinding_togglemap,2793,Toggle Map,Mappa
-CURRENT,keybinding_increasethrust,2793,Engines +,Motori +
-CURRENT,keybinding_decreasethrust,2793,Engines -,Motori -
-CURRENT,keybinding_hudscaleup,2793,Increase HUD Scale,Aumenta la scala HUD
-CURRENT,keybinding_hudscaledown,2793,Decrease HUD Scale,Diminuire la scala HUD
-CURRENT,keybinding_recentrehome,2793,Recentre Ship,Nave recente
-CURRENT,keybinding_togglepause,2793,Pause,Pausa
-CURRENT,keybinding_gamespeed1,2793,Normal Speed,Velocità normale
-CURRENT,keybinding_gamespeed2,2793,2x Speed,velocità 2x
-CURRENT,keybinding_gamespeed3,2793,3x Speed,velocità 3x
-CURRENT,keybinding_gamespeed4,2793,4x Speed,velocità 4x
-CURRENT,keybinding_gamespeed5,2793,5x Speed,velocità 5x
-CURRENT,keybinding_gamespeed6,2793,6x Speed,velocità 6x
-CURRENT,keybinding_gamespeed7,2793,7x Speed,velocità 7x
-CURRENT,keybinding_gamespeed8,2793,8x Speed,velocità 8x
-CURRENT,keybinding_gamespeed9,2793,9x Speed,velocità 9x
-CURRENT,keybinding_gamespeed0,2793,Half Speed,Mezza velocità
-CURRENT,keybinding_rotateobject,2793,Rotate Object,Ruota l'oggetto
-CURRENT,keybinding_takescreenshot,2793,Screenshot (+ {MetaCtrl}),Screenshot (+ {MetaCtrl})
-CURRENT,"keybinding_alttool,",2793,Eye-dropper,Contagocce
-CURRENT,origin_shipofficial,2793,OFFICIAL SHIPS,NAVI UFFICIALI
-CURRENT,origin_shipcommunity,2793,COMMUNITY SHIPS,NAVI DELLA COMUNITÀ
-CURRENT,origin_shipuser,2793,PLAYER-MADE SHIPS,NAVI COSTRUITE DAI GIOCATORI
-CURRENT,origin_shipsteam,2793,SUBSCRIBED SHIPS ON STEAM WORKSHOP,NAVI ABBONATE SU OFFICINA A VAPORE
-CURRENT,origin_shipsteamuser,2793,SHIPS UPLOADED TO STEAM WORKSHOP,NAVI CARICATE SU STEAM WORKSHOP
-CURRENT,shipeditor_mode_eyedropper,2793,Eyedropper,Contagocce
-CURRENT,shipeditor_tooltip_eyedropper,2793,"Lets you select a paint from the exterior of your ship (can also be used by pressing the ""Shift"" key)","Permette di selezionare un colore dall'esterno della nave (può essere utilizzato anche premendo il tasto ""Shift"")"
-CURRENT,shipeditor_paint,2793,PAINT,VERNICE
-CURRENT,shipeditor_paint_paint,2793,Foreground Paint,Vernice in primo piano
-CURRENT,shipeditor_paint_erase,2793,Background Paint,Vernice di sfondo
-CURRENT,shipeditor_paint_name,2793,Paint Name,Nome della vernice
-CURRENT,shipeditor_paint_standard,2793,Standard Paint,Vernice standard
-CURRENT,shipeditor_paint_custom,2793,Custom Paint,Vernice personalizzata
-CURRENT,shipeditor_paint_primary,2793,Base Primary,Base Primaria
-CURRENT,shipeditor_paint_secondary,2793,Base Secondary,Base Secondaria
-CURRENT,shipeditor_paint_detailprimary,2793,Detail Primary,Dettaglio Primario
-CURRENT,shipeditor_paint_detailsecondary,2793,Detail Secondary,Dettaglio Secondario
-CURRENT,shipeditor_paint_detailtertiary,2793,Detail Tertiary,Dettaglio Terziario
-CURRENT,shipeditor_palettelibrary_title_import,2793,IMPORT PALETTES,IMPORTAZIONE DI TAVOLOZZE
-CURRENT,shipeditor_palettelibrary_title_export,2793,EXPORT PALETTES,ESPORTAZIONE DI TAVOLOZZE
-CURRENT,shipeditor_palettelibrary_createname,2793,CREATE NEW PALETTE,CREA UNA NUOVA TAVOLOZZA
-CURRENT,shipeditor_palettelibrary_import,2793,IMPORT,IMPORTAZIONE
-CURRENT,shipeditor_palettelibrary_delete,2793,DELETE,CANCELLARE
-CURRENT,shipeditor_palettelibrary_confirm,2793,CONFIRM,CONFERMA
-CURRENT,shipeditor_palettelibrary_cancel,2793,CANCEL,ANNULLARE
-CURRENT,shipeditor_palettelibrary_export,2793,EXPORT,ESPORTAZIONE
-CURRENT,shipeditor_palettelibrary_upload,2793,UPLOAD,CARICARE
-CURRENT,trade_autotradedisabled,2793,DISABLED IN ORDER MENU,DISABILITATO NEL MENU DEGLI ORDINI
-CURRENT,order_autotradeactive,2793,Auto Trade,Autotrade
-CURRENT,object_table,2793,Table,Tabella
-CURRENT,object_smalltable,2793,Small Table,Tavolo piccolo
-CURRENT,object_chair,2793,Chair,Sedia
-CURRENT,object_sofa,2793,Sofa,Divano
-CURRENT,object_potplant,2793,Pot Plant,Pianta in vaso
-CURRENT,tutorial_battlestations_title,2793,BATTLE STATIONS,STAZIONI DI COMBATTIMENTO
-CURRENT,tutorial_battlestationsstart,2793,We are now going to learn how to deploy our weapons for combat.\n\nThe game has been paused for now.,Ora impareremo a usare le nostre armi per combattere.\n\nIl gioco è stato messo in pausa per il momento.
-CURRENT,tutorial_battlestationsactivate,2793,BATTLE STATIONS must be activated before your weapons can be used.\n\nThis will tell your crew to prepare for battle!,Le STAZIONI DI BATTAGLIA devono essere attivate prima di poter utilizzare le armi.\n\nQuesto dirà al tuo equipaggio di prepararsi alla battaglia!
-CURRENT,tutorial_battlestationshighlightcrew,2793,Your crew will run to the weapons to deploy them.\n\nGatling guns don't require any crew to deploy them.,Il tuo equipaggio correrà verso le armi per dispiegarle.\n\nI cannoni Gatling non richiedono alcun equipaggio per dispiegarli.
-CURRENT,tutorial_battlestationshighlightguns,2793,The gun barrels will begin to extend when they arrive.\n\nWhen the barrels are fully extended they will be ready to fire!,"Le canne inizieranno a estendersi all'arrivo.\n\nQuando le canne saranno completamente estese, saranno pronte a sparare!"
-CURRENT,tutorial_battlestationssuccess,2793,"Well done, your weapons are now successfully deployed for battle!","Ben fatto, le tue armi sono state schierate in battaglia!"
-CURRENT,tutorial_stargatejump_title,2793,STARGATE JUMPING,SALTO DELLO STARGATE
-CURRENT,tutorial_stargatejumpstart,2793,We are now going to learn how to jump using the newly powered-up Stargate.,Ora impareremo a saltare usando lo Stargate appena acceso.
-CURRENT,tutorial_stargatejumpnopower,2793,"The Stargate currently has lost power and needs to be started again.\n\nUse energy transmitters to power the Stargate.\n\nWhen the Stargate is ready, we will try again!","Lo Stargate ha perso energia e deve essere riavviato.\n\nUsa i trasmettitori di energia per alimentare lo Stargate.\n\nQuando lo Stargate sarà pronto, riproveremo!"
-CURRENT,tutorial_stargatejumpintro,2793,The Stargate enables travel between different sectors.\n\nThe jump costs a single FTL charge and the Stargate will use more power while a jump is in progress.,Lo Stargate permette di viaggiare tra diversi settori.\n\nIl salto costa una singola carica FTL e lo Stargate consuma più energia quando il salto è in corso.
-CURRENT,tutorial_stargatejumpselectsystem,2793,Let's have a look at your ship in the Stargate system.\n\nStargate jumps can only be performed from the Stargate system.,Diamo un'occhiata alla tua nave nel sistema Stargate.\n\nI salti Stargate possono essere effettuati solo dal sistema Stargate.
-CURRENT,tutorial_stargatejumpopenftl,2793,"First, let's open the FTL window.","Per prima cosa, apriamo la finestra FTL."
-CURRENT,tutorial_stargatejumpabortjump,2793,We will need to abort the jump that's currently planned.,Dovremo interrompere il salto attualmente previsto.
-CURRENT,tutorial_stargatejumphighlightalign,2793,"When no jump is planned on the sector map, you can align your fleet for a Stargate jump.","Quando non è previsto alcun salto sulla mappa del settore, puoi allineare la tua flotta per un salto Stargate."
-CURRENT,tutorial_stargatejumphighlightaligning,2793,Great! The selected ships will now align for the jump.,Ottimo! Le navi selezionate si allineeranno per il salto.
-CURRENT,tutorial_stargatejumphighlightjump,2793,Your fleet is ready to jump to the new sector!\n\nYou can come back to this sector by performing another Stargate jump.,La tua flotta è pronta a saltare verso il nuovo settore!\n\nPuoi tornare in questo settore effettuando un altro salto dallo Stargate.
-CURRENT,tutorial_stargatejumpsuccess,2793,Well done. You can now jump between sectors!,Ben fatto. Ora puoi saltare da un settore all'altro!
-CURRENT,trade_autotradecancelled,2793,LAST ORDER CANCELLED,ULTIMO ORDINE CANCELLATO
-CURRENT,origin_official,2793,OFFICIAL,UFFICIALE
-CURRENT,origin_community,2793,COMMUNITY,COMUNITÀ
-CURRENT,origin_user,2793,PLAYER-MADE,FATTO DA UN GIOCATORE
-CURRENT,origin_steam,2793,SUBSCRIBED ON STEAM WORKSHOP,ISCRITTO SU STEAM WORKSHOP
-CURRENT,origin_steamuser,2793,UPLOADED TO STEAM WORKSHOP,CARICATO SU STEAM WORKSHOP
-CURRENT,tutorial_powerreactoractive,2793,The REACTOR is activated! We are now generating power for our ship.,Il reattore è stato attivato! Ora stiamo generando energia per la nostra nave.
-CURRENT,settings_uibounce,2737,UI Highlight Bounce,Rimbalzo dell'illuminazione dell'interfaccia utente
-CURRENT,dsi_part2_objective_sellreminder,2737,Sell your manufactured parts to submit them to the Stargate project,Vendi i tuoi pezzi fabbricati per sottoporli al progetto Stargate
-CURRENT,special_stargatepart3,2737,"Andromeda Project Phases 4, 5",Progetto Andromeda Fasi 4 e 5
-CURRENT,dsi_part2_objective_installengines,2737,OPTIONAL: Install engines in the A.J.E Foundry,FACOLTATIVO: installa i motori nella fonderia A.J.E
+state,key,svn,english,translation
 CURRENT,mission_delivery_destination,2684,"The destination is in this Sector, at Star System S*X.","La destinazione è in questo settore, nel sistema stellare S*X."
 CURRENT,tutorial_dockingmaneuverkeys,2684,"Use the Maneuvering controls to move the ship into position.\n\nYou can also use the keys {ManoeuvreUp}, {ManoeuvreLeft}, {ManoeuvreDown}, {ManoeuvreRight} to move, and {ManoeuvreClockwise} and {ManoeuvreCounterClockwise} to rotate the ship.","Usa i comandi di Manovra per spostare la nave in posizione.\n\nPuoi anche usare i tasti {ManoeuvreUp}, {ManoeuvreLeft}, {ManoeuvreDown}, {ManoeuvreRight} per muoverti e {ManoeuvreClockwise} e {ManoeuvreCounterClockwise} per ruotare la nave."
 CURRENT,settings_exitsaves_tooltip,2675,"When enabled, the current game will be saved when abandoned or when the game is quit in a file called exitsave.\n\nCAUTION: This file will be overwritten on every exit.","Se abilitata, la partita in corso verrà salvata quando viene abbandonata o quando si esce dal gioco in un file chiamato exitsave.\n\nATTENZIONE: questo file verrà sovrascritto a ogni uscita."
@@ -117,10 +6,11 @@ CURRENT,settings_dynamiclighting,2675,Use Dynamic Lighting,Usa un'illuminazione 
 CURRENT,newmainmenu_exitsaves,2675,Exit-saves,Uscita-salvataggio
 CURRENT,hud_ftlshipnotviablewarning,2675,Ship needs either hull or scaffolding to be brought into hyperspace,La nave ha bisogno di uno scafo o di un'impalcatura per essere portata nell'iperspazio
 CURRENT,trade_cancelautotrade,2675,CANCEL AUTO-TRADE,ANNULLARE L'AUTO-TRADE
-CURRENT,hud_collector_tooltip_totalgathered,2675,TOTAL GATHERED,TOTALE RACCOLTO
+CURRENT,trade_autotradecancelled,2675,CANCELLED,ANNULLATO
+CURRENT,hud_collector_tooltip_totalgathered,2675,TOTAL GATHERED,TOTALE MANGIATO
 CURRENT,dialog_new,2639,New,Nuovo
-CURRENT,dialog_load,2639,Load,Carica
-CURRENT,dialog_save,2639,Save,Salva
+CURRENT,dialog_load,2639,Load,Carico
+CURRENT,dialog_save,2639,Save,Risparmia
 CURRENT,dialog_saveas,2639,Save As,Salva con nome
 CURRENT,dialog_delete,2639,Delete,Elimina
 CURRENT,dialog_width,2639,Width,Larghezza
@@ -133,19 +23,19 @@ CURRENT,dialog_z,2639,Z,Z
 CURRENT,dialog_w,2639,W,W
 CURRENT,dialog_h,2639,H,H
 CURRENT,dialog_exit,2639,Exit,Uscita
-CURRENT,dialog_cancel,2639,Cancel,Annulla
+CURRENT,dialog_cancel,2639,Cancel,Annullamento
 CURRENT,dialog_ok,2639,Ok,Ok
-CURRENT,dialog_open,2639,Open,Apri
+CURRENT,dialog_open,2639,Open,Aprire
 CURRENT,dialog_close,2639,Close,Chiudi
 CURRENT,dialog_closed,2639,Closed,Chiuso
 CURRENT,dialog_add,2639,Add,Aggiungi
 CURRENT,dialog_up,2639,Up,Su
-CURRENT,dialog_down,2639,Down,Giù
+CURRENT,dialog_down,2639,Down,In basso
 CURRENT,dialog_yes,2639,Yes,Sì
 CURRENT,dialog_no,2639,No,No
 CURRENT,dialog_loading,2639,Loading...,Caricamento...
 CURRENT,dialog_low,2639,Low,Basso
-CURRENT,dialog_medium,2639,Medium,Medio
+CURRENT,dialog_medium,2639,Medium,Media
 CURRENT,dialog_high,2639,High,Alto
 CURRENT,dialog_none,2639,None,Nessuno
 CURRENT,ellipsis,2639,...,...
@@ -157,8 +47,8 @@ CURRENT,analyticsconsentdialog_moreinfo,2639,More Info...,Maggiori informazioni.
 CURRENT,analyticsconsentdialog_text,2639,We need to collect usage data to help us to better understand how people are playing and to help us to improve the game. \n\nWe do not collect any personally identifiable information. If you are OK with this please hit the Accept button.,"Abbiamo bisogno di raccogliere dati sull'utilizzo per capire meglio come le persone giocano e per aiutarci a migliorare il gioco.\n\nNon raccogliamo alcuna informazione di identificazione personale. Se sei d'accordo, premi il pulsante Accetta."
 CURRENT,filedialog_title,2639,Choose a File,Scegli un file
 CURRENT,dialogeditor_title,2639,Dialog Editor,Editor di dialogo
-CURRENT,dialogeditor_back,2639,Back,Retro
-CURRENT,dialogeditor_front,2639,Front,Fronte
+CURRENT,dialogeditor_back,2639,Back,Indietro
+CURRENT,dialogeditor_front,2639,Front,Anteriore
 CURRENT,dialogeditor_reloadlanguage,2639,Reload Language,Ricarica la lingua
 CURRENT,dialogeditor_test,2639,Test,Test
 CURRENT,dialogeditor_window,2639,Window,Finestra
@@ -182,7 +72,7 @@ CURRENT,dialogcomponent_selectionlist,2639,SelectionList,Elenco di selezione
 CURRENT,dialogcomponent_selectionlistitem,2639,SelectionListItem,SelectionListItem
 CURRENT,dialogcomponent_scrollbar,2639,Scrollbar,Barra di scorrimento
 CURRENT,dialogcomponent_progressbar,2639,ProgressBar,Barra di avanzamento
-CURRENT,dialogcomponent_canvas,2639,Canvas,Canvas
+CURRENT,dialogcomponent_canvas,2639,Canvas,Tela
 CURRENT,dialogcomponent_iconbox,2639,IconBox,IconBox
 CURRENT,dialogposition_absolute,2639,Absolute,Assoluto
 CURRENT,dialogposition_relative,2639,Relative,Relativo
@@ -204,23 +94,23 @@ CURRENT,soundeditor_soundnametitle,2639,Sound Name,Nome del suono
 CURRENT,soundeditor_volumetitle,2639,Volume,Volume
 CURRENT,soundeditor_frequencytitle,2639,Frequency,Frequenza
 CURRENT,soundeditor_mindistancetitle,2639,Min Distance,Distanza minima
-CURRENT,soundeditor_attacktitle,2639,Attack,Attack
-CURRENT,soundeditor_sustaintitle,2639,Sustain,Sustain
-CURRENT,soundeditor_releasetitle,2639,Release,Release
+CURRENT,soundeditor_attacktitle,2639,Attack,Attacco
+CURRENT,soundeditor_sustaintitle,2639,Sustain,Sostenere
+CURRENT,soundeditor_releasetitle,2639,Release,Rilascio
 CURRENT,soundeditor_loopdelaytitle,2639,Loop Delay,Ritardo del loop
 CURRENT,soundeditor_dsptitle,2639,DSP,DSP
 CURRENT,soundeditor_nexteventtitle,2639,Next Event,Prossimo evento
-CURRENT,soundeditor_play,2639,Play,Riproduci
-CURRENT,soundeditor_stop,2639,Stop,Stop
+CURRENT,soundeditor_play,2639,Play,Gioca
+CURRENT,soundeditor_stop,2639,Stop,Fermati
 CURRENT,soundparametereditor_title,2639,Sound Parameter,Parametro del suono
 CURRENT,soundparametereditor_typetitle,2639,Type,Tipo
 CURRENT,soundparametereditor_linktitle,2639,Linked To,Collegato a
 CURRENT,soundparametereditor_updatetitle,2639,Update Type,Tipo di aggiornamento
-CURRENT,soundparametereditor_smoothing,2639,Smoothing,Smoothing
+CURRENT,soundparametereditor_smoothing,2639,Smoothing,Lisciatura
 CURRENT,soundparametereditor_chaintitle,2639,Chain,Catena
 CURRENT,soundeditor_newdsp,2639,Add DSP,Aggiungi DSP
 CURRENT,sounddspeditor_title,2639,DSP Editor,Editor DSP
-CURRENT,samplebankeditor_title,2639,Sample Bank Editor,Editor di campioni
+CURRENT,samplebankeditor_title,2639,Sample Bank Editor,Editor di banche campione
 CURRENT,samplebankeditor_addsample,2639,Add Sound,Aggiungi suono
 CURRENT,samplebank,2639,(Sample Bank),(Banca campione)
 CURRENT,tagline,2639,THE LAST STARSHIP,L'ULTIMA ASTRONAVE
@@ -231,7 +121,7 @@ CURRENT,mainmenu_newgameC,2639,New Game - Inner Shapes,Nuovo gioco - Forme inter
 CURRENT,mainmenu_newgameD,2639,New Game - Shipyard,Nuovo gioco - Cantiere navale
 CURRENT,mainmenu_newgameE,2639,New Game - Large Logistics,Nuovo gioco - Grande logistica
 CURRENT,mainmenu_savegame,2639,Save Game,Salva la partita
-CURRENT,mainmenu_loadgame,2639,Load Game,Carica la partita
+CURRENT,mainmenu_loadgame,2639,Load Game,Carica il gioco
 CURRENT,mainmenu_abandongame,2639,Abandon Game,Abbandona il gioco
 CURRENT,mainmenu_steamworkshop,2639,Steam Workshop,Steam Workshop
 CURRENT,mainmenu_tweet,2639,Tweet My Starship!,Tweet La mia astronave!
@@ -256,11 +146,11 @@ CURRENT,mainmenu_gamemode_unlocked_freeroam,2639,Game Mode: Free Roam,Modalità 
 CURRENT,mainmenu_gamemode_unlocked_survival,2639,Game Mode: Survival,Modalità di gioco: Sopravvivenza
 CURRENT,mainmenu_createship,2639,DEVELOPER Create Ship,SVILUPPATORE Crea la nave
 CURRENT,mainmenu_loadship,2639,DEVELOPER Load Ship,SVILUPPATORE Carica la nave
-CURRENT,mainmenu_loadgamedev,2639,DEVELOPER Load Test Game,SVILUPPATORE Carica una partita test
-CURRENT,mainmenu_exportship,2639,Export Ship,Esporta la Nave
-CURRENT,mainmenu_importship,2639,Import Ship,Importa una nave
-CURRENT,mainmenu_importfriendly,2639,Import Friendly Ship,Importa Nave Amica
-CURRENT,mainmenu_importhostile,2639,Import Hostile Ship,Importa Nave Ostile
+CURRENT,mainmenu_loadgamedev,2639,DEVELOPER Load Test Game,SVILUPPATORE Prova di carico del gioco
+CURRENT,mainmenu_exportship,2639,Export Ship,Nave da esportazione
+CURRENT,mainmenu_importship,2639,Import Ship,Importazione di una nave
+CURRENT,mainmenu_importfriendly,2639,Import Friendly Ship,Nave amica delle importazioni
+CURRENT,mainmenu_importhostile,2639,Import Hostile Ship,Importazione di Nave Ostile
 CURRENT,mainmenu_tools,2639,Developer Tools,Strumenti per sviluppatori
 CURRENT,mainmenu_quit,2639,Quit,Abbandona
 CURRENT,settings_analytics,2639,Analytics,Analitica
@@ -295,11 +185,11 @@ CURRENT,steamworkshopmenu_updateselectedsavegame,2639,Update Selected,Aggiorname
 CURRENT,steamworkshopmenu_savegamelegalagreementtext,2639,"By submitting this item, you agree to the","Inviando questo articolo, l'utente accetta i seguenti termini"
 CURRENT,steamworkshopmenu_savegamelegalagreementbutton,2639,workshop terms of service,termini di servizio del workshop
 CURRENT,steamworkshopmenu_uploadsavegameprogress,2639, =, =
-CURRENT,steamworkshopmenu_publishedsavegamelistlabel,2639,Published Save Games,Salvataggi pubblicati
+CURRENT,steamworkshopmenu_publishedsavegamelistlabel,2639,Published Save Games,Giochi di salvataggio pubblicati
 CURRENT,steamworkshopmenu_refreshpublishedsavegamelist,2639,Refresh List,Aggiorna l'elenco
-CURRENT,steamworkshopmenu_subscribedsavegamelistlabel,2639,Subscribed Save Games,Salvataggi sottoscritti
+CURRENT,steamworkshopmenu_subscribedsavegamelistlabel,2639,Subscribed Save Games,Abbonati Salva i giochi
 CURRENT,steamworkshopmenu_refreshsubscribedsavegamelist,2639,Refresh List,Aggiorna l'elenco
-CURRENT,steamworkshopmenu_loadselectedsavegame,2639,Load,Carica
+CURRENT,steamworkshopmenu_loadselectedsavegame,2639,Load,Carico
 CURRENT,steamworkshopmenu_shipsectionlabel,2639, =============================== Ships ===============================, =============================== Ships ===============================
 CURRENT,steamworkshopmenu_uploadshiptitlelabel,2639,Title,Titolo
 CURRENT,steamworkshopmenu_uploadshipdesclabel,2639,Description,Descrizione
@@ -310,20 +200,20 @@ CURRENT,steamworkshopmenu_shiplegalagreementbutton,2639,workshop terms of servic
 CURRENT,steamworkshopmenu_uploadshipprogress,2639, =, =
 CURRENT,steamworkshopmenu_publishedshiplistlabel,2639,Published Ships,Navi pubblicate
 CURRENT,steamworkshopmenu_refreshpublishedshiplist,2639,Refresh List,Aggiorna l'elenco
-CURRENT,steamworkshopmenu_subscribedshiplistlabel,2639,Subscribed Ships,Navi sottoscritte
+CURRENT,steamworkshopmenu_subscribedshiplistlabel,2639,Subscribed Ships,Navi abbonate
 CURRENT,steamworkshopmenu_refreshsubscribedshiplist,2639,Refresh List,Aggiorna l'elenco
-CURRENT,steamworkshopmenu_loadselectedship,2639,Load,Carica
+CURRENT,steamworkshopmenu_loadselectedship,2639,Load,Carico
 CURRENT,steamworkshopmenu_close,2639,Close,Chiudi
 CURRENT,newmainmenu_newgame,2639,NEW GAME,NUOVO GIOCO
 CURRENT,newmainmenu_loadgame,2639,LOAD GAME,CARICA GIOCO
 CURRENT,newmainmenu_deletegame,2639,DELETE GAME,CANCELLA GIOCO
 CURRENT,newmainmenu_savegame,2639,SAVE GAME,SALVA GIOCO
 CURRENT,newmainmenu_confirm,2639,CONFIRM,CONFERMA
-CURRENT,newmainmenu_cancel,2639,CANCEL,ANNULLA
+CURRENT,newmainmenu_cancel,2639,CANCEL,ANNULLARE
 CURRENT,newmainmenu_settings,2639,SETTINGS,IMPOSTAZIONI
-CURRENT,newmainmenu_quit,2639,QUIT,ESCI
-CURRENT,newmainmenu_abandon,2639,ABANDON GAME,ABBANDONA IL GIOCO
-CURRENT,newmainmenu_resume,2639,RESUME,CONTINUA
+CURRENT,newmainmenu_quit,2639,QUIT,SMETTILA
+CURRENT,newmainmenu_abandon,2639,ABANDON GAME,ABBANDONARE IL GIOCO
+CURRENT,newmainmenu_resume,2639,RESUME,RISULTATO
 CURRENT,newmainmenu_chooseship,2639,CHOOSE STARTING SHIP,SCEGLI LA NAVE DI PARTENZA
 CURRENT,newmainmenu_begingame,2639,BEGIN GAME,INIZIA IL GIOCO
 CURRENT,newmainmenu_shipeditor,2639,CREATIVE MODE,MODALITÀ CREATIVA
@@ -335,28 +225,28 @@ CURRENT,newmainmenu_arena_selectship,2639,SELECT A SHIP,SELEZIONA UNA NAVE
 CURRENT,newmainmenu_arena_shipquantity,2639,Quantity,Quantità
 CURRENT,newmainmenu_arena_combatratings,2639,COMBAT RATINGS,VALUTAZIONI DI COMBATTIMENTO
 CURRENT,newmainmenu_arena_tradevalues,2639,SHIP VALUES,VALORI DELLA NAVE
-CURRENT,newmainmenu_arena_expandstats,2639,SHOW INFO,VISUALIZZA INFORMAZIONI
-CURRENT,newmainmenu_arena_collapsestats,2639,HIDE INFO,NASCONDI INFORMAZIONI
+CURRENT,newmainmenu_arena_expandstats,2639,SHOW INFO,INFO SULLO SPETTACOLO
+CURRENT,newmainmenu_arena_collapsestats,2639,HIDE INFO,NASCONDI LE INFORMAZIONI
 CURRENT,newmainmenu_arena_generateenemyfleet,2639,GENERATE,GENERARE
 CURRENT,newmainmenu_editship,2639,EDIT SHIP,MODIFICA NAVE
-CURRENT,newmainmenu_deleteship,2639,DELETE SHIP,CANCELLA LA NAVE
-CURRENT,newmainmenu_loadship,2639,LOAD SHIP,CARICA NAVE
+CURRENT,newmainmenu_deleteship,2639,DELETE SHIP,CANCELLARE LA NAVE
+CURRENT,newmainmenu_loadship,2639,LOAD SHIP,CARICO NAVE
 CURRENT,newmainmenu_loadgamedev,2639,LOAD GAME (DEV),CARICA IL GIOCO (DEV)
 CURRENT,newmainmenu_createship,2639,CREATE NEW SHIP,CREARE UNA NUOVA NAVE
 CURRENT,newmainmenu_createnewsave,2639,CREATE NEW SAVE,CREA UN NUOVO SALVATAGGIO
 CURRENT,newmainmenu_savetosteamcloud,2639,SAVE TO STEAM CLOUD,SALVA SU STEAM CLOUD
-CURRENT,newmainmenu_steamcloud,2639,STEAM CLOUD,STEAM CLOUD
+CURRENT,newmainmenu_steamcloud,2639,STEAM CLOUD,NUVOLA DI VAPORE
 CURRENT,newmainmenu_cloudquotaremaining,2639,Used: *X / *Y (*Z% remaining),Usato: *X / *Y (*Z% rimanente)
-CURRENT,newmainmenu_exportship,2639,EXPORT SHIP,ESPORTA LA NAVE
+CURRENT,newmainmenu_exportship,2639,EXPORT SHIP,SPEDIZIONE D'ESPORTAZIONE
 CURRENT,newmainmenu_includedocked,2639,INCLUDE DOCKED SHIPS IN EXPORT,INCLUDERE LE NAVI ATTRACCATE NELL'ESPORTAZIONE
 CURRENT,newmainmenu_uploadship,2639,UPLOAD TO STEAM,CARICARE SU STEAM
 CURRENT,newmainmenu_setshipname,2639,SET SHIP NAME,IMPOSTA IL NOME DELLA NAVE
-CURRENT,newmainmenu_importhostile,2639,IMPORT HOSTILE,IMPORTA NAVI NEMICHE
-CURRENT,newmainmenu_importfriendly,2639,IMPORT FRIENDLY,IMPORTA NAVI AMICHE
+CURRENT,newmainmenu_importhostile,2639,IMPORT HOSTILE,IMPORTA OSPITI
+CURRENT,newmainmenu_importfriendly,2639,IMPORT FRIENDLY,IMPORTAZIONE FACILE
 CURRENT,newmainmenu_createnewexport,2639,CREATE NEW EXPORT,CREA UNA NUOVA ESPORTAZIONE
-CURRENT,newmainmenu_createnewupload,2639,CREATE NEW WORKSHOP ITEM,CREA UN NUOVO ARTICOLO
-CURRENT,newmainmenu_updateexistingupload,2639,UPDATE EXISTING WORKSHOP ITEM,AGGIORNA UN ARTICOLO ESISTENTE
-CURRENT,newmainmenu_steamworkshop,2639,STEAM WORKSHOP,STEAM WORKSHOP
+CURRENT,newmainmenu_createnewupload,2639,CREATE NEW WORKSHOP ITEM,CREA UN NUOVO ARTICOLO DI OFFICINA
+CURRENT,newmainmenu_updateexistingupload,2639,UPDATE EXISTING WORKSHOP ITEM,AGGIORNARE UN PUNTO DEL WORKSHOP ESISTENTE
+CURRENT,newmainmenu_steamworkshop,2639,STEAM WORKSHOP,LABORATORIO DI VAPORE
 CURRENT,newmainmenu_uploadprogress,2639,UPLOAD PROGRESS: *P %,AVANZAMENTO DEL CARICAMENTO: *P %
 CURRENT,newmainmenu_quitmessage,2639,"We hope you enjoyed playing the demo of The Last Starship. Your journey has just begun!  Unlock the full game to explore more Story Episodes, Survival Mode, Arena Mode, a full Ship Editor and more!","Speriamo che ti sia piaciuto giocare alla demo di The Last Starship. Il tuo viaggio è appena iniziato!  Sblocca il gioco completo per esplorare altri episodi della storia, la modalità Sopravvivenza, la modalità Arena, un editor di navi completo e molto altro ancora!"
 CURRENT,newmainmenu_lockedindemo,2639,LOCKED IN DEMO,DEMO BLOCCATA
@@ -365,7 +255,7 @@ CURRENT,newmainmenu_multisystem_simulation,2639,Enable Multi-system Simulation,A
 CURRENT,newmainmenu_debug_freespace,2639,Enable FreeSpace Debugging,Abilita il debug di FreeSpace
 CURRENT,newmainmenu_darkmode,2639,Galaxy Map Dark Mode,Modalità scura della mappa galattica
 CURRENT,newmainmenu_parallax,2639,Parallax effect,Effetto parallasse
-CURRENT,newmainmenu_slowcombat,2639,Slow during combat,Rallenta durante il combattimento
+CURRENT,newmainmenu_slowcombat,2639,Slow during combat,Lentezza durante il combattimento
 CURRENT,newmainmenu_filter,2639,SEARCH...,RICERCA...
 CURRENT,newmainmenu_tooltip_changeship,2639,[LMB] Change ship,[LMB] Cambia nave
 CURRENT,newmainmenu_tooltip_removeship,2639,[RMB] Remove ship,[RMB] Rimuovi la nave
@@ -388,7 +278,7 @@ CURRENT,scenario_procyoncruiser,2639,"A community ship built by Orion Industries
 CURRENT,scenario_shipyard,2639,"The absolute minimum ship fuselage, but you are docked at a fully operational Shipyard with a generous starting budget to build whatever ship you want from scratch.","La fusoliera della nave è il minimo indispensabile, ma sei attraccato in un Cantiere Navale completamente operativo con un generoso budget iniziale per costruire qualsiasi nave tu voglia da zero."
 CURRENT,scenario_industry,2639,The Stargate Project demands your help! Industry and Automation take centre stage as you manufacture parts for a megaproject stargate to the Andromeda Galaxy.,Il progetto Stargate richiede il tuo aiuto! L'industria e l'automazione sono al centro dell'attenzione mentre produci i pezzi per un megaprogetto di stargate nella Galassia di Andromeda.
 CURRENT,scenario_crabclaw,2639,"A truly massive ship designed with heavy industry, science and logistics in mind.  Big, slow, and heavy - requiring a massive power grid and engine array.","Una nave davvero massiccia, progettata per l'industria pesante, la scienza e la logistica.  Grande, lenta e pesante, richiede una rete elettrica e una serie di motori enormi."
-CURRENT,scenario_praxis_title,2639,Praxis,Praxis
+CURRENT,scenario_praxis_title,2639,Praxis,Prassi
 CURRENT,scenario_sleek_title,2639,Sleek ship,Nave elegante
 CURRENT,scenario_innershapes_title,2639,Inner Shapes,Forme interne
 CURRENT,scenario_largelogistics_title,2639,Large Logistics,Logistica di grandi dimensioni
@@ -401,6 +291,11 @@ CURRENT,scenario_value,2639,Value: $*X,Valore: $*X
 CURRENT,scenario_habitation,2639,Cabins: *X,Cabine: *X
 CURRENT,scenario_armour,2639,Armour: *X%,Armatura: *X%
 CURRENT,scenario_noarmour,2639,Armour: None,Armatura: Nessuna
+CURRENT,origin_official,2639,Official,Ufficiale
+CURRENT,origin_community,2639,Community,Comunità
+CURRENT,origin_user,2639,Player-made,Fatto da un giocatore
+CURRENT,origin_steam,2639,Subscribed on Steam Workshop,Abbonati su Steam Workshop
+CURRENT,origin_steamuser,2639,Uploaded to Steam Workshop,Caricato su Steam Workshop
 CURRENT,debugbuildpanel_hull,2639,Hull,Scafo
 CURRENT,debugbuildpanel_scaffold,2639,Scaffold,Impalcatura
 CURRENT,debugbuildpanel_interior,2639,Interior,Interni
@@ -432,7 +327,7 @@ CURRENT,hud_preparejump,2639,Prepare Jump,Preparare il salto
 CURRENT,hud_preparingjump,2639,Preparing Jump,Preparazione del salto
 CURRENT,hud_readytojump,2639,Ready to Jump,Pronti a saltare
 CURRENT,hud_abortjump,2639,Abort Jump,Interruzione del salto
-CURRENT,hud_aligning,2639,Aligning...,Allineamento...
+CURRENT,hud_aligning,2639,Aligning...,Allineare...
 CURRENT,hud_outofalignment,2639,Misaligned...,Disallineato...
 CURRENT,hud_idle,2639,Idle,Inattivo
 CURRENT,hud_ready,2639,READY,PRONTO
@@ -458,17 +353,17 @@ CURRENT,hud_endcreativemode2,2639,When you jump to hyperspace,Quando salti nell'
 CURRENT,hud_endcreativemodewarning,2639,LEAVING CREATIVE MODE,LASCIARE LA MODALITÀ CREATIVA
 CURRENT,hud_endcreativemodefull,2639,Creative Mode will end when you jump to hyperspace,La Modalità Creativa terminerà quando salterai nell'iperspazio
 CURRENT,hud_hyperspace,2639,HYPERSPACE,IPERSPAZIO
-CURRENT,hud_deselectlayer,2639,DESELECT SHIP,DESELEZIONARE LA NAVE
+CURRENT,hud_deselectlayer,2639,DESELECT SHIP,DESELEZIONARE LA SPEDIZIONE
 CURRENT,hud_direction_up,2639,Port,Porto
 CURRENT,hud_direction_right,2639,Forward,In avanti
 CURRENT,hud_direction_down,2639,Starboard,A dritta
 CURRENT,hud_direction_left,2639,Aft,A poppa
 CURRENT,hud_camerattracking,2639,Camera Tracking,Tracciamento della telecamera
 CURRENT,hud_enabled,2639,Enabled,Abilitato
-CURRENT,hud_disabled,2639,Disabled,Disabilitato
+CURRENT,hud_disabled,2639,Disabled,Disabili
 CURRENT,hud_window_construction,2639,CONSTRUCTION,COSTRUZIONE
 CURRENT,hud_window_designation,2639,DESIGNATION,DESIGNAZIONE
-CURRENT,hud_window_shipyard,2639,SHIPYARD,CANTIERE
+CURRENT,hud_window_shipyard,2639,SHIPYARD,SHIPYARD
 CURRENT,hud_window_trade,2639,TRADE,COMMERCIO
 CURRENT,hud_window_missions,2639,CONTRACTS,CONTRATTI
 CURRENT,hud_window_power,2639,POWERGRID,POWERGRID
@@ -482,7 +377,7 @@ CURRENT,hud_window_techtree,2639,RESEARCH,RICERCA
 CURRENT,hud_window_orders,2639,ORDERS,ORDINI
 CURRENT,hud_window_storage,2639,STORAGE ZONES,ZONE DI STOCCAGGIO
 CURRENT,hud_open_tooltip,2639,[LMB] Open Window,[LMB] Apri finestra
-CURRENT,hud_ftl_jump_tooltip,2639,[RMB] Jump,[RMB] Salto
+CURRENT,hud_ftl_jump_tooltip,2639,[RMB] Jump,[Salto
 CURRENT,hud_techtree_tooltip,2639,Researching:,Ricerca:
 CURRENT,hud_scoresystem_population,2639,Population,Popolazione
 CURRENT,hud_scoresystem_sectorjump,2639,Sector Jump,Salto di settore
@@ -534,12 +429,12 @@ CURRENT,hud_tooltip_leftclickplace,2639,[LMB] Place,[LMB] Posiziona
 CURRENT,hud_tooltip_leftclickbuild,2639,[LMB] Build,[LMB] Costruisci
 CURRENT,hud_tooltip_leftclickerase,2639,[LMB] Erase,[LMB] Cancella
 CURRENT,hud_tooltip_leftclickdismantle,2639,[LMB] Dismantle,[LMB] Smantellamento
-CURRENT,hud_tooltip_leftclickresearch,2639,[LMB] Research,[LMB] Ricerca
-CURRENT,hud_tooltip_rightclickcancel,2639,[RMB] Cancel,[RMB] Annulla
+CURRENT,hud_tooltip_leftclickresearch,2639,[LMB] Research,ricerca [LMB]
+CURRENT,hud_tooltip_rightclickcancel,2639,[RMB] Cancel,[Annullamento
 CURRENT,hud_tooltip_rightclickclear,2639,[RMB] Clear,[RMB] Libero
-CURRENT,hud_tooltip_rightclickdelete,2639,[RMB] Delete,[RMB] Cancella
-CURRENT,hud_tooltip_rightclickpurge,2639,[RMB] Purge,[RMB] Svuota
-CURRENT,hud_tooltip_leftclickchangerecipe,2639,[LMB] Cycle recipe,[LMB] Avanza ricetta
+CURRENT,hud_tooltip_rightclickdelete,2639,[RMB] Delete,[Cancella
+CURRENT,hud_tooltip_rightclickpurge,2639,[RMB] Purge,[RMB] Epurazione
+CURRENT,hud_tooltip_leftclickchangerecipe,2639,[LMB] Cycle recipe,[LMB] Ricetta del ciclo
 CURRENT,hud_tooltip_rightclickconfigure,2639,[RMB] Configure,[RMB] Configura
 CURRENT,hud_tooltip_joinpipes,2639,[LMB] Join Pipes,[LMB] Unisci i tubi
 CURRENT,hud_tooltip_separatepipes,2639,[LMB] Separate Pipes,[LMB] Tubi separati
@@ -562,10 +457,10 @@ CURRENT,hud_storagecrate_tooltip_quantity,2639,Quantity: *X,Quantità: *X
 CURRENT,hud_storagecrate_tooltip_capacity,2639,Capacity: *X,Capacità: *X
 CURRENT,hud_collector_tooltip_gathering,2639,Gathering *X *Y per second,Raccolta *X *Y al secondo
 CURRENT,hud_mission_collection,2639,WARNING - MISSION COLLECTION UNDERWAY,AVVISO - RACCOLTA DI MISSIONI IN CORSO
-CURRENT,hud_layer_hostile,2639,HOSTILE,OSTILI
-CURRENT,hud_layer_derelict,2639,DERELICT,RELITTO
+CURRENT,hud_layer_hostile,2639,HOSTILE,OSPITI
+CURRENT,hud_layer_derelict,2639,DERELICT,DERELICT
 CURRENT,hud_layer_forsale,2639,[FOR SALE],[IN VENDITA]
-CURRENT,hud_layer_unnaned_system,2639,UNNAMED,SENZA NOME
+CURRENT,hud_layer_unnaned_system,2639,UNNAMED,NON NOMINATO
 CURRENT,hud_trade_incoming,2639,WARNING - TRADE INCOMING,AVVISO - COMMERCIO IN ARRIVO
 CURRENT,hud_trade_owed,2639,WARNING - TRADE OWED,AVVISO - COMMERCIO DOVUTO
 CURRENT,hud_trade_hint,2639,You must travel to a Colony or Shipyard to trade,Per commerciare devi recarti in una colonia o in un cantiere navale
@@ -575,17 +470,17 @@ CURRENT,hud_last_ftl_charge,2639,WARNING - LAST FTL CHARGE\nCANNOT BUY AT DESTIN
 CURRENT,hud_invalidplacement,2639,INVALID PLACEMENT,POSIZIONAMENTO NON VALIDO
 CURRENT,hud_invalidplacement_tooltip,2639,This equipment can not function properly when installed in this position.,Questo apparecchio non può funzionare correttamente se installato in questa posizione.
 CURRENT,hud_removefromtrack,2639,[RMB] Remove from track,[RMB] Rimuovi dalla traccia
-CURRENT,communicator_incomingcall,2639,INCOMING HAIL...,CHIAMATA IN ARRIVO...
+CURRENT,communicator_incomingcall,2639,INCOMING HAIL...,GRANDINE IN ARRIVO...
 CURRENT,communicator_outgoingcall,2639,CALLING...,CHIAMA...
-CURRENT,hud_repairyourship,2639,You should repair the damage to your ship at a SHIPYARD.,Dovresti riparare i danni alla tua nave in un CANTIERE.
+CURRENT,hud_repairyourship,2639,You should repair the damage to your ship at a SHIPYARD.,Dovresti riparare i danni alla tua nave in uno SHIPYARD.
 CURRENT,speed_paused,2639,PAUSED,PAUSA
 CURRENT,speed_slow,2639,SLOW,LENTO
 CURRENT,welfare_overlay_severely_dehydrated,2639,CREW SEVERELY DEHYDRATED,EQUIPAGGIO GRAVEMENTE DISIDRATATO
 CURRENT,welfare_overlay_dehydrated,2639,CREW DEHYDRATED,EQUIPAGGIO DISIDRATATO
-CURRENT,welfare_overlay_thirsty,2639,CREW THIRSTY,EQUIPAGGIO ASSETATO
-CURRENT,welfare_overlay_famished,2639,CREW FAMISHED,EQUIPAGGIO GRAVEMENTE AFFAMATO
-CURRENT,welfare_overlay_starving,2639,CREW STARVING,EQUIPAGGIO MOLTO AFFAMATO
-CURRENT,welfare_overlay_hungry,2639,CREW HUNGRY,EQUIPAGGIO AFFAMATO
+CURRENT,welfare_overlay_thirsty,2639,CREW THIRSTY,CREW THIRSTY
+CURRENT,welfare_overlay_famished,2639,CREW FAMISHED,CREW FAMISHED
+CURRENT,welfare_overlay_starving,2639,CREW STARVING,EQUIPAGGIO AFFAMATO
+CURRENT,welfare_overlay_hungry,2639,CREW HUNGRY,CREW HUNGRY
 CURRENT,equipment_temperature_short,2639,TEMP,TEMP
 CURRENT,equipment_power,2639,POWER,POTENZA
 CURRENT,equipment_output,2639,OUTPUT,USCITA
@@ -596,7 +491,7 @@ CURRENT,equipment_factory_refine,2639,Refine *X,Raffina *X
 CURRENT,equipment_factory_make,2639,Make *X,Fai *X
 CURRENT,equipment_robotarm_nopickup,2639,SELECT TYPE,SELEZIONA IL TIPO
 CURRENT,equipment_robotarm_pickupnone,2639,NONE,NESSUNO
-CURRENT,equipment_robotarm_forcedrop,2639,FORCE DROP,FORZA RILASCIO
+CURRENT,equipment_robotarm_forcedrop,2639,FORCE DROP,FORZA GOCCIA
 CURRENT,equipment_weaponsconsole_noselection,2639,SELECT WEAPON,SELEZIONA L'ARMA
 CURRENT,equipment_weaponsconsole_deselect,2639,NONE,NESSUNO
 CURRENT,equipment_weaponsconsole_locked,2639,SLOT *X LOCKED,SLOT *X BLOCCATO
@@ -607,10 +502,10 @@ CURRENT,equipment_storagecrate_capacity,2639,CAPACITY,CAPACITÀ
 CURRENT,equipment_storagecrate_dumping,2639,DUMPING,DUMPING
 CURRENT,equipment_storagecrate_refill_enable,2639,PRIORITISE ZONES,DARE PRIORITÀ ALLE ZONE
 CURRENT,equipment_storagecrate_refill_disable,2639,PRIORITISE CRATE,DARE PRIORITÀ ALLA CASSA
-CURRENT,equipment_storagecrate_permitcrewload,2639,CREW LOADING,CARICO EQUIPAGGIO
-CURRENT,equipment_storagecrate_permitcrewunload,2639,CREW UNLOADING,SCARICO EQUIPAGGIO
-CURRENT,factory_stockpileoutput,2639,STOCKPILE,STOCCAGGIO
-CURRENT,factory_stockpileoutput_tooltip,2639,"STOCKPILE\n\nWhen ticked, the produced items will be immediately unloaded into any cargo storage area, stockpiling the item.\n\nIf unticked, the produced item will remain until it is used somewhere, or until there is specific cargo space available.","STOCCAGGIO\n\nSe spuntato, gli oggetti prodotti saranno immediatamente scaricati in qualsiasi area di stoccaggio del carico, accumulando l'oggetto.\n\nSe la casella è deselezionata, l'oggetto prodotto rimarrà fino a quando non verrà utilizzato da qualche parte o fino a quando non ci sarà uno spazio di carico specifico disponibile."
+CURRENT,equipment_storagecrate_permitcrewload,2639,CREW LOADING,CARICA DELL'EQUIPAGGIO
+CURRENT,equipment_storagecrate_permitcrewunload,2639,CREW UNLOADING,SCARICO DELL'EQUIPAGGIO
+CURRENT,factory_stockpileoutput,2639,STOCKPILE,STOCCOLMA
+CURRENT,factory_stockpileoutput_tooltip,2639,"STOCKPILE\n\nWhen ticked, the produced items will be immediately unloaded into any cargo storage area, stockpiling the item.\n\nIf unticked, the produced item will remain until it is used somewhere, or until there is specific cargo space available.","STOCKPILE\n\nSe spuntato, gli oggetti prodotti saranno immediatamente scaricati in qualsiasi area di stoccaggio del carico, accumulando l'oggetto.\n\nSe la casella è deselezionata, l'oggetto prodotto rimarrà fino a quando non verrà utilizzato da qualche parte o fino a quando non ci sarà uno spazio di carico specifico disponibile."
 CURRENT,shipeditor_commit,2639,CONFIRM,CONFERMA
 CURRENT,shipeditor_shipyardrequired1,2639,You must visit a Shipyard,Devi visitare un cantiere navale
 CURRENT,shipeditor_shipyardrequired2,2639,to apply your modifications,per applicare le modifiche
@@ -627,15 +522,15 @@ CURRENT,shipeditor_tooltip_habitation,2639,Expand your habitation deck to suppor
 CURRENT,shipeditor_mode_scaffold,2639,Scaffold,Impalcatura
 CURRENT,shipeditor_tooltip_scaffold,2639,Add scaffolding to support equipment on the exterior of your ship,Aggiungi un'impalcatura per sostenere le attrezzature all'esterno della tua nave
 CURRENT,shipeditor_mode_dock,2639,Dock,Darsena
-CURRENT,shipeditor_tooltip_dock,2639,Install a docking port. Every ship needs at least one functioning docking port.,Installa una porta di attracco. Ogni nave ha bisogno di almeno una porta di attracco funzionante.
+CURRENT,shipeditor_tooltip_dock,2639,Install a docking port. Every ship needs at least one functioning docking port.,Installa un porto di attracco. Ogni nave ha bisogno di almeno un porto di attracco funzionante.
 CURRENT,shipeditor_mode_deconstruct,2639,Destroy,Distruggere
-CURRENT,shipeditor_tooltip_deconstruct,2639,Deconstruct your ship square by square,Smonta la tua nave quadrato per quadrato
+CURRENT,shipeditor_tooltip_deconstruct,2639,Deconstruct your ship square by square,Decostruisci la tua nave quadrato per quadrato
 CURRENT,shipeditor_mode_createship,2639,Create Ship,Crea la nave
 CURRENT,shipeditor_tooltip_createship,2639,Create an entirely new ship from scratch,Crea una nave completamente nuova da zero
 CURRENT,shipeditor_mode_spawn,2639,Spawn,Spawn
 CURRENT,shipeditor_tooltip_spawn,2639,Spawn equipment and resources inside your ship. (Creative Mode only),Fai spawnare attrezzature e risorse all'interno della tua nave. (Solo in modalità Creativa)
 CURRENT,shipeditor_brush_freehand,2639,FREEHAND,LIBERA
-CURRENT,shipeditor_brush_box,2639,BOX TOOL,STRUMENTI
+CURRENT,shipeditor_brush_box,2639,BOX TOOL,SCATOLA
 CURRENT,shipeditor_price_button,2639,Cost,Costo
 CURRENT,shipeditor_stat_Mass,2639,Mass,Massa
 CURRENT,shipeditor_stat_Toughness,2639,Toughness,Resistenza
@@ -658,11 +553,11 @@ CURRENT,galaxymap_civilians,2639,CIVILIANS,CIVILI
 CURRENT,galaxymap_noescape,2639,NO ESCAPE,NESSUNA FUGA
 CURRENT,galaxymap_colony,2639,COLONY,COLONIA
 CURRENT,galaxymap_starbase,2639,STARBASE,BASE STELLARE
-CURRENT,galaxymap_shipyard,2639,SHIPYARD,CANTIERE
+CURRENT,galaxymap_shipyard,2639,SHIPYARD,SHIPYARD
 CURRENT,galaxymap_distresscall,2639,DISTRESS CALL,CHIAMATA DI EMERGENZA
-CURRENT,galaxymap_derelict,2639,DERELICT,RELITTO
-CURRENT,galaxymap_hostile,2639,HOSTILES,OSTILI
-CURRENT,galaxymap_fortress,2639,FORTRESS,FORTEZZA
+CURRENT,galaxymap_derelict,2639,DERELICT,DERELICT
+CURRENT,galaxymap_hostile,2639,HOSTILES,OSPITI
+CURRENT,galaxymap_fortress,2639,FORTRESS,FORTRESS
 CURRENT,galaxymap_objectives,2639,SECTOR CONTRACTS,CONTRATTI DI SETTORE
 CURRENT,galaxymap_comet,2639,COMET,COMET
 CURRENT,galaxymap_jumpgate,2639,JUMPGATE,JUMPGATE
@@ -695,8 +590,8 @@ CURRENT,trade_category_reagent,2639,Reagent,Reagente
 CURRENT,trade_cash,2639,Cash,In contanti
 CURRENT,trade_confirm,2639,CONFIRM,CONFERMA
 CURRENT,trade_buy,2639,BUY,ACQUISTA
-CURRENT,trade_sell,2639,SELL,VENDI
-CURRENT,trade_automatic,2639,AUTO TRADE,AUTO TRADE
+CURRENT,trade_sell,2639,SELL,VENDERE
+CURRENT,trade_automatic,2639,AUTO TRADE,COMMERCIO AUTO
 CURRENT,trade_neworder,2639,NEW ORDER,NUOVO ORDINE
 CURRENT,trade_autobuyat,2639,BUY BELOW,ACQUISTA QUI SOTTO
 CURRENT,trade_autosellat,2639,SELL ABOVE,VENDERE SOPRA
@@ -704,8 +599,8 @@ CURRENT,trade_all,2639,ALL,TUTTI
 CURRENT,trade_remove,2639,REMOVE,RIMUOVERE
 CURRENT,trade_enabled,2639,ENABLED,ABILITATO
 CURRENT,trade_cannot,2639,CANNOT,NON PUOI
-CURRENT,trade_afford,2639,AFFORD,PERMETTERTELO
-CURRENT,trade_cannot_afford,2639,CANNOT AFFORD,NON PUOI PERMETTERTELO
+CURRENT,trade_afford,2639,AFFORD,AFFORD
+CURRENT,trade_cannot_afford,2639,CANNOT AFFORD,NON PUOI AFFRONTARE
 CURRENT,trade_cost,2639,Cost,Costo
 CURRENT,trade_profit,2639,Profit,Profitto
 CURRENT,trade_transaction,2639,*X: *Y,*X: *Y
@@ -860,6 +755,7 @@ CURRENT,special_dronebatchcollection,2639,Drone Batch Collection,Collezione di l
 CURRENT,special_mininglaseraccuracy,2639,Mining Laser Precision,Precisione laser mineraria
 CURRENT,special_stargatepart1,2639,"Andromeda Project Phases 1, 2",Progetto Andromeda Fasi 1 e 2
 CURRENT,special_stargatepart2,2639,Andromeda Project Phase 3,Progetto Andromeda Fase 3
+CURRENT,special_stargatepart3,2639,"Andromeda Project Phases 4, 5, 6","Progetto Andromeda Fasi 4, 5, 6"
 CURRENT,techtree_editor_save,2639,SAVE CHANGES,SALVA LE MODIFICHE
 CURRENT,techtree_editor_reset,2639,RELOAD TREE,ALBERO DI RILIEVO
 CURRENT,techtree_award_title,2639,RESEARCH COMPLETED,RICERCA COMPLETATA
@@ -867,26 +763,26 @@ CURRENT,techtree_available_title,2639,RESEARCH AVAILABLE,RICERCA DISPONIBILE
 CURRENT,award_rewards,2639,Rewards,Ricompense
 CURRENT,tactical_docked,2639,--- DOCKED ---,--- DOCKED ---
 CURRENT,tactical_undock,2639,UNDOCK,UNDOCK
-CURRENT,tactical_throttle,2639,THROTTLE,PROPULSIONE
+CURRENT,tactical_throttle,2639,THROTTLE,TRUFFA
 CURRENT,tactical_detach_all,2639,DETACH ALL,DISSOCIA TUTTO
 CURRENT,tactical_velocity,2639,VELOCITY,VELOCITÀ
 CURRENT,tactical_evasion,2639,EVASION,EVASIONE
 CURRENT,tactical_weapons,2639,WEAPONS,ARMI
 CURRENT,tactical_fire,2639,FIRE,FUOCO
 CURRENT,tactical_hold,2639,HOLD,TENERE
-CURRENT,tactical_maneuvering,2639,MANEUVERING,MANOVRA
+CURRENT,tactical_maneuvering,2639,MANEUVERING,MANIFESTAZIONE
 CURRENT,tactical_damaged,2639,DAMAGED,DANNEGGIATO
-CURRENT,tactical_reloading,2639,RELOADING,IN RICARICA
+CURRENT,tactical_reloading,2639,RELOADING,RIAVVOLGIMENTO
 CURRENT,tactical_lowpower,2639,LOW POWER,BASSA POTENZA
 CURRENT,logisticswindow_title,2639,LOGISTICS,LOGISTICA
 CURRENT,logistics_tooltip_transfer,2639,[LMB] Transfer 1 from *X,[LMB] Trasferisci 1 da *X
 CURRENT,logistics_tooltip_cancel_transfer,2639,[RMB] Cancel 1 from *X,[Cancella 1 da *X
 CURRENT,logistics_tooltip_modifiers,2639,Modifiers:,Modificatori:
 CURRENT,orders_logistics,2639,LOGISTICS,LOGISTICA
-CURRENT,orders_crew,2639,CREW,EQUIPAGGIO
+CURRENT,orders_crew,2639,CREW,CREW
 CURRENT,orders_doors,2639,DOORS,PORTE
 CURRENT,order_none,2639,None,Nessuno
-CURRENT,order_salvage,2639,Gather Salvage,Raccogli gli oggetti
+CURRENT,order_salvage,2639,Gather Salvage,Raccogliere il recupero
 CURRENT,order_gather,2639,Gather Materials,Raccogli i materiali
 CURRENT,order_repairhull,2639,Repair Hull,Riparazione dello scafo
 CURRENT,order_shiftwork,2639,Shift Work,Lavoro a turni
@@ -896,9 +792,9 @@ CURRENT,order_weaponsactive,2639,Weapons Free,Senza armi
 CURRENT,order_fleetlogistics,2639,Fleet Logistics,Logistica della flotta
 CURRENT,order_battlestations,2639,Battle Stations,Stazioni di battaglia
 CURRENT,order_mining,2639,Mining,Miniere
-CURRENT,action_opendoors,2639,Open All Doors,Apri tutte le porte
+CURRENT,action_opendoors,2639,Open All Doors,Aprire tutte le porte
 CURRENT,action_closedoors,2639,Close All Doors,Chiudi tutte le porte
-CURRENT,action_openvents,2639,Open All Vents,Apri tutte le bocchette
+CURRENT,action_openvents,2639,Open All Vents,Aprire tutte le bocchette
 CURRENT,action_closevents,2639,Close All Vents,Chiudi tutte le bocchette
 CURRENT,missions_title,2639,CONTRACTS,CONTRATTI
 CURRENT,mission_accept,2639,Accept,Accetta
@@ -1499,7 +1395,7 @@ CURRENT,alert_type_co2,2639,CO2 WARNING,ATTENZIONE ALLA CO2
 CURRENT,alert_type_co2_tooltip,2639,"There is a dangerous build up of CO2 inside your ship. If it reaches 100%, your crew will suffocate. Consider buying a CO2 Scrubber and connecting it to a storage tank.","C'è un pericoloso accumulo di CO2 all'interno della tua nave. Se raggiunge il 100%, l'equipaggio rischia di soffocare. Prendi in considerazione l'acquisto di uno scrubber di CO2 e collegalo a un serbatoio di stoccaggio."
 CURRENT,alert_type_co2_caption,2639,*X% Fatal,*X% Fatale
 CURRENT,alert_type_oxygen,2639,Oxygen must be at 50% to be breathable.,L'ossigeno deve essere al 50% per essere respirabile.
-CURRENT,alert_type_meteorshower,2639,METEOR SHOWER,DOCCIA DI METEORE
+CURRENT,alert_type_meteorshower,2639,METEOR SHOWER,DOCCIA METEOR
 CURRENT,alert_type_hostileforces,2639,HOSTILE CONTACT,CONTATTO OSTILE
 CURRENT,alert_type_hostileforces_caption,2639,*X enemy ships,*X navi nemiche
 CURRENT,alert_type_hostilesinbound,2639,HOSTILES INBOUND,OSTILI IN ARRIVO
@@ -1509,10 +1405,10 @@ CURRENT,alert_type_heavydamage,2639,HEAVY DAMAGE,DANNI PESANTI
 CURRENT,alert_type_heavydamage_caption,2639,Damage *X%,Danno *X%
 CURRENT,alert_type_suffocating,2639,CREW SUFFOCATING,EQUIPAGGIO CHE SOFFOCA
 CURRENT,alert_type_suffocating_caption,2639,*X suffocating,*X soffocante
-CURRENT,alert_type_hungry,2639,CREW HUNGRY,EQUIPAGGIO AFFAMATO
-CURRENT,alert_type_starving,2639,CREW STARVING,EQUIPAGGIO MOLTO AFFAMATO
-CURRENT,alert_type_famished,2639,CREW FAMISHED,EQUIPAGGIO GRAVEMENTE AFFAMATO
-CURRENT,alert_type_thirsty,2639,CREW THIRSTY,EQUIPAGGIO ASSETATO
+CURRENT,alert_type_hungry,2639,CREW HUNGRY,CREW HUNGRY
+CURRENT,alert_type_starving,2639,CREW STARVING,EQUIPAGGIO AFFAMATO
+CURRENT,alert_type_famished,2639,CREW FAMISHED,CREW FAMISHED
+CURRENT,alert_type_thirsty,2639,CREW THIRSTY,CREW THIRSTY
 CURRENT,alert_type_dehydrated,2639,CREW DEHYDRATED,EQUIPAGGIO DISIDRATATO
 CURRENT,alert_type_severely_dehydrated,2639,CREW SEVERELY DEHYDRATED,EQUIPAGGIO GRAVEMENTE DISIDRATATO
 CURRENT,alert_type_dead,2639,DEATHS,MORTI
@@ -1529,16 +1425,16 @@ CURRENT,alert_type_lowbattery_tooltip,2639,"Your batteries have been drained. It
 CURRENT,alert_type_powercut,2639,POWER CUT,TAGLIO DI POTENZA
 CURRENT,alert_type_powercut_nofuel,2639,Fuel supply interrupted,Alimentazione del carburante interrotta
 CURRENT,alert_type_powercut_tooltip,2639,Your reactor has cut out. It is likely the fuel supply has been interrupted.  Consider using storage tanks to create a permanent store of fuel for your Reactor to draw from.,Il reattore si è spento. È probabile che la fornitura di carburante sia stata interrotta.  Prendi in considerazione l'utilizzo di serbatoi di stoccaggio per creare una riserva permanente di carburante da cui attingere il tuo reattore.
-CURRENT,alert_type_nostorage,2639,NO STORAGE,NO STOCCAGGIO
+CURRENT,alert_type_nostorage,2639,NO STORAGE,NO ALLO STOCCAGGIO
 CURRENT,alert_type_autotradeinactive,2639,AUTO-TRADE INACTIVE,AUTOTRADE INATTIVO
 CURRENT,alert_type_autotradeinactive_tooltip,2639,One or more of your auto-orders have been made inactive. This may be because you owe a large payment to X.,Uno o più ordini automatici sono stati resi inattivi. Questo può essere dovuto al fatto che devi un grosso pagamento a X.
 CURRENT,alert_type_stargatelosingpower,2639,STARGATE LOSING POWER,LO STARGATE PERDE POTENZA
 CURRENT,alert_type_stargatelosingpower_caption,2639,*X MW / *Y MW Supplied,*X MW / *Y MW Fornito
 CURRENT,alert_type_stargatelosingpower_tooltip,2639,The stargate isn't being supplied with enough power. Use energy transmitters to supply the Stargate with power.,Lo Stargate non viene alimentato a sufficienza. Usa i trasmettitori di energia per alimentare lo Stargate.
-CURRENT,warning_unbreathable,2639,UNBREATHABLE,IRRESPIRABILE
+CURRENT,warning_unbreathable,2639,UNBREATHABLE,INCOMPATIBILE
 CURRENT,warning_suitsrequired,2639,SPACESUITS REQUIRED,SONO NECESSARIE TUTE SPAZIALI
 CURRENT,warning_deliveryblocked,2639,DELIVERY BLOCKED,CONSEGNA BLOCCATA
-CURRENT,warning_storagerequired,2639,CREATE STORAGE ZONES,CREARE ZONE DI STOCCAGGIO
+CURRENT,warning_storagerequired,2639,CREATE STORAGE ZONES,CREARE ZONE DI ARCHIVIAZIONE
 CURRENT,format_currency,2639,$*X,$*X
 CURRENT,format_per_square,2639,*X / sq,*X / sq
 CURRENT,ratings,2639,RATINGS,VALUTAZIONI
@@ -1603,6 +1499,7 @@ CURRENT,tutorial_powerplaceloader,2639,Stamp the FUEL LOADER down somewhere near
 CURRENT,tutorial_powerselectpipes,2639,"We need to connect the FUEL LOADER to the REACTOR, using a Pipe.\n\nSelect PIPES from the Construction Menu.","Dobbiamo collegare il CARICATORE DI CARBURANTE al REATTORE, utilizzando un tubo.\n\nSeleziona TUBI dal menu Costruzione."
 CURRENT,tutorial_powerpipeconnect,2639,"Drag a pipe from the FUEL LOADER to the REACTOR, connecting the yellow pipe circles.\n\nFUEL PIPES are used to connect the output from one piece of equipment into the input of another.\n\nFUEL PIPES are yellow and must connect the yellow circles on equipment.","Trascina un tubo dal CARICATORE DI CARBURANTE al REATTORE, collegando i cerchi gialli del tubo.\n\nI TUBI DI CARBURANTE sono utilizzati per collegare l'uscita di un'apparecchiatura all'ingresso di un'altra.\n\nI TUBI DEL CARBURANTE sono gialli e devono collegare i cerchi gialli delle apparecchiature."
 CURRENT,tutorial_powerreactorpowerup,2639,The REACTOR is starting up.,Il REATTORE si sta avviando.
+CURRENT,tutorial_powerreactoractive,2639,The REACTOR is activated! We are now generating power for our station.,Il reattore è stato attivato! Ora stiamo generando energia per la nostra stazione.
 CURRENT,tutorial_air_title,2639,OXYGEN,OSSIGENO
 CURRENT,tutorial_airinstallairduct,2639,We now need to provide a breathable atmosphere for our crew. This is done with an AIRDUCT.\n\nInstall an AIRDUCT somewhere near the Reactor.,Ora dobbiamo fornire un'atmosfera respirabile al nostro equipaggio. A questo scopo si utilizza un AIRDUCT.\n\nInstalla un AIRDUCT da qualche parte vicino al Reattore.
 CURRENT,tutorial_aircables,2639,The AIRDUCT needs to be powered from the REACTOR.  Select CABLES from the CONSTRUCTION menu.,L'AIRDUCT deve essere alimentato dal REATTORE.  Seleziona CAVI dal menu COSTRUZIONE.
@@ -1713,9 +1610,9 @@ CURRENT,tutorial_wrapupfinal,2639,"Whatever you choose, more instructions will b
 CURRENT,tutorial_tutorialend,2639,[End of tutorial - Alpha 11],[Fine del tutorial - Alpha 11]
 CURRENT,tutorial_tutorialskip,2639,Are you sure you wish to skip the tutorial?,Sei sicuro di voler saltare il tutorial?
 CURRENT,tutorial_tutorialskipyes,2639,SKIP TUTORIAL,SALTA IL TUTORIAL
-CURRENT,tutorial_tutorialskipno,2639,RESUME TUTORIAL,RIPRENDI IL TUTORIAL
+CURRENT,tutorial_tutorialskipno,2639,RESUME TUTORIAL,TUTORIAL PER IL CURRICULUM
 CURRENT,tutorial_resin_title,2639,GAS COLLECTORS,RACCOGLITORI DI GAS
-CURRENT,tutorial_resinstart,2639,We are now going to learn how to produce STARGATE RESIN.,Ora impareremo a produrre la RESINA STARGATE.
+CURRENT,tutorial_resinstart,2639,We are now going to learn how to produce STARGATE RESIN.,Ora impareremo a produrre la RESINA STARGATA.
 CURRENT,tutorial_resinintro,2639,"Turning our attention back to the Stargate, the Stargate project also requires us to produce STARGATE RESIN.\n\nWe are going to use the INDUSTRIOUS to collect METREON GAS, refine it, and process it into STARGATE RESIN.","Tornando allo Stargate, il progetto Stargate richiede anche la produzione di STARGATE RESIN.\n\nUtilizzeremo l'INDUSTRIO per raccogliere il GAS METREON, raffinarlo e trasformarlo in RESINA STARGATE."
 CURRENT,tutorial_resinintro2,2639,Raise enough money to purchase for INDUSTRIOUS:\n\n- 1x GAS COLLECTOR\n- 1x REFINERY\n- 1x CHEMICAL LAB,Raccogli abbastanza soldi per l'acquisto di INDUSTRIA:\n\n- 1x COLLETTORE DI GAS\n- 1x RAFFINERIA\n- 1x LABORATORIO CHIMICO
 CURRENT,tutorial_resinselectnebula,2639,"Before we can start collecting the METREON GAS, we need to move the INDUSTRIOUS to a system containing a GAS CLOUD.\n\nUse the SECTOR MAP to select a suitable destination.","Prima di iniziare a raccogliere il GAS METREON, dobbiamo spostare l'INDUSTRIOUS in un sistema che contenga un GAS CLOUD.\n\nUsa la MAPPA DI SETTORE per selezionare una destinazione adatta."
@@ -1737,7 +1634,7 @@ CURRENT,tutorial_dockingzoomin,2639,Zoom in so that you can see the docking guid
 CURRENT,tutorial_dockingopenmaneuver,2639,Open the MANEUVERING THRUSTER controls.,Apri i comandi della SPINTA DI MANOVRA.
 CURRENT,tutorial_dockingmaneuver,2639,"Use your THRUSTERS to maneuver your ship so that RED diamonds of your docking ports align with the docking port of the *X.\n\nWhen aligned correctly, they will both turn YELLOW.\n\nKeep the ships aligned until the docking bridge is fully extended.","Usa i THRUSTER per manovrare la tua nave in modo che i diamanti ROSSI delle porte di attracco si allineino con la porta di attracco della *X.\n\nUna volta allineati correttamente, entrambi diventeranno GIALLI.\n\nMantieni l'allineamento delle navi finché il ponte di attracco non è completamente esteso."
 CURRENT,tutorial_dockingsuccess,2639,Well done. You have docked successfully!,Ben fatto. Hai attraccato con successo!
-CURRENT,tutorial_logistics_crew_title,2639,CREW LOGISTICS,LOGISTICA EQUIPAGGIO
+CURRENT,tutorial_logistics_crew_title,2639,CREW LOGISTICS,LOGISTICA DEL CREW
 CURRENT,tutorial_logisticscrewstart,2639,We are now going to learn how to transfer crew from one ship to another.\n\nThe two ships must be docked so that the crew can walk from one ship to another.,Ora impareremo a trasferire l'equipaggio da una nave all'altra.\n\nLe due navi devono essere attraccate in modo che l'equipaggio possa camminare da una nave all'altra.
 CURRENT,tutorial_logisticscrewswitchtonormalview,2639,"First, switch back to normal view by leaving tactical mode.","Per prima cosa, torna alla visualizzazione normale uscendo dalla modalità tattica."
 CURRENT,tutorial_logisticscrewselectship,2639,Select the UMC Astral Temptress. \n\n As you can see it has no crew.,"Seleziona la tentatrice astrale UMC.\n\n Come puoi vedere, non ha equipaggio."
@@ -2160,8 +2057,8 @@ CURRENT,tiddlets_part1_swanson3,2639,"And despite funding his work for years now
 CURRENT,tiddlets_part1_swanson4,2639,"Anyway, thank you for your work, Captain. Here's a reward for your efforts.","Comunque, grazie per il tuo lavoro, Capitano. Ecco una ricompensa per i tuoi sforzi."
 CURRENT,tiddlets_part1_tiddletdelivery,2639,Deliver Tiddlets,Consegnare Tiddlets
 CURRENT,tiddlets_part2_title,2639,"The Trouble with Tiddlets, Part 2","Il problema dei Tiddlet, parte 2"
-CURRENT,tiddlets_part2_medium,2639,MEDIUM HOP DISTANCE,DISTANZA DI SALTO MEDIA
-CURRENT,tiddlets_part2_short,2639,SHORT HOP DISTANCE,DISTANZA DI SALTO BREVE
+CURRENT,tiddlets_part2_medium,2639,MEDIUM HOP DISTANCE,DISTANZA MEDIA DI HOP
+CURRENT,tiddlets_part2_short,2639,SHORT HOP DISTANCE,DISTANZA A BREVE DISTANZA
 CURRENT,tiddlets_part2_long,2639,LONG HOP DISTANCE,DISTANZA DI SALTO LUNGA
 CURRENT,tiddlets_part2_advert,2639,"Captain. We're hoping to run some more experiments on the new life form I discovered. The Toppingbury Tiddlet. If you could visit my institute, I have a contract that may be of interest to you.","Capitano. Speriamo di fare altri esperimenti sulla nuova forma di vita che ho scoperto. Il Toppingbury Tiddlet. Se potesse visitare il mio istituto, ho un contratto che potrebbe interessarle."
 CURRENT,tiddlets_part2_objective_visitinstitute,2639,Travel to the Institute for Interstellar Lifeforms,Viaggia verso l'Istituto per le forme di vita interstellari
@@ -2486,6 +2383,7 @@ CURRENT,dsi_part2_objective_mineminerals,2639,Begin mining metallic minerals [*X
 CURRENT,dsi_part2_objective_minecopper,2639,Begin mining copper minerals [*X/100],Inizia a estrarre minerali di rame [*X/100]
 CURRENT,dsi_part2_objective_copperingots,2639,Begin smelting Copper Ingots [*X/100],Inizia a fondere lingotti di rame [*X/100]
 CURRENT,dsi_part2_objective_producemotors,2639,Begin fabricating Motors [*X/100],Inizia a fabbricare motori [*X/100]
+CURRENT,dsi_part2_objective_installengines,2639,OPTIONAL: Install engines in the A.J.E Industry,FACOLTATIVO: Installa i motori nell'industria A.J.E
 CURRENT,dsi_part2_introcall6,2639,"The second part is a chemical compound they're calling Stargate Resin.  It's synthesised in a Chemical Lab, but we first need huge volumes of Metreon Gas.  It's found only in deep space nebulas.","La seconda parte è un composto chimico che chiamano Resina Stargate.  Viene sintetizzato in un laboratorio chimico, ma prima abbiamo bisogno di enormi volumi di gas Metreon.  Si trova solo nelle nebulose dello spazio profondo."
 CURRENT,dsi_part2_introcall7,2639,"My thinking is to buy a suitable fuselage from a Shipyard, and then convert it into a dedicated gas capture and refining facility.  There's a good ship nearby.  You can buy it on my behalf and then set it up, and we'll drop it off in a rich gas cloud and leave it running.","La mia idea è quella di acquistare una fusoliera adatta da un cantiere navale, per poi convertirla in un impianto dedicato alla cattura e alla raffinazione del gas.  C'è una buona nave nelle vicinanze.  Puoi comprarla per conto mio e poi metterla in funzione; la lasceremo in una nuvola ricca di gas e la lasceremo in funzione."
 CURRENT,dsi_part2_objective_buygasfuselage,2639,Buy the Gas Capture fuselage,Acquista la fusoliera di Gas Capture
@@ -2535,13 +2433,4 @@ CURRENT,dsi_part2_scene_z4,2639,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2639,THERE WILL BE NO FURTHER WARNING.,NON CI SARANNO ULTERIORI AVVISI.
 CURRENT,dsi_part2_scene_y7,2639,You've left me no choice.,Non mi hai lasciato altra scelta.
 CURRENT,dsi_part2_scene_y8,2639,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.",Verrò a prenderti Alexander e questa volta non ti chiederò il 10%. Voglio tutto.
-OBSOLETE,trade_autotradecancelled,2675,CANCELLED,ANNULLATO
-OBSOLETE,origin_official,2639,Official,Ufficiale
-OBSOLETE,origin_community,2639,Community,Comunità
-OBSOLETE,origin_user,2639,Player-made,Fatto da un giocatore
-OBSOLETE,origin_steam,2639,Subscribed on Steam Workshop,Abbonati su Steam Workshop
-OBSOLETE,origin_steamuser,2639,Uploaded to Steam Workshop,Caricato su Steam Workshop
-OBSOLETE,tutorial_powerreactoractive,2639,The REACTOR is activated! We are now generating power for our station.,Il reattore è stato attivato! Ora stiamo generando energia per la nostra stazione.
-OBSOLETE,special_stargatepart3,2639,"Andromeda Project Phases 4, 5, 6","Progetto Andromeda Fasi 4, 5, 6"
-OBSOLETE,dsi_part2_objective_installengines,2639,OPTIONAL: Install engines in the A.J.E Industry,FACOLTATIVO: Installa i motori nell'industria A.J.E
 OBSOLETE,hud_collector_tooltip_totalgathered,2639,TOTAL GATHERED:,TOTALE RACCOLTO:

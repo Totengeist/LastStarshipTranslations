@@ -1,120 +1,10 @@
-﻿state,key,svn,english,translation
-NEW,settings_accentinsensitivesearch,2803,Accent Insensitive Search,Zoeken op accenten
-NEW,settings_accentinsensitivesearch_description,2803,"When searching in lists, ignore accented characters, e.g. ""é"" will match ""e""","Negeer bij het zoeken in lijsten tekens met accenten, bijvoorbeeld ""é"" komt overeen met ""e"""
-NEW,settings_translatorassist,2803,"Translator Assist (Ctrl, Alt)","Vertalerhulp (Ctrl, Alt)"
-NEW,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.","Schakel functies in om vertalers te helpen, zoals Alt om Engels te onthullen en Ctrl om de zinsnede te onthullen."
-CURRENT,settings_sound,2793,SOUND,GELUID
-CURRENT,settings_appearance,2793,APPEARANCE,APPARAAT
-CURRENT,settings_keybindings,2793,KEYBOARD,TOETSENBORD
-CURRENT,settings_other,2793,OTHER,ANDERE
-CURRENT,settings_uibounce,2793,UI Highlight Bounce,UI Markeerstoot
-CURRENT,keybinding_title_action,2793,Action,Actie
-CURRENT,keybinding_title_key,2793,Key,Sleutel
-CURRENT,keybinding_press_a_key,2793,PRESS A KEY,DRUK OP EEN TOETS
-CURRENT,keybinding_revert,2793,RESET,RESET
-CURRENT,keybinding_panleft1,2793,Pan Left (1),Pan links (1)
-CURRENT,keybinding_panleft2,2793,Pan Left (2),Pan links (2)
-CURRENT,keybinding_panright1,2793,Pan Right (1),Pan Rechts (1)
-CURRENT,keybinding_panright2,2793,Pan Right (2),Pan Rechts (2)
-CURRENT,keybinding_pandown1,2793,Pan Down (1),Pan omlaag (1)
-CURRENT,keybinding_pandown2,2793,Pan Down (2),Pan omlaag (2)
-CURRENT,keybinding_panup1,2793,Pan Up (1),Pan omhoog (1)
-CURRENT,keybinding_panup2,2793,Pan Up (2),Pan omhoog (2)
-CURRENT,keybinding_zoomin,2793,Zoom In,Inzoomen
-CURRENT,keybinding_zoomout,2793,Zoom Out,Uitzoomen
-CURRENT,keybinding_ManoeuvreLeft,2793,Thrust Left,Stuwkracht links
-CURRENT,keybinding_ManoeuvreRight,2793,Thrust Right,Stuwkracht rechts
-CURRENT,keybinding_ManoeuvreUp,2793,Thrust Up,Stoot omhoog
-CURRENT,keybinding_ManoeuvreDown,2793,Thrust Down,Stoot omlaag
-CURRENT,keybinding_ManoeuvreClockwise,2793,Thrust Clockwise,Stuwkracht Rechtsom
-CURRENT,keybinding_ManoeuvreCounterClockwise,2793,Thrust C-Clockwise,Druk C Rechtsom
-CURRENT,keybinding_toggletactical,2793,Toggle Tactical,Toggle Tactisch
-CURRENT,keybinding_togglemap,2793,Toggle Map,Toggle Kaart
-CURRENT,keybinding_increasethrust,2793,Engines +,Motoren +
-CURRENT,keybinding_decreasethrust,2793,Engines -,Motoren -
-CURRENT,keybinding_hudscaleup,2793,Increase HUD Scale,Schaalvergroting HUD
-CURRENT,keybinding_hudscaledown,2793,Decrease HUD Scale,HUD-schaal verkleinen
-CURRENT,keybinding_recentrehome,2793,Recentre Ship,Recent schip
-CURRENT,keybinding_togglepause,2793,Pause,Pauze
-CURRENT,keybinding_gamespeed1,2793,Normal Speed,Normale snelheid
-CURRENT,keybinding_gamespeed2,2793,2x Speed,2x Snelheid
-CURRENT,keybinding_gamespeed3,2793,3x Speed,3x Snelheid
-CURRENT,keybinding_gamespeed4,2793,4x Speed,4x Snelheid
-CURRENT,keybinding_gamespeed5,2793,5x Speed,5x Snelheid
-CURRENT,keybinding_gamespeed6,2793,6x Speed,6x snelheid
-CURRENT,keybinding_gamespeed7,2793,7x Speed,7x Snelheid
-CURRENT,keybinding_gamespeed8,2793,8x Speed,8x snelheid
-CURRENT,keybinding_gamespeed9,2793,9x Speed,9x Snelheid
-CURRENT,keybinding_gamespeed0,2793,Half Speed,Halve snelheid
-CURRENT,keybinding_rotateobject,2793,Rotate Object,Object roteren
-CURRENT,keybinding_takescreenshot,2793,Screenshot (+ {MetaCtrl}),Schermafbeelding (+ {MetaCtrl})
-CURRENT,"keybinding_alttool,",2793,Eye-dropper,Druppelaar
-CURRENT,origin_shipofficial,2793,OFFICIAL SHIPS,OFFICIËLE SCHEPEN
-CURRENT,origin_shipcommunity,2793,COMMUNITY SHIPS,COMMUNAUTAIRE SCHEPEN
-CURRENT,origin_shipuser,2793,PLAYER-MADE SHIPS,DOOR SPELERS GEMAAKTE SCHEPEN
-CURRENT,origin_shipsteam,2793,SUBSCRIBED SHIPS ON STEAM WORKSHOP,INGESCHREVEN SCHEPEN OP STOOMWERKPLAATS
-CURRENT,origin_shipsteamuser,2793,SHIPS UPLOADED TO STEAM WORKSHOP,SCHEPEN GEÜPLOAD NAAR STEAM WORKSHOP
-CURRENT,shipeditor_mode_eyedropper,2793,Eyedropper,Oogdruppelaar
-CURRENT,shipeditor_tooltip_eyedropper,2793,"Lets you select a paint from the exterior of your ship (can also be used by pressing the ""Shift"" key)","Hiermee kun je een verf van de buitenkant van je schip selecteren (kan ook worden gebruikt door op de ""Shift""-toets te drukken)"
-CURRENT,shipeditor_paint,2793,PAINT,VERF
-CURRENT,shipeditor_paint_paint,2793,Foreground Paint,Voorgrondverf
-CURRENT,shipeditor_paint_erase,2793,Background Paint,Achtergrondverf
-CURRENT,shipeditor_paint_name,2793,Paint Name,Naam verf
-CURRENT,shipeditor_paint_standard,2793,Standard Paint,Standaard lak
-CURRENT,shipeditor_paint_custom,2793,Custom Paint,Aangepaste verf
-CURRENT,shipeditor_paint_primary,2793,Base Primary,Basis Primair
-CURRENT,shipeditor_paint_secondary,2793,Base Secondary,Basis Secundair
-CURRENT,shipeditor_paint_detailprimary,2793,Detail Primary,Detail Primair
-CURRENT,shipeditor_paint_detailsecondary,2793,Detail Secondary,Detail Secundair
-CURRENT,shipeditor_paint_detailtertiary,2793,Detail Tertiary,Detail Tertiair
-CURRENT,shipeditor_palettelibrary_title_import,2793,IMPORT PALETTES,PALETTEN IMPORTEREN
-CURRENT,shipeditor_palettelibrary_title_export,2793,EXPORT PALETTES,EXPORTPALETTEN
-CURRENT,shipeditor_palettelibrary_createname,2793,CREATE NEW PALETTE,NIEUW PALET AANMAKEN
-CURRENT,shipeditor_palettelibrary_import,2793,IMPORT,IMPORT
-CURRENT,shipeditor_palettelibrary_delete,2793,DELETE,DELETE
-CURRENT,shipeditor_palettelibrary_confirm,2793,CONFIRM,BEVESTIGEN
-CURRENT,shipeditor_palettelibrary_cancel,2793,CANCEL,ANNULEREN
-CURRENT,shipeditor_palettelibrary_export,2793,EXPORT,EXPORT
-CURRENT,shipeditor_palettelibrary_upload,2793,UPLOAD,UPLOAD
-CURRENT,trade_autotradedisabled,2793,DISABLED IN ORDER MENU,UITGESCHAKELD IN BESTELMENU
-CURRENT,order_autotradeactive,2793,Auto Trade,Autohandel
-CURRENT,object_table,2793,Table,Tabel
-CURRENT,object_smalltable,2793,Small Table,Kleine tafel
-CURRENT,object_chair,2793,Chair,Stoel
-CURRENT,object_sofa,2793,Sofa,Sofa
-CURRENT,object_potplant,2793,Pot Plant,Potplant
-CURRENT,tutorial_battlestations_title,2793,BATTLE STATIONS,GEVECHTSSTATIONS
-CURRENT,tutorial_battlestationsstart,2793,We are now going to learn how to deploy our weapons for combat.\n\nThe game has been paused for now.,We gaan nu leren hoe we onze wapens kunnen inzetten voor gevechten.\n\nHet spel is voorlopig gepauzeerd.
-CURRENT,tutorial_battlestationsactivate,2793,BATTLE STATIONS must be activated before your weapons can be used.\n\nThis will tell your crew to prepare for battle!,BATTLE STATIONS moeten worden geactiveerd voordat je je wapens kunt gebruiken.\n\nHiermee vertel je je bemanning om zich voor te bereiden op de strijd!
-CURRENT,tutorial_battlestationshighlightcrew,2793,Your crew will run to the weapons to deploy them.\n\nGatling guns don't require any crew to deploy them.,Je bemanning rent naar de wapens om ze in te zetten.\n\nGatlingkanonnen vereisen geen bemanning om ze in te zetten.
-CURRENT,tutorial_battlestationshighlightguns,2793,The gun barrels will begin to extend when they arrive.\n\nWhen the barrels are fully extended they will be ready to fire!,"De lopen van het kanon beginnen uit te schuiven als ze aankomen.\n\nAls de lopen volledig uitgeschoven zijn, zijn ze klaar om te vuren!"
-CURRENT,tutorial_battlestationssuccess,2793,"Well done, your weapons are now successfully deployed for battle!","Goed gedaan, je wapens zijn nu succesvol ingezet voor de strijd!"
-CURRENT,tutorial_stargatejump_title,2793,STARGATE JUMPING,STERRENPOORT SPRINGEN
-CURRENT,tutorial_stargatejumpstart,2793,We are now going to learn how to jump using the newly powered-up Stargate.,We gaan nu leren hoe we moeten springen met de nieuwe Stargate.
-CURRENT,tutorial_stargatejumpnopower,2793,"The Stargate currently has lost power and needs to be started again.\n\nUse energy transmitters to power the Stargate.\n\nWhen the Stargate is ready, we will try again!","De Sterrenpoort heeft momenteel geen energie meer en moet weer opgestart worden.\n\nGebruik energiezenders om de Sterrenpoort van energie te voorzien.\n\nAls de Sterrenpoort klaar is, proberen we het opnieuw!"
-CURRENT,tutorial_stargatejumpintro,2793,The Stargate enables travel between different sectors.\n\nThe jump costs a single FTL charge and the Stargate will use more power while a jump is in progress.,Met de Sterrenpoort kun je tussen verschillende sectoren reizen.\n\nDe sprong kost één FTL-lading en de Sterrenpoort verbruikt meer stroom als er een sprong wordt gemaakt.
-CURRENT,tutorial_stargatejumpselectsystem,2793,Let's have a look at your ship in the Stargate system.\n\nStargate jumps can only be performed from the Stargate system.,Laten we eens kijken naar je schip in het Sterrenpoortstelsel.\n\nSterrenpoortsprongen kunnen alleen worden uitgevoerd vanuit het Sterrenpoortstelsel.
-CURRENT,tutorial_stargatejumpopenftl,2793,"First, let's open the FTL window.",Laten we eerst het FTL-venster openen.
-CURRENT,tutorial_stargatejumpabortjump,2793,We will need to abort the jump that's currently planned.,We zullen de sprong die nu gepland staat moeten afbreken.
-CURRENT,tutorial_stargatejumphighlightalign,2793,"When no jump is planned on the sector map, you can align your fleet for a Stargate jump.","Als er geen sprong is gepland op de sectorkaart, kun je je vloot uitlijnen voor een Stargate jump."
-CURRENT,tutorial_stargatejumphighlightaligning,2793,Great! The selected ships will now align for the jump.,Geweldig! De geselecteerde schepen worden nu uitgelijnd voor de sprong.
-CURRENT,tutorial_stargatejumphighlightjump,2793,Your fleet is ready to jump to the new sector!\n\nYou can come back to this sector by performing another Stargate jump.,Je vloot is klaar om naar de nieuwe sector te springen!\n\nJe kunt terugkomen naar deze sector door nog een Stargate jump uit te voeren.
-CURRENT,tutorial_stargatejumpsuccess,2793,Well done. You can now jump between sectors!,Goed gedaan. Je kunt nu tussen sectoren springen!
-CURRENT,dsi_part2_objective_sellreminder,2793,Sell your manufactured parts to submit them to the Stargate project,Verkoop je gefabriceerde onderdelen om ze in te dienen bij het Stargate-project
-CURRENT,trade_autotradecancelled,2793,LAST ORDER CANCELLED,LAATSTE BESTELLING GEANNULEERD
-CURRENT,origin_official,2793,OFFICIAL,OFFICIEEL
-CURRENT,origin_community,2793,COMMUNITY,GEMEENSCHAP
-CURRENT,origin_user,2793,PLAYER-MADE,PLAYER-MADE
-CURRENT,origin_steam,2793,SUBSCRIBED ON STEAM WORKSHOP,INGESCHREVEN OP STEAM WORKSHOP
-CURRENT,origin_steamuser,2793,UPLOADED TO STEAM WORKSHOP,GEÜPLOAD NAAR STEAM WORKSHOP
-CURRENT,special_stargatepart3,2793,"Andromeda Project Phases 4, 5","Andromeda Project Fasen 4, 5"
-CURRENT,tutorial_powerreactoractive,2793,The REACTOR is activated! We are now generating power for our ship.,De REACTOR is geactiveerd! We wekken nu energie op voor ons schip.
-CURRENT,dsi_part2_objective_installengines,2793,OPTIONAL: Install engines in the A.J.E Foundry,OPTIONEEL: Installeer motoren in de A.J.E Foundry
+state,key,svn,english,translation
 CURRENT,settings_exitsaves_tooltip,2675,"When enabled, the current game will be saved when abandoned or when the game is quit in a file called exitsave.\n\nCAUTION: This file will be overwritten on every exit.","Als dit is ingeschakeld, wordt het huidige spel opgeslagen wanneer het wordt verlaten of wanneer het spel wordt afgesloten in een bestand met de naam exitsave.\n\nLET OP: Dit bestand wordt bij elke exit overschreven."
 CURRENT,settings_dynamiclighting,2675,Use Dynamic Lighting,Dynamische verlichting gebruiken
 CURRENT,newmainmenu_exitsaves,2675,Exit-saves,Afsluiten bespaart
 CURRENT,hud_ftlshipnotviablewarning,2675,Ship needs either hull or scaffolding to be brought into hyperspace,Schip heeft romp of steiger nodig om in hyperspace te komen
 CURRENT,trade_cancelautotrade,2675,CANCEL AUTO-TRADE,AUTOHANDEL ANNULEREN
+CURRENT,trade_autotradecancelled,2675,CANCELLED,GEANNULEERD
 CURRENT,hud_collector_tooltip_totalgathered,2675,TOTAL GATHERED,TOTAAL GEDRAGD
 CURRENT,save_cloudsavefailed_header,2639,WARNING: Cloud Save Failed,WAARSCHUWING: Cloud opslaan mislukt
 CURRENT,save_cloudsavefailed_body,2639,"The game failed to save to the cloud, the game has been saved locally instead.\n\nPlease check that you have enough storage in the Steam Cloud and try again.","Het spel is niet opgeslagen in de cloud, het spel is in plaats daarvan lokaal opgeslagen.\n\nControleer of je genoeg opslagruimte hebt in de Steam Cloud en probeer het opnieuw."
@@ -430,6 +320,11 @@ CURRENT,scenario_value,2593,Value: $*X,Waarde: $*X
 CURRENT,scenario_habitation,2593,Cabins: *X,Hutten: *X
 CURRENT,scenario_armour,2593,Armour: *X%,Bepantsering: *X%
 CURRENT,scenario_noarmour,2593,Armour: None,Pantser: Geen
+CURRENT,origin_official,2593,Official,Officieel
+CURRENT,origin_community,2593,Community,Gemeenschap
+CURRENT,origin_user,2593,Player-made,Door spelers gemaakte
+CURRENT,origin_steam,2593,Subscribed on Steam Workshop,Ingeschreven op Steam Workshop
+CURRENT,origin_steamuser,2593,Uploaded to Steam Workshop,Geüpload naar Steam Workshop
 CURRENT,debugbuildpanel_hull,2593,Hull,Romp
 CURRENT,debugbuildpanel_scaffold,2593,Scaffold,Steiger
 CURRENT,debugbuildpanel_interior,2593,Interior,Interieur
@@ -875,6 +770,7 @@ CURRENT,special_dronebatchcollection,2593,Drone Batch Collection,Drone batchverz
 CURRENT,special_mininglaseraccuracy,2593,Mining Laser Precision,Precisie mijnbouwlaser
 CURRENT,special_stargatepart1,2593,"Andromeda Project Phases 1, 2","Andromeda Project Fasen 1, 2"
 CURRENT,special_stargatepart2,2593,Andromeda Project Phase 3,Andromeda Project Fase 3
+CURRENT,special_stargatepart3,2593,"Andromeda Project Phases 4, 5, 6","Andromeda Project Fasen 4, 5, 6"
 CURRENT,techtree_editor_save,2593,SAVE CHANGES,WIJZIGINGEN OPSLAAN
 CURRENT,techtree_editor_reset,2593,RELOAD TREE,HERLADEN BOOM
 CURRENT,techtree_award_title,2593,RESEARCH COMPLETED,AFGEROND ONDERZOEK
@@ -1605,6 +1501,7 @@ CURRENT,tutorial_powerplaceloader,2593,Stamp the FUEL LOADER down somewhere near
 CURRENT,tutorial_powerselectpipes,2593,"We need to connect the FUEL LOADER to the REACTOR, using a Pipe.\n\nSelect PIPES from the Construction Menu.",We moeten de BRANDSTOFLADER verbinden met de REACTOR door middel van een pijpleiding.\n\nKies PIPES in het Construction Menu.
 CURRENT,tutorial_powerpipeconnect,2593,"Drag a pipe from the FUEL LOADER to the REACTOR, connecting the yellow pipe circles.\n\nFUEL PIPES are used to connect the output from one piece of equipment into the input of another.\n\nFUEL PIPES are yellow and must connect the yellow circles on equipment.",Sleep een pijp van de FUEL LOADER naar de REACTOR en verbind de gele pijpcirkels met elkaar.\n\nBRANDSTOFPIJPEN worden gebruikt om de uitvoer van een apparaat te verbinden met de invoer van een ander apparaat.\n\nBRANDSTOFPIJPEN zijn geel en moeten de gele cirkels op de apparatuur verbinden.
 CURRENT,tutorial_powerreactorpowerup,2593,The REACTOR is starting up.,De REACTOR start op.
+CURRENT,tutorial_powerreactoractive,2593,The REACTOR is activated! We are now generating power for our station.,De REACTOR is geactiveerd! We wekken nu energie op voor ons station.
 CURRENT,tutorial_air_title,2593,OXYGEN,OXYGEN
 CURRENT,tutorial_airinstallairduct,2593,We now need to provide a breathable atmosphere for our crew. This is done with an AIRDUCT.\n\nInstall an AIRDUCT somewhere near the Reactor.,We moeten nu zorgen voor een ademende atmosfeer voor onze bemanning. Dit wordt gedaan met een AIRDUCT.\n\nInstalleer een AIRDUCT ergens in de buurt van de Reactor.
 CURRENT,tutorial_aircables,2593,The AIRDUCT needs to be powered from the REACTOR.  Select CABLES from the CONSTRUCTION menu.,De AIRDUCT moet worden gevoed vanuit de REACTOR.  Selecteer KABELS in het CONSTRUCTIEmenu.
@@ -2486,6 +2383,7 @@ CURRENT,dsi_part2_objective_mineminerals,2593,Begin mining metallic minerals [*X
 CURRENT,dsi_part2_objective_minecopper,2593,Begin mining copper minerals [*X/100],Begin met het delven van kopermineralen [*X/100]
 CURRENT,dsi_part2_objective_copperingots,2593,Begin smelting Copper Ingots [*X/100],Begin met het smelten van Koperblokken [*X/100]
 CURRENT,dsi_part2_objective_producemotors,2593,Begin fabricating Motors [*X/100],Begin met het fabriceren van motoren [*X/100]
+CURRENT,dsi_part2_objective_installengines,2593,OPTIONAL: Install engines in the A.J.E Industry,OPTIONEEL: Installeer motoren in de A.J.E Industrie
 CURRENT,dsi_part2_introcall6,2593,"The second part is a chemical compound they're calling Stargate Resin.  It's synthesised in a Chemical Lab, but we first need huge volumes of Metreon Gas.  It's found only in deep space nebulas.","Het tweede deel is een chemische verbinding die ze Stargate Resin noemen.  Het wordt gesynthetiseerd in een chemisch lab, maar we hebben eerst enorme hoeveelheden Metreon gas nodig.  Het wordt alleen gevonden in nevels in de diepe ruimte."
 CURRENT,dsi_part2_introcall7,2593,"My thinking is to buy a suitable fuselage from a Shipyard, and then convert it into a dedicated gas capture and refining facility.  There's a good ship nearby.  You can buy it on my behalf and then set it up, and we'll drop it off in a rich gas cloud and leave it running.","Mijn idee is om een geschikte romp van een scheepswerf te kopen en die dan om te bouwen tot een speciale faciliteit voor het afvangen en raffineren van gas.  Er is een goed schip in de buurt.  Je kunt het namens mij kopen en het dan inrichten, en we droppen het in een rijke gaswolk en laten het draaien."
 CURRENT,dsi_part2_objective_buygasfuselage,2593,Buy the Gas Capture fuselage,Koop de romp van de Gasvanger
@@ -2535,15 +2433,6 @@ CURRENT,dsi_part2_scene_z4,2593,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2593,THERE WILL BE NO FURTHER WARNING.,ZAL ER GEEN VERDERE WAARSCHUWING VOLGEN.
 CURRENT,dsi_part2_scene_y7,2593,You've left me no choice.,Je hebt me geen keus gelaten.
 CURRENT,dsi_part2_scene_y8,2593,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Ik kom voor jou Alexander, en deze keer vraag ik niet om 10%. Ik wil alles."
-OBSOLETE,trade_autotradecancelled,2675,CANCELLED,GEANNULEERD
-OBSOLETE,origin_official,2593,Official,Officieel
-OBSOLETE,origin_community,2593,Community,Gemeenschap
-OBSOLETE,origin_user,2593,Player-made,Door spelers gemaakte
-OBSOLETE,origin_steam,2593,Subscribed on Steam Workshop,Ingeschreven op Steam Workshop
-OBSOLETE,origin_steamuser,2593,Uploaded to Steam Workshop,Geüpload naar Steam Workshop
-OBSOLETE,special_stargatepart3,2593,"Andromeda Project Phases 4, 5, 6","Andromeda Project Fasen 4, 5, 6"
-OBSOLETE,tutorial_powerreactoractive,2593,The REACTOR is activated! We are now generating power for our station.,De REACTOR is geactiveerd! We wekken nu energie op voor ons station.
-OBSOLETE,dsi_part2_objective_installengines,2593,OPTIONAL: Install engines in the A.J.E Industry,OPTIONEEL: Installeer motoren in de A.J.E Industrie
 OBSOLETE,hud_collector_tooltip_totalgathered,2593,TOTAL GATHERED:,TOTAAL VERZAMELD:
 OBSOLETE,stargate_newsystems_harken_2,2624,"Unfortunately it seems pirates have gotten to them first, and have set up their own shipyards around the neubidium deposits in the system.",Helaas lijken piraten hen voor te zijn geweest en hebben ze hun eigen scheepswerven opgezet rond de neubidiumafzettingen in het systeem.
 OBSOLETE,mission_type_sectorjumpgate,2593,Jumpgate (Secotr),Jumpgate (Secotr)

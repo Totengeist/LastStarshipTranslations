@@ -1,120 +1,10 @@
-﻿state,key,svn,english,translation
-NEW,settings_accentinsensitivesearch,2803,Accent Insensitive Search,Accent okänslig sökning
-NEW,settings_accentinsensitivesearch_description,2803,"When searching in lists, ignore accented characters, e.g. ""é"" will match ""e""","När du söker i listor ignorerar du tecken med accent, t.ex. ""é"" kommer att matcha ""e"""
-NEW,settings_translatorassist,2803,"Translator Assist (Ctrl, Alt)","Översättningshjälp (Ctrl, Alt)"
-NEW,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.","Aktivera funktioner som underlättar för översättare, t.ex. Alt för att visa engelska och Ctrl för att visa frasnyckeln."
-CURRENT,settings_sound,2793,SOUND,LJUD
-CURRENT,settings_appearance,2793,APPEARANCE,UPPTRÄDANDE
-CURRENT,settings_keybindings,2793,KEYBOARD,TANGENTBORD
-CURRENT,settings_other,2793,OTHER,ÖVRIGT
-CURRENT,settings_uibounce,2793,UI Highlight Bounce,UI Highlight Bounce
-CURRENT,keybinding_title_action,2793,Action,Åtgärd
-CURRENT,keybinding_title_key,2793,Key,Nyckel
-CURRENT,keybinding_press_a_key,2793,PRESS A KEY,TRYCK PÅ EN TANGENT
-CURRENT,keybinding_revert,2793,RESET,ÅTERSTÄLLNING
-CURRENT,keybinding_panleft1,2793,Pan Left (1),Pan vänster (1)
-CURRENT,keybinding_panleft2,2793,Pan Left (2),Pan vänster (2)
-CURRENT,keybinding_panright1,2793,Pan Right (1),Pan höger (1)
-CURRENT,keybinding_panright2,2793,Pan Right (2),Pan höger (2)
-CURRENT,keybinding_pandown1,2793,Pan Down (1),Panorera ner (1)
-CURRENT,keybinding_pandown2,2793,Pan Down (2),Panorera ner (2)
-CURRENT,keybinding_panup1,2793,Pan Up (1),Panna upp (1)
-CURRENT,keybinding_panup2,2793,Pan Up (2),Panna upp (2)
-CURRENT,keybinding_zoomin,2793,Zoom In,Zooma in
-CURRENT,keybinding_zoomout,2793,Zoom Out,Zooma ut
-CURRENT,keybinding_ManoeuvreLeft,2793,Thrust Left,Tryck vänster
-CURRENT,keybinding_ManoeuvreRight,2793,Thrust Right,Tryck höger
-CURRENT,keybinding_ManoeuvreUp,2793,Thrust Up,Tryck upp
-CURRENT,keybinding_ManoeuvreDown,2793,Thrust Down,Tryck ner
-CURRENT,keybinding_ManoeuvreClockwise,2793,Thrust Clockwise,Tryckkraft medurs
-CURRENT,keybinding_ManoeuvreCounterClockwise,2793,Thrust C-Clockwise,Tryckkraft C-ursols
-CURRENT,keybinding_toggletactical,2793,Toggle Tactical,Toggle Taktisk
-CURRENT,keybinding_togglemap,2793,Toggle Map,Växla karta
-CURRENT,keybinding_increasethrust,2793,Engines +,Motorer
-CURRENT,keybinding_decreasethrust,2793,Engines -,Motorer
-CURRENT,keybinding_hudscaleup,2793,Increase HUD Scale,Öka HUD-skalan
-CURRENT,keybinding_hudscaledown,2793,Decrease HUD Scale,Minska HUD-skalan
-CURRENT,keybinding_recentrehome,2793,Recentre Ship,Recentre Ship
-CURRENT,keybinding_togglepause,2793,Pause,Paus
-CURRENT,keybinding_gamespeed1,2793,Normal Speed,Normal hastighet
-CURRENT,keybinding_gamespeed2,2793,2x Speed,2x Hastighet
-CURRENT,keybinding_gamespeed3,2793,3x Speed,3x Hastighet
-CURRENT,keybinding_gamespeed4,2793,4x Speed,4x Hastighet
-CURRENT,keybinding_gamespeed5,2793,5x Speed,5x Hastighet
-CURRENT,keybinding_gamespeed6,2793,6x Speed,6x hastighet
-CURRENT,keybinding_gamespeed7,2793,7x Speed,7x hastighet
-CURRENT,keybinding_gamespeed8,2793,8x Speed,8x hastighet
-CURRENT,keybinding_gamespeed9,2793,9x Speed,9x hastighet
-CURRENT,keybinding_gamespeed0,2793,Half Speed,Halv hastighet
-CURRENT,keybinding_rotateobject,2793,Rotate Object,Rotera objekt
-CURRENT,keybinding_takescreenshot,2793,Screenshot (+ {MetaCtrl}),Skärmdump (+ {MetaCtrl})
-CURRENT,"keybinding_alttool,",2793,Eye-dropper,Ögondroppare
-CURRENT,origin_shipofficial,2793,OFFICIAL SHIPS,OFFICIELLA SJÖFARTYG
-CURRENT,origin_shipcommunity,2793,COMMUNITY SHIPS,GEMENSKAPSFARTYG
-CURRENT,origin_shipuser,2793,PLAYER-MADE SHIPS,SPELARTILLVERKADE FARTYG
-CURRENT,origin_shipsteam,2793,SUBSCRIBED SHIPS ON STEAM WORKSHOP,ABONNERADE FARTYG PÅ ÅNGVERKSTAD
-CURRENT,origin_shipsteamuser,2793,SHIPS UPLOADED TO STEAM WORKSHOP,FARTYG UPPLADDADE TILL STEAM WORKSHOP
-CURRENT,shipeditor_mode_eyedropper,2793,Eyedropper,Ögondropp
-CURRENT,shipeditor_tooltip_eyedropper,2793,"Lets you select a paint from the exterior of your ship (can also be used by pressing the ""Shift"" key)","Låter dig välja en färg från utsidan av ditt fartyg (kan också användas genom att trycka på ""Shift""-tangenten)"
-CURRENT,shipeditor_paint,2793,PAINT,MÅLARFÄRG
-CURRENT,shipeditor_paint_paint,2793,Foreground Paint,Förgrundsfärg
-CURRENT,shipeditor_paint_erase,2793,Background Paint,Bakgrundsfärg
-CURRENT,shipeditor_paint_name,2793,Paint Name,Färg Namn
-CURRENT,shipeditor_paint_standard,2793,Standard Paint,Standardfärg
-CURRENT,shipeditor_paint_custom,2793,Custom Paint,Anpassad färg
-CURRENT,shipeditor_paint_primary,2793,Base Primary,Bas Primär
-CURRENT,shipeditor_paint_secondary,2793,Base Secondary,Bas Sekundär
-CURRENT,shipeditor_paint_detailprimary,2793,Detail Primary,Detalj Primär
-CURRENT,shipeditor_paint_detailsecondary,2793,Detail Secondary,Detalj Sekundär
-CURRENT,shipeditor_paint_detailtertiary,2793,Detail Tertiary,Detalj Tertiär
-CURRENT,shipeditor_palettelibrary_title_import,2793,IMPORT PALETTES,IMPORTERA PALETTER
-CURRENT,shipeditor_palettelibrary_title_export,2793,EXPORT PALETTES,EXPORTERA PALETTER
-CURRENT,shipeditor_palettelibrary_createname,2793,CREATE NEW PALETTE,SKAPA EN NY PALETT
-CURRENT,shipeditor_palettelibrary_import,2793,IMPORT,IMPORT
-CURRENT,shipeditor_palettelibrary_delete,2793,DELETE,RADERA
-CURRENT,shipeditor_palettelibrary_confirm,2793,CONFIRM,BEKRÄFTA
-CURRENT,shipeditor_palettelibrary_cancel,2793,CANCEL,AVBRYT
-CURRENT,shipeditor_palettelibrary_export,2793,EXPORT,EXPORT
-CURRENT,shipeditor_palettelibrary_upload,2793,UPLOAD,UPPLADDNING
-CURRENT,trade_autotradedisabled,2793,DISABLED IN ORDER MENU,INAKTIVERAD I ORDERMENYN
-CURRENT,order_autotradeactive,2793,Auto Trade,Autohandel
-CURRENT,object_table,2793,Table,Tabell
-CURRENT,object_smalltable,2793,Small Table,Litet bord
-CURRENT,object_chair,2793,Chair,Ordförande
-CURRENT,object_sofa,2793,Sofa,Soffa
-CURRENT,object_potplant,2793,Pot Plant,Krukväxt
-CURRENT,tutorial_battlestations_title,2793,BATTLE STATIONS,STRIDSSTATIONER
-CURRENT,tutorial_battlestationsstart,2793,We are now going to learn how to deploy our weapons for combat.\n\nThe game has been paused for now.,Vi ska nu lära oss hur vi använder våra vapen i strid.\n\nSpelet har pausats för tillfället.
-CURRENT,tutorial_battlestationsactivate,2793,BATTLE STATIONS must be activated before your weapons can be used.\n\nThis will tell your crew to prepare for battle!,BATTLE STATIONS måste aktiveras innan dina vapen kan användas.\n\nDetta kommer att säga till din besättning att förbereda sig för strid!
-CURRENT,tutorial_battlestationshighlightcrew,2793,Your crew will run to the weapons to deploy them.\n\nGatling guns don't require any crew to deploy them.,Din besättning kommer att springa till vapnen för att placera ut dem.\n\nGatling guns kräver ingen besättning för att placera ut dem.
-CURRENT,tutorial_battlestationshighlightguns,2793,The gun barrels will begin to extend when they arrive.\n\nWhen the barrels are fully extended they will be ready to fire!,Pistolpiporna kommer att börja förlängas när de anländer.\n\nNär piporna är helt förlängda är de redo att avfyras!
-CURRENT,tutorial_battlestationssuccess,2793,"Well done, your weapons are now successfully deployed for battle!","Bra gjort, dina vapen är nu framgångsrikt utplacerade för strid!"
-CURRENT,tutorial_stargatejump_title,2793,STARGATE JUMPING,STARGATE HOPPAR
-CURRENT,tutorial_stargatejumpstart,2793,We are now going to learn how to jump using the newly powered-up Stargate.,Vi ska nu lära oss att hoppa med hjälp av den nyligen uppstartade Stargate.
-CURRENT,tutorial_stargatejumpnopower,2793,"The Stargate currently has lost power and needs to be started again.\n\nUse energy transmitters to power the Stargate.\n\nWhen the Stargate is ready, we will try again!",Stjärnporten har för närvarande förlorat ström och måste startas igen.\n\nAnvänd energisändare för att driva Stjärnporten.\n\nNär Stjärnporten är klar försöker vi igen!
-CURRENT,tutorial_stargatejumpintro,2793,The Stargate enables travel between different sectors.\n\nThe jump costs a single FTL charge and the Stargate will use more power while a jump is in progress.,Stargate gör det möjligt att resa mellan olika sektorer.\n\nHoppet kostar en FTL-laddning och Stargate använder mer energi när ett hopp pågår.
-CURRENT,tutorial_stargatejumpselectsystem,2793,Let's have a look at your ship in the Stargate system.\n\nStargate jumps can only be performed from the Stargate system.,Låt oss ta en titt på ditt skepp i Stargate-systemet.\n\nStargate-hopp kan endast utföras från Stargate-systemet.
-CURRENT,tutorial_stargatejumpopenftl,2793,"First, let's open the FTL window.",Låt oss först öppna FTL-fönstret.
-CURRENT,tutorial_stargatejumpabortjump,2793,We will need to abort the jump that's currently planned.,Vi kommer att behöva avbryta det planerade hoppet.
-CURRENT,tutorial_stargatejumphighlightalign,2793,"When no jump is planned on the sector map, you can align your fleet for a Stargate jump.",När inget hopp är planerat på sektorkartan kan du anpassa din flotta för ett Stargate-hopp.
-CURRENT,tutorial_stargatejumphighlightaligning,2793,Great! The selected ships will now align for the jump.,Jättebra! De utvalda fartygen kommer nu att riktas in för hoppet.
-CURRENT,tutorial_stargatejumphighlightjump,2793,Your fleet is ready to jump to the new sector!\n\nYou can come back to this sector by performing another Stargate jump.,Din flotta är redo att hoppa till den nya sektorn!\n\nDu kan komma tillbaka till den här sektorn genom att göra ett nytt Stargate-hopp.
-CURRENT,tutorial_stargatejumpsuccess,2793,Well done. You can now jump between sectors!,Bra jobbat! Du kan nu hoppa mellan sektorer!
-CURRENT,dsi_part2_objective_sellreminder,2793,Sell your manufactured parts to submit them to the Stargate project,Sälj dina tillverkade delar för att skicka in dem till Stargate-projektet
-CURRENT,trade_autotradecancelled,2793,LAST ORDER CANCELLED,SISTA ORDERN ANNULLERAD
-CURRENT,origin_official,2793,OFFICIAL,OFFICIELL
-CURRENT,origin_community,2793,COMMUNITY,SAMHÄLLET
-CURRENT,origin_user,2793,PLAYER-MADE,PLAYER-MADE
-CURRENT,origin_steam,2793,SUBSCRIBED ON STEAM WORKSHOP,PRENUMERERADE PÅ ÅNGVERKSTAD
-CURRENT,origin_steamuser,2793,UPLOADED TO STEAM WORKSHOP,UPPLADDAD TILL STEAM WORKSHOP
-CURRENT,special_stargatepart3,2793,"Andromeda Project Phases 4, 5","Andromedaprojektet Fas 4, 5"
-CURRENT,tutorial_powerreactoractive,2793,The REACTOR is activated! We are now generating power for our ship.,REAKTORN är aktiverad! Vi genererar nu kraft till vårt skepp.
-CURRENT,dsi_part2_objective_installengines,2793,OPTIONAL: Install engines in the A.J.E Foundry,VALFRIHET: Installera motorer i A.J.E:s gjuteri
+state,key,svn,english,translation
 CURRENT,settings_exitsaves_tooltip,2675,"When enabled, the current game will be saved when abandoned or when the game is quit in a file called exitsave.\n\nCAUTION: This file will be overwritten on every exit.",När denna funktion är aktiverad sparas det aktuella spelet när det överges eller när spelet avslutas i en fil som heter exitsave.\n\n OBSERVERA: Denna fil skrivs över vid varje avslutning.
 CURRENT,settings_dynamiclighting,2675,Use Dynamic Lighting,Använd dynamisk belysning
 CURRENT,newmainmenu_exitsaves,2675,Exit-saves,Exit-räddning
 CURRENT,hud_ftlshipnotviablewarning,2675,Ship needs either hull or scaffolding to be brought into hyperspace,Fartyget behöver antingen skrov eller byggnadsställning för att föras in i hyperrymden
 CURRENT,trade_cancelautotrade,2675,CANCEL AUTO-TRADE,AVBRYTA AUTOTRADE
+CURRENT,trade_autotradecancelled,2675,CANCELLED,AVBOKAD
 CURRENT,hud_collector_tooltip_totalgathered,2675,TOTAL GATHERED,TOTALT GATHERED
 CURRENT,save_cloudsavefailed_header,2639,WARNING: Cloud Save Failed,VARNING: Cloud Save misslyckades
 CURRENT,save_cloudsavefailed_body,2639,"The game failed to save to the cloud, the game has been saved locally instead.\n\nPlease check that you have enough storage in the Steam Cloud and try again.","Spelet kunde inte sparas i molnet, spelet har sparats lokalt istället.\n\nKontrollera att du har tillräckligt med lagringsutrymme i Steam Cloud och försök igen."
@@ -403,6 +293,11 @@ CURRENT,scenario_value,2624,Value: $*X,Värde: $*X
 CURRENT,scenario_habitation,2624,Cabins: *X,Stugor: *X
 CURRENT,scenario_armour,2624,Armour: *X%,Rustning: *X%
 CURRENT,scenario_noarmour,2624,Armour: None,Rustning: Ingen
+CURRENT,origin_official,2624,Official,Officiell
+CURRENT,origin_community,2624,Community,Gemenskap
+CURRENT,origin_user,2624,Player-made,Tillverkad av spelare
+CURRENT,origin_steam,2624,Subscribed on Steam Workshop,Prenumeration på Steam Workshop
+CURRENT,origin_steamuser,2624,Uploaded to Steam Workshop,Uppladdad till Steam Workshop
 CURRENT,debugbuildpanel_hull,2624,Hull,Hull
 CURRENT,debugbuildpanel_scaffold,2624,Scaffold,Byggnadsställning
 CURRENT,debugbuildpanel_interior,2624,Interior,Inredning
@@ -860,6 +755,7 @@ CURRENT,special_dronebatchcollection,2624,Drone Batch Collection,Samling av drö
 CURRENT,special_mininglaseraccuracy,2624,Mining Laser Precision,Laserprecision för gruvdrift
 CURRENT,special_stargatepart1,2624,"Andromeda Project Phases 1, 2","Andromedaprojektet Fas 1, 2"
 CURRENT,special_stargatepart2,2624,Andromeda Project Phase 3,Andromeda-projektet fas 3
+CURRENT,special_stargatepart3,2624,"Andromeda Project Phases 4, 5, 6","Andromedaprojektet Fas 4, 5, 6"
 CURRENT,techtree_editor_save,2624,SAVE CHANGES,SPARA ÄNDRINGAR
 CURRENT,techtree_editor_reset,2624,RELOAD TREE,LADDA OM TRÄD
 CURRENT,techtree_award_title,2624,RESEARCH COMPLETED,FORSKNING SLUTFÖRD
@@ -1603,6 +1499,7 @@ CURRENT,tutorial_powerplaceloader,2624,Stamp the FUEL LOADER down somewhere near
 CURRENT,tutorial_powerselectpipes,2624,"We need to connect the FUEL LOADER to the REACTOR, using a Pipe.\n\nSelect PIPES from the Construction Menu.",Vi måste ansluta bränslelastaren till reaktorn med hjälp av ett rör. \n\nVälj RÖR i konstruktionsmenyn.
 CURRENT,tutorial_powerpipeconnect,2624,"Drag a pipe from the FUEL LOADER to the REACTOR, connecting the yellow pipe circles.\n\nFUEL PIPES are used to connect the output from one piece of equipment into the input of another.\n\nFUEL PIPES are yellow and must connect the yellow circles on equipment.",Dra ett rör från FUEL LOADER till REACTOR och anslut de gula rörcirklarna.\n\nFUEL PIPES används för att ansluta utmatningen från en utrustning till inmatningen på en annan.\n\nFUEL PIPES är gula och måste ansluta de gula cirklarna på utrustningen.
 CURRENT,tutorial_powerreactorpowerup,2624,The REACTOR is starting up.,REACTORN startas upp.
+CURRENT,tutorial_powerreactoractive,2624,The REACTOR is activated! We are now generating power for our station.,REAKTORN är aktiverad! Vi genererar nu ström till vår station.
 CURRENT,tutorial_air_title,2624,OXYGEN,OXYGEN
 CURRENT,tutorial_airinstallairduct,2624,We now need to provide a breathable atmosphere for our crew. This is done with an AIRDUCT.\n\nInstall an AIRDUCT somewhere near the Reactor.,Vi måste nu skapa en atmosfär som besättningen kan andas i. Detta görs med en AIRDUCT.\n\nInstallera en AIRDUCT någonstans i närheten av reaktorn.
 CURRENT,tutorial_aircables,2624,The AIRDUCT needs to be powered from the REACTOR.  Select CABLES from the CONSTRUCTION menu.,AIRDUCT måste strömförsörjas från REACTOR.  Välj CABLES i menyn CONSTRUCTION (KONSTRUKTION).
@@ -2486,6 +2383,7 @@ CURRENT,dsi_part2_objective_mineminerals,2624,Begin mining metallic minerals [*X
 CURRENT,dsi_part2_objective_minecopper,2624,Begin mining copper minerals [*X/100],Påbörja brytning av kopparmineraler [*X/100]
 CURRENT,dsi_part2_objective_copperingots,2624,Begin smelting Copper Ingots [*X/100],Börja smälta koppargöt [*X/100]
 CURRENT,dsi_part2_objective_producemotors,2624,Begin fabricating Motors [*X/100],Börja tillverka motorer [*X/100]
+CURRENT,dsi_part2_objective_installengines,2624,OPTIONAL: Install engines in the A.J.E Industry,VALFRIHET: Installera motorer i A.J.E Industry
 CURRENT,dsi_part2_introcall6,2624,"The second part is a chemical compound they're calling Stargate Resin.  It's synthesised in a Chemical Lab, but we first need huge volumes of Metreon Gas.  It's found only in deep space nebulas.","Den andra delen är en kemisk förening som de kallar Stargate Resin.  Det syntetiseras i ett kemiskt labb, men vi behöver först enorma volymer Metreon Gas.  Den finns bara i nebulosor i rymden."
 CURRENT,dsi_part2_introcall7,2624,"My thinking is to buy a suitable fuselage from a Shipyard, and then convert it into a dedicated gas capture and refining facility.  There's a good ship nearby.  You can buy it on my behalf and then set it up, and we'll drop it off in a rich gas cloud and leave it running.","Min tanke är att köpa en lämplig flygplanskropp från ett skeppsvarv och sedan konvertera den till en dedikerad gasinfångnings- och raffineringsanläggning.  Det finns ett bra skepp i närheten.  Du kan köpa det för min räkning och sedan ställa in det, så släpper vi av det i ett rikt gasmoln och låter det vara igång."
 CURRENT,dsi_part2_objective_buygasfuselage,2624,Buy the Gas Capture fuselage,Köp skrovet till Gas Capture
@@ -2535,15 +2433,6 @@ CURRENT,dsi_part2_scene_z4,2624,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2624,THERE WILL BE NO FURTHER WARNING.,KOMMER DET INTE ATT FINNAS NÅGON YTTERLIGARE VARNING.
 CURRENT,dsi_part2_scene_y7,2624,You've left me no choice.,Du har inte gett mig något val.
 CURRENT,dsi_part2_scene_y8,2624,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Jag kommer efter dig Alexander, och den här gången ber jag inte om 10%. Jag vill ha allt."
-OBSOLETE,trade_autotradecancelled,2675,CANCELLED,AVBOKAD
-OBSOLETE,origin_official,2624,Official,Officiell
-OBSOLETE,origin_community,2624,Community,Gemenskap
-OBSOLETE,origin_user,2624,Player-made,Tillverkad av spelare
-OBSOLETE,origin_steam,2624,Subscribed on Steam Workshop,Prenumeration på Steam Workshop
-OBSOLETE,origin_steamuser,2624,Uploaded to Steam Workshop,Uppladdad till Steam Workshop
-OBSOLETE,special_stargatepart3,2624,"Andromeda Project Phases 4, 5, 6","Andromedaprojektet Fas 4, 5, 6"
-OBSOLETE,tutorial_powerreactoractive,2624,The REACTOR is activated! We are now generating power for our station.,REAKTORN är aktiverad! Vi genererar nu ström till vår station.
-OBSOLETE,dsi_part2_objective_installengines,2624,OPTIONAL: Install engines in the A.J.E Industry,VALFRIHET: Installera motorer i A.J.E Industry
 OBSOLETE,hud_collector_tooltip_totalgathered,2624,TOTAL GATHERED:,TOTALT INSAMLADE:
 OBSOLETE,mission_type_sectorjumpgate,2624,Jumpgate (Secotr),Jumpgate (Secotr)
 OBSOLETE,stargate_newsystems_harken_2,2624,"Unfortunately it seems pirates have gotten to them first, and have set up their own shipyards around the neubidium deposits in the system.","Tyvärr verkar det som om piraterna har fått tag på dem först, och har satt upp sina egna skeppsvarv runt neubidiumfyndigheterna i systemet."

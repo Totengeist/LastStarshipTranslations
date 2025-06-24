@@ -1,120 +1,10 @@
-﻿state,key,svn,english,translation
-NEW,settings_accentinsensitivesearch,2803,Accent Insensitive Search,Akzentunempfindliche Suche
-NEW,settings_accentinsensitivesearch_description,2803,"When searching in lists, ignore accented characters, e.g. ""é"" will match ""e""","Bei der Suche in Listen werden akzentuierte Zeichen ignoriert, z.B. ""é"" entspricht ""e"""
-NEW,settings_translatorassist,2803,"Translator Assist (Ctrl, Alt)","Übersetzer-Hilfe (Strg, Alt)"
-NEW,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.","Aktiviere Funktionen, die den Übersetzern helfen, z. B. Alt, um die englische Sprache anzuzeigen, und Strg, um die Phrasen-Taste anzuzeigen."
-CURRENT,settings_sound,2793,SOUND,SOUND
-CURRENT,settings_appearance,2793,APPEARANCE,APPEARANCE
-CURRENT,settings_keybindings,2793,KEYBOARD,KEYBOARD
-CURRENT,settings_other,2793,OTHER,ANDERE
-CURRENT,settings_uibounce,2793,UI Highlight Bounce,UI Highlight Bounce
-CURRENT,keybinding_title_action,2793,Action,Aktion
-CURRENT,keybinding_title_key,2793,Key,Schlüssel
-CURRENT,keybinding_press_a_key,2793,PRESS A KEY,A TASTE DRÜCKEN
-CURRENT,keybinding_revert,2793,RESET,RESET
-CURRENT,keybinding_panleft1,2793,Pan Left (1),Pan Links (1)
-CURRENT,keybinding_panleft2,2793,Pan Left (2),Pan Links (2)
-CURRENT,keybinding_panright1,2793,Pan Right (1),Schwenken nach rechts (1)
-CURRENT,keybinding_panright2,2793,Pan Right (2),Schwenken nach rechts (2)
-CURRENT,keybinding_pandown1,2793,Pan Down (1),Schwenken nach unten (1)
-CURRENT,keybinding_pandown2,2793,Pan Down (2),Schwenken nach unten (2)
-CURRENT,keybinding_panup1,2793,Pan Up (1),Pan Up (1)
-CURRENT,keybinding_panup2,2793,Pan Up (2),Pan Up (2)
-CURRENT,keybinding_zoomin,2793,Zoom In,Heranzoomen
-CURRENT,keybinding_zoomout,2793,Zoom Out,Herauszoomen
-CURRENT,keybinding_ManoeuvreLeft,2793,Thrust Left,Schubkraft links
-CURRENT,keybinding_ManoeuvreRight,2793,Thrust Right,Schubkraft rechts
-CURRENT,keybinding_ManoeuvreUp,2793,Thrust Up,Schub nach oben
-CURRENT,keybinding_ManoeuvreDown,2793,Thrust Down,Schub nach unten
-CURRENT,keybinding_ManoeuvreClockwise,2793,Thrust Clockwise,Schubkraft im Uhrzeigersinn
-CURRENT,keybinding_ManoeuvreCounterClockwise,2793,Thrust C-Clockwise,Schubkraft C-Linkslauf
-CURRENT,keybinding_toggletactical,2793,Toggle Tactical,Toggle Tactical
-CURRENT,keybinding_togglemap,2793,Toggle Map,Karte umschalten
-CURRENT,keybinding_increasethrust,2793,Engines +,Motoren +
-CURRENT,keybinding_decreasethrust,2793,Engines -,Motoren -
-CURRENT,keybinding_hudscaleup,2793,Increase HUD Scale,HUD-Skala erhöhen
-CURRENT,keybinding_hudscaledown,2793,Decrease HUD Scale,HUD-Skala verkleinern
-CURRENT,keybinding_recentrehome,2793,Recentre Ship,Neuestes Schiff
-CURRENT,keybinding_togglepause,2793,Pause,Pause
-CURRENT,keybinding_gamespeed1,2793,Normal Speed,Normale Geschwindigkeit
-CURRENT,keybinding_gamespeed2,2793,2x Speed,2x Geschwindigkeit
-CURRENT,keybinding_gamespeed3,2793,3x Speed,3x Geschwindigkeit
-CURRENT,keybinding_gamespeed4,2793,4x Speed,4x Geschwindigkeit
-CURRENT,keybinding_gamespeed5,2793,5x Speed,5x Geschwindigkeit
-CURRENT,keybinding_gamespeed6,2793,6x Speed,6x Geschwindigkeit
-CURRENT,keybinding_gamespeed7,2793,7x Speed,7x Geschwindigkeit
-CURRENT,keybinding_gamespeed8,2793,8x Speed,8x Geschwindigkeit
-CURRENT,keybinding_gamespeed9,2793,9x Speed,9x Geschwindigkeit
-CURRENT,keybinding_gamespeed0,2793,Half Speed,Halbe Geschwindigkeit
-CURRENT,keybinding_rotateobject,2793,Rotate Object,Objekt rotieren
-CURRENT,keybinding_takescreenshot,2793,Screenshot (+ {MetaCtrl}),Screenshot (+ {MetaCtrl})
-CURRENT,"keybinding_alttool,",2793,Eye-dropper,Augentropfer
-CURRENT,origin_shipofficial,2793,OFFICIAL SHIPS,OFFIZIELLE SCHIFFE
-CURRENT,origin_shipcommunity,2793,COMMUNITY SHIPS,GEMEINSCHAFTSSCHIFFE
-CURRENT,origin_shipuser,2793,PLAYER-MADE SHIPS,VON SPIELERN GEBAUTE SCHIFFE
-CURRENT,origin_shipsteam,2793,SUBSCRIBED SHIPS ON STEAM WORKSHOP,ABONNIERTE SCHIFFE AUF STEAM WORKSHOP
-CURRENT,origin_shipsteamuser,2793,SHIPS UPLOADED TO STEAM WORKSHOP,SCHIFFE IN DEN STEAM WORKSHOP HOCHGELADEN
-CURRENT,shipeditor_mode_eyedropper,2793,Eyedropper,Eyedropper
-CURRENT,shipeditor_tooltip_eyedropper,2793,"Lets you select a paint from the exterior of your ship (can also be used by pressing the ""Shift"" key)","Ermöglicht es dir, eine Farbe von der Außenseite deines Schiffes auszuwählen (kann auch durch Drücken der ""Shift""-Taste verwendet werden)"
-CURRENT,shipeditor_paint,2793,PAINT,FARBE
-CURRENT,shipeditor_paint_paint,2793,Foreground Paint,Vordergrundfarbe
-CURRENT,shipeditor_paint_erase,2793,Background Paint,Hintergrundfarbe
-CURRENT,shipeditor_paint_name,2793,Paint Name,Farbe Name
-CURRENT,shipeditor_paint_standard,2793,Standard Paint,Standardfarbe
-CURRENT,shipeditor_paint_custom,2793,Custom Paint,Benutzerdefinierte Farbe
-CURRENT,shipeditor_paint_primary,2793,Base Primary,Basis Primär
-CURRENT,shipeditor_paint_secondary,2793,Base Secondary,Basis Sekundär
-CURRENT,shipeditor_paint_detailprimary,2793,Detail Primary,Detail Primär
-CURRENT,shipeditor_paint_detailsecondary,2793,Detail Secondary,Detail Sekundär
-CURRENT,shipeditor_paint_detailtertiary,2793,Detail Tertiary,Detail Tertiär
-CURRENT,shipeditor_palettelibrary_title_import,2793,IMPORT PALETTES,PALETTEN IMPORTIEREN
-CURRENT,shipeditor_palettelibrary_title_export,2793,EXPORT PALETTES,PALETTEN EXPORTIEREN
-CURRENT,shipeditor_palettelibrary_createname,2793,CREATE NEW PALETTE,NEUE PALETTE ERSTELLEN
-CURRENT,shipeditor_palettelibrary_import,2793,IMPORT,IMPORT
-CURRENT,shipeditor_palettelibrary_delete,2793,DELETE,LÖSCHEN
-CURRENT,shipeditor_palettelibrary_confirm,2793,CONFIRM,BESTÄTIGEN
-CURRENT,shipeditor_palettelibrary_cancel,2793,CANCEL,ANNULLIEREN
-CURRENT,shipeditor_palettelibrary_export,2793,EXPORT,EXPORT
-CURRENT,shipeditor_palettelibrary_upload,2793,UPLOAD,UPLOAD
-CURRENT,trade_autotradedisabled,2793,DISABLED IN ORDER MENU,IM BESTELLMENÜ DEAKTIVIERT
-CURRENT,order_autotradeactive,2793,Auto Trade,Autohandel
-CURRENT,object_table,2793,Table,Tabelle
-CURRENT,object_smalltable,2793,Small Table,Kleiner Tisch
-CURRENT,object_chair,2793,Chair,Stuhl
-CURRENT,object_sofa,2793,Sofa,Sofa
-CURRENT,object_potplant,2793,Pot Plant,Topfpflanze
-CURRENT,tutorial_battlestations_title,2793,BATTLE STATIONS,KAMPFSTATIONEN
-CURRENT,tutorial_battlestationsstart,2793,We are now going to learn how to deploy our weapons for combat.\n\nThe game has been paused for now.,"Wir werden jetzt lernen, wie wir unsere Waffen im Kampf einsetzen.\n\nDas Spiel wurde für den Moment pausiert."
-CURRENT,tutorial_battlestationsactivate,2793,BATTLE STATIONS must be activated before your weapons can be used.\n\nThis will tell your crew to prepare for battle!,"KAMPFSTATIONEN müssen aktiviert werden, bevor du deine Waffen einsetzen kannst.\n\nDamit wird deine Mannschaft angewiesen, sich auf den Kampf vorzubereiten!"
-CURRENT,tutorial_battlestationshighlightcrew,2793,Your crew will run to the weapons to deploy them.\n\nGatling guns don't require any crew to deploy them.,"Deine Crew läuft zu den Waffen, um sie einzusetzen.\n\nGatling-Guns benötigen keine Crew, um sie einzusetzen."
-CURRENT,tutorial_battlestationshighlightguns,2793,The gun barrels will begin to extend when they arrive.\n\nWhen the barrels are fully extended they will be ready to fire!,"Die Gewehrläufe beginnen sich auszufahren, wenn sie ankommen.\n\nWenn die Läufe vollständig ausgefahren sind, sind sie schussbereit!"
-CURRENT,tutorial_battlestationssuccess,2793,"Well done, your weapons are now successfully deployed for battle!","Gut gemacht, deine Waffen sind jetzt erfolgreich im Kampf eingesetzt!"
-CURRENT,tutorial_stargatejump_title,2793,STARGATE JUMPING,STERNENTOR SPRINGEN
-CURRENT,tutorial_stargatejumpstart,2793,We are now going to learn how to jump using the newly powered-up Stargate.,"Wir werden jetzt lernen, wie man mit dem neu angeschalteten Stargate springt."
-CURRENT,tutorial_stargatejumpnopower,2793,"The Stargate currently has lost power and needs to be started again.\n\nUse energy transmitters to power the Stargate.\n\nWhen the Stargate is ready, we will try again!","Das Stargate hat momentan keinen Strom mehr und muss neu gestartet werden.\n\nBenutze Energietransmitter, um das Stargate mit Strom zu versorgen.\n\nWenn das Stargate bereit ist, versuchen wir es erneut!"
-CURRENT,tutorial_stargatejumpintro,2793,The Stargate enables travel between different sectors.\n\nThe jump costs a single FTL charge and the Stargate will use more power while a jump is in progress.,"Das Stargate ermöglicht Reisen zwischen verschiedenen Sektoren.\n\nDer Sprung kostet eine einzige FTL-Ladung und das Stargate verbraucht mehr Energie, während ein Sprung stattfindet."
-CURRENT,tutorial_stargatejumpselectsystem,2793,Let's have a look at your ship in the Stargate system.\n\nStargate jumps can only be performed from the Stargate system.,Werfen wir einen Blick auf dein Schiff im Stargate-System.\n\nStargate-Sprünge können nur vom Stargate-System aus durchgeführt werden.
-CURRENT,tutorial_stargatejumpopenftl,2793,"First, let's open the FTL window.",Zuerst öffnen wir das FTL-Fenster.
-CURRENT,tutorial_stargatejumpabortjump,2793,We will need to abort the jump that's currently planned.,"Wir müssen den Sprung, der gerade geplant ist, abbrechen."
-CURRENT,tutorial_stargatejumphighlightalign,2793,"When no jump is planned on the sector map, you can align your fleet for a Stargate jump.","Wenn auf der Sektorkarte kein Sprung geplant ist, kannst du deine Flotte für einen Stargate-Sprung ausrichten."
-CURRENT,tutorial_stargatejumphighlightaligning,2793,Great! The selected ships will now align for the jump.,Super! Die ausgewählten Schiffe werden jetzt für den Sprung ausgerichtet.
-CURRENT,tutorial_stargatejumphighlightjump,2793,Your fleet is ready to jump to the new sector!\n\nYou can come back to this sector by performing another Stargate jump.,"Deine Flotte ist bereit, in den neuen Sektor zu springen!\n\nDu kannst zu diesem Sektor zurückkehren, indem du einen weiteren Stargate-Sprung machst."
-CURRENT,tutorial_stargatejumpsuccess,2793,Well done. You can now jump between sectors!,Gut gemacht! Du kannst jetzt zwischen den Sektoren springen!
-CURRENT,dsi_part2_objective_sellreminder,2793,Sell your manufactured parts to submit them to the Stargate project,"Verkaufe deine hergestellten Teile, um sie dem Stargate-Projekt zu übergeben"
-CURRENT,trade_autotradecancelled,2793,LAST ORDER CANCELLED,LETZTE BESTELLUNG STORNIERT
-CURRENT,special_stargatepart3,2793,"Andromeda Project Phases 4, 5","Andromeda-Projekt Phasen 4, 5"
-CURRENT,tutorial_powerreactoractive,2793,The REACTOR is activated! We are now generating power for our ship.,Der REAKTOR ist aktiviert! Wir erzeugen jetzt Energie für unser Schiff.
-CURRENT,dsi_part2_objective_installengines,2793,OPTIONAL: Install engines in the A.J.E Foundry,OPTIONAL: Installiere Motoren in der A.J.E Gießerei
-CURRENT,origin_official,2793,OFFICIAL,OFFIZIELL
-CURRENT,origin_community,2793,COMMUNITY,GEMEINSCHAFT
-CURRENT,origin_user,2793,PLAYER-MADE,PLAYER-MADE
-CURRENT,origin_steam,2793,SUBSCRIBED ON STEAM WORKSHOP,ABONNIERT AUF STEAM WORKSHOP
-CURRENT,origin_steamuser,2793,UPLOADED TO STEAM WORKSHOP,IN DEN STEAM WORKSHOP HOCHGELADEN
+state,key,svn,english,translation
 CURRENT,settings_exitsaves_tooltip,2675,"When enabled, the current game will be saved when abandoned or when the game is quit in a file called exitsave.\n\nCAUTION: This file will be overwritten on every exit.","Wenn diese Option aktiviert ist, wird das aktuelle Spiel beim Verlassen oder beim Beenden des Spiels in einer Datei namens exitsave.\n\nCAUTION: Diese Datei wird bei jedem Beenden überschrieben."
 CURRENT,settings_dynamiclighting,2675,Use Dynamic Lighting,Dynamische Beleuchtung verwenden
 CURRENT,newmainmenu_exitsaves,2675,Exit-saves,Beenden - speichert
 CURRENT,hud_ftlshipnotviablewarning,2675,Ship needs either hull or scaffolding to be brought into hyperspace,"Das Schiff braucht entweder einen Rumpf oder ein Gerüst, um in den Hyperraum gebracht werden zu können."
 CURRENT,trade_cancelautotrade,2675,CANCEL AUTO-TRADE,AUTOHANDEL ABBRECHEN
+CURRENT,trade_autotradecancelled,2675,CANCELLED,ABGEBROCHEN
 CURRENT,hud_collector_tooltip_totalgathered,2675,TOTAL GATHERED,INSGESAMMT GESAMMELT
 CURRENT,save_cloudsavefailed_header,2639,WARNING: Cloud Save Failed,WARNUNG: Cloud Save fehlgeschlagen
 CURRENT,save_cloudsavefailed_body,2639,"The game failed to save to the cloud, the game has been saved locally instead.\n\nPlease check that you have enough storage in the Steam Cloud and try again.","Das Spiel konnte nicht in der Cloud gespeichert werden. Das Spiel wurde stattdessen lokal gespeichert.\n\nBitte überprüfe, ob du genügend Speicherplatz in der Steam Cloud hast und versuche es erneut."
@@ -619,6 +509,7 @@ CURRENT,special_dronebatchcollection,2383,Drone Batch Collection,Drohnen-Ladunge
 CURRENT,special_mininglaseraccuracy,2383,Mining Laser Precision,Bergbau-Laserpräzision
 CURRENT,special_stargatepart1,2383,"Andromeda Project Phases 1, 2","Andromeda-Projekt Phasen 1, 2"
 CURRENT,special_stargatepart2,2383,Andromeda Project Phase 3,Andromeda-Projekt Phase 3
+CURRENT,special_stargatepart3,2383,"Andromeda Project Phases 4, 5, 6","Andromeda-Projekt Phasen 4, 5, 6"
 CURRENT,techtree_editor_save,2383,SAVE CHANGES,ÄNDERUNGEN SPEICHERN
 CURRENT,techtree_editor_reset,2383,RELOAD TREE,BAUM NEU LADEN
 CURRENT,techtree_award_title,2383,RESEARCH COMPLETED,FORSCHUNG ABGESCHLOSSEN
@@ -729,6 +620,7 @@ CURRENT,tutorial_powerplaceloader,2383,Stamp the FUEL LOADER down somewhere near
 CURRENT,tutorial_powerselectpipes,2383,"We need to connect the FUEL LOADER to the REACTOR, using a Pipe.\n\nSelect PIPES from the Construction Menu.",Wir müssen den KRAFTSTOFFLADER über ein Rohr mit dem REAKTOR verbinden.\n\nWählen Sie ROHRE aus dem Konstruktionsmenü.
 CURRENT,tutorial_powerpipeconnect,2383,"Drag a pipe from the FUEL LOADER to the REACTOR, connecting the yellow pipe circles.\n\nFUEL PIPES are used to connect the output from one piece of equipment into the input of another.\n\nFUEL PIPES are yellow and must connect the yellow circles on equipment.","Ziehen Sie ein Rohr vom KRAFTSTOFFLADER zum REAKTOR und verbinden Sie die gelben Rohrkreise.\n\nKRAFTSTOFFROHRE werden verwendet, um den Ausgang eines Geräts mit dem Eingang eines anderen zu verbinden.\n\nKRAFTSTOFFROHRE sind gelb und müssen mit den gelben Kreisen an der Ausrüstung verbunden werden."
 CURRENT,tutorial_powerreactorpowerup,2383,The REACTOR is starting up.,Der REAKTOR startet.
+CURRENT,tutorial_powerreactoractive,2383,The REACTOR is activated! We are now generating power for our station.,Der REAKTOR ist aktiviert! Wir erzeugen jetzt Strom für unser Schiff.
 CURRENT,tutorial_air_title,2383,OXYGEN,SAUERSTOFF
 CURRENT,tutorial_airinstallairduct,2383,We now need to provide a breathable atmosphere for our crew. This is done with an AIRDUCT.\n\nInstall an AIRDUCT somewhere near the Reactor.,Wir müssen unserer Crew nun eine atembare Atmosphäre bieten. Dies geschieht mit einer LÜFTUNGSANLAGE.\n\nInstallieren Sie irgendwo in der Nähe des Reaktors eine LÜFTUNGSANLAGE.
 CURRENT,tutorial_aircables,2383,The AIRDUCT needs to be powered from the REACTOR.  Select CABLES from the CONSTRUCTION menu.,Die LÜFTUNGSANLAGE muss vom REACTOR mit Strom versorgt werden. Wählen Sie KABEL aus dem Menü KONSTRUKTION.
@@ -1506,6 +1398,7 @@ CURRENT,dsi_part2_objective_mineminerals,2383,Begin mining metallic minerals [*X
 CURRENT,dsi_part2_objective_minecopper,2383,Begin mining copper minerals [*X/100],Beginnen Sie mit dem Abbau von Kupfermineralien [*X/100]
 CURRENT,dsi_part2_objective_copperingots,2383,Begin smelting Copper Ingots [*X/100],Beginnen Sie mit dem Schmelzen von Kupferbarren [*X/100]
 CURRENT,dsi_part2_objective_producemotors,2383,Begin fabricating Motors [*X/100],Beginnen Sie mit der Herstellung von Motoren [*X/100]
+CURRENT,dsi_part2_objective_installengines,2383,OPTIONAL: Install engines in the A.J.E Industry,OPTIONAL: Installieren Sie Motoren in der A.J.E-Industrie
 CURRENT,dsi_part2_introcall6,2383,"The second part is a chemical compound they're calling Stargate Resin.  It's synthesised in a Chemical Lab, but we first need huge volumes of Metreon Gas.  It's found only in deep space nebulas.","Der zweite Teil ist eine chemische Verbindung, die sie STERNENTOR Resin nennen. Es wird in einem Chemielabor synthetisiert, aber wir benötigen zunächst große Mengen Metreongas. Es kommt nur in tiefen Weltraumnebeln vor."
 CURRENT,dsi_part2_introcall7,2383,"My thinking is to buy a suitable fuselage from a Shipyard, and then convert it into a dedicated gas capture and refining facility.  There's a good ship nearby.  You can buy it on my behalf and then set it up, and we'll drop it off in a rich gas cloud and leave it running.","Ich denke darüber nach, einen geeigneten Rumpf von einer Werft zu kaufen und ihn dann in eine spezielle Anlage zur Gasabscheidung und -aufbereitung umzuwandeln. In der Nähe liegt ein gutes Schiff. Sie können es in meinem Namen kaufen und dann einrichten, und wir lassen es in einer reichen Gaswolke absetzen und lassen es laufen."
 CURRENT,dsi_part2_objective_buygasfuselage,2383,Buy the Gas Capture fuselage,Kaufen Sie den Gas Capture-Rumpf
@@ -1757,6 +1650,11 @@ CURRENT,newmainmenu_lockedindemo,2383,LOCKED IN DEMO,IN DER DEMO GESPERRT
 CURRENT,scenario_funds,2383,FUNDS,FINANZMITTEL
 CURRENT,scenario_largelogistics,2383,"A modular and easily expanded ship design, ideal for interstellar logistics and mining operations. With cabin space for over 50 crew or passengers.",Dieses Schiff ist modular konzipiert und somit leicht erweiterbar. Es ist perfekt für interstellare Logistik und Ressourcengewinnung geeignet. Die Kabine eignet sich für mehr als 50 Crewmitglieder oder Passagiere.
 CURRENT,scenario_industry,2383,The Stargate Project demands your help! Industry and Automation take centre stage as you manufacture parts for a megaproject stargate to the Andromeda Galaxy.,"Das Projekt Sternentor braucht deine Unterstützung! Du fertigst Teile für das Megaprojekt Sternentor, mit dem du zur Andromeda-Galaxie gelangen willst. Im Mittelpunkt des Fertigungsprozesses stehen Industrie und Automatisierung."
+CURRENT,origin_official,2383,Official,Offiziell
+CURRENT,origin_community,2383,Community,Community
+CURRENT,origin_user,2383,Player-made,Von Spielern erstellt
+CURRENT,origin_steam,2383,Subscribed on Steam Workshop,Im Steam Workshop abonniert
+CURRENT,origin_steamuser,2383,Uploaded to Steam Workshop,Zum Steam Workshop hochgeladen
 CURRENT,debugbuildpanel_hull,2383,Hull,Hülle
 CURRENT,debugbuildpanel_scaffold,2383,Scaffold,Gerüst
 CURRENT,debugbuildpanel_interior,2383,Interior,Innen
@@ -2536,15 +2434,6 @@ CURRENT,recipe_created_in,2383,Created in *X,Fertigung in: *X
 CURRENT,recipe_duration,2383,Duration: *X seconds,Dauer: *X Sekunden
 CURRENT,recipe_quantity_required,2383,*X x *Y,*X x *Y
 CURRENT,smelt_title,2383,Smelt *X,*X schmelzen
-OBSOLETE,trade_autotradecancelled,2675,CANCELLED,ABGEBROCHEN
-OBSOLETE,special_stargatepart3,2383,"Andromeda Project Phases 4, 5, 6","Andromeda-Projekt Phasen 4, 5, 6"
-OBSOLETE,tutorial_powerreactoractive,2383,The REACTOR is activated! We are now generating power for our station.,Der REAKTOR ist aktiviert! Wir erzeugen jetzt Strom für unser Schiff.
-OBSOLETE,dsi_part2_objective_installengines,2383,OPTIONAL: Install engines in the A.J.E Industry,OPTIONAL: Installieren Sie Motoren in der A.J.E-Industrie
-OBSOLETE,origin_official,2383,Official,Offiziell
-OBSOLETE,origin_community,2383,Community,Community
-OBSOLETE,origin_user,2383,Player-made,Von Spielern erstellt
-OBSOLETE,origin_steam,2383,Subscribed on Steam Workshop,Im Steam Workshop abonniert
-OBSOLETE,origin_steamuser,2383,Uploaded to Steam Workshop,Zum Steam Workshop hochgeladen
 OBSOLETE,hud_collector_tooltip_totalgathered,2624,TOTAL GATHERED:,INSGESAMT GESAMMELT:
 OBSOLETE,mission_type_sectorjumpgate,2624,Jumpgate (Secotr),Sprungtor (Secotr)
 OBSOLETE,stargate_newsystems_harken_2,2624,"Unfortunately it seems pirates have gotten to them first, and have set up their own shipyards around the neubidium deposits in the system.",Leider scheinen die Piraten ihnen zuvorgekommen zu sein und haben ihre eigenen Schiffswerften rund um die Neubidium-Vorkommen im System errichtet.

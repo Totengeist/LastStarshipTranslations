@@ -1,120 +1,10 @@
-﻿state,key,svn,english,translation
-NEW,settings_accentinsensitivesearch,2803,Accent Insensitive Search,
-NEW,settings_accentinsensitivesearch_description,2803,"When searching in lists, ignore accented characters, e.g. ""é"" will match ""e""",
-NEW,settings_translatorassist,2803,"Translator Assist (Ctrl, Alt)",
-NEW,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.",
-CURRENT,settings_sound,2793,SOUND,KALAMA
-CURRENT,settings_appearance,2793,APPEARANCE,NASIN LUKIN
-CURRENT,settings_keybindings,2793,KEYBOARD,ILO NENA
-CURRENT,settings_other,2793,OTHER,ANTE
-CURRENT,settings_uibounce,2793,UI Highlight Bounce,suno tawa pi ijo suli UI
-CURRENT,keybinding_title_action,2793,Action,pali
-CURRENT,keybinding_title_key,2793,Key,nena
-CURRENT,keybinding_press_a_key,2793,PRESS A KEY,O LUKA E NENA
-CURRENT,keybinding_revert,2793,RESET,O SIN
-CURRENT,keybinding_panleft1,2793,Pan Left (1),o lukin tawa nasin mun (1)
-CURRENT,keybinding_panleft2,2793,Pan Left (2),o lukin tawa nasin mun (2)
-CURRENT,keybinding_panright1,2793,Pan Right (1),o lukin tawa nasin tomo (1)
-CURRENT,keybinding_panright2,2793,Pan Right (2),o lukin tawa nasin tomo (2)
-CURRENT,keybinding_pandown1,2793,Pan Down (1),o lukin tawa nasin anpa (1)
-CURRENT,keybinding_pandown2,2793,Pan Down (2),o lukin tawa nasin anpa (2)
-CURRENT,keybinding_panup1,2793,Pan Up (1),o lukin tawa nasin sewi (1)
-CURRENT,keybinding_panup2,2793,Pan Up (2),o lukin tawa nasin sewi (2)
-CURRENT,keybinding_zoomin,2793,Zoom In,o lukin pi poka mute
-CURRENT,keybinding_zoomout,2793,Zoom Out,o lukin pi poka lili
-CURRENT,keybinding_ManoeuvreLeft,2793,Thrust Left,o tawa nasin mun
-CURRENT,keybinding_ManoeuvreRight,2793,Thrust Right,o tawa nasin tomo
-CURRENT,keybinding_ManoeuvreUp,2793,Thrust Up,o tawa nasin sewi
-CURRENT,keybinding_ManoeuvreDown,2793,Thrust Down,o tawa nasin anpa
-CURRENT,keybinding_ManoeuvreClockwise,2793,Thrust Clockwise,o tawa sike lon nasin pi ilo tenpo
-CURRENT,keybinding_ManoeuvreCounterClockwise,2793,Thrust C-Clockwise,o tawa sike lon nasin ante pi ilo tenpo
-CURRENT,keybinding_toggletactical,2793,Toggle Tactical,o len (anu ala) e nasin utala
-CURRENT,keybinding_togglemap,2793,Toggle Map,o len (anu ala) e sitelen ma
-CURRENT,keybinding_increasethrust,2793,Engines +,ilo pi wawa tawa +
-CURRENT,keybinding_decreasethrust,2793,Engines -,ilo pi wawa tawa -
-CURRENT,keybinding_hudscaleup,2793,Increase HUD Scale,o suli e sitelen HUD
-CURRENT,keybinding_hudscaledown,2793,Decrease HUD Scale,o lili e sitelen HUD
-CURRENT,keybinding_recentrehome,2793,Recentre Ship,o meso lukin e ilo tawa sina
-CURRENT,keybinding_togglepause,2793,Pause,tenpo pini
-CURRENT,keybinding_gamespeed1,2793,Normal Speed,tenpo nasin
-CURRENT,keybinding_gamespeed2,2793,2x Speed,tenpo pi wawa 2x
-CURRENT,keybinding_gamespeed3,2793,3x Speed,tenpo pi wawa 3x
-CURRENT,keybinding_gamespeed4,2793,4x Speed,tenpo pi wawa 4x
-CURRENT,keybinding_gamespeed5,2793,5x Speed,tenpo pi wawa 5x
-CURRENT,keybinding_gamespeed6,2793,6x Speed,tenpo pi wawa 6x
-CURRENT,keybinding_gamespeed7,2793,7x Speed,tenpo pi wawa 7x
-CURRENT,keybinding_gamespeed8,2793,8x Speed,tenpo pi wawa 8x
-CURRENT,keybinding_gamespeed9,2793,9x Speed,tenpo pi wawa 9x
-CURRENT,keybinding_gamespeed0,2793,Half Speed,tenpo pi wawa meso
-CURRENT,keybinding_rotateobject,2793,Rotate Object,o tawa sike e ijo
-CURRENT,keybinding_takescreenshot,2793,Screenshot (+ {MetaCtrl}),o kama jo e sitelen (+ {MetaCtrl})
-CURRENT,"keybinding_alttool,",2793,Eye-dropper,ilo lanpan kule sitelen
-CURRENT,origin_shipofficial,2793,OFFICIAL SHIPS,ILO TAWA NASIN
-CURRENT,origin_shipcommunity,2793,COMMUNITY SHIPS,ILO TAWA TAN KULUPU JAN
-CURRENT,origin_shipuser,2793,PLAYER-MADE SHIPS,ILO TAWA SINA
-CURRENT,origin_shipsteam,2793,SUBSCRIBED SHIPS ON STEAM WORKSHOP,ILO TAWA TAN TOMO PALI STEAM
-CURRENT,origin_shipsteamuser,2793,SHIPS UPLOADED TO STEAM WORKSHOP,ILO TAWA SINA LON TOMO PALI STEAM
-CURRENT,shipeditor_mode_eyedropper,2793,Eyedropper,ilo lanpan kule sitelen
-CURRENT,shipeditor_tooltip_eyedropper,2793,"Lets you select a paint from the exterior of your ship (can also be used by pressing the ""Shift"" key)","ilo ni li kama jo e kule tan selo pi ilo tawa sina. kin la sina ken kepeken nena ""Shift""."
-CURRENT,shipeditor_paint,2793,PAINT,KULE
-CURRENT,shipeditor_paint_paint,2793,Foreground Paint,kule sinpin
-CURRENT,shipeditor_paint_erase,2793,Background Paint,kule monsi
-CURRENT,shipeditor_paint_name,2793,Paint Name,nimi kule
-CURRENT,shipeditor_paint_standard,2793,Standard Paint,kule nasin
-CURRENT,shipeditor_paint_custom,2793,Custom Paint,kule pi wile sina
-CURRENT,shipeditor_paint_primary,2793,Base Primary,kule suli nanpa wan
-CURRENT,shipeditor_paint_secondary,2793,Base Secondary,kule suli nanpa tu
-CURRENT,shipeditor_paint_detailprimary,2793,Detail Primary,kule lili nanpa wan
-CURRENT,shipeditor_paint_detailsecondary,2793,Detail Secondary,kule lili nanpa tu
-CURRENT,shipeditor_paint_detailtertiary,2793,Detail Tertiary,kule lili nanpa tu wan
-CURRENT,shipeditor_palettelibrary_title_import,2793,IMPORT PALETTES,O KAMA JO E KULUPU KULE
-CURRENT,shipeditor_palettelibrary_title_export,2793,EXPORT PALETTES,O PANA E KULUPU KULE
-CURRENT,shipeditor_palettelibrary_createname,2793,CREATE NEW PALETTE,O PALI E KULUPU KULE SIN
-CURRENT,shipeditor_palettelibrary_import,2793,IMPORT,O KAMA
-CURRENT,shipeditor_palettelibrary_delete,2793,DELETE,O JAKI
-CURRENT,shipeditor_palettelibrary_confirm,2793,CONFIRM,PONA
-CURRENT,shipeditor_palettelibrary_cancel,2793,CANCEL,O WEKA
-CURRENT,shipeditor_palettelibrary_export,2793,EXPORT,O PANA TAWA LIPU
-CURRENT,shipeditor_palettelibrary_upload,2793,UPLOAD,O PANA TAWA ILO ANTE
-CURRENT,trade_autotradedisabled,2793,DISABLED IN ORDER MENU,KEN ALA LON LIPU NI
-CURRENT,order_autotradeactive,2793,Auto Trade,ESUN ILO
-CURRENT,object_table,2793,Table,supa
-CURRENT,object_smalltable,2793,Small Table,supa lili
-CURRENT,object_chair,2793,Chair,supa monsi
-CURRENT,object_sofa,2793,Sofa,supa pi monsi mute
-CURRENT,object_potplant,2793,Pot Plant,kasi poki
-CURRENT,tutorial_battlestations_title,2793,BATTLE STATIONS,POKI JAN UTALA
-CURRENT,tutorial_battlestationsstart,2793,We are now going to learn how to deploy our weapons for combat.\n\nThe game has been paused for now.,tenpo ni la o kama sona e nasin open pi ilo utala.\n\ntenpo li tawa ala lon tenpo ni.
-CURRENT,tutorial_battlestationsactivate,2793,BATTLE STATIONS must be activated before your weapons can be used.\n\nThis will tell your crew to prepare for battle!,sina wile kepeken ilo utala la jan li wile lon POKI JAN UTALA.\n\nni li toki e ni tawa jan: o ken utala!
-CURRENT,tutorial_battlestationshighlightcrew,2793,Your crew will run to the weapons to deploy them.\n\nGatling guns don't require any crew to deploy them.,jan li tawa ilo utala li open e ken utala ona.\n\nilo utala Gatling li wile ala e jan.
-CURRENT,tutorial_battlestationshighlightguns,2793,The gun barrels will begin to extend when they arrive.\n\nWhen the barrels are fully extended they will be ready to fire!,"kama jan la, palisa pi ilo utala li open tawa tan sinpin.\n\npini tawa palisa la ilo li ken utala!"
-CURRENT,tutorial_battlestationssuccess,2793,"Well done, your weapons are now successfully deployed for battle!",pona. ilo utala li ken utala.
-CURRENT,tutorial_stargatejump_title,2793,STARGATE JUMPING,TAWA SULI PI LUPA MUN
-CURRENT,tutorial_stargatejumpstart,2793,We are now going to learn how to jump using the newly powered-up Stargate.,tenpo ni la sina kama sona e nasin pi tawa suli kepeken lupa mun pi wawa sin.
-CURRENT,tutorial_stargatejumpnopower,2793,"The Stargate currently has lost power and needs to be started again.\n\nUse energy transmitters to power the Stargate.\n\nWhen the Stargate is ready, we will try again!",lupa mun la wawa li weka. ona li wile open sin.\n\no wawa e lupa mun kepeken ilo pi pana wawa.\n\nlupa li jo e wawa la o open sin!
-CURRENT,tutorial_stargatejumpintro,2793,The Stargate enables travel between different sectors.\n\nThe jump costs a single FTL charge and the Stargate will use more power while a jump is in progress.,"lupa mun la jan li ken tawa kipisi ante pi ma mun.\n\ntawa suli li wile e poki wawa pi tawa suli. tenpo pi tawa suli la, lupa mun li kepeken wawa mute."
-CURRENT,tutorial_stargatejumpselectsystem,2793,Let's have a look at your ship in the Stargate system.\n\nStargate jumps can only be performed from the Stargate system.,o lukin e ilo tawa sina lon ma poka pi lupa mun.\n\ntawa suli pi lupa mun li ken open lon ma ni taso.
-CURRENT,tutorial_stargatejumpopenftl,2793,"First, let's open the FTL window.","nanpa wan la, o open e lipu pi tawa suli."
-CURRENT,tutorial_stargatejumpabortjump,2793,We will need to abort the jump that's currently planned.,wile lon pi tawa suli li lon. o weka e ni.
-CURRENT,tutorial_stargatejumphighlightalign,2793,"When no jump is planned on the sector map, you can align your fleet for a Stargate jump.","wile lon pi tawa suli li lon ala la, sina ken tawa sike e kulupu sina tawa nasin wile pi tawa suli sin kepeken lupa mun."
-CURRENT,tutorial_stargatejumphighlightaligning,2793,Great! The selected ships will now align for the jump.,pona!  ilo tawa pi wile wina li tawa sike tawa nasin pi tawa suli lon tenpo ni.
-CURRENT,tutorial_stargatejumphighlightjump,2793,Your fleet is ready to jump to the new sector!\n\nYou can come back to this sector by performing another Stargate jump.,tenpo ni la kulupu sina li ken tawa suli tawa kipisi ma mun ante!\n\nsina ken kama sin tawa ma ni kepeken tawa suli ante pi lupa mun.
-CURRENT,tutorial_stargatejumpsuccess,2793,Well done. You can now jump between sectors!,pona. tenpo ni la sina ken tawa kipisi ma mun ante!
-CURRENT,dsi_part2_objective_sellreminder,2793,Sell your manufactured parts to submit them to the Stargate project,o pana esun e ilo tan pali sina. ni li pana e ona tawa pali suli pi lupa mun.
-CURRENT,trade_autotradecancelled,2793,LAST ORDER CANCELLED,ESUN ILO PINI POKA LI WEKA
-CURRENT,origin_official,2793,OFFICIAL,TAN JAN PALI
-CURRENT,origin_community,2793,COMMUNITY,TAN KULUPU PI JAN MUSI
-CURRENT,origin_user,2793,PLAYER-MADE,TAN SINA
-CURRENT,origin_steam,2793,SUBSCRIBED ON STEAM WORKSHOP,TAN ESUN STEAM WORKSHOP
-CURRENT,origin_steamuser,2793,UPLOADED TO STEAM WORKSHOP,SINA PANA TAWA ESUN STEAM WORKSHOP
-CURRENT,special_stargatepart3,2793,"Andromeda Project Phases 4, 5",kipisi nanpa tu tu en luka pi pali sule Antometa
-CURRENT,tutorial_powerreactoractive,2793,The REACTOR is activated! We are now generating power for our ship.,ILO WAWA li open! tenpo ni la ona li pana e wawa tawa ilo tawa.
-CURRENT,dsi_part2_objective_installengines,2793,OPTIONAL: Install engines in the A.J.E Foundry,KEN: o pana e ilo pi wawa tawa lon tomo A.J.E Foundry
+state,key,svn,english,translation
 CURRENT,settings_exitsaves_tooltip,2675,"When enabled, the current game will be saved when abandoned or when the game is quit in a file called exitsave.\n\nCAUTION: This file will be overwritten on every exit.","wile ni la, sina weka anu pini tan musi la, musi li awen lon lipu pi nimi ""exitsave"".\n\nO SONA: pini musi ale li sitelen sin e lipu ni pi awen musi."
 CURRENT,settings_dynamiclighting,2675,Use Dynamic Lighting,o kepeken nasin suno pi kama ante
 CURRENT,newmainmenu_exitsaves,2675,Exit-saves,awen musi pi tawa weka
 CURRENT,hud_ftlshipnotviablewarning,2675,Ship needs either hull or scaffolding to be brought into hyperspace,"wile pi tawa suli la, ilo tawa li wile e selo kiwen anu palisa sijelo ilo"
 CURRENT,trade_cancelautotrade,2675,CANCEL AUTO-TRADE,O WEKA E ESUN ILO
+CURRENT,trade_autotradecancelled,2675,CANCELLED,WEKA
 CURRENT,hud_collector_tooltip_totalgathered,2675,TOTAL GATHERED,MUTE TAN ALASA
 CURRENT,alert_type_autotradeinactive_tooltip,2639,One or more of your auto-orders have been made inactive. This may be because you owe a large payment to X.,esun ilo sina la wan anu mute li ken ala. ni li ken tan ni: sina wile pana e mani mute tawa X.
 CURRENT,save_cloudsavefailed_header,2639,WARNING: Cloud Save Failed,O SONA: awen musi li pakala
@@ -655,6 +545,11 @@ CURRENT,scenario_value,2448,Value: $*X,mani: $*X
 CURRENT,scenario_habitation,2448,Cabins: *X,tomo jan: *X
 CURRENT,scenario_armour,2448,Armour: *X%,selo: *X%
 CURRENT,scenario_noarmour,2448,Armour: None,selo: Ninguno
+CURRENT,origin_official,2448,Official,tan jan pali
+CURRENT,origin_community,2448,Community,tan kulupu pi jan musi
+CURRENT,origin_user,2448,Player-made,jan musi li mama
+CURRENT,origin_steam,2448,Subscribed on Steam Workshop,sina kute lon esun Steam Workshop
+CURRENT,origin_steamuser,2448,Uploaded to Steam Workshop,sina pana tawa esun Steam Workshop
 CURRENT,debugbuildpanel_hull,2448,Hull,selo
 CURRENT,debugbuildpanel_scaffold,2448,Scaffold,palisa
 CURRENT,debugbuildpanel_interior,2448,Interior,insa
@@ -1051,6 +946,7 @@ CURRENT,special_dronebatchcollection,2448,Drone Batch Collection,ilo tawa ilo la
 CURRENT,special_mininglaseraccuracy,2448,Mining Laser Precision,pona alasa kiwen suno
 CURRENT,special_stargatepart1,2448,"Andromeda Project Phases 1, 2",kipisi nanpa wan en tu pi pali sule Antometa
 CURRENT,special_stargatepart2,2448,Andromeda Project Phase 3,kipisi nanpa tu wan pi pali sule Antometa
+CURRENT,special_stargatepart3,2448,"Andromeda Project Phases 4, 5, 6",kipisi nanpa tu tu en luka en luka wan pi pali sule Antometa
 CURRENT,techtree_editor_save,2448,SAVE CHANGES,O AWEN E ANTE
 CURRENT,techtree_editor_reset,2448,RELOAD TREE,O SIN E KASI
 CURRENT,techtree_award_title,2448,RESEARCH COMPLETED,KAMA SONA LI PINI
@@ -1719,6 +1615,7 @@ CURRENT,tutorial_powerplaceloader,2448,Stamp the FUEL LOADER down somewhere near
 CURRENT,tutorial_powerselectpipes,2448,"We need to connect the FUEL LOADER to the REACTOR, using a Pipe.\n\nSelect PIPES from the Construction Menu.",sina wile wan e ILO TAWA TELO WAWA e ILO WAWA kepeken nasin lupa.\n\no wile e NASIN LUPA tan lipu pali.
 CURRENT,tutorial_powerpipeconnect,2448,"Drag a pipe from the FUEL LOADER to the REACTOR, connecting the yellow pipe circles.\n\nFUEL PIPES are used to connect the output from one piece of equipment into the input of another.\n\nFUEL PIPES are yellow and must connect the yellow circles on equipment.",o sitelen e nasin lupa tan ILO TAWA TELO WAWA tawa ILO WAWA. o wan e sike jelo.\n\nNASIN LUPA PI TELO WAWA li wan e lupa weka pi ilo wan e lupa kama pi ilo ante.\n\nNASIN LUPA li jelo li wile luka e sike jelo lon ilo.
 CURRENT,tutorial_powerreactorpowerup,2448,The REACTOR is starting up.,ILO TAWA li open pali.
+CURRENT,tutorial_powerreactoractive,2448,The REACTOR is activated! We are now generating power for our station.,ILO TAWA li pali! tenpo ni la ilo li pana e wawa tawa tomo.
 CURRENT,tutorial_air_title,2448,OXYGEN,KON PONA
 CURRENT,tutorial_airinstallairduct,2448,We now need to provide a breathable atmosphere for our crew. This is done with an AIRDUCT.\n\nInstall an AIRDUCT somewhere near the Reactor.,tenpo ni la sina wile pana e kon pona tawa jan. ni li kepeken NASIN LUPA KON.\n\no pana e NASIN LUPA KON lon poka pi ilo wawa.
 CURRENT,tutorial_aircables,2448,The AIRDUCT needs to be powered from the REACTOR.  Select CABLES from the CONSTRUCTION menu.,NASIN LUPA KON li wile e wawa tan ILO WAWA. o wile e LINJA WAWA tan lipu PALI.
@@ -2494,6 +2391,7 @@ CURRENT,dsi_part2_objective_mineminerals,2448,Begin mining metallic minerals [*X
 CURRENT,dsi_part2_objective_minecopper,2448,Begin mining copper minerals [*X/100],o open alasa kiwen pi kiwen suno loje [*X/100]
 CURRENT,dsi_part2_objective_copperingots,2448,Begin smelting Copper Ingots [*X/100],o open pali e leko kiwen suno loje [*X/100]
 CURRENT,dsi_part2_objective_producemotors,2448,Begin fabricating Motors [*X/100],o open pali e ilo pi tawa sike [*X/100]
+CURRENT,dsi_part2_objective_installengines,2448,OPTIONAL: Install engines in the A.J.E Industry,KEN: o pana e ilo pi wawa tawa lon tomo A.J.E Industry
 CURRENT,dsi_part2_introcall6,2448,"The second part is a chemical compound they're calling Stargate Resin.  It's synthesised in a Chemical Lab, but we first need huge volumes of Metreon Gas.  It's found only in deep space nebulas.",ijo wile nanpa tu li ko pi lupa mun.  ona li kama tan supa pali pi sona seli.  taso open la mi wile e kon Metejan mute.  ona li lon kon ko taso pi ma mun weka.
 CURRENT,dsi_part2_introcall7,2448,"My thinking is to buy a suitable fuselage from a Shipyard, and then convert it into a dedicated gas capture and refining facility.  There's a good ship nearby.  You can buy it on my behalf and then set it up, and we'll drop it off in a rich gas cloud and leave it running.",mi pilin e ni: o esun e tomo tawa tan ma pali pi tomo tawa.  o ante e ona tawa tomo pali ni: alasa kon Metejan en pali pona kon Metejan.  tomo tawa pona li lon poka.  sina ken esun e ona sama mi.  o open a nasin pali ona.  ni la mi pana e ona lon kon ko mun pona li awen pali e ona.
 CURRENT,dsi_part2_objective_buygasfuselage,2448,Buy the Gas Capture fuselage,o esun e tomo tawa pi alasa kon
@@ -2536,15 +2434,6 @@ CURRENT,dsi_part2_scene_z4,2448,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2448,THERE WILL BE NO FURTHER WARNING.,TOKI NAMAKO LI KAMA ALA.
 CURRENT,dsi_part2_scene_y7,2448,You've left me no choice.,sina pana e ken ante ala tawa mi.
 CURRENT,dsi_part2_scene_y8,2448,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","mi kama tawa sina, jan Alesantejemelisa o.  tenpo ni la mi wile ala e kipisi 10% taso."
-OBSOLETE,trade_autotradecancelled,2675,CANCELLED,WEKA
-OBSOLETE,origin_official,2448,Official,tan jan pali
-OBSOLETE,origin_community,2448,Community,tan kulupu pi jan musi
-OBSOLETE,origin_user,2448,Player-made,jan musi li mama
-OBSOLETE,origin_steam,2448,Subscribed on Steam Workshop,sina kute lon esun Steam Workshop
-OBSOLETE,origin_steamuser,2448,Uploaded to Steam Workshop,sina pana tawa esun Steam Workshop
-OBSOLETE,special_stargatepart3,2448,"Andromeda Project Phases 4, 5, 6",kipisi nanpa tu tu en luka en luka wan pi pali sule Antometa
-OBSOLETE,tutorial_powerreactoractive,2448,The REACTOR is activated! We are now generating power for our station.,ILO TAWA li pali! tenpo ni la ilo li pana e wawa tawa tomo.
-OBSOLETE,dsi_part2_objective_installengines,2448,OPTIONAL: Install engines in the A.J.E Industry,KEN: o pana e ilo pi wawa tawa lon tomo A.J.E Industry
 OBSOLETE,hud_collector_tooltip_totalgathered,2624,TOTAL GATHERED:,MUTE TAN ALASA:
 OBSOLETE,mission_type_sectorjumpgate,2624,Jumpgate (Secotr),lupa pi tawa suli (kipsi ma mun)
 OBSOLETE,stargate_newsystems_harken_2,2624,"Unfortunately it seems pirates have gotten to them first, and have set up their own shipyards around the neubidium deposits in the system.",ike la jan ike lanpan li kama lon tenpo pini. ona li jo e ma pali pi ilo tawa lon poka pi kiwen Nupisijan.
