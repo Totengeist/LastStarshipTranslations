@@ -1045,7 +1045,7 @@ CURRENT,techtree_editor_reset,2448,RELOAD TREE,RECHARGER L'ARBRE
 CURRENT,techtree_award_title,2448,RESEARCH COMPLETED,RECHERCHE TERMINÉE
 CURRENT,award_rewards,2448,Rewards,Récompenses
 CURRENT,tactical_docked,2448,--- DOCKED ---,--- ARRÊTÉ ---
-CURRENT,tactical_undock,2448,UNDOCK,DÉSOCKER
+CURRENT,tactical_undock,2448,UNDOCK,SE DÉCROCHER
 CURRENT,tactical_throttle,2448,THROTTLE,ÉTRANGLER
 CURRENT,tactical_detach_all,2448,DETACH ALL,DÉTACHER TOUT
 CURRENT,tactical_velocity,2448,VELOCITY,VITESSE
@@ -1065,7 +1065,7 @@ CURRENT,orders_logistics,2448,LOGISTICS,LOGISTIQUE
 CURRENT,orders_crew,2448,CREW,ÉQUIPAGE
 CURRENT,orders_doors,2448,DOORS,PORTES
 CURRENT,order_none,2448,None,Aucun
-CURRENT,order_salvage,2448,Gather Salvage,Rassembler la récupération
+CURRENT,order_salvage,2448,Gather Salvage,Récupérer les cargaissons
 CURRENT,order_gather,2448,Gather Materials,Rassembler des matériaux
 CURRENT,order_repairhull,2448,Repair Hull,Réparer la coque
 CURRENT,order_shiftwork,2448,Shift Work,Travail posté
@@ -1125,7 +1125,7 @@ CURRENT,mission_difficulty,2448,This mission has been assigned a difficulty rati
 CURRENT,mission_difficulty_short,2448,DIFFICULTY *X,DIFFICULTÉ *X
 CURRENT,mission_requirement_passed,2448,[PASSED],[PASSÉ]
 CURRENT,mission_requirement_failed,2448,[FAILED],[ÉCHOUÉ]
-CURRENT,mission_show_completed,2448,SHOW COMPLETED,SPECTACLE TERMINÉ
+CURRENT,mission_show_completed,2448,SHOW COMPLETED,VOIR LES MISSIONS TERMINÉES
 CURRENT,mission_type_delivery,2448,Delivery,Livraison
 CURRENT,mission_delivery_title,2448,Courier mission: Deliver cargo to nearby system,Mission de messagerie : livrer une cargaison au système à proximité
 CURRENT,mission_delivery_titlefurther,2448,Deliver cargo to another sector,Livrer du fret vers un autre secteur
@@ -1341,7 +1341,7 @@ CURRENT,object_battery_description,2448,"Stores any excess power available in th
 CURRENT,object_box,2448,Box,Boîte
 CURRENT,object_bullets,2448,Bullets,Balles
 CURRENT,object_bullets_description,2448,A box of ammo for a Gatling Gun (PDC).,Une boîte de munitions pour une mitrailleuse Gatling (PDC).
-CURRENT,object_railgunshell,2448,Railgun Slugs,Limaces de fusil à rail
+CURRENT,object_railgunshell,2448,Railgun Slugs,Balles pour un railgun
 CURRENT,object_railgunshell_description,2448,A box of ammo for a Railgun.,Une boîte de munitions pour un Railgun.
 CURRENT,object_cargo,2448,Cargo,Cargaison
 CURRENT,object_civilian,2448,Civilian,Civil
@@ -1358,7 +1358,7 @@ CURRENT,object_door,2448,Door,Porte
 CURRENT,object_door_description,2448,A heavy pressure door that can be used to seal off areas in the event of a hull breach or fire.,Une porte à forte pression qui peut être utilisée pour sceller des zones en cas de brèche dans la coque ou d'incendie.
 CURRENT,object_tank,2448,Huge Tank,Énorme réservoir
 CURRENT,object_tank_description,2448,A massive tank that can store a great deal of liquid or gas.,Un réservoir massif pouvant stocker une grande quantité de liquide ou de gaz.
-CURRENT,object_smalltank,2448,Medium Tank,Char moyen
+CURRENT,object_smalltank,2448,Medium Tank,Réservoir moyen
 CURRENT,object_smalltank_description,2448,A storage tank that can store liquids and gases.,Un réservoir de stockage pouvant stocker des liquides et des gaz.
 CURRENT,object_tinytank,2448,Small Tank,Petit réservoir
 CURRENT,object_tinytank_description,2448,A storage tank that can store liquids and gases.,Un réservoir de stockage pouvant stocker des liquides et des gaz.
@@ -1373,8 +1373,8 @@ CURRENT,object_entity,2448,Entity,Entité
 CURRENT,object_equipment,2448,Equipment,Équipement
 CURRENT,object_fighter,2448,Fighter,Combattant
 CURRENT,object_food,2448,Food,Nourriture
-CURRENT,object_ftlcharge,2448,FTL Charge,Frais FTL
-CURRENT,object_ftldrive,2448,FTL Drive,Lecteur FTL
+CURRENT,object_ftlcharge,2448,FTL Charge,Recharge FTL
+CURRENT,object_ftldrive,2448,FTL Drive,Propulseur FTL
 CURRENT,object_fuel,2448,Fuel,Carburant
 CURRENT,object_fusionreactor,2448,Fusion Reactor,Réacteur à fusion
 CURRENT,object_fusionreactor_description,2448,Uses nuclear fusion of Deuterium to generate large amounts of energy. However the fusion reactor must be 'powered up' with a huge amount of energy before it will generate any power itself.\n\nGenerates a maximum power output of 500MW.,"Utilise la fusion nucléaire du deutérium pour générer de grandes quantités d'énergie. Cependant, le réacteur à fusion doit être « alimenté » avec une énorme quantité d'énergie avant de pouvoir générer lui-même de l'énergie.\n\nGénère une puissance maximale de 500 MW."
@@ -1441,7 +1441,7 @@ CURRENT,object_refinedtilium,2448,Tilium Crystals,Cristaux de Tilium
 CURRENT,object_metallicminerals,2448,Metallic Minerals,Minéraux métalliques
 CURRENT,object_copperminerals,2448,Copper Minerals,Minéraux de cuivre
 CURRENT,object_copperingot,2448,Copper Ingot,Lingot de cuivre
-CURRENT,object_ice,2448,Water Ice,Glace d'eau
+CURRENT,object_ice,2448,Water Ice,Glace
 CURRENT,object_metreongas,2448,Metreon Gas,Gaz Métréon
 CURRENT,object_refinedmetreon,2448,Refined Metreon,Métréon raffiné
 CURRENT,object_explosives,2448,Explosives,Explosifs
@@ -1457,7 +1457,7 @@ CURRENT,object_sewagemachine,2448,Waste Treatment Machine,Machine de traitement 
 CURRENT,object_sewagemachine_description,2448,"Takes sewage from the habitation deck, separates the solid and liquid waste, and partially recycles them. The device outputs dirty water and compost.","Prend les eaux usées de la terrasse de l'habitation, sépare les déchets solides et liquides et les recycle partiellement. L'appareil produit de l'eau sale et du compost."
 CURRENT,object_waterpurifier,2448,Water Purifier,Purificateur d'eau
 CURRENT,object_waterpurifier_description,2448,Takes dirty water from sewage recycling or from naturally occurring ice - and purifies it into safe drinkable water.,Récupère l'eau sale provenant du recyclage des eaux usées ou de la glace naturelle et la purifie en eau potable.
-CURRENT,object_oxygenmaker,2448,Oxygen Maker,Fabricant d'oxygène
+CURRENT,object_oxygenmaker,2448,Oxygen Maker,Producteur d'oxygène
 CURRENT,object_oxygenmaker_description,2448,Uses electrical power to extract Oxygen from Water.,Utilise l’énergie électrique pour extraire l’oxygène de l’eau.
 CURRENT,object_scrubber,2448,CO2 Scrubber,Épurateur de CO2
 CURRENT,object_scrubber_description,2448,Extracts Carbon Dioxide from the atmosphere. Its output must be piped into a storage tank or it will become blocked.,"Extrait le dioxyde de carbone de l’atmosphère. Sa sortie doit être acheminée vers un réservoir de stockage, sinon elle sera bloquée."
@@ -1478,7 +1478,7 @@ CURRENT,object_munitionsfactory,2448,Munitions Bench,Banc de munitions
 CURRENT,object_munitionsfactory_description,2448,"A workbench where a skilled crew member can fabricate different forms of ammunition for ship weapon systems. Uses metal and explosives to produce Bullets, Railgun Slugs, Cannon Shells etc.","Un établi où un membre d'équipage qualifié peut fabriquer différentes formes de munitions pour les systèmes d'armes des navires. Utilise du métal et des explosifs pour produire des balles, des balles de railgun, des obus de canon, etc."
 CURRENT,object_hydroponics,2448,Hydroponic Garden,Jardin hydroponique
 CURRENT,object_hydroponics_description,2448,"An enclosed greenhouse device that can be used to grow crops, in order to feed your crew.  Requires compost and water, and Seeds to get things started.","Une serre fermée qui peut être utilisée pour faire pousser des cultures, afin de nourrir votre équipage.  Nécessite du compost, de l'eau et des graines pour démarrer."
-CURRENT,object_fabricator,2448,Fabricator,Fabricant
+CURRENT,object_fabricator,2448,Fabricator,Assembleur
 CURRENT,object_assembler,2448,Assembly Table,Table d'assemblage
 CURRENT,object_robotarm,2448,Robot Arm,Bras robotique
 CURRENT,object_robotarmshort,2448,Short Robot Arm,Bras de robot court
@@ -1509,7 +1509,7 @@ CURRENT,object_carbondioxide,2448,CO2,CO2
 CURRENT,object_short_oxygen,2448,O2,O2
 CURRENT,object_short_ftlcharge,2448,FTL,FTL
 CURRENT,object_short_bullets,2448,Ammo,Munitions
-CURRENT,object_short_railgunshell,2448,Slugs,Limaces
+CURRENT,object_short_railgunshell,2448,Slugs,Balles
 CURRENT,object_short_cannonshell,2448,Shells,Coquilles
 CURRENT,object_short_deuterium,2448,Dtrm,Dtrm
 CURRENT,entity_unconscious,2448,UNCONSCIOUS,INCONSCIENT
@@ -2097,7 +2097,7 @@ CURRENT,wolf_part3_setup5,2448,"We have one final trick, to buy you some time be
 CURRENT,wolf_part3_setup6,2448,"Your own ship will lose power too - but in the calamity that follows, you'll have time to fit your weapon systems and prepare for a tough fight.","Votre propre vaisseau perdra également de la puissance, mais dans la calamité qui s'ensuivra, vous aurez le temps d'installer vos systèmes d'armes et de vous préparer à un combat difficile."
 CURRENT,wolf_part3_setup7,2448,You'll have to hold them off for a couple of minutes.  My strike force will perform a combat drop virtually on top of you.  Then the tables will turn in our favour.,Vous devrez les retenir pendant quelques minutes.  Ma force de frappe effectuera un largage de combat pratiquement sur vous.  La situation tournera alors en notre faveur.
 CURRENT,wolf_part3_objective_dockastral,2448,Dock with the Astral Temptress and crew the ship [*X/*Y],Amarrez-vous à la Tentatrice astrale et équipage du navire [*X/*Y]
-CURRENT,wolf_part3_objective_jumparound,2448,Jump the Astral Temptress to empty systems until attacked,Sautez la Tentatrice astrale vers des systèmes vides jusqu'à ce qu'elle soit attaquée.
+CURRENT,wolf_part3_objective_jumparound,2448,Jump the Astral Temptress to empty systems until attacked,Sautez avec la Tentatrice astrale vers des systèmes vides jusqu'à ce qu'elle soit attaquée.
 CURRENT,wolf_part3_setup8,2448,Remember - the pirate vessel will not show themselves unless the Astral Temptress is alone and unarmed. Good hunting!,N'oubliez pas que le vaisseau pirate ne se montrera que si la Tentatrice Astrale est seule et désarmée. Bonne chasse !
 CURRENT,wolf_part3_uninstallweapons1,2448,The pirates won't take the bait if they see you armed!,Les pirates ne mordront pas à l'hameçon s'ils vous voient armé !
 CURRENT,wolf_part3_uninstallweapons2,2448,Uninstall your weapons before jumping again.,Désinstallez vos armes avant de sauter à nouveau.
