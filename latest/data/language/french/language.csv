@@ -77,10 +77,10 @@ CURRENT,shipeditor_palettelibrary_cancel,2793,CANCEL,ANNULER
 CURRENT,shipeditor_palettelibrary_export,2793,EXPORT,EXPORTATION
 CURRENT,shipeditor_palettelibrary_upload,2793,UPLOAD,TELECHARGER
 CURRENT,trade_autotradedisabled,2793,DISABLED IN ORDER MENU,DÉSACTIVÉ DANS LE MENU DE COMMANDE
-CURRENT,order_autotradeactive,2793,Auto Trade,Commerce automobile
-CURRENT,object_table,2793,Table,Tableau
+CURRENT,order_autotradeactive,2793,Auto Trade,Commerce auto
+CURRENT,object_table,2793,Table,Table
 CURRENT,object_smalltable,2793,Small Table,Petite table
-CURRENT,object_chair,2793,Chair,Président
+CURRENT,object_chair,2793,Chair,Chaise
 CURRENT,object_sofa,2793,Sofa,Canapé
 CURRENT,object_potplant,2793,Pot Plant,Plante en pot
 CURRENT,tutorial_battlestations_title,2793,BATTLE STATIONS,POSTES DE COMBAT
@@ -1069,7 +1069,7 @@ CURRENT,order_salvage,2448,Gather Salvage,Récupérer les cargaissons
 CURRENT,order_gather,2448,Gather Materials,Rassembler des matériaux
 CURRENT,order_repairhull,2448,Repair Hull,Réparer la coque
 CURRENT,order_shiftwork,2448,Shift Work,Travail posté
-CURRENT,order_suitson,2448,Suits On,Costumes sur
+CURRENT,order_suitson,2448,Suits On,Combinaisons spatiales obligatoire
 CURRENT,order_exteriorwork,2448,Exterior Work,Travaux extérieurs
 CURRENT,order_weaponsactive,2448,Weapons Free,Armes gratuites
 CURRENT,order_fleetlogistics,2448,Fleet Logistics,Logistique de la flotte
@@ -1565,7 +1565,7 @@ CURRENT,opentextcrawl_survival_5,2448,Scientists believe it will eventually cons
 CURRENT,opentextcrawl_survival_6,2448,"There is only one glimmer of hope. A STARGATE project, unfinished and unproven, offers an escape route to a distant Galaxy.","Il n'y a qu'une lueur d'espoir. Un projet STARGATE, inachevé et non prouvé, offre une issue de secours vers une galaxie lointaine."
 CURRENT,opentextcrawl_survival_7,2448,But the scale of the catastrophe is almost too big to comprehend. Only a few will survive.,Mais l’ampleur de la catastrophe est presque trop grande pour être comprise. Seuls quelques-uns survivront.
 CURRENT,opentextcrawl_survival_8,2448,"With a new ship and a new crew, you commit yourself to reaching the STARGATE with as many people as you can, before it's too late.","Avec un nouveau vaisseau et un nouvel équipage, vous vous engagez à atteindre la PORTE DES ÉTOILES avec autant de personnes que possible, avant qu'il ne soit trop tard."
-CURRENT,mission_type_episodetiddlets,2448,Deliver Tiddlets,Livrer des friandises
+CURRENT,mission_type_episodetiddlets,2448,Deliver Tiddlets,Livrer les Tiddlets
 CURRENT,mission_tiddlets_title,2448,The trouble with Tiddlets,Le problème avec les Tiddlets
 CURRENT,mission_tiddlets_description1,2448,"We need a transport vessel to ferry a litter of lovable, rare live animals to a sanctuary, many jumps away.","Nous avons besoin d'un navire de transport pour transporter une portée d'animaux vivants rares et adorables vers un sanctuaire, à plusieurs sauts."
 CURRENT,mission_tiddlets_description2,2448,"The animals aren't dangerous, but they do have some special requirements that must be closely followed or they will not survive the journey.","Les animaux ne sont pas dangereux, mais ils ont des exigences particulières qui doivent être strictement respectées, sinon ils ne survivront pas au voyage."
