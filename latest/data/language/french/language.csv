@@ -1069,7 +1069,7 @@ CURRENT,order_salvage,2448,Gather Salvage,Récupérer les cargaissons
 CURRENT,order_gather,2448,Gather Materials,Rassembler des matériaux
 CURRENT,order_repairhull,2448,Repair Hull,Réparer la coque
 CURRENT,order_shiftwork,2448,Shift Work,Travail posté
-CURRENT,order_suitson,2448,Suits On,Combinaisons spatiales obligatoire
+CURRENT,order_suitson,2448,Suits On,Combinaisons obligatoire
 CURRENT,order_exteriorwork,2448,Exterior Work,Travaux extérieurs
 CURRENT,order_weaponsactive,2448,Weapons Free,Armes gratuites
 CURRENT,order_fleetlogistics,2448,Fleet Logistics,Logistique de la flotte
