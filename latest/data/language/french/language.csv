@@ -48,7 +48,7 @@ CURRENT,keybinding_gamespeed9,2793,9x Speed,vitesse 9x
 CURRENT,keybinding_gamespeed0,2793,Half Speed,Demi-vitesse
 CURRENT,keybinding_rotateobject,2793,Rotate Object,Faire pivoter l'objet
 CURRENT,keybinding_takescreenshot,2793,Screenshot (+ {MetaCtrl}),Capture d'écran (+ {MetaCtrl})
-CURRENT,"keybinding_alttool,",2793,Eye-dropper,Goutte-à-goutte
+CURRENT,keybinding_alttool,2793,Eye-dropper,Goutte-à-goutte
 CURRENT,origin_shipofficial,2793,OFFICIAL SHIPS,NAVIRES OFFICIELS
 CURRENT,origin_shipcommunity,2793,COMMUNITY SHIPS,NAVIRES COMMUNAUTAIRES
 CURRENT,origin_shipuser,2793,PLAYER-MADE SHIPS,VAISSEAUX FABRIQUÉS PAR LES JOUEURS

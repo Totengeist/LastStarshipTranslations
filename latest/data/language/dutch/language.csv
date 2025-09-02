@@ -48,7 +48,7 @@ CURRENT,keybinding_gamespeed9,2793,9x Speed,9x Snelheid
 CURRENT,keybinding_gamespeed0,2793,Half Speed,Halve snelheid
 CURRENT,keybinding_rotateobject,2793,Rotate Object,Object roteren
 CURRENT,keybinding_takescreenshot,2793,Screenshot (+ {MetaCtrl}),Schermafbeelding (+ {MetaCtrl})
-CURRENT,"keybinding_alttool,",2793,Eye-dropper,Druppelaar
+CURRENT,keybinding_alttool,2793,Eye-dropper,Druppelaar
 CURRENT,origin_shipofficial,2793,OFFICIAL SHIPS,OFFICIËLE SCHEPEN
 CURRENT,origin_shipcommunity,2793,COMMUNITY SHIPS,COMMUNAUTAIRE SCHEPEN
 CURRENT,origin_shipuser,2793,PLAYER-MADE SHIPS,DOOR SPELERS GEMAAKTE SCHEPEN

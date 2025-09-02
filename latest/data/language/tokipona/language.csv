@@ -48,7 +48,7 @@ CURRENT,keybinding_gamespeed9,2793,9x Speed,tenpo pi wawa 9x
 CURRENT,keybinding_gamespeed0,2793,Half Speed,tenpo pi wawa meso
 CURRENT,keybinding_rotateobject,2793,Rotate Object,o tawa sike e ijo
 CURRENT,keybinding_takescreenshot,2793,Screenshot (+ {MetaCtrl}),o kama jo e sitelen (+ {MetaCtrl})
-CURRENT,"keybinding_alttool,",2793,Eye-dropper,ilo lanpan kule sitelen
+CURRENT,keybinding_alttool,2793,Eye-dropper,ilo lanpan kule sitelen
 CURRENT,origin_shipofficial,2793,OFFICIAL SHIPS,ILO TAWA NASIN
 CURRENT,origin_shipcommunity,2793,COMMUNITY SHIPS,ILO TAWA TAN KULUPU JAN
 CURRENT,origin_shipuser,2793,PLAYER-MADE SHIPS,ILO TAWA SINA

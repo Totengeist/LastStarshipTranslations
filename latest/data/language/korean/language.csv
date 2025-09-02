@@ -48,7 +48,7 @@ CURRENT,keybinding_gamespeed9,2793,9x Speed,9배 속도
 CURRENT,keybinding_gamespeed0,2793,Half Speed,절반 속도  
 CURRENT,keybinding_rotateobject,2793,Rotate Object,객체 회전  
 CURRENT,keybinding_takescreenshot,2793,Screenshot (+ {MetaCtrl}),스크린샷 (+ {MetaCtrl})  
-CURRENT,"keybinding_alttool,",2793,Eye-dropper,스포이트  
+CURRENT,keybinding_alttool,2793,Eye-dropper,스포이트  
 CURRENT,origin_shipofficial,2793,OFFICIAL SHIPS,공식 함선  
 CURRENT,origin_shipcommunity,2793,COMMUNITY SHIPS,커뮤니티 함선  
 CURRENT,origin_shipuser,2793,PLAYER-MADE SHIPS,플레이어 제작 함선

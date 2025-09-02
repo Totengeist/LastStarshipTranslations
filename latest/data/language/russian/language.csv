@@ -48,7 +48,7 @@ CURRENT,keybinding_gamespeed9,2793,9x Speed,9-кратная скорость
 CURRENT,keybinding_gamespeed0,2793,Half Speed,Половинная скорость
 CURRENT,keybinding_rotateobject,2793,Rotate Object,Повернуть
 CURRENT,keybinding_takescreenshot,2793,Screenshot (+ {MetaCtrl}),Скриншот (+ {MetaCtrl})
-CURRENT,"keybinding_alttool,",2793,Eye-dropper,Пипетка
+CURRENT,keybinding_alttool,2793,Eye-dropper,Пипетка
 CURRENT,origin_shipofficial,2793,OFFICIAL SHIPS,ОФИЦИАЛЬНЫЕ КОРАБЛИ
 CURRENT,origin_shipcommunity,2793,COMMUNITY SHIPS,ОБЩЕСТВЕННЫЕ КОРАБЛИ
 CURRENT,origin_shipuser,2793,PLAYER-MADE SHIPS,"КОРАБЛИ, СОЗДАННЫЕ ИГРОКАМИ"

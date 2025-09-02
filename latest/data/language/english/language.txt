@@ -308,7 +308,7 @@ keybinding_gamespeed9                           9x Speed
 keybinding_gamespeed0                           Half Speed
 keybinding_rotateobject                         Rotate Object
 keybinding_takescreenshot                       Screenshot (+ {MetaCtrl})
-keybinding_alttool,                             Eye-dropper
+keybinding_alttool                              Eye-dropper
 
 
 

@@ -48,7 +48,7 @@ CURRENT,keybinding_gamespeed9,2793,9x Speed,9x Geschwindigkeit
 CURRENT,keybinding_gamespeed0,2793,Half Speed,Halbe Geschwindigkeit
 CURRENT,keybinding_rotateobject,2793,Rotate Object,Objekt rotieren
 CURRENT,keybinding_takescreenshot,2793,Screenshot (+ {MetaCtrl}),Screenshot (+ {MetaCtrl})
-CURRENT,"keybinding_alttool,",2793,Eye-dropper,Augentropfer
+CURRENT,keybinding_alttool,2793,Eye-dropper,Augentropfer
 CURRENT,origin_shipofficial,2793,OFFICIAL SHIPS,OFFIZIELLE SCHIFFE
 CURRENT,origin_shipcommunity,2793,COMMUNITY SHIPS,GEMEINSCHAFTSSCHIFFE
 CURRENT,origin_shipuser,2793,PLAYER-MADE SHIPS,VON SPIELERN GEBAUTE SCHIFFE
