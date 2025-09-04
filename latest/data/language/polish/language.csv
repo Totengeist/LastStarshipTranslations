@@ -48,7 +48,7 @@ CURRENT,keybinding_gamespeed9,2793,9x Speed,prędkość 9x
 CURRENT,keybinding_gamespeed0,2793,Half Speed,Połowa prędkości
 CURRENT,keybinding_rotateobject,2793,Rotate Object,Obróć obiekt
 CURRENT,keybinding_takescreenshot,2793,Screenshot (+ {MetaCtrl}),Zrzut ekranu (+ {MetaCtrl})
-CURRENT,"keybinding_alttool,",2793,Eye-dropper,Zakraplacz do oczu
+CURRENT,keybinding_alttool,2793,Eye-dropper,Zakraplacz do oczu
 CURRENT,origin_shipofficial,2793,OFFICIAL SHIPS,OFICJALNE STATKI
 CURRENT,origin_shipcommunity,2793,COMMUNITY SHIPS,STATKI WSPÓLNOTOWE
 CURRENT,origin_shipuser,2793,PLAYER-MADE SHIPS,STATKI STWORZONE PRZEZ GRACZY

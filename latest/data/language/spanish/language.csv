@@ -48,7 +48,7 @@ CURRENT,keybinding_gamespeed9,2803,9x Speed,velocidad 9x
 CURRENT,keybinding_gamespeed0,2803,Half Speed,Media velocidad
 CURRENT,keybinding_rotateobject,2803,Rotate Object,Girar objeto
 CURRENT,keybinding_takescreenshot,2803,Screenshot (+ {MetaCtrl}),Captura de pantalla (+ {MetaCtrl})
-CURRENT,"keybinding_alttool,",2803,Eye-dropper,Cuentagotas
+CURRENT,keybinding_alttool,2803,Eye-dropper,Cuentagotas
 CURRENT,origin_shipofficial,2803,OFFICIAL SHIPS,BARCOS OFICIALES
 CURRENT,origin_shipcommunity,2803,COMMUNITY SHIPS,BARCOS COMUNITARIOS
 CURRENT,origin_shipuser,2803,PLAYER-MADE SHIPS,BARCOS HECHOS POR JUGADORES

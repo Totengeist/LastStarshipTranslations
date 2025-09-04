@@ -48,7 +48,7 @@ CURRENT,keybinding_gamespeed9,2793,9x Speed,9x hastighet
 CURRENT,keybinding_gamespeed0,2793,Half Speed,Halv hastighet
 CURRENT,keybinding_rotateobject,2793,Rotate Object,Rotera objekt
 CURRENT,keybinding_takescreenshot,2793,Screenshot (+ {MetaCtrl}),Skärmdump (+ {MetaCtrl})
-CURRENT,"keybinding_alttool,",2793,Eye-dropper,Ögondroppare
+CURRENT,keybinding_alttool,2793,Eye-dropper,Ögondroppare
 CURRENT,origin_shipofficial,2793,OFFICIAL SHIPS,OFFICIELLA SJÖFARTYG
 CURRENT,origin_shipcommunity,2793,COMMUNITY SHIPS,GEMENSKAPSFARTYG
 CURRENT,origin_shipuser,2793,PLAYER-MADE SHIPS,SPELARTILLVERKADE FARTYG

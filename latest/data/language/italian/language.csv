@@ -47,7 +47,7 @@ CURRENT,keybinding_gamespeed9,2793,9x Speed,velocità 9x
 CURRENT,keybinding_gamespeed0,2793,Half Speed,Mezza velocità
 CURRENT,keybinding_rotateobject,2793,Rotate Object,Ruota l'oggetto
 CURRENT,keybinding_takescreenshot,2793,Screenshot (+ {MetaCtrl}),Screenshot (+ {MetaCtrl})
-CURRENT,"keybinding_alttool,",2793,Eye-dropper,Contagocce
+CURRENT,keybinding_alttool,2793,Eye-dropper,Contagocce
 CURRENT,origin_shipofficial,2793,OFFICIAL SHIPS,NAVI UFFICIALI
 CURRENT,origin_shipcommunity,2793,COMMUNITY SHIPS,NAVI DELLA COMUNITÀ
 CURRENT,origin_shipuser,2793,PLAYER-MADE SHIPS,NAVI COSTRUITE DAI GIOCATORI

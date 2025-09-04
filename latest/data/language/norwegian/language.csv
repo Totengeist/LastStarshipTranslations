@@ -886,7 +886,7 @@ CURRENT,keybinding_gamespeed9,2803,9x Speed,9x hastighet
 CURRENT,keybinding_gamespeed0,2803,Half Speed,Halv hastighet
 CURRENT,keybinding_rotateobject,2803,Rotate Object,Roter objektet
 CURRENT,keybinding_takescreenshot,2803,Screenshot (+ {MetaCtrl}),Skjermbilde (+ {MetaCtrl})
-CURRENT,"keybinding_alttool,",2803,Eye-dropper,Øyedråper
+CURRENT,keybinding_alttool,2803,Eye-dropper,Øyedråper
 CURRENT,steamworkshopmenu_title,2803,Steam Workshop Menu,Steam Workshop-menyen
 CURRENT,steamworkshopmenu_savegamesectionlabel,2803, ========================== Save Games ==========================, ========================== Lagre spill ==========================
 CURRENT,steamworkshopmenu_uploadsavegametitlelabel,2803,Title,Tittel
