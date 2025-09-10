@@ -592,8 +592,8 @@ CURRENT,newmainmenu_exportship,2448,EXPORT SHIP,NAVIRE D'EXPORTATION
 CURRENT,newmainmenu_includedocked,2448,INCLUDE DOCKED SHIPS IN EXPORT,INCLURE LES NAVIRES À QUAI DANS L'EXPORTATION
 CURRENT,newmainmenu_uploadship,2448,UPLOAD TO STEAM,TÉLÉCHARGER SUR STEAM
 CURRENT,newmainmenu_setshipname,2448,SET SHIP NAME,DÉFINIR LE NOM DU NAVIRE
-CURRENT,newmainmenu_importhostile,2448,IMPORT HOSTILE,IMPORTATION HOSTILE
-CURRENT,newmainmenu_importfriendly,2448,IMPORT FRIENDLY,CONVIVIAL À L'IMPORTATION
+CURRENT,newmainmenu_importhostile,2448,IMPORT HOSTILE,IMPORTER HOSTILE
+CURRENT,newmainmenu_importfriendly,2448,IMPORT FRIENDLY,IMPORTER ALLIÉ
 CURRENT,newmainmenu_createnewexport,2448,CREATE NEW EXPORT,CRÉER UNE NOUVELLE EXPORTATION
 CURRENT,newmainmenu_createnewupload,2448,CREATE NEW WORKSHOP ITEM,CRÉER UN NOUVEL ARTICLE D'ATELIER
 CURRENT,newmainmenu_updateexistingupload,2448,UPDATE EXISTING WORKSHOP ITEM,MISE À JOUR DE L'ÉLÉMENT D'ATELIER EXISTANT
@@ -1069,7 +1069,7 @@ CURRENT,order_salvage,2448,Gather Salvage,Récupérer les cargaissons
 CURRENT,order_gather,2448,Gather Materials,Rassembler des matériaux
 CURRENT,order_repairhull,2448,Repair Hull,Réparer la coque
 CURRENT,order_shiftwork,2448,Shift Work,Travail posté
-CURRENT,order_suitson,2448,Suits On,Combinaisons spatiales obligatoire
+CURRENT,order_suitson,2448,Suits On,Combinaisons obligatoire
 CURRENT,order_exteriorwork,2448,Exterior Work,Travaux extérieurs
 CURRENT,order_weaponsactive,2448,Weapons Free,Armes gratuites
 CURRENT,order_fleetlogistics,2448,Fleet Logistics,Logistique de la flotte
