@@ -48,7 +48,7 @@ CURRENT,keybinding_gamespeed9,2793,9x Speed,9배 속도
 CURRENT,keybinding_gamespeed0,2793,Half Speed,절반 속도  
 CURRENT,keybinding_rotateobject,2793,Rotate Object,객체 회전  
 CURRENT,keybinding_takescreenshot,2793,Screenshot (+ {MetaCtrl}),스크린샷 (+ {MetaCtrl})  
-CURRENT,keybinding_alttool,2793,Eye-dropper,스포이트  
+CURRENT,"keybinding_alttool",2793,Eye-dropper,스포이트  
 CURRENT,origin_shipofficial,2793,OFFICIAL SHIPS,공식 함선  
 CURRENT,origin_shipcommunity,2793,COMMUNITY SHIPS,커뮤니티 함선  
 CURRENT,origin_shipuser,2793,PLAYER-MADE SHIPS,플레이어 제작 함선
@@ -1941,7 +1941,6 @@ CURRENT,powergrid_category_defenses,2383,DEFENSES,방어
 CURRENT,powergrid_category_lifesupport,2383,LIFE SUPPORT,생명 유지  
 CURRENT,powergrid_category_logistics,2383,LOGISTICS,물류  
 CURRENT,powergrid_category_other,2383,OTHER,기타  
-<<<<<<< HEAD
 CURRENT,trade_title,2383,TRADE,무역 
 CURRENT,trade_category_equipment,2383,Equipment,무기  
 CURRENT,trade_category_resource,2383,Resource,자원  
@@ -2003,69 +2002,6 @@ CURRENT,tactical_reloading,2383,RELOADING,재장전 중
 CURRENT,tactical_lowpower,2383,LOW POWER,저전력  
 CURRENT,logisticswindow_title,2383,LOGISTICS,물류  
 CURRENT,logistics_tooltip_transfer,2383,[LMB] Transfer 1 from *X,[좌클릭] *X에서 1개 이송  
-=======
-CURRENT,trade_title,2383,TRADE,무기  
-CURRENT,trade_category_equipment,2383,Equipment,자원  
-CURRENT,trade_category_resource,2383,Resource,시약  
-CURRENT,trade_category_reagent,2383,Reagent,현금  
-CURRENT,trade_cash,2383,Cash,확인  
-CURRENT,trade_confirm,2383,CONFIRM,구매  
-CURRENT,trade_buy,2383,BUY,판매  
-CURRENT,trade_sell,2383,SELL,불가  
-CURRENT,trade_cannot,2383,CANNOT,여유 없음  
-CURRENT,trade_afford,2383,AFFORD,구매 불가  
-CURRENT,trade_cannot_afford,2383,CANNOT AFFORD,비용  
-CURRENT,trade_cost,2383,Cost,수익  
-CURRENT,trade_profit,2383,Profit,*X: *Y  
-CURRENT,trade_transaction,2383,*X: *Y,재고 없음 표시  
-CURRENT,trade_showoutofstock,2383,Show out of stock,가격  
-CURRENT,trade_overlay_price,2383,PRICE,그들  
-CURRENT,trade_overlay_them,2383,THEM,당신  
-CURRENT,trade_overlay_you,2383,YOU,[박스 포장]  
-CURRENT,trade_overlay_boxed,2383,[boxed],에너지  
-CURRENT,trade_window_Energy,2383,Energy,추진  
-CURRENT,trade_window_Propulsion,2383,Propulsion,거주  
-CURRENT,trade_window_Habitation,2383,Habitation,방어  
-CURRENT,trade_window_Defense,2383,Defense,산업  
-CURRENT,trade_window_Industry,2383,Industry,물류  
-CURRENT,trade_window_Logistics,2383,Logistics,자원  
-CURRENT,trade_window_Resources,2383,Resources,부품  
-CURRENT,trade_window_Components,2383,Components,승무원  
-CURRENT,trade_window_Crew,2383,Crew,#이름?  
-CURRENT,trade_equipment_size,2383,#NAME?,#이름?  
-CURRENT,trade_equipment_rotatable,2383,#NAME?,#이름?  
-CURRENT,trade_equipment_powered,2383,#NAME?,- 사용당 충전량: *X MW  
-CURRENT,trade_equipment_charge,2383,- Charge (per use) : *X MW,*X 묶음  
-CURRENT,trade_stack,2383,Stack of *X,박스 포장  
-CURRENT,trade_boxed,2383,Boxed,부품  
-CURRENT,trade_component,2383,Component,함선 판매  
-CURRENT,trade_sell_ship,2383,SELL SHIP,모든 아이템  
-CURRENT,trade_allitems,2383,ALL ITEMS,[좌클릭] 구매  
-CURRENT,trade_tooltip_buy,2383,[LMB] Buy,[좌클릭] 판매  
-CURRENT,trade_tooltip_sell,2383,[LMB] Sell,[우클릭] 취소  
-CURRENT,trade_tooltip_cancel,2383,[RMB] Cancel,[Shift] x5  
-CURRENT,trade_tooltip_shift,2383,[SHIFT] x5,선내에 *X 보유  
-CURRENT,trade_ourstock,2383,You have *X on-board,*X 구매 중  
-CURRENT,trade_buying,2383,Buying *X,*X 판매 중  
-CURRENT,trade_selling,2383,Selling *X,[좌클릭] 취소  
-CURRENT,trade_tooltip_canceltrade,2383,[LMB] Cancel,[우클릭] 모두 취소  
-CURRENT,trade_tooltip_cancelalltrade,2383,[RMB] Cancel All,--- 도킹됨 ---  
-CURRENT,tactical_docked,2383,--- DOCKED ---,도킹 해제  
-CURRENT,tactical_undock,2383,UNDOCK,스로틀  
-CURRENT,tactical_throttle,2383,THROTTLE,모두 분리  
-CURRENT,tactical_detach_all,2383,DETACH ALL,속도  
-CURRENT,tactical_velocity,2383,VELOCITY,회피  
-CURRENT,tactical_evasion,2383,EVASION,무기  
-CURRENT,tactical_weapons,2383,WEAPONS,사격  
-CURRENT,tactical_fire,2383,FIRE,대기  
-CURRENT,tactical_hold,2383,HOLD,조작  
-CURRENT,tactical_maneuvering,2383,MANEUVERING,손상됨  
-CURRENT,tactical_damaged,2383,DAMAGED,재장전 중  
-CURRENT,tactical_reloading,2383,RELOADING,저전력  
-CURRENT,tactical_lowpower,2383,LOW POWER,물류  
-CURRENT,logisticswindow_title,2383,LOGISTICS,[좌클릭] *X에서 1개 이송  
-CURRENT,logistics_tooltip_transfer,2383,[LMB] Transfer 1 from *X,없음  
->>>>>>> origin/korean-translation
 CURRENT,order_none,2383,None,없음  
 CURRENT,order_salvage,2383,Gather Salvage,잔해 수집  
 CURRENT,order_gather,2383,Gather Materials,자재 수집  
