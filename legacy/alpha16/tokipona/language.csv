@@ -2,453 +2,7 @@
 NEW,settings_accentinsensitivesearch,2803,Accent Insensitive Search,
 NEW,settings_accentinsensitivesearch_description,2803,"When searching in lists, ignore accented characters, e.g. ""é"" will match ""e""",
 NEW,settings_translatorassist,2803,"Translator Assist (Ctrl, Alt)",
-NEW,keybinding_alttool,2886,Alt Editor Tool,
-NEW,keybinding_translatorwindow,2886,Translator Window,
-NEW,newmainmenu_autosavewarning,2886,Auto-save load warning,
-NEW,save_autosavewarning_header,2886,WARNING: Autosave loaded,
-NEW,save_autosavewarning_body,2886,"This save is likely to be overwritten by the game as you continue playing, so you should create a manual save if you haven't already done so using the ""SAVE GAME"" option.\n\nThis warning can be disabled in the settings menu.",
-NEW,hud_jumpgalaxies,2886,ESCAPE THE GALAXY,
-NEW,hud_window_recipes,2886,RECIPES,
-NEW,hud_toandromeda,2886,TO ANDROMEDA GALAXY,
-NEW,hud_overlay_radiation,2886,Radiation,
-NEW,hud_recipes_goback,2886,GO BACK,
-NEW,hud_recipes_chooseequipment,2886,CHOOSE EQUIPMENT,
-NEW,hud_recipes_chooseinput,2886,CHOOSE INPUT,
-NEW,hud_maximumoccupancy,2886,Maximum Occupancy: *X/*Y,
-NEW,hud_cabins,2886,Cabins: *X/*Y,
-NEW,shipeditor_mode_equipment,2886,Equipment,
-NEW,shipeditor_tooltip_equipment,2886,Queue the installation of equipment inside your ship.,
-NEW,shipeditor_brush_oval,2886,OVAL TOOL,
-NEW,shipeditor_equipment_title,2886,Missing Equipment,
-NEW,shipeditor_equipment_autobuy,2886,Enable Auto Buy,
-NEW,shipeditor_equipment_autobuyconfirm,2886,Confirm Auto Buy Changes,
-NEW,shipeditor_equipment_manualbuy,2886,Buy All Available,
-NEW,shipeditor_equipment_autobuyenable,2886,Auto Buy *X,
-NEW,shipeditor_equipment_missing,2886,You require *X,
-NEW,shipeditor_equipment_incoming,2886,You have *X incoming,
-NEW,shipeditor_equipment_outgoing,2886,You have *X outgoing,
-NEW,shipeditor_equipment_expected,2886,You will be missing *X when ongoing deliveries/logistics complete,
-NEW,shipeditor_equipment_available,2886,Trading Post has *X available,
-NEW,shipeditor_equipment_totalcost,2886,Total Cost,
-NEW,shipeditor_equipment_immediatecost,2886,Immediate Cost: *X,
-NEW,shipeditor_equipment_expectedcost,2886,Expected Future Cost: *X,
-NEW,intergalactic_travel,2886,INTERGALACTIC TRAVEL,
-NEW,techtree_node_title_mininglaseraccuracy2,2886,Mining Laser Precision 2,
-NEW,techtree_node_caption_mininglaseraccuracy2,2886,Mining Lasers extract three times as many minerals per shot,
-NEW,special_mininglaseraccuracy2,2886,Mining Laser Precision 2,
-NEW,mission_type_fortress,2886,Destroy Hostile Fortress,
-NEW,mission_fortress_title,2886,Destroy a hostile fortress,
-NEW,mission_fortress_objective,2886,Travel to the fortress,
-NEW,mission_fortress_accept,2886,"We have marked the location of the fortress on your map. Good luck, Captain.",
-NEW,mission_fortress_description1,2886,Hostiles have set up a fortress within the sector. It appears to be where they are fabricating their ships.,
-NEW,mission_fortress_description2,2886,The fortress is giving them significant power across the sector and must be dealt with.,
-NEW,mission_fortress_description3,2886,"Travel to the fortress, destroy it, and eliminate any remaining hostiles",
-NEW,mission_fortress_destroyfortress,2886,Destroy the fortress,
-NEW,mission_fortress_destroyhostiles,2886,Eliminate any remaining hostiles,
-NEW,mission_fortress_success,2886,The fortress assault was successful.,
-NEW,object_radiationemitter,2886,Radiation Emitter,
-NEW,object_radiationemitter_description,2886,Emits radiation. For testing new radiation mechanic (has no gameplay use).,
-NEW,object_radiationblocker,2886,Radiation Blocker,
-NEW,object_radiationblocker_description,2886,"Radiation blocker, significantly reduces all radiation passing through it. Place between your crew and equipment that emit radiation.",
-NEW,entity_radiation,2886,IRRADIATED,
-NEW,entity_death_radiation,2886,Radiation,
-NEW,alert_type_radiation,2886,RADIATION POISONING,
-NEW,alert_type_radiation_caption,2886,*X have radiation poisoning,
-NEW,bravenewsector_title,2886,Brave New Sector,
-NEW,bravenewsector_part1_title,2886,"Brave New Sector, Part 1",
-NEW,bravenewsector_summary,2886,Explore the new sector,
-NEW,bravenewsector_part1_findneubidium,2886,Sample the new minerals,
-NEW,bravenewsector_part1_findzeleon,2886,Investigate the severe weather,
-NEW,bravenewsector_part1_representative1,2886,Greetings Captain. What you've found could prove to be very useful to the Stargate project.,
-NEW,bravenewsector_part1_representative2,2886,"Since you've used our Stargate to reach the new sector, we believe it's only fair that you assist us with researching the uses of the new resources.",
-NEW,bravenewsector_part1_representative3,2886,"Your co-operation has been paramount in the project's sucess so far, and it must continue until the project is complete.",
-NEW,bravenewsector_part1_representative4,2886,"Thank you, Captain. We will be in touch when you have completed your research.",
-NEW,bravenewsector_part1_researchneubidium,2886,Research Neubidium Processing,
-NEW,bravenewsector_part1_researchzeleon,2886,Research Zeleon Gas,
-NEW,bravenewsector_part1_representative5,2886,"Hello again, Captain.",
-NEW,bravenewsector_part1_representative6,2886,"The results of your research are very promising, and we'd like you to send us some refined samples of the new resources.",
-NEW,bravenewsector_part1_representative7,2886,We expect a shipment of Neubidium ingots and the stabilised Zeleon gas.,
-NEW,bravenewsector_part1_representative8,2886,"Thank you for your co-operation, Captain.",
-NEW,bravenewsector_part1_dophase6,2886,Complete Phase 6 of the Stargate Project,
-NEW,mainmenu_gamemode_arena,3054,Arena,
-NEW,mainmenu_gamemode_arena_tooltip,3054,Create epic space battles between fleets of ships and watch the carnage unfold.,
-NEW,mainmenu_arena_caption,3054,Create epic space battles between fleets of ships and watch the carnage unfold.,
-NEW,settings_autosaves,3054,AUTOSAVES,
-NEW,settings_autosaveonftl,3054,Auto-save when leaving FTL,
-NEW,settings_autosaveontimeinterval,3054,Auto-save on time interval,
-NEW,settings_autosaveinterval,3054,Auto-save Interval,
-NEW,settings_minutes_shortened,3054,Mins.,
-NEW,newmainmenu_returntomainmenu,3054,RETURN TO MAIN MENU,
-NEW,newmainmenu_mainmenu,3054,MAIN MENU,
-NEW,newmainmenu_showautosaves,3054,AUTOSAVES,
-NEW,newmainmenu_newgameoptions,3054,Game Options,
-NEW,newmainmenu_defensiveenemies,3054,Defensive Enemies,
-NEW,newmainmenu_defensiveenemiestooltip,3054,Hostile ships will only target you once you have targeted them first.,
-NEW,newmainmenu_multisectorsim,3054,Multi-System Simulation,
-NEW,newmainmenu_multisectorsimtooltip,3054,"Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.",
-NEW,hud_shipmaximumoccupancy,3054,Ship Maximum Occupancy: *X/*Y,
-NEW,hud_surveyinprogress,3054,WARNING - SURVEY WILL BE CANCELLED,
-NEW,hud_converttracktosplitter,3054,[RMB] Convert to splitter,
-NEW,hud_convertsplittertotrack,3054,[RMB] Convert to track,
-NEW,shipeditor_tooltip_painthull,3054,Toggle painting the exterior panels of the hull of your ship,
-NEW,shipeditor_tooltip_painthabitation,3054,Toggle painting the exterior panels of the habitation quarters of your ship,
-NEW,shipeditor_tooltip_paintscaffold,3054,Toggle painting the scaffolding on your ship,
-NEW,shipeditor_tooltip_paintfloor,3054,Toggle painting the floor tiles of your ship,
-NEW,shipeditor_tooltip_paintwalls,3054,Toggle painting the base colour of the walls of your ship,
-NEW,shipeditor_mode_paintstencils,3054,Repaint Walls,
-NEW,shipeditor_tooltip_paintstencils,3054,Change the colour of decals applied to the walls of your ship,
-NEW,shipeditor_mode_stencils,3054,Walls,
-NEW,shipeditor_tooltip_stencils,3054,Apply or remove decals on the walls of your ship,
-NEW,shipeditor_stencil,3054,DECALS,
-NEW,shipeditor_stencils_paint,3054,Paints,
-NEW,shipeditor_stencils_stencil,3054,Decals,
-NEW,shipeditor_stencils_selectedpaint,3054,Selected Paint,
-NEW,galaxymap_survivalexit,3054,Reach the STARGATE!,
-NEW,galaxymap_sectornumber,3054,SECTOR *X,
-NEW,galaxymap_sectorgone,3054,LOST TO THE ANOMALY,
-NEW,galaxymap_switchsector,3054,Switch Sector View,
-NEW,survey_type_derelict,3054,Derelict,
-NEW,survey_type_asteroid,3054,Asteroid belt,
-NEW,survey_type_nebula,3054,Nebula,
-NEW,survey_type_storm,3054,Storm,
-NEW,survey_type_colony,3054,Colony,
-NEW,survey_title,3054,UNSURVEYED *X,
-NEW,survey_captionnone,3054,No survey in progress,
-NEW,survey_captionsingle,3054,Surveyed by *X,
-NEW,survey_captionmultiple,3054,*X layers surveying,
-NEW,survey_local_noequipment,3054,NO SUPERCOMPUTERS INSTALLED,
-NEW,survey_sector_title,3054,SECTOR SCAN,
-NEW,survey_sector_nothingtoscan,3054,REGION FULLY SCANNED,
-NEW,survey_completed,3054,SURVEY COMPLETED,
-NEW,survey_local_award_caption,3054,*X *Y Unlocked,
-NEW,survey_sector_award_title,3054,SURVEY AVAILABLE,
-NEW,survey_sector_award_caption,3054,*X available to survey,
-NEW,survey_sector_caption,3054,*X scanning region,
-NEW,powergrid_controls_title,3054,Power Grid Controls,
-NEW,powergrid_controls_increase,3054,[LMB] Increase,
-NEW,powergrid_controls_decrease,3054,[RMB] Decrease,
-NEW,powergrid_controls_shift,3054,[Shift] All,
-NEW,trade_sack,3054,SACK,
-NEW,techtree_cannot_afford,3054,CANNOT AFFORD RESEARCH,
-NEW,techtree_creditsrequired,3054,CREDITS REQUIRED: *X/*Y,
-NEW,techtree_availablecredits,3054,Available Credits: *X,
-NEW,techtree_spendcredits,3054,Accelerate Research (Cost: 1 Credit ),
-NEW,techtree_researchcredit_tooltip,3054,Perform sector scans to find derelict ships that contain research credits.,
-NEW,researchcredit_hint,3054,Load into a Science Station for analysis,
-NEW,techtree_node_title_tiddletcrystals,3054,Synthetic Crystals,
-NEW,techtree_node_title_quantumprocessing,3054,Quantum Processing,
-NEW,techtree_node_caption_quantumprocessing,3054,Simulations predict that the new charged crystals allow the Stargate to jump ships to different galaxies. The Stargate's computer systems need to be upgraded to handle this.,
-NEW,techtree_node_title_sectorsurvey,3054,Sector Surveying,
-NEW,techtree_node_caption_sectorsurvey,3054,Unlock surveying the current sector for new systems nearby.,
-NEW,techtree_node_title_advancedtracks,3054,Advanced Tracks,
-NEW,techtree_node_caption_advancedtracks,3054,"Unlocks the ability to convert tracks into splitters, and vice versa. Splitters will evenly distribute items between their output directions.",
-NEW,techtree_node_title_reactorefficiencyrepeatable,3054,Reactor Efficiency,
-NEW,techtree_node_caption_reactorefficiencyrepeatable,3054,Spend research credits to continually improve the efficiency of our reactors.,
-NEW,techtree_node_title_dronespeedrepeatable,3054,Drone Speed,
-NEW,techtree_node_caption_dronespeedrepeatable,3054,Spend research credits to continually increase the speed of our drones.,
-NEW,techtree_node_title_hydroponicsrepeatable,3054,Hydroponics,
-NEW,techtree_node_caption_hydroponicsrepeatable,3054,Spend research credits to continually increase our crop yield.,
-NEW,techtree_node_title_metallurgyrepeatable,3054,Metallurgy,
-NEW,techtree_node_caption_metallurgyrepeatable,3054,Spend research credits to continually increase our smelting efficiency.,
-NEW,techtree_node_title_robotarmspeedrepeatable,3054,Robot Arm Speed,
-NEW,techtree_node_caption_robotarmspeedrepeatable,3054,Spend research credits to continually increase our robot arm speed.,
-NEW,special_sectorsurvey,3054,Sector Surveying,
-NEW,special_tracksplitter,3054,Splitter Tracks,
-NEW,object_tracksplitter,3054,Splitter,
-NEW,object_laserinfuser,3054,Laser Infuser,
-NEW,object_crystalinfuser_description,3054,"Laser infuser, infuses objects with energy. No tiddlets were harmed in the making of this equipment.",
-NEW,object_lightningrod,3054,Lightning Rod,
-NEW,object_lightningrod_description,3054,"These are installed in the exterior wall of your ship, reducing the damaging effects of lightning and providing more control over where the lightning strikes. They cannot be repaired, but they will queue the installation of their replacement, when destroyed by lightning.",
-NEW,object_researchcredit,3054,Research Credit,
-NEW,object_researchcredit_description,3054,This processor chip contains information that can be used to boost our current research or improve the efficiency of our equipment.,
-NEW,object_quantumwafercomponent,3054,Quantum Wafer,
-NEW,object_quantumprocessorcomponent,3054,Quantum Processor,
-NEW,object_emptycomputegridcomponent,3054,Empty Compute Grid,
-NEW,object_quantumcomputegridcomponent,3054,Quantum Compute Grid,
-NEW,object_warpalignmentcomputer,3054,Warp Alignment Computer,
-NEW,object_emptycrystalcomponent,3054,Empty Crystal,
-NEW,object_chargedcrystal,3054,Charged Crystal,
-NEW,loader_auto,3054,AUTO,
-NEW,alert_type_abouttoautosave,3054,AUTOSAVE,
-NEW,alert_type_abouttoautosave_caption,3054,Autosaving in *X...,
-NEW,alert_type_emp,3054,EMP,
-NEW,alert_type_emp_caption,3054,*X piece(s) disabled,
-NEW,alert_type_emp_tooltip,3054,"Your ship has been struck by lightning, temporarily disabling some of your equipment.",
-NEW,tutorial_radiation_title,3054,RADIATION,
-NEW,tutorial_radiationintro,3054,We are going to learn about radiation.,
-NEW,tutorial_radiationinstallinfuser,3054,A laser infuser has been delivered to your ship.\n\nLaser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area.,
-NEW,tutorial_radiationsetupinfuser,3054,An empty crystal and some zeleon energy cells have been delivered to your ship too.\n\nLet's set the laser infuser to use them to produce charged crystals.,
-NEW,tutorial_radiationwaitforinputs,3054,The laser infuser is set to start making charged crystals!\n\nLet's wait for it to begin charging crystals.\n\nDon't forget to power the Laser Infuser.,
-NEW,tutorial_radiationselectoverlay,3054,The game has been set to a slower speed for now.\n\nRadiation is emitted in all directions away from the laser infuser.\n\nClick on the radiation overlay to view where your ship is irradiated.,
-NEW,tutorial_radiationselectoverlay2,3054,"All green areas of your ship are safe for your crew, but the darker areas are dangerous.\n\nSpacesuits will protect your crew from being irradiated.",
-NEW,tutorial_radiationinstallblockers,3054,"Radiation spread can be limited by special equipment called radiation blockers.\n\nInstall some blockers close to your laser infuser, leaving a small gap between the infuser and the blocker.\n\nIncrease the game speed when you are ready.",
-NEW,tutorial_radiationselectoverlay3,3054,"A radiation blocker will lower the radiation travelling through it, this can be seen on the radiation overlay.",
-NEW,tutorial_radiationoutro,3054,"Your crew will become sick if exposed to unsafe radiation for too long, which may eventually result in death.",
-NEW,tutorial_radiationsuccess,3054,"Well done, you have now learnt how radiation works and how to manage radiation levels in your ship.",
-NEW,tutorial_survey_title,3054,SECTOR SURVEYING,
-NEW,tutorial_surveyintro,3054,"We are going to learn how to survey the area around your ship.\n\nThe first step is to scan the local area of the sector surrounding you ship using a <b>SECTOR SCAN</b>.\n\nIn Boldly Go, only the new sector can be surveyed.\n\nHyperspace sensors are required to do this.",
-NEW,tutorial_surveyinstallsensors,3054,"Install Hyperspace Sensors or Hyperspace Sensor LRs onto one of your ships.\n\nThis tutorial will resume afterwards.\n\nIf you are playing the Boldly Go game mode, your ship must also be in the new sector.",
-NEW,tutorial_surveystartsectorsurvey,3054,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan.,
-NEW,tutorial_surveyhighlightsectorsurveysystem,3054,Hovering the mouse over the current system will reveal the radius around the system that is being scanned and the scan's progress toward finding new points of interest.\n\nOpen the <b>SECTOR MAP</b> and click <b>NEXT</b> to speed-up the survey.,
-NEW,tutorial_surveylocalsurveyintro,3054,The next step is to perform a <b>LOCAL SURVEY</b>.\n\nLocal surveys allow points of interest to be accessed via FTL.\n\nShips need to have super computers installed and must be in the same sector to participate in a local survey.,
-NEW,tutorial_surveyinstallcomputers,3054,Install a super-computer on one of your ships.\n\nThis tutorial will resume afterwards.,
-NEW,tutorial_surveystartlocalsurvey,3054,Areas of interest will expire after some time if they are not surveyed. Multiple layers can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,
-NEW,tutorial_surveyoutro,3054,Click <b>NEXT</b> to speed-up the survey.,
-NEW,tutorial_surveysuccess,3054,"A new system on the sector map has appeared for your fleet to explore!\n\nWell done, you have now learnt how to use sector surveying to find and explore new systems.\n\nKeep an eye out for special loot on surveyed derelict ships that can be researched by your science stations.",
-NEW,bravenewsector_part1_x1,3054,Captain? Are you there?,
-NEW,bravenewsector_part1_x2,3054,"I can't believe it, the Stargate worked! This is my greatest project, my greatest achievement, perhaps my final one too. Maybe I'll have the chance to see the new sector for myself one day.",
-NEW,bravenewsector_part1_x3,3054,"I believe this is only the beginning though, the Andromeda Project have made it clear they want to reach a new galaxy, not just a new sector. I'm sure they will be in contact soon about the next steps of the Stargate.",
-NEW,bravenewsector_part1_x4,3054,"Thank you Captain, for all your hard work. Goodbye for now.",
-NEW,bravenewsector_part2_title,3054,"Brave New Sector, Part 2",
-NEW,bravenewsector_part2_summary,3054,Uncover the history of the new sector.,
-NEW,bravenewsector_part2_x1,3054,"Hello again Captain, the Andromeda Project is very impressed with the samples you've sent them. They want your work on the Stargate to continue.",
-NEW,bravenewsector_part2_x3,3054,"I must warn you, there are rumours that their plan is to take the Stargate fully under their control. They will charge anyone who wants to use it a fortune, preventing any competition and harvesting all the resources in the new galaxy for themselves. They will become more powerful than any entity we have seen before.",
-NEW,bravenewsector_part2_x4,3054,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. The Stargate is too important and valuable for our species to be under their control.",
-NEW,bravenewsector_part2_x5,3054,I have installed a back-door that will cause the Stargate to self-destruct if you command it to. You must trigger it if the rumours are true.,
-NEW,bravenewsector_part2_x6,3054,"Unfortunately, I've been given some bad news, and I won't be around for much longer. I would like to give you full ownership of the foundry as a thank you for helping me finish this final project.",
-NEW,bravenewsector_part2_x7,3054,It seems we have completed it just in time.,
-NEW,bravenewsector_part2_x8,3054,"This is our final call, Captain. I wish you the best of luck. Thank you again, and goodbye.",
-NEW,bravenewsector_part2_harken_1,3054,"Captain, our sector scan has found new systems. They contain shipyards that are currently being operated by pirates.",
-NEW,bravenewsector_part2_harken_3,3054,"There are signs of a massive galactic war in this sector, with derelict ship signals appearing all across our sector map.",
-NEW,bravenewsector_part2_harken_4,3054,"The aftermath of the war resulted in pirates gaining control of the sector for themselves. They have since been living here, dormant, surviving from the resources harvested in local asteroid belts and nebulas.",
-NEW,bravenewsector_part2_harken_6,3054,Destroying the fortresses would allow us to set up friendly shipyards and take back control of the sector from the pirates.,
-NEW,bravenewsector_part2_harken_7,3054,Be prepared to be met with heavy resistance if you choose to visit them. I have added their positions to your sector map.,
-NEW,bravenewsector_part2_harken_8,3054,There's a shuttle on the way to L*X with surveying equipment on-board. It will allow you to scan the area around your ship.,
-NEW,bravenewsector_part2_surveywarning,3054,"There's a shuttle on the way to L*X with surveying equipment on-board. The equipment can only be used in the new sector, so you'll need to send a ship through the Stargate to start surveying.",
-NEW,bravenewsector_part2_harken_9,3054,"The forgotten battlefields of the sector may contain new research opportunities, I'd recommend that you explore any derelict ships you detect.",
-NEW,bravenewsector_part2_harken_10,3054,"That's all from me Captain, good luck.",
-NEW,bravenewsector_part2_receivesensors,3054,Receive LR Hyperspace Sensors [*X/*Y],
-NEW,bravenewsector_part2_receivecompute,3054,Receive a Super Computer,
-NEW,bravenewsector_part3_title,3054,"Brave New Sector, Part 3",
-NEW,bravenewsector_part3_summary,3054,Assist the scientist with his research.,
-NEW,bravenewsector_part3_intro_rep1,3054,"Hello again, Captain. Congratulations on completing the latest phase of the Stargate project! We are all very impressed by your commitment and dedication.",
-NEW,bravenewsector_part3_intro_rep2,3054,The project has a new task for you. One of our scientists is investigating a new lifeform called tiddlets.,
-NEW,bravenewsector_part3_intro_rep3,3054,"Upon death, a crystal is formed at the core of the tiddlet. This crystal has extraordinary energy density, which is exactly what we need to increase the hyperspace range of the Stargate.",
-NEW,bravenewsector_part3_intro_rep4,3054,"The Andromeda Project would love to relentlessly farm these tiddlets, but due to recent accidents they have become a strictly protected species. The scientist you're going to visit is researching how to ethically produce their crystals. He believes the new sector's resources will be a breakthrough for his research.",
-NEW,bravenewsector_part3_intro_rep5,3054,Visit him and provide him a sample of the zeleon.,
-NEW,bravenewsector_part3_deliversample,3054,Deliver the resources,
-NEW,bravenewsector_part3_deliverzeleon,3054,Deliver a sample of Shielded Zeleon [*X/*Y],
-NEW,bravenewsector_part3_deliverneubidium,3054,Deliver a sample of Neubidium Ingots [*X/*Y],
-NEW,bravenewsector_part3_artemis_1a,3054,Captain? Is that you? What are you doing here? It's so good to see you!,
-NEW,bravenewsector_part3_artemis_2a,3054,"The Andromeda Project have hired me to work on synthesising the tiddlet crystals that we discovered during our research, and I see they've sent you to provide me with the zeleon.",
-NEW,bravenewsector_part3_artemis_3a,3054,I see you're looking after those tiddlets well! A lot has changed since the tiddlet farm explosion. They are a protected species now and harming them is strictly prohibited.,
-NEW,bravenewsector_part3_artemis_4a,3054,A lot has changed since the tiddlet farm explosion. They are a protected species now and harming them is strictly prohibited.,
-NEW,bravenewsector_part3_artemis_1b,3054,"Greetings Captain, the Andromeda Project have hired me to work on synthesising crystals produced by a creature I discovered. I've named them tiddlets.",
-NEW,bravenewsector_part3_artemis_2b,3054,"Upon death, a crystal is formed at the core of the tiddlet. My job is to find a way to produce these crystals without having to farm any tiddlets in the process.",
-NEW,bravenewsector_part3_artemis_3b,3054,The neubidium and zeleon you discovered could be key to my research.,
-NEW,bravenewsector_part3_artemis_5a,3054,"One moment Captain, I've sent a shuttle to receive the resources from you.",
-NEW,bravenewsector_part3_artemis_5b,3054,"Unfortunately, it looks like you don't have the resources I need for my experiment, when you have the required amount come back and I'll retrieve them from you.",
-NEW,bravenewsector_part3_artemis_6,3054,Great! That should be all the resources I need. I'll run the experiments and call you back when I'm done.,
-NEW,bravenewsector_part3_artemis_7,3054,"Speak to you soon, Captain!",
-NEW,bravenewsector_part3_wait_rep1,3054,"Thank you for doing that Captain, Artemis will correspond with you directly from now on.",
-NEW,bravenewsector_part3_wait_rep2,3054,Goodbye for now.,
-NEW,bravenewsector_part3_waitforresults,3054,Wait for Artemis to call you about his experiment,
-NEW,bravenewsector_part3_artemis_results_1,3054,Hello Captain! I have incredible results. Using a highly powered zeleon laser we can charge synthetic crystals made of Neubidium to achieve properties similar to that of the tiddlet crystals.,
-NEW,bravenewsector_part3_artemis_results_3,3054,"This is a fantastic breakthrough but I must warn you that the laser is incredibly radioactive, and will very quickly kill your crew if you don't correctly contain its radiation.",
-NEW,bravenewsector_part3_artemis_results_4,3054,Come back to my system and I'll send you one of my lasers along with some radiation blockers to keep your crew safe.,
-NEW,bravenewsector_part3_receiveequipment,3054,Receive new equipment from Artemis,
-NEW,bravenewsector_part3_receivelaser,3054,Receive a Laser Infuser,
-NEW,bravenewsector_part3_receiveblockers,3054,Receive Radiation Blockers [*X/*Y],
-NEW,bravenewsector_part3_receivecrystal,3054,Receive an Empty Crystal,
-NEW,bravenewsector_part3_receivezeleon,3054,Receive Zeleon Energy Cell,
-NEW,bravenewsector_part3_artemis_results_5,3054,The next step is to research how this all applies to the Stargate. My hypothesis is that we can use the crystal's energy-density properties to enable jumps much farther than the next sector.,
-NEW,bravenewsector_part3_artemis_results_6,3054,"Good luck with your research, Captain.",
-NEW,translationeditor_unmodified,3054,Unmodified Phrases,
-NEW,translationeditor_modified,3054,Modified Phrases,
-NEW,translationeditor_reset,3054,Revert,
-NEW,translationeditor_reset_tooltip,3054,Resets your modified translation back to the original translation.,
-NEW,translationeditor_folder,3054,Open Folder,
-NEW,translationeditor_folder_tooltip,3054,"Opens the folder in which your modified translations are saved.\n\n""language.csv"" is the file containing your modified translations.",
-NEW,translationeditor_english_tooltip1,3054,Unformatted English phrase,
-NEW,translationeditor_english_tooltip2,3054,Formatted English phrase,
-NEW,translationeditor_english_tooltip3,3054,This is what you are translating.,
-NEW,translationeditor_english_tooltip4,3054,You cannot change the English phrases.,
-NEW,translationeditor_original_tooltip1,3054,Unformatted original translation,
-NEW,translationeditor_original_tooltip2,3054,Formatted original translation,
-NEW,translationeditor_original_tooltip3,3054,This is what is currently used in the game.,
-NEW,translationeditor_new_tooltip1,3054,Unformatted new translation,
-NEW,translationeditor_new_tooltip2,3054,Formatted new translation,
-NEW,translationeditor_new_tooltip3,3054,"This is where you can change the translation.\n\nThis will affect your game only, unless you submit your updated translations to Introversion.",
-NEW,credits_0,3054,The Last Starship,
-NEW,credits_1,3054,Created by\nIntroversion Software,
-NEW,credits_2,3054,Creative Director\nChris Delay,
-NEW,credits_3,3054,Managing Director\nMARK MORRIS,
-NEW,credits_4,3054,Technical Director\nJOHN KNOTTENBELT,
-NEW,credits_5,3054,Financial Director\nTHOMAS ARUNDEL,
-NEW,credits_6,3054,Art\nJesse Riggle,
-NEW,credits_7,3054,Audio\nAlistair Lindsay,
-NEW,credits_8,3054,Programming\nLouis Aldous,
-NEW,credits_9,3054,Programming\nAlfie Chenery,
-NEW,credits_10,3054,Programming\nJim Buck,
-NEW,credits_11,3054,Programming\nToby O’Donoghue,
-NEW,credits_12,3054,Programming\nRaphael Tasseel,
-NEW,credits_13,3054,Programming\nThomas White,
-NEW,credits_14,3054,Programming\nJacob Hill,
-NEW,credits_15,3054,Marketing\nOliver Arundel,
-NEW,credits_16,3054,Ship Builders\nJohnny Struggles,
-NEW,credits_17,3054,Ship Builders\nJoseph Abboud,
-NEW,credits_18,3054,Ship Builders\nLindsay Fleay (DRx),
-NEW,credits_19,3054,Thanks to everyone\nwho contributed ship designs,
-NEW,credits_20,3054,Thank you for playing!,
-NEW,ftl_galacticjump,3054,"This will be the final journey of your fleet.\nBe prepared for a long journey to the Andromeda galaxy, and save as many as you can!",
-NEW,credits_survivors,3054,Survivors,
-NEW,credits_playtime,3054,Playtime,
-NEW,survivalend_quitmessage1,3054,"We hope you enjoyed playing the demo of The Last Starship. Your journey has just begun!  Unlock the full game to explore more Story Episodes, Survival Mode, Arena Mode, a full Ship Editor and more!",
-NEW,survivalend_quitmessage,3054,"After a long and perilous journey, the survivors emerged into a new and uncharted galaxy.  Those left behind faced a desperate, nomadic life.  But those that made the jump face an even more uncertain future.  Humanity's survival remains on a knife edge...",
-UPDATED,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,
-PREVIOUS,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,
-UPDATED,settings_translatorassist_description,3054,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key. Enables the translation editing window ({TranslatorWindow}).",
-PREVIOUS,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.",
-UPDATED,shipeditor_tooltip_eyedropper,3054,"Lets you select a paint from the exterior of your ship (can also be used by pressing the ""{AltTool}"" key)",
-PREVIOUS,shipeditor_tooltip_eyedropper,2793,"Lets you select a paint from the exterior of your ship (can also be used by pressing the ""Shift"" key)","ilo ni li kama jo e kule tan selo pi ilo tawa sina. kin la sina ken kepeken nena ""Shift""."
-UPDATED,settings_exitsaves_tooltip,3054,"When enabled, the current game will create an auto-save when abandoned or when the game is quit.",
-PREVIOUS,settings_exitsaves_tooltip,2675,"When enabled, the current game will be saved when abandoned or when the game is quit in a file called exitsave.\n\nCAUTION: This file will be overwritten on every exit.","wile ni la, sina weka anu pini tan musi la, musi li awen lon lipu pi nimi ""exitsave"".\n\nO SONA: pini musi ale li sitelen sin e lipu ni pi awen musi."
-UPDATED,newmainmenu_exitsaves,3054,Auto-save on exit,
-PREVIOUS,newmainmenu_exitsaves,2675,Exit-saves,awen musi pi tawa weka
-UPDATED,stargatesectorwarning_harken_1,3054,"Captain, the new sector needs to be surveyed before your sector map is populated with systems. We have a full scan underway for the sector, once it's completed more locations will be marked on your map.",
-PREVIOUS,stargatesectorwarning_harken_1,2624,"Captain, this sector has never been visited before and it is outside of my security jurisdiction.","jan lawa o, jan ala li tawa kipisi ma mun ni lon tenpo pini. ona li weka tan ma pi lawa mi."
-UPDATED,stargatesectorwarning_harken_2,3054,"In the systems surveyed so far we've found new resources and severe weather systems, which may be just a glimpse into what awaits us in this sector.",
-PREVIOUS,stargatesectorwarning_harken_2,2624,"We have a full scan underway for the sector, once it's completed more locations will be marked on your map. In the systems surveyed so far we've found new resources, which may be just a glimpse into what this sector has to offer.",tenpo ni la mi alasa e ma kipisi mun ni. pini alasa la ma sin li sitelen lon sitelen ma sina. sona ma sin pi tenpo ni la mi sona e ijo pona mani sin. ken la pona mute li lon.
-UPDATED,stargatesectorwarning_harken_3,3054,"Who knows what you may find out here. Be careful, Captain.",
-PREVIOUS,stargatesectorwarning_harken_3,2624,"Unfortunately, that means pirates will probably find their way here soon, but it seems clear for now.","ike la, ni la jan ike lanpan li kama lon tenpo kama poka. taso ona li lon ala lon tenpo ni."
-UPDATED,techtree_node_title_robotarmspeed,3054,Robot Arm Speed 1,
-PREVIOUS,techtree_node_title_robotarmspeed,2448,Robot Arm Speed,tenpo tawa pi luka ilo
-UPDATED,dsi_part2_isotopesintro2,3054,"It's not too complex.  It starts with a Hyperspace Scoop, or several ideally, that you can fit to your vessels.  Every time you make an FTL jump you'll collect more as you pass through hyperspace.  You can then pipe those isotopes into a Refinery and convert them into Stable Isotopes.",
-PREVIOUS,dsi_part2_isotopesintro2,2448,"It's not too complex.  It starts with a Hyperspace Scoop, or several ideally, that you can fit to your vessels.  Every time you make an FTL jump you'll collect more as you pass through deep space at light speed.  You can then pipe those isotopes into a Refinery and convert them into Stable Isotopes.","pali li ike ala.  o open kepeken ilo alasa kiwen uta, anu mute lon pona.  o pana e ona tawa tomo tawa sina.  tawa suli ale la sina kama jo e kiwen mute pi tawa suli."
-CURRENT,tutorial_battlestationsactivate,2886,<b>BATTLE STATIONS</b> must be activated before your weapons can be used.\n\nThis will tell your crew to prepare for battle!,sina wile kepeken ilo utala la jan li wile lon <b>POKI JAN UTALA</b>.\n\nni li toki e ni tawa jan: o ken utala!
-CURRENT,tutorial_stargatejumpintro,2886,The Stargate enables travel between different sectors.\n\nThe jump costs a single <b>FTL</b> charge and the Stargate will use more power while a jump is in progress.,"lupa mun la jan li ken tawa kipisi ante pi ma mun.\n\ntawa suli li wile e poki wawa pi <b>tawa suli</b>. tenpo pi tawa suli la, lupa mun li kepeken wawa mute."
-CURRENT,tutorial_stargatejumpopenftl,2886,"First, let's open the <b>FTL</b> window.","nanpa wan la, o open e <b>lipu pi tawa suli</b>."
-CURRENT,tutorial_powerreactoractive,2886,The <b>REACTOR</b> is activated! We are now generating power for our ship.,ilo <b>wawa</b> li open! tenpo ni la ona li pana e wawa tawa ilo tawa.
-CURRENT,tutorial_airpipes,2886,We need to connect the <b>OXYGEN LOADER</b> into the <b>AIRDUCT</b> using <b>PIPES</b>.\n\nSelect <b>PIPES</b> from the <b>CONSTRUCTION</b> menu.,o wan e <b>ILO PI TAWA KON</b> e <b>NASIN LUPA KON</b> kepeken <b>NASIN LUPA</b>.\n\no wile e <b>NASIN LUPA</b> kepeken nena <b>PALI</b>.
-CURRENT,tutorial_stargatescreen1,2886,Let's turn our attention to the <b>STARGATE PROJECT</b>.\n\nWe can view our progress from the Stargate screen.\n\nOpen the <b>STARGATE</b> screen.,o lukin e <b>PALI SULI PI LUPA MUN</b>.\n\nsina ken lukin e mute pini pi pali ni kepeken lipu pi lupa mun.\n\no open e lipu pi <b>LUPA MUN</b>.
-CURRENT,tutorial_smelterssalvage,2886,Click on the nearby <b>RUINED EQUIPMENT</b> to instruct your crew to dismantle it into <b>SCRAP METAL</b>.,o luka e <b>ILO PAKALA</b>. ni li toki e ni tawa jan sina: o pakala e ni tawa <b>KIWEN SUNO PAKALA</b>.
-CURRENT,tutorial_fleettrade,2886,The ship is fitted with engines and an <b>FTL</b> drive for Interstellar Travel! But it does need a crew.\n\nOpen the <b>TRADE</b> screen.,ilo tawa ni li jo e ilo pi wawa tawa e ilo pi tawa <b>suli</b>! taso ona li wile e jan.\n\no open e LIPU <b>ESUN</b>.
-CURRENT,tutorial_dsiclosedismantle,2886,We can stop dismantling by clicking the dismantle button again or by closing the construction menu.\n\nClose the menu by clicking the <b>CONSTRUCTION</b> button or by pressing <b>ESC</b>.,wile pini e pali pakala la o luka sin e nena pi pali pakala anu pini e lipu pali.\n\no pini e lipu kepeken nena <b>PALI</b> anu nena <b>ESC</b>.
-CURRENT,tutorial_cameracontrols,2886,"Use <b>{PanUp1}{PanLeft1}{PanDown1}{PanRight1}</b> or the <b>ARROW KEYS</b> to move the view around.\n\nZoom the view using the <b>MOUSE WHEEL</b>, or <b>{ZoomIn}</b>/<b>{ZoomOut}</b> on the keyboard.\n\nDrag the view by holding the <b>MIDDLE MOUSE BUTTON</b>.","sina wile tawa lukin la o kepeken <b>nena {PanUp1}{PanLeft1}{PanDown1}{PanRight1}</b> anu <b>nena pi palisa nasin</b>.\n\nsina wile suli anu lili e sitelen la o kepeken <b>ILO TAWA SIKE PI ILO TAWA LUKA</b>, anu <b>{ZoomIn}</b>/<b>{ZoomOut}</b> lon ilo nena supa.\n\no tawa e sitelen kepeken <b>NENA MESO</b>."
-CURRENT,tutorial_flighttactical,2886,"We should give our engines a small test flight.  To maneuver our ship, switch into <b>TACTICAL</b> mode by clicking the highlighted button, or pressing <b>{ToggleTactical}</b>.","o kepeken lili e ilo tawa. sina wile ante e nasin tawa la, o ante tawa <b>NASIN UTALA</b> kepeken nena suno, anu o luka e <b>{ToggleTactical}</b>."
-CURRENT,tutorial_flightexittactical,2886,"Exit <b>TACTICAL</b> mode by clicking the button again, or pressing <b>{ToggleTactical}</b>.","sina wile pini e <b>NASIN UTALA</b> la o luka sin e nena, anu o luka e <b>{ToggleTactical}</b>."
-CURRENT,tutorial_dockingswitchtotactical,2886,"To get started, switch to <b>TACTICAL</b> mode by clicking the button or pressing <b>{ToggleTactical}</b>.","open la, o tawa <b>NASIN UTALA</b> kepeken nena anu o luka e <b>{ToggleTactical}</b>."
-CURRENT,tutorial_dockingmaneuverkeys,2886,"Use the Maneuvering controls to move the ship into position.\n\nYou can also use the keys <b>{ManoeuvreUp}</b>, <b>{ManoeuvreLeft}</b>, <b>{ManoeuvreDown}</b>, <b>{ManoeuvreRight}</b> to move, and <b>{ManoeuvreClockwise}</b> and <b>{ManoeuvreCounterClockwise}</b> to rotate the ship.","o tawa e ilo tawa tawa ma wile kepeken ilo pi lawa tawa.\n\nkin la sina ken kepeken nena <b>{ManoeuvreUp}</b>, <b>{ManoeuvreLeft}</b>, <b>{ManoeuvreDown}</b>, <b>{ManoeuvreRight}</b> tan wile tawa.<b>nena {ManoeuvreClockwise}</b> en <b>nena {ManoeuvreCounterClockwise}</b> li tawa sike e ilo tawa."
-CURRENT,tutorial_miningopenmap,2886,Now open the sector map (<b>{ToggleMap}</b>).,tenpo ni la o open e sitelen ma pi kipisi ma mun (<b>{ToggleMap}</b>).
-CURRENT,tutorial_buy_shiftclick,2886,<b>NOTE</b>: You can <b>SHIFT CLICK</b> to buy in multiples of 5.,<b>O SONA</b>: wile esun pi mute 5 la o luka <b>SHIFT CLICK</b>
-CURRENT,tutorial_introduction2,2886,"This vessel is fresh out of the shipyard production line.\n\nIt's just an empty hull right now, without power or a breathable atmosphere. Our first job is to fix that.\n\nClick <b>NEXT</b> to continue.","tomo tawa ni li kama sin tan tomo pali.\n\ntenpo ni la ona li selo weka taso, li jo ala e wawa e kon. suli nanpa wan li ni: o pona e ni.\n\nwile open la o luka e nena <b>PONA</b>."
-CURRENT,tutorial_powerinstallmenu,2886,"Let's begin by installing a <b>REACTOR</b>, to generate power for our ship.\n\nClick into the <b>CONSTRUCTION</b> menu, then click <b>INSTALL</b>.",open la o pana e <b>ILO WAWA</b>. ni li pana e wawa\n\no luka e lipu <b>PALI</b> la o luka e nena <b>O PANA E ILO</b>.
-CURRENT,tutorial_powerselectreactor,2886,This is all the boxed equipment you have available on-board.\n\nSelect <b>REACTOR</b> from the list.,ni li ilo poki ale lon tomo.\n\no wile e <b>ILO WAWA</b> tan kulupu nimi.
-CURRENT,tutorial_powerplacereactor,2886,Stamp the <b>REACTOR</b> down inside your ship.,o pana e <b>ILO WAWA</b> lon supa neko pi tomo tawa sina.
-CURRENT,tutorial_powerreactorinprogress,2886,Your crew will install the <b>REACTOR</b>.,jan sina li tawa e <b>ILO WAWA</b> tawa ma wile.
-CURRENT,tutorial_powerselectloader,2886,"The <b>REACTOR</b> needs <b>FUEL</b>, and we use a <b>FUEL LOADER</b> to pump it to the <b>REACTOR</b>.\n\nSelect the <b>FUEL LOADER</b> from the Construction menu.",The <b>ILO WAWA</b> li wile e <b>TELO WAWA</b>. <b>ILO TAWA TELO WAWA</b> li tawa e telo tawa <b>ILO WAWA</b>.\n\no wile e <b>ILO TAWA TELO WAWA</b> tan lipu pali.
-CURRENT,tutorial_powerplaceloader,2886,Stamp the <b>FUEL LOADER</b> down somewhere near the <b>REACTOR</b>.,o pana e <b>ILO TAWA TELO WAWA</b> lon poka pi <b>ILO WAWA</b>.
-CURRENT,tutorial_powerselectpipes,2886,"We need to connect the <b>FUEL LOADER</b> to the <b>REACTOR</b>, using a Pipe.\n\nSelect <b>PIPES</b> from the Construction Menu.",sina wile wan e <b>ILO TAWA TELO WAWA</b> e <b>ILO WAWA</b> kepeken nasin lupa.\n\no wile e <b>NASIN LUPA</b> tan lipu pali.
-CURRENT,tutorial_powerpipeconnect,2886,"Drag a pipe from the <b>FUEL LOADER</b> to the <b>REACTOR</b>, connecting the yellow pipe circles.\n\nFUEL <b>PIPES</b> are used to connect the output from one piece of equipment into the input of another.\n\nFUEL <b>PIPES</b> are yellow and must connect the yellow circles on equipment.",o sitelen e nasin lupa tan <b>ILO TAWA TELO WAWA</b> tawa <b>ILO WAWA</b>. o wan e sike jelo.\n\nNASIN LUPA PI TELO WAWA li wan e lupa weka pi ilo wan e lupa kama pi ilo ante.\n\nNASIN <b>LUPA</b> li jelo li wile luka e sike jelo lon ilo.
-CURRENT,tutorial_powerreactorpowerup,2886,The <b>REACTOR</b> is starting up.,<b>ILO TAWA</b> li open pali.
-CURRENT,tutorial_airinstallairduct,2886,We now need to provide a breathable atmosphere for our crew. This is done with an <b>AIRDUCT</b>.\n\nInstall an <b>AIRDUCT</b> somewhere near the Reactor.,tenpo ni la sina wile pana e kon pona tawa jan. ni li kepeken <b>NASIN LUPA KON</b>.\n\no pana e <b>NASIN LUPA KON</b> lon poka pi ilo wawa.
-CURRENT,tutorial_aircables,2886,The <b>AIRDUCT</b> needs to be powered from the <b>REACTOR</b>.  Select <b>CABLES</b> from the <b>CONSTRUCTION</b> menu.,NASIN LUPA KON li wile e wawa tan ILO WAWA. o wile e LINJA WAWA tan lipu PALI.  <b>NASIN LUPA KON</b> li wile e wawa tan <b>ILO WAWA</b>. o wile e <b>LINJA WAWA</b> tan lipu <b>PALI</b>.
-CURRENT,tutorial_aircabletoreactor,2886,"Drag a power cable from the <b>REACTOR</b> to the <b>AIRDUCT</b>, connecting the red circles.\n\nPOWER <b>CABLES</b> are used to connect reactors to any equipment that needs power.\n\nPOWER <b>CABLES</b> are red and must connect red circles on equipment.",o sitelen e linja wawa tan <b>ILO WAWA</b> tawa <b>NASIN LUPA KON</b>. o wan e sike loje.\n\n<b>LINJA WAWA</b> li wan e ilo wawa e ilo pi wile wawa.\n\n<b>LINJA WAWA</b> li loje li wile luka e sike loje lon ilo.
-CURRENT,tutorial_airinstallairloader,2886,"The <b>AIRDUCT</b> needs <b>OXYGEN</b>, in the same way as the <b>REACTOR</b> needs <b>FUEL</b>. We can use an <b>OXYGEN LOADER</b> to provide <b>OXYGEN</b>.\n\nInstall an <b>OXYGEN LOADER</b> near the <b>AIRDUCT</b>.",NASIN LUPA KON li wile e KON PONA sama ni: ILO WAWA li wile e TELO WAWA. ILO PI TAWA KON li ken pana e KON PONA.\n\no pana e ILO PI TAWA KON lon poka pi NASIN LUPA KON.
-CURRENT,tutorial_airpipetoairduct,2886,"Drag a <b>PIPE</b> from the <b>OXYGEN LOADER</b> to the <b>AIRDUCT</b>, connecting the <b>BLUE</b> circles.",o sitelen e <b>NASIN LUPA</b> tan <b>ILO PI TAWA KON</b> tawa <b>NASIN LUPA KON</b>. o wan e sike <b>LASO</b>.
-CURRENT,tutorial_airdone,2886,The <b>AIRDUCT</b> is activated and is pressurising the cabin! The atmosphere will soon be breathable.,NASIN <b>LUPA KON</b> li pali pona li kon e tomo! tenpo kama poka la kon tomo li pona tawa jan.
-CURRENT,tutorial_enginesinformation,2886,Engines require both <b>POWER</b> and <b>FUEL</b> to operate. We must connect both engines to fuel and power.,ilo pi wawa tawa la pali li wile e <b>WAWA</b> e <b>TELO WAWA</b>. o wan e ilo e telo wawa e wawa.
-CURRENT,tutorial_enginesconnectpower,2886,"Now use the <b>CABLES</b> menu to power up the engine, by connecting it to your existing red power lines.",tenpo ni la o kepeken lipu sitelen pi <b>LINJA WAWA</b>. o wawa e ilo pi wawa tawa: o wan e ona e linja wawa loje lon.
-CURRENT,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,sina wile tawa e jan tawa ma wile ona la sina wile e tawa suli. ike la ilo tawa sina li jo ala e ilo pi <b>tawa suli</b>.\n\nsina o esun e ilo o pana e ona tawa tomo.
-CURRENT,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,ilo pi tawa suli la wile esun la o open e lipu <b>esun</b>.
-CURRENT,tutorial_ftlselectpropulsion,2886,The items we need are listed under <b>PROPULSION</b>. Select that category.,kulupu nimi pi ilo wile li lon anpa pi nimi <b>WAWA TAWA</b>.
-CURRENT,tutorial_ftladdftldrive,2886,Add one <b>FTL</b> drive to our order by clicking on the entry in the list.,o open esun e ilo wan pi <b>tawa suli</b>: o luka e ona lon kulupu nimi.
-CURRENT,tutorial_ftladdftlfuel,2886,<b>FTL</b> drives consume one fuel charge per jump. Add 5 <b>FTL</b> Charges to the order as well.,<b>tawa suli</b> wan li kepeken poki wawa wan pi tawa suli. o esun kin e poki 5 <b>pi tawa suli</b>.
-CURRENT,tutorial_ftlinstallftl,2886,Install the <b>FTL</b> drive anywhere in your ship.,o pana e ilo pi tawa <b>suli</b> lon tomo tawa sina lon ma pi pilin sina.
-CURRENT,tutorial_ftlpowerftl,2886,Connect the <b>FTL</b> drive to your power network.,o wan e <b>ilo pi tawa suli</b> e wawa pi ilo tawa sina.
-CURRENT,tutorial_ftlstoragetoolbar,2886,"We can make things more efficient for our crew by telling them to store <b>FTL</b> Charges near the <b>FTL</b> drive.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>FTL</b> Charges from the list.",poki wawa li awen lon poka ilo pi tawa suli la ni li pona e pali jan. \n\no wile e <b>MA AWEN</b> tan sitelen ilo <b>PALI</b>. o wile e <b>poki wawa pi tawa suli</b> tan kulupu nimi.
-CURRENT,tutorial_ftlstorageworld,2886,Now drag out a storage zone near to the <b>FTL</b> drive.,o sitelen e ma awen lon poka ilo pi tawa <b>suli</b>.
-CURRENT,tutorial_ftlstoragedone,2886,The crew will move all the <b>FTL</b> Charges into this zone.,jan li kama tawa e poki wawa ale pi tawa <b>suli</b> tawa ma awen ni.
-CURRENT,tutorial_stargatescreen2,2886,This screen shows the phases that require construction in order to complete the <b>STARGATE</b>.\n\nWe are in <b>PHASE</b> 1. Work has only just begun.,lipu ni li pana lukin e tenpo pali pi LUPA MUN. pini ona li wile e ni ale.\n\nsina lon <b>TENPO</b> 1. pali li open taso lon tenpo pini poka.
-CURRENT,tutorial_stargatescreen3,2886,On the left of the screen you can see the requirements to complete <b>PHASE</b> 1.\n\nWe need to manufacture:\n- 100 <b>STARGATE FRAMES</b>\n- 10 <b>STARGATE RESIN</b>,poka wan pi lupu ni sina lukin e wile ale tawa pini pi <b>TENPO</b> 1.\n\nsina wile pali e:\n- SIJELO 100 PI <b>LUPA MUN</b>\n- KO 10 PI <b>LUPA MUN</b>
-CURRENT,tutorial_stargatescreen4,2886,"These <b>PHASE</b> 1 components are easy to manufacture, and we already have what we need onboard.\n\nBut we can sell them to the <b>STARGATE PROJECT</b> for a small fortune.",TENPO 1 la pali pi ijo wile li pona. ijo wile ale pi pali ni li lon tomo lon tenpo ni.\n\ntaso sina ken pana esun e ona tawa <b>PALI PI LUPA MUN</b>. mani mute li kama tawa sina tan ni.
-CURRENT,tutorial_stargatescreen5,2886,Close the <b>STARGATE</b> screen by clicking on the toolbar again (or press ESC).,o pini e lipu pi <b>LUPA MUN</b> kepeken luka pi sitelen lawa lon tenpo sin (anu o luka e nena ESC).
-CURRENT,tutorial_productionstart,2886,We are now going to learn how to produce <b>STARGATE FRAMES</b>.,tenpo ni la sina kama sona e pali ni: <b>SIJELO PI LUPA MUN</b>.
-CURRENT,tutorial_fabricationinstallfabricator,2886,"Components are manufactured in a <b>FABRICATOR</b>, using raw materials like <b>METAL INGOTS</b>.\n\nInstall a <b>FABRICATOR</b> somewhere in the South East quadrant of the station.",pali pi ijo wile li kama tan <b>ILO PALI</b> kepeken ijo sama <b>LEKO KIWEN SUNO</b>.\n\no pana e <b>ILO PALI</b> lon ma ni pi tomo sina: nasin anpa en nasin mun.
-CURRENT,tutorial_fabricationinstallassemblytable,2886,Those components are then assembled into finished products on an <b>ASSEMBLY TABLE</b>.\n\nInstall an <b>ASSEMBLY TABLE</b> somewhere near the <b>FABRICATOR</b>.,ijo ni li kama ijo pali pini lon <b>SUPA PALI</b>.\n\no pana e <b>SUPA PALI</b> lon poka pi <b>ILO PALI</b>.
-CURRENT,tutorial_fabricationpower,2886,This new equipment needs power.  Build <b>POWER CABLES</b> to connect your <b>REACTOR</b> to the <b>FABRICATOR</b> and <b>ASSEMBLY TABLE</b>.,ilo sin li wile e wawa. o sitelen e <b>LINJA WAWA</b> o wan e <b>ILO WAWA</b> e <b>ILO PALI</b> e <b>SUPA PALI</b>.
-CURRENT,tutorial_fabricationconfigurefab1,2886,We need to configure the new equipment to make the products that we want.\n\nRIGHT <b>CLICK</b> on the <b>FABRICATOR</b> to configure it.,o lawa e nasin pali pi ilo sin.\n\no LUKA ANTE e ILO <b>PALI</b> o <b>lawa</b> e nasin ona.
-CURRENT,tutorial_fabricationconfigurefab2,2886,This drop-down menu shows all of the components that we can manufacture in a <b>FABRICATOR</b>.\n\nSelect <b>FRAME</b> from the list.,kulupu nimi ni li pana lukin e ijo pali ken ale pi <b>ILO PALI</b>.\n\no wile e <b>SIJELO ILO</b> tan lipu.
-CURRENT,tutorial_fabricationconfigureass1,2886,We need to configure the <b>ASSEMBLY TABLE</b> in the same way.\n\nRIGHT <b>CLICK</b> on the assembly table.,o lawa e nasin pi <b>SUPA PALI</b> lon nasin sama.\n\no <b>LUKA ANTE</b> e supa pali.
-CURRENT,tutorial_fabricationconfigureass2,2886,Select <b>STARGATE FRAME</b> from the drop-down menu.,o wile e <b>SIJELO PI LUPA MUN</b> tan kulupu nimi.
-CURRENT,tutorial_fabricationclosefab1,2886,"Close the Equipment Panel by clicking the X in the top right corner, or pressing <b>ESC</b>.","o pini e lipu ilo: o luka e sitelen X lon nasin sewi, anu o luka e nena <b>ESC</b>."
-CURRENT,tutorial_fabricationclosefab2,2886,"Close the Equipment Panel by clicking the X in the top right corner, or pressing <b>ESC</b>.","o pini e lipu ilo: o luka e sitelen X lon nasin sewi, anu o luka e nena <b>ESC</b>."
-CURRENT,tutorial_fabricationworking,2886,"Your crew are now fabricating <b>FRAMES</b> out of <b>METAL INGOTS</b>, then assembling those <b>FRAMES</b> into <b>STARGATE FRAMES</b>, which we can sell to the <b>STARGATE</b> project for profit.","tenpo ni la jan sina li pali e <b>SIJELO ILO</b> tan <b>LEKO KIWEN SUNO</b>. pini ni la, jan li pali e <b>SIJELO PI LUPA MUN</b> kepeken <b>sijelo ilo</b>. pali suli pi <b>LUPA MUN</b> la esun pana ni li pana e mani mute."
-CURRENT,tutorial_smeltersintroduction,2886,"We are going to need a lot of <b>METAL INGOTS</b> if we're to make enough of those <b>STARGATE FRAMES</b>.\n\nWe don't have many <b>METAL INGOTS</b> on board, and will run out soon.",SIJELO PI LUPA MUN la pali pi mute pona li wile e <b>LEKO KIWEN SUNO</b> mute.\n\nsina jo ala e <b>LEKO KIWEN SUNO</b> mute lon tomo lon tomo. ona li kama weka lon tenpo kama poka.
-CURRENT,tutorial_smeltersbuild,2886,"But we do have plenty of <b>SCRAP METAL</b>, and we can melt that down in a <b>SMELTER</b>.\n\nBuild a <b>SMELTER</b> somewhere near the production line.","taso sina jo e <b>KIWEN SUNO PAKALA</b> mute, li ken telo e ona kepeken <b>ILO KIWEN SELI</b>.\n\no pana e <b>ILO KIWEN SELI</b> lon poka pi nasin pali."
-CURRENT,tutorial_smelterspower,2886,Connect the smelters to the <b>REACTOR</b> using <b>POWER CABLES</b>,o wan e ilo kiwen wawa e <b>ILO WAWA</b> kepeken <b>LINJA WAWA</b>
-CURRENT,tutorial_smeltersscrapmetal,2886,Right click on the <b>SMELTER</b> and set its material to be <b>SCRAP METAL</b>.,o luka ante e <b>ILO KIWEN SELI</b> o lawa e ijo ona tawa <b>KIWEN SUNO PAKALA</b>.
-CURRENT,tutorial_smeltersoperational,2886,The crew will now load in all the <b>SCRAP METAL</b> and smelt it into much more useful <b>METAL INGOTS</b>.,tenpo ni la jan li pana e <b>KIWEN SUNO PAKALA</b> ale li pona e ona tawa LEKO <b>KIWEN SUNO</b> pi pona kepeken mute.
-CURRENT,tutorial_smeltersdismantle,2886,"There is a ton of <b>RUINED EQUIPMENT</b> around this old station, that we can break down into <b>SCRAP METAL</b>.\n\nSelect <b>DISMANTLE</b> from the <b>CONSTRUCTION</b> toolbar.",ILO <b>PAKALA</b> mute li lon poka pi tomo ni. sina ken pakala e ona tawa <b>KIWEN SUNO PAKALA</b>.\n\no wile e <b>PALI PAKALA</b> tan sitelen lawa <b>PALI</b>.
-CURRENT,tutorial_smeltersstoragetoolbar,2886,"We can make things more efficient for our crew by telling them to store <b>SCRAP METAL</b> near to the <b>SMELTER</b>.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>SCRAP METAL</b> from the list.",sina ken pona e pali kiwen. o toki e ni tawa jan: o awen e <b>KIWEN SUNO PAKALA</b> lon poka pi <b>ILO KIWEN SELI</b>.\n\no wile e <b>AWEN</b> tan sitelen lawa <b>PALI</b>.
-CURRENT,tutorial_smeltersstorageworld,2886,Now drag out a storage zone near to the <b>SMELTER</b>.,tenpo ni la o sitelen e ma leko awen lon poka pi <b>ILO KIWEN SELI</b>.
-CURRENT,tutorial_smeltersstoragedone,2886,The crew will move all the <b>SCRAP METAL</b> into this zone.,jan li kama tawa e <b>KIWEN SUNO PAKALA</b> ale tawa ma ni.
-CURRENT,tutorial_tradewaitforsellable,2886,Your crew will now use the equipment to produce some <b>STARGATE FRAMES</b>.,tenpo ni la jan sina li kama kepeken ilo pali. ona li kama pali e <b>SIJELO PI LUPA MUN</b>.
-CURRENT,tutorial_tradeothersupplies,2886,"We can use the <b>TRADE</b> system to buy raw materials to produce more <b>STARGATE FRAMES</b>, as well as resources we will need to survive.\n\nReopen the <b>TRADE</b> screen.",sijelo pi lupa mun la wile pali mute la sina ken kepeken nasin <b>ESUN</b>. kin la sina ken esun e ijo suli ante tawa awen jan pi <b>SITELIN LUPA MUN</b>.\n\no open sin e lipu <b>ESUN</b>.
-CURRENT,tutorial_tradebuyminerals,2886,<b>METALLIC MINERALS</b> can be smelted into <b>METAL INGOTS</b> just like <b>SCRAP METAL</b>.\n\nAdd all the <b>METALLIC MINERALS</b> to the trade.,sina ken pona e <b>KIWEN PI KIWEN SUNO</b> tawa <b>LEKO KIWEN SUNO</b> sama <b>KIWEN SUNO PAKALA</b>.\n\n<b>KIWEN PI KIWEN SUNO</b> la o pana e ale tawa esun.
-CURRENT,tutorial_tradebuysmelter,2886,We will also need another <b>SMELTER</b> to begin processing those <b>METALLIC MINERALS</b>.\n\nFind the <b>SMELTER</b> under the <b>INDUSTRY</b> tab and add one to the order.,sina wile kin e ILO KIWEN SELI kin wan. ilo sin li ken pona e <b>KIWEN PI KIWEN SUNO</b>.\n\no alasa e <b>ILO KIWEN SELI</b> lon lipu <b>PALI</b>. o pana e wan ni tawa kulupu esun.
-CURRENT,tutorial_tradebuymore,2886,This is a good opportunity to stock up on some other resources that are critical for life support.\n\nWe'd recommend you purchase:\n\n - 2x <b>FUEL</b>\n - 2x <b>OXYGEN</b>\n - 2x <b>WATER</b>\n - 2x <b>FOOD</b>\n\n- <b>HIRE</b> 5 <b>MORE CREW</b>\n\nCONFIRM the order when you are done.,ni li tenpo pona tawa ni: sina kama jo e ijo suli pi awen jan.\n\npona la o esun e:\n\n - 2x <b>TELO WAWA</b>\n - 2x <b>KON PONA</b>\n - 2x <b>TELO</b>\n - 2x <b>MOKU</b>\n\n- <b>O ESUN</b> E JAN <b>MUTE</b> 5\n\nO LUKIN PONA e esun lon pini.
-CURRENT,tutorial_tradeinstallsmelter,2886,"Once those goods have arrived, you should install your second <b>SMELTER</b> somewhere near the first.",ijo esun li pini kama la o pana e <b>ILO KIWEN SELI</b> nanpa tu lon poka pi nanpa wan.
-CURRENT,tutorial_tradesmeltmetallicminerals,2886,Set the <b>SMELTER</b> to process those <b>METALLIC MINERALS</b> you bought into more <b>METAL INGOTS</b>.,o lawa e <b>ILO KIWEN SELI</b> tawa ni: ona li pona e <b>KIWEN PI KIWEN SUNO</b> tan esun sina tawa <b>LEKO KIWEN SUNO</b>.
-CURRENT,tutorial_productionsuccess,2886,"Well done, you are now all set to produce <b>STARGATE FRAMES</b>.",pali pona. tenpo ni la sina ken pali e <b>SIJELO PI LUPA MUN</b>.
-CURRENT,tutorial_fleetcrew,2886,We will need a crew. Hire five <b>CREW MEMBERS</b> from the <b>TRADE</b> screen.,o esun e <b>JAN 5</b> tan lipu <b>ESUN</b>.
-CURRENT,tutorial_fleetcrew_shiftclick,2886,<b>NOTE</b>: You can <b>SHIFT CLICK</b> to hire in multiples of 5.,<b>O SONA</b>: wile esun jan pi nanpa 5 la sina ken <b>LUKA SHIFT</b>.
-CURRENT,tutorial_fleetspacesuits,2886,Those crew will also need <b>SPACESUITS</b> as there is no atmosphere onboard our ship yet.\n\nOrder five <b>SPACESUITS</b> for the new crew.,kin la jan sin li wile e <b>LEN MUN</b> tan ni: tomo li jo ala e kon lon tenpo ni.\n\njan sin la o esun e <b>LEN MUN</b> 5.
-CURRENT,tutorial_fleettradeconfirm,2886,<b>CONFIRM</b> the trade.,<b>o PINI PONA</b> e esun.
-CURRENT,tutorial_fleetresources,2886,We also need resources for the ship to function.\n\nUse the <b>TRADE</b> screen to buy:\n- 5x <b>FUEL</b>\n- 5x <b>OXYGEN</b>\n- 5x <b>FTL CHARGE</b>\n- 2x <b>FOOD</b>\n- 2x <b>WATER</b>.\n\nCONFIRM the trade when you are done.,ilo tawa li wile kin e ijo sulo.\n\no kepeken lipu <b>ESUN</b> o esun e:\n- 5x <b>TELO WAWA</b>\n- 5x <b>KON PONA</b>\n- 5x <b>WAWA PI TAWA SULI</b>\n- 2x <b>MOKU</b>\n- 2x <b>TELO</b>.\n\no PONA e esun lon pini.
-CURRENT,tutorial_flightengines,2886,We can directly control our engine <b>THROTTLE</b> from here.\n\nTry increasing your engine throttle with this control.,sina ken lawa e <b>NANPA WAWA</b> pi tawa ilo lon ni.\n\no suli e wawa tawa kepeken ni.
-CURRENT,tutorial_flightturning,2886,"We can also turn the ship by left clicking in <b>TACTICAL</b> mode, in the direction we wish to travel.",kin la sina ken tawa sike e ilo tawa. o luka lon lipu pi <b>NASIN UTALA</b>.
-CURRENT,tutorial_flightsetcourse,2886,We can send our ship to a specific location by <b>RIGHT-CLICKING</b>. Try setting a destination by right clicking in the tactical view.,sina ken tawa e ilo tawa sina tawa ma wile kepeken <b>LUKA ANTE</b>. o pana e ma wile kepeken luka ante lon lipu pi nasin utala.
-CURRENT,tutorial_flightinformation,2886,"Your crew will continue to operate the ship and keep the engines running as you travel around. Try flying around the system until you have a handle on the controls.\n\nWhen you are ready, bring the ship to a stop by setting the <b>THROTTLE</b> to zero in <b>TACTICAL</b> mode.",tawa la jan li awen pali lon tomo tawa li awen e pona ilo pi wawa tawa. o tawa lili lon ma ni tawa suli po sona lawa sina.\n\nwile pini la o pini e tawa kepeken nanpa ala lon ilo lawa pi <b>WAWA TAWA</b> lon lipu pi <b>NASIN UTALA</b>.
-CURRENT,tutorial_financemissionscreen,2886,"Now that our ship is up and running, we need to earn our way.  We can complete contracts for financial reward and reputation.\n\nOpen the <b>CONTRACTS</b> screen to see a list of available contracts.",ilo tawa li pona ken la sina wile kama jo e mani. sina pini pona e pali esun la ni li pana e mani e pilin pona pi jan ante tawa sina.\n\no open e lipu pi <b>PALI ESUN</b>. ni la o lukin e kulupu pi pali esun ken.
-CURRENT,tutorial_financeselectship,2886,"Contracts are assigned to the ship you currently have selected.\n\nOnly the <b>PROCYON</b> can travel between locations, so select the <b>PROCYON</b>.",ilo tawa lon li jo e pali esun.\n\nilo <b>PROCYON</b> taso li ken tawa ma sin la o kepeken ilo <b>PROCYON</b>.
-CURRENT,tutorial_financeselecttransport,2886,"Here we have a <b>TRANSPORT PASSENGER</b> contract, click it to see more details.",ni li pali esun pi <b>TAWA JAN</b>. wile lukin e toki ale ona la o luka e ona.
-CURRENT,tutorial_financeassigntransport,2886,This mission requires us to transport a group of people from here to another location in the sector.\n\nClick the accept button to assign this contract to the <b>PROCYON</b>.,pali esun ni li wile e ni: sina tawa e kulupu jan tawa ma ante lon kipisi ma mun ni. \n\no luka e nena pona. ni li pana e pali esun ni tawa ilo <b>PROCYON</b>.
-CURRENT,tutorial_financepassengersinbound,2886,The passengers will be delivered to the <b>PROCYON</b> by shuttle.,jan tawa li kama tawa tomo <b>PROCYON</b> kepeken tomo tawa lili.
-CURRENT,tutorial_financesectormap,2886,"All passengers have been delivered to the <b>PROCYON</b>, and our <b>FTL</b> drive is operational. We must now plot an <b>FTL</b> jump to their destination.\n\nOpen the <b>SECTOR MAP</b>.",jan tawa ale li lon tomo <b>PROCYON</b>. ilo pi <b>tawa suli</b> li ken. tenpo ni la o wile e nasin pi <b>tawa suli</b>.\n\no open e <b>SITELEN MA</b>.
-CURRENT,tutorial_financesetdestination,2886,"This is a map of all the systems in this sector.\n\nOur ship and our space station are located in the middle, where the map is marked <b>YOU-ARE-HERE</b>.\n\nSet a course to the destination (labelled <b>TRANSPORT</b> PASSENGERS) by clicking on it.","ni li sitelen ma pi kulupu sike ale lon kipisi ma mun ni.\n\nilo tawa en tomo mun sina li lon insa, lon sitelen pi toki <b>SINA LON</b>.\n\no pana e nasin tawa ma wile (li jo e nimi O <b>TAWA</b> E JAN) kepeken luka."
-CURRENT,tutorial_financeclosesectormap,2886,"Close the <b>SECTOR MAP</b> by clicking the X in the top right corner, or by pressing <b>ESC</b>.",o pini e <b>SITELEN MA</b> kepeken sitelen X lon sewi.
-CURRENT,tutorial_financeftlwindow,2886,Open the <b>FTL</b> screen to order the <b>FTL</b> jump.,wile tawa suli la o open e <b>lipu pi tawa suli</b> pi tawa suli.
-CURRENT,tutorial_financepreparejump,2886,Click on <b>PREPARE JUMP</b> to align the ship and prepare for hyperspace.,"o luka e nena pi <b>O OPEN E TAWA SULI</b> la, o pana e tomo tawa insa pi nasin tawa suli."
-CURRENT,tutorial_financepreparingjump,2886,"The <b>PROCYON</b> will align for hyperspace, and prepare the <b>FTL</b> drive to make the jump.",ilo <b>PROCYON</b> li tawa sike tawa nasin pona pi tawa suli. ona li ken e ilo pi <b>tawa suli</b>.
-CURRENT,tutorial_financejump,2886,Click the <b>JUMP</b> button to jump to hyperspace.,wile open pi tawa suli la o luka e nena pi <b>TAWA SULI</b>
-CURRENT,tutorial_financeselectmission,2886,We now need to turn in our completed passenger contract.\n\nOpen the <b>CONTRACTS</b> screen and select the passenger mission.,tenpo ni la sina wile pini e pali esun pi tawa jan.\n\no open e lipu pi <b>PALI ESUN</b>. o wile e pali esun pi tawa jan.
-CURRENT,tutorial_financeturnin,2886,Click the <b>DELIVER</b> button to drop off the passengers and receive payment,o luka e nena <b>PANA</b>. ni li pana e jan tawa li kama e mani.
-CURRENT,tutorial_wrapup2,2886,"The career you choose is now up to you.  There are many opportunities to choose from, and you'll learn more as you work.\n\nOpen the <b>CONTRACTS</b> board.",tenpo ni la nasin sina li kama tan wile sina. nasin mute li ken. pali la sina kama sona mute.\n\no open e lipu pi <b>PALI ESUN</b>.
-CURRENT,tutorial_resinstart,2886,We are now going to learn how to produce <b>STARGATE RESIN</b>.,tenpo ni la o kama sona pali e <b>KO PI LUPA MUN</b>.
-CURRENT,tutorial_resinintro,2886,"Turning our attention back to the Stargate, the Stargate project also requires us to produce <b>STARGATE RESIN</b>.\n\nWe are going to use the <b>INDUSTRIOUS</b> to collect <b>METREON GAS</b>, refine it, and process it into <b>STARGATE RESIN</b>.",sin la o toki lon lupa mun. pali ona li wile e <b>KO PI LUPA MUN</b>.\n\nkepeken ilo <b>INDUSTRIOUS</b> la sina kama jo e <b>KON METEJAN</b>. sina pona e ona tawa <b>KO PI LUPA MUN</b>.
-CURRENT,tutorial_resinintro2,2886,Raise enough money to purchase for <b>INDUSTRIOUS</b>:\n\n- 1x <b>GAS COLLECTOR</b>\n- 1x <b>REFINERY</b>\n- 1x <b>CHEMICAL LAB</b>,o kama jo e mani pi mute pona. ilo <b>INDUSTRIOUS</b> la sina wile esun e:\n\n-1x ILO ALASA KON\n- 1x ILO PI PALI PONA\n-1 1x SUPA PALI PI SONA SELI
-CURRENT,tutorial_resinselectnebula,2886,"Before we can start collecting the <b>METREON GAS</b>, we need to move the <b>INDUSTRIOUS</b> to a system containing a <b>GAS CLOUD</b>.\n\nUse the <b>SECTOR MAP</b> to select a suitable destination.",sina wile kama jo e <b>kon Metejan</b> la sina wile tawa e <b>ilo INDUSTRIOUS</b> tawa kulupu sike pi <b>KON KO</b>.\n\no alasa e nasin pona kepeken <b>SITELEN MA</b>.
-CURRENT,tutorial_resinjumptonebula,2886,Close the sector map and use the <b>FTL</b> Window to jump the <b>INDUSTRIOUS</b> to the nebula.,o pini e sitelen ma. kepeken lipi pi tawa suli la o tawa e ilo <b>INDUSTRIOUS</b> tawa kon ko.
-CURRENT,tutorial_resininstallgascollector,2886,"Install the <b>GAS COLLECTOR</b>, <b>REFINERY</b> and <b>CHEMICAL LAB</b> so that they are close to each other.",o pana e <b>ILO ALASA KON</b> e <b>ILO KIWEN SELI</b> e <b>SUPA PALI PI SONA SELI</b>. ale o kulupu poka.
-CURRENT,tutorial_resinpowerup,2886,"Power up the <b>GAS COLLECTOR</b>, <b>REFINERY</b> and <b>CHEMICAL LAB</b>.",o wawa e <b>ILO ALASA KON</b> e <b>ILO PI PALI PONA</b> e <b>SUPA PALI PI SONA SELI</b>.
-CURRENT,tutorial_resinrefineryrecipe,2886,Right click on the <b>REFINERY</b> and set its recipe to <b>REFINE METREON GAS</b>.,o luka ante e <b>ILO PI KPALI PONA</b>. o lawa e nasin pali ona tawa <b>PONA KON METEJAN</b>.
-CURRENT,tutorial_resinchemicallabrecipe,2886,Right click on the <b>CHEMICAL LAB</b> and set its recipe to <b>MAKE STARGATE RESIN</b>.,o luka ante e <b>SUPA PALI PI SONA SELI</b>. o lawa e nasin pali ona tawa <b>KO PI LUPA MUN</b>.
-CURRENT,tutorial_resinconnectgascollector,2886,Connect the <b>GAS COLLECTOR</b> to the <b>REFINERY</b> with a <b>PIPE</b>.,o wan e <b>ILO ALASA KON</b> e <b>ILO PI PALI PONA</b> kepeken <b>NASIN LUPA</b>.
-CURRENT,tutorial_resinconnectchemicallab,2886,Connect the <b>REFINERY</b> to the <b>CHEMICAL LAB</b> with a <b>PIPE</b>.,O WAN e <b>ILO PI PALI PONA</b> e <b>SUPA PALI PI SONA SELI</b> kepeken <b>NASIN LUPA</b>.
-CURRENT,tutorial_resinsuccess,2886,"Well done, you have started to produce <b>STARGATE RESIN</b>.\n\nWhen you have produced enough, travel back to any <b>COLONY</b>, <b>SHIP YARD</b> or the <b>STARGATE</b> system to sell it to the <b>STARGATE PROJECT</b>.",pali pona. sina open pali e <b>KO PI LUPA MUN</b>.\n\npini pali pi mute pona la o tawa KULUPU TOMO JAN anu MA PALI PI ILO TAWA anu kulupu sike pi LUPA MUN. ma ni la o esun e ko tawa <b>KULUPU PALI PI LUPA MUN</b>.
-CURRENT,tutorial_dockingcheckthrusters,2886,"In order to be able to dock successfully, your ship needs at least four working <b>THRUSTERS</b>.\n\nUse a different ship, or purchase and install four thrusters at a nearby trading post.",wile pi poka lupa pona la ilo tawa sina li wile e <b>ILO LILI PI WAWA TAWA</b> lon nanpa tu tu anu mute.\n\no kepeken ilo tawa ante anu o esun o pana e ilo lili tu tu pi wawa tawa lon tomo esun poka.
-CURRENT,tutorial_dockingzoomin,2886,Zoom in so that you can see the docking guides more clearly. They are <b>RED</b> diamonds extending from the docking ports.,wile lukin pona pi nasin poka lupa la o suli e sitelen lukin sina. nasin li leko <b>LOJE</b> (pi tawa sike) lon poka lupa.
-CURRENT,tutorial_dockingopenmaneuver,2886,Open the <b>MANEUVERING THRUSTER</b> controls.,o open e ilo lawa ni: <b>ILO LILI PI WAWA TAWA</b>.
-CURRENT,tutorial_dockingmaneuver,2886,"Use your <b>THRUSTERS</b> to maneuver your ship so that <b>RED</b> diamonds of your docking ports align with the docking port of the *X.\n\nWhen aligned correctly, they will both turn <b>YELLOW</b>.\n\nKeep the ships aligned until the docking bridge is fully extended.",o kepeken <b>ILO LILI PI WAWA TAWA</b>. o tawa e ilo tawa sina kepeken nasin ni: leko <b>LOJE</b> pi lupa sina li lon sama lupa *X.\n\nlon pona la leko tu li kama <b>JELO</b>.\n\nlupa tu li poka pona la nasin lupa li wan e tu. pini ni ala la o awen pona e lon pi ilo tawa sina.
-CURRENT,tutorial_logisticscrewselectship,2886,Select the <b>UMC</b> Astral Temptress. \n\n As you can see it has no crew.,o wile e ilo <b>UMC</b> Astral Temptress. \n\n sina ken lukin e ni: jan li weka.
-CURRENT,tutorial_logisticscrewselectfrom,2886,Select the <b>SOURCE</b> ship that the crew will come <b>FROM</b>.,o wile e tomo <b>KAMA</b> pi jan tawa.
-CURRENT,tutorial_logisticscrewclicktarget,2886,Click in the <b>CREW</b> cell of the <b>DESTINATION</b> ship to request 5 crew to transfer.,o luka e POKI <b>JAN</b> lon tomo <b>TAWA</b>. ni li pana e lawa ni: o tawa e jan 5.
-CURRENT,tutorial_logisticscrewclicktarget_shiftclick,2886,<b>NOTE</b>: You can <b>SHIFT CLICK</b> to request transfer in multiples of 5.,<b>O SONA</b>: wile tawa pi jan 5 lon tenpo la o <b>LUKA SHIFT</b>.
-CURRENT,tutorial_combatselectcannon,2886,"Your guns can also target specific points on enemy ships.\n\nFirst, select which guns you would like to use.\n\nYou can <b>SHIFT CLICK</b> to select multiple guns.",ilo utala li ken kin pakala e ma wile lon ilo tawa ike.\n\nnanpa wan la o wile e ilo utala kepeken.\n\nwile pi ilo mute la sina ken <b>LUKA SHIFT</b>.
-CURRENT,tutorial_combatbattlestations,2886,The effect of the <b>EMP</b> is wearing off!\n\nDeploy your weapons and make your crew ready to fight by clicking on <b>BATTLE STATIONS</b>.,pali <b>EMP</b> li kama pini!\n\no open e ilo utala. o ken e pali utala jan kepeken ni: o luka e <b>POKI JAN UTALA</b>.
-CURRENT,tutorial_combatkeepmoving,2886,"Make sure to keep moving during combat, this increases your <b>EVASION</b> and makes you a harder target to hit.",pona la o tawa mute lon tenpo utala. tawa li suli e <b>TAWA WEKA TAN PAKALA</b>. ni la jan ike li ken ala pakala pona e sina.
-CURRENT,tutorial_mininginstalllaser,2886,You will need a Mining Laser. These use a lot of power so consider installing extra reactors or batteries.\n\nInstall a <b>MINING LASER</b> and connect it to the power grid.,sina wile e ilo alasa kiwen suno.  ni li kepeken wawa mute la sina kin wile pana e ilo wawa e poki wawa namako.\n\no pana e <b>ILO ALASA KIWEN SUNO</b>.  o wan e ona e nasin wawa.
-CURRENT,tutorial_miningundock,2886,Make sure to <b>UNDOCK</b> from any other ship (from the <b>TACTICAL</b> screen).,pona la o <b>PINI E POKA LUPA</b> tan tomo tawa ante ale (kepeken lipu pi <b>NASIN UTALA</b>).
-CURRENT,tutorial_miningflytosystem,2886,"Look at the rocks on the map, these indicate <b>ASTEROID BELTS</b>. \n\nFly to a system in an asteroid belt, it will probably contain Tilium Ore.",o lukin e kiwen lon sitelen ma. ni li <b>KULUPU KIWEN MUN</b>. \n \no tawa kulupu sike lon kulupu kiwen. ken suli la ona li jo e kiwen Silija
-CURRENT,tutorial_miningselectlaser,2886,"You can also target specific mineral patches.\n\nFirst, select which laser you would like to use.\n\nYou can <b>SHIFT CLICK</b> to select multiple lasers.",kin la sina ken wile e nasin alasa.\n\nopen la o wile e ilo alasa kepeken.\n\nwile pi ilo mute la o <b>LUKA SHIFT</b>.
-CURRENT,tutorial_mininginstalldronebay,2886,Drones will collect mined resources.\n\nInstall a <b>DRONE BAY</b> so your drones can collect the Tilium Ore.,ilo tawa ilo li kama e kiwen.\n\no pana e <b>TOMO PI ILO TAWA ILO</b> la ilo li ken kama e kiwen Silija.
-CURRENT,tutorial_miningfleetorders,2886,You also need to make sure that <b>GATHER MATERIALS</b> is enabled in <b>FLEET ORDERS</b>.,ni kin li wile: <b>NASIN LAWA KULUPU</b> li wile ken <b>ALASA</b>.
-CURRENT,tutorial_mininginstallsmelter,2886,You will need to smelt the raw Tilium Ore to crystals.\n\nInstall a <b>SMELTER</b>.,sina wile pona e kiwen Silija tawa mani suno Silija.\n\no pana e <b>ILO KIWEN SELI</b>.
-CURRENT,tutorial_miningsetsmelter,2886,Right click on the <b>SMELTER</b> and select <b>TILIUM ORE</b> to smelt it into Tilium Crystals.,o luka ante e <b>ILO KIWEN SELI</b>. o wile e <b>KIWEN SILIJA</b>. ni li pona e ona tawa mani suno Silija.
-CURRENT,tutorial_buyshipinspect,2886,"Click on the <b>JMC MINING STATION</b>, an old unused industrial station for sale.",o luka e <b>tomo JMC MINING STATION</b>. tomo ni pi alasa kiwen li wile esun li kama tan tenpo pini.
-CURRENT,tutorial_buyshipbuy,2886,Click on the <b>BUY</b> button to purchase the <b>JMC MINING STATION</b>.,o luka e nena <b>ESUN</b>. ni li esun e tomo <b>JMC MINING STATION</b>.
-CURRENT,tutorial_buyshipsuccess,2886,"Well done, you have purchased the <b>JMC MINING STATION</b>.",sina pona. sina esun e tomo <b>JMC MINING STATION</b>
+NEW,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.",
 CURRENT,settings_sound,2793,SOUND,KALAMA
 CURRENT,settings_appearance,2793,APPEARANCE,NASIN LUKIN
 CURRENT,settings_keybindings,2793,KEYBOARD,ILO NENA
@@ -494,12 +48,14 @@ CURRENT,keybinding_gamespeed9,2793,9x Speed,tenpo pi wawa 9x
 CURRENT,keybinding_gamespeed0,2793,Half Speed,tenpo pi wawa meso
 CURRENT,keybinding_rotateobject,2793,Rotate Object,o tawa sike e ijo
 CURRENT,keybinding_takescreenshot,2793,Screenshot (+ {MetaCtrl}),o kama jo e sitelen (+ {MetaCtrl})
+CURRENT,keybinding_alttool,2793,Eye-dropper,ilo lanpan kule sitelen
 CURRENT,origin_shipofficial,2793,OFFICIAL SHIPS,ILO TAWA NASIN
 CURRENT,origin_shipcommunity,2793,COMMUNITY SHIPS,ILO TAWA TAN KULUPU JAN
 CURRENT,origin_shipuser,2793,PLAYER-MADE SHIPS,ILO TAWA SINA
 CURRENT,origin_shipsteam,2793,SUBSCRIBED SHIPS ON STEAM WORKSHOP,ILO TAWA TAN TOMO PALI STEAM
 CURRENT,origin_shipsteamuser,2793,SHIPS UPLOADED TO STEAM WORKSHOP,ILO TAWA SINA LON TOMO PALI STEAM
 CURRENT,shipeditor_mode_eyedropper,2793,Eyedropper,ilo lanpan kule sitelen
+CURRENT,shipeditor_tooltip_eyedropper,2793,"Lets you select a paint from the exterior of your ship (can also be used by pressing the ""Shift"" key)","ilo ni li kama jo e kule tan selo pi ilo tawa sina. kin la sina ken kepeken nena ""Shift""."
 CURRENT,shipeditor_paint,2793,PAINT,KULE
 CURRENT,shipeditor_paint_paint,2793,Foreground Paint,kule sinpin
 CURRENT,shipeditor_paint_erase,2793,Background Paint,kule monsi
@@ -529,13 +85,16 @@ CURRENT,object_sofa,2793,Sofa,supa pi monsi mute
 CURRENT,object_potplant,2793,Pot Plant,kasi poki
 CURRENT,tutorial_battlestations_title,2793,BATTLE STATIONS,POKI JAN UTALA
 CURRENT,tutorial_battlestationsstart,2793,We are now going to learn how to deploy our weapons for combat.\n\nThe game has been paused for now.,tenpo ni la o kama sona e nasin open pi ilo utala.\n\ntenpo li tawa ala lon tenpo ni.
+CURRENT,tutorial_battlestationsactivate,2793,BATTLE STATIONS must be activated before your weapons can be used.\n\nThis will tell your crew to prepare for battle!,sina wile kepeken ilo utala la jan li wile lon POKI JAN UTALA.\n\nni li toki e ni tawa jan: o ken utala!
 CURRENT,tutorial_battlestationshighlightcrew,2793,Your crew will run to the weapons to deploy them.\n\nGatling guns don't require any crew to deploy them.,jan li tawa ilo utala li open e ken utala ona.\n\nilo utala Gatling li wile ala e jan.
 CURRENT,tutorial_battlestationshighlightguns,2793,The gun barrels will begin to extend when they arrive.\n\nWhen the barrels are fully extended they will be ready to fire!,"kama jan la, palisa pi ilo utala li open tawa tan sinpin.\n\npini tawa palisa la ilo li ken utala!"
 CURRENT,tutorial_battlestationssuccess,2793,"Well done, your weapons are now successfully deployed for battle!",pona. ilo utala li ken utala.
 CURRENT,tutorial_stargatejump_title,2793,STARGATE JUMPING,TAWA SULI PI LUPA MUN
 CURRENT,tutorial_stargatejumpstart,2793,We are now going to learn how to jump using the newly powered-up Stargate.,tenpo ni la sina kama sona e nasin pi tawa suli kepeken lupa mun pi wawa sin.
 CURRENT,tutorial_stargatejumpnopower,2793,"The Stargate currently has lost power and needs to be started again.\n\nUse energy transmitters to power the Stargate.\n\nWhen the Stargate is ready, we will try again!",lupa mun la wawa li weka. ona li wile open sin.\n\no wawa e lupa mun kepeken ilo pi pana wawa.\n\nlupa li jo e wawa la o open sin!
+CURRENT,tutorial_stargatejumpintro,2793,The Stargate enables travel between different sectors.\n\nThe jump costs a single FTL charge and the Stargate will use more power while a jump is in progress.,"lupa mun la jan li ken tawa kipisi ante pi ma mun.\n\ntawa suli li wile e poki wawa pi tawa suli. tenpo pi tawa suli la, lupa mun li kepeken wawa mute."
 CURRENT,tutorial_stargatejumpselectsystem,2793,Let's have a look at your ship in the Stargate system.\n\nStargate jumps can only be performed from the Stargate system.,o lukin e ilo tawa sina lon ma poka pi lupa mun.\n\ntawa suli pi lupa mun li ken open lon ma ni taso.
+CURRENT,tutorial_stargatejumpopenftl,2793,"First, let's open the FTL window.","nanpa wan la, o open e lipu pi tawa suli."
 CURRENT,tutorial_stargatejumpabortjump,2793,We will need to abort the jump that's currently planned.,wile lon pi tawa suli li lon. o weka e ni.
 CURRENT,tutorial_stargatejumphighlightalign,2793,"When no jump is planned on the sector map, you can align your fleet for a Stargate jump.","wile lon pi tawa suli li lon ala la, sina ken tawa sike e kulupu sina tawa nasin wile pi tawa suli sin kepeken lupa mun."
 CURRENT,tutorial_stargatejumphighlightaligning,2793,Great! The selected ships will now align for the jump.,pona!  ilo tawa pi wile wina li tawa sike tawa nasin pi tawa suli lon tenpo ni.
@@ -549,8 +108,11 @@ CURRENT,origin_user,2793,PLAYER-MADE,TAN SINA
 CURRENT,origin_steam,2793,SUBSCRIBED ON STEAM WORKSHOP,TAN ESUN STEAM WORKSHOP
 CURRENT,origin_steamuser,2793,UPLOADED TO STEAM WORKSHOP,SINA PANA TAWA ESUN STEAM WORKSHOP
 CURRENT,special_stargatepart3,2793,"Andromeda Project Phases 4, 5",kipisi nanpa tu tu en luka pi pali sule Antometa
+CURRENT,tutorial_powerreactoractive,2793,The REACTOR is activated! We are now generating power for our ship.,ILO WAWA li open! tenpo ni la ona li pana e wawa tawa ilo tawa.
 CURRENT,dsi_part2_objective_installengines,2793,OPTIONAL: Install engines in the A.J.E Foundry,KEN: o pana e ilo pi wawa tawa lon tomo A.J.E Foundry
+CURRENT,settings_exitsaves_tooltip,2675,"When enabled, the current game will be saved when abandoned or when the game is quit in a file called exitsave.\n\nCAUTION: This file will be overwritten on every exit.","wile ni la, sina weka anu pini tan musi la, musi li awen lon lipu pi nimi ""exitsave"".\n\nO SONA: pini musi ale li sitelen sin e lipu ni pi awen musi."
 CURRENT,settings_dynamiclighting,2675,Use Dynamic Lighting,o kepeken nasin suno pi kama ante
+CURRENT,newmainmenu_exitsaves,2675,Exit-saves,awen musi pi tawa weka
 CURRENT,hud_ftlshipnotviablewarning,2675,Ship needs either hull or scaffolding to be brought into hyperspace,"wile pi tawa suli la, ilo tawa li wile e selo kiwen anu palisa sijelo ilo"
 CURRENT,trade_cancelautotrade,2675,CANCEL AUTO-TRADE,O WEKA E ESUN ILO
 CURRENT,hud_collector_tooltip_totalgathered,2675,TOTAL GATHERED,MUTE TAN ALASA
@@ -558,6 +120,8 @@ CURRENT,alert_type_autotradeinactive_tooltip,2639,One or more of your auto-order
 CURRENT,save_cloudsavefailed_header,2639,WARNING: Cloud Save Failed,O SONA: awen musi li pakala
 CURRENT,save_cloudsavefailed_body,2639,"The game failed to save to the cloud, the game has been saved locally instead.\n\nPlease check that you have enough storage in the Steam Cloud and try again.",sina lukin awen e musi tawa poki Steam la awen li pakala. ante la musi li awen tawa poki sina.\n\no lukin e ni: poki Steam sina li jo ala jo e poki weka pi suli pona. jo la o awen sin.
 CURRENT,mission_type_sectorjumpgate,2639,Jumpgate (Sector),lupa pi tawa suli (kipsi ma mun)
+CURRENT,stargate_newsystems_harken_2,2639,"Unfortunately it seems pirates have gotten to them first, and have set up their own shipyards around the Neubidium deposits in the system.",ike la jan ike lanpan li kama lon tenpo pini. ona li jo e ma pali pi ilo tawa lon poka pi kiwen Nupisijan.
+CURRENT,tutorial_airpipes,2448,We need to connect the OXYGEN LOADER into the AIRDUCT using PIPES.\n\nSelect PIPES from the CONSTRUCTION menu.,o wan e ILO PI TAWA KON e NASIN LUPA KON kepeken NASIN LUPA.\n\no wile e NASIN LUPA kepeken nena PALI.
 CURRENT,profiler_glfinishcaption,2624,glFinish,glFinish
 CURRENT,settings_arraytextures,2624,Use Array Textures,o kepeken sitelen pi sitelen lili mute
 CURRENT,newmainmenu_arena_shipquantity,2624,Quantity,mute
@@ -632,6 +196,13 @@ CURRENT,stargate_power_on_failed,2624,FAILED,OPEN LI PAKALA
 CURRENT,stargate_ready_for_jump,2624,READY FOR JUMP,KEN TAWA
 CURRENT,stargate_jumping,2624,JUMP IN PROGRESS,TAWA LI LON
 CURRENT,stargate_available_subtitle,2624,Phase *X Available,tenpo *X li ken open
+CURRENT,stargatesectorwarning_harken_1,2624,"Captain, this sector has never been visited before and it is outside of my security jurisdiction.","jan lawa o, jan ala li tawa kipisi ma mun ni lon tenpo pini. ona li weka tan ma pi lawa mi."
+CURRENT,stargatesectorwarning_harken_2,2624,"We have a full scan underway for the sector, once it's completed more locations will be marked on your map. In the systems surveyed so far we've found new resources, which may be just a glimpse into what this sector has to offer.",tenpo ni la mi alasa e ma kipisi mun ni. pini alasa la ma sin li sitelen lon sitelen ma sina. sona ma sin pi tenpo ni la mi sona e ijo pona mani sin. ken la pona mute li lon.
+CURRENT,stargatesectorwarning_harken_3,2624,"Unfortunately, that means pirates will probably find their way here soon, but it seems clear for now.","ike la, ni la jan ike lanpan li kama lon tenpo kama poka. taso ona li lon ala lon tenpo ni."
+CURRENT,stargatesectorwarning_harken_4,2624,Severe weather has also been detected nearby.,kin la mi lukin e tawa kon ike lon poka.
+CURRENT,stargatesectorwarning_harken_5,2624,"Who knows what you may find out here. Be careful, Captain.","jan ala li sona e ni: sina kama lukin e seme tan alasa pi ma sin ni. o tawa pi awen pona, jan lawa o."
+CURRENT,stargate_newsystems_harken_1,2624,"Captain, our sector scan has found new systems in the sector.","jan lawa o, alasa lukin li pana e sona pi ma sin lon kipisi ma mun ni."
+CURRENT,stargate_newsystems_harken_3,2624,"Be prepared for combat if you're going to visit. Good luck, Captain.","sina kama la o ken utala. o alasa pona, jan lawa o."
 CURRENT,mission_sectorprotect_offer1,2624,"Thank you, Captain! We would never have survived without your assistance.",jan lawa o sina pona a! pona sina ala la mi awen ala.
 CURRENT,mission_sectorprotect_offer2,2624,"If you'd be interested, we'd be honoured to join forces with your fleet.","sina wile la, mi wile pona kulupu kepeken sina."
 CURRENT,mission_sectorprotect_description1,2624,Investigate a distress call in system S*X.,o alasa e toki pi wile pona lon kulupu sike S*X.
@@ -651,6 +222,9 @@ CURRENT,object_engine_description,2624,The ship's main source of forward thrust.
 CURRENT,mission_flightready_engines_help,2624,Engines for propulsion.  Test fire your engines (From the TACTICAL view) to certify them.,ilo pi wawa tawa li tawa e ilo tawa.  o kepeken pi tenpo nanpa wan e ilo pi wawa tawa (lon sitelen pi NASIN UTALA).  ni li pana e sona ni: ona li ken.
 CURRENT,mission_tiddlets_accepted,2624,Excellent. We are sending a shuttle to you now.,pona mute. mi pana e ilo tawa lili tawa sina lon tenpo ni.
 CURRENT,stargate_testfire_help,2624,"Captain, the Stargate is ready for its first test. If supplied with enough power it should provide us access to a nearby uncharted sector.","jan lawa o, sina ken kepeken nanpa wan e lupa mun. jo pi mute wawa pona la, ona li pana e nasin tawa ma mun sin poka."
+CURRENT,tutorial_stargatescreen1,2624,Let's turn our attention to the STARGATE PROJECT.\n\nWe can view our progress from the Stargate screen.\n\nOpen the STARGATE screen.,o lukin e PALI SULI PI LUPA MUN.\n\nsina ken lukin e mute pini pi pali ni kepeken lipu pi lupa mun.\n\no open e lipu pi LUPA MUN.
+CURRENT,tutorial_smelterssalvage,2624,Click on the nearby RUINED EQUIPMENT to instruct your crew to dismantle it into SCRAP METAL.,o luka e ILO PAKALA. ni li toki e ni tawa jan sina: o pakala e ni tawa KIWEN SUNO PAKALA.
+CURRENT,tutorial_fleettrade,2624,The ship is fitted with engines and an FTL drive for Interstellar Travel! But it does need a crew.\n\nOpen the TRADE screen.,ilo tawa ni li jo e ilo pi wawa tawa e ilo pi tawa suli! taso ona li wile e jan.\n\no open e LIPU ESUN.
 CURRENT,tutorial_wrapup3,2624,"Many different types of contract are now available to you.\n\nHowever, you must stay alert, Captain. There are reports of even more lucrative opportunities that you'll have to find by yourself.",pali esun pi nasin mute li ken\n\ntaso o lukin pona lon tenpo ale. toki la alasa li ken pana e pali esun pi mani mute.
 CURRENT,tutorial_combatstart,2624,We are now going to learn some basic combat techniques.,tenpo ni la o kama sona e nasin utala open.
 CURRENT,tutorial_miningsuccess,2624,"Well done, you have produced Tilium Cystals.",sina pona. sina pali e KIWEN MANI SILIJA
@@ -746,9 +320,11 @@ CURRENT,object_tank,2499,Huge Tank,poki telo suli
 CURRENT,dsi_part1_objective_storescrap,2499,Store scrap metal near Smelter [*X/10],o awen e kiwen suno pakala lon poka pi ilo kiwen seli [*X/10]
 CURRENT,dsi_part1_objective_storeingots,2499,Store Metal Ingots near Smelter [*X/10],o awen e kiwen leko lon poka pi ilo kiwen seli [*X/10]
 CURRENT,trade_waitingfor,2499,Waiting for *X x *Y,awen dan *X x *Y
+CURRENT,tutorial_dsiclosedismantle,2489,We can stop dismantling by clicking the dismantle button again or by closing the construction menu.\n\nClose the menu by clicking the CONSTRUCTION button or by pressing ESC.,wile pini e pali pakala la o luka sin e nena pi pali pakala anu pini e lipu pali.\n\no pini e lipu kepeken nena PALI anu nena ESC.
 CURRENT,language_helpustranslate,2448,Help Us Translate!,o pona e pali pi ante toki!
 CURRENT,language_system,2481,System,toki pi kulupu sike
 CURRENT,settings_credit_tooltip,2475,With thanks to:,pona tawa:
+CURRENT,newmainmenu_tooltip_selectship,2475,[LMB] Select,[LMB] wile
 CURRENT,mission_sectorprotect_map,2475,Investigate Distress Call,o alasa e toki pi wile pona
 CURRENT,mission_sectorprotect_sos1,2475,"To any vessel, we are under attack!  Please help, we won't last much longer!","jan ale o, mi lon utala a! ken ala awen mute la o pona e mi!"
 CURRENT,mission_sectorprotect_call,2475,INCOMING DISTRESS CALL,TOKI KAMA PI WILE PONA TAN PAKALA
@@ -757,6 +333,12 @@ CURRENT,newmainmenu_quitmessage,2475,"We hope you enjoyed playing the demo of Th
 CURRENT,hud_window_sectormap,2475,SECTOR MAP ({ToggleMap}),SITELEN MA ({ToggleMap})
 CURRENT,hud_tactical,2475,TACTICAL ({ToggleTactical}),NASIN UTALA ({ToggleTactical})
 CURRENT,hud_tooltip_rotate,2475,[{RotateObject}] Rotate,[{RotateObject}] o tawa sike
+CURRENT,tutorial_cameracontrols,2475,"Use {PanUp1}{PanLeft1}{PanDown1}{PanRight1} or the ARROW KEYS to move the view around.\n\nZoom the view using the MOUSE WHEEL, or {ZoomIn}/{ZoomOut} on the keyboard.\n\nDrag the view by holding the MIDDLE MOUSE BUTTON.","sina wile tawa lukin la o kepeken nena {PanUp1}{PanLeft1}{PanDown1}{PanRight1} anu nena pi palisa nasin.\n\nsina wile suli anu lili e sitelen la o kepeken ILO TAWA SIKE PI ILO TAWA LUKA, anu {ZoomIn}/{ZoomOut} lon ilo nena supa.\n\no tawa e sitelen kepeken NENA MESO."
+CURRENT,tutorial_flighttactical,2475,"We should give our engines a small test flight.  To maneuver our ship, switch into TACTICAL mode by clicking the highlighted button, or pressing {ToggleTactical}.","o kepeken lili e ilo tawa. sina wile ante e nasin tawa la, o ante tawa NASIN UTALA kepeken nena suno, anu o luka e {ToggleTactical}."
+CURRENT,tutorial_flightexittactical,2475,"Exit TACTICAL mode by clicking the button again, or pressing {ToggleTactical}.","sina wile pini e NASIN UTALA la o luka sin e nena, anu o luka e {ToggleTactical}."
+CURRENT,tutorial_dockingswitchtotactical,2475,"To get started, switch to TACTICAL mode by clicking the button or pressing {ToggleTactical}.","open la, o tawa NASIN UTALA kepeken nena anu o luka e {ToggleTactical}."
+CURRENT,tutorial_dockingmaneuverkeys,2475,"Use the Maneuvering controls to move the ship into position.\n\nYou can also use the keys {ManoeuvreUp}, {ManoeuvreLeft}, {ManoeuvreDown}, {ManoeuvreRight} to move, and {ManoeuvreClockwise} and {ManoeuvreCounterClockwise} to rotate the ship.","o tawa e ilo tawa tawa ma wile kepeken ilo pi lawa tawa.\n\nkin la sina ken kepeken nena {ManoeuvreUp}, {ManoeuvreLeft}, {ManoeuvreDown}, {ManoeuvreRight} tan wile tawa.nena {ManoeuvreClockwise} en nena {ManoeuvreCounterClockwise} li tawa sike e ilo tawa."
+CURRENT,tutorial_miningopenmap,2475,Now open the sector map ({ToggleMap}).,tenpo ni la o open e sitelen ma pi kipisi ma mun ({ToggleMap}).
 CURRENT,mainmenu_steamworkshop,2448,Steam Workshop,Steam Workshop
 CURRENT,newmainmenu_arena_redteamtitle,2448,RED TEAM,KULUPU LOJE
 CURRENT,newmainmenu_arena_greenteamtitle,2448,GREEN TEAM,KULUPU LASO
@@ -932,6 +514,7 @@ CURRENT,mainmenu_newgameE,2448,New Game - Large Logistics,musi sin - Large Logis
 CURRENT,mainmenu_savegame,2448,Save Game,o awen e musi
 CURRENT,mainmenu_loadgame,2448,Load Game,o open e musi lon
 CURRENT,mainmenu_abandongame,2448,Abandon Game,o tawa weka tan musi
+CURRENT,mainmenu_tweet,2448,Tweet My Starship!,o pana ilo e ilo tawa mun mi lon nasin mu!
 CURRENT,mainmenu_legal,2448,Privacy / Legal,len / lawa
 CURRENT,mainmenu_gamemode_survival,2448,Survival,o moli ala
 CURRENT,mainmenu_gamemode_survival_tooltip,2448,"Stay one step ahead of a devastating anomaly, for as long as you can",pakala suli li kama poka. o awen lon tenpo suli.
@@ -1444,6 +1027,7 @@ CURRENT,techtree_node_title_trackspeed1,2448,Track Speed 1,wawa tawa 1 pi nasin 
 CURRENT,techtree_node_caption_trackspeed1,2448,Doubles the speed of all Tracks,tenpo tawa pi nasin supa ilo li kipisi tu.
 CURRENT,techtree_node_title_trackspeed2,2448,Track Speed 2,wawa tawa 2 pi nasin supa ilo
 CURRENT,techtree_node_caption_trackspeed2,2448,Triples the speed of all Tracks,tenpo tawa pi nasin supa ilo li kipisi tu wan.
+CURRENT,techtree_node_title_robotarmspeed,2448,Robot Arm Speed,tenpo tawa pi luka ilo
 CURRENT,techtree_node_caption_robotarmspeed,2448,Doubles the speed of all Robot Arms,tenpo tawa pi luka ilo li kipisi tu.
 CURRENT,techtree_node_title_mininglaseraccuracy,2448,Mining Laser Precision,pona nasin pi alasa kiwen suno
 CURRENT,techtree_node_caption_mininglaseraccuracy,2448,Mining Lasers extract twice as many minerals per shot,kiwen kama pi alasa kiwen suno li kama mute sama tu.
@@ -2118,36 +1702,121 @@ CURRENT,opentextcrawlindustry_4,2448,"Powerful businesses control vast swathes o
 CURRENT,opentextcrawlindustry_5,2448,The CEO of one such company - the INTERSTELLAR MINING CORPORATION - has challenged humanity to build a stargate so powerful it can reach our nearest Galaxy.,wan li KULUPU INTERSTELLAR PI ALASA KIWEN. jan lawa ona li toki e ni tawa jan ale: o pali e lupa mun. lupa ni la jan li ken tawa kulupu suli ante pi suno mun.
 CURRENT,opentextcrawlindustry_6,2448,Trillions of dollars in funding have been set aside.,mani mute mute li tawa ni.
 CURRENT,opentextcrawlindustry_7,2448,The time is perfect for a small entrepreneurial and industrious team of miners to start a new career - and make their fortune in the stars.,kulupu sin pi jan pali la ni li tenpo pona. sina ken kama e mani mute tan suno.
+CURRENT,tutorial_buy_shiftclick,2448,NOTE: You can SHIFT CLICK to buy in multiples of 5.,O SONA: wile esun pi mute 5 la o luka SHIFT CLICK
 CURRENT,tutorial_introduction_title,2448,TUTORIAL,PANA SONA
 CURRENT,tutorial_next,2448,NEXT,PONA
 CURRENT,tutorial_introduction1,2448,Welcome to our new home.,o kama pona tawa tomo sin sina.
+CURRENT,tutorial_introduction2,2448,"This vessel is fresh out of the shipyard production line.\n\nIt's just an empty hull right now, without power or a breathable atmosphere. Our first job is to fix that.\n\nClick NEXT to continue.","tomo tawa ni li kama sin tan tomo pali.\n\ntenpo ni la ona li selo weka taso, li jo ala e wawa e kon. suli nanpa wan li ni: o pona e ni.\n\nwile open la o luka e nena PONA."
 CURRENT,tutorial_camera_title,2448,CAMERA CONTROLS,LAWA LUKIN
 CURRENT,tutorial_power_title,2448,INSTALLING POWER,PANA PI ILO WAWA
 CURRENT,tutorial_power_titlecomplete,2448,POWER INSTALLED,ILO WAWA LI LON
+CURRENT,tutorial_powerinstallmenu,2448,"Let's begin by installing a REACTOR, to generate power for our ship.\n\nClick into the CONSTRUCTION menu, then click INSTALL.",open la o pana e ILO WAWA. ni li pana e wawa\n\no luka e lipu PALI la o luka e nena O PANA E ILO.
+CURRENT,tutorial_powerselectreactor,2448,This is all the boxed equipment you have available on-board.\n\nSelect REACTOR from the list.,ni li ilo poki ale lon tomo.\n\no wile e ILO WAWA tan kulupu nimi.
+CURRENT,tutorial_powerplacereactor,2448,Stamp the REACTOR down inside your ship.,o pana e ILO WAWA lon supa neko pi tomo tawa sina.
+CURRENT,tutorial_powerreactorinprogress,2448,Your crew will install the REACTOR.,jan sina li tawa e ILO WAWA tawa ma wile.
+CURRENT,tutorial_powerselectloader,2448,"The REACTOR needs FUEL, and we use a FUEL LOADER to pump it to the REACTOR.\n\nSelect the FUEL LOADER from the Construction menu.",ILO WAWA li wile e TELO WAWA. ILO TAWA TELO WAWA li tawa e telo tawa ILO WAWA.\n\no wile e ILO TAWA TELO WAWA tan lipu pali.
+CURRENT,tutorial_powerplaceloader,2448,Stamp the FUEL LOADER down somewhere near the REACTOR.,o pana e ILO TAWA TELO WAWA lon poka pi ILO WAWA.
+CURRENT,tutorial_powerselectpipes,2448,"We need to connect the FUEL LOADER to the REACTOR, using a Pipe.\n\nSelect PIPES from the Construction Menu.",sina wile wan e ILO TAWA TELO WAWA e ILO WAWA kepeken nasin lupa.\n\no wile e NASIN LUPA tan lipu pali.
+CURRENT,tutorial_powerpipeconnect,2448,"Drag a pipe from the FUEL LOADER to the REACTOR, connecting the yellow pipe circles.\n\nFUEL PIPES are used to connect the output from one piece of equipment into the input of another.\n\nFUEL PIPES are yellow and must connect the yellow circles on equipment.",o sitelen e nasin lupa tan ILO TAWA TELO WAWA tawa ILO WAWA. o wan e sike jelo.\n\nNASIN LUPA PI TELO WAWA li wan e lupa weka pi ilo wan e lupa kama pi ilo ante.\n\nNASIN LUPA li jelo li wile luka e sike jelo lon ilo.
+CURRENT,tutorial_powerreactorpowerup,2448,The REACTOR is starting up.,ILO TAWA li open pali.
 CURRENT,tutorial_air_title,2448,OXYGEN,KON PONA
+CURRENT,tutorial_airinstallairduct,2448,We now need to provide a breathable atmosphere for our crew. This is done with an AIRDUCT.\n\nInstall an AIRDUCT somewhere near the Reactor.,tenpo ni la sina wile pana e kon pona tawa jan. ni li kepeken NASIN LUPA KON.\n\no pana e NASIN LUPA KON lon poka pi ilo wawa.
+CURRENT,tutorial_aircables,2448,The AIRDUCT needs to be powered from the REACTOR.  Select CABLES from the CONSTRUCTION menu.,NASIN LUPA KON li wile e wawa tan ILO WAWA. o wile e LINJA WAWA tan lipu PALI.
+CURRENT,tutorial_aircabletoreactor,2448,"Drag a power cable from the REACTOR to the AIRDUCT, connecting the red circles.\n\nPOWER CABLES are used to connect reactors to any equipment that needs power.\n\nPOWER CABLES are red and must connect red circles on equipment.",o sitelen e linja wawa tan ILO WAWA tawa NASIN LUPA KON. o wan e sike loje.\n\nLINJA WAWA li wan e ilo wawa e ilo pi wile wawa.\n\nLINJA WAWA li loje li wile luka e sike loje lon ilo.
+CURRENT,tutorial_airinstallairloader,2448,"The AIRDUCT needs OXYGEN, in the same way as the REACTOR needs FUEL. We can use an OXYGEN LOADER to provide OXYGEN.\n\nInstall an OXYGEN LOADER near the AIRDUCT.",NASIN LUPA KON li wile e KON PONA sama ni: ILO WAWA li wile e TELO WAWA. ILO PI TAWA KON li ken pana e KON PONA.\n\no pana e ILO PI TAWA KON lon poka pi NASIN LUPA KON.
+CURRENT,tutorial_airpipetoairduct,2448,"Drag a PIPE from the OXYGEN LOADER to the AIRDUCT, connecting the BLUE circles.",o sitelen e NASIN LUPA tan ILO PI TAWA KON tawa NASIN LUPA KON. o wan e sike LASO.
+CURRENT,tutorial_airdone,2448,The AIRDUCT is activated and is pressurising the cabin! The atmosphere will soon be breathable.,NASIN LUPA KON li pali pona li kon e tomo! tenpo kama poka la kon tomo li pona tawa jan.
 CURRENT,tutorial_engines_title,2448,ENGINES,ILO PI WAWA TAWA
 CURRENT,tutorial_enginesintro,2448,"The ship has two factory fitted engines ready to go, but we need to connect them up.",ilo tawa li jo e ilo tu pi wawa tawa lon poki. sina wile pana e ona tawa tomo.
+CURRENT,tutorial_enginesinformation,2448,Engines require both POWER and FUEL to operate. We must connect both engines to fuel and power.,ilo pi wawa tawa la pali li wile e WAWA e TELO WAWA. o wan e ilo e telo wawa e wawa.
 CURRENT,tutorial_enginesconnectpipes,2448,Let's start with the starboard engine. Use the pipes menu to run a pipe from the engine to your existing yellow fuel lines.,sina kama open kepeken ilo pi nasin mun. o kepeken lipu pali pi nasin lupa. o sitelen e nasin lupa tan ilo pi wawa tawa tawa nasin lupa jelo lon pi telo wawa.
+CURRENT,tutorial_enginesconnectpower,2448,"Now use the CABLES menu to power up the engine, by connecting it to your existing red power lines.",tenpo ni la o kepeken lipu sitelen pi LINJA WAWA. o wawa e ilo pi wawa tawa: o wan e ona e linja wawa loje lon.
 CURRENT,tutorial_enginesstarboardside,2448,Fantastic work! The Starboard engine is now starting up.,pona mute a! ilo tawa wawa pi nasin mun li open pali lon tenpo ni.
 CURRENT,tutorial_enginesportside,2448,Now repeat the process with the port engine. Connect the fuel and power lines to start the engine.,tenpo ni la o pali sama kepeken ilo pi wawa tawa lon nasin tomo. o wan e ilo e nasin lupa pi telo tawa e linja wawa. ni li open e pali pi ilo ni.
 CURRENT,tutorial_enginesoperational,2448,Both of our engines are now operational.,tenpo ni la ilo tu pi wawa tawa li pali pona.
 CURRENT,tutorial_ftl_title,2448,FASTER THAN LIGHT,TAWA SULI
+CURRENT,tutorial_ftlintro,2448,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,sina wile tawa e jan tawa ma wile ona la sina wile e tawa suli. ike la ilo tawa sina li jo ala e ilo pi tawa suli.\n\nsina o esun e ilo o pana e ona tawa tomo.
+CURRENT,tutorial_ftltradescreen,2448,Open the trade screen to purchase an FTL drive.,ilo pi tawa suli la wile esun la o open e lipu esun.
+CURRENT,tutorial_ftlselectpropulsion,2448,The items we need are listed under PROPULSION. Select that category.,kulupu nimi pi ilo wile li lon anpa pi nimi WAWA TAWA.
+CURRENT,tutorial_ftladdftldrive,2448,Add one FTL drive to our order by clicking on the entry in the list.,o open esun e ilo wan pi tawa suli: o luka e ona lon kulupu nimi.
+CURRENT,tutorial_ftladdftlfuel,2448,FTL drives consume one fuel charge per jump. Add 5 FTL Charges to the order as well.,tawa suli wan li kepeken poki wawa wan pi tawa suli. o esun kin e poki 5.
 CURRENT,tutorial_ftlconfirmorder,2448,Confirm the order.,o pini e esun.
 CURRENT,tutorial_ftldelivery,2448,A shuttle will deliver the items to us.,poki tawa li kama e ijo esun tawa sina.
+CURRENT,tutorial_ftlinstallftl,2448,Install the FTL drive anywhere in your ship.,o pana e ilo pi tawa suli lon tomo tawa sina lon ma pi pilin sina.
+CURRENT,tutorial_ftlpowerftl,2448,Connect the FTL drive to your power network.,o wan e ilo pi tawa suli e wawa pi ilo tawa sina.
+CURRENT,tutorial_ftlstoragetoolbar,2448,"We can make things more efficient for our crew by telling them to store FTL Charges near the FTL drive.\n\nSelect STORAGE from the CONSTRUCTION toolbar, then select FTL Charges from the list.",poki wawa li awen lon poka ilo pi tawa suli la ni li pona e pali jan.\n\no wile e MA AWEN tan sitelen ilo PALI. o wile e poki wawa pi tawa suli tan kulupu nimi.
+CURRENT,tutorial_ftlstorageworld,2448,Now drag out a storage zone near to the FTL drive.,o sitelen e ma awen lon poka ilo pi tawa suli.
+CURRENT,tutorial_ftlstoragedone,2448,The crew will move all the FTL Charges into this zone.,jan li kama tawa e poki wawa ale pi tawa suli tawa ma awen ni.
 CURRENT,tutorial_stargatescreen_title,2448,STARGATE PROJECT,PALI SULI PI LUPA MUN
+CURRENT,tutorial_stargatescreen2,2448,This screen shows the phases that require construction in order to complete the STARGATE.\n\nWe are in PHASE 1. Work has only just begun.,lipu ni li pana lukin e tenpo pali pi LUPA MUN. pini ona li wile e ni ale.\n\nsina lon TENPO 1. pali li open taso lon tenpo pini poka.
+CURRENT,tutorial_stargatescreen3,2448,On the left of the screen you can see the requirements to complete PHASE 1.\n\nWe need to manufacture:\n- 100 STARGATE FRAMES\n- 10 STARGATE RESIN,poka wan pi lupu ni sina lukin e wile ale tawa pini pi TENPO 1.\n\nsina wile pali e:\n- SIJELO 100 PI LUPA MUN\n- KO 10 PI LUPA MUN
+CURRENT,tutorial_stargatescreen4,2448,"These PHASE 1 components are easy to manufacture, and we already have what we need onboard.\n\nBut we can sell them to the STARGATE PROJECT for a small fortune.",TENPO 1 la pali pi ijo wile li pona. ijo wile ale pi pali ni li lon tomo lon tenpo ni.\n\ntaso sina ken pana esun e ona tawa PALI PI LUPA MUN. mani mute li kama tawa sina tan ni.
+CURRENT,tutorial_stargatescreen5,2448,Close the STARGATE screen by clicking on the toolbar again (or press ESC).,o pini e lipu pi LUPA MUN kepeken luka pi sitelen lawa lon tenpo sin (anu o luka e nena ESC).
+CURRENT,tutorial_productionstart,2448,We are now going to learn how to produce STARGATE FRAMES.,tenpo ni la sina kama sona e pali ni: SIJELO PI LUPA MUN.
 CURRENT,tutorial_fabrication_title,2448,FABRICATION,PALI
+CURRENT,tutorial_fabricationinstallfabricator,2448,"Components are manufactured in a FABRICATOR, using raw materials like METAL INGOTS.\n\nInstall a FABRICATOR somewhere in the South East quadrant of the station.",pali pi ijo wile li kama tan ILO PALI kepeken ijo sama LEKO KIWEN SUNO.\n\no pana e ILO PALI lon ma ni pi tomo sina: nasin anpa en nasin mun.
+CURRENT,tutorial_fabricationinstallassemblytable,2448,Those components are then assembled into finished products on an ASSEMBLY TABLE.\n\nInstall an ASSEMBLY TABLE somewhere near the FABRICATOR.,ijo ni li kama ijo pali pini lon SUPA PALI.\n\no pana e SUPA PALI lon poka pi ILO PALI.
+CURRENT,tutorial_fabricationpower,2448,This new equipment needs power.  Build POWER CABLES to connect your REACTOR to the FABRICATOR and ASSEMBLY TABLE.,ilo sin li wile e wawa. o sitelen e LINJA WAWA o wan e ILO WAWA e ILO PALI e SUPA PALI.
+CURRENT,tutorial_fabricationconfigurefab1,2448,We need to configure the new equipment to make the products that we want.\n\nRIGHT CLICK on the FABRICATOR to configure it.,o lawa e nasin pali pi ilo sin.\n\no LUKA ANTE e ILO PALI o lawa e nasin ona.
+CURRENT,tutorial_fabricationconfigurefab2,2448,This drop-down menu shows all of the components that we can manufacture in a FABRICATOR.\n\nSelect FRAME from the list.,kulupu nimi ni li pana lukin e ijo pali ken ale pi ILO PALI.\n\no wile e SIJELO ILO tan lipu.
+CURRENT,tutorial_fabricationconfigureass1,2448,We need to configure the ASSEMBLY TABLE in the same way.\n\nRIGHT CLICK on the assembly table.,o lawa e nasin pi SUPA PALI lon nasin sama.\n\no LUKA ANTE e supa pali.
+CURRENT,tutorial_fabricationconfigureass2,2448,Select STARGATE FRAME from the drop-down menu.,o wile e SIJELO PI LUPA MUN tan kulupu nimi.
+CURRENT,tutorial_fabricationclosefab1,2448,"Close the Equipment Panel by clicking the X in the top right corner, or pressing ESC.","o pini e lipu ilo: o luka e sitelen X lon nasin sewi, anu o luka e nena ESC."
+CURRENT,tutorial_fabricationclosefab2,2448,"Close the Equipment Panel by clicking the X in the top right corner, or pressing ESC.","o pini e lipu ilo: o luka e sitelen X lon nasin sewi, anu o luka e nena ESC."
+CURRENT,tutorial_fabricationworking,2448,"Your crew are now fabricating FRAMES out of METAL INGOTS, then assembling those FRAMES into STARGATE FRAMES, which we can sell to the STARGATE project for profit.","tenpo ni la jan sina li pali e SIJELO ILO tan LEKO KIWEN SUNO. pini ni la, jan li pali e SIJELO PI LUPA MUN kepeken sijelo ilo. pali suli pi LUPA MUN la esun pana ni li pana e mani mute."
 CURRENT,tutorial_smelters_title,2448,SMELTERS,ILO KIWEN SELI
+CURRENT,tutorial_smeltersintroduction,2448,"We are going to need a lot of METAL INGOTS if we're to make enough of those STARGATE FRAMES.\n\nWe don't have many METAL INGOTS on board, and will run out soon.",SIJELO PI LUPA MUN la pali pi mute pona li wile e LEKO KIWEN SUNO mute.\n\nsina jo ala e LEKO KIWEN SUNO mute lon tomo lon tomo. ona li kama weka lon tenpo kama poka.
+CURRENT,tutorial_smeltersbuild,2448,"But we do have plenty of SCRAP METAL, and we can melt that down in a SMELTER.\n\nBuild a SMELTER somewhere near the production line.","taso sina jo e KIWEN SUNO PAKALA mute, li ken telo e ona kepeken ILO KIWEN SELI.\n\no pana e ILO KIWEN SELI lon poka pi nasin pali."
+CURRENT,tutorial_smelterspower,2448,Connect the smelters to the REACTOR using POWER CABLES,o wan e ilo kiwen wawa e ILO WAWA kepeken LINJA WAWA
+CURRENT,tutorial_smeltersscrapmetal,2448,Right click on the SMELTER and set its material to be SCRAP METAL.,o luka ante e ILO KIWEN SELI o lawa e ijo ona tawa KIWEN SUNO PAKALA.
+CURRENT,tutorial_smeltersoperational,2448,The crew will now load in all the SCRAP METAL and smelt it into much more useful METAL INGOTS.,tenpo ni la jan li pana e KIWEN SUNO PAKALA ale li pona e ona tawa LEKO KIWEN SUNO pi pona kepeken mute.
+CURRENT,tutorial_smeltersdismantle,2448,"There is a ton of RUINED EQUIPMENT around this old station, that we can break down into SCRAP METAL.\n\nSelect DISMANTLE from the CONSTRUCTION toolbar.",ILO PAKALA mute li lon poka pi tomo ni. sina ken pakala e ona tawa KIWEN SUNO PAKALA.\n\no wile e PALI PAKALA tan sitelen lawa PALI.
+CURRENT,tutorial_smeltersstoragetoolbar,2448,"We can make things more efficient for our crew by telling them to store SCRAP METAL near to the SMELTER.\n\nSelect STORAGE from the CONSTRUCTION toolbar, then select SCRAP METAL from the list.",sina ken pona e pali kiwen. o toki e ni tawa jan: o awen e KIWEN SUNO PAKALA lon poka pi ILO KIWEN SELI.\n\no wile e AWEN tan sitelen lawa PALI.
+CURRENT,tutorial_smeltersstorageworld,2448,Now drag out a storage zone near to the SMELTER.,tenpo ni la o sitelen e ma leko awen lon poka pi ILO KIWEN SELI.
+CURRENT,tutorial_smeltersstoragedone,2448,The crew will move all the SCRAP METAL into this zone.,jan li kama tawa e KIWEN SUNO PAKALA ale tawa ma ni.
 CURRENT,tutorial_trade_title,2448,TRADE,ESUN
+CURRENT,tutorial_tradewaitforsellable,2448,Your crew will now use the equipment to produce some STARGATE FRAMES.,tenpo ni la jan sina li kama kepeken ilo pali. ona li kama pali e SIJELO PI LUPA MUN.
+CURRENT,tutorial_tradeothersupplies,2448,"We can use the TRADE system to buy raw materials to produce more STARGATE FRAMES, as well as resources we will need to survive.\n\nReopen the TRADE screen.",SIJELO PI LUPA MUN la wile pali mute la sina ken kepeken nasin ESUN. kin la sina ken esun e ijo suli ante tawa awen jan.\n\no open sin e lipu ESUN.
+CURRENT,tutorial_tradebuyminerals,2448,METALLIC MINERALS can be smelted into METAL INGOTS just like SCRAP METAL.\n\nAdd all the METALLIC MINERALS to the trade.,sina ken pona e KIWEN PI KIWEN SUNO tawa LEKO KIWEN SUNO sama KIWEN SUNO PAKALA.\n\nKIWEN PI KIWEN SUNO la o pana e ale tawa esun.
+CURRENT,tutorial_tradebuysmelter,2448,We will also need another SMELTER to begin processing those METALLIC MINERALS.\n\nFind the SMELTER under the INDUSTRY tab and add one to the order.,sina wile kin e ILO KIWEN SELI kin wan. ilo sin li ken pona e KIWEN PI KIWEN SUNO.\n\no alasa e ILO KIWEN SELI lon lipu PALI. o pana e wan ni tawa kulupu esun.
+CURRENT,tutorial_tradebuymore,2448,This is a good opportunity to stock up on some other resources that are critical for life support.\n\nWe'd recommend you purchase:\n\n - 2x FUEL\n - 2x OXYGEN\n - 2x WATER\n - 2x FOOD\n\n- HIRE 5 MORE CREW\n\nCONFIRM the order when you are done.,ni li tenpo pona tawa ni: sina kama jo e ijo suli pi awen jan.\n\npona la o esun e:\n\n - 2x TELO WAWA\n - 2x KON PONA\n - 2x TELO\n - 2x MOKU\n\n- O ESUN E JAN MUTE 5\n\nO LUKIN PONA e esun lon pini.
+CURRENT,tutorial_tradeinstallsmelter,2448,"Once those goods have arrived, you should install your second SMELTER somewhere near the first.",ijo esun li pini kama la o pana e ILO KIWEN SELI nanpa tu lon poka pi nanpa wan.
+CURRENT,tutorial_tradesmeltmetallicminerals,2448,Set the SMELTER to process those METALLIC MINERALS you bought into more METAL INGOTS.,o lawa e ILO KIWEN SELI tawa ni: ona li pona e KIWEN PI KIWEN SUNO tan esun sina tawa LEKO KIWEN SUNO.
+CURRENT,tutorial_productionsuccess,2448,"Well done, you are now all set to produce STARGATE FRAMES.",pali pona. tenpo ni la sina ken pali e SIJELO PI LUPA MUN.
+CURRENT,tutorial_fleetcrew,2448,We will need a crew. Hire five CREW MEMBERS from the TRADE screen.,o esun e JAN 5 tan lipu ESUN.
+CURRENT,tutorial_fleetcrew_shiftclick,2448,NOTE: You can SHIFT CLICK to hire in multiples of 5.,O SONA: wile esun jan pi nanpa 5 la sina ken LUKA SHIFT.
+CURRENT,tutorial_fleetspacesuits,2448,Those crew will also need SPACESUITS as there is no atmosphere onboard our ship yet.\n\nOrder five SPACESUITS for the new crew.,kin la jan sin li wile e LEN MUN tan ni: tomo li jo ala e kon lon tenpo ni.\n\njan sin la o esun e LEN MUN 5.
+CURRENT,tutorial_fleettradeconfirm,2448,CONFIRM the trade.,o PINI PONA e esun.
 CURRENT,tutorial_fleetcrewarrival,2448,Your new crew will arrive by shuttle.,jan sin li kama kepeken tomo tawa lili.
+CURRENT,tutorial_fleetresources,2448,We also need resources for the ship to function.\n\nUse the TRADE screen to buy:\n- 5x FUEL\n- 5x OXYGEN\n- 5x FTL CHARGE\n- 2x FOOD\n- 2x WATER.\n\nCONFIRM the trade when you are done.,ilo tawa li wile kin e ijo sulo.\n\no kepeken lipu ESUN o esun e:\n-n 5x TELO WAWA\n- 5x KON PONA\n- 5x WAWA PI TAWA SULI\n- 2x MOKU\n- 2x TELO.\n\no PONA e esun lon pini.
 CURRENT,tutorial_fleetwaitforpowerup,2448,Your crew will now power up the ship and bring the engines and life support online.,tenpo ni la jan li pana e wawa tawa ilo tawa. ni li open e ilo pi wawa tawa e ilo pi awen jan.
 CURRENT,tutorial_flight_title,2448,FLIGHT,TAWA SEWI
+CURRENT,tutorial_flightengines,2448,We can directly control our engine THROTTLE from here.\n\nTry increasing your engine throttle with this control.,sina ken lawa e NANPA WAWA pi tawa ilo lon ni.\n\no suli e wawa tawa kepeken ni.
+CURRENT,tutorial_flightturning,2448,"We can also turn the ship by left clicking in TACTICAL mode, in the direction we wish to travel.",kin la sina ken tawa sike e ilo tawa. o luka lon lipu pi NASIN UTALA.
+CURRENT,tutorial_flightsetcourse,2448,We can send our ship to a specific location by RIGHT-CLICKING. Try setting a destination by right clicking in the tactical view.,sina ken tawa e ilo tawa sina tawa ma wile kepeken LUKA ANTE. o pana e ma wile kepeken luka ante lon lipu pi nasin utala.
+CURRENT,tutorial_flightinformation,2448,"Your crew will continue to operate the ship and keep the engines running as you travel around. Try flying around the system until you have a handle on the controls.\n\nWhen you are ready, bring the ship to a stop by setting the THROTTLE to zero in TACTICAL mode.",tawa la jan li awen pali lon tomo tawa li awen e pona ilo pi wawa tawa. o tawa lili lon ma ni tawa suli po sona lawa sina.\n\nwile pini la o pini e tawa kepeken nanpa ala lon ilo lawa pi WAWA TAWA lon lipu pi NASIN UTALA.
 CURRENT,tutorial_finance_title,2448,CONTRACTS,PALI ESUN
+CURRENT,tutorial_financemissionscreen,2448,"Now that our ship is up and running, we need to earn our way.  We can complete contracts for financial reward and reputation.\n\nOpen the CONTRACTS screen to see a list of available contracts.",ilo tawa li pona ken la sina wile kama jo e mani. sina pini pona e pali esun la ni li pana e mani e pilin pona pi jan ante tawa sina.\n\no open e lipu pi PALI ESUN. ni la o lukin e kulupu pi pali esun ken.
+CURRENT,tutorial_financeselectship,2448,"Contracts are assigned to the ship you currently have selected.\n\nOnly the PROCYON can travel between locations, so select the PROCYON.",ilo tawa lon li jo e pali esun.\n\nilo PROCYON taso li ken tawa ma sin la o kepeken ilo PROCYON.
+CURRENT,tutorial_financeselecttransport,2448,"Here we have a TRANSPORT PASSENGER contract, click it to see more details.",ni li pali esun pi TAWA JAN. wile lukin e toki ale ona la o luka e ona.
+CURRENT,tutorial_financeassigntransport,2448,This mission requires us to transport a group of people from here to another location in the sector.\n\nClick the accept button to assign this contract to the PROCYON.,pali esun ni li wile e ni: sina tawa e kulupu jan tawa ma ante lon kipisi ma mun ni.\n\no luka e nena pona. ni li pana e pali esun ni tawa ilo PROCYON.
+CURRENT,tutorial_financepassengersinbound,2448,The passengers will be delivered to the PROCYON by shuttle.,jan tawa li kama tawa tomo PROCYON kepeken tomo tawa lili.
+CURRENT,tutorial_financesectormap,2448,"All passengers have been delivered to the PROCYON, and our FTL drive is operational. We must now plot an FTL jump to their destination.\n\nOpen the SECTOR MAP.",jan tawa ale li lon tomo PROCYON. ilo pi tawa suli li ken. tenpo ni la o wile e nasin pi tawa suli.\n\no open e SITELEN MA.
+CURRENT,tutorial_financesetdestination,2448,"This is a map of all the systems in this sector.\n\nOur ship and our space station are located in the middle, where the map is marked YOU-ARE-HERE.\n\nSet a course to the destination (labelled TRANSPORT PASSENGERS) by clicking on it.","ni li sitelen ma pi kulupu sike ale lon kipisi ma mun ni.\n\nilo tawa en tomo mun sina li lon insa, lon sitelen pi toki SINA LON.\n\no pana e nasin tawa ma wile (li jo e nimi O TAWA E JAN) kepeken luka."
+CURRENT,tutorial_financeclosesectormap,2448,"Close the SECTOR MAP by clicking the X in the top right corner, or by pressing ESC.",o pini e SITELEN MA kepeken sitelen X lon sewi.
+CURRENT,tutorial_financeftlwindow,2448,Open the FTL screen to order the FTL jump.,wile tawa suli la o open e lipu pi tawa suli.
+CURRENT,tutorial_financepreparejump,2448,Click on PREPARE JUMP to align the ship and prepare for hyperspace.,wile open pi tawa suli la o luka e nena pi O OPEN E TAWA SULI.
+CURRENT,tutorial_financepreparingjump,2448,"The PROCYON will align for hyperspace, and prepare the FTL drive to make the jump.",ilo PROCYON li tawa sike tawa nasin pona pi tawa suli. ona li ken e ilo pi tawa suli.
+CURRENT,tutorial_financejump,2448,Click the JUMP button to jump to hyperspace.,wile open pi tawa suli la o luka e nena pi TAWA SULI
 CURRENT,tutorial_financehyperspace,2448,We are in hyperspace!,sina lon tawa suli!
 CURRENT,tutorial_financearrived,2448,We have arrived at the destination system.,sina lon kulupu sike wile.
+CURRENT,tutorial_financeselectmission,2448,We now need to turn in our completed passenger contract.\n\nOpen the CONTRACTS screen and select the passenger mission.,tenpo ni la sina wile pini e pali esun pi tawa jan.\n\no open e lipu pi PALI ESUN. o wile e pali esun pi tawa jan.
+CURRENT,tutorial_financeturnin,2448,Click the DELIVER button to drop off the passengers and receive payment,o luka e nena PANA. ni li pana e jan tawa li kama e mani.
 CURRENT,tutorial_financeturningin,2448,A shuttle will be dispatched to collect the passengers.,tomo tawa lili li kama li tawa weka e jan tawa.
 CURRENT,tutorial_financemissioncomplete,2448,The passengers have all arrived safely. You will now be paid the fee and will also receive points toward your Humanitarian rating - giving you access to more difficult and lucrative missions.,jan ale li pini tawa pona. tenpo ni la sina kama jo e mani. kin la nanpa sina pi pona jan li kama suli. ni li open e nasin tawa pali esun sin. pali esun sin li ken wile e pali pi suli mute la ona li ken pana e mani mute.
 CURRENT,tutorial_wrapup_title,2448,END OF TUTORIAL,PINI PI PANA SONA
 CURRENT,tutorial_wrapup1,2448,"We've covered the basics. You've learnt how to install equipment on your ship, and how to navigate space.",sina sona e ijo suli. sina ken pana e ilo tawa tomo tawa. sina ken tawa sewi mun.
+CURRENT,tutorial_wrapup2,2448,"The career you choose is now up to you.  There are many opportunities to choose from, and you'll learn more as you work.\n\nOpen the CONTRACTS board.",tenpo ni la nasin sina li kama tan wile sina. nasin mute li ken. pali la sina kama sona mute.\n\no open e lipu pi PALI ESUN.
 CURRENT,tutorial_wrapup4,2448,"Keep a keen eye out for special systems on the map, you never know who or what you may find there.",o alasa pona e kulupu sike nasa lon sitelen ma. tenpo ala la jan li sona e ni: ijo seme anu jan seme li lon ma ni?
 CURRENT,tutorial_wrapupfinal,2448,"Whatever you choose, more instructions will be given when required.\n\nIt's up to you what you do next.",nasin ale la sona mute li kama lon tenpo wile.\n\nnasin kama li tan wile sina.
 CURRENT,tutorial_tutorialend,2448,[End of tutorial - Alpha 11],[pini pi pana sona - nanpa musi Apa 11]
@@ -2155,34 +1824,68 @@ CURRENT,tutorial_tutorialskip,2448,Are you sure you wish to skip the tutorial?,s
 CURRENT,tutorial_tutorialskipyes,2448,SKIP TUTORIAL,O WEKA E PANA SONA
 CURRENT,tutorial_tutorialskipno,2448,RESUME TUTORIAL,O KAMA SONA
 CURRENT,tutorial_resin_title,2448,GAS COLLECTORS,ILO LANPAN KON
+CURRENT,tutorial_resinstart,2448,We are now going to learn how to produce STARGATE RESIN.,tenpo ni la o kama sona pali e KO PI LUPA MUN.
+CURRENT,tutorial_resinintro,2448,"Turning our attention back to the Stargate, the Stargate project also requires us to produce STARGATE RESIN.\n\nWe are going to use the INDUSTRIOUS to collect METREON GAS, refine it, and process it into STARGATE RESIN.",sin la o toki lon lupa mun. pali ona li wile e KO PI LUPA MUN.\n\nkepeken ilo INDUSTRIOUS la sina kama jo e KON METEJAN. sina pona e ona tawa KO PI LUPA MUN.
+CURRENT,tutorial_resinintro2,2448,Raise enough money to purchase for INDUSTRIOUS:\n\n- 1x GAS COLLECTOR\n- 1x REFINERY\n- 1x CHEMICAL LAB,o kama jo e mani pi mute pona. ilo INDUSTRIOUS la sina wile esun e:\n\n-1x ILO ALASA KON\n- 1x ILO PI PALI PONA\n-1 1x SUPA PALI PI SONA SELI
+CURRENT,tutorial_resinselectnebula,2448,"Before we can start collecting the METREON GAS, we need to move the INDUSTRIOUS to a system containing a GAS CLOUD.\n\nUse the SECTOR MAP to select a suitable destination.",sina wile kama jo e kon Metejan la sina wile tawa e ilo INDUSTRIOUS tawa kulupu sike pi KON KO.\n\no alasa e nasin pona kepeken SITELEN MA.
+CURRENT,tutorial_resinjumptonebula,2448,Close the sector map and use the FTL Window to jump the INDUSTRIOUS to the nebula.,o pini e sitelen ma. kepeken lipi pi tawa suli la o tawa e ilo INDUSTRIOUS tawa kon ko.
+CURRENT,tutorial_resininstallgascollector,2448,"Install the GAS COLLECTOR, REFINERY and CHEMICAL LAB so that they are close to each other.",o pana e ILO ALASA KON e ILO KIWEN SELI e SUPA PALI PI SONA SELI. ale o kulupu poka.
+CURRENT,tutorial_resinpowerup,2448,"Power up the GAS COLLECTOR, REFINERY and CHEMICAL LAB.",o wawa e ILO ALASA KON e ILO PI PALI PONA e SUPA PALI PI SONA SELI.
+CURRENT,tutorial_resinrefineryrecipe,2448,Right click on the REFINERY and set its recipe to REFINE METREON GAS.,o luka ante e ILO PI KPALI PONA. o lawa e nasin pali ona tawa PONA KON METEJAN.
+CURRENT,tutorial_resinchemicallabrecipe,2448,Right click on the CHEMICAL LAB and set its recipe to MAKE STARGATE RESIN.,o luka ante e SUPA PALI PI SONA SELI. o lawa e nasin pali ona tawa KO PI LUPA MUN.
+CURRENT,tutorial_resinconnectgascollector,2448,Connect the GAS COLLECTOR to the REFINERY with a PIPE.,o wan e ILO ALASA KON e ILO PI PALI PONA kepeken NASIN LUPA.
+CURRENT,tutorial_resinconnectchemicallab,2448,Connect the REFINERY to the CHEMICAL LAB with a PIPE.,O WAN e ILO PI PALI PONA e SUPA PALI PI SONA SELI kepeken NASIN LUPA.
+CURRENT,tutorial_resinsuccess,2448,"Well done, you have started to produce STARGATE RESIN.\n\nWhen you have produced enough, travel back to any COLONY, SHIP YARD or the STARGATE system to sell it to the STARGATE PROJECT.",pali pona. sina open pali e KO PI LUPA MUN.\n\npini pali pi mute pona la o tawa KULUPU TOMO JAN anu MA PALI PI ILO TAWA anu kulupu sike pi LUPA MUN. ma ni la o esun e ko tawa KULUPU PALI PI LUPA MUN.
 CURRENT,tutorial_end_title,2448,END OF TUTORIAL,PINI PI PANA SONA
 CURRENT,tutorial_docking_title,2448,DOCKING,POKA LUPA
 CURRENT,tutorial_dockingstart,2448,We are now going to learn how to dock your ship to another ship.,tenpo ni la sina kama sona poka lupa e ilo tawa sina tawa ilo tawa ante.
+CURRENT,tutorial_dockingcheckthrusters,2448,"In order to be able to dock successfully, your ship needs at least four working THRUSTERS.\n\nUse a different ship, or purchase and install four thrusters at a nearby trading post.",wile pi poka lupa pona la ilo tawa sina li wile e ILO LILI PI WAWA TAWA lon nanpa tu tu anu mute.\n\no kepeken ilo tawa ante anu o esun o pana e ilo lili tu tu pi wawa tawa lon tomo esun poka.
 CURRENT,tutorial_dockingapproachship_x,2448,Use your main ship engines to get close to the *X.,wile lon poka *X la o kepeken tawa meso pi ilo tawa sina.
+CURRENT,tutorial_dockingzoomin,2448,Zoom in so that you can see the docking guides more clearly. They are RED diamonds extending from the docking ports.,wile lukin pona pi nasin poka lupa la o suli e sitelen lukin sina. nasin li leko LOJE (pi tawa sike) lon poka lupa.
+CURRENT,tutorial_dockingopenmaneuver,2448,Open the MANEUVERING THRUSTER controls.,o open e ilo lawa ni: ILO LILI PI WAWA TAWA.
+CURRENT,tutorial_dockingmaneuver,2448,"Use your THRUSTERS to maneuver your ship so that RED diamonds of your docking ports align with the docking port of the *X.\n\nWhen aligned correctly, they will both turn YELLOW.\n\nKeep the ships aligned until the docking bridge is fully extended.",o kepeken ILO LILI PI WAWA TAWA. o tawa e ilo tawa sina kepeken nasin ni: leko LOJE pi lupa sina li lon sama lupa *X.\n\nlon pona la leko tu li kama JELO.\n\nlupa tu li poka pona la nasin lupa li wan e tu. pini ni ala la o awen pona e lon pi ilo tawa sina.
 CURRENT,tutorial_dockingsuccess,2448,Well done. You have docked successfully!,Bien hecho. sina pona. sina poka lupa pona! pali pona.
 CURRENT,tutorial_logistics_crew_title,2448,CREW LOGISTICS,TAWA JAN PI TOMO TAWA
 CURRENT,tutorial_logisticscrewstart,2448,We are now going to learn how to transfer crew from one ship to another.\n\nThe two ships must be docked so that the crew can walk from one ship to another.,tenpo ni la o kama sona tawa e jan tawa tomo tawa wan tan ante.\n\ntomo tawa tu o poka lupa. poka lupa la jan li ken tan tomo wan tawa ante.
 CURRENT,tutorial_logisticscrewswitchtonormalview,2448,"First, switch back to normal view by leaving tactical mode.",open la o tawa sitelen nasin tan weka pi nasin utala.
+CURRENT,tutorial_logisticscrewselectship,2448,Select the UMC Astral Temptress. \n\n As you can see it has no crew.,o wile e ilo UMC Astral Temptress. \n\n sina ken lukin e ni: jan li weka.
 CURRENT,tutorial_logisticscrewopen,2448,Open the Fleet Logistics window.,o open e lipu lawa pi tawa ilo
+CURRENT,tutorial_logisticscrewselectfrom,2448,Select the SOURCE ship that the crew will come FROM.,o wile e tomo KAMA pi jan tawa.
+CURRENT,tutorial_logisticscrewclicktarget,2448,Click in the CREW cell of the DESTINATION ship to request 5 crew to transfer.,o luka e POKI JAN lon tomo TAWA. ni li pana e lawa ni: o tawa e jan 5.
+CURRENT,tutorial_logisticscrewclicktarget_shiftclick,2448,NOTE: You can SHIFT CLICK to request transfer in multiples of 5.,O SONA: wile tawa pi jan 5 lon tenpo la o LUKA SHIFT.
 CURRENT,tutorial_logisticscrewwait,2448,Excellent. Now we just need to wait for the crew to transfer.,pona mute. tenpo ni la o awen tan tawa jan.
 CURRENT,tutorial_logisticscrewsuccess,2448,Well done. You have transferred some crew successfully!,pona. sina tawa pona e jan!
 CURRENT,tutorial_combat_title,2448,COMBAT,UTALA
 CURRENT,tutorial_combatswitchtotacticalview,2448,Switch to tactical mode.,o tawa nasin utala.
 CURRENT,tutorial_combatopenweaponscontrol,2448,Open the weapons control panel.,o open e sitelen lawa pi utala ilo.
 CURRENT,tutorial_combatrange,2448,You can see the range of weapons by hovering over them. Weapons will shoot at enemy ships in their range.,sina ken lukin e suli nasin pi ilo utala lon nasin ni: o tawa e luka ona lon poka ona.
+CURRENT,tutorial_combatselectcannon,2448,"Your guns can also target specific points on enemy ships.\n\nFirst, select which guns you would like to use.\n\nYou can SHIFT CLICK to select multiple guns.",ilo utala li ken kin pakala e ma wile lon ilo tawa ike.\n\nnanpa wan la o wile e ilo utala kepeken.\n\nwile pi ilo mute la sina ken LUKA SHIFT.
 CURRENT,tutorial_combatselecttarget,2448,Target their weapon systems so that they can't damage you further.,o wile e ilo utala pi jan ike la ona li pakala ala e sina lon tenpo kama.
+CURRENT,tutorial_combatbattlestations,2448,The effect of the EMP is wearing off!\n\nDeploy your weapons and make your crew ready to fight by clicking on BATTLE STATIONS.,pali EMP li kama pini!\n\no open e ilo utala. o ken e pali utala jan kepeken ni: o luka e POKI JAN UTALA.
+CURRENT,tutorial_combatkeepmoving,2448,"Make sure to keep moving during combat, this increases your EVASION and makes you a harder target to hit.",pona la o tawa mute lon tenpo utala. tawa li suli e TAWA WEKA TAN PAKALA. ni la jan ike li ken ala pakala pona e sina.
 CURRENT,tutorial_combatsuccess,2448,Well done. You have learned how to use weapons. Now fire at will at the pirate ship!,sina pona. sina kama sona e nasin pi ilo utala. tenpo ni la o pakala e jan ike lanpan!
 CURRENT,tutorial_mining_title,2448,MINING,ALASA KIWEN
 CURRENT,tutorial_miningstart,2448,We are now going to learn how to mine and collect resources from asteroids.,tenpo ni la o kama sona alasa kiwen tan kiwen mun.
+CURRENT,tutorial_mininginstalllaser,2448,You will need a Mining Laser. These use a lot of power so consider installing extra reactors or batteries.\n\nInstall a MINING LASER and connect it to the power grid.,sina wile e ilo alasa kiwen suno.  ni li kepeken wawa mute la sina kin wile pana e ilo wawa e poki wawa namako.\n\no pana e ILO ALASA KIWEN SUNO.  o wan e ona e nasin wawa.
+CURRENT,tutorial_miningundock,2448,Make sure to UNDOCK from any other ship (from the TACTICAL screen).,pona la o PINI E POKA LUPA tan tomo tawa ante ale (kepeken lipu pi NASIN UTALA).
+CURRENT,tutorial_miningflytosystem,2448,"Look at the rocks on the map, these indicate ASTEROID BELTS. \n\nFly to a system in an asteroid belt, it will probably contain Tilium Ore.",o lukin e kiwen lon sitelen ma. ni li KULUPU KIWEN MUN. \n\no tawa kulupu sike lon kulupu kiwen. ken suli la ona li jo e kiwen Silija
 CURRENT,tutorial_miningflytodeposit,2448,"This system seems to have asteroids containing Tilium Ore, fly close to one of them.",lukin la kulupu sike ni li jo e kiwen Silija lon kiwen mun.
 CURRENT,tutorial_miningswitchtotactical,2448,Switch to tactical mode.,o tawa nasin utala
 CURRENT,tutorial_miningopenweaponscontrol,2448,Open the weapons control panel.,o open e lipu lawa pi ilo utala
 CURRENT,tutorial_miningrange,2448,You can see the range of mining lasers by hovering over them. Mining lasers will fire at mineral patches in their field of fire.,luka sina li lon poka la sina ken lukin e suli ken pi ilo alasa kiwen suno. ilo li pakala e kiwen lon ken ona.
+CURRENT,tutorial_miningselectlaser,2448,"You can also target specific mineral patches.\n\nFirst, select which laser you would like to use.\n\nYou can SHIFT CLICK to select multiple lasers.",kin la sina ken wile e nasin alasa.\n\nopen la o wile e ilo alasa kepeken.\n\nwile pi ilo mute la o LUKA SHIFT.
 CURRENT,tutorial_miningselecttarget,2448,Target a Tilium Ore patch by clicking on one while having a mining laser selected.,kepeken ilo alasa kiwen suno la o alasa e kiwen Silija kepeken luka.
 CURRENT,tutorial_mininggetinrange,2448,Move your ship until the mineral patch is in the range of fire.,o tawa e ilo tawa sina lon poka kiwen.
+CURRENT,tutorial_mininginstalldronebay,2448,Drones will collect mined resources.\n\nInstall a DRONE BAY so your drones can collect the Tilium Ore.,ilo tawa ilo li kama e kiwen.\n\no pana e TOMO PI ILO TAWA ILO la ilo li ken kama e kiwen Silija.
+CURRENT,tutorial_miningfleetorders,2448,You also need to make sure that GATHER MATERIALS is enabled in FLEET ORDERS.,ni kin li wile: NASIN LAWA KULUPU li wile ken ALASA.
+CURRENT,tutorial_mininginstallsmelter,2448,You will need to smelt the raw Tilium Ore to crystals.\n\nInstall a SMELTER.,sina wile pona e kiwen Silija tawa mani suno Silija.\n\no pana e ILO KIWEN SELI.
+CURRENT,tutorial_miningsetsmelter,2448,Right click on the SMELTER and select TILIUM ORE to smelt it into Tilium Crystals.,o luka ante e ILO KIWEN SELI. o wile e KIWEN SILIJA. ni li pona e ona tawa mani suno Silija.
 CURRENT,tutorial_miningwaitsmelter,2448,Perfect! Now wait for your smelter to smelt the Tilium Ore.,pona mute! tenpo ni la o awen taso tan pali Silija pi ilo kiwen seli.
 CURRENT,tutorial_buyship_title,2448,PURCHASING SHIPS,ESUN PI ILO TAWA
 CURRENT,tutorial_buyshipstart,2448,We are now going to learn about selecting and buying ships.,tenpo ni la o kama sona e nasin esun pi ilo tawa.
+CURRENT,tutorial_buyshipinspect,2448,"Click on the JMC MINING STATION, an old unused industrial station for sale.",o luka e tomo JMC MINING STATION. tomo ni pi alasa kiwen li wile esun li kama tan tenpo pini.
+CURRENT,tutorial_buyshipbuy,2448,Click on the BUY button to purchase the JMC MINING STATION.,o luka e nena ESUN. ni li esun e tomo JMC MINING STATION.
+CURRENT,tutorial_buyshipsuccess,2448,"Well done, you have purchased the JMC MINING STATION.",sina pona. sina esun e tomo JMC MINING STATION
 CURRENT,episode_part1,2448,PART 1,KIPISI 1
 CURRENT,episode_part2,2448,PART 2,KIPISI 2
 CURRENT,episode_part3,2448,PART 3,KIPISI 3
@@ -2425,6 +2128,42 @@ CURRENT,wolf_part3_combat4,2448,Target that explosion and fire!,o lawa e ilo uta
 CURRENT,wolf_part3_debrief2,2448,Your skill and bravery have not gone unnoticed. I extend my heartfelt gratitude for your help.,mi lukin pona e wawa ken utala e wawa pilin sina. sina pona mute tawa mi.
 CURRENT,wolf_part3_debrief3,2448,"As a token of appreciation, consider the Astral Temptress now a part of your fleet.",pilin pona la mi pana e ilo tawa Astral Temptress tawa kulupu sina.
 CURRENT,wolf_part3_debrief4,2448,"The ship was due to be scrapped, but we think it may have some years left in its structure yet.",tenpo pini la ilo tawa ni li kama moli.  taso ken la ona li ken awen lon tenpo mute pi sike suno.
+CURRENT,stargate_part1_title,2448,Stargate,lupa mun
+CURRENT,stargate_part1_intro1,2448,"Welcome bla bla bla.  There is a huge stargate project.  They are looking for contractors.  This is a huge opportunity to make tons of wonga. If we can start manufacturing the parts they need, to specification, then we can make a lot of money very quickly.","toki, n n n.  pali suli pi lupa mun li lon.  kulupu pali li wile e jan pali esun.  sina ken kama jo e mani pi mute kili.  mi pali pona e ijo wile pi pali suli ni la mani mute li kama lon tenpo lili."
+CURRENT,stargate_part1_intro2,2448,This is what they're talking about building.  Massive.  Unthinkable.  This project will drag on for years.,ona li wile pali e ijo ni.  suli pi wawa nasa.  pali pi ken sona ala.  pali li wile e tenpo suli kama mute.
+CURRENT,stargate_summary,2448,Take part in the construction of a galactic megaproject - a STARGATE.,o pana e pali sina tawa pali suli pi kulupu suno suli - LUPA MUN.
+CURRENT,stargate_part1_accept,2448,ACCEPT,O OPEN
+CURRENT,stargate_part1_setup1,2448,We will need a base of operations.  There is a defunct and unused industrial station for sale. I suggest we buy it and use that for our production line.,mi wile e tomo.  jan li esun e tomo pali weka pi tenpo pini.  pilin mi la o esun e ona o kepeken pali e ona.
+CURRENT,stargate_part1_shipname_station,2448,JMC Mining Station,tomo JMC pi alasa kiwen
+CURRENT,stargate_part1_objective_raisecredits,2448,Raise *X credits,o kama jo e mani *X
+CURRENT,stargate_part1_objective_buystation,2448,Buy the industrial station,o esun e tomo pali
+CURRENT,stargate_part1_preparestation1,2448,"Well, it's empty, and it's a mess.  We will need a new crew and we'll need to tidy up the place, and get some basic services working.",ona li weka li pakala.  mi wile e jan mute sin.  mi wile pona e tomo.  mi wile pana e ken pi ijo wile suli.
+CURRENT,stargate_part1_preparestation2,2448,Hire some crew and clean the place up.  Bring the power online and get the factory pressurised for human use.,o esun e jan pali.  o pona e tomo e pana wawa.  o pana e kon tawa tomo tan ni: kepeken jan.
+CURRENT,stargate_part1_objective_hirecrew,2448,Hire *X crew and buy *X spacesuits,o esun e jan *X e len mun *X
+CURRENT,stargate_part1_objective_powerstation,2448,Power the station,o wawa e tomo
+CURRENT,stargate_part1_objective_makebreathable,2448,Make the cabin breathable,o kon e tomo
+CURRENT,stargate_part1_manufacturing1,2448,"Ok, good work.  We now have a small factory ship we can use to start manufacturing stargate parts.  Let's take a look at the tender released to industry.  See what they want us to manufacture.",pali pona.  sina jo e tomo pali tawa lili.  sina ken open pali e kipisi ilo pi lupa mun.  o lukin e toki pali pi kulupu pali.  ona li pana sona e ni: o pali e seme?
+CURRENT,stargate_part1_manufacturing2,2448,"Right now they're still working on the scaffolding for the project.  If we start making Stargate Frames, we can make some profits quickly",tenpo ni la ona li pali e sijelo ona.  mi pali e sijelo ilo pi lupa mun la mi kama jo e mani lon tenpo lili.
+CURRENT,stargate_part1_manufacturing3,2448,Let's get setup to start manufacturing.  I'll send a shuttle with the parts we will need to begin a basic production line.,o ken e open pali.  mi pana e poki tawa tawa sina.  ona li jo e ijo wile pi open pali.
+CURRENT,stargate_part1_manufacturing4,2448,That's everything you'll need to get started.  Let's get to work.,open pali la sina jo e ijo wile ale.  o open pali.
+CURRENT,stargate_part1_objective_manufacture,2448,Manufacture [*X/*Y] STARGATE FRAMES,o pali e SIJELO ILO [*X/*Y] PI LUPA MUN
+CURRENT,stargate_part1_objective_deliver,2448,Deliver [*X/*Y] STARGATE FRAMES,o pana e SIJELO ILO [*X/*Y] PI LUPA MUN
+CURRENT,stargate_part1_manufacturing5,2448,"We've made a start.  We can scale up this design now.  The faster we can turn these parts out, the faster we can make money.  Use the money we made from the first stargate parts to scale up production, and produce a much larger batch.",ni li open pona.  tenpo ni la o suli e nasin pali.  pali mute lon tenpo lili la mani mute li kama lon tenpo lili.  kepeken mani kama pi pali nanpa wan la o suli e ilo pali o pali e kulupu ijo pi mute suli.
+CURRENT,stargate_part1_manufacturing6,2448,We should be able to get by just buying the raw materials we need through the Trade system.  If there isn't enough metallic minerals available then you'll have to send your other ship around the Sector to pickup the resources you need from other stations.,"mi ken pali e ale kepeken ni taso: ijo tan nasin esun.  kiwen suno pi mute pona li lon ala la, o pana e ilo tawa ante sina.  ona li ken tawa lon ma li ken kama jo e ijo wile ante tan tomo esun ante."
+CURRENT,stargate_part1_objective_extrafabricator,2448,Setup another fabricator,o pana e ilo pali kin
+CURRENT,stargate_part1_objective_extraassembler,2448,Setup another assembly table,o pana e supa pali kin
+CURRENT,stargate_part1_objective_manufacture2,2448,Manufacture [*X/*Y] STARGATE FRAMES,o pali e SIJELO ILO [*X/*Y] PI LUPA MUN
+CURRENT,stargate_part1_objective_deliver2,2448,Deliver [*X/*Y] STARGATE FRAMES,o pana e SIJELO ILO [*X/*Y] PI LUPA MUN
+CURRENT,stargate_part1_objective_manufacture3,2448,Manufacture [*X/*Y] STARGATE FRAMES,o pali e SIJELO ILO [*X/*Y] PI LUPA MUN
+CURRENT,stargate_part1_objective_deliver3,2448,Deliver [*X/*Y] STARGATE FRAMES,o pana e SIJELO ILO [*X/*Y] PI LUPA MUN
+CURRENT,stargate_part1_action_deliverframes,2448,Deliver *X Stargate Frames,o pana e sijelo ilo *X
+CURRENT,stargate_part1_framdelivery,2448,Stargate Frames,sijelo ilo pi lupa mun
+CURRENT,stargate_part1_completion,2448,Well done on completing the frame of the Stargate. There is still a lot of work to do.,sijelo ilo pi lupa mun la pini la sina pona.  pali kama mute li lon.
+CURRENT,stargate_part2_title,2448,Stargate Part 2,lupa mun (kipisi 2)
+CURRENT,stargate_part2_intro1,2448,Continue help on The Stargate Project,o awen pona e pali pi lupa mun
+CURRENT,stargate_part2_intro2,2448,The Stargate Project demands your help! Upscale your manufacturing with new resources to assist the project.,pali pi lupa mun li wile e pona sina!  o suli e ken pali ilo sina.  o esun e ijo sin tawa pali suli kepeken ilo wile sin.
+CURRENT,stargate_part2_setup1,2448,Continue help on The Stargate Project,o awen pona e pali pi lupa mun
+CURRENT,stargate_part2_setup2,2448,Manufacture Stargate Resin,o pali e ko pi lupa mun
 CURRENT,tiddlets_part1_title,2448,The Trouble with Tiddlets,pakala Sipa
 CURRENT,tiddlets_character_artemis,2448,Prof. Artemis Toppingbury,jan sona Atemitopipuli
 CURRENT,tiddlets_character_swanson,2448,Dr. Magnus Swanson,jan sona Makusanson
@@ -2771,6 +2510,7 @@ CURRENT,dsi_part2_objective_collectgas,2448,Begin collecting Metreon Gas [*X/100
 CURRENT,dsi_part2_objective_refinegas,2448,Begin refining Metreon [*X/100],o open pona e kon Metejan [*X/100]
 CURRENT,dsi_part2_action_buyship,2448,Buy gas fuselage,o esun e tomo kon
 CURRENT,dsi_part2_isotopesintro1,2448,We need to produce 100 Stable Isotopes. This is a chemical compound we must synthesise and deliver in barrels to the Andromeda Project.,mi wile pali e lili pona 100 pi tawa suli.  mi wile pana e poki ona tawa kulup Antometa.
+CURRENT,dsi_part2_isotopesintro2,2448,"It's not too complex.  It starts with a Hyperspace Scoop, or several ideally, that you can fit to your vessels.  Every time you make an FTL jump you'll collect more as you pass through deep space at light speed.  You can then pipe those isotopes into a Refinery and convert them into Stable Isotopes.","pali li ike ala.  o open kepeken ilo alasa kiwen uta, anu mute lon pona.  o pana e ona tawa tomo tawa sina.  tawa suli ale la sina kama jo e kiwen mute pi tawa suli."
 CURRENT,dsi_part2_objective_installscoop,2448,Install Hyperspace Scoop,o pana e ilo alasa kiwen uta
 CURRENT,dsi_part2_objective_collectisotopes,2448,Begin collecting Hyperspace Isotopes [*X/100],o open alasa e lili [*X/100] pi tawa suli
 CURRENT,dsi_part2_objective_unloadisotopes,2448,Begin unloading barrels of Stable Isotopes [*X/10],o open pana e poki lili pona pi tawa suli [*X/10]
@@ -2796,144 +2536,6 @@ CURRENT,dsi_part2_scene_z4,2448,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2448,THERE WILL BE NO FURTHER WARNING.,TOKI NAMAKO LI KAMA ALA.
 CURRENT,dsi_part2_scene_y7,2448,You've left me no choice.,sina pana e ken ante ala tawa mi.
 CURRENT,dsi_part2_scene_y8,2448,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","mi kama tawa sina, jan Alesantejemelisa o.  tenpo ni la mi wile ala e kipisi 10% taso."
-OBSOLETE,tutorial_battlestationsactivate,2793,BATTLE STATIONS must be activated before your weapons can be used.\n\nThis will tell your crew to prepare for battle!,sina wile kepeken ilo utala la jan li wile lon POKI JAN UTALA.\n\nni li toki e ni tawa jan: o ken utala!
-OBSOLETE,tutorial_stargatejumpintro,2793,The Stargate enables travel between different sectors.\n\nThe jump costs a single FTL charge and the Stargate will use more power while a jump is in progress.,"lupa mun la jan li ken tawa kipisi ante pi ma mun.\n\ntawa suli li wile e poki wawa pi tawa suli. tenpo pi tawa suli la, lupa mun li kepeken wawa mute."
-OBSOLETE,tutorial_stargatejumpopenftl,2793,"First, let's open the FTL window.","nanpa wan la, o open e lipu pi tawa suli."
-OBSOLETE,tutorial_powerreactoractive,2793,The REACTOR is activated! We are now generating power for our ship.,ILO WAWA li open! tenpo ni la ona li pana e wawa tawa ilo tawa.
-OBSOLETE,tutorial_powerreactoractive,2448,The REACTOR is activated! We are now generating power for our station.,ILO TAWA li pali! tenpo ni la ilo li pana e wawa tawa tomo.
-OBSOLETE,tutorial_airpipes,2448,We need to connect the OXYGEN LOADER into the AIRDUCT using PIPES.\n\nSelect PIPES from the CONSTRUCTION menu.,o wan e ILO PI TAWA KON e NASIN LUPA KON kepeken NASIN LUPA.\n\no wile e NASIN LUPA kepeken nena PALI.
-OBSOLETE,tutorial_stargatescreen1,2624,Let's turn our attention to the STARGATE PROJECT.\n\nWe can view our progress from the Stargate screen.\n\nOpen the STARGATE screen.,o lukin e PALI SULI PI LUPA MUN.\n\nsina ken lukin e mute pini pi pali ni kepeken lipu pi lupa mun.\n\no open e lipu pi LUPA MUN.
-OBSOLETE,tutorial_stargatescreen1,2448,Lets turn our attention to the STARGATE PROJECT.\n\nWe can view our progress from the Stargate screen.\n\nOpen the STARGATE screen.,o lukin e PALI SULI PI LUPA MUN.\n\nsina ken lukin e mute pini pi pali ni kepeken lipu pi lupa mun.\n\no open e lipu pi LUPA MUN.
-OBSOLETE,tutorial_smelterssalvage,2624,Click on the nearby RUINED EQUIPMENT to instruct your crew to dismantle it into SCRAP METAL.,o luka e ILO PAKALA. ni li toki e ni tawa jan sina: o pakala e ni tawa KIWEN SUNO PAKALA.
-OBSOLETE,tutorial_smelterssalvage,2448,Click on the nearby RUINED EQUIPMENT to instruct your crew to dismantle it into SCRAP.,o luka e ILO PAKALA. ni li toki e ni tawa jan sina: o pakala e ni tawa KIWEN SUNO PAKALA.
-OBSOLETE,tutorial_fleettrade,2624,The ship is fitted with engines and an FTL drive for Interstellar Travel! But it does need a crew.\n\nOpen the TRADE screen.,ilo tawa ni li jo e ilo pi wawa tawa e ilo pi tawa suli! taso ona li wile e jan.\n\no open e LIPU ESUN.
-OBSOLETE,tutorial_fleettrade,2448,The ship is fitted with engines and an FTL drive for Interstellar Travel! But it does need a crew.\n\nOpen the TRADE SCREEN.,ilo tawa ni li jo e ilo pi wawa tawa e ilo pi tawa suli! taso ona li wile e jan.\n\no open e lipu ESUN.
-OBSOLETE,tutorial_dsiclosedismantle,2489,We can stop dismantling by clicking the dismantle button again or by closing the construction menu.\n\nClose the menu by clicking the CONSTRUCTION button or by pressing ESC.,wile pini e pali pakala la o luka sin e nena pi pali pakala anu pini e lipu pali.\n\no pini e lipu kepeken nena PALI anu nena ESC.
-OBSOLETE,tutorial_cameracontrols,2475,"Use {PanUp1}{PanLeft1}{PanDown1}{PanRight1} or the ARROW KEYS to move the view around.\n\nZoom the view using the MOUSE WHEEL, or {ZoomIn}/{ZoomOut} on the keyboard.\n\nDrag the view by holding the MIDDLE MOUSE BUTTON.","sina wile tawa lukin la o kepeken nena {PanUp1}{PanLeft1}{PanDown1}{PanRight1} anu nena pi palisa nasin.\n\nsina wile suli anu lili e sitelen la o kepeken ILO TAWA SIKE PI ILO TAWA LUKA, anu {ZoomIn}/{ZoomOut} lon ilo nena supa.\n\no tawa e sitelen kepeken NENA MESO."
-OBSOLETE,tutorial_flighttactical,2475,"We should give our engines a small test flight.  To maneuver our ship, switch into TACTICAL mode by clicking the highlighted button, or pressing {ToggleTactical}.","o kepeken lili e ilo tawa. sina wile ante e nasin tawa la, o ante tawa NASIN UTALA kepeken nena suno, anu o luka e {ToggleTactical}."
-OBSOLETE,tutorial_flightexittactical,2475,"Exit TACTICAL mode by clicking the button again, or pressing {ToggleTactical}.","sina wile pini e NASIN UTALA la o luka sin e nena, anu o luka e {ToggleTactical}."
-OBSOLETE,tutorial_dockingswitchtotactical,2475,"To get started, switch to TACTICAL mode by clicking the button or pressing {ToggleTactical}.","open la, o tawa NASIN UTALA kepeken nena anu o luka e {ToggleTactical}."
-OBSOLETE,tutorial_dockingmaneuverkeys,2475,"Use the Maneuvering controls to move the ship into position.\n\nYou can also use the keys {ManoeuvreUp}, {ManoeuvreLeft}, {ManoeuvreDown}, {ManoeuvreRight} to move, and {ManoeuvreClockwise} and {ManoeuvreCounterClockwise} to rotate the ship.","o tawa e ilo tawa tawa ma wile kepeken ilo pi lawa tawa.\n\nkin la sina ken kepeken nena {ManoeuvreUp}, {ManoeuvreLeft}, {ManoeuvreDown}, {ManoeuvreRight} tan wile tawa.nena {ManoeuvreClockwise} en nena {ManoeuvreCounterClockwise} li tawa sike e ilo tawa."
-OBSOLETE,tutorial_miningopenmap,2475,Now open the sector map ({ToggleMap}).,tenpo ni la o open e sitelen ma pi kipisi ma mun ({ToggleMap}).
-OBSOLETE,tutorial_buy_shiftclick,2448,NOTE: You can SHIFT CLICK to buy in multiples of 5.,O SONA: wile esun pi mute 5 la o luka SHIFT CLICK
-OBSOLETE,tutorial_introduction2,2448,"This vessel is fresh out of the shipyard production line.\n\nIt's just an empty hull right now, without power or a breathable atmosphere. Our first job is to fix that.\n\nClick NEXT to continue.","tomo tawa ni li kama sin tan tomo pali.\n\ntenpo ni la ona li selo weka taso, li jo ala e wawa e kon. suli nanpa wan li ni: o pona e ni.\n\nwile open la o luka e nena PONA."
-OBSOLETE,tutorial_powerinstallmenu,2448,"Let's begin by installing a REACTOR, to generate power for our ship.\n\nClick into the CONSTRUCTION menu, then click INSTALL.",open la o pana e ILO WAWA. ni li pana e wawa\n\no luka e lipu PALI la o luka e nena O PANA E ILO.
-OBSOLETE,tutorial_powerselectreactor,2448,This is all the boxed equipment you have available on-board.\n\nSelect REACTOR from the list.,ni li ilo poki ale lon tomo.\n\no wile e ILO WAWA tan kulupu nimi.
-OBSOLETE,tutorial_powerplacereactor,2448,Stamp the REACTOR down inside your ship.,o pana e ILO WAWA lon supa neko pi tomo tawa sina.
-OBSOLETE,tutorial_powerreactorinprogress,2448,Your crew will install the REACTOR.,jan sina li tawa e ILO WAWA tawa ma wile.
-OBSOLETE,tutorial_powerselectloader,2448,"The REACTOR needs FUEL, and we use a FUEL LOADER to pump it to the REACTOR.\n\nSelect the FUEL LOADER from the Construction menu.",ILO WAWA li wile e TELO WAWA. ILO TAWA TELO WAWA li tawa e telo tawa ILO WAWA.\n\no wile e ILO TAWA TELO WAWA tan lipu pali.
-OBSOLETE,tutorial_powerplaceloader,2448,Stamp the FUEL LOADER down somewhere near the REACTOR.,o pana e ILO TAWA TELO WAWA lon poka pi ILO WAWA.
-OBSOLETE,tutorial_powerselectpipes,2448,"We need to connect the FUEL LOADER to the REACTOR, using a Pipe.\n\nSelect PIPES from the Construction Menu.",sina wile wan e ILO TAWA TELO WAWA e ILO WAWA kepeken nasin lupa.\n\no wile e NASIN LUPA tan lipu pali.
-OBSOLETE,tutorial_powerpipeconnect,2448,"Drag a pipe from the FUEL LOADER to the REACTOR, connecting the yellow pipe circles.\n\nFUEL PIPES are used to connect the output from one piece of equipment into the input of another.\n\nFUEL PIPES are yellow and must connect the yellow circles on equipment.",o sitelen e nasin lupa tan ILO TAWA TELO WAWA tawa ILO WAWA. o wan e sike jelo.\n\nNASIN LUPA PI TELO WAWA li wan e lupa weka pi ilo wan e lupa kama pi ilo ante.\n\nNASIN LUPA li jelo li wile luka e sike jelo lon ilo.
-OBSOLETE,tutorial_powerreactorpowerup,2448,The REACTOR is starting up.,ILO TAWA li open pali.
-OBSOLETE,tutorial_airinstallairduct,2448,We now need to provide a breathable atmosphere for our crew. This is done with an AIRDUCT.\n\nInstall an AIRDUCT somewhere near the Reactor.,tenpo ni la sina wile pana e kon pona tawa jan. ni li kepeken NASIN LUPA KON.\n\no pana e NASIN LUPA KON lon poka pi ilo wawa.
-OBSOLETE,tutorial_aircables,2448,The AIRDUCT needs to be powered from the REACTOR.  Select CABLES from the CONSTRUCTION menu.,NASIN LUPA KON li wile e wawa tan ILO WAWA. o wile e LINJA WAWA tan lipu PALI.
-OBSOLETE,tutorial_aircabletoreactor,2448,"Drag a power cable from the REACTOR to the AIRDUCT, connecting the red circles.\n\nPOWER CABLES are used to connect reactors to any equipment that needs power.\n\nPOWER CABLES are red and must connect red circles on equipment.",o sitelen e linja wawa tan ILO WAWA tawa NASIN LUPA KON. o wan e sike loje.\n\nLINJA WAWA li wan e ilo wawa e ilo pi wile wawa.\n\nLINJA WAWA li loje li wile luka e sike loje lon ilo.
-OBSOLETE,tutorial_airinstallairloader,2448,"The AIRDUCT needs OXYGEN, in the same way as the REACTOR needs FUEL. We can use an OXYGEN LOADER to provide OXYGEN.\n\nInstall an OXYGEN LOADER near the AIRDUCT.",NASIN LUPA KON li wile e KON PONA sama ni: ILO WAWA li wile e TELO WAWA. ILO PI TAWA KON li ken pana e KON PONA.\n\no pana e ILO PI TAWA KON lon poka pi NASIN LUPA KON.
-OBSOLETE,tutorial_airpipetoairduct,2448,"Drag a PIPE from the OXYGEN LOADER to the AIRDUCT, connecting the BLUE circles.",o sitelen e NASIN LUPA tan ILO PI TAWA KON tawa NASIN LUPA KON. o wan e sike LASO.
-OBSOLETE,tutorial_airdone,2448,The AIRDUCT is activated and is pressurising the cabin! The atmosphere will soon be breathable.,NASIN LUPA KON li pali pona li kon e tomo! tenpo kama poka la kon tomo li pona tawa jan.
-OBSOLETE,tutorial_enginesinformation,2448,Engines require both POWER and FUEL to operate. We must connect both engines to fuel and power.,ilo pi wawa tawa la pali li wile e WAWA e TELO WAWA. o wan e ilo e telo wawa e wawa.
-OBSOLETE,tutorial_enginesconnectpower,2448,"Now use the CABLES menu to power up the engine, by connecting it to your existing red power lines.",tenpo ni la o kepeken lipu sitelen pi LINJA WAWA. o wawa e ilo pi wawa tawa: o wan e ona e linja wawa loje lon.
-OBSOLETE,tutorial_ftlintro,2448,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,sina wile tawa e jan tawa ma wile ona la sina wile e tawa suli. ike la ilo tawa sina li jo ala e ilo pi tawa suli.\n\nsina o esun e ilo o pana e ona tawa tomo.
-OBSOLETE,tutorial_ftltradescreen,2448,Open the trade screen to purchase an FTL drive.,ilo pi tawa suli la wile esun la o open e lipu esun.
-OBSOLETE,tutorial_ftlselectpropulsion,2448,The items we need are listed under PROPULSION. Select that category.,kulupu nimi pi ilo wile li lon anpa pi nimi WAWA TAWA.
-OBSOLETE,tutorial_ftladdftldrive,2448,Add one FTL drive to our order by clicking on the entry in the list.,o open esun e ilo wan pi tawa suli: o luka e ona lon kulupu nimi.
-OBSOLETE,tutorial_ftladdftlfuel,2448,FTL drives consume one fuel charge per jump. Add 5 FTL Charges to the order as well.,tawa suli wan li kepeken poki wawa wan pi tawa suli. o esun kin e poki 5.
-OBSOLETE,tutorial_ftlinstallftl,2448,Install the FTL drive anywhere in your ship.,o pana e ilo pi tawa suli lon tomo tawa sina lon ma pi pilin sina.
-OBSOLETE,tutorial_ftlpowerftl,2448,Connect the FTL drive to your power network.,o wan e ilo pi tawa suli e wawa pi ilo tawa sina.
-OBSOLETE,tutorial_ftlstoragetoolbar,2448,"We can make things more efficient for our crew by telling them to store FTL Charges near the FTL drive.\n\nSelect STORAGE from the CONSTRUCTION toolbar, then select FTL Charges from the list.",poki wawa li awen lon poka ilo pi tawa suli la ni li pona e pali jan.\n\no wile e MA AWEN tan sitelen ilo PALI. o wile e poki wawa pi tawa suli tan kulupu nimi.
-OBSOLETE,tutorial_ftlstorageworld,2448,Now drag out a storage zone near to the FTL drive.,o sitelen e ma awen lon poka ilo pi tawa suli.
-OBSOLETE,tutorial_ftlstoragedone,2448,The crew will move all the FTL Charges into this zone.,jan li kama tawa e poki wawa ale pi tawa suli tawa ma awen ni.
-OBSOLETE,tutorial_stargatescreen2,2448,This screen shows the phases that require construction in order to complete the STARGATE.\n\nWe are in PHASE 1. Work has only just begun.,lipu ni li pana lukin e tenpo pali pi LUPA MUN. pini ona li wile e ni ale.\n\nsina lon TENPO 1. pali li open taso lon tenpo pini poka.
-OBSOLETE,tutorial_stargatescreen3,2448,On the left of the screen you can see the requirements to complete PHASE 1.\n\nWe need to manufacture:\n- 100 STARGATE FRAMES\n- 10 STARGATE RESIN,poka wan pi lupu ni sina lukin e wile ale tawa pini pi TENPO 1.\n\nsina wile pali e:\n- SIJELO 100 PI LUPA MUN\n- KO 10 PI LUPA MUN
-OBSOLETE,tutorial_stargatescreen4,2448,"These PHASE 1 components are easy to manufacture, and we already have what we need onboard.\n\nBut we can sell them to the STARGATE PROJECT for a small fortune.",TENPO 1 la pali pi ijo wile li pona. ijo wile ale pi pali ni li lon tomo lon tenpo ni.\n\ntaso sina ken pana esun e ona tawa PALI PI LUPA MUN. mani mute li kama tawa sina tan ni.
-OBSOLETE,tutorial_stargatescreen5,2448,Close the STARGATE screen by clicking on the toolbar again (or press ESC).,o pini e lipu pi LUPA MUN kepeken luka pi sitelen lawa lon tenpo sin (anu o luka e nena ESC).
-OBSOLETE,tutorial_productionstart,2448,We are now going to learn how to produce STARGATE FRAMES.,tenpo ni la sina kama sona e pali ni: SIJELO PI LUPA MUN.
-OBSOLETE,tutorial_fabricationinstallfabricator,2448,"Components are manufactured in a FABRICATOR, using raw materials like METAL INGOTS.\n\nInstall a FABRICATOR somewhere in the South East quadrant of the station.",pali pi ijo wile li kama tan ILO PALI kepeken ijo sama LEKO KIWEN SUNO.\n\no pana e ILO PALI lon ma ni pi tomo sina: nasin anpa en nasin mun.
-OBSOLETE,tutorial_fabricationinstallassemblytable,2448,Those components are then assembled into finished products on an ASSEMBLY TABLE.\n\nInstall an ASSEMBLY TABLE somewhere near the FABRICATOR.,ijo ni li kama ijo pali pini lon SUPA PALI.\n\no pana e SUPA PALI lon poka pi ILO PALI.
-OBSOLETE,tutorial_fabricationpower,2448,This new equipment needs power.  Build POWER CABLES to connect your REACTOR to the FABRICATOR and ASSEMBLY TABLE.,ilo sin li wile e wawa. o sitelen e LINJA WAWA o wan e ILO WAWA e ILO PALI e SUPA PALI.
-OBSOLETE,tutorial_fabricationconfigurefab1,2448,We need to configure the new equipment to make the products that we want.\n\nRIGHT CLICK on the FABRICATOR to configure it.,o lawa e nasin pali pi ilo sin.\n\no LUKA ANTE e ILO PALI o lawa e nasin ona.
-OBSOLETE,tutorial_fabricationconfigurefab2,2448,This drop-down menu shows all of the components that we can manufacture in a FABRICATOR.\n\nSelect FRAME from the list.,kulupu nimi ni li pana lukin e ijo pali ken ale pi ILO PALI.\n\no wile e SIJELO ILO tan lipu.
-OBSOLETE,tutorial_fabricationconfigureass1,2448,We need to configure the ASSEMBLY TABLE in the same way.\n\nRIGHT CLICK on the assembly table.,o lawa e nasin pi SUPA PALI lon nasin sama.\n\no LUKA ANTE e supa pali.
-OBSOLETE,tutorial_fabricationconfigureass2,2448,Select STARGATE FRAME from the drop-down menu.,o wile e SIJELO PI LUPA MUN tan kulupu nimi.
-OBSOLETE,tutorial_fabricationclosefab1,2448,"Close the Equipment Panel by clicking the X in the top right corner, or pressing ESC.","o pini e lipu ilo: o luka e sitelen X lon nasin sewi, anu o luka e nena ESC."
-OBSOLETE,tutorial_fabricationclosefab2,2448,"Close the Equipment Panel by clicking the X in the top right corner, or pressing ESC.","o pini e lipu ilo: o luka e sitelen X lon nasin sewi, anu o luka e nena ESC."
-OBSOLETE,tutorial_fabricationworking,2448,"Your crew are now fabricating FRAMES out of METAL INGOTS, then assembling those FRAMES into STARGATE FRAMES, which we can sell to the STARGATE project for profit.","tenpo ni la jan sina li pali e SIJELO ILO tan LEKO KIWEN SUNO. pini ni la, jan li pali e SIJELO PI LUPA MUN kepeken sijelo ilo. pali suli pi LUPA MUN la esun pana ni li pana e mani mute."
-OBSOLETE,tutorial_smeltersintroduction,2448,"We are going to need a lot of METAL INGOTS if we're to make enough of those STARGATE FRAMES.\n\nWe don't have many METAL INGOTS on board, and will run out soon.",SIJELO PI LUPA MUN la pali pi mute pona li wile e LEKO KIWEN SUNO mute.\n\nsina jo ala e LEKO KIWEN SUNO mute lon tomo lon tomo. ona li kama weka lon tenpo kama poka.
-OBSOLETE,tutorial_smeltersbuild,2448,"But we do have plenty of SCRAP METAL, and we can melt that down in a SMELTER.\n\nBuild a SMELTER somewhere near the production line.","taso sina jo e KIWEN SUNO PAKALA mute, li ken telo e ona kepeken ILO KIWEN SELI.\n\no pana e ILO KIWEN SELI lon poka pi nasin pali."
-OBSOLETE,tutorial_smelterspower,2448,Connect the smelters to the REACTOR using POWER CABLES,o wan e ilo kiwen wawa e ILO WAWA kepeken LINJA WAWA
-OBSOLETE,tutorial_smeltersscrapmetal,2448,Right click on the SMELTER and set its material to be SCRAP METAL.,o luka ante e ILO KIWEN SELI o lawa e ijo ona tawa KIWEN SUNO PAKALA.
-OBSOLETE,tutorial_smeltersoperational,2448,The crew will now load in all the SCRAP METAL and smelt it into much more useful METAL INGOTS.,tenpo ni la jan li pana e KIWEN SUNO PAKALA ale li pona e ona tawa LEKO KIWEN SUNO pi pona kepeken mute.
-OBSOLETE,tutorial_smeltersdismantle,2448,"There is a ton of RUINED EQUIPMENT around this old station, that we can break down into SCRAP METAL.\n\nSelect DISMANTLE from the CONSTRUCTION toolbar.",ILO PAKALA mute li lon poka pi tomo ni. sina ken pakala e ona tawa KIWEN SUNO PAKALA.\n\no wile e PALI PAKALA tan sitelen lawa PALI.
-OBSOLETE,tutorial_smeltersstoragetoolbar,2448,"We can make things more efficient for our crew by telling them to store SCRAP METAL near to the SMELTER.\n\nSelect STORAGE from the CONSTRUCTION toolbar, then select SCRAP METAL from the list.",sina ken pona e pali kiwen. o toki e ni tawa jan: o awen e KIWEN SUNO PAKALA lon poka pi ILO KIWEN SELI.\n\no wile e AWEN tan sitelen lawa PALI.
-OBSOLETE,tutorial_smeltersstorageworld,2448,Now drag out a storage zone near to the SMELTER.,tenpo ni la o sitelen e ma leko awen lon poka pi ILO KIWEN SELI.
-OBSOLETE,tutorial_smeltersstoragedone,2448,The crew will move all the SCRAP METAL into this zone.,jan li kama tawa e KIWEN SUNO PAKALA ale tawa ma ni.
-OBSOLETE,tutorial_tradewaitforsellable,2448,Your crew will now use the equipment to produce some STARGATE FRAMES.,tenpo ni la jan sina li kama kepeken ilo pali. ona li kama pali e SIJELO PI LUPA MUN.
-OBSOLETE,tutorial_tradeothersupplies,2448,"We can use the TRADE system to buy raw materials to produce more STARGATE FRAMES, as well as resources we will need to survive.\n\nReopen the TRADE screen.",SIJELO PI LUPA MUN la wile pali mute la sina ken kepeken nasin ESUN. kin la sina ken esun e ijo suli ante tawa awen jan.\n\no open sin e lipu ESUN.
-OBSOLETE,tutorial_tradebuyminerals,2448,METALLIC MINERALS can be smelted into METAL INGOTS just like SCRAP METAL.\n\nAdd all the METALLIC MINERALS to the trade.,sina ken pona e KIWEN PI KIWEN SUNO tawa LEKO KIWEN SUNO sama KIWEN SUNO PAKALA.\n\nKIWEN PI KIWEN SUNO la o pana e ale tawa esun.
-OBSOLETE,tutorial_tradebuysmelter,2448,We will also need another SMELTER to begin processing those METALLIC MINERALS.\n\nFind the SMELTER under the INDUSTRY tab and add one to the order.,sina wile kin e ILO KIWEN SELI kin wan. ilo sin li ken pona e KIWEN PI KIWEN SUNO.\n\no alasa e ILO KIWEN SELI lon lipu PALI. o pana e wan ni tawa kulupu esun.
-OBSOLETE,tutorial_tradebuymore,2448,This is a good opportunity to stock up on some other resources that are critical for life support.\n\nWe'd recommend you purchase:\n\n - 2x FUEL\n - 2x OXYGEN\n - 2x WATER\n - 2x FOOD\n\n- HIRE 5 MORE CREW\n\nCONFIRM the order when you are done.,ni li tenpo pona tawa ni: sina kama jo e ijo suli pi awen jan.\n\npona la o esun e:\n\n - 2x TELO WAWA\n - 2x KON PONA\n - 2x TELO\n - 2x MOKU\n\n- O ESUN E JAN MUTE 5\n\nO LUKIN PONA e esun lon pini.
-OBSOLETE,tutorial_tradeinstallsmelter,2448,"Once those goods have arrived, you should install your second SMELTER somewhere near the first.",ijo esun li pini kama la o pana e ILO KIWEN SELI nanpa tu lon poka pi nanpa wan.
-OBSOLETE,tutorial_tradesmeltmetallicminerals,2448,Set the SMELTER to process those METALLIC MINERALS you bought into more METAL INGOTS.,o lawa e ILO KIWEN SELI tawa ni: ona li pona e KIWEN PI KIWEN SUNO tan esun sina tawa LEKO KIWEN SUNO.
-OBSOLETE,tutorial_productionsuccess,2448,"Well done, you are now all set to produce STARGATE FRAMES.",pali pona. tenpo ni la sina ken pali e SIJELO PI LUPA MUN.
-OBSOLETE,tutorial_fleetcrew,2448,We will need a crew. Hire five CREW MEMBERS from the TRADE screen.,o esun e JAN 5 tan lipu ESUN.
-OBSOLETE,tutorial_fleetcrew_shiftclick,2448,NOTE: You can SHIFT CLICK to hire in multiples of 5.,O SONA: wile esun jan pi nanpa 5 la sina ken LUKA SHIFT.
-OBSOLETE,tutorial_fleetspacesuits,2448,Those crew will also need SPACESUITS as there is no atmosphere onboard our ship yet.\n\nOrder five SPACESUITS for the new crew.,kin la jan sin li wile e LEN MUN tan ni: tomo li jo ala e kon lon tenpo ni.\n\njan sin la o esun e LEN MUN 5.
-OBSOLETE,tutorial_fleettradeconfirm,2448,CONFIRM the trade.,o PINI PONA e esun.
-OBSOLETE,tutorial_fleetresources,2448,We also need resources for the ship to function.\n\nUse the TRADE screen to buy:\n- 5x FUEL\n- 5x OXYGEN\n- 5x FTL CHARGE\n- 2x FOOD\n- 2x WATER.\n\nCONFIRM the trade when you are done.,ilo tawa li wile kin e ijo sulo.\n\no kepeken lipu ESUN o esun e:\n-n 5x TELO WAWA\n- 5x KON PONA\n- 5x WAWA PI TAWA SULI\n- 2x MOKU\n- 2x TELO.\n\no PONA e esun lon pini.
-OBSOLETE,tutorial_flightengines,2448,We can directly control our engine THROTTLE from here.\n\nTry increasing your engine throttle with this control.,sina ken lawa e NANPA WAWA pi tawa ilo lon ni.\n\no suli e wawa tawa kepeken ni.
-OBSOLETE,tutorial_flightturning,2448,"We can also turn the ship by left clicking in TACTICAL mode, in the direction we wish to travel.",kin la sina ken tawa sike e ilo tawa. o luka lon lipu pi NASIN UTALA.
-OBSOLETE,tutorial_flightsetcourse,2448,We can send our ship to a specific location by RIGHT-CLICKING. Try setting a destination by right clicking in the tactical view.,sina ken tawa e ilo tawa sina tawa ma wile kepeken LUKA ANTE. o pana e ma wile kepeken luka ante lon lipu pi nasin utala.
-OBSOLETE,tutorial_flightinformation,2448,"Your crew will continue to operate the ship and keep the engines running as you travel around. Try flying around the system until you have a handle on the controls.\n\nWhen you are ready, bring the ship to a stop by setting the THROTTLE to zero in TACTICAL mode.",tawa la jan li awen pali lon tomo tawa li awen e pona ilo pi wawa tawa. o tawa lili lon ma ni tawa suli po sona lawa sina.\n\nwile pini la o pini e tawa kepeken nanpa ala lon ilo lawa pi WAWA TAWA lon lipu pi NASIN UTALA.
-OBSOLETE,tutorial_financemissionscreen,2448,"Now that our ship is up and running, we need to earn our way.  We can complete contracts for financial reward and reputation.\n\nOpen the CONTRACTS screen to see a list of available contracts.",ilo tawa li pona ken la sina wile kama jo e mani. sina pini pona e pali esun la ni li pana e mani e pilin pona pi jan ante tawa sina.\n\no open e lipu pi PALI ESUN. ni la o lukin e kulupu pi pali esun ken.
-OBSOLETE,tutorial_financeselectship,2448,"Contracts are assigned to the ship you currently have selected.\n\nOnly the PROCYON can travel between locations, so select the PROCYON.",ilo tawa lon li jo e pali esun.\n\nilo PROCYON taso li ken tawa ma sin la o kepeken ilo PROCYON.
-OBSOLETE,tutorial_financeselecttransport,2448,"Here we have a TRANSPORT PASSENGER contract, click it to see more details.",ni li pali esun pi TAWA JAN. wile lukin e toki ale ona la o luka e ona.
-OBSOLETE,tutorial_financeassigntransport,2448,This mission requires us to transport a group of people from here to another location in the sector.\n\nClick the accept button to assign this contract to the PROCYON.,pali esun ni li wile e ni: sina tawa e kulupu jan tawa ma ante lon kipisi ma mun ni.\n\no luka e nena pona. ni li pana e pali esun ni tawa ilo PROCYON.
-OBSOLETE,tutorial_financepassengersinbound,2448,The passengers will be delivered to the PROCYON by shuttle.,jan tawa li kama tawa tomo PROCYON kepeken tomo tawa lili.
-OBSOLETE,tutorial_financesectormap,2448,"All passengers have been delivered to the PROCYON, and our FTL drive is operational. We must now plot an FTL jump to their destination.\n\nOpen the SECTOR MAP.",jan tawa ale li lon tomo PROCYON. ilo pi tawa suli li ken. tenpo ni la o wile e nasin pi tawa suli.\n\no open e SITELEN MA.
-OBSOLETE,tutorial_financesetdestination,2448,"This is a map of all the systems in this sector.\n\nOur ship and our space station are located in the middle, where the map is marked YOU-ARE-HERE.\n\nSet a course to the destination (labelled TRANSPORT PASSENGERS) by clicking on it.","ni li sitelen ma pi kulupu sike ale lon kipisi ma mun ni.\n\nilo tawa en tomo mun sina li lon insa, lon sitelen pi toki SINA LON.\n\no pana e nasin tawa ma wile (li jo e nimi O TAWA E JAN) kepeken luka."
-OBSOLETE,tutorial_financeclosesectormap,2448,"Close the SECTOR MAP by clicking the X in the top right corner, or by pressing ESC.",o pini e SITELEN MA kepeken sitelen X lon sewi.
-OBSOLETE,tutorial_financeftlwindow,2448,Open the FTL screen to order the FTL jump.,wile tawa suli la o open e lipu pi tawa suli.
-OBSOLETE,tutorial_financepreparejump,2448,Click on PREPARE JUMP to align the ship and prepare for hyperspace.,wile open pi tawa suli la o luka e nena pi O OPEN E TAWA SULI.
-OBSOLETE,tutorial_financepreparingjump,2448,"The PROCYON will align for hyperspace, and prepare the FTL drive to make the jump.",ilo PROCYON li tawa sike tawa nasin pona pi tawa suli. ona li ken e ilo pi tawa suli.
-OBSOLETE,tutorial_financejump,2448,Click the JUMP button to jump to hyperspace.,wile open pi tawa suli la o luka e nena pi TAWA SULI
-OBSOLETE,tutorial_financeselectmission,2448,We now need to turn in our completed passenger contract.\n\nOpen the CONTRACTS screen and select the passenger mission.,tenpo ni la sina wile pini e pali esun pi tawa jan.\n\no open e lipu pi PALI ESUN. o wile e pali esun pi tawa jan.
-OBSOLETE,tutorial_financeturnin,2448,Click the DELIVER button to drop off the passengers and receive payment,o luka e nena PANA. ni li pana e jan tawa li kama e mani.
-OBSOLETE,tutorial_wrapup2,2448,"The career you choose is now up to you.  There are many opportunities to choose from, and you'll learn more as you work.\n\nOpen the CONTRACTS board.",tenpo ni la nasin sina li kama tan wile sina. nasin mute li ken. pali la sina kama sona mute.\n\no open e lipu pi PALI ESUN.
-OBSOLETE,tutorial_resinstart,2448,We are now going to learn how to produce STARGATE RESIN.,tenpo ni la o kama sona pali e KO PI LUPA MUN.
-OBSOLETE,tutorial_resinintro,2448,"Turning our attention back to the Stargate, the Stargate project also requires us to produce STARGATE RESIN.\n\nWe are going to use the INDUSTRIOUS to collect METREON GAS, refine it, and process it into STARGATE RESIN.",sin la o toki lon lupa mun. pali ona li wile e KO PI LUPA MUN.\n\nkepeken ilo INDUSTRIOUS la sina kama jo e KON METEJAN. sina pona e ona tawa KO PI LUPA MUN.
-OBSOLETE,tutorial_resinintro2,2448,Raise enough money to purchase for INDUSTRIOUS:\n\n- 1x GAS COLLECTOR\n- 1x REFINERY\n- 1x CHEMICAL LAB,o kama jo e mani pi mute pona. ilo INDUSTRIOUS la sina wile esun e:\n\n-1x ILO ALASA KON\n- 1x ILO PI PALI PONA\n-1 1x SUPA PALI PI SONA SELI
-OBSOLETE,tutorial_resinselectnebula,2448,"Before we can start collecting the METREON GAS, we need to move the INDUSTRIOUS to a system containing a GAS CLOUD.\n\nUse the SECTOR MAP to select a suitable destination.",sina wile kama jo e kon Metejan la sina wile tawa e ilo INDUSTRIOUS tawa kulupu sike pi KON KO.\n\no alasa e nasin pona kepeken SITELEN MA.
-OBSOLETE,tutorial_resinjumptonebula,2448,Close the sector map and use the FTL Window to jump the INDUSTRIOUS to the nebula.,o pini e sitelen ma. kepeken lipi pi tawa suli la o tawa e ilo INDUSTRIOUS tawa kon ko.
-OBSOLETE,tutorial_resininstallgascollector,2448,"Install the GAS COLLECTOR, REFINERY and CHEMICAL LAB so that they are close to each other.",o pana e ILO ALASA KON e ILO KIWEN SELI e SUPA PALI PI SONA SELI. ale o kulupu poka.
-OBSOLETE,tutorial_resinpowerup,2448,"Power up the GAS COLLECTOR, REFINERY and CHEMICAL LAB.",o wawa e ILO ALASA KON e ILO PI PALI PONA e SUPA PALI PI SONA SELI.
-OBSOLETE,tutorial_resinrefineryrecipe,2448,Right click on the REFINERY and set its recipe to REFINE METREON GAS.,o luka ante e ILO PI KPALI PONA. o lawa e nasin pali ona tawa PONA KON METEJAN.
-OBSOLETE,tutorial_resinchemicallabrecipe,2448,Right click on the CHEMICAL LAB and set its recipe to MAKE STARGATE RESIN.,o luka ante e SUPA PALI PI SONA SELI. o lawa e nasin pali ona tawa KO PI LUPA MUN.
-OBSOLETE,tutorial_resinconnectgascollector,2448,Connect the GAS COLLECTOR to the REFINERY with a PIPE.,o wan e ILO ALASA KON e ILO PI PALI PONA kepeken NASIN LUPA.
-OBSOLETE,tutorial_resinconnectchemicallab,2448,Connect the REFINERY to the CHEMICAL LAB with a PIPE.,O WAN e ILO PI PALI PONA e SUPA PALI PI SONA SELI kepeken NASIN LUPA.
-OBSOLETE,tutorial_resinsuccess,2448,"Well done, you have started to produce STARGATE RESIN.\n\nWhen you have produced enough, travel back to any COLONY, SHIP YARD or the STARGATE system to sell it to the STARGATE PROJECT.",pali pona. sina open pali e KO PI LUPA MUN.\n\npini pali pi mute pona la o tawa KULUPU TOMO JAN anu MA PALI PI ILO TAWA anu kulupu sike pi LUPA MUN. ma ni la o esun e ko tawa KULUPU PALI PI LUPA MUN.
-OBSOLETE,tutorial_dockingcheckthrusters,2448,"In order to be able to dock successfully, your ship needs at least four working THRUSTERS.\n\nUse a different ship, or purchase and install four thrusters at a nearby trading post.",wile pi poka lupa pona la ilo tawa sina li wile e ILO LILI PI WAWA TAWA lon nanpa tu tu anu mute.\n\no kepeken ilo tawa ante anu o esun o pana e ilo lili tu tu pi wawa tawa lon tomo esun poka.
-OBSOLETE,tutorial_dockingzoomin,2448,Zoom in so that you can see the docking guides more clearly. They are RED diamonds extending from the docking ports.,wile lukin pona pi nasin poka lupa la o suli e sitelen lukin sina. nasin li leko LOJE (pi tawa sike) lon poka lupa.
-OBSOLETE,tutorial_dockingopenmaneuver,2448,Open the MANEUVERING THRUSTER controls.,o open e ilo lawa ni: ILO LILI PI WAWA TAWA.
-OBSOLETE,tutorial_dockingmaneuver,2448,"Use your THRUSTERS to maneuver your ship so that RED diamonds of your docking ports align with the docking port of the *X.\n\nWhen aligned correctly, they will both turn YELLOW.\n\nKeep the ships aligned until the docking bridge is fully extended.",o kepeken ILO LILI PI WAWA TAWA. o tawa e ilo tawa sina kepeken nasin ni: leko LOJE pi lupa sina li lon sama lupa *X.\n\nlon pona la leko tu li kama JELO.\n\nlupa tu li poka pona la nasin lupa li wan e tu. pini ni ala la o awen pona e lon pi ilo tawa sina.
-OBSOLETE,tutorial_logisticscrewselectship,2448,Select the UMC Astral Temptress. \n\n As you can see it has no crew.,o wile e ilo UMC Astral Temptress. \n\n sina ken lukin e ni: jan li weka.
-OBSOLETE,tutorial_logisticscrewselectfrom,2448,Select the SOURCE ship that the crew will come FROM.,o wile e tomo KAMA pi jan tawa.
-OBSOLETE,tutorial_logisticscrewclicktarget,2448,Click in the CREW cell of the DESTINATION ship to request 5 crew to transfer.,o luka e POKI JAN lon tomo TAWA. ni li pana e lawa ni: o tawa e jan 5.
-OBSOLETE,tutorial_logisticscrewclicktarget_shiftclick,2448,NOTE: You can SHIFT CLICK to request transfer in multiples of 5.,O SONA: wile tawa pi jan 5 lon tenpo la o LUKA SHIFT.
-OBSOLETE,tutorial_combatselectcannon,2448,"Your guns can also target specific points on enemy ships.\n\nFirst, select which guns you would like to use.\n\nYou can SHIFT CLICK to select multiple guns.",ilo utala li ken kin pakala e ma wile lon ilo tawa ike.\n\nnanpa wan la o wile e ilo utala kepeken.\n\nwile pi ilo mute la sina ken LUKA SHIFT.
-OBSOLETE,tutorial_combatbattlestations,2448,The effect of the EMP is wearing off!\n\nDeploy your weapons and make your crew ready to fight by clicking on BATTLE STATIONS.,pali EMP li kama pini!\n\no open e ilo utala. o ken e pali utala jan kepeken ni: o luka e POKI JAN UTALA.
-OBSOLETE,tutorial_combatkeepmoving,2448,"Make sure to keep moving during combat, this increases your EVASION and makes you a harder target to hit.",pona la o tawa mute lon tenpo utala. tawa li suli e TAWA WEKA TAN PAKALA. ni la jan ike li ken ala pakala pona e sina.
-OBSOLETE,tutorial_mininginstalllaser,2448,You will need a Mining Laser. These use a lot of power so consider installing extra reactors or batteries.\n\nInstall a MINING LASER and connect it to the power grid.,sina wile e ilo alasa kiwen suno.  ni li kepeken wawa mute la sina kin wile pana e ilo wawa e poki wawa namako.\n\no pana e ILO ALASA KIWEN SUNO.  o wan e ona e nasin wawa.
-OBSOLETE,tutorial_miningundock,2448,Make sure to UNDOCK from any other ship (from the TACTICAL screen).,pona la o PINI E POKA LUPA tan tomo tawa ante ale (kepeken lipu pi NASIN UTALA).
-OBSOLETE,tutorial_miningflytosystem,2448,"Look at the rocks on the map, these indicate ASTEROID BELTS. \n\nFly to a system in an asteroid belt, it will probably contain Tilium Ore.",o lukin e kiwen lon sitelen ma. ni li KULUPU KIWEN MUN. \n\no tawa kulupu sike lon kulupu kiwen. ken suli la ona li jo e kiwen Silija
-OBSOLETE,tutorial_miningselectlaser,2448,"You can also target specific mineral patches.\n\nFirst, select which laser you would like to use.\n\nYou can SHIFT CLICK to select multiple lasers.",kin la sina ken wile e nasin alasa.\n\nopen la o wile e ilo alasa kepeken.\n\nwile pi ilo mute la o LUKA SHIFT.
-OBSOLETE,tutorial_mininginstalldronebay,2448,Drones will collect mined resources.\n\nInstall a DRONE BAY so your drones can collect the Tilium Ore.,ilo tawa ilo li kama e kiwen.\n\no pana e TOMO PI ILO TAWA ILO la ilo li ken kama e kiwen Silija.
-OBSOLETE,tutorial_miningfleetorders,2448,You also need to make sure that GATHER MATERIALS is enabled in FLEET ORDERS.,ni kin li wile: NASIN LAWA KULUPU li wile ken ALASA.
-OBSOLETE,tutorial_mininginstallsmelter,2448,You will need to smelt the raw Tilium Ore to crystals.\n\nInstall a SMELTER.,sina wile pona e kiwen Silija tawa mani suno Silija.\n\no pana e ILO KIWEN SELI.
-OBSOLETE,tutorial_miningsetsmelter,2448,Right click on the SMELTER and select TILIUM ORE to smelt it into Tilium Crystals.,o luka ante e ILO KIWEN SELI. o wile e KIWEN SILIJA. ni li pona e ona tawa mani suno Silija.
-OBSOLETE,tutorial_buyshipinspect,2448,"Click on the JMC MINING STATION, an old unused industrial station for sale.",o luka e tomo JMC MINING STATION. tomo ni pi alasa kiwen li wile esun li kama tan tenpo pini.
-OBSOLETE,tutorial_buyshipbuy,2448,Click on the BUY button to purchase the JMC MINING STATION.,o luka e nena ESUN. ni li esun e tomo JMC MINING STATION.
-OBSOLETE,tutorial_buyshipsuccess,2448,"Well done, you have purchased the JMC MINING STATION.",sina pona. sina esun e tomo JMC MINING STATION
 OBSOLETE,trade_autotradecancelled,2675,CANCELLED,WEKA
 OBSOLETE,origin_official,2448,Official,tan jan pali
 OBSOLETE,origin_community,2448,Community,tan kulupu pi jan musi
@@ -2941,9 +2543,11 @@ OBSOLETE,origin_user,2448,Player-made,jan musi li mama
 OBSOLETE,origin_steam,2448,Subscribed on Steam Workshop,sina kute lon esun Steam Workshop
 OBSOLETE,origin_steamuser,2448,Uploaded to Steam Workshop,sina pana tawa esun Steam Workshop
 OBSOLETE,special_stargatepart3,2448,"Andromeda Project Phases 4, 5, 6",kipisi nanpa tu tu en luka en luka wan pi pali sule Antometa
+OBSOLETE,tutorial_powerreactoractive,2448,The REACTOR is activated! We are now generating power for our station.,ILO TAWA li pali! tenpo ni la ilo li pana e wawa tawa tomo.
 OBSOLETE,dsi_part2_objective_installengines,2448,OPTIONAL: Install engines in the A.J.E Industry,KEN: o pana e ilo pi wawa tawa lon tomo A.J.E Industry
 OBSOLETE,hud_collector_tooltip_totalgathered,2624,TOTAL GATHERED:,MUTE TAN ALASA:
 OBSOLETE,mission_type_sectorjumpgate,2624,Jumpgate (Secotr),lupa pi tawa suli (kipsi ma mun)
+OBSOLETE,stargate_newsystems_harken_2,2624,"Unfortunately it seems pirates have gotten to them first, and have set up their own shipyards around the neubidium deposits in the system.",ike la jan ike lanpan li kama lon tenpo pini. ona li jo e ma pali pi ilo tawa lon poka pi kiwen Nupisijan.
 OBSOLETE,mission_sectorprotect_offer1,2475,Thank you Captain! We would never have survived without your assistance.,jan lawa o sina pona a! pona sina ala la mi awen ala.
 OBSOLETE,mission_sectorprotect_offer2,2475,We'd be honoured to join forces with your fleet.,mi wile pona kulupu kepeken sina.
 OBSOLETE,mission_sectorprotect_description1,2448,Investigate a distress call in system *X.,o alasa e toki pi wile pona lon kulupu sike *X.
@@ -2963,6 +2567,9 @@ OBSOLETE,object_engine_description,2448,The ships main source of forward thrust.
 OBSOLETE,mission_flightready_engines_help,2448,Engines for propulsion.  Test fire your engines (From the TACTICAL view) to certify them.,ilo pi wawa tawa li tawa e ilo tawa.  o kepeken pi tenpo nanpa wan e ilo pi wawa tawa (lon sitelen pi NASIN UTALA).  ni li pana e sona ni: ona li ken.
 OBSOLETE,mission_tiddlets_accepted,2448,Excellent. We are sending a shuttle to you now.,pona mute. mi pana e poki tawa tawa sina lon tenpo ni.
 OBSOLETE,stargate_testfire_help,2448,Provide enough power to the stargate with energy transmitters to complete the testfire! Each transmitter beams up to 100MW to the stargate,"wile pini pi kepeken lupa nanpa wan la, mute pona la o pana e ilo pi pana wawa tawa lupa mun. ilo wan li pana e wawa 100MW tawa lupa."
+OBSOLETE,tutorial_stargatescreen1,2448,Lets turn our attention to the STARGATE PROJECT.\n\nWe can view our progress from the Stargate screen.\n\nOpen the STARGATE screen.,o lukin e PALI SULI PI LUPA MUN.\n\nsina ken lukin e mute pini pi pali ni kepeken lipu pi lupa mun.\n\no open e lipu pi LUPA MUN.
+OBSOLETE,tutorial_smelterssalvage,2448,Click on the nearby RUINED EQUIPMENT to instruct your crew to dismantle it into SCRAP.,o luka e ILO PAKALA. ni li toki e ni tawa jan sina: o pakala e ni tawa KIWEN SUNO PAKALA.
+OBSOLETE,tutorial_fleettrade,2448,The ship is fitted with engines and an FTL drive for Interstellar Travel! But it does need a crew.\n\nOpen the TRADE SCREEN.,ilo tawa ni li jo e ilo pi wawa tawa e ilo pi tawa suli! taso ona li wile e jan.\n\no open e lipu ESUN.
 OBSOLETE,tutorial_wrapup3,2448,"Many different types of contract are now available to you.\n\nHowever, you must stay alert Captain. There are reports of even more lucrative opportunities that you'll have to find by yourself.",pali esun pi nasin mute li ken\n\ntaso o lukin pona lon tenpo ale. toki la alasa li ken pana e pali esun pi mani mute.
 OBSOLETE,tutorial_combatstart,2448,We are now going to learn some basic combat techniques.,tenpo ni la o kama sona e nasin utala open.
 OBSOLETE,tutorial_miningsuccess,2448,"Well done, you have produced Refined Tilium.",sina pona. sina pali e KIWEN MANI SILIJA
