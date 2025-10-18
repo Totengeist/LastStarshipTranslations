@@ -14,7 +14,7 @@ dialog_name                             Name
 dialog_type                             Type
 dialog_x                                X
 dialog_y                                Y
-dialog_z								Z
+dialog_z                                Z
 dialog_w                                W
 dialog_h                                H
 dialog_exit                             Exit
@@ -97,8 +97,8 @@ dialogeditor_window                     Window
 dialogeditor_grid                       Grid
 dialogeditor_caption                    Caption
 dialogeditor_component                  Component
-dialogeditor_select						Select
-dialogeditor_create						Create
+dialogeditor_select                     Select
+dialogeditor_create                     Create
 dialogeditor_background                 BG img
 dialogeditor_panel                      Panel
 
@@ -116,7 +116,7 @@ dialogcomponent_selectionlistitem       SelectionListItem
 dialogcomponent_scrollbar               Scrollbar
 dialogcomponent_progressbar             ProgressBar
 dialogcomponent_canvas                  Canvas
-dialogcomponent_iconbox					IconBox
+dialogcomponent_iconbox                 IconBox
 
 dialogposition_absolute                 Absolute
 dialogposition_relative                 Relative
@@ -141,15 +141,15 @@ profiler_reset                          Reset
 
 soundchannelviewer_title                Sound Channels
 soundeditor_title                       Sound Editor
-soundinstanceeditor_title				Sound Instance Editor
+soundinstanceeditor_title               Sound Instance Editor
 
-soundeditor_positiontitle		        Position Type
-soundeditor_instancetitle		        Instance Type
-soundeditor_looptitle			        Loop Type
-soundeditor_sourcetypetitle		        Sound Type
-soundeditor_soundnametitle		        Sound Name
+soundeditor_positiontitle               Position Type
+soundeditor_instancetitle               Instance Type
+soundeditor_looptitle                   Loop Type
+soundeditor_sourcetypetitle             Sound Type
+soundeditor_soundnametitle              Sound Name
 
-soundeditor_volumetitle			        Volume
+soundeditor_volumetitle                 Volume
 soundeditor_frequencytitle              Frequency
 soundeditor_mindistancetitle            Min Distance
 soundeditor_attacktitle                 Attack
@@ -180,16 +180,16 @@ samplebank                              (Sample Bank)
 # Main Menu
 # =============================================================================
 
-tagline									THE LAST STARSHIP
-mainmenu_title							Main Menu 
-mainmenu_newgameA 						New Game - Praxis
+tagline                                 THE LAST STARSHIP
+mainmenu_title                          Main Menu 
+mainmenu_newgameA                       New Game - Praxis
 mainmenu_newgameB                       New Game - Sleek
 mainmenu_newgameC                       New Game - Inner Shapes
 mainmenu_newgameD                       New Game - Shipyard
 mainmenu_newgameE                       New Game - Large Logistics
 mainmenu_savegame                       Save Game
 mainmenu_loadgame                       Load Game
-mainmenu_abandongame					Abandon Game
+mainmenu_abandongame                    Abandon Game
 mainmenu_steamworkshop                  Steam Workshop
 mainmenu_legal                          Privacy / Legal
 
@@ -217,16 +217,16 @@ mainmenu_gamemode_unlocked              UNLOCKED
 mainmenu_gamemode_unlocked_freeroam     Game Mode: Free Roam
 mainmenu_gamemode_unlocked_survival     Game Mode: Survival
 
-mainmenu_createship						DEVELOPER Create Ship
-mainmenu_loadship						DEVELOPER Load Ship
+mainmenu_createship                     DEVELOPER Create Ship
+mainmenu_loadship                       DEVELOPER Load Ship
 mainmenu_loadgamedev                    DEVELOPER Load Test Game
 
 mainmenu_exportship                     Export Ship
 mainmenu_importship                     Import Ship
 mainmenu_importfriendly                 Import Friendly Ship
-mainmenu_importhostile					Import Hostile Ship
-mainmenu_tools							Developer Tools
-mainmenu_quit 							Quit
+mainmenu_importhostile                  Import Hostile Ship
+mainmenu_tools                          Developer Tools
+mainmenu_quit                           Quit
 
 settings_analytics                      Analytics
 settings_analytics_tooltip              We need to collect usage data to help us to better understand how people are playing and to help us to improve the game. \n\nWe do not collect any personally identifiable information.\n\nTo find out more visit Legal Information (bottom of the screen)
@@ -497,18 +497,18 @@ origin_shipsteamuser                    SHIPS UPLOADED TO STEAM WORKSHOP
 # HUD
 # =============================================================================
 
-debugbuildpanel_hull					Hull
-debugbuildpanel_scaffold				Scaffold
-debugbuildpanel_interior				Interior
-debugbuildpanel_armour					Armour
-debugbuildpanel_cable					Cable
-debugbuildpanel_pipe					Pipe
-debugbuildpanel_equipment				Equipment
-debugbuildpanel_floor					Floor
-debugbuildpanel_habitation      		Habitation
-debugbuildpanel_wall					Wall
-debugbuildpanel_entity					Entity
-debugbuildpanel_damage					Damage
+debugbuildpanel_hull                    Hull
+debugbuildpanel_scaffold                Scaffold
+debugbuildpanel_interior                Interior
+debugbuildpanel_armour                  Armour
+debugbuildpanel_cable                   Cable
+debugbuildpanel_pipe                    Pipe
+debugbuildpanel_equipment               Equipment
+debugbuildpanel_floor                   Floor
+debugbuildpanel_habitation              Habitation
+debugbuildpanel_wall                    Wall
+debugbuildpanel_entity                  Entity
+debugbuildpanel_damage                  Damage
 debugbuildpanel_frame                   Frame
 
 save_warning_header                     WARNING: Loading future save version
@@ -529,33 +529,33 @@ save_cloudsavefailed_body               The game failed to save to the cloud, th
 save_autosavewarning_header             WARNING: Autosave loaded
 save_autosavewarning_body               This save is likely to be overwritten by the game as you continue playing, so you should create a manual save if you haven't already done so using the "SAVE GAME" option.\n\nThis warning can be disabled in the settings menu.
 
-hudmode_tactical						TACTICAL
-hudmode_external						EXTERNAL
+hudmode_tactical                        TACTICAL
+hudmode_external                        EXTERNAL
 hudmode_multisystemsimulation           MULTISYSTEM SIMULATION
 
-hud_trade								Trade
-hud_preparejump							Prepare Jump
+hud_trade                               Trade
+hud_preparejump                         Prepare Jump
 hud_preparingjump                       Preparing Jump
 hud_readytojump                         Ready to Jump
-hud_abortjump							Abort Jump
-hud_aligning							Aligning...
+hud_abortjump                           Abort Jump
+hud_aligning                            Aligning...
 hud_outofalignment                      Misaligned...
-hud_idle								Idle
-hud_ready								READY
-hud_jump								JUMP
-hud_jumpnextsector						JUMP TO NEXT SECTOR
+hud_idle                                Idle
+hud_ready                               READY
+hud_jump                                JUMP
+hud_jumpnextsector                      JUMP TO NEXT SECTOR
 hud_jumpthroughstargate                 JUMP THROUGH STARGATE
 hud_jumpgalaxies                        ESCAPE THE GALAXY
-hud_ftlloading							Loading...
-hud_ftlcharging  						Charging...
-hud_ftlcooldown							Cooldown...
-hud_ftl									FTL Drive
+hud_ftlloading                          Loading...
+hud_ftlcharging                         Charging...
+hud_ftlcooldown                         Cooldown...
+hud_ftl                                 FTL Drive
 hud_ftlincluded                         Jump
 hud_ftlexcluded                         Stay
 hud_ftlshipnotviablewarning             Ship needs either hull or scaffolding to be brought into hyperspace
 hud_noships                             NO SHIPS SELECTED
-hud_noftl								NO FTL FOUND
-hud_ftlnodestination					NO DESTINATION
+hud_noftl                               NO FTL FOUND
+hud_ftlnodestination                    NO DESTINATION
 hud_jumpgatedistance                    ALL SHIPS MUST ENTER JUMPGATE
 hud_jumpgatedamage                      JUMPGATE OFFLINE DUE TO DAMAGE
 hud_jumpgaterequires                    JUMPGATE UNAVAILABLE
@@ -577,14 +577,14 @@ hud_enabled                             Enabled
 hud_disabled                            Disabled
 
 hud_window_construction                 CONSTRUCTION
-hud_window_designation					DESIGNATION
+hud_window_designation                  DESIGNATION
 hud_window_shipyard                     SHIPYARD
 hud_window_trade                        TRADE
-hud_window_missions						CONTRACTS
+hud_window_missions                     CONTRACTS
 hud_window_power                        POWERGRID
 hud_window_logistics                    LOGISTICS
 hud_window_ftl                          FTL
-hud_window_sectormap					SECTOR MAP ({ToggleMap})
+hud_window_sectormap                    SECTOR MAP ({ToggleMap})
 hud_window_score                        SCORE
 hud_window_editor                       EDITOR
 hud_window_stargate                     STARGATE
@@ -601,15 +601,15 @@ hud_techtree_tooltip                    Researching:
 hud_scoresystem_population              Population
 hud_scoresystem_sectorjump              Sector Jump
 hud_toandromeda                         TO ANDROMEDA GALAXY
-hud_overlays							OVERLAYS
+hud_overlays                            OVERLAYS
 hud_overlay_show                        Show 
 hud_overlay_cables                      Cables
 hud_overlay_pipes                       Pipes
 hud_overlay_walls                       Walls
 hud_overlay_atmosphere                  Atmosphere
 hud_overlay_exterior                    Exterior
-hud_overlay_habitation					Habitation
-hud_overlay_jobs						Jobs
+hud_overlay_habitation                  Habitation
+hud_overlay_jobs                        Jobs
 hud_overlay_structure                   Structure
 hud_overlay_schematic                   Schematic
 hud_overlay_tactical                    Tactical
@@ -619,23 +619,23 @@ hud_overlay_creativemode                - Creative Mode -
 hud_battlestations                      BATTLE STATIONS
 hud_tactical                            TACTICAL ({ToggleTactical})
 
-hud_orders								ORDERS
+hud_orders                              ORDERS
 hud_install                             Install 
-hud_uninstall							Dismantle
-hud_status_allocated					Allocated
-hud_status_inprogress					In Progress
-hud_storage								Storage
-hud_zones								Zones
-hud_storage_cargo						ANY CARGO
-hud_storage_equipment				    ANY EQUIPMENT
+hud_uninstall                           Dismantle
+hud_status_allocated                    Allocated
+hud_status_inprogress                   In Progress
+hud_storage                             Storage
+hud_zones                               Zones
+hud_storage_cargo                       ANY CARGO
+hud_storage_equipment                   ANY EQUIPMENT
 hud_storage_component                   Any Components
 hud_editor                              EDITOR
 
 hud_shipyard                            Shipyard
-hud_shipyard_buildhull					Build Hull
-hud_shipyard_buildinterior				Build Interior
-hud_shipyard_buildarmour				Install Armour 
-hud_shipyard_buildscaffold				Build Scaffold
+hud_shipyard_buildhull                  Build Hull
+hud_shipyard_buildinterior              Build Interior
+hud_shipyard_buildarmour                Install Armour 
+hud_shipyard_buildscaffold              Build Scaffold
 hud_shipyard_buildhabitation            Add Habitation Deck
 hud_shipyard_buildrepairone             Repair 100 Damage
 hud_shipyard_buildrepairall             Repair ALL Damage
@@ -754,9 +754,9 @@ equipment_factory_stopped               STOPPED
 equipment_factory_refine                Refine *X
 equipment_factory_make                  Make *X
 
-equipment_robotarm_nopickup		        SELECT TYPE
-equipment_robotarm_pickupnone		    NONE
-equipment_robotarm_forcedrop			FORCE DROP
+equipment_robotarm_nopickup             SELECT TYPE
+equipment_robotarm_pickupnone           NONE
+equipment_robotarm_forcedrop            FORCE DROP
 
 equipment_weaponsconsole_noselection       SELECT WEAPON
 equipment_weaponsconsole_deselect          NONE
@@ -888,21 +888,21 @@ shipeditor_palettelibrary_upload        UPLOAD
 # Interstellar Travel 
 # =============================================================================
 
-interstellar_travel						INTERSTELLAR TRAVEL
+interstellar_travel                     INTERSTELLAR TRAVEL
 intergalactic_travel                    INTERGALACTIC TRAVEL
 
-galaxymap_title							SECTOR MAP
-galaxymap_entrysystem					Arrival
-galaxymap_exitsystem					To Next Sector
-galaxymap_fleet							YOU ARE HERE
-galaxymap_unreachable					UNREACHABLE
+galaxymap_title                         SECTOR MAP
+galaxymap_entrysystem                   Arrival
+galaxymap_exitsystem                    To Next Sector
+galaxymap_fleet                         YOU ARE HERE
+galaxymap_unreachable                   UNREACHABLE
 galaxymap_civilians                     CIVILIANS
-galaxymap_noescape						NO ESCAPE
-galaxymap_colony						COLONY
-galaxymap_starbase						STARBASE
-galaxymap_shipyard						SHIPYARD
-galaxymap_distresscall					DISTRESS CALL
-galaxymap_derelict						DERELICT
+galaxymap_noescape                      NO ESCAPE
+galaxymap_colony                        COLONY
+galaxymap_starbase                      STARBASE
+galaxymap_shipyard                      SHIPYARD
+galaxymap_distresscall                  DISTRESS CALL
+galaxymap_derelict                      DERELICT
 galaxymap_hostile                       HOSTILES
 galaxymap_fortress                      FORTRESS
 galaxymap_objectives                    SECTOR CONTRACTS
@@ -947,7 +947,7 @@ galaxymap_playtest                      PLAYTEST
 # Power Grid
 # =============================================================================
 
-powergrid_title							POWER GRID
+powergrid_title                         POWER GRID
 powergrid_power                         POWER
 powergrid_category_reactor              REACTOR
 powergrid_category_battery              BATTERY
@@ -956,8 +956,8 @@ powergrid_category_FTL                  FTL
 powergrid_category_weapons              WEAPONS
 powergrid_category_defenses             DEFENSES
 powergrid_category_lifesupport          LIFE SUPPORT
-powergrid_category_logistics			LOGISTICS
-powergrid_category_science   			SCIENCE
+powergrid_category_logistics            LOGISTICS
+powergrid_category_science              SCIENCE
 powergrid_category_stargate             STARGATE
 powergrid_category_other                OTHER
 
@@ -1246,12 +1246,12 @@ orders_logistics                        LOGISTICS
 orders_crew                             CREW
 orders_doors                            DOORS
 
-order_none								None
-order_salvage						    Gather Salvage
-order_gather							Gather Materials
-order_repairhull						Repair Hull
-order_shiftwork							Shift Work
-order_suitson							Suits On
+order_none                              None
+order_salvage                           Gather Salvage
+order_gather                            Gather Materials
+order_repairhull                        Repair Hull
+order_shiftwork                         Shift Work
+order_suitson                           Suits On
 order_exteriorwork                      Exterior Work
 order_weaponsactive                     Weapons Free
 order_fleetlogistics                    Fleet Logistics
@@ -1269,26 +1269,26 @@ action_closevents                       Close All Vents
 # Missions / Contracts
 # =============================================================================
 
-missions_title							CONTRACTS
-mission_accept							Accept
-mission_accepted						Accepted
+missions_title                          CONTRACTS
+mission_accept                          Accept
+mission_accepted                        Accepted
 mission_acceptonlayer                   Accept and assign to *X
 mission_assignedtolayer                 Accepted and assigned to L*X
 mission_cannotassigntolayer             Cannot assign to *X
 
 mission_episode_1                       EPISODE 1
-mission_deliver							Deliver
-mission_turnin							Turn in contract
-mission_completed						COMPLETED
+mission_deliver                         Deliver
+mission_turnin                          Turn in contract
+mission_completed                       COMPLETED
 mission_failed                          FAILED
 mission_bypassed                        BYPASSED
 mission_missioncompleted                CONTRACT COMPLETED
 mission_paymenttitle                    Payment
 mission_paymentcash                     PAYMENT *X
-mission_payment							Payment will be $*X.
+mission_payment                         Payment will be $*X.
 mission_paymentinflation                (The client is offering *Xx more money than usual)
 mission_paymentinflationpercent         (The client is offering *X% more money than usual)
-mission_contractcompleted				Contract Completed
+mission_contractcompleted               Contract Completed
 mission_cannotaccept                    You cannot accept this mission
 mission_special                         Special Mission
 mission_new                             NEW
@@ -1320,38 +1320,38 @@ mission_requirement_passed              [PASSED]
 mission_requirement_failed              [FAILED]
 mission_show_completed                  SHOW COMPLETED
 
-mission_type_delivery					Delivery
-mission_delivery_title					Courier mission: Deliver cargo to nearby system
-mission_delivery_titlefurther			Deliver cargo to another sector
-mission_delivery_description			I've got *X boxes of supplies that need delivering.
-mission_delivery_descriptionfurther		The destination is *Y Sector Jumps away, in Sector *X.
+mission_type_delivery                   Delivery
+mission_delivery_title                  Courier mission: Deliver cargo to nearby system
+mission_delivery_titlefurther           Deliver cargo to another sector
+mission_delivery_description            I've got *X boxes of supplies that need delivering.
+mission_delivery_descriptionfurther     The destination is *Y Sector Jumps away, in Sector *X.
 mission_delivery_destination            The destination is in this Sector, at Star System S*X.
 mission_delivery_timed                  These goods are required immediately. You'll have just *X minutes. (+50% pay)
 mission_delivery_timeremaining          You have just *X seconds remaining to make the delivery!
 mission_delivery_outoftime              It is too late - you will no longer be paid for the remaining cargo.
-mission_delivery_shuttle				A shuttle is on route to you now with the supplies.
-mission_delivery_delivery				Supplied *X out of *Y items.
-mission_delivery_alldelivered			All cargo has been supplied. Good luck.
-mission_delivery_turnin					A shuttle is on its way to collect the cargo.
-mission_delivery_received				Received *X out of *Y items. Total payment due $*Z.
+mission_delivery_shuttle                A shuttle is on route to you now with the supplies.
+mission_delivery_delivery               Supplied *X out of *Y items.
+mission_delivery_alldelivered           All cargo has been supplied. Good luck.
+mission_delivery_turnin                 A shuttle is on its way to collect the cargo.
+mission_delivery_received               Received *X out of *Y items. Total payment due $*Z.
 mission_delivery_toolate                Received *X out of *Y items, but the time limit has now expired.
 mission_delivery_lost                   The remaining *X items of cargo are unaccounted for.
 mission_delivery_wrongdestination       Some of the cargo has been delivered to the wrong location. You will not be paid.
 mission_delivery_success                Delivered *X out of *Y items
 mission_delivery_location               Travel to the delivery system
 
-mission_type_passengers					Transport passengers
-mission_passengers_title				Urgent passenger transport request
-mission_passengers_titlefurther			Passengers require transport across sectors
-mission_passengers_description			There is a group of *X civilians who are looking for safe transit.
-mission_passengers_descriptionfurther	Their destination is *Y Sector Jumps away, in Sector *X.
-mission_passengers_destination			Their destination is in this Sector. Drop them off at Star System S*X.
+mission_type_passengers                 Transport passengers
+mission_passengers_title                Urgent passenger transport request
+mission_passengers_titlefurther         Passengers require transport across sectors
+mission_passengers_description          There is a group of *X civilians who are looking for safe transit.
+mission_passengers_descriptionfurther   Their destination is *Y Sector Jumps away, in Sector *X.
+mission_passengers_destination          Their destination is in this Sector. Drop them off at Star System S*X.
 mission_passengers_requirements         Your ship will need enough free cabins in your habitation deck.
-mission_passengers_shuttle				They are on their way to you now and will dock shortly.
-mission_passengers_delivery				*X out of *Y passengers are on board.
-mission_passengers_alldelivered			That's it, all passengers are on board your ship. Travel safe commander.
-mission_passengers_turnin				Welcome! We've dispatched a shuttle to collect the passengers.
-mission_passengers_received				*X passengers out of *Y have made it safely to their destination. Total payment due $*Z.
+mission_passengers_shuttle              They are on their way to you now and will dock shortly.
+mission_passengers_delivery             *X out of *Y passengers are on board.
+mission_passengers_alldelivered         That's it, all passengers are on board your ship. Travel safe commander.
+mission_passengers_turnin               Welcome! We've dispatched a shuttle to collect the passengers.
+mission_passengers_received             *X passengers out of *Y have made it safely to their destination. Total payment due $*Z.
 mission_passengers_lost                 *X passengers did not arrive at the destination safely.
 mission_passengers_wrongdestination     Passengers have been dropped off at completely the wrong destination! You will not be paid for them.
 mission_passengers_success              Transported *X out of *Y passengers
@@ -1363,7 +1363,7 @@ mission_refugees_title                  Take permanent refugees into your care
 mission_refugees_description            We have *X civilians living here who have nowhere to go, and no way to escape the void before it arrives.
 mission_refugees_description2           Find a place for them in your fleet, look after them, and we will be forever grateful.
 mission_refugees_requirements           Your ship will need enough free cabins in your habitation deck.
-mission_refugees_alldelivered			All of the refugees are on board. We wish you the best of luck, commander.
+mission_refugees_alldelivered           All of the refugees are on board. We wish you the best of luck, commander.
 mission_refugees_received               *X out of *Y passengers are on board. Total payment $*Z.
 
 mission_type_rescue                     Rescue
@@ -1603,66 +1603,66 @@ nomadobjective_success                  *X fleet residents
 # Object Types
 # =============================================================================
 
-object_airduct							Airduct
+object_airduct                          Airduct
 object_airduct_description              Pumps oxygen into the surrounding cabin until a breathable atmosphere is achieved. Must be supplied with Oxygen through a pipe.
-object_battery							Battery
+object_battery                          Battery
 object_battery_description              Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage.
 object_box                              Box
-object_bullets							Bullets
+object_bullets                          Bullets
 object_bullets_description              A box of ammo for a Gatling Gun (PDC).
-object_railgunshell						Railgun Slugs
+object_railgunshell                     Railgun Slugs
 object_railgunshell_description         A box of ammo for a Railgun.
-object_cargo							Cargo
-object_civilian							Civilian
+object_cargo                            Cargo
+object_civilian                          Civilian
 object_refugee                          Refugee
-object_crewmember						Crew
+object_crewmember                       Crew
 object_scientist                        Scientist
 object_weaponsspecialist                Weapons Officer
 object_data                             Data
 object_deuterium                        Deuterium
 object_deuterium_description            Fuel for a Fusion Reactor.
-object_dockingport						Docking Port
+object_dockingport                      Docking Port
 object_dockingport_description          Provides an access point to the ship so that shuttle craft can dock and undock.
-object_door								Door
+object_door                             Door
 object_door_description                 A heavy pressure door that can be used to seal off areas in the event of a hull breach or fire.
-object_tank								Huge Tank
+object_tank                             Huge Tank
 object_tank_description                 A massive tank that can store a great deal of liquid or gas.
-object_smalltank						Medium Tank
+object_smalltank                        Medium Tank
 object_smalltank_description            A storage tank that can store liquids and gases.
 object_tinytank                         Small Tank
 object_tinytank_description             A storage tank that can store liquids and gases. 
-object_dronebay							Drone Bay
+object_dronebay                         Drone Bay
 object_dronebay_description             This equipment is required to launch Logistics Drones from your ship. Drones can gather resources and salvage from space, then bring it back to the ship through the Drone Bay. One Drone Bay can launch multiple Drones.
-object_energycell						Energy Cell
+object_energycell                       Energy Cell
 object_energytransmitter                Energy Transmitter
 object_energytransmitter_description    A large piece of equipment, capable of transmitting up to 200MW to the Stargate.
-object_engine							Engine
+object_engine                           Engine
 object_engine_description               The ship's main source of forward thrust.  Must be supplied with Fuel (via a pipe) and Power (via a cable).
 object_thruster                         Thruster
 object_thruster_description             Maneuvering thruster. Must be attached to the wall of the ship. Provides thrust to permit lateral and rotational movement.
-object_entity							Entity
-object_equipment						Equipment
-object_fighter							Fighter
+object_entity                           Entity
+object_equipment                        Equipment
+object_fighter                          Fighter
 object_food                             Food
-object_ftlcharge						FTL Charge
-object_ftldrive							FTL Drive
-object_fuel								Fuel
+object_ftlcharge                        FTL Charge
+object_ftldrive                         FTL Drive
+object_fuel                             Fuel
 object_fusionreactor                    Fusion Reactor
 object_fusionreactor_description        Uses nuclear fusion of Deuterium to generate large amounts of energy. However the fusion reactor must be 'powered up' with a huge amount of energy before it will generate any power itself.\n\nGenerates a maximum power output of 500MW.
 object_weaponsconsole                   Weapons Control Centre
 object_weaponsconsole_description       A terminal where a Weapons Officer can control multiple weapons at the same time.
-object_gatlinggun						Gatling Gun
+object_gatlinggun                       Gatling Gun
 object_gatlinggun_description           A close range rapid-fire weapon system, primarily designed for defense against incoming fighters and ordnance.  The gatling gun excels at destroying fast-moving targets at close range, but lacks the punch to penetrate armoured targets.
-object_cannon							Cannon
+object_cannon                           Cannon
 object_cannon_description               A medium range weapon system that launches a barrage of explosive shells at the target. Cannon shells are excellent at dealing area-of-effect damage to an enemy ship, and will shred hull armour.
-object_cannonshell						Cannon Shells
-object_mininglaser						Mining Laser
+object_cannonshell                      Cannon Shells
+object_mininglaser                      Mining Laser
 object_mininglaser_description          Can drill into mineral patches (found in asteroid belts) to extract valuable minerals.
 object_deflector                        Deflector
 object_deflector_description            A defensive system that uses a deflector beam to divert incoming rocket shells
-object_generator						Generator
-object_hullbreach						Hull Breach
-object_loader							Loader 
+object_generator                        Generator
+object_hullbreach                       Hull Breach
+object_loader                           Loader 
 object_loader_description               This is a general purpose version of the Fuel Loader and Oxygen Loader, and can take any liquid or gas canister.  Known to heavily confuse new captains.  Use pipes to connect the Loader to other equipment.
 object_fuelloader                       Fuel Loader
 object_fuelloader_description           Takes a canister of Fuel, and pumps it into an underfloor pipe. Use pipes to connect this to your Reactor and your Engines.
@@ -1670,30 +1670,30 @@ object_oxygenloader                     Oxygen Loader
 object_oxygenloader_description         Takes a pressurised canister of oxygen and pumps it into an underfloor pipe.  Use pipes to connect this to your Airduct, to supply oxygen to the cabin.
 object_logisticsdrone                   Logistics Drone
 object_logisticsdrone_description       An incredibly useful semi-intelligent robot, capable of gathering salvage from deep space. Can also perform minor repairs to a damaged hull. Must be launched from a Drone Bay.
-object_meteor							Meteor
-object_asteroid							Asteroid
+object_meteor                           Meteor
+object_asteroid                         Asteroid
 object_comet                            Comet
-object_mineralpatch						Mineral Patch
-object_none								NoType
+object_mineralpatch                     Mineral Patch
+object_none                             NoType
 object_ordnance                         Ordnance
-object_oxygen							Oxygen
+object_oxygen                           Oxygen
 object_powercoil                        Power Coil
 object_powercoilcharged                 Charged Power Coil
 object_powerinjector                    Power Injector
-object_railgun							Railgun
+object_railgun                          Railgun
 object_railgun_description              An extremely accurate and long range weapon system that fires a solid slug of metal. The Railgun is a precise weapon that can penetrate through hull armour and destroy equipment inside the target ship. However, the weapon draws a huge amount of energy to recharge after each shot.
-object_reactor							Reactor
+object_reactor                          Reactor
 object_reactor_description              Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW.
 object_sciencestation                   Science Station
 object_sciencestation_description       A workstation for a scientist to conduct valuable research.
 object_supercomputer                    Super Computer
 object_supercomputer_description        A powerful computer for number crunching and simulating important research.
-object_shuttle							Shuttle
-object_spacesuit						Spacesuit
-object_spacesuitpod						Spacesuit Pod
+object_shuttle                          Shuttle
+object_spacesuit                        Spacesuit
+object_spacesuitpod                     Spacesuit Pod
 object_spacesuitpod_description         A storage place for spacesuits that need their oxygen replenishing.
-object_water							Water
-object_stairs							Ladder
+object_water                            Water
+object_stairs                           Ladder
 object_stairs_description               Crew and passengers can only access the upper habitation deck with a ladder.
 object_hyperspacesensor                 Hyperspace Sensor
 object_hyperspacesensorlr               Hyperspace Sensor LR
@@ -1701,12 +1701,12 @@ object_hyperspacesensorlr_description   A Long Range and extremely sensitive pro
 object_telepathicsensor                 Telepathic Sensor Station
 object_telepathicsensor_description     A sensor capable of detecting telepathic waves.
 object_missioncargo                     Mission Cargo
-object_repairstructure					Repair Structural Damage
+object_repairstructure                  Repair Structural Damage
 object_repairstructure_description      The local shipyard can repair the heavy structural damage on your ship, for a price.
 object_scrapmetal                       Scrap Metal
-object_metalingot						Metal Ingot
-object_preciousore						Precious Ore
-object_preciousmetals					Precious Metals
+object_metalingot                       Metal Ingot
+object_preciousore                      Precious Ore
+object_preciousmetals                   Precious Metals
 object_tiliumore                        Tilium Ore
 object_refinedtilium                    Tilium Crystals
 object_metallicminerals                 Metallic Minerals
@@ -1724,19 +1724,19 @@ object_hyperspaceisotopes               Hyperspace Isotopes
 object_stableisotopes                   Stable Isotopes
 object_seeds                            Seeds
 object_seeds_description                A small bag of mixed vegetable seeds, that you might be able to grow in a Hydroponic Garden.
-object_smelter							Smelter
+object_smelter                          Smelter
 object_smelter_description              This industrial processing machine can melt ores into usable metal ingots. Once installed, click on it to change the ore type.
 object_sewagepipe                       Sewage Pipe
 object_sewagepipe_description           This pipe extracts sewage from the habitation deck above. You can then pipe the sewage into a storage tank and (eventually) reprocess it back into water.  The Pipe MUST BE DIRECTLY UNDER THE HABITATION DECK to function.
-object_sewagemachine					Waste Treatment Machine
+object_sewagemachine                    Waste Treatment Machine
 object_sewagemachine_description        Takes sewage from the habitation deck, separates the solid and liquid waste, and partially recycles them. The device outputs dirty water and compost.
-object_waterpurifier					Water Purifier
+object_waterpurifier                    Water Purifier
 object_waterpurifier_description        Takes dirty water from sewage recycling or from naturally occurring ice - and purifies it into safe drinkable water.
-object_oxygenmaker						Oxygen Maker
+object_oxygenmaker                      Oxygen Maker
 object_oxygenmaker_description          Uses electrical power to extract Oxygen from Water.
-object_scrubber							CO2 Scrubber
+object_scrubber                         CO2 Scrubber
 object_scrubber_description             Extracts Carbon Dioxide from the atmosphere. Its output must be piped into a storage tank or it will become blocked.
-object_airreprocessor					Air Reprocessor
+object_airreprocessor                   Air Reprocessor
 object_airreprocessor_description       Converts CO2 into breathable Oxygen.
 object_icegrinder                       Ice Grinder
 object_icegrinder_description           Grinds giant lumps of ice into small pieces, then warms the ice until it melts into liquid. The resulting water must be filtered before it is safe to drink.
@@ -1757,7 +1757,7 @@ object_fabricator                       Fabricator
 object_assembler                        Assembly Table
 object_robotarm                         Robot Arm
 object_robotarmshort                    Short Robot Arm
-object_robotarmsmart			        Smart Robot Arm
+object_robotarmsmart                    Smart Robot Arm
 object_track                            Track
 object_tracksplitter                    Splitter
 object_ruinedequipment                  Ruined Equipment
@@ -1808,10 +1808,10 @@ object_neubidiumcapacitor               Neubidium Capacitor
 object_emptycrystalcomponent            Empty Crystal
 object_chargedcrystal                   Charged Crystal
 
-object_sewage							Sewage
-object_wastewater						Waste Water
-object_compost							Compost
-object_carbondioxide					CO2
+object_sewage                           Sewage
+object_wastewater                       Waste Water
+object_compost                          Compost
+object_carbondioxide                    CO2
 
 object_short_oxygen                     O2
 object_short_ftlcharge                  FTL
@@ -1820,13 +1820,13 @@ object_short_railgunshell               Slugs
 object_short_cannonshell                Shells
 object_short_deuterium                  Dtrm
 
-entity_unconscious						UNCONSCIOUS
-entity_dead								DEAD
-entity_suffocating						SUFFOCATING
+entity_unconscious                      UNCONSCIOUS
+entity_dead                             DEAD
+entity_suffocating                      SUFFOCATING
 entity_radiation                        IRRADIATED
-entity_stunned							STUNNED
-entity_suitrequired						SUIT REQUIRED
-entity_dehydrated						DEHYDRATED
+entity_stunned                          STUNNED
+entity_suitrequired                     SUIT REQUIRED
+entity_dehydrated                       DEHYDRATED
 entity_fainted                          FAINTED
         
 entity_death_injury                     Fatal Injury
