@@ -887,7 +887,7 @@ CURRENT,sounddspeditor_title,2448,DSP Editor,Редактор DSP
 CURRENT,samplebankeditor_title,2448,Sample Bank Editor,Редактор Банка Образцов
 CURRENT,samplebankeditor_addsample,2448,Add Sound,Добавить Звук
 CURRENT,samplebank,2448,(Sample Bank),(Банк Образцов)
-CURRENT,tagline,2448,THE LAST STARSHIP,ПОСЛЕДНИЙ ЗВЕЗДОЛЕТ
+CURRENT,tagline,2448,THE LAST STARSHIP,THE LAST STARSHIP
 CURRENT,mainmenu_title,2448,Main Menu,Главное Меню
 CURRENT,mainmenu_newgameA,2448,New Game - Praxis,Новая Игра - Praxis
 CURRENT,mainmenu_newgameB,2448,New Game - Sleek,Новая Игра - Sleek
@@ -1042,7 +1042,7 @@ CURRENT,scenario_habitation,2448,Cabins: *X,Каюты: *X
 CURRENT,scenario_armour,2448,Armour: *X%,Броня: *X%
 CURRENT,scenario_noarmour,2448,Armour: None,Броня: Нет
 CURRENT,debugbuildpanel_hull,2448,Hull,Корпус
-CURRENT,debugbuildpanel_scaffold,2448,Scaffold,Леса
+CURRENT,debugbuildpanel_scaffold,2448,Scaffold,Каркас
 CURRENT,debugbuildpanel_interior,2448,Interior,Интерьер
 CURRENT,debugbuildpanel_armour,2448,Armour,Броня
 CURRENT,debugbuildpanel_cable,2448,Cable,Кабель
