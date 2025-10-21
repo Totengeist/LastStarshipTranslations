@@ -36,14 +36,14 @@ CURRENT,shipeditor_stencils_stencil,3054,Decals,Autocollants
 CURRENT,shipeditor_stencils_selectedpaint,3054,Selected Paint,Peinture sélectionnée
 CURRENT,galaxymap_survivalexit,3054,Reach the STARGATE!,Atteins la Porte des étoiles !
 CURRENT,galaxymap_sectornumber,3054,SECTOR *X,SECTEUR *X
-CURRENT,galaxymap_sectorgone,3054,LOST TO THE ANOMALY,PERDUE DANS L'ANOMALIE
+CURRENT,galaxymap_sectorgone,3054,LOST TO THE ANOMALY,PERDU DANS L'ANOMALIE
 CURRENT,galaxymap_switchsector,3054,Switch Sector View,Vue du secteur de commutation
 CURRENT,survey_type_derelict,3054,Derelict,Abandonné
 CURRENT,survey_type_asteroid,3054,Asteroid belt,Ceinture d'Astéroïdes
 CURRENT,survey_type_nebula,3054,Nebula,Nébuleuse
 CURRENT,survey_type_storm,3054,Storm,Tempête
 CURRENT,survey_type_colony,3054,Colony,Colonie
-CURRENT,survey_title,3054,UNSURVEYED *X,NON SUGGÉRÉ *X
+CURRENT,survey_title,3054,UNSURVEYED *X,NON ANALYSE *X
 CURRENT,survey_captionnone,3054,No survey in progress,Pas d'enquête en cours
 CURRENT,survey_captionsingle,3054,Surveyed by *X,Enquêté par *X
 CURRENT,survey_captionmultiple,3054,*X layers surveying,*X couches d'arpentage
@@ -59,7 +59,7 @@ CURRENT,powergrid_controls_title,3054,Power Grid Controls,Contrôles du réseau 
 CURRENT,powergrid_controls_increase,3054,[LMB] Increase,[LMB] Augmenter
 CURRENT,powergrid_controls_decrease,3054,[RMB] Decrease,[RMB] Diminution
 CURRENT,powergrid_controls_shift,3054,[Shift] All,[Shift] Tous
-CURRENT,trade_sack,3054,SACK,SAC
+CURRENT,trade_sack,3054,SACK,LICENCIER
 CURRENT,techtree_cannot_afford,3054,CANNOT AFFORD RESEARCH,NE PEUT PAS SE PERMETTRE DE FAIRE DE LA RECHERCHE
 CURRENT,techtree_creditsrequired,3054,CREDITS REQUIRED: *X/*Y,CRÉDITS REQUIS : *X/*Y
 CURRENT,techtree_availablecredits,3054,Available Credits: *X,Crédits disponibles : *X
@@ -117,8 +117,8 @@ CURRENT,tutorial_radiationsuccess,3054,"Well done, you have now learnt how radia
 CURRENT,tutorial_survey_title,3054,SECTOR SURVEYING,ENQUÊTE SECTORIELLE
 CURRENT,tutorial_surveyintro,3054,"We are going to learn how to survey the area around your ship.\n\nThe first step is to scan the local area of the sector surrounding you ship using a <b>SECTOR SCAN</b>.\n\nIn Boldly Go, only the new sector can be surveyed.\n\nHyperspace sensors are required to do this.","Nous allons apprendre à faire le relevé de la zone autour de ton vaisseau.\n\nLa première étape consiste à scanner la zone locale du secteur entourant ton vaisseau à l'aide d'un <b>SECTOR SCAN</b>.\n\nDans Le Grand Saut, seul le nouveau secteur peut être relevé.\n\nDes capteurs hyperespace sont nécessaires pour ce faire."
 CURRENT,tutorial_surveyinstallsensors,3054,"Install Hyperspace Sensors or Hyperspace Sensor LRs onto one of your ships.\n\nThis tutorial will resume afterwards.\n\nIf you are playing the Boldly Go game mode, your ship must also be in the new sector.","Installe des Capteurs d'hyperespace ou des Capteurs d'hyperespace LR sur l'un de tes vaisseaux.\n\nCe tutoriel reprendra ensuite.\n\nSi tu joues au mode de jeu Audace, ton vaisseau doit également se trouver dans le nouveau secteur."
-CURRENT,tutorial_surveystartsectorsurvey,3054,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan.,Les balayages sectoriels recherchent des zones d'intérêt dans le secteur autour du système dans lequel se trouve ton vaisseau.\n\nLe balayage s'arrêtera une fois qu'il sera terminé. Seule une couche dans un système peut effectuer un balayage de secteur.\n\nClique sur le bouton pour commencer un balayage de secteur.
-CURRENT,tutorial_surveyhighlightsectorsurveysystem,3054,Hovering the mouse over the current system will reveal the radius around the system that is being scanned and the scan's progress toward finding new points of interest.\n\nOpen the <b>SECTOR MAP</b> and click <b>NEXT</b> to speed-up the survey.,"En passant la souris sur le système actuel, tu verras le rayon autour du système qui est en train d'être scanné et la progression du scan pour trouver de nouveaux points d'intérêt.\n\nOuvre la <b>carte du SECTEUR</b> et clique sur <b>SUIVANT</b> pour accélérer l'enquête."
+CURRENT,tutorial_surveystartsectorsurvey,3054,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan.,Les balayages sectoriels recherchent des zones d'intérêt dans le secteur autour du système dans lequel se trouve votre vaisseau.\n\nLe balayage s'arrêtera une fois qu'il sera terminé. Seule une couche dans un système peut effectuer un balayage de secteur.\n\nClique sur le bouton pour commencer un balayage de secteur.
+CURRENT,tutorial_surveyhighlightsectorsurveysystem,3054,Hovering the mouse over the current system will reveal the radius around the system that is being scanned and the scan's progress toward finding new points of interest.\n\nOpen the <b>SECTOR MAP</b> and click <b>NEXT</b> to speed-up the survey.,"En passant la souris sur le système actuel, vous verrez le rayon autour du système qui est en train d'être scanné et la progression du scan pour trouver de nouveaux points d'intérêt.\n\nOuvrez la <b>carte du SECTEUR</b> et cliquez sur <b>SUIVANT</b> pour accélérer l'enquête."
 CURRENT,tutorial_surveylocalsurveyintro,3054,The next step is to perform a <b>LOCAL SURVEY</b>.\n\nLocal surveys allow points of interest to be accessed via FTL.\n\nShips need to have super computers installed and must be in the same sector to participate in a local survey.,L'étape suivante consiste à effectuer un <b>SONDAGE LOCAL</b>.\n\nLes sondages locaux permettent d'accéder à des points d'intérêt via le FTL.\n\nLes navires doivent avoir installé des super ordinateurs et doivent se trouver dans le même secteur pour participer à un sondage local.
 CURRENT,tutorial_surveyinstallcomputers,3054,Install a super-computer on one of your ships.\n\nThis tutorial will resume afterwards.,Installe un super ordinateur sur l'un de tes vaisseaux.\n\nCe tutoriel reprendra ensuite.
 CURRENT,tutorial_surveystartlocalsurvey,3054,Areas of interest will expire after some time if they are not surveyed. Multiple layers can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,Les zones d'intérêt expireront au bout d'un certain temps si elles ne font pas l'objet d'une enquête. Plusieurs couches peuvent contribuer à une enquête locale.\n\nClique sur le point d'intérêt pour commencer l'enquête locale.
@@ -309,7 +309,7 @@ CURRENT,tutorial_powerreactoractive,2886,The <b>REACTOR</b> is activated! We are
 CURRENT,tutorial_stargatescreen1,2886,Let's turn our attention to the <b>STARGATE PROJECT</b>.\n\nWe can view our progress from the Stargate screen.\n\nOpen the <b>STARGATE</b> screen.,Intéressons-nous maintenant au <b>PROJET STARGATE</b>.\n\nNous pouvons voir notre progression à partir de l'écran de la porte des étoiles.\n\nOuvre l'écran <b>STARGATE</b>.
 CURRENT,tutorial_smelterssalvage,2886,Click on the nearby <b>RUINED EQUIPMENT</b> to instruct your crew to dismantle it into <b>SCRAP METAL</b>.,Clique sur l'<b>ÉQUIPEMENT RUINÉ</b> qui se trouve à proximité pour demander à ton équipe de le démanteler et de le transformer en <b>FERRAILLE</b>.
 CURRENT,tutorial_fleettrade,2886,The ship is fitted with engines and an <b>FTL</b> drive for Interstellar Travel! But it does need a crew.\n\nOpen the <b>TRADE</b> screen.,Le vaisseau est équipé de moteurs et d'un moteur <b>FTL</b> pour les voyages interstellaires ! Mais il a besoin d'un équipage.\n\nOuvre l'écran <b>COMMERCE</b>.
-CURRENT,tutorial_dsiclosedismantle,2886,We can stop dismantling by clicking the dismantle button again or by closing the construction menu.\n\nClose the menu by clicking the <b>CONSTRUCTION</b> button or by pressing <b>ESC</b>.,Nous pouvons arrêter le démontage en cliquant à nouveau sur le bouton Démanteler ou en fermant le menu de construction.\n\nFermez le menu en cliquant sur le bouton <b>CONSTRUCTION</b> ou en appuyant sur la touche <b>ESC</b>.
+CURRENT,tutorial_dsiclosedismantle,2886,We can stop dismantling by clicking the dismantle button again or by closing the construction menu.\n\nClose the menu by clicking the <b>CONSTRUCTION</b> button or by pressing <b>ESC</b>.,Nous pouvons arrêter le démontage en cliquant à nouveau sur le bouton Démanteler ou en fermant le menu de construction.
 CURRENT,tutorial_cameracontrols,2886,"Use <b>{PanUp1}{PanLeft1}{PanDown1}{PanRight1}</b> or the <b>ARROW KEYS</b> to move the view around.\n\nZoom the view using the <b>MOUSE WHEEL</b>, or <b>{ZoomIn}</b>/<b>{ZoomOut}</b> on the keyboard.\n\nDrag the view by holding the <b>MIDDLE MOUSE BUTTON</b>.",Utilisez <b>{PanUp1}{PanLeft1}{PanDown1}{PanRight1}</b> ou les <b>TOUCHES FLÉCHÉES</b> pour déplacer la vue.\n\nZoomez sur la vue à l'aide de la <b>MOLETTE DE LA SOURIS</b> ou de <b>{ZoomIn}</b>/<b>{ZoomOut}</b> sur le clavier.\n\nFaites glisser la vue en maintenant enfoncé le <b>BOUTON DU MILIEU DE LA SOURIS</b>.
 CURRENT,tutorial_flighttactical,2886,"We should give our engines a small test flight.  To maneuver our ship, switch into <b>TACTICAL</b> mode by clicking the highlighted button, or pressing <b>{ToggleTactical}</b>.","Nous devrions faire un petit vol d’essai à nos moteurs. Pour manœuvrer notre vaisseau, passez en mode <b>TACTIQUE</b> en cliquant sur le bouton en surbrillance ou en appuyant sur <b>{ToggleTactical}</b>."
 CURRENT,tutorial_flightexittactical,2886,"Exit <b>TACTICAL</b> mode by clicking the button again, or pressing <b>{ToggleTactical}</b>.",Quittez le mode <b>TACTIQUE</b> en cliquant à nouveau sur le bouton ou en appuyant sur <b>{ToggleTactical}</b>.
@@ -519,9 +519,9 @@ CURRENT,object_sofa,2793,Sofa,Canapé
 CURRENT,object_potplant,2793,Pot Plant,Plante en pot
 CURRENT,tutorial_battlestations_title,2793,BATTLE STATIONS,POSTES DE COMBAT
 CURRENT,tutorial_battlestationsstart,2793,We are now going to learn how to deploy our weapons for combat.\n\nThe game has been paused for now.,Nous allons maintenant apprendre à déployer nos armes pour le combat.\n\nLe jeu a été mis en pause pour le moment.
-CURRENT,tutorial_battlestationshighlightcrew,2793,Your crew will run to the weapons to deploy them.\n\nGatling guns don't require any crew to deploy them.,Ton équipage courra vers les armes pour les déployer.\n\nLes mitrailleuses Gatling ne nécessitent pas d'équipage pour les déployer.
-CURRENT,tutorial_battlestationshighlightguns,2793,The gun barrels will begin to extend when they arrive.\n\nWhen the barrels are fully extended they will be ready to fire!,"Les canons des fusils commenceront à s'allonger lorsqu'ils arriveront.\n\nLorsque les canons seront complètement allongés, ils seront prêts à tirer !"
-CURRENT,tutorial_battlestationssuccess,2793,"Well done, your weapons are now successfully deployed for battle!","Bravo, tes armes sont maintenant déployées avec succès pour la bataille !"
+CURRENT,tutorial_battlestationshighlightcrew,2793,Your crew will run to the weapons to deploy them.\n\nGatling guns don't require any crew to deploy them.,Votre équipage courra vers les armes pour les déployer.\n\nLes mitrailleuses Gatling ne nécessitent pas d'équipage pour les déployer.
+CURRENT,tutorial_battlestationshighlightguns,2793,The gun barrels will begin to extend when they arrive.\n\nWhen the barrels are fully extended they will be ready to fire!,"Les canons se déploieront à l'arrivée de l'équipage.\n\nUne fois les canons complètement déployés, ils seront prêts à tirer !"
+CURRENT,tutorial_battlestationssuccess,2793,"Well done, your weapons are now successfully deployed for battle!","Bravo, vos armes sont à présent déployées pour la bataille !"
 CURRENT,tutorial_stargatejump_title,2793,STARGATE JUMPING,LE SAUT DE LA PORTE DES ÉTOILES
 CURRENT,tutorial_stargatejumpstart,2793,We are now going to learn how to jump using the newly powered-up Stargate.,Nous allons maintenant apprendre à sauter en utilisant la porte des étoiles qui vient d'être mise sous tension.
 CURRENT,tutorial_stargatejumpnopower,2793,"The Stargate currently has lost power and needs to be started again.\n\nUse energy transmitters to power the Stargate.\n\nWhen the Stargate is ready, we will try again!","La Porte des étoiles n'a plus d'énergie et doit être remise en marche.\n\nUtilise les transmetteurs d'énergie pour alimenter la Porte des étoiles.\n\nQuand la Porte des étoiles sera prête, nous essaierons à nouveau !"
@@ -621,7 +621,7 @@ CURRENT,stargate_ready_for_jump,2624,READY FOR JUMP,PRÊT POUR LE SAUT
 CURRENT,stargate_jumping,2624,JUMP IN PROGRESS,SAUT EN COURS
 CURRENT,stargate_available_subtitle,2624,Phase *X Available,Phase *X disponible
 CURRENT,mission_sectorprotect_offer1,2624,"Thank you, Captain! We would never have survived without your assistance.","Merci, capitaine ! Nous n'aurions jamais survécu sans votre aide."
-CURRENT,mission_sectorprotect_offer2,2624,"If you'd be interested, we'd be honoured to join forces with your fleet.","Si cela t'intéresse, nous serions honorés d'unir nos forces à celles de ta flotte."
+CURRENT,mission_sectorprotect_offer2,2624,"If you'd be interested, we'd be honoured to join forces with your fleet.","Si celavous 'intéresse, nous serions honorés d'unir nos forces à celles de votre flotte."
 CURRENT,mission_sectorprotect_description1,2624,Investigate a distress call in system S*X.,Enquête sur un appel de détresse dans le système S*X.
 CURRENT,mission_sectorprotect_offer3,2624,"Choose your reward, Captain","Choisis ta récompense, capitaine"
 CURRENT,mainmenu_gamemode_survival_locked,2624,Complete any story episode in 'Boldly Go' to unlock,Terminez n'importe quel épisode de l'histoire dans 'Boldly Go' pour déverrouiller
@@ -1281,7 +1281,7 @@ CURRENT,galaxymap_exitsystem,2448,To Next Sector,Vers le secteur suivant
 CURRENT,galaxymap_fleet,2448,YOU ARE HERE,VOUS ÊTES ICI
 CURRENT,galaxymap_unreachable,2448,UNREACHABLE,INACCESSIBLE
 CURRENT,galaxymap_civilians,2448,CIVILIANS,CIVILS
-CURRENT,galaxymap_noescape,2448,NO ESCAPE,PAS D'ÉVASION
+CURRENT,galaxymap_noescape,2448,NO ESCAPE,SORTIE IMPOSSIBLE
 CURRENT,galaxymap_colony,2448,COLONY,COLONIE
 CURRENT,galaxymap_starbase,2448,STARBASE,BASE ÉTOILÉE
 CURRENT,galaxymap_shipyard,2448,SHIPYARD,CHANTIER NAVAL
@@ -1358,7 +1358,7 @@ CURRENT,trade_tooltip_control,2448,[CTRL] All,[CTRL] Tout
 CURRENT,trade_ourstock,2448,You have *X on-board,Vous avez *X à bord
 CURRENT,trade_buying,2448,Buying *X,Acheter *X
 CURRENT,trade_selling,2448,Selling *X,Vente *X
-CURRENT,trade_sacking,2448,Sacking *X,Limogeage *X
+CURRENT,trade_sacking,2448,Sacking *X,Licencier *X
 CURRENT,trade_tooltip_canceltrade,2448,[LMB] Cancel,[LMB] Annuler
 CURRENT,trade_tooltip_cancelalltrade,2448,[RMB] Cancel All,[RMB] Tout annuler
 CURRENT,trade_dangerproximity,2448,Shortages of critical resources have made prices higher than normal,La pénurie de ressources essentielles a rendu les prix plus élevés que la normale
@@ -1522,7 +1522,7 @@ CURRENT,mission_requires_equipment,2448,Contract requires Equipment : *X,Le cont
 CURRENT,mission_requires_stock,2448,Contract requires *X,Le contrat nécessite *X
 CURRENT,mission_requires_stock_count,2448,Contract requires *Y *X,Le contrat nécessite *Y *X
 CURRENT,mission_requires_combatvessel,2448,Contract requires armed combat vessel,Le contrat nécessite un navire de combat armé
-CURRENT,mission_requires_cabinspace,2448,Contract requires at least *X free cabins,Le contrat nécessite au moins *X cabines gratuites
+CURRENT,mission_requires_cabinspace,2448,Contract requires at least *X free cabins,Le contrat nécessite au moins *X cabines libres
 CURRENT,mission_requires_combatrating,2448,You require a Combat Rating of at least *X,Vous avez besoin d'une note de combat d'au moins *X
 CURRENT,mission_requires_industryrating,2448,You require an Industry Rating of at least *X,Vous avez besoin d'une note de l'industrie d'au moins *X
 CURRENT,mission_requires_logisticsrating,2448,You require a Logistics Rating of at least *X,Vous avez besoin d'une note logistique d'au moins *X
@@ -1555,10 +1555,10 @@ CURRENT,mission_delivery_location,2448,Travel to the delivery system,Déplacemen
 CURRENT,mission_type_passengers,2448,Transport passengers,Transporter des passagers
 CURRENT,mission_passengers_title,2448,Urgent passenger transport request,Demande urgente de transport de personnes
 CURRENT,mission_passengers_titlefurther,2448,Passengers require transport across sectors,Les passagers ont besoin d’un transport intersectoriel
-CURRENT,mission_passengers_description,2448,There is a group of *X civilians who are looking for safe transit.,Il y a un groupe de civils *X qui recherchent un transit sûr.
-CURRENT,mission_passengers_descriptionfurther,2448,"Their destination is *Y Sector Jumps away, in Sector *X.","Leur destination est *Y. Le secteur saute, dans le secteur *X."
+CURRENT,mission_passengers_description,2448,There is a group of *X civilians who are looking for safe transit.,Il y a un groupe de *X civils qui recherchent un transit sûr.
+CURRENT,mission_passengers_descriptionfurther,2448,"Their destination is *Y Sector Jumps away, in Sector *X.","Leur destination est le secteur *X, à *Y saut(s) sectoriel(s) d'ici. "
 CURRENT,mission_passengers_destination,2448,Their destination is in this Sector. Drop them off at Star System S*X.,Leur destination est dans ce Secteur. Déposez-les à Star System S*X.
-CURRENT,mission_passengers_requirements,2448,Your ship will need enough free cabins in your habitation deck.,Votre navire aura besoin de suffisamment de cabines gratuites sur votre pont d'habitation.
+CURRENT,mission_passengers_requirements,2448,Your ship will need enough free cabins in your habitation deck.,Votre navire aura besoin de suffisamment de cabines libres sur votre pont d'habitation.
 CURRENT,mission_passengers_shuttle,2448,They are on their way to you now and will dock shortly.,Ils sont en route vers vous maintenant et accosteront sous peu.
 CURRENT,mission_passengers_delivery,2448,*X out of *Y passengers are on board.,*X passagers sur *Y sont à bord.
 CURRENT,mission_passengers_alldelivered,2448,"That's it, all passengers are on board your ship. Travel safe commander.","Ça y est, tous les passagers sont à bord de votre navire. Voyagez en toute sécurité, commandant."
@@ -1573,7 +1573,7 @@ CURRENT,mission_type_refugees,2448,Refugees,Réfugiés
 CURRENT,mission_refugees_title,2448,Take permanent refugees into your care,Prenez en charge les réfugiés permanents
 CURRENT,mission_refugees_description,2448,"We have *X civilians living here who have nowhere to go, and no way to escape the void before it arrives.",Nous avons *X civils vivant ici qui n'ont nulle part où aller et aucun moyen d'échapper au vide avant qu'il n'arrive.
 CURRENT,mission_refugees_description2,2448,"Find a place for them in your fleet, look after them, and we will be forever grateful.","Trouvez-leur une place dans votre flotte, prenez-en soin et nous vous en serons éternellement reconnaissants."
-CURRENT,mission_refugees_requirements,2448,Your ship will need enough free cabins in your habitation deck.,Votre navire aura besoin de suffisamment de cabines gratuites sur votre pont d'habitation.
+CURRENT,mission_refugees_requirements,2448,Your ship will need enough free cabins in your habitation deck.,Votre navire aura besoin de suffisamment de cabines libres sur votre pont d'habitation.
 CURRENT,mission_refugees_alldelivered,2448,"All of the refugees are on board. We wish you the best of luck, commander.","Tous les réfugiés sont à bord. Nous vous souhaitons bonne chance, commandant."
 CURRENT,mission_refugees_received,2448,*X out of *Y passengers are on board. Total payment $*Z.,*X passagers sur *Y sont à bord. Paiement total $*Z.
 CURRENT,mission_type_rescue,2448,Rescue,Sauvetage
@@ -1703,7 +1703,7 @@ CURRENT,scienceobjective_installsensors2,2448,Ensure the sensors are powered and
 CURRENT,scienceobjective_sensorsinstalled,2448,Sensors Installed,Capteurs installés
 CURRENT,scienceobjective_usesensors1,2448,These sensors will collect data from the anomaly while you are in Hyperspace.,Ces capteurs collecteront les données de l'anomalie pendant que vous êtes dans l'hyperespace.
 CURRENT,scienceobjective_usesensors2,2448,"The closer you can hyperjump to the anomaly, the faster they will collect data.","Plus vous pouvez vous rapprocher de l’anomalie, plus vite les données seront collectées."
-CURRENT,scienceobjective_capturedata,2448,You have captured *X Data from the anomaly.,Vous avez capturé les données *X de l'anomalie.
+CURRENT,scienceobjective_capturedata,2448,You have captured *X Data from the anomaly.,Vous avez capturé *X données de l'anomalie.
 CURRENT,scienceobjective_successbonus,2448,Captured *X Data. Funding bonus $*Y.,Données *X capturées. Bonus de financement $*Y.
 CURRENT,scienceobjective_nextbonus,2448,Next bonus for *X Captured data : $*Y.,Prochain bonus pour *X Données capturées : $*Y.
 CURRENT,scienceobjective_scientist,2448,Research Institute,Institut de recherche
@@ -1736,7 +1736,7 @@ CURRENT,nomadobjective_description2,2448,It may just keep expanding forever. The
 CURRENT,nomadobjective_description3,2448,"In which case we need to get used to living on self sufficient ships, indefinitely.","Dans ce cas, nous devons nous habituer indéfiniment à vivre sur des navires autonomes."
 CURRENT,nomadobjective_accepted1,2448,You will need to turn your ships into a long term self sufficient fleet.,Vous devrez transformer vos navires en une flotte autonome à long terme.
 CURRENT,nomadobjective_accepted2,2448,"Bring as many people with you as you can, and don't look back.",Amenez autant de personnes que possible avec vous et ne regardez pas en arrière.
-CURRENT,nomadobjective_total,2448,Your highest population was *X residents within your fleet.,Vous avez *X résidents permanents au sein de votre flotte.
+CURRENT,nomadobjective_total,2448,Your highest population was *X residents within your fleet.,Vous avez atteint *X résidents au sein de votre flotte.
 CURRENT,nomadobjective_successbonus,2448,Population has reached *X residents. Funding bonus $*Y.,La population a atteint *X habitants. Bonus de financement $*Y.
 CURRENT,nomadobjective_nextbonus,2448,Next bonus when population reaches *X residents - $*Y.,Prochain bonus lorsque la population atteint *X résidents - $*Y.
 CURRENT,nomadobjective_award,2448,NOMAD REWARD,RÉCOMPENSE NOMADE
@@ -1832,7 +1832,7 @@ CURRENT,object_water,2448,Water,Eau
 CURRENT,object_stairs,2448,Ladder,Échelle
 CURRENT,object_stairs_description,2448,Crew and passengers can only access the upper habitation deck with a ladder.,L'équipage et les passagers ne peuvent accéder au pont supérieur d'habitation qu'avec une échelle.
 CURRENT,object_hyperspacesensor,2448,Hyperspace Sensor,Capteur d'hyperespace
-CURRENT,object_hyperspacesensorlr,2448,Hyperspace Sensor LR,Capteur hyperespace LR
+CURRENT,object_hyperspacesensorlr,2448,Hyperspace Sensor LR,Capteur hyperespace LP
 CURRENT,object_hyperspacesensorlr_description,2448,A Long Range and extremely sensitive prototype version of the standard hyperspace sensor.,Une version prototype à longue portée et extrêmement sensible du capteur hyperspatial standard.
 CURRENT,object_telepathicsensor,2448,Telepathic Sensor Station,Station de capteurs télépathiques
 CURRENT,object_telepathicsensor_description,2448,A sensor capable of detecting telepathic waves.,Un capteur capable de détecter les ondes télépathiques.
@@ -1917,7 +1917,7 @@ CURRENT,object_short_oxygen,2448,O2,O2
 CURRENT,object_short_ftlcharge,2448,FTL,FTL
 CURRENT,object_short_bullets,2448,Ammo,Munitions
 CURRENT,object_short_railgunshell,2448,Slugs,Balles
-CURRENT,object_short_cannonshell,2448,Shells,Coquilles
+CURRENT,object_short_cannonshell,2448,Shells,Obus
 CURRENT,object_short_deuterium,2448,Dtrm,Dtrm
 CURRENT,entity_unconscious,2448,UNCONSCIOUS,INCONSCIENT
 CURRENT,entity_dead,2448,DEAD,MORT
@@ -1953,7 +1953,7 @@ CURRENT,mission_flightready_description2,2448,A ship requires each of the follow
 CURRENT,mission_flightready_power_help,2448,A reactor to generate power. Use a Fuel Loader to pipe fuel into the Reactor.,Un réacteur pour produire de l'électricité. Utilisez un chargeur de carburant pour acheminer le carburant vers le réacteur.
 CURRENT,mission_flightready_engines_help,2448,Engines for propulsion.  Test fire your engines (From the TACTICAL view) to certify them.,Moteurs pour la propulsion.  Testez vos moteurs (depuis la vue TACTIQUE) pour les certifier.
 CURRENT,mission_flightready_lifesupport_help,2448,"Life support to make the cabin breathable.  Use an Airduct to pressurise the cabin, connected to an Oxygen Loader to supply the air.","Support de vie pour rendre la cabine respirante.  Utilisez un conduit d'air pour pressuriser la cabine, connecté à un chargeur d'oxygène pour fournir l'air."
-CURRENT,mission_flightready_ftljump_help,2448,An FTL Drive.  Test your new FTL engine by making a jump to the destination marked on the map.,Un lecteur FTL.  Testez votre nouveau moteur FTL en effectuant un saut vers la destination indiquée sur la carte.
+CURRENT,mission_flightready_ftljump_help,2448,An FTL Drive.  Test your new FTL engine by making a jump to the destination marked on the map.,Un moteur FTL.  Testez votre nouveau moteur FTL en effectuant un saut vers la destination indiquée sur la carte.
 CURRENT,mission_type_tutorialflightready,2448,DESTINATION,DESTINATION
 CURRENT,mission_flightready_power,2448,"A Reactor, generating power.","Un réacteur, générant de l'énergie."
 CURRENT,mission_flightready_engines,2448,Engines capable of propulsion,Moteurs capables de propulsion
@@ -2188,7 +2188,7 @@ CURRENT,calltoarms_harken_4,2448,"If you chose to help, I've marked the location
 CURRENT,calltoarms_harken_5,2448,"Thank you, Captain.","Merci, Capitaine."
 CURRENT,calltoarms_harkenrailroad_1,2448,"My name is Commander Harken, and I'm the Chief of Private Security for the sector.",Je m'appelle Commandant Harken et je suis le chef de la sécurité privée du secteur.
 CURRENT,calltoarms_harkenrailroad_3,2448,We've recieved reports of a shipwreck nearby. I believe it to be the wreckage of THE INTERSTELLAR PROSPECTOR - a large commercial vessel that went missing yesterday.,"Nous avons reçu des informations faisant état d'un naufrage à proximité. Je crois qu'il s'agit de l'épave du INTERSTELLAR PROSPECTOR, un grand navire commercial qui a disparu hier."
-CURRENT,calltoarms_harkenrailroad_4,2448,Travel to the shipwreck and look for a Black Box Flight Recorder in the wreckage.  This device will contain a log of their final moments.,Rendez-vous à l'épave et cherchez un enregistreur de vol Black Box dans l'épave.  Cet appareil contiendra un journal de leurs derniers instants.
+CURRENT,calltoarms_harkenrailroad_4,2448,Travel to the shipwreck and look for a Black Box Flight Recorder in the wreckage.  This device will contain a log of their final moments.,Rendez-vous à l'épave et cherchez un enregistreur de vol parmi les débris.  Cet appareil contiendra un journal de leurs derniers instants.
 CURRENT,calltoarms_harkenrailroad_5,2448,To collect the flight recorder you'll need to install a DRONE BAY and at least one LOGISTICS DRONE. You can buy them from any Shipyard or Colony.,"Pour récupérer l'enregistreur de vol, vous devrez installer une BAIE DE DRONE et au moins un DRONE LOGISTIQUE. Vous pouvez les acheter dans n'importe quel chantier naval ou colonie."
 CURRENT,wolf_episode_title,2448,Wolf In Sheep's Clothing,Loup déguisé en mouton
 CURRENT,wolf_part1_title,2448,A Wolf in Sheep's Clothing,Un loup déguisé en mouton
