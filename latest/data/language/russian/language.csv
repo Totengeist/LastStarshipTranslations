@@ -1,59 +1,59 @@
 ﻿state,key,svn,english,translation
-NEW,settings_credits,3149,CREDITS,КРЕДИТЫ
-NEW,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,"Игра будет сохраняться в Steam Cloud, если включить эту функцию. При неудачном сохранении появится предупреждение."
+NEW,settings_credits,3149,CREDITS,ТИТРЫ
+NEW,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,"Игра будет сохраняться в Облаке Steam, если включить эту функцию. При неудачном сохранении появится предупреждение."
 NEW,newmainmenu_saveoptions,3149,Save Options,Параметры сохранения
-NEW,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] Переключи стиль напольного покрытия
+NEW,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] Переключить стиль напольного покрытия
 NEW,hud_tooltip_currentflooring,3149,Current style: *X,Текущий стиль: *X
-NEW,hud_tooltip_gratedflooring,3149,Grated,Тертый
+NEW,hud_tooltip_gratedflooring,3149,Grated,Рельефный
 NEW,hud_tooltip_normalflooring,3149,Normal,Нормальный
-NEW,hud_hull_integrity,3149,HULL,ХАЛЛ
+NEW,hud_hull_integrity,3149,HULL,КОРПУС
 NEW,hud_power_battery,3149,BATTERY,БАТАРЕЯ
-NEW,hud_power_powershortage,3149,POWER SHORTAGE,НЕХВАТКА ЭНЕРГИИ
-NEW,hud_idlecrew,3149,Idle Crew,"Экипаж ""Холостой"
-NEW,hud_consumingperhour,3149,Consuming *X per hour,Потребляя *X в час
+NEW,hud_power_powershortage,3149,POWER SHORTAGE,МАЛО ЭНЕРГИИ
+NEW,hud_idlecrew,3149,Idle Crew,Без Работы
+NEW,hud_consumingperhour,3149,Consuming *X per hour,Потребление *X в час
 NEW,hud_dehydrationperperson,3149,Dehydration *X per person,Обезвоживание *X на человека
 NEW,hud_hungerperperson,3149,Hunger *X per person,Голод *X на человека
-NEW,hud_byauthor,3149,BY *X,ПО АДРЕСУ *X
-NEW,communicator_newobjective,3149,NEW OBJECTIVE,НОВАЯ ЦЕЛЬ
-NEW,galaxymap_stargate,3149,STARGATE,STARGATE
-NEW,trade_canceltrade,3149,CANCEL TRADE AND REFUND,ОТМЕНА СДЕЛКИ И ВОЗВРАТ ДЕНЕГ
-NEW,trade_refundvalue,3149,REFUND VALUE,СТОИМОСТЬ ВОЗВРАТА
+NEW,hud_byauthor,3149,BY *X,ОТ *X
+NEW,communicator_newobjective,3149,NEW OBJECTIVE,НОВАЯ МИССИЯ
+NEW,galaxymap_stargate,3149,STARGATE,ЗВЕЗДНЫЕ ВРАТА
+NEW,trade_canceltrade,3149,CANCEL TRADE AND REFUND,ОТМЕНА СДЕЛКИ И ВОЗВРАТ
+NEW,trade_refundvalue,3149,REFUND VALUE,СТОИМОСТЬ ОТМЕНЫ
 NEW,trade_cancellationcost,3149,CANCELLATION COST,СТОИМОСТЬ ОТМЕНЫ
-NEW,trade_partiallyfilled,3149,PARTIALLY FILLED,ЧАСТИЧНО ЗАПОЛНЕННАЯ
-NEW,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,НЕПОЛНЫЙ КОМПОНЕНТ
-NEW,trade_removeincomplete,3149,REMOVE INCOMPLETE,УБРАТЬ НЕЗАВЕРШЕННЫЕ
-NEW,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,УДАЛИТЕ ЧАСТИЧНО ЗАПОЛНЕННЫЙ
+NEW,trade_partiallyfilled,3149,PARTIALLY FILLED,ЧАСТИЧНО ЗАПОЛНЕННО
+NEW,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,НЕЗАВЕРШЕННЫЙ КОМПОНЕНТ
+NEW,trade_removeincomplete,3149,REMOVE INCOMPLETE,УБРАТЬ НЕЗАВЕРШЕННОЕ
+NEW,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,УБРАТЬ ЧАСТИЧНО ЗАПОЛНЕННОЕ
 NEW,trade_order_normal,3149,(*X),(*X)
 NEW,trade_order_buy_on_sell_screen,3149,(BUY *X),(КУПИТЬ *X)
-NEW,trade_order_sell_on_buy_screen,3149,(SELL *X),(SELL *X)
-NEW,trade_order_sack_on_buy_screen,3149,(SACK *X),(SACK *X)
-NEW,techtree_researchpercent,3149,*X% Complete,*X% завершения
+NEW,trade_order_sell_on_buy_screen,3149,(SELL *X),(ПРОДАТЬ *X)
+NEW,trade_order_sack_on_buy_screen,3149,(SACK *X),(УВОЛИТЬ *X)
+NEW,techtree_researchpercent,3149,*X% Complete,*X% Завершено
 NEW,tooltip_efficiency,3149,Efficiency +*X%,Эффективность +*X%
 NEW,tooltip_activating,3149,Activating +*X%,Активация +*X%
-NEW,alert_type_lowdeuterium,3149,LOW DEUTERIUM,НИЗКИЙ УРОВЕНЬ ДЕЙТЕРИЯ
+NEW,alert_type_lowdeuterium,3149,LOW DEUTERIUM,МАЛО ДЕЙТЕРИЯ
 NEW,stargate_unknowncomponent,3149,Unknown Component,Неизвестный компонент
 NEW,stargate_unknowncomponent_description,3149,Unlock this component through research!,Разблокируй этот компонент с помощью исследований!
-NEW,creditstitle_builders,3149,Ship Builders,Судостроители
-NEW,creditstitle_testers,3149,Early Play Testing,Раннее игровое тестирование
+NEW,creditstitle_builders,3149,Ship Builders,Создание Кораблей
+NEW,creditstitle_testers,3149,Early Play Testing,Игровое Тестирование
 NEW,creditstitle_translators,3149,Translation,Перевод
-NEW,engine_thrust,3149,THRUST *X%,THRUST *X%
-UPDATED,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + RMB] Преобразование в разделитель
+NEW,engine_thrust,3149,THRUST *X%,ТЯГА *X%
+UPDATED,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + ПКМ] Преобразовать в разделитель
 PREVIOUS,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[ПКМ] Преобразовать в разделитель
-UPDATED,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + RMB] Преобразовать в конвейер
+UPDATED,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + ПКМ] Преобразовать в конвейер
 PREVIOUS,hud_convertsplittertotrack,3054,[RMB] Convert to track,[ПКМ] Преобразовать в конвейер
-UPDATED,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,"Мы не сможем доставить этих пассажиров к месту назначения без сверхсветовых путешествий. К сожалению, этот корабль не оснащен собственным <b>Гипертопливом</b>.\n\nНам придется купить его и установить."
+UPDATED,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,"Мы не сможем доставить этих пассажиров к месту назначения без сверхсветовых путешествий. К сожалению, этот корабль не оснащен собственным <b>ГИПЕРДВИГАТЕЛЕМ</b>.\n\nНам придется купить его и установить."
 PREVIOUS,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,"Мы не можем доставить этих пассажиров к месту назначения без путешествия быстрее света. К сожалению, этот корабль не оснащен собственным <b>ГИПЕРДВИГАТЕЛЕМ</b>.\n\nНам нужно купить его и установить."
 PREVIOUS,tutorial_ftlintro,2448,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,"Мы не сможем доставить этих пассажиров к месту назначения без использования ускорителей света. К сожалению, этот корабль не оснащен собственным Сверхсветовым приводом.\n\n Нам придется купить его и установить."
-UPDATED,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,"Открой торговый экран, чтобы приобрести <b>Гипердвигатель</b> и некоторые <b>Гипертопливо</b>."
+UPDATED,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,"Откройте экран торговли, чтобы приобрести <b>ГИПЕРДВИГАТЕЛЬ</b> и немного <b>ГИПЕРТОПЛИВА</b>."
 PREVIOUS,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,"Откройте экран торговли, чтобы купить <b>ГИПЕРДВИГАТЕЛЬ</b>."
 PREVIOUS,tutorial_ftltradescreen,2448,Open the trade screen to purchase an FTL drive.,"Откройте торговый экран, чтобы купить Сверхсветовой привод."
-UPDATED,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,ВКЛЮЧАЮТ В СЕБЯ ПРИЧАЛЕННЫЕ КОРАБЛИ
+UPDATED,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,ВКЛЮЧИТЬ ПРИСТЫКОВАННЫЕ КОРАБЛИ
 PREVIOUS,newmainmenu_includedocked,2448,INCLUDE DOCKED SHIPS IN EXPORT,ВКЛЮЧИТЬ ПРИСТЫКОВАННЫЕ КОРАБЛИ В ЭКСПОРТ
-UPDATED,hud_layer_hostile,3149,HOSTILE *X,HOSTILE *X
+UPDATED,hud_layer_hostile,3149,HOSTILE *X,ВРАЖДЕБНЫЙ *X
 PREVIOUS,hud_layer_hostile,2448,HOSTILE,ВРАЖДЕБНЫЕ СИЛЫ
-UPDATED,hud_layer_derelict,3149,DERELICT *X,DERELICT *X
+UPDATED,hud_layer_derelict,3149,DERELICT *X,ЗАБРОШЕННЫЙ *X
 PREVIOUS,hud_layer_derelict,2448,DERELICT,ЗАБРОШЕННЫЙ ОБЪЕКТ
-UPDATED,hud_layer_forsale,3149,[FOR SALE] *X,[ПРОДАЕМ] *X
+UPDATED,hud_layer_forsale,3149,[FOR SALE] *X,[ПРОДАЕТСЯ] *X
 PREVIOUS,hud_layer_forsale,2448,[FOR SALE],[ПРОДАЕТСЯ]
 CURRENT,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,"По износу корпуса можно судить, что они здесь как минимум столетие. Этот сектор, вероятно, был одной из первых попыток человечества колонизировать космос."
 CURRENT,techtree_node_caption_metallurgyrepeatable,3054,Spend research credits to continually increase our smelting efficiency.,"Тратьте чипы данных, чтобы постоянно увеличивать эффективность нашей плавки."
@@ -268,9 +268,9 @@ CURRENT,credits_12,3054,Programming\nRaphael Tasseel,Программист\nRap
 CURRENT,credits_13,3054,Programming\nThomas White,Программист\nThomas White
 CURRENT,credits_14,3054,Programming\nJacob Hill,Программист\nJacob Hill
 CURRENT,credits_15,3054,Marketing\nOliver Arundel,Маркетинг\nOliver Arundel
-CURRENT,credits_16,3054,Ship Builders\nJohnny Struggles,Строители Кораблей\nJohnny Struggles
-CURRENT,credits_17,3054,Ship Builders\nJoseph Abboud,Строители Кораблей\nJoseph Abboud
-CURRENT,credits_18,3054,Ship Builders\nLindsay Fleay (DRx),Строители Кораблей\nLindsay Fleay (DRx)
+CURRENT,credits_16,3054,Ship Builders\nJohnny Struggles,Создание Кораблей\nJohnny Struggles
+CURRENT,credits_17,3054,Ship Builders\nJoseph Abboud,Создание Кораблей\nJoseph Abboud
+CURRENT,credits_18,3054,Ship Builders\nLindsay Fleay (DRx),Создание Кораблей\nLindsay Fleay (DRx)
 CURRENT,credits_19,3054,Thanks to everyone\nwho contributed ship designs,"Благодарность всем,\nкто внес вклад в дизайн кораблей"
 CURRENT,credits_20,3054,Thank you for playing!,Благодарим за игру!
 CURRENT,ftl_galacticjump,3054,"This will be the final journey of your fleet.\nBe prepared for a long journey to the Andromeda galaxy, and save as many as you can!",Это будет последнее путешествие вашего флота.\nГотовьтесь к долгому пути в галактику Андромеды и спасите как можно больше.
@@ -606,7 +606,7 @@ CURRENT,newmainmenu_arena_tradevalues,2624,SHIP VALUES,СТОИМОСТЬ КОР
 CURRENT,newmainmenu_arena_expandstats,2624,SHOW INFO,ПОКАЗАТЬ ИНФОРМАЦИЮ
 CURRENT,newmainmenu_arena_collapsestats,2624,HIDE INFO,СКРЫТЬ ИНФОРМАЦИЮ
 CURRENT,newmainmenu_arena_generateenemyfleet,2624,GENERATE,СОЗДАТЬ
-CURRENT,newmainmenu_savetosteamcloud,2624,SAVE TO STEAM CLOUD,СОХРАНИТЬ В STEAM CLOUD
+CURRENT,newmainmenu_savetosteamcloud,2624,SAVE TO STEAM CLOUD,STEAM CLOUD
 CURRENT,newmainmenu_steamcloud,2624,STEAM CLOUD,STEAM CLOUD
 CURRENT,newmainmenu_cloudquotaremaining,2624,Used: *X / *Y (*Z% remaining),Использовано: *X / *Y (осталось *Z%)
 CURRENT,newmainmenu_tooltip_changeship,2624,[LMB] Change ship,[ЛКМ] Сменить корабль
@@ -1207,7 +1207,7 @@ CURRENT,hud_shipyard_buildbuyfromlibrary,2448,Buy ship,Купить корабл
 CURRENT,hud_shipyard_selectship,2448,Select a ship,Выберите корабль
 CURRENT,hud_shipforsale,2448,SHIP FOR SALE,КОРАБЛЬ ПРОДАЕТСЯ
 CURRENT,hud_buyship,2448,BUY,КУПИТЬ
-CURRENT,hud_sellship,2448,SELL YOUR SHIP,ПРОДАТЬ ВАШ КОРАБЛЬ
+CURRENT,hud_sellship,2448,SELL YOUR SHIP,ПРОДАТЬ КОРАБЛЬ
 CURRENT,hud_repairship,2448,REPAIR,РЕМОНТ
 CURRENT,hud_shipyardservices,2448,SHIPYARD SERVICES,УСЛУГИ ВЕРФИ
 CURRENT,hud_fabricateship,2448,FABRICATE A SHIP,ПОСТРОИТЬ КОРАБЛЬ
@@ -1334,8 +1334,8 @@ CURRENT,galaxymap_colony,2448,COLONY,КОЛОНИЯ
 CURRENT,galaxymap_starbase,2448,STARBASE,ЗВЕЗДНАЯ БАЗА
 CURRENT,galaxymap_shipyard,2448,SHIPYARD,ВЕРФЬ
 CURRENT,galaxymap_distresscall,2448,DISTRESS CALL,СИГНАЛ БЕДСТВИЯ
-CURRENT,galaxymap_derelict,2448,DERELICT,ЗАБРОШЕННЫЙ ОБЪЕКТ
-CURRENT,galaxymap_hostile,2448,HOSTILES,ВРАЖДЕБНЫЕ СИЛЫ
+CURRENT,galaxymap_derelict,2448,DERELICT,ОБЛОМКИ
+CURRENT,galaxymap_hostile,2448,HOSTILES,ВРАГИ
 CURRENT,galaxymap_objectives,2448,SECTOR CONTRACTS,КОНТРАКТЫ СЕКТОРА
 CURRENT,galaxymap_comet,2448,COMET,КОМЕТА
 CURRENT,sector_start,2448,HOME SECTOR,ДОМАШНИЙ СЕКТОР
