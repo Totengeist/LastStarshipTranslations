@@ -1,6 +1,61 @@
 ﻿state,key,svn,english,translation
-UPDATED,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,"По износу корпуса можно судить, что они здесь как минимум столетие. Этот сектор, вероятно, был одной из первых попыток человечества колонизировать космос."
-PREVIOUS,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,"Их внешняя изношенность заставляет нас предположить, что они находятся здесь уже не менее века. Наверное, этот сектор был одной из первых попыток человечества колонизировать космическое пространство."
+NEW,settings_credits,3149,CREDITS,КРЕДИТЫ
+NEW,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,"Игра будет сохраняться в Steam Cloud, если включить эту функцию. При неудачном сохранении появится предупреждение."
+NEW,newmainmenu_saveoptions,3149,Save Options,Параметры сохранения
+NEW,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] Переключи стиль напольного покрытия
+NEW,hud_tooltip_currentflooring,3149,Current style: *X,Текущий стиль: *X
+NEW,hud_tooltip_gratedflooring,3149,Grated,Тертый
+NEW,hud_tooltip_normalflooring,3149,Normal,Нормальный
+NEW,hud_hull_integrity,3149,HULL,ХАЛЛ
+NEW,hud_power_battery,3149,BATTERY,БАТАРЕЯ
+NEW,hud_power_powershortage,3149,POWER SHORTAGE,НЕХВАТКА ЭНЕРГИИ
+NEW,hud_idlecrew,3149,Idle Crew,"Экипаж ""Холостой"
+NEW,hud_consumingperhour,3149,Consuming *X per hour,Потребляя *X в час
+NEW,hud_dehydrationperperson,3149,Dehydration *X per person,Обезвоживание *X на человека
+NEW,hud_hungerperperson,3149,Hunger *X per person,Голод *X на человека
+NEW,hud_byauthor,3149,BY *X,ПО АДРЕСУ *X
+NEW,communicator_newobjective,3149,NEW OBJECTIVE,НОВАЯ ЦЕЛЬ
+NEW,galaxymap_stargate,3149,STARGATE,STARGATE
+NEW,trade_canceltrade,3149,CANCEL TRADE AND REFUND,ОТМЕНА СДЕЛКИ И ВОЗВРАТ ДЕНЕГ
+NEW,trade_refundvalue,3149,REFUND VALUE,СТОИМОСТЬ ВОЗВРАТА
+NEW,trade_cancellationcost,3149,CANCELLATION COST,СТОИМОСТЬ ОТМЕНЫ
+NEW,trade_partiallyfilled,3149,PARTIALLY FILLED,ЧАСТИЧНО ЗАПОЛНЕННАЯ
+NEW,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,НЕПОЛНЫЙ КОМПОНЕНТ
+NEW,trade_removeincomplete,3149,REMOVE INCOMPLETE,УБРАТЬ НЕЗАВЕРШЕННЫЕ
+NEW,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,УДАЛИТЕ ЧАСТИЧНО ЗАПОЛНЕННЫЙ
+NEW,trade_order_normal,3149,(*X),(*X)
+NEW,trade_order_buy_on_sell_screen,3149,(BUY *X),(КУПИТЬ *X)
+NEW,trade_order_sell_on_buy_screen,3149,(SELL *X),(SELL *X)
+NEW,trade_order_sack_on_buy_screen,3149,(SACK *X),(SACK *X)
+NEW,techtree_researchpercent,3149,*X% Complete,*X% завершения
+NEW,tooltip_efficiency,3149,Efficiency +*X%,Эффективность +*X%
+NEW,tooltip_activating,3149,Activating +*X%,Активация +*X%
+NEW,alert_type_lowdeuterium,3149,LOW DEUTERIUM,НИЗКИЙ УРОВЕНЬ ДЕЙТЕРИЯ
+NEW,stargate_unknowncomponent,3149,Unknown Component,Неизвестный компонент
+NEW,stargate_unknowncomponent_description,3149,Unlock this component through research!,Разблокируй этот компонент с помощью исследований!
+NEW,creditstitle_builders,3149,Ship Builders,Судостроители
+NEW,creditstitle_testers,3149,Early Play Testing,Раннее игровое тестирование
+NEW,creditstitle_translators,3149,Translation,Перевод
+NEW,engine_thrust,3149,THRUST *X%,THRUST *X%
+UPDATED,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + RMB] Преобразование в разделитель
+PREVIOUS,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[ПКМ] Преобразовать в разделитель
+UPDATED,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + RMB] Преобразовать в конвейер
+PREVIOUS,hud_convertsplittertotrack,3054,[RMB] Convert to track,[ПКМ] Преобразовать в конвейер
+UPDATED,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,"Мы не сможем доставить этих пассажиров к месту назначения без сверхсветовых путешествий. К сожалению, этот корабль не оснащен собственным <b>Гипертопливом</b>.\n\nНам придется купить его и установить."
+PREVIOUS,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,"Мы не можем доставить этих пассажиров к месту назначения без путешествия быстрее света. К сожалению, этот корабль не оснащен собственным <b>ГИПЕРДВИГАТЕЛЕМ</b>.\n\nНам нужно купить его и установить."
+PREVIOUS,tutorial_ftlintro,2448,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,"Мы не сможем доставить этих пассажиров к месту назначения без использования ускорителей света. К сожалению, этот корабль не оснащен собственным Сверхсветовым приводом.\n\n Нам придется купить его и установить."
+UPDATED,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,"Открой торговый экран, чтобы приобрести <b>Гипердвигатель</b> и некоторые <b>Гипертопливо</b>."
+PREVIOUS,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,"Откройте экран торговли, чтобы купить <b>ГИПЕРДВИГАТЕЛЬ</b>."
+PREVIOUS,tutorial_ftltradescreen,2448,Open the trade screen to purchase an FTL drive.,"Откройте торговый экран, чтобы купить Сверхсветовой привод."
+UPDATED,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,ВКЛЮЧАЮТ В СЕБЯ ПРИЧАЛЕННЫЕ КОРАБЛИ
+PREVIOUS,newmainmenu_includedocked,2448,INCLUDE DOCKED SHIPS IN EXPORT,ВКЛЮЧИТЬ ПРИСТЫКОВАННЫЕ КОРАБЛИ В ЭКСПОРТ
+UPDATED,hud_layer_hostile,3149,HOSTILE *X,HOSTILE *X
+PREVIOUS,hud_layer_hostile,2448,HOSTILE,ВРАЖДЕБНЫЕ СИЛЫ
+UPDATED,hud_layer_derelict,3149,DERELICT *X,DERELICT *X
+PREVIOUS,hud_layer_derelict,2448,DERELICT,ЗАБРОШЕННЫЙ ОБЪЕКТ
+UPDATED,hud_layer_forsale,3149,[FOR SALE] *X,[ПРОДАЕМ] *X
+PREVIOUS,hud_layer_forsale,2448,[FOR SALE],[ПРОДАЕТСЯ]
+CURRENT,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,"По износу корпуса можно судить, что они здесь как минимум столетие. Этот сектор, вероятно, был одной из первых попыток человечества колонизировать космос."
 CURRENT,techtree_node_caption_metallurgyrepeatable,3054,Spend research credits to continually increase our smelting efficiency.,"Тратьте чипы данных, чтобы постоянно увеличивать эффективность нашей плавки."
 CURRENT,mainmenu_gamemode_arena,3054,Arena,Арена
 CURRENT,mainmenu_gamemode_arena_tooltip,3054,Create epic space battles between fleets of ships and watch the carnage unfold.,Создавайте эпические космические сражения между флотами кораблей и наблюдайте за разворачивающейся бойней.
@@ -20,8 +75,6 @@ CURRENT,newmainmenu_multisectorsim,3054,Multi-System Simulation,Мультиси
 CURRENT,newmainmenu_multisectorsimtooltip,3054,"Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.","Включает мультисистемную симуляцию, позволяя разделить ваш флот между несколькими системами/секторами одновременно."
 CURRENT,hud_shipmaximumoccupancy,3054,Ship Maximum Occupancy: *X/*Y,Максимальная Вместимость Корабля: *X/*Y
 CURRENT,hud_surveyinprogress,3054,WARNING - SURVEY WILL BE CANCELLED,ВНИМАНИЕ - ИССЛЕДОВАНИЕ БУДЕТ ОТМЕНЕНО
-CURRENT,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[ПКМ] Преобразовать в разделитель
-CURRENT,hud_convertsplittertotrack,3054,[RMB] Convert to track,[ПКМ] Преобразовать в конвейер
 CURRENT,shipeditor_tooltip_painthull,3054,Toggle painting the exterior panels of the hull of your ship,Переключить окраску внешних панелей корпуса вашего корабля
 CURRENT,shipeditor_tooltip_painthabitation,3054,Toggle painting the exterior panels of the habitation quarters of your ship,Переключить окраску внешних панелей жилых помещений вашего корабля
 CURRENT,shipeditor_tooltip_paintscaffold,3054,Toggle painting the scaffolding on your ship,Переключить окраску каркасов на вашем корабле
@@ -337,8 +390,6 @@ CURRENT,tutorial_airpipetoairduct,2886,"Drag a <b>PIPE</b> from the <b>OXYGEN LO
 CURRENT,tutorial_airdone,2886,The <b>AIRDUCT</b> is activated and is pressurising the cabin! The atmosphere will soon be breathable.,<b>ВОЗДУХОВОД</b> активирован и наполняет каюту давлением! Атмосфера скоро станет пригодной для дыхания.
 CURRENT,tutorial_enginesinformation,2886,Engines require both <b>POWER</b> and <b>FUEL</b> to operate. We must connect both engines to fuel and power.,"Для работы двигателям требуются и <b>ЭНЕРГИЯ</b>, и <b>ТОПЛИВО</b>. Подключите двигатель и к топливу, и к энергии."
 CURRENT,tutorial_enginesconnectpower,2886,"Now use the <b>CABLES</b> menu to power up the engine, by connecting it to your existing red power lines.","Теперь используйте меню <b>КАБЕЛИ</b>, чтобы подключить двигатель к вашим существующим красным линиям питания."
-CURRENT,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,"Мы не можем доставить этих пассажиров к месту назначения без путешествия быстрее света. К сожалению, этот корабль не оснащен собственным <b>ГИПЕРДВИГАТЕЛЕМ</b>.\n\nНам нужно купить его и установить."
-CURRENT,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,"Откройте экран торговли, чтобы купить <b>ГИПЕРДВИГАТЕЛЬ</b>."
 CURRENT,tutorial_ftlselectpropulsion,2886,The items we need are listed under <b>PROPULSION</b>. Select that category.,"Предметы, которые нам нужны, перечислены в разделе <b>ДВИЖЕНИЕ</b>. Выберите эту категорию."
 CURRENT,tutorial_ftladdftldrive,2886,Add one <b>FTL</b> drive to our order by clicking on the entry in the list.,"Добавьте один <b>ГИПЕРДВИГАТЕЛЬ</b> в наш заказ, щелкнув по записи в списке."
 CURRENT,tutorial_ftladdftlfuel,2886,<b>FTL</b> drives consume one fuel charge per jump. Add 5 <b>FTL</b> Charges to the order as well.,<b>ГИПЕРДВИГАТЕЛИ</b> расходуют одну единицу топлива за прыжок. Добавьте 5 <b>ГИПЕРТОПЛИВА</b> к заказу также.
@@ -459,12 +510,12 @@ CURRENT,keybinding_panup1,2793,Pan Up (1),Камера Вверх (1)
 CURRENT,keybinding_panup2,2793,Pan Up (2),Камера Вверх (2)
 CURRENT,keybinding_zoomin,2793,Zoom In,Приблизить
 CURRENT,keybinding_zoomout,2793,Zoom Out,Отдалить
-CURRENT,keybinding_ManoeuvreLeft,2793,Thrust Left,Тяга Влево
-CURRENT,keybinding_ManoeuvreRight,2793,Thrust Right,Тяга Вправо
-CURRENT,keybinding_ManoeuvreUp,2793,Thrust Up,Тяга Вверх
-CURRENT,keybinding_ManoeuvreDown,2793,Thrust Down,Тяга Вниз
-CURRENT,keybinding_ManoeuvreClockwise,2793,Thrust Clockwise,Вращение По Часовой
-CURRENT,keybinding_ManoeuvreCounterClockwise,2793,Thrust C-Clockwise,Вращение Против Часовой
+CURRENT,keybinding_manoeuvreleft,2793,Thrust Left,Тяга Влево
+CURRENT,keybinding_manoeuvreright,2793,Thrust Right,Тяга Вправо
+CURRENT,keybinding_manoeuvreup,2793,Thrust Up,Тяга Вверх
+CURRENT,keybinding_manoeuvredown,2793,Thrust Down,Тяга Вниз
+CURRENT,keybinding_manoeuvreclockwise,2793,Thrust Clockwise,Вращение По Часовой
+CURRENT,keybinding_manoeuvrecounterclockwise,2793,Thrust C-Clockwise,Вращение Против Часовой
 CURRENT,keybinding_toggletactical,2793,Toggle Tactical,Тактический Режим
 CURRENT,keybinding_togglemap,2793,Toggle Map,Карта Сектора
 CURRENT,keybinding_increasethrust,2793,Engines +,Увеличить Тягу
@@ -770,7 +821,7 @@ CURRENT,techtree_node_title_hydroponics1,2448,Hydroponics 1,Гидропоник
 CURRENT,techtree_node_caption_hydroponics1,2448,Improves crop yield to produce more food per cycle,Улучшает урожайность для производства большего количества еды за цикл
 CURRENT,techtree_node_title_hydroponics2,2448,Hydroponics 2,Гидропоника 2
 CURRENT,boost_harvestingyield,2448,Crop Yield +*X%,Урожайность +*X%
-CURRENT,mission_type_SectorProtect,2448,Protect (Sector),Защитить (Сектор)
+CURRENT,mission_type_sectorprotect,2448,Protect (Sector),Защитить (Сектор)
 CURRENT,mission_sectorprotect_title,2448,SECTOR OBJECTIVE: Protect ship under attack,"ЗАДАЧА СЕКТОРА: Защитить корабль, находящийся под атакой"
 CURRENT,mission_sectorprotect_description2,2448,A commercial vessel is under attack from an unknown hostile enemy. They have already taken heavy damage.,Торговое судно подвергается атаке неизвестного вражеского противника. Они уже получили тяжелые повреждения.
 CURRENT,mission_sectorprotect_accepted,2448,We've marked the location of the ship on your map. Please hurry!,"Мы отметили местоположение корабля на вашей карте. Пожалуйста, поторопитесь!"
@@ -889,11 +940,11 @@ CURRENT,samplebankeditor_addsample,2448,Add Sound,Добавить Звук
 CURRENT,samplebank,2448,(Sample Bank),(Банк Образцов)
 CURRENT,tagline,2448,THE LAST STARSHIP,THE LAST STARSHIP
 CURRENT,mainmenu_title,2448,Main Menu,Главное Меню
-CURRENT,mainmenu_newgameA,2448,New Game - Praxis,Новая Игра - Praxis
-CURRENT,mainmenu_newgameB,2448,New Game - Sleek,Новая Игра - Sleek
-CURRENT,mainmenu_newgameC,2448,New Game - Inner Shapes,Новая Игра - Inner Shapes
-CURRENT,mainmenu_newgameD,2448,New Game - Shipyard,Новая Игра - Shipyard
-CURRENT,mainmenu_newgameE,2448,New Game - Large Logistics,Новая Игра - Large Logistics
+CURRENT,mainmenu_newgamea,2448,New Game - Praxis,Новая Игра - Praxis
+CURRENT,mainmenu_newgameb,2448,New Game - Sleek,Новая Игра - Sleek
+CURRENT,mainmenu_newgamec,2448,New Game - Inner Shapes,Новая Игра - Inner Shapes
+CURRENT,mainmenu_newgamed,2448,New Game - Shipyard,Новая Игра - Shipyard
+CURRENT,mainmenu_newgamee,2448,New Game - Large Logistics,Новая Игра - Large Logistics
 CURRENT,mainmenu_savegame,2448,Save Game,Сохранить Игру
 CURRENT,mainmenu_loadgame,2448,Load Game,Загрузить Игру
 CURRENT,mainmenu_abandongame,2448,Abandon Game,Покинуть Игру
@@ -998,7 +1049,6 @@ CURRENT,newmainmenu_loadgamedev,2448,LOAD GAME (DEV),ЗАГРУЗИТЬ ИГРУ
 CURRENT,newmainmenu_createship,2448,CREATE NEW SHIP,СОЗДАТЬ НОВЫЙ КОРАБЛЬ
 CURRENT,newmainmenu_createnewsave,2448,CREATE NEW SAVE,СОЗДАТЬ НОВОЕ СОХРАНЕНИЕ
 CURRENT,newmainmenu_exportship,2448,EXPORT SHIP,ЭКСПОРТИРОВАТЬ КОРАБЛЬ
-CURRENT,newmainmenu_includedocked,2448,INCLUDE DOCKED SHIPS IN EXPORT,ВКЛЮЧИТЬ ПРИСТЫКОВАННЫЕ КОРАБЛИ В ЭКСПОРТ
 CURRENT,newmainmenu_uploadship,2448,UPLOAD TO STEAM,ЗАГРУЗИТЬ В STEAM
 CURRENT,newmainmenu_setshipname,2448,SET SHIP NAME,ЗАДАТЬ ИМЯ КОРАБЛЯ
 CURRENT,newmainmenu_importhostile,2448,IMPORT HOSTILE,ИМПОРТИРОВАТЬ ВРАЖЕСКИЙ
@@ -1189,9 +1239,6 @@ CURRENT,hud_storagecrate_tooltip_storing,2448,Storing *X,Хранение *X
 CURRENT,hud_storagecrate_tooltip_quantity,2448,Quantity: *X,Количество: *X
 CURRENT,hud_storagecrate_tooltip_capacity,2448,Capacity: *X,Вместимость: *X
 CURRENT,hud_mission_collection,2448,WARNING - MISSION COLLECTION UNDERWAY,ВНИМАНИЕ - ВЫПОЛНЯЕТСЯ СБОР ПО МИССИИ
-CURRENT,hud_layer_hostile,2448,HOSTILE,ВРАЖДЕБНЫЕ СИЛЫ
-CURRENT,hud_layer_derelict,2448,DERELICT,ЗАБРОШЕННЫЙ ОБЪЕКТ
-CURRENT,hud_layer_forsale,2448,[FOR SALE],[ПРОДАЕТСЯ]
 CURRENT,hud_layer_unnaned_system,2448,UNNAMED,БЕЗЫМЯННЫЙ
 CURRENT,hud_trade_incoming,2448,WARNING - TRADE INCOMING,ВНИМАНИЕ - ИДЕТ ТОРГОВЛЯ
 CURRENT,hud_trade_owed,2448,WARNING - TRADE OWED,ВНИМАНИЕ - ТОРГОВЫЙ ДОЛГ
@@ -1264,11 +1311,11 @@ CURRENT,shipeditor_tooltip_spawn,2448,Spawn equipment and resources inside your 
 CURRENT,shipeditor_brush_freehand,2448,FREEHAND,КИСТЬ
 CURRENT,shipeditor_brush_box,2448,BOX TOOL,КВАДРАТ
 CURRENT,shipeditor_price_button,2448,Cost,Стоимость
-CURRENT,shipeditor_stat_Mass,2448,Mass,Масса
-CURRENT,shipeditor_stat_Toughness,2448,Toughness,Прочность
-CURRENT,shipeditor_stat_Capacity,2448,Cabins,Каюты
-CURRENT,shipeditor_stat_Value,2448,Value,Стоимость
-CURRENT,shipeditor_stat_Damage,2448,Damage,Урон
+CURRENT,shipeditor_stat_mass,2448,Mass,Масса
+CURRENT,shipeditor_stat_toughness,2448,Toughness,Прочность
+CURRENT,shipeditor_stat_capacity,2448,Cabins,Каюты
+CURRENT,shipeditor_stat_value,2448,Value,Стоимость
+CURRENT,shipeditor_stat_damage,2448,Damage,Урон
 CURRENT,shipeditor_symmetry,2448,SYMMETRY,СИММЕТРИЯ
 CURRENT,shipeditor_symmetry_short,2448,S,С
 CURRENT,shipeditor_symmetry_leftclickdrag,2448,[LMB] Drag,[ЛКМ] Перетащить
@@ -1300,7 +1347,7 @@ CURRENT,powergrid_power,2448,POWER,ПИТАНИЕ
 CURRENT,powergrid_category_reactor,2448,REACTOR,РЕАКТОР
 CURRENT,powergrid_category_battery,2448,BATTERY,БАТАРЕИ
 CURRENT,powergrid_category_engines,2448,ENGINES,ДВИГАТЕЛИ
-CURRENT,powergrid_category_FTL,2448,FTL,ГИПЕРДВИГАТЕЛИ
+CURRENT,powergrid_category_ftl,2448,FTL,ГИПЕРДВИГАТЕЛИ
 CURRENT,powergrid_category_weapons,2448,WEAPONS,ОРУЖИЕ
 CURRENT,powergrid_category_defenses,2448,DEFENSES,ОБОРОНА
 CURRENT,powergrid_category_lifesupport,2448,LIFE SUPPORT,ЖИЗНЕОБЕСПЕЧЕНИЕ
@@ -1331,16 +1378,16 @@ CURRENT,trade_overlay_price,2448,PRICE,ЦЕНА
 CURRENT,trade_overlay_them,2448,THEM,ОНИ
 CURRENT,trade_overlay_you,2448,YOU,ВЫ
 CURRENT,trade_overlay_boxed,2448,[boxed],[упаковано]
-CURRENT,trade_window_Energy,2448,Energy,Энергия
-CURRENT,trade_window_Propulsion,2448,Propulsion,Движение
-CURRENT,trade_window_Habitation,2448,Habitation,Выживание
-CURRENT,trade_window_Defense,2448,Defense,Оборона
-CURRENT,trade_window_Industry,2448,Industry,Производство
-CURRENT,trade_window_Logistics,2448,Logistics,Логистика
-CURRENT,trade_window_Science,2448,Science,Наука
-CURRENT,trade_window_Resources,2448,Resources,Ресурсы
-CURRENT,trade_window_Components,2448,Components,Компоненты
-CURRENT,trade_window_Crew,2448,Crew,Экипаж
+CURRENT,trade_window_energy,2448,Energy,Энергия
+CURRENT,trade_window_propulsion,2448,Propulsion,Движение
+CURRENT,trade_window_habitation,2448,Habitation,Выживание
+CURRENT,trade_window_defense,2448,Defense,Оборона
+CURRENT,trade_window_industry,2448,Industry,Производство
+CURRENT,trade_window_logistics,2448,Logistics,Логистика
+CURRENT,trade_window_science,2448,Science,Наука
+CURRENT,trade_window_resources,2448,Resources,Ресурсы
+CURRENT,trade_window_components,2448,Components,Компоненты
+CURRENT,trade_window_crew,2448,Crew,Экипаж
 CURRENT,trade_equipment_size,2448,- Size *X x *Y,- Размер *X x *Y
 CURRENT,trade_equipment_rotatable,2448,- Rotatable,- Вращается
 CURRENT,trade_equipment_powered,2448,- Powered,- С питанием
@@ -1371,12 +1418,12 @@ CURRENT,techtree_available,2448,AVAILABLE,ДОСТУПНО
 CURRENT,techtree_unavailable,2448,REQUIREMENTS NOT MET,ТРЕБОВАНИЯ НЕ ВЫПОЛНЕНЫ
 CURRENT,techtree_in_progress,2448,RESEARCH IN PROGRESS,ИССЛЕДОВАНИЕ В ПРОЦЕССЕ
 CURRENT,techtree_busy,2448,RESEARCHERS ARE BUSY,ИССЛЕДОВАТЕЛИ ЗАНЯТЫ
-CURRENT,techtree_cost_RP,2448,Cost: *X RP,Стоимость: *X ОИ
-CURRENT,techtree_cost_CP,2448,Cost: *X CP,Стоимость: *X ОВ
-CURRENT,techtree_cost_RP+CP,2448,Cost: *X RP + *Y CP,Стоимость: *X ОИ + *Y ОВ
-CURRENT,techtree_currentResearch,2448,Currently Researching:,Сейчас Исследуется:
-CURRENT,techtree_researchPoints,2448,Research Points:,Очки Исследований:
-CURRENT,techtree_computationPoints,2448,Computation Points:,Очки Вычислений:
+CURRENT,techtree_cost_rp,2448,Cost: *X RP,Стоимость: *X ОИ
+CURRENT,techtree_cost_cp,2448,Cost: *X CP,Стоимость: *X ОВ
+CURRENT,techtree_cost_rp+cp,2448,Cost: *X RP + *Y CP,Стоимость: *X ОИ + *Y ОВ
+CURRENT,techtree_currentresearch,2448,Currently Researching:,Сейчас Исследуется:
+CURRENT,techtree_researchpoints,2448,Research Points:,Очки Исследований:
+CURRENT,techtree_computationpoints,2448,Computation Points:,Очки Вычислений:
 CURRENT,techtree_rewards,2448,Rewards:,Награды:
 CURRENT,techtree_unlocks,2448,Unlocks:,Открывает:
 CURRENT,techtree_boosts,2448,Performance Boosts:,Бонусы Производительности:
@@ -1387,24 +1434,24 @@ CURRENT,techtree_warning,2448,WARNING!,ВНИМАНИЕ!
 CURRENT,techtree_lose_progress,2448,Starting a new research project will lose all progress on the current one.,"Начало нового исследовательского проекта приведет к тому, что весь прогресс будет утерян."
 CURRENT,techtree_stargate_warning,2448,Completing Andromeda Project phases ahead of the Deep Space Industrialists storyline will bypass those episodes.,Завершение фаз Проекта Андромеда до сюжетной линии Промышленников Дальнего Космоса позволит пропустить эти эпизоды.
 CURRENT,techtree_missing_equipment,2448,This research project requires a *X to be completed,Для завершения этого исследовательского проекта требуется *X
-CURRENT,techtree_node_title_Logistics1,2448,Logistics,Логистика
-CURRENT,techtree_node_caption_Logistics1,2448,Unlocks schematics for small logistics storage,Открывает чертежи для малого логистического хранилища
-CURRENT,techtree_node_title_Logistics2,2448,Logistics Level 2,Логистика Уровень 2
-CURRENT,techtree_node_caption_Logistics2,2448,Unlocks schematics for Medium sized storage,Открывает чертежи для среднего хранилища
-CURRENT,techtree_node_title_Logistics3,2448,Logistics Level 3,Логистика Уровень 3
-CURRENT,techtree_node_caption_Logistics3,2448,Unlocks schematics for Large logistics storage,Открывает чертежи для большого логистического хранилища
-CURRENT,techtree_node_title_Automation,2448,Automation,Автоматизация
-CURRENT,techtree_node_caption_Automation,2448,Unlocks schematics for Tracks and Robot Arms,Открывает чертежи для Конвейеров и Рук Робота
-CURRENT,techtree_node_title_CompactAutomation,2448,Compact Robot Arms,Компактные Руки Робота
-CURRENT,techtree_node_caption_CompactAutomation,2448,Unlocks schematic for Short Robot Arm,Открывает чертеж для Короткой Руки Робота
-CURRENT,techtree_node_title_SmartAutomation,2448,Smart Robot Arms,Умные Руки Робота
-CURRENT,techtree_node_caption_SmartAutomation,2448,Unlocks schematic for Smart Robot Arm,Открывает чертеж для Умной Руки Робота
-CURRENT,techtree_node_title_Metallurgy1,2448,Metallurgy Level 1,Металлургия Уровень 1
-CURRENT,techtree_node_caption_Metallurgy1,2448,Smelters produce 50% more output,Плавильные Печи производят на 50% больше продукции
-CURRENT,techtree_node_title_Metallurgy2,2448,Metallurgy Level 2,Металлургия Уровень 2
-CURRENT,techtree_node_caption_Metallurgy2,2448,Smelters produce 100% more output,Плавильные Печи производят на 100% больше продукции
-CURRENT,techtree_node_title_EnergyTransmission,2448,Energy Transmission,Передача Энергии
-CURRENT,techtree_node_caption_EnergyTransmission,2448,Unlocks schematic for Energy Transmitter and Receiver,Открывает чертеж для Передатчика Энергии и Приемника
+CURRENT,techtree_node_title_logistics1,2448,Logistics,Логистика
+CURRENT,techtree_node_caption_logistics1,2448,Unlocks schematics for small logistics storage,Открывает чертежи для малого логистического хранилища
+CURRENT,techtree_node_title_logistics2,2448,Logistics Level 2,Логистика Уровень 2
+CURRENT,techtree_node_caption_logistics2,2448,Unlocks schematics for Medium sized storage,Открывает чертежи для среднего хранилища
+CURRENT,techtree_node_title_logistics3,2448,Logistics Level 3,Логистика Уровень 3
+CURRENT,techtree_node_caption_logistics3,2448,Unlocks schematics for Large logistics storage,Открывает чертежи для большого логистического хранилища
+CURRENT,techtree_node_title_automation,2448,Automation,Автоматизация
+CURRENT,techtree_node_caption_automation,2448,Unlocks schematics for Tracks and Robot Arms,Открывает чертежи для Конвейеров и Рук Робота
+CURRENT,techtree_node_title_compactautomation,2448,Compact Robot Arms,Компактные Руки Робота
+CURRENT,techtree_node_caption_compactautomation,2448,Unlocks schematic for Short Robot Arm,Открывает чертеж для Короткой Руки Робота
+CURRENT,techtree_node_title_smartautomation,2448,Smart Robot Arms,Умные Руки Робота
+CURRENT,techtree_node_caption_smartautomation,2448,Unlocks schematic for Smart Robot Arm,Открывает чертеж для Умной Руки Робота
+CURRENT,techtree_node_title_metallurgy1,2448,Metallurgy Level 1,Металлургия Уровень 1
+CURRENT,techtree_node_caption_metallurgy1,2448,Smelters produce 50% more output,Плавильные Печи производят на 50% больше продукции
+CURRENT,techtree_node_title_metallurgy2,2448,Metallurgy Level 2,Металлургия Уровень 2
+CURRENT,techtree_node_caption_metallurgy2,2448,Smelters produce 100% more output,Плавильные Печи производят на 100% больше продукции
+CURRENT,techtree_node_title_energytransmission,2448,Energy Transmission,Передача Энергии
+CURRENT,techtree_node_caption_energytransmission,2448,Unlocks schematic for Energy Transmitter and Receiver,Открывает чертеж для Передатчика Энергии и Приемника
 CURRENT,techtree_node_title_droneintelligence,2448,Drone Intelligence,Интеллект Дронов
 CURRENT,techtree_node_caption_droneintelligence,2448,"Upgrades drones so they collect minerals in batches, greatly speeding up the process","Улучшает дронов, чтобы они собирали минералы пачками, значительно ускоряя процесс"
 CURRENT,techtree_node_title_dronespeed1,2448,Drone Speed 1,Скорость Дронов 1
@@ -1436,10 +1483,10 @@ CURRENT,techtree_node_caption_recycling1,2448,Improves all life-support recyclin
 CURRENT,techtree_node_title_recycling2,2448,Recycling Efficiency 2,Эффективность Переработки 2
 CURRENT,techtree_node_caption_recycling2,2448,Brings all life-support recycling up to 100% efficiency,Доводит всю переработку систем жизнеобеспечения до 100% эффективности
 CURRENT,boost_reactorefficiency,2448,Reactor Efficiency +*X%,Эффективность Реактора +*X%
-CURRENT,boost_SmelterEfficiency,2448,Smelter Efficiency +*X%,Эффективность Плавильной Печи +*X%
-CURRENT,boost_DroneSpeed,2448,Drone Top Speed +*X%,Максимальная Скорость Дронов +*X%
-CURRENT,boost_TrackSpeed,2448,Track Speed +*X%,Скорость Конвейера +*X%
-CURRENT,boost_RobotArmSpeed,2448,Robot Arm Speed +*X%,Скорость Руки Робота +*X%
+CURRENT,boost_smelterefficiency,2448,Smelter Efficiency +*X%,Эффективность Плавильной Печи +*X%
+CURRENT,boost_dronespeed,2448,Drone Top Speed +*X%,Максимальная Скорость Дронов +*X%
+CURRENT,boost_trackspeed,2448,Track Speed +*X%,Скорость Конвейера +*X%
+CURRENT,boost_robotarmspeed,2448,Robot Arm Speed +*X%,Скорость Руки Робота +*X%
 CURRENT,boost_wasterecyclingefficiency,2448,Waste Recycling Efficiency +*X%,Эффективность Переработки Отходов +*X%
 CURRENT,boost_waterrecyclingefficiency,2448,Water Recycling Efficiency +*X%,Эффективность Переработки Воды +*X%
 CURRENT,boost_airrecyclingefficiency,2448,Air Recycling Efficiency +*X%,Эффективность Переработки Воздуха +*X%
@@ -1650,7 +1697,7 @@ CURRENT,mission_production_available,2448,You have *X stacks of R*Y available fo
 CURRENT,mission_production_received,2448,We have received *X stacks of R*Y out of a total of *Z.,Мы получили *X стопок R*Y из общего количества *Z.
 CURRENT,mission_production_nomore,2448,There is no more R*X available within your fleet.,В вашем флоте больше нет доступных R*X.
 CURRENT,mission_production_success,2448,Provided *X/*Y items,Предоставлено *X/*Y предметов
-CURRENT,mission_type_SectorDestroy,2448,Destroy Hostile Forces,Уничтожить Вражеские Силы
+CURRENT,mission_type_sectordestroy,2448,Destroy Hostile Forces,Уничтожить Вражеские Силы
 CURRENT,mission_sectordestroy_title,2448,SECTOR OBJECTIVE: Destroy all hostile forces,ЗАДАЧА СЕКТОРА: Уничтожить все вражеские силы
 CURRENT,mission_sectordestroy_progress,2448,Cleared *X out of *Y systems,Очищено *X из *Y систем
 CURRENT,mission_sectordestroy_desc1,2448,Hostile forces have taken up residence within this sector. They are hindering our evacuation efforts and stealing vital resources.,Вражеские силы обосновались в этом секторе. Они мешают нашей эвакуации и крадут жизненно важные ресурсы.
@@ -1659,7 +1706,7 @@ CURRENT,mission_sectordestroy_desc3,2448,Terminate any enemy vessels you find at
 CURRENT,mission_sectordestroy_payment,2448,"A payment of $*X will be made after each location is cleared, for a total of $*Y.","Оплата в размере $*X будет произведена после очистки каждой локации, на общую сумму $*Y."
 CURRENT,mission_sectordestroy_map,2448,Destroy hostiles [*X/*Y],Уничтожить врагов [*X/*Y]
 CURRENT,mission_sectordestory_success,2448,HOSTILES ELIMINATED,ВРАГИ УСТРАНЕНЫ
-CURRENT,mission_type_SectorRescue,2448,Rescue (Sector),Спасти (Сектор)
+CURRENT,mission_type_sectorrescue,2448,Rescue (Sector),Спасти (Сектор)
 CURRENT,mission_sectorrescue_title,2448,SECTOR OBJECTIVE: Rescue civilians from wrecked ship,ЗАДАЧА СЕКТОРА: Спасти гражданских с разбитого корабля
 CURRENT,mission_sectorrescue_thrusters,2448,NB. YOU WILL NEED AT LEAST FOUR THRUSTERS TO MANOEUVRE INTO POSITION.,ПРИМЕЧАНИЕ. ВАМ ПОНАДОБИТСЯ КАК МИНИМУМ ЧЕТЫРЕ МАНЕВРОВЫХ ДВИГАТЕЛЯ ДЛЯ МАНЕВРИРОВАНИЯ В ПОЗИЦИЮ.
 CURRENT,mission_sectorrescue_timed,2448,The ship engines will explode very soon. (+25% pay).,Двигатели корабля скоро взорвутся. (+25% оплата).
@@ -2226,8 +2273,8 @@ CURRENT,wolf_shipname_wolf1,2448,Interstellar Prospector,Interstellar Prospector
 CURRENT,wolf_shipname_wolf2,2448,Infinite Horizon,Infinite Horizon
 CURRENT,wolf_shipname_wolf3,2448,Celestial Hauler,Celestial Hauler
 CURRENT,wolf_shipname_scavenger,2448,Scavenger Wraith,Scavenger Wraith
-CURRENT,object_FlightRecorder,2448,Flight Recorder,Бортовой Самописец
-CURRENT,object_ShipWreckage,2448,Ship Wreckage,Обломки Корабля
+CURRENT,object_flightrecorder,2448,Flight Recorder,Бортовой Самописец
+CURRENT,object_shipwreckage,2448,Ship Wreckage,Обломки Корабля
 CURRENT,wolf_part1_scavenger1,2448,"Got my hands on something you might be looking for.  A recording of the screams and static from the ship's final moments.  You want it, I know it.  Scavengers rights says it's mine.","Заполучил кое-что, что вы, возможно, ищете.  Запись криков и помех из последних моментов корабля.  Вы хотите её, я знаю это.  Право мусорщика говорит, что она моя."
 CURRENT,wolf_part1_scavenger2,2448,"Luckily for you, you can have your precious data, so long as I get my finders fee.  It'll cost you $*X for the secrets.  Cross me and it will be the last mistake you make.","К счастью для вас, вы можете получить свои драгоценные данные, пока я получу свою плату за находку.  Это будет стоить вам $*X за секреты.  Обманите меня, и это будет последняя ошибка, которую вы совершите."
 CURRENT,wolf_part1_scavenger3,2448,Funds received. Pleasure doing business.,Средства получены. Приятно иметь дело.
@@ -2337,7 +2384,7 @@ CURRENT,blackhole_part3_objective_dock,2448,Dock with the ship,Пристыку�
 CURRENT,blackhole_part3_objective_rescue,2448,Rescue Dr. Marcus Martinez,Спасите Доктора Маркуса Мартинеса
 CURRENT,blackhole_part3_objective_jumpout,2448,Jump away from the black hole,Прыгните прочь от черной дыры
 CURRENT,blackhole_part3_objective_stargate,2448,Recover the Stargate data,Восстановите данные Звездных Врат
-CURRENT,blackhole_part3_objective_stargateX,2448,Recover the Stargate data [*X%],Восстановите данные Звездных Врат [*X%]
+CURRENT,blackhole_part3_objective_stargatex,2448,Recover the Stargate data [*X%],Восстановите данные Звездных Врат [*X%]
 CURRENT,blackhole_part3_action_control,2448,Control Julian's ship,Управлять кораблем Джулиана
 CURRENT,blackhole_part3_stargate2,2448,Losing that data will set the Stargate project back years.,Потеря этих данных отбросит проект Звездные Врата на годы назад.
 CURRENT,blackhole_part3_marcus1,2448,I was beginning to think you wouldn't be coming!  I've been down here for hours!,"Я уже начал думать, что вы не придете!  Я здесь уже несколько часов!"
@@ -2671,7 +2718,7 @@ CURRENT,dsi_part1_stationname,2448,A.J.E Foundry,A.J.E Foundry
 CURRENT,dsi_part1_title,2448,Deep Space Industrialists,Промышленники Дальнего Космоса
 CURRENT,dsi_part1_advert1,2448,"My name is Alexander James Elistar, and I'm the chairman and founder of A.J.E Industries.  I have a business proposition for you.  If you would be interested in setting up a production facility for me, I believe with some luck and a good deal of hard work we can both make substantial returns.","Меня зовут Александр Джеймс Элистар, и я председатель и основатель A.J.E Industries.  У меня есть деловое предложение для вас.  Если вы будете заинтересованы в создании производственного объекта для меня, я верю, что с некоторой удачей и хорошей работой мы оба сможем получить существенную прибыль."
 CURRENT,dsi_part1_advert2,2448,Please give me a call to discuss the details.,"Пожалуйста, позвоните мне, чтобы обсудить детали."
-CURRENT,dsi_part1_action_callX,2448,Call X,Позвонить X
+CURRENT,dsi_part1_action_callx,2448,Call X,Позвонить X
 CURRENT,dsi_part1_call1,2448,"Captain.  Perhaps you are already aware, but there are big plans underway within this sector.  There are designs to build something... incredible, a transportation system with near infinite range, requiring state of the art manufacturing and industry.","Капитан.  Возможно, вы уже знаете, но в этом секторе разрабатываются большие планы.  Есть проекты построить нечто... невероятное, транспортную систему с практически бесконечной дальностью, требующую современнейшего производства и промышленности."
 CURRENT,dsi_part1_call2,2448,"A stargate, big enough for our most massive fleets, shuttling humanity between galaxies as if they were nothing but neighbouring stars.  A new multi-galactic era for humanity.","Звездные Врата, достаточно большие для наших самых массивных флотов, перемещающие человечество между галактиками, как будто они не более чем соседние звезды.  Новая мультигалактическая эра для человечества."
 CURRENT,dsi_part1_call3,2448,In all my years I've never known so much capital to be allocated to one project.,"За все мои годы я никогда не видел, чтобы столько капитала выделялось на один проект."
@@ -2787,6 +2834,7 @@ CURRENT,dsi_part2_scene_z4,2448,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2448,THERE WILL BE NO FURTHER WARNING.,БОЛЬШЕ ПРЕДУПРЕЖДЕНИЙ НЕ БУДЕТ.
 CURRENT,dsi_part2_scene_y7,2448,You've left me no choice.,Ты не оставил мне выбора.
 CURRENT,dsi_part2_scene_y8,2448,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Я приду за тобой, Александр, и на этот раз я не прошу 10%. Я хочу все."
+OBSOLETE,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,"Их внешняя изношенность заставляет нас предположить, что они находятся здесь уже не менее века. Наверное, этот сектор был одной из первых попыток человечества колонизировать космическое пространство."
 OBSOLETE,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.","Включает функции, помогающие переводчикам, например Alt для раскрытия английского языка и Ctrl для раскрытия ключа фразы."
 OBSOLETE,shipeditor_tooltip_eyedropper,2793,"Lets you select a paint from the exterior of your ship (can also be used by pressing the ""Shift"" key)","Позволяет выбрать краску с внешней стороны вашего корабля (также можно использовать, зажав клавишу ""Shift"")"
 OBSOLETE,settings_exitsaves_tooltip,2675,"When enabled, the current game will be saved when abandoned or when the game is quit in a file called exitsave.\n\nCAUTION: This file will be overwritten on every exit.","Если эта функция включена, то текущая игра будет сохраняться при выходе из нее или при завершении игры в файл под названием exitsave.\n\n ВНИМАНИЕ: Этот файл будет перезаписываться при каждом выходе."
@@ -2841,8 +2889,6 @@ OBSOLETE,tutorial_airpipetoairduct,2448,"Drag a PIPE from the OXYGEN LOADER to t
 OBSOLETE,tutorial_airdone,2448,The AIRDUCT is activated and is pressurising the cabin! The atmosphere will soon be breathable.,ВОЗДУХОВОД активирован и нагнетает давление в салон! Скоро атмосфера станет пригодной для дыхания.
 OBSOLETE,tutorial_enginesinformation,2448,Engines require both POWER and FUEL to operate. We must connect both engines to fuel and power.,Для работы Двигателей необходимы ПИТАНИЕ и ТОПЛИВО. Мы должны подключить оба Двигателя к Топливу и питанию.
 OBSOLETE,tutorial_enginesconnectpower,2448,"Now use the CABLES menu to power up the engine, by connecting it to your existing red power lines.","Теперь используйте меню КАБЕЛИ, чтобы запитать Двигатель, подключив его к существующим красным линиям питания."
-OBSOLETE,tutorial_ftlintro,2448,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,"Мы не сможем доставить этих пассажиров к месту назначения без использования ускорителей света. К сожалению, этот корабль не оснащен собственным Сверхсветовым приводом.\n\n Нам придется купить его и установить."
-OBSOLETE,tutorial_ftltradescreen,2448,Open the trade screen to purchase an FTL drive.,"Откройте торговый экран, чтобы купить Сверхсветовой привод."
 OBSOLETE,tutorial_ftlselectpropulsion,2448,The items we need are listed under PROPULSION. Select that category.,Нужные нам предметы перечислены в разделе PROPULSION. Выберите эту категорию.
 OBSOLETE,tutorial_ftladdftldrive,2448,Add one FTL drive to our order by clicking on the entry in the list.,"Добавьте один Сверхсветовой привод к нашему заказу, нажав на запись в списке."
 OBSOLETE,tutorial_ftladdftlfuel,2448,FTL drives consume one fuel charge per jump. Add 5 FTL Charges to the order as well.,Сверхсветовые приводы расходуют один заряд Топлива на один прыжок. Добавьте к заказу также 5 Сверхсветовых зарядов.
