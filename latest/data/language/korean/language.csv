@@ -1,6 +1,61 @@
 ﻿state,key,svn,english,translation
-UPDATED,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,외관이 마모된 것으로 보아 적어도 한 세기 이상 이곳에 있었을 것으로 추정됩니다. 이 구역은 인류가 우주를 식민지화하려는 최초의 시도 중 하나였을 것입니다.
-PREVIOUS,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,외관이 마모된 것으로 보아 적어도 한 세기 이상 이곳에 있었던 것으로 추정됩니다. 이 구역은 인류 최초의 우주 식민지 개척 시도 중 하나였을 것입니다.
+NEW,settings_credits,3149,CREDITS,크레딧
+NEW,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,활성화하면 게임이 Steam 클라우드에 저장됩니다. 저장에 실패하면 경고가 표시됩니다.
+NEW,newmainmenu_saveoptions,3149,Save Options,저장 옵션
+NEW,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] 바닥재 스타일 전환
+NEW,hud_tooltip_currentflooring,3149,Current style: *X,현재 스타일: *X
+NEW,hud_tooltip_gratedflooring,3149,Grated,강판
+NEW,hud_tooltip_normalflooring,3149,Normal,보통
+NEW,hud_hull_integrity,3149,HULL,HULL
+NEW,hud_power_battery,3149,BATTERY,배터리
+NEW,hud_power_powershortage,3149,POWER SHORTAGE,전력 부족
+NEW,hud_idlecrew,3149,Idle Crew,유휴 승무원
+NEW,hud_consumingperhour,3149,Consuming *X per hour,시간당 *X 사용량
+NEW,hud_dehydrationperperson,3149,Dehydration *X per person,탈수 *X 1인당
+NEW,hud_hungerperperson,3149,Hunger *X per person,기아 *X 1인당
+NEW,hud_byauthor,3149,BY *X,BY *X
+NEW,communicator_newobjective,3149,NEW OBJECTIVE,새로운 목표
+NEW,galaxymap_stargate,3149,STARGATE,스타게이트
+NEW,trade_canceltrade,3149,CANCEL TRADE AND REFUND,거래 취소 및 환불
+NEW,trade_refundvalue,3149,REFUND VALUE,환불 가치
+NEW,trade_cancellationcost,3149,CANCELLATION COST,취소 비용
+NEW,trade_partiallyfilled,3149,PARTIALLY FILLED,부분적으로 채워짐
+NEW,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,불완전한 구성 요소
+NEW,trade_removeincomplete,3149,REMOVE INCOMPLETE,불완전한 제거
+NEW,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,부분적으로 채워진 부분 제거
+NEW,trade_order_normal,3149,(*X),(*X)
+NEW,trade_order_buy_on_sell_screen,3149,(BUY *X),(구매 *X)
+NEW,trade_order_sell_on_buy_screen,3149,(SELL *X),(판매 *X)
+NEW,trade_order_sack_on_buy_screen,3149,(SACK *X),(SACK *X)
+NEW,techtree_researchpercent,3149,*X% Complete,*X% 완료
+NEW,tooltip_efficiency,3149,Efficiency +*X%,효율성 +*X%
+NEW,tooltip_activating,3149,Activating +*X%,활성화 +*X%
+NEW,alert_type_lowdeuterium,3149,LOW DEUTERIUM,저 중수소
+NEW,stargate_unknowncomponent,3149,Unknown Component,알 수 없는 구성 요소
+NEW,stargate_unknowncomponent_description,3149,Unlock this component through research!,연구를 통해 이 구성 요소를 잠금 해제하세요!
+NEW,creditstitle_builders,3149,Ship Builders,선박 제조업체
+NEW,creditstitle_testers,3149,Early Play Testing,초기 플레이 테스트
+NEW,creditstitle_translators,3149,Translation,번역
+NEW,engine_thrust,3149,THRUST *X%,THRUST *X%
+UPDATED,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + RMB] 스플리터로 변환하기
+PREVIOUS,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] 스플리터로 변환
+UPDATED,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + RMB] 트랙으로 변환
+PREVIOUS,hud_convertsplittertotrack,3054,[RMB] Convert to track,[RMB] 트랙으로 변환하기
+UPDATED,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,승객을 목적지까지 데려다줄 수 있는 FTL(Faster-Than-Light)이 없으면 승객을 목적지까지 운송할 수 없습니다. 안타깝게도 이 배에는 자체 <b>FTL 드라이브가</b> 장착되어 있지 않습니다.\n\n하나를 구입하여 설치해야 합니다.
+PREVIOUS,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,승객을 목적지까지 데려다줄 수 있는 FTL(Faster-Than-Light)이 없으면 승객을 목적지까지 운송할 수 없습니다. 안타깝게도 이 선박에는 자체 <b>FTL</b> 드라이브가 장착되어 있지 않습니다.\n\n하나를 구입하여 설치해야 합니다.
+PREVIOUS,tutorial_ftlintro,2448,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,광속 항법(FTL) 없이는 해당 승객들을 목적지까지 데려다줄 수 없습니다. 불행히도 이 함선에는 자체 FTL 드라이브가 장착되어 있지 않습니다.\n\n우리는 이를 구매해서 설치해야 합니다.
+UPDATED,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,거래 화면을 열어 <b>FTL 드라이브와</b> 일부 <b>FTL 충전을</b> 구매합니다.
+PREVIOUS,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,FTL 드라이브를 구매하려면 거래 화면을 엽니다.
+PREVIOUS,tutorial_ftltradescreen,2448,Open the trade screen to purchase an FTL drive.,무역 화면을 열어 FTL 드라이브를 구매하세요.
+UPDATED,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,정박 중인 선박 포함
+PREVIOUS,newmainmenu_includedocked,2448,INCLUDE DOCKED SHIPS IN EXPORT,도킹된 함선 포함하여 내보내기  
+UPDATED,hud_layer_hostile,3149,HOSTILE *X,HOSTILE *X
+PREVIOUS,hud_layer_hostile,2448,HOSTILE,적대  
+UPDATED,hud_layer_derelict,3149,DERELICT *X,DERELICT *X
+PREVIOUS,hud_layer_derelict,2448,DERELICT,폐허  
+UPDATED,hud_layer_forsale,3149,[FOR SALE] *X,[판매용] *X
+PREVIOUS,hud_layer_forsale,2448,[FOR SALE],[판매 중]  
+CURRENT,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,외관이 마모된 것으로 보아 적어도 한 세기 이상 이곳에 있었을 것으로 추정됩니다. 이 구역은 인류가 우주를 식민지화하려는 최초의 시도 중 하나였을 것입니다.
 CURRENT,mainmenu_gamemode_arena,3054,Arena,아레나
 CURRENT,mainmenu_gamemode_arena_tooltip,3054,Create epic space battles between fleets of ships and watch the carnage unfold.,함대 간의 장대한 우주 전투를 만들고 대학살이 펼쳐지는 모습을 지켜보세요.
 CURRENT,mainmenu_arena_caption,3054,Create epic space battles between fleets of ships and watch the carnage unfold.,함대 간의 장대한 우주 전투를 만들고 대학살이 펼쳐지는 모습을 지켜보세요.
@@ -19,8 +74,6 @@ CURRENT,newmainmenu_multisectorsim,3054,Multi-System Simulation,멀티 시스템
 CURRENT,newmainmenu_multisectorsimtooltip,3054,"Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.",다중 시스템 시뮬레이션을 지원하여 여러 시스템/섹터에 동시에 함대를 분할할 수 있습니다.
 CURRENT,hud_shipmaximumoccupancy,3054,Ship Maximum Occupancy: *X/*Y,선박 최대 탑승 인원: *X/*Y
 CURRENT,hud_surveyinprogress,3054,WARNING - SURVEY WILL BE CANCELLED,경고 - 설문 조사가 취소됩니다
-CURRENT,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] 스플리터로 변환
-CURRENT,hud_convertsplittertotrack,3054,[RMB] Convert to track,[RMB] 트랙으로 변환하기
 CURRENT,shipeditor_tooltip_painthull,3054,Toggle painting the exterior panels of the hull of your ship,함선 선체 외부 패널 페인팅 토글하기
 CURRENT,shipeditor_tooltip_painthabitation,3054,Toggle painting the exterior panels of the habitation quarters of your ship,우주선 거주 구역의 외부 패널 도색 토글하기
 CURRENT,shipeditor_tooltip_paintscaffold,3054,Toggle painting the scaffolding on your ship,선박의 비계 페인팅 토글
@@ -326,8 +379,6 @@ CURRENT,tutorial_airpipetoairduct,2886,"Drag a <b>PIPE</b> from the <b>OXYGEN LO
 CURRENT,tutorial_airdone,2886,The <b>AIRDUCT</b> is activated and is pressurising the cabin! The atmosphere will soon be breathable.,에어덕트가 활성화되어 기내에 압력을 가하고 있습니다! 곧 대기가 숨 쉴 수 있게 될 것입니다.
 CURRENT,tutorial_enginesinformation,2886,Engines require both <b>POWER</b> and <b>FUEL</b> to operate. We must connect both engines to fuel and power.,엔진이 작동하려면 <b>전원</b>과 <b>연료</b>가 모두 필요합니다. 두 엔진을 모두 연료와 동력에 연결해야 합니다.
 CURRENT,tutorial_enginesconnectpower,2886,"Now use the <b>CABLES</b> menu to power up the engine, by connecting it to your existing red power lines.",이제 <b>케이블</b> 메뉴를 사용하여 기존의 빨간색 전원선에 연결하여 엔진에 전원을 공급합니다.
-CURRENT,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,승객을 목적지까지 데려다줄 수 있는 FTL(Faster-Than-Light)이 없으면 승객을 목적지까지 운송할 수 없습니다. 안타깝게도 이 선박에는 자체 <b>FTL</b> 드라이브가 장착되어 있지 않습니다.\n\n하나를 구입하여 설치해야 합니다.
-CURRENT,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,FTL 드라이브를 구매하려면 거래 화면을 엽니다.
 CURRENT,tutorial_ftlselectpropulsion,2886,The items we need are listed under <b>PROPULSION</b>. Select that category.,필요한 항목은 <b>인기도</b> 아래에 나열되어 있습니다. 해당 카테고리를 선택합니다.
 CURRENT,tutorial_ftladdftldrive,2886,Add one <b>FTL</b> drive to our order by clicking on the entry in the list.,목록에서 항목을 클릭하여 주문에 <b>FTL</b> 드라이브 하나를 추가합니다.
 CURRENT,tutorial_ftladdftlfuel,2886,<b>FTL</b> drives consume one fuel charge per jump. Add 5 <b>FTL</b> Charges to the order as well.,<b>FTL</b> 드라이브는 점프할 때마다 한 번의 연료 충전을 소모합니다. 주문에 <b>FTL</b> 충전 5회도 추가합니다.
@@ -546,11 +597,11 @@ CURRENT,samplebankeditor_addsample,2448,Add Sound,사운드 추가
 CURRENT,samplebank,2448,(Sample Bank),(샘플 뱅크)  
 CURRENT,tagline,2448,THE LAST STARSHIP,THE LAST STARSHIP
 CURRENT,mainmenu_title,2448,Main Menu,메인 메뉴  
-CURRENT,mainmenu_newgameA,2448,New Game - Praxis,새 게임 - 프락시스  
-CURRENT,mainmenu_newgameB,2448,New Game - Sleek,새 게임 - 슬릭  
-CURRENT,mainmenu_newgameC,2448,New Game - Inner Shapes,새 게임 - 이너 쉐이프  
-CURRENT,mainmenu_newgameD,2448,New Game - Shipyard,새 게임 - 조선소  
-CURRENT,mainmenu_newgameE,2448,New Game - Large Logistics,새 게임 - 대형 물류  
+CURRENT,mainmenu_newgamea,2448,New Game - Praxis,새 게임 - 프락시스  
+CURRENT,mainmenu_newgameb,2448,New Game - Sleek,새 게임 - 슬릭  
+CURRENT,mainmenu_newgamec,2448,New Game - Inner Shapes,새 게임 - 이너 쉐이프  
+CURRENT,mainmenu_newgamed,2448,New Game - Shipyard,새 게임 - 조선소  
+CURRENT,mainmenu_newgamee,2448,New Game - Large Logistics,새 게임 - 대형 물류  
 CURRENT,mainmenu_savegame,2448,Save Game,게임 저장  
 CURRENT,mainmenu_loadgame,2448,Load Game,게임 불러오기  
 CURRENT,mainmenu_abandongame,2448,Abandon Game,게임 포기  
@@ -648,7 +699,6 @@ CURRENT,newmainmenu_loadgamedev,2448,LOAD GAME (DEV),게임 불러오기 (개발
 CURRENT,newmainmenu_createship,2448,CREATE NEW SHIP,새 함선 생성  
 CURRENT,newmainmenu_createnewsave,2448,CREATE NEW SAVE,새 저장 생성  
 CURRENT,newmainmenu_exportship,2448,EXPORT SHIP,함선 내보내기  
-CURRENT,newmainmenu_includedocked,2448,INCLUDE DOCKED SHIPS IN EXPORT,도킹된 함선 포함하여 내보내기  
 CURRENT,newmainmenu_uploadship,2448,UPLOAD TO STEAM,스팀에 업로드  
 CURRENT,newmainmenu_setshipname,2448,SET SHIP NAME,함선 이름 설정  
 CURRENT,newmainmenu_importhostile,2448,IMPORT HOSTILE,적대 함선 가져오기  
@@ -815,9 +865,6 @@ CURRENT,hud_storagecrate_tooltip_storing,2448,Storing *X,저장 중: *X
 CURRENT,hud_storagecrate_tooltip_quantity,2448,Quantity: *X,수량: *X  
 CURRENT,hud_storagecrate_tooltip_capacity,2448,Capacity: *X,용량: *X  
 CURRENT,hud_mission_collection,2448,WARNING - MISSION COLLECTION UNDERWAY,경고 - 임무 수집 중  
-CURRENT,hud_layer_hostile,2448,HOSTILE,적대  
-CURRENT,hud_layer_derelict,2448,DERELICT,폐허  
-CURRENT,hud_layer_forsale,2448,[FOR SALE],[판매 중]  
 CURRENT,hud_layer_unnaned_system,2448,UNNAMED,이름 없음  
 CURRENT,hud_trade_incoming,2448,WARNING - TRADE INCOMING,경고 - 무역 입항 중  
 CURRENT,hud_trade_owed,2448,WARNING - TRADE OWED,경고 - 무역 미지급  
@@ -890,10 +937,10 @@ CURRENT,shipeditor_tooltip_spawn,2448,Spawn equipment and resources inside your 
 CURRENT,shipeditor_brush_freehand,2448,FREEHAND,자유형  
 CURRENT,shipeditor_brush_box,2448,BOX TOOL,박스 도구  
 CURRENT,shipeditor_price_button,2448,Cost,비용  
-CURRENT,shipeditor_stat_Mass,2448,Mass,무게  
-CURRENT,shipeditor_stat_Toughness,2448,Toughness,내구도  
-CURRENT,shipeditor_stat_Value,2448,Value,가치  
-CURRENT,shipeditor_stat_Damage,2448,Damage,손상  
+CURRENT,shipeditor_stat_mass,2448,Mass,무게  
+CURRENT,shipeditor_stat_toughness,2448,Toughness,내구도  
+CURRENT,shipeditor_stat_value,2448,Value,가치  
+CURRENT,shipeditor_stat_damage,2448,Damage,손상  
 CURRENT,shipeditor_symmetry,2448,SYMMETRY,대칭  
 CURRENT,shipeditor_symmetry_short,2448,S,S  
 CURRENT,shipeditor_symmetry_leftclickdrag,2448,[LMB] Drag,[좌클릭] 드래그  
@@ -925,7 +972,7 @@ CURRENT,powergrid_power,2448,POWER,전력
 CURRENT,powergrid_category_reactor,2448,REACTOR,원자로  
 CURRENT,powergrid_category_battery,2448,BATTERY,배터리  
 CURRENT,powergrid_category_engines,2448,ENGINES,엔진  
-CURRENT,powergrid_category_FTL,2448,FTL,FTL  
+CURRENT,powergrid_category_ftl,2448,FTL,FTL  
 CURRENT,powergrid_category_weapons,2448,WEAPONS,무기  
 CURRENT,powergrid_category_defenses,2448,DEFENSES,방어  
 CURRENT,powergrid_category_lifesupport,2448,LIFE SUPPORT,생명 유지  
@@ -956,16 +1003,16 @@ CURRENT,trade_overlay_price,2448,PRICE,가격
 CURRENT,trade_overlay_them,2448,THEM,그들  
 CURRENT,trade_overlay_you,2448,YOU,당신  
 CURRENT,trade_overlay_boxed,2448,[boxed],[박스 포장]  
-CURRENT,trade_window_Energy,2448,Energy,에너지  
-CURRENT,trade_window_Propulsion,2448,Propulsion,추진  
-CURRENT,trade_window_Habitation,2448,Habitation,거주  
-CURRENT,trade_window_Defense,2448,Defense,방어  
-CURRENT,trade_window_Industry,2448,Industry,산업  
-CURRENT,trade_window_Logistics,2448,Logistics,물류  
-CURRENT,trade_window_Science,2448,Science,과학
-CURRENT,trade_window_Resources,2448,Resources,자원  
-CURRENT,trade_window_Components,2448,Components,부품  
-CURRENT,trade_window_Crew,2448,Crew,승무원  
+CURRENT,trade_window_energy,2448,Energy,에너지  
+CURRENT,trade_window_propulsion,2448,Propulsion,추진  
+CURRENT,trade_window_habitation,2448,Habitation,거주  
+CURRENT,trade_window_defense,2448,Defense,방어  
+CURRENT,trade_window_industry,2448,Industry,산업  
+CURRENT,trade_window_logistics,2448,Logistics,물류  
+CURRENT,trade_window_science,2448,Science,과학
+CURRENT,trade_window_resources,2448,Resources,자원  
+CURRENT,trade_window_components,2448,Components,부품  
+CURRENT,trade_window_crew,2448,Crew,승무원  
 CURRENT,trade_equipment_charge,2448,- Charge (per use) : *X MW,- 사용당 충전량: *X MW  
 CURRENT,trade_stack,2448,Stack of *X,*X 묶음  
 CURRENT,trade_boxed,2448,Boxed,박스 포장  
@@ -990,12 +1037,12 @@ CURRENT,techtree_available,2448,AVAILABLE,사용 가능
 CURRENT,techtree_unavailable,2448,REQUIREMENTS NOT MET,요구 조건 불충족  
 CURRENT,techtree_in_progress,2448,RESEARCH IN PROGRESS,연구 진행 중  
 CURRENT,techtree_busy,2448,RESEARCHERS ARE BUSY,연구원들이 바쁨  
-CURRENT,techtree_cost_RP,2448,Cost: *X RP,비용: *X RP  
-CURRENT,techtree_cost_CP,2448,Cost: *X CP,비용: *X CP  
-CURRENT,techtree_cost_RP+CP,2448,Cost: *X RP + *Y CP,비용: *X RP + *Y CP  
-CURRENT,techtree_currentResearch,2448,Currently Researching:,현재 연구 중:  
-CURRENT,techtree_researchPoints,2448,Research Points:,연구 포인트:  
-CURRENT,techtree_computationPoints,2448,Computation Points:,계산 포인트:  
+CURRENT,techtree_cost_rp,2448,Cost: *X RP,비용: *X RP  
+CURRENT,techtree_cost_cp,2448,Cost: *X CP,비용: *X CP  
+CURRENT,techtree_cost_rp+cp,2448,Cost: *X RP + *Y CP,비용: *X RP + *Y CP  
+CURRENT,techtree_currentresearch,2448,Currently Researching:,현재 연구 중:  
+CURRENT,techtree_researchpoints,2448,Research Points:,연구 포인트:  
+CURRENT,techtree_computationpoints,2448,Computation Points:,계산 포인트:  
 CURRENT,techtree_rewards,2448,Rewards:,보상:  
 CURRENT,techtree_unlocks,2448,Unlocks:,해금 항목:  
 CURRENT,techtree_boosts,2448,Performance Boosts:,성능 향상:  
@@ -1006,24 +1053,24 @@ CURRENT,techtree_warning,2448,WARNING!,경고!
 CURRENT,techtree_lose_progress,2448,Starting a new research project will lose all progress on the current one.,새로운 연구를 시작하면 현재 연구의 모든 진행 상황이 사라집니다.  
 CURRENT,techtree_stargate_warning,2448,Completing Andromeda Project phases ahead of the Deep Space Industrialists storyline will bypass those episodes.,Andromeda 프로젝트 단계를 Deep Space Industrialists 스토리라인보다 먼저 완료하면 해당 에피소드가 생략됩니다.  
 CURRENT,techtree_missing_equipment,2448,This research project requires a *X to be completed,이 연구 프로젝트는 *X이(가) 필요합니다.  
-CURRENT,techtree_node_title_Logistics1,2448,Logistics,물류  
-CURRENT,techtree_node_caption_Logistics1,2448,Unlocks schematics for small logistics storage,소형 물류 저장소 설계도 해금  
-CURRENT,techtree_node_title_Logistics2,2448,Logistics Level 2,물류 레벨 2  
-CURRENT,techtree_node_caption_Logistics2,2448,Unlocks schematics for Medium sized storage,중형 물류 저장소 설계도 해금  
-CURRENT,techtree_node_title_Logistics3,2448,Logistics Level 3,물류 레벨 3  
-CURRENT,techtree_node_caption_Logistics3,2448,Unlocks schematics for Large logistics storage,대형 물류 저장소 설계도 해금  
-CURRENT,techtree_node_title_Automation,2448,Automation,자동화  
-CURRENT,techtree_node_caption_Automation,2448,Unlocks schematics for Tracks and Robot Arms,트랙 및 로봇 팔 설계도 해금  
-CURRENT,techtree_node_title_CompactAutomation,2448,Compact Robot Arms,소형 로봇 팔  
-CURRENT,techtree_node_caption_CompactAutomation,2448,Unlocks schematic for Short Robot Arm,짧은 로봇 팔 설계도 해금  
-CURRENT,techtree_node_title_SmartAutomation,2448,Smart Robot Arms,스마트 로봇 팔  
-CURRENT,techtree_node_caption_SmartAutomation,2448,Unlocks schematic for Smart Robot Arm,스마트 로봇 팔 설계도 해금  
-CURRENT,techtree_node_title_Metallurgy1,2448,Metallurgy Level 1,금속공학 레벨 1  
-CURRENT,techtree_node_caption_Metallurgy1,2448,Smelters produce 50% more output,제련소 출력 50% 증가  
-CURRENT,techtree_node_title_Metallurgy2,2448,Metallurgy Level 2,금속공학 레벨 2  
-CURRENT,techtree_node_caption_Metallurgy2,2448,Smelters produce 100% more output,제련소 출력 100% 증가  
-CURRENT,techtree_node_title_EnergyTransmission,2448,Energy Transmission,에너지 전송  
-CURRENT,techtree_node_caption_EnergyTransmission,2448,Unlocks schematic for Energy Transmitter and Receiver,에너지 송신기 및 수신기 설계도 해금  
+CURRENT,techtree_node_title_logistics1,2448,Logistics,물류  
+CURRENT,techtree_node_caption_logistics1,2448,Unlocks schematics for small logistics storage,소형 물류 저장소 설계도 해금  
+CURRENT,techtree_node_title_logistics2,2448,Logistics Level 2,물류 레벨 2  
+CURRENT,techtree_node_caption_logistics2,2448,Unlocks schematics for Medium sized storage,중형 물류 저장소 설계도 해금  
+CURRENT,techtree_node_title_logistics3,2448,Logistics Level 3,물류 레벨 3  
+CURRENT,techtree_node_caption_logistics3,2448,Unlocks schematics for Large logistics storage,대형 물류 저장소 설계도 해금  
+CURRENT,techtree_node_title_automation,2448,Automation,자동화  
+CURRENT,techtree_node_caption_automation,2448,Unlocks schematics for Tracks and Robot Arms,트랙 및 로봇 팔 설계도 해금  
+CURRENT,techtree_node_title_compactautomation,2448,Compact Robot Arms,소형 로봇 팔  
+CURRENT,techtree_node_caption_compactautomation,2448,Unlocks schematic for Short Robot Arm,짧은 로봇 팔 설계도 해금  
+CURRENT,techtree_node_title_smartautomation,2448,Smart Robot Arms,스마트 로봇 팔  
+CURRENT,techtree_node_caption_smartautomation,2448,Unlocks schematic for Smart Robot Arm,스마트 로봇 팔 설계도 해금  
+CURRENT,techtree_node_title_metallurgy1,2448,Metallurgy Level 1,금속공학 레벨 1  
+CURRENT,techtree_node_caption_metallurgy1,2448,Smelters produce 50% more output,제련소 출력 50% 증가  
+CURRENT,techtree_node_title_metallurgy2,2448,Metallurgy Level 2,금속공학 레벨 2  
+CURRENT,techtree_node_caption_metallurgy2,2448,Smelters produce 100% more output,제련소 출력 100% 증가  
+CURRENT,techtree_node_title_energytransmission,2448,Energy Transmission,에너지 전송  
+CURRENT,techtree_node_caption_energytransmission,2448,Unlocks schematic for Energy Transmitter and Receiver,에너지 송신기 및 수신기 설계도 해금  
 CURRENT,techtree_node_title_droneintelligence,2448,Drone Intelligence,드론 지능  
 CURRENT,techtree_node_caption_droneintelligence,2448,"Upgrades drones so they collect minerals in batches, greatly speeding up the process","드론이 광물을 묶음 단위로 수집하도록 업그레이드되어, 채집 속도가 대폭 향상됩니다."
 CURRENT,techtree_node_title_dronespeed1,2448,Drone Speed 1,드론 속도 1  
@@ -1049,10 +1096,10 @@ CURRENT,techtree_node_caption_deflectorbeams,2448,Unlocks schematics to build a 
 CURRENT,techtree_node_title_science,2448,Science,과학  
 CURRENT,techtree_node_caption_science,2448,Unlocks improvements in all areas of advanced physics,고급 물리학 전반의 향상을 해금합니다.  
 CURRENT,boost_reactorefficiency,2448,Reactor Efficiency +*X%,원자로 효율 +*X%  
-CURRENT,boost_SmelterEfficiency,2448,Smelter Efficiency +*X%,제련소 효율 +*X%  
-CURRENT,boost_DroneSpeed,2448,Drone Top Speed +*X%,드론 최대 속도 +*X%  
-CURRENT,boost_TrackSpeed,2448,Track Speed +*X%,트랙 속도 +*X%  
-CURRENT,boost_RobotArmSpeed,2448,Robot Arm Speed +*X%,로봇 팔 속도 +*X%  
+CURRENT,boost_smelterefficiency,2448,Smelter Efficiency +*X%,제련소 효율 +*X%  
+CURRENT,boost_dronespeed,2448,Drone Top Speed +*X%,드론 최대 속도 +*X%  
+CURRENT,boost_trackspeed,2448,Track Speed +*X%,트랙 속도 +*X%  
+CURRENT,boost_robotarmspeed,2448,Robot Arm Speed +*X%,로봇 팔 속도 +*X%  
 CURRENT,special_dronebatchcollection,2448,Drone Batch Collection,드론 묶음 채집  
 CURRENT,special_mininglaseraccuracy,2448,Mining Laser Precision,채굴 레이저 정밀도  
 CURRENT,special_stargatepart1,2448,"Andromeda Project Phases 1, 2","Andromeda 프로젝트 1단계, 2단계  "
@@ -1259,7 +1306,7 @@ CURRENT,mission_production_available,2448,You have *X stacks of R*Y available fo
 CURRENT,mission_production_received,2448,We have received *X stacks of R*Y out of a total of *Z.,총 *Z 중 *X 묶음의 R*Y를 확보했습니다.  
 CURRENT,mission_production_nomore,2448,There is no more R*X available within your fleet.,함대 내 R*X가 더 이상 없습니다.  
 CURRENT,mission_production_success,2448,Provided *X/*Y items,*X/*Y 아이템 제공 완료  
-CURRENT,mission_type_SectorDestroy,2448,Destroy Hostile Forces,적대 세력 격파  
+CURRENT,mission_type_sectordestroy,2448,Destroy Hostile Forces,적대 세력 격파  
 CURRENT,mission_sectordestroy_title,2448,SECTOR OBJECTIVE: Destroy all hostile forces,섹터 목표: 모든 적대 세력 격파  
 CURRENT,mission_sectordestroy_progress,2448,Cleared *X out of *Y systems,*Y개 섹터 중 *X개 정리 완료  
 CURRENT,mission_sectordestroy_desc1,2448,Hostile forces have taken up residence within this sector. They are hindering our evacuation efforts and stealing vital resources.,적대 세력이 이 섹터에 거주하며 대피 작전을 방해하고 중요한 자원을 훔치고 있습니다.  
@@ -1268,7 +1315,7 @@ CURRENT,mission_sectordestroy_desc3,2448,Terminate any enemy vessels you find at
 CURRENT,mission_sectordestroy_payment,2448,"A payment of $*X will be made after each location is cleared, for a total of $*Y.","각 위치 정리 후 $*X의 보상이 지급되며, 총액은 $*Y입니다.  "
 CURRENT,mission_sectordestroy_map,2448,Destroy hostiles [*X/*Y],적대 세력 격파 [*X/*Y]  
 CURRENT,mission_sectordestory_success,2448,HOSTILES ELIMINATED,적대 세력 전멸  
-CURRENT,mission_type_SectorRescue,2448,Rescue (Sector),구조 (섹터)  
+CURRENT,mission_type_sectorrescue,2448,Rescue (Sector),구조 (섹터)  
 CURRENT,mission_sectorrescue_title,2448,SECTOR OBJECTIVE: Rescue civilians from wrecked ship,섹터 목표: 조난 선박에서 민간인 구조  
 CURRENT,mission_sectorrescue_thrusters,2448,NB. YOU WILL NEED AT LEAST FOUR THRUSTERS TO MANOEUVRE INTO POSITION.,참고: 정확한 조종을 위해 추진기가 최소 4개 필요합니다.  
 CURRENT,mission_sectorrescue_timed,2448,The ship engines will explode very soon. (+25% pay).,함선 엔진이 곧 폭발합니다. (+25% 보상)  
@@ -1818,8 +1865,8 @@ CURRENT,wolf_shipname_wolf1,2448,Interstellar Prospector,Interstellar Prospector
 CURRENT,wolf_shipname_wolf2,2448,Infinite Horizon,Infinite Horizon  
 CURRENT,wolf_shipname_wolf3,2448,Celestial Hauler,Celestial Hauler  
 CURRENT,wolf_shipname_scavenger,2448,Scavenger Wraith,Scavenger Wraith  
-CURRENT,object_FlightRecorder,2448,Flight Recorder,비행 기록 장치  
-CURRENT,object_ShipWreckage,2448,Ship Wreckage,선체 잔해  
+CURRENT,object_flightrecorder,2448,Flight Recorder,비행 기록 장치  
+CURRENT,object_shipwreckage,2448,Ship Wreckage,선체 잔해  
 CURRENT,wolf_part1_scavenger1,2448,"Got my hands on something you might be looking for.  A recording of the screams and static from the ship's final moments.  You want it, I know it.  Scavengers rights says it's mine.","내가 찾은 걸 보면, 자네가 필요로 하던 물건이 맞을 거야. 함선 마지막 순간의 비명과 잡음이 담긴 녹음이지. 갖고 싶잖아? 하지만 스캐빈저 권리는 나한테 있다고.  "
 CURRENT,wolf_part1_scavenger2,2448,"Luckily for you, you can have your precious data, so long as I get my finders fee.  It'll cost you $*X for the secrets.  Cross me and it will be the last mistake you make.",운 좋은 줄 알아. 발견 보상금만 주면 그 귀한 데이터 넘겨주지. 값은 $*X. 괜한 수작 부리면 그게 마지막 실수가 될 거야.
 CURRENT,wolf_part1_scavenger3,2448,Funds received. Pleasure doing business.,자금 확인 완료. 거래 즐거웠어.  
@@ -1929,7 +1976,7 @@ CURRENT,blackhole_part3_objective_dock,2448,Dock with the ship,함선과 도킹
 CURRENT,blackhole_part3_objective_rescue,2448,Rescue Dr. Marcus Martinez,마커스 마르티네즈 박사 구조  
 CURRENT,blackhole_part3_objective_jumpout,2448,Jump away from the black hole,블랙홀에서 도약해 벗어나기  
 CURRENT,blackhole_part3_objective_stargate,2448,Recover the Stargate data,스타게이트 데이터 회수  
-CURRENT,blackhole_part3_objective_stargateX,2448,Recover the Stargate data [*X%],스타게이트 데이터 회수 [*X%]  
+CURRENT,blackhole_part3_objective_stargatex,2448,Recover the Stargate data [*X%],스타게이트 데이터 회수 [*X%]  
 CURRENT,blackhole_part3_action_control,2448,Control Julian's ship,줄리안의 함선 조종  
 CURRENT,blackhole_part3_stargate2,2448,Losing that data will set the Stargate project back years.,그 데이터를 잃으면 스타게이트 프로젝트는 수년간 후퇴하게 됩니다.  
 CURRENT,blackhole_part3_marcus1,2448,I was beginning to think you wouldn't be coming!  I've been down here for hours!,이제 안 올 줄 알았어요! 여기서 몇 시간을 버텼다구요!
@@ -2263,7 +2310,7 @@ CURRENT,dsi_part1_stationname,2448,A.J.E Foundry,A.J.E Foundry
 CURRENT,dsi_part1_title,2448,Deep Space Industrialists,심우주 산업가들  
 CURRENT,dsi_part1_advert1,2448,"My name is Alexander James Elistar, and I'm the chairman and founder of A.J.E Industries.  I have a business proposition for you.  If you would be interested in setting up a production facility for me, I believe with some luck and a good deal of hard work we can both make substantial returns.","제 이름은 알렉산더 제임스 엘리스타이며, A.J.E 산업의 회장이자 설립자입니다. 사업 제안을 하나 드리고 싶습니다. 생산 시설을 설치해 주신다면, 운과 노력만 따라준다면 양쪽 모두 큰 수익을 올릴 수 있을 것입니다.  "
 CURRENT,dsi_part1_advert2,2448,Please give me a call to discuss the details.,상세한 내용을 논의하기 위해 연락 바랍니다.  
-CURRENT,dsi_part1_action_callX,2448,Call X,X에 전화  
+CURRENT,dsi_part1_action_callx,2448,Call X,X에 전화  
 CURRENT,dsi_part1_call1,2448,"Captain.  Perhaps you are already aware, but there are big plans underway within this sector.  There are designs to build something... incredible, a transportation system with near infinite range, requiring state of the art manufacturing and industry.","선장님, 이미 아실 수도 있겠지만 이 섹터에 큰 계획이 진행 중입니다.  "
 CURRENT,dsi_part1_call2,2448,"A stargate, big enough for our most massive fleets, shuttling humanity between galaxies as if they were nothing but neighbouring stars.  A new multi-galactic era for humanity.",거의 무한한 범위를 가진 첨단 수송 시스템을 구축하는 설계가 진행되고 있습니다.  
 CURRENT,dsi_part1_call3,2448,In all my years I've never known so much capital to be allocated to one project.,우리의 가장 거대한 함대를 수용할 수 있는 스타게이트입니다. 인류가 마치 이웃 별처럼 은하 사이를 오가는 새로운 다중 은하 시대의 시작이 될 것입니다.
@@ -2400,12 +2447,12 @@ CURRENT,keybinding_panup1,2793,Pan Up (1),위로 이동 (1)
 CURRENT,keybinding_panup2,2793,Pan Up (2),위로 이동 (2)  
 CURRENT,keybinding_zoomin,2793,Zoom In,확대  
 CURRENT,keybinding_zoomout,2793,Zoom Out,축소  
-CURRENT,keybinding_ManoeuvreLeft,2793,Thrust Left,왼쪽으로 추진  
-CURRENT,keybinding_ManoeuvreRight,2793,Thrust Right,오른쪽으로 추진  
-CURRENT,keybinding_ManoeuvreUp,2793,Thrust Up,위로 추진  
-CURRENT,keybinding_ManoeuvreDown,2793,Thrust Down,아래로 추진  
-CURRENT,keybinding_ManoeuvreClockwise,2793,Thrust Clockwise,시계 방향 회전  
-CURRENT,keybinding_ManoeuvreCounterClockwise,2793,Thrust C-Clockwise,반시계 방향 회전  
+CURRENT,keybinding_manoeuvreleft,2793,Thrust Left,왼쪽으로 추진  
+CURRENT,keybinding_manoeuvreright,2793,Thrust Right,오른쪽으로 추진  
+CURRENT,keybinding_manoeuvreup,2793,Thrust Up,위로 추진  
+CURRENT,keybinding_manoeuvredown,2793,Thrust Down,아래로 추진  
+CURRENT,keybinding_manoeuvreclockwise,2793,Thrust Clockwise,시계 방향 회전  
+CURRENT,keybinding_manoeuvrecounterclockwise,2793,Thrust C-Clockwise,반시계 방향 회전  
 CURRENT,keybinding_toggletactical,2793,Toggle Tactical,전술 모드 전환  
 CURRENT,keybinding_togglemap,2793,Toggle Map,지도 전환  
 CURRENT,keybinding_increasethrust,2793,Engines +,엔진 +  
@@ -2711,7 +2758,7 @@ CURRENT,techtree_node_title_hydroponics1,2448,Hydroponics 1,수경재배 1
 CURRENT,techtree_node_caption_hydroponics1,2448,Improves crop yield to produce more food per cycle,작물 수확량을 높여 사이클당 더 많은 식량 생산  
 CURRENT,techtree_node_title_hydroponics2,2448,Hydroponics 2,수경재배 2  
 CURRENT,boost_harvestingyield,2448,Crop Yield +*X%,작물 수확량 +*X%  
-CURRENT,mission_type_SectorProtect,2448,Protect (Sector),보호 (섹터)  
+CURRENT,mission_type_sectorprotect,2448,Protect (Sector),보호 (섹터)  
 CURRENT,mission_sectorprotect_title,2448,SECTOR OBJECTIVE: Protect ship under attack,섹터 목표: 공격받는 함선 보호  
 CURRENT,mission_sectorprotect_description2,2448,A commercial vessel is under attack from an unknown hostile enemy. They have already taken heavy damage.,상업 함선이 정체불명의 적에게 공격받고 있습니다. 이미 큰 피해를 입은 상태입니다.  
 CURRENT,mission_sectorprotect_accepted,2448,We've marked the location of the ship on your map. Please hurry!,지도에 함선의 위치를 표시했습니다. 서둘러 주세요!  
@@ -2755,7 +2802,7 @@ CURRENT,scenario_armour,2448,Armour: *X%,장갑: *X%
 CURRENT,scenario_noarmour,2448,Armour: None,장갑: 없음  
 CURRENT,hud_deselectlayer,2448,DESELECT SHIP,함선 선택 해제  
 CURRENT,hud_totalconsumption,2448,TOTAL CONSUMPTION,총 소비량  
-CURRENT,shipeditor_stat_Capacity,2448,Cabins,객실
+CURRENT,shipeditor_stat_capacity,2448,Cabins,객실
 CURRENT,trade_dangerproximity,2448,Shortages of critical resources have made prices higher than normal,핵심 자원의 부족으로 인해 가격이 평소보다 높습니다.  
 CURRENT,trade_dangerdeflation,2448,"Prices for hardware and crew are lower than normal, due to panic",패닉으로 인해 장비 및 승무원 가격이 평소보다 저렴합니다.  
 CURRENT,trade_dangercivilians,2448,Civilians are offering larger sums than normal for safe transit out of the sector,민간인들이 이 섹터에서의 안전한 탈출을 위해 평소보다 많은 금액을 제시하고 있습니다.  
@@ -2787,6 +2834,7 @@ CURRENT,calltoarms_harkenrailroad_3,2448,We've recieved reports of a shipwreck n
 CURRENT,calltoarms_harkenrailroad_4,2448,Travel to the shipwreck and look for a Black Box Flight Recorder in the wreckage.  This device will contain a log of their final moments.,잔해를 찾아가 블랙박스 비행기록 장치를 확보하세요. 이 장치에는 마지막 순간의 로그가 기록되어 있습니다.  
 CURRENT,calltoarms_harkenrailroad_5,2448,To collect the flight recorder you'll need to install a DRONE BAY and at least one LOGISTICS DRONE. You can buy them from any Shipyard or Colony.,비행기록 장치를 수거하려면 드론 베이와 최소 1대 이상의 물류 드론이 필요합니다. 이는 조선소나 식민지에서 구매할 수 있습니다.  
 CURRENT,dsi_part1_callfromrep1,2448,"This is a message for A.J.E FOUNDRY.  We've received your samples and can report that they have passed comfortably within our engineering tolerances.  You are formally approved as licensed industry partners, and may now manufacture all items in our design manifest.","이 메시지는 A.J.E 주조소에 전하는 것입니다. 귀사에서 보낸 샘플은 당사의 공학 허용 오차 기준을 무난히 통과했습니다. 귀사는 정식으로 라이선스를 획득한 산업 파트너로 승인되었으며, 설계 목록에 포함된 모든 항목을 생산할 수 있습니다."
+OBSOLETE,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,외관이 마모된 것으로 보아 적어도 한 세기 이상 이곳에 있었던 것으로 추정됩니다. 이 구역은 인류 최초의 우주 식민지 개척 시도 중 하나였을 것입니다.
 OBSOLETE,techtree_node_title_robotarmspeed,2448,Robot Arm Speed,로봇 팔 속도  
 OBSOLETE,dsi_part2_isotopesintro2,2448,"It's not too complex.  It starts with a Hyperspace Scoop, or several ideally, that you can fit to your vessels.  Every time you make an FTL jump you'll collect more as you pass through deep space at light speed.  You can then pipe those isotopes into a Refinery and convert them into Stable Isotopes.","복잡하지 않습니다. 우주선에 장착할 수 있는 초공간 스쿱, 가능하면 여러 개가 필요합니다. FTL 점프할 때마다 광속으로 심우주를 통과하며 동위원소를 수집합니다. 이를 정제소로 보내 안정 동위원소로 전환할 수 있습니다.  "
 OBSOLETE,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.","AI 제안, 단축키 등 번역가를 도와주는 기능을 활성화합니다."
@@ -2819,8 +2867,6 @@ OBSOLETE,tutorial_airpipetoairduct,2448,"Drag a PIPE from the OXYGEN LOADER to t
 OBSOLETE,tutorial_airdone,2448,The AIRDUCT is activated and is pressurising the cabin! The atmosphere will soon be breathable.,공기 덕트가 작동을 시작했고 선실에 기압을 채우고 있습니다! 곧 대기가 숨 쉴 수 있을 만큼 유지될 것입니다.
 OBSOLETE,tutorial_enginesinformation,2448,Engines require both POWER and FUEL to operate. We must connect both engines to fuel and power.,엔진은 작동을 위해 전력과 연료가 모두 필요합니다. 두 엔진 모두에 연료와 전력을 연결해야 합니다.
 OBSOLETE,tutorial_enginesconnectpower,2448,"Now use the CABLES menu to power up the engine, by connecting it to your existing red power lines.",이제 전선 메뉴를 사용하여 엔진에 전력을 공급하세요. 기존의 빨간 전력 라인에 연결하면 됩니다.
-OBSOLETE,tutorial_ftlintro,2448,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,광속 항법(FTL) 없이는 해당 승객들을 목적지까지 데려다줄 수 없습니다. 불행히도 이 함선에는 자체 FTL 드라이브가 장착되어 있지 않습니다.\n\n우리는 이를 구매해서 설치해야 합니다.
-OBSOLETE,tutorial_ftltradescreen,2448,Open the trade screen to purchase an FTL drive.,무역 화면을 열어 FTL 드라이브를 구매하세요.
 OBSOLETE,tutorial_ftlselectpropulsion,2448,The items we need are listed under PROPULSION. Select that category.,우리가 필요한 항목은 추진(PROPULSION) 카테고리에 있습니다. 해당 항목을 선택하세요.
 OBSOLETE,tutorial_ftladdftldrive,2448,Add one FTL drive to our order by clicking on the entry in the list.,목록에서 클릭하여 FTL 드라이브 하나를 주문에 추가하세요.
 OBSOLETE,tutorial_ftladdftlfuel,2448,FTL drives consume one fuel charge per jump. Add 5 FTL Charges to the order as well.,FTL 드라이브는 점프당 연료 충전 1개를 소모합니다. FTL 충전 5개도 함께 주문에 추가하세요.

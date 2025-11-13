@@ -1,6 +1,61 @@
 ﻿state,key,svn,english,translation
-UPDATED,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,Hun uiterlijke slijtage doet ons geloven dat ze hier al minstens een eeuw zijn. Deze sector moet een van de eerste pogingen van de mensheid zijn geweest om de ruimte te koloniseren.
-PREVIOUS,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,Hun uiterlijke slijtage doet ons geloven dat ze hier al minstens een eeuw zijn. Deze sector moet een van de eerste pogingen van de mensheid zijn geweest om de ruimte te koloniseren.
+NEW,settings_credits,3149,CREDITS,KREDIETEN
+NEW,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,Het spel wordt opgeslagen op Steam Cloud als dit is ingeschakeld. Er wordt een waarschuwing weergegeven als het opslaan mislukt.
+NEW,newmainmenu_saveoptions,3149,Save Options,Opties opslaan
+NEW,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] Verander van stijl
+NEW,hud_tooltip_currentflooring,3149,Current style: *X,Huidige stijl: *X
+NEW,hud_tooltip_gratedflooring,3149,Grated,Geraspte
+NEW,hud_tooltip_normalflooring,3149,Normal,Normaal
+NEW,hud_hull_integrity,3149,HULL,HULL
+NEW,hud_power_battery,3149,BATTERY,BATTERIJ
+NEW,hud_power_powershortage,3149,POWER SHORTAGE,STROOMTEKORT
+NEW,hud_idlecrew,3149,Idle Crew,Inactieve Bemanning
+NEW,hud_consumingperhour,3149,Consuming *X per hour,Verbruik *X per uur
+NEW,hud_dehydrationperperson,3149,Dehydration *X per person,Uitdroging *X per persoon
+NEW,hud_hungerperperson,3149,Hunger *X per person,Honger *X per persoon
+NEW,hud_byauthor,3149,BY *X,DOOR *X
+NEW,communicator_newobjective,3149,NEW OBJECTIVE,NIEUWE DOELSTELLING
+NEW,galaxymap_stargate,3149,STARGATE,STARGATE
+NEW,trade_canceltrade,3149,CANCEL TRADE AND REFUND,HANDEL ANNULEREN EN TERUGBETALEN
+NEW,trade_refundvalue,3149,REFUND VALUE,TERUGBETALING
+NEW,trade_cancellationcost,3149,CANCELLATION COST,ANNULERINGSKOSTEN
+NEW,trade_partiallyfilled,3149,PARTIALLY FILLED,GEDEELTELIJK GEVULD
+NEW,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,ONVOLLEDIG ONDERDEEL
+NEW,trade_removeincomplete,3149,REMOVE INCOMPLETE,INCOMPLEET VERWIJDEREN
+NEW,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,GEDEELTELIJK GEVULD VERWIJDEREN
+NEW,trade_order_normal,3149,(*X),(*X)
+NEW,trade_order_buy_on_sell_screen,3149,(BUY *X),(KOP *X)
+NEW,trade_order_sell_on_buy_screen,3149,(SELL *X),(VERKOOP *X)
+NEW,trade_order_sack_on_buy_screen,3149,(SACK *X),(SACK *X)
+NEW,techtree_researchpercent,3149,*X% Complete,*X% Voltooid
+NEW,tooltip_efficiency,3149,Efficiency +*X%,Rendement +*X%
+NEW,tooltip_activating,3149,Activating +*X%,Activeren +*X%
+NEW,alert_type_lowdeuterium,3149,LOW DEUTERIUM,LAAG DEUTERIUM
+NEW,stargate_unknowncomponent,3149,Unknown Component,Onbekend onderdeel
+NEW,stargate_unknowncomponent_description,3149,Unlock this component through research!,Ontgrendel dit onderdeel door onderzoek!
+NEW,creditstitle_builders,3149,Ship Builders,Scheepsbouwers
+NEW,creditstitle_testers,3149,Early Play Testing,Vroege speltests
+NEW,creditstitle_translators,3149,Translation,Vertaling
+NEW,engine_thrust,3149,THRUST *X%,THRUST *X%
+UPDATED,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + RMB] Converteren naar splitter
+PREVIOUS,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] Omzetten naar splitter
+UPDATED,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + RMB] Converteren naar track
+PREVIOUS,hud_convertsplittertotrack,3054,[RMB] Convert to track,[RMB] Converteren naar track
+UPDATED,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,We kunnen die passagiers niet op hun bestemming afleveren zonder sneller dan licht te reizen. Helaas is dit schip niet uitgerust met een eigen <b>FTL-aandrijving</b>.\n\nWe moeten er een kopen en installeren.
+PREVIOUS,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,We kunnen deze passagiers niet op hun bestemming afleveren zonder sneller dan licht te reizen. Helaas is dit schip niet uitgerust met een eigen <b>FTL</b> aandrijving.\n\nWe moeten er een kopen en installeren.
+PREVIOUS,tutorial_ftlintro,2593,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,We kunnen deze passagiers niet op hun bestemming afleveren zonder sneller dan licht te reizen. Helaas is dit schip niet uitgerust met een eigen FTL aandrijving.\n\nWe moeten er een kopen en installeren.
+UPDATED,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,Open het handelsscherm om een <b>FTL-aandrijving</b> en wat <b>FTL opladen</b> te kopen.
+PREVIOUS,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,Open het handelsscherm om een <b>FTL</b>-station te kopen.
+PREVIOUS,tutorial_ftltradescreen,2593,Open the trade screen to purchase an FTL drive.,Open het handelsscherm om een FTL-station te kopen.
+UPDATED,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,OMVATTEN AANGEMEERDE SCHEPEN
+PREVIOUS,newmainmenu_includedocked,2593,INCLUDE DOCKED SHIPS IN EXPORT,AANGEMEERDE SCHEPEN OPNEMEN IN EXPORT
+UPDATED,hud_layer_hostile,3149,HOSTILE *X,HOSTILE *X
+PREVIOUS,hud_layer_hostile,2593,HOSTILE,HOSTILE
+UPDATED,hud_layer_derelict,3149,DERELICT *X,DERELICT *X
+PREVIOUS,hud_layer_derelict,2593,DERELICT,DERELICT
+UPDATED,hud_layer_forsale,3149,[FOR SALE] *X,[TE KOOP] *X
+PREVIOUS,hud_layer_forsale,2593,[FOR SALE],[TE KOOP]
+CURRENT,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,Hun uiterlijke slijtage doet ons geloven dat ze hier al minstens een eeuw zijn. Deze sector moet een van de eerste pogingen van de mensheid zijn geweest om de ruimte te koloniseren.
 CURRENT,techtree_node_caption_metallurgyrepeatable,3054,Spend research credits to continually increase our smelting efficiency.,Besteed onderzoekskredieten om onze smeltefficiëntie voortdurend te verhogen.
 CURRENT,mainmenu_gamemode_arena,3054,Arena,Arena
 CURRENT,mainmenu_gamemode_arena_tooltip,3054,Create epic space battles between fleets of ships and watch the carnage unfold.,Creëer epische ruimtegevechten tussen vloten van schepen en kijk hoe het bloedbad zich ontvouwt.
@@ -20,8 +75,6 @@ CURRENT,newmainmenu_multisectorsim,3054,Multi-System Simulation,Simulatie met me
 CURRENT,newmainmenu_multisectorsimtooltip,3054,"Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.","Maakt simulatie met meerdere systemen mogelijk, zodat je je vloot over meerdere systemen/sectoren tegelijk kunt verdelen."
 CURRENT,hud_shipmaximumoccupancy,3054,Ship Maximum Occupancy: *X/*Y,Schip Maximale Bezetting: *X/*Y
 CURRENT,hud_surveyinprogress,3054,WARNING - SURVEY WILL BE CANCELLED,WAARSCHUWING - ONDERZOEK WORDT GEANNULEERD
-CURRENT,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] Omzetten naar splitter
-CURRENT,hud_convertsplittertotrack,3054,[RMB] Convert to track,[RMB] Converteren naar track
 CURRENT,shipeditor_tooltip_painthull,3054,Toggle painting the exterior panels of the hull of your ship,Schilderen van de buitenpanelen van de romp van je schip
 CURRENT,shipeditor_tooltip_painthabitation,3054,Toggle painting the exterior panels of the habitation quarters of your ship,Schakelen tussen het schilderen van de buitenpanelen van de woonverblijven van je schip
 CURRENT,shipeditor_tooltip_paintscaffold,3054,Toggle painting the scaffolding on your ship,De steigers op je schip schilderen
@@ -328,8 +381,6 @@ CURRENT,tutorial_airpipetoairduct,2886,"Drag a <b>PIPE</b> from the <b>OXYGEN LO
 CURRENT,tutorial_airdone,2886,The <b>AIRDUCT</b> is activated and is pressurising the cabin! The atmosphere will soon be breathable.,De <b>AIRDUCT</b> is geactiveerd en zet de cabine onder druk! De atmosfeer zal snel ademend zijn.
 CURRENT,tutorial_enginesinformation,2886,Engines require both <b>POWER</b> and <b>FUEL</b> to operate. We must connect both engines to fuel and power.,Motoren hebben zowel <b>STROOM</b> als <b>BRANDSTOF</b> nodig om te kunnen werken. We moeten beide motoren verbinden met brandstof en vermogen.
 CURRENT,tutorial_enginesconnectpower,2886,"Now use the <b>CABLES</b> menu to power up the engine, by connecting it to your existing red power lines.",Gebruik nu het menu <b>CABLES</b> om de motor van stroom te voorzien door hem aan te sluiten op je bestaande rode stroomkabels.
-CURRENT,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,We kunnen deze passagiers niet op hun bestemming afleveren zonder sneller dan licht te reizen. Helaas is dit schip niet uitgerust met een eigen <b>FTL</b> aandrijving.\n\nWe moeten er een kopen en installeren.
-CURRENT,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,Open het handelsscherm om een <b>FTL</b>-station te kopen.
 CURRENT,tutorial_ftlselectpropulsion,2886,The items we need are listed under <b>PROPULSION</b>. Select that category.,De items die we nodig hebben staan onder <b>PROPULSIE</b>. Selecteer die categorie.
 CURRENT,tutorial_ftladdftldrive,2886,Add one <b>FTL</b> drive to our order by clicking on the entry in the list.,Voeg één <b>FTL</b>-station toe aan onze bestelling door op het item in de lijst te klikken.
 CURRENT,tutorial_ftladdftlfuel,2886,<b>FTL</b> drives consume one fuel charge per jump. Add 5 <b>FTL</b> Charges to the order as well.,<b>FTL</b> aandrijvingen verbruiken één brandstoflading per sprong. Voeg ook 5 <b>FTL</b>-ladingen toe aan de bestelling.
@@ -459,12 +510,12 @@ CURRENT,keybinding_panup1,2793,Pan Up (1),Pan omhoog (1)
 CURRENT,keybinding_panup2,2793,Pan Up (2),Pan omhoog (2)
 CURRENT,keybinding_zoomin,2793,Zoom In,Inzoomen
 CURRENT,keybinding_zoomout,2793,Zoom Out,Uitzoomen
-CURRENT,keybinding_ManoeuvreLeft,2793,Thrust Left,Stuwkracht links
-CURRENT,keybinding_ManoeuvreRight,2793,Thrust Right,Stuwkracht rechts
-CURRENT,keybinding_ManoeuvreUp,2793,Thrust Up,Stoot omhoog
-CURRENT,keybinding_ManoeuvreDown,2793,Thrust Down,Stoot omlaag
-CURRENT,keybinding_ManoeuvreClockwise,2793,Thrust Clockwise,Stuwkracht Rechtsom
-CURRENT,keybinding_ManoeuvreCounterClockwise,2793,Thrust C-Clockwise,Druk C Rechtsom
+CURRENT,keybinding_manoeuvreleft,2793,Thrust Left,Stuwkracht links
+CURRENT,keybinding_manoeuvreright,2793,Thrust Right,Stuwkracht rechts
+CURRENT,keybinding_manoeuvreup,2793,Thrust Up,Stoot omhoog
+CURRENT,keybinding_manoeuvredown,2793,Thrust Down,Stoot omlaag
+CURRENT,keybinding_manoeuvreclockwise,2793,Thrust Clockwise,Stuwkracht Rechtsom
+CURRENT,keybinding_manoeuvrecounterclockwise,2793,Thrust C-Clockwise,Druk C Rechtsom
 CURRENT,keybinding_toggletactical,2793,Toggle Tactical,Toggle Tactisch
 CURRENT,keybinding_togglemap,2793,Toggle Map,Toggle Kaart
 CURRENT,keybinding_increasethrust,2793,Engines +,Motoren +
@@ -680,11 +731,11 @@ CURRENT,samplebankeditor_addsample,2593,Add Sound,Geluid toevoegen
 CURRENT,samplebank,2593,(Sample Bank),(Voorbeeldbank)
 CURRENT,tagline,2593,THE LAST STARSHIP,HET LAATSTE STERRENSCHIP
 CURRENT,mainmenu_title,2593,Main Menu,Hoofdmenu
-CURRENT,mainmenu_newgameA,2593,New Game - Praxis,Nieuw spel - Praxis
-CURRENT,mainmenu_newgameB,2593,New Game - Sleek,Nieuw spel - Slank
-CURRENT,mainmenu_newgameC,2593,New Game - Inner Shapes,Nieuw spel - Innerlijke vormen
-CURRENT,mainmenu_newgameD,2593,New Game - Shipyard,Nieuw spel - Scheepswerf
-CURRENT,mainmenu_newgameE,2593,New Game - Large Logistics,Nieuw spel - Grote logistiek
+CURRENT,mainmenu_newgamea,2593,New Game - Praxis,Nieuw spel - Praxis
+CURRENT,mainmenu_newgameb,2593,New Game - Sleek,Nieuw spel - Slank
+CURRENT,mainmenu_newgamec,2593,New Game - Inner Shapes,Nieuw spel - Innerlijke vormen
+CURRENT,mainmenu_newgamed,2593,New Game - Shipyard,Nieuw spel - Scheepswerf
+CURRENT,mainmenu_newgamee,2593,New Game - Large Logistics,Nieuw spel - Grote logistiek
 CURRENT,mainmenu_savegame,2593,Save Game,Spel opslaan
 CURRENT,mainmenu_loadgame,2593,Load Game,Spel laden
 CURRENT,mainmenu_abandongame,2593,Abandon Game,Spel opgeven
@@ -802,7 +853,6 @@ CURRENT,newmainmenu_savetosteamcloud,2593,SAVE TO STEAM CLOUD,OPSLAAN IN STOOMCL
 CURRENT,newmainmenu_steamcloud,2593,STEAM CLOUD,STOOMKLOUD
 CURRENT,newmainmenu_cloudquotaremaining,2593,Used: *X / *Y (*Z% remaining),Gebruikt: *X / *Y (*Z% over)
 CURRENT,newmainmenu_exportship,2593,EXPORT SHIP,UITVOERSCHIP
-CURRENT,newmainmenu_includedocked,2593,INCLUDE DOCKED SHIPS IN EXPORT,AANGEMEERDE SCHEPEN OPNEMEN IN EXPORT
 CURRENT,newmainmenu_uploadship,2593,UPLOAD TO STEAM,UPLOADEN NAAR STOOM
 CURRENT,newmainmenu_setshipname,2593,SET SHIP NAME,NAAM SCHIP INSTELLEN
 CURRENT,newmainmenu_importhostile,2593,IMPORT HOSTILE,IMPORT BESTEMMING
@@ -1014,9 +1064,6 @@ CURRENT,hud_storagecrate_tooltip_quantity,2593,Quantity: *X,Hoeveelheid: *X
 CURRENT,hud_storagecrate_tooltip_capacity,2593,Capacity: *X,Capaciteit: *X
 CURRENT,hud_collector_tooltip_gathering,2593,Gathering *X *Y per second,Verzamelen *X *Y per seconde
 CURRENT,hud_mission_collection,2593,WARNING - MISSION COLLECTION UNDERWAY,WAARSCHUWING - MISSIE VERZAMELEN AAN DE GANG
-CURRENT,hud_layer_hostile,2593,HOSTILE,HOSTILE
-CURRENT,hud_layer_derelict,2593,DERELICT,DERELICT
-CURRENT,hud_layer_forsale,2593,[FOR SALE],[TE KOOP]
 CURRENT,hud_layer_unnaned_system,2593,UNNAMED,NIET GENOEMD
 CURRENT,hud_trade_incoming,2593,WARNING - TRADE INCOMING,WAARSCHUWING - INKOMENDE HANDEL
 CURRENT,hud_trade_owed,2593,WARNING - TRADE OWED,WAARSCHUWING - HANDEL VERSCHULDIGD
@@ -1089,11 +1136,11 @@ CURRENT,shipeditor_tooltip_spawn,2593,Spawn equipment and resources inside your 
 CURRENT,shipeditor_brush_freehand,2593,FREEHAND,VRIJWILLIG
 CURRENT,shipeditor_brush_box,2593,BOX TOOL,DOOS GEREEDSCHAP
 CURRENT,shipeditor_price_button,2593,Cost,Kosten
-CURRENT,shipeditor_stat_Mass,2593,Mass,Massa
-CURRENT,shipeditor_stat_Toughness,2593,Toughness,Taaiheid
-CURRENT,shipeditor_stat_Capacity,2593,Cabins,Hutten
-CURRENT,shipeditor_stat_Value,2593,Value,Waarde
-CURRENT,shipeditor_stat_Damage,2593,Damage,Schade
+CURRENT,shipeditor_stat_mass,2593,Mass,Massa
+CURRENT,shipeditor_stat_toughness,2593,Toughness,Taaiheid
+CURRENT,shipeditor_stat_capacity,2593,Cabins,Hutten
+CURRENT,shipeditor_stat_value,2593,Value,Waarde
+CURRENT,shipeditor_stat_damage,2593,Damage,Schade
 CURRENT,shipeditor_symmetry,2593,SYMMETRY,SYMMETRIE
 CURRENT,shipeditor_symmetry_short,2593,S,S
 CURRENT,shipeditor_symmetry_leftclickdrag,2593,[LMB] Drag,[LMB] slepen
@@ -1127,7 +1174,7 @@ CURRENT,powergrid_power,2593,POWER,KRACHT
 CURRENT,powergrid_category_reactor,2593,REACTOR,REACTOR
 CURRENT,powergrid_category_battery,2593,BATTERY,BATTERIJ
 CURRENT,powergrid_category_engines,2593,ENGINES,MOTOREN
-CURRENT,powergrid_category_FTL,2593,FTL,FTL
+CURRENT,powergrid_category_ftl,2593,FTL,FTL
 CURRENT,powergrid_category_weapons,2593,WEAPONS,WAPENS
 CURRENT,powergrid_category_defenses,2593,DEFENSES,DEFENSES
 CURRENT,powergrid_category_lifesupport,2593,LIFE SUPPORT,LEVENSONDERSTEUNING
@@ -1168,16 +1215,16 @@ CURRENT,trade_overlay_price,2593,PRICE,PRIJS
 CURRENT,trade_overlay_them,2593,THEM,DIE
 CURRENT,trade_overlay_you,2593,YOU,JIJ
 CURRENT,trade_overlay_boxed,2593,[boxed],[boxed]
-CURRENT,trade_window_Energy,2593,Energy,Energie
-CURRENT,trade_window_Propulsion,2593,Propulsion,Voortstuwing
-CURRENT,trade_window_Habitation,2593,Habitation,Woning
-CURRENT,trade_window_Defense,2593,Defense,Defensie
-CURRENT,trade_window_Industry,2593,Industry,Industrie
-CURRENT,trade_window_Logistics,2593,Logistics,Logistiek
-CURRENT,trade_window_Science,2593,Science,Wetenschap
-CURRENT,trade_window_Resources,2593,Resources,Bronnen
-CURRENT,trade_window_Components,2593,Components,Onderdelen
-CURRENT,trade_window_Crew,2593,Crew,Bemanning
+CURRENT,trade_window_energy,2593,Energy,Energie
+CURRENT,trade_window_propulsion,2593,Propulsion,Voortstuwing
+CURRENT,trade_window_habitation,2593,Habitation,Woning
+CURRENT,trade_window_defense,2593,Defense,Defensie
+CURRENT,trade_window_industry,2593,Industry,Industrie
+CURRENT,trade_window_logistics,2593,Logistics,Logistiek
+CURRENT,trade_window_science,2593,Science,Wetenschap
+CURRENT,trade_window_resources,2593,Resources,Bronnen
+CURRENT,trade_window_components,2593,Components,Onderdelen
+CURRENT,trade_window_crew,2593,Crew,Bemanning
 CURRENT,trade_equipment_size,2593,- Size *X x *Y,- Afmeting *X x *Y
 CURRENT,trade_equipment_rotatable,2593,- Rotatable,- Draaibaar
 CURRENT,trade_equipment_powered,2593,- Powered,- Aangedreven
@@ -1217,12 +1264,12 @@ CURRENT,techtree_available,2593,AVAILABLE,BESCHIKBAAR
 CURRENT,techtree_unavailable,2593,REQUIREMENTS NOT MET,VEREISTEN WAARAAN NIET IS VOLDAAN
 CURRENT,techtree_in_progress,2593,RESEARCH IN PROGRESS,LOPEND ONDERZOEK
 CURRENT,techtree_busy,2593,RESEARCHERS ARE BUSY,ONDERZOEKERS ZIJN DRUK BEZIG
-CURRENT,techtree_cost_RP,2593,Cost: *X RP,Kosten: *X RP
-CURRENT,techtree_cost_CP,2593,Cost: *X CP,Kosten: *X CP
-CURRENT,techtree_cost_RP+CP,2593,Cost: *X RP + *Y CP,Kosten: *X RP + *Y CP
-CURRENT,techtree_currentResearch,2593,Currently Researching:,Momenteel onderzoek:
-CURRENT,techtree_researchPoints,2593,Research Points:,Onderzoekspunten:
-CURRENT,techtree_computationPoints,2593,Computation Points:,Rekenpunten:
+CURRENT,techtree_cost_rp,2593,Cost: *X RP,Kosten: *X RP
+CURRENT,techtree_cost_cp,2593,Cost: *X CP,Kosten: *X CP
+CURRENT,techtree_cost_rp+cp,2593,Cost: *X RP + *Y CP,Kosten: *X RP + *Y CP
+CURRENT,techtree_currentresearch,2593,Currently Researching:,Momenteel onderzoek:
+CURRENT,techtree_researchpoints,2593,Research Points:,Onderzoekspunten:
+CURRENT,techtree_computationpoints,2593,Computation Points:,Rekenpunten:
 CURRENT,techtree_rewards,2593,Rewards:,Beloningen:
 CURRENT,techtree_unlocks,2593,Unlocks:,Ontgrendelt:
 CURRENT,techtree_boosts,2593,Performance Boosts:,Prestatieverhogingen:
@@ -1233,24 +1280,24 @@ CURRENT,techtree_warning,2593,WARNING!,WAARSCHUWING!
 CURRENT,techtree_lose_progress,2593,Starting a new research project will lose all progress on the current one.,"Als je een nieuw onderzoeksproject start, gaat alle voortgang van het huidige project verloren."
 CURRENT,techtree_stargate_warning,2593,Completing Andromeda Project phases ahead of the Deep Space Industrialists storyline will bypass those episodes.,"Als je de fasen van het Andromeda Project voltooit voordat de verhaallijn van de Deep Space Industrialists begint, worden deze afleveringen overgeslagen."
 CURRENT,techtree_missing_equipment,2593,This research project requires a *X to be completed,Voor dit onderzoeksproject moet een *X worden ingevuld
-CURRENT,techtree_node_title_Logistics1,2593,Logistics,Logistiek
-CURRENT,techtree_node_caption_Logistics1,2593,Unlocks schematics for small logistics storage,Ontgrendelt schema's voor kleine logistieke opslag
-CURRENT,techtree_node_title_Logistics2,2593,Logistics Level 2,Logistiek Niveau 2
-CURRENT,techtree_node_caption_Logistics2,2593,Unlocks schematics for Medium sized storage,Ontgrendelt schema's voor middelgrote opslagruimte
-CURRENT,techtree_node_title_Logistics3,2593,Logistics Level 3,Logistiek Niveau 3
-CURRENT,techtree_node_caption_Logistics3,2593,Unlocks schematics for Large logistics storage,Ontgrendelt schema's voor Grote logistieke opslag
-CURRENT,techtree_node_title_Automation,2593,Automation,Automatisering
-CURRENT,techtree_node_caption_Automation,2593,Unlocks schematics for Tracks and Robot Arms,Ontgrendelt schema's voor rupsbanden en robotarmen
-CURRENT,techtree_node_title_CompactAutomation,2593,Compact Robot Arms,Compacte robotarmen
-CURRENT,techtree_node_caption_CompactAutomation,2593,Unlocks schematic for Short Robot Arm,Ontgrendelt schema voor korte robotarm
-CURRENT,techtree_node_title_SmartAutomation,2593,Smart Robot Arms,Slimme robotarmen
-CURRENT,techtree_node_caption_SmartAutomation,2593,Unlocks schematic for Smart Robot Arm,Ontgrendelt schema voor slimme robotarm
-CURRENT,techtree_node_title_Metallurgy1,2593,Metallurgy Level 1,Metaalkunde Niveau 1
-CURRENT,techtree_node_caption_Metallurgy1,2593,Smelters produce 50% more output,Smelters produceren 50% meer
-CURRENT,techtree_node_title_Metallurgy2,2593,Metallurgy Level 2,Metaalkunde Niveau 2
-CURRENT,techtree_node_caption_Metallurgy2,2593,Smelters produce 100% more output,Smelters produceren 100% meer
-CURRENT,techtree_node_title_EnergyTransmission,2593,Energy Transmission,Energietransmissie
-CURRENT,techtree_node_caption_EnergyTransmission,2593,Unlocks schematic for Energy Transmitter and Receiver,Ontgrendelt schema voor energiezender en -ontvanger
+CURRENT,techtree_node_title_logistics1,2593,Logistics,Logistiek
+CURRENT,techtree_node_caption_logistics1,2593,Unlocks schematics for small logistics storage,Ontgrendelt schema's voor kleine logistieke opslag
+CURRENT,techtree_node_title_logistics2,2593,Logistics Level 2,Logistiek Niveau 2
+CURRENT,techtree_node_caption_logistics2,2593,Unlocks schematics for Medium sized storage,Ontgrendelt schema's voor middelgrote opslagruimte
+CURRENT,techtree_node_title_logistics3,2593,Logistics Level 3,Logistiek Niveau 3
+CURRENT,techtree_node_caption_logistics3,2593,Unlocks schematics for Large logistics storage,Ontgrendelt schema's voor Grote logistieke opslag
+CURRENT,techtree_node_title_automation,2593,Automation,Automatisering
+CURRENT,techtree_node_caption_automation,2593,Unlocks schematics for Tracks and Robot Arms,Ontgrendelt schema's voor rupsbanden en robotarmen
+CURRENT,techtree_node_title_compactautomation,2593,Compact Robot Arms,Compacte robotarmen
+CURRENT,techtree_node_caption_compactautomation,2593,Unlocks schematic for Short Robot Arm,Ontgrendelt schema voor korte robotarm
+CURRENT,techtree_node_title_smartautomation,2593,Smart Robot Arms,Slimme robotarmen
+CURRENT,techtree_node_caption_smartautomation,2593,Unlocks schematic for Smart Robot Arm,Ontgrendelt schema voor slimme robotarm
+CURRENT,techtree_node_title_metallurgy1,2593,Metallurgy Level 1,Metaalkunde Niveau 1
+CURRENT,techtree_node_caption_metallurgy1,2593,Smelters produce 50% more output,Smelters produceren 50% meer
+CURRENT,techtree_node_title_metallurgy2,2593,Metallurgy Level 2,Metaalkunde Niveau 2
+CURRENT,techtree_node_caption_metallurgy2,2593,Smelters produce 100% more output,Smelters produceren 100% meer
+CURRENT,techtree_node_title_energytransmission,2593,Energy Transmission,Energietransmissie
+CURRENT,techtree_node_caption_energytransmission,2593,Unlocks schematic for Energy Transmitter and Receiver,Ontgrendelt schema voor energiezender en -ontvanger
 CURRENT,techtree_node_title_droneintelligence,2593,Drone Intelligence,Drone Intelligentie
 CURRENT,techtree_node_caption_droneintelligence,2593,"Upgrades drones so they collect minerals in batches, greatly speeding up the process","Upgrade drones zodat ze mineralen in batches verzamelen, wat het proces enorm versnelt"
 CURRENT,techtree_node_title_dronespeed1,2593,Drone Speed 1,Snelheid drone 1
@@ -1286,10 +1333,10 @@ CURRENT,techtree_node_caption_hydroponics1,2593,Improves crop yield to produce m
 CURRENT,techtree_node_title_hydroponics2,2593,Hydroponics 2,Hydrocultuur 2
 CURRENT,techtree_node_caption_hydroponics2,2593,"Further improves crop yield, and unlocks schematics to manufacture Hydroponics Modules",Verbetert de gewasopbrengst en ontsluit schema's om hydrocultuurmodules te maken
 CURRENT,boost_reactorefficiency,2593,Reactor Efficiency +*X%,Reactorefficiëntie +*X%
-CURRENT,boost_SmelterEfficiency,2593,Smelter Efficiency +*X%,Smelterij efficiëntie +*X%
-CURRENT,boost_DroneSpeed,2593,Drone Top Speed +*X%,Topsnelheid drone +*X%
-CURRENT,boost_TrackSpeed,2593,Track Speed +*X%,Spoorsnelheid +*X%
-CURRENT,boost_RobotArmSpeed,2593,Robot Arm Speed +*X%,Snelheid robotarm +*X%
+CURRENT,boost_smelterefficiency,2593,Smelter Efficiency +*X%,Smelterij efficiëntie +*X%
+CURRENT,boost_dronespeed,2593,Drone Top Speed +*X%,Topsnelheid drone +*X%
+CURRENT,boost_trackspeed,2593,Track Speed +*X%,Spoorsnelheid +*X%
+CURRENT,boost_robotarmspeed,2593,Robot Arm Speed +*X%,Snelheid robotarm +*X%
 CURRENT,boost_wasterecyclingefficiency,2593,Waste Recycling Efficiency +*X%,Efficiëntie afvalrecycling +*X%
 CURRENT,boost_waterrecyclingefficiency,2593,Water Recycling Efficiency +*X%,Efficiëntie waterrecycling +*X%
 CURRENT,boost_airrecyclingefficiency,2593,Air Recycling Efficiency +*X%,Luchtrecyclingefficiëntie +*X%
@@ -1504,7 +1551,7 @@ CURRENT,mission_production_available,2593,You have *X stacks of R*Y available fo
 CURRENT,mission_production_received,2593,We have received *X stacks of R*Y out of a total of *Z.,We hebben *X stapels R*Y ontvangen uit een totaal van *Z.
 CURRENT,mission_production_nomore,2593,There is no more R*X available within your fleet.,Er is geen R*X meer beschikbaar in je vloot.
 CURRENT,mission_production_success,2593,Provided *X/*Y items,Mits *X/*Y items
-CURRENT,mission_type_SectorDestroy,2593,Destroy Hostile Forces,Vijandige krachten vernietigen
+CURRENT,mission_type_sectordestroy,2593,Destroy Hostile Forces,Vijandige krachten vernietigen
 CURRENT,mission_sectordestroy_title,2593,SECTOR OBJECTIVE: Destroy all hostile forces,SECTOR DOELSTELLING: Vernietig alle vijandige strijdkrachten
 CURRENT,mission_sectordestroy_system,2593,You have destroyed the enemy forces in system S*X. Payment of $*Y is coming your way.,Je hebt de vijandelijke troepen in systeem S*X vernietigd. Je krijgt $*Y uitbetaald.
 CURRENT,mission_sectordestroy_progress,2593,Cleared *X out of *Y systems,*X uit *Y systemen verwijderd
@@ -1514,7 +1561,7 @@ CURRENT,mission_sectordestroy_desc3,2593,Terminate any enemy vessels you find at
 CURRENT,mission_sectordestroy_payment,2593,"A payment of $*X will be made after each location is cleared, for a total of $*Y.","Er wordt $*X betaald nadat elke locatie is vrijgegeven, voor een totaal van $*Y."
 CURRENT,mission_sectordestroy_map,2593,Destroy hostiles [*X/*Y],Vernietig vijanden [*X/*Y]
 CURRENT,mission_sectordestory_success,2593,HOSTILES ELIMINATED,VIJANDEN UITGESCHAKELD
-CURRENT,mission_type_SectorRescue,2593,Rescue (Sector),Redding (Sector)
+CURRENT,mission_type_sectorrescue,2593,Rescue (Sector),Redding (Sector)
 CURRENT,mission_sectorrescue_title,2593,SECTOR OBJECTIVE: Rescue civilians from wrecked ship,SECTOR DOELSTELLING: Burgers redden van wrak schip
 CURRENT,mission_sectorrescue_description1,2593,Investigate a distress call in system S*X.,Onderzoek een noodoproep in systeem S*X.
 CURRENT,mission_sectorrescue_thrusters,2593,NB. YOU WILL NEED AT LEAST FOUR THRUSTERS TO MANOEUVRE INTO POSITION.,NB. JE HEBT MINSTENS VIER STUWRAKETTEN NODIG OM IN POSITIE TE MANOEUVREREN.
@@ -1534,7 +1581,7 @@ CURRENT,mission_sectorrescue_map_initial,2593,Investigate Distress Call,Noodopro
 CURRENT,mission_sectorrescue_map,2593,People rescued [*X/*Y],Mensen gered [*X/*Y]
 CURRENT,mission_sectorrescue_awardcaption,2593,*X People rescued.,*X Mensen gered.
 CURRENT,mission_sectorrescue_success,2593,RESCUE COMPLETED,REDDING VOLTOOID
-CURRENT,mission_type_SectorProtect,2593,Protect (Sector),Beschermen (Sector)
+CURRENT,mission_type_sectorprotect,2593,Protect (Sector),Beschermen (Sector)
 CURRENT,mission_sectorprotect_title,2593,SECTOR OBJECTIVE: Protect ship under attack,SECTOR DOELSTELLING: Beschermen van aangevallen schip
 CURRENT,mission_sectorprotect_description1,2593,Investigate a distress call in system S*X.,Onderzoek een noodoproep in systeem S*X.
 CURRENT,mission_sectorprotect_description2,2593,A commercial vessel is under attack from an unknown hostile enemy. They have already taken heavy damage.,Een commercieel schip wordt aangevallen door een onbekende vijand. Ze hebben al zware schade opgelopen.
@@ -2139,8 +2186,8 @@ CURRENT,wolf_shipname_wolf1,2593,Interstellar Prospector,Interstellaire goudzoek
 CURRENT,wolf_shipname_wolf2,2593,Infinite Horizon,Oneindige horizon
 CURRENT,wolf_shipname_wolf3,2593,Celestial Hauler,Hemelse vervoerder
 CURRENT,wolf_shipname_scavenger,2593,Scavenger Wraith,Aaseter Wraith
-CURRENT,object_FlightRecorder,2593,Flight Recorder,Vluchtrecorder
-CURRENT,object_ShipWreckage,2593,Ship Wreckage,Schipbreuk
+CURRENT,object_flightrecorder,2593,Flight Recorder,Vluchtrecorder
+CURRENT,object_shipwreckage,2593,Ship Wreckage,Schipbreuk
 CURRENT,wolf_part1_scavenger1,2593,"Got my hands on something you might be looking for.  A recording of the screams and static from the ship's final moments.  You want it, I know it.  Scavengers rights says it's mine.","Ik heb iets in handen waar je misschien naar op zoek bent.  Een opname van het geschreeuw en de ruis van de laatste momenten van het schip.  Jij wilt het, ik weet het.  Scavengers rechten zegt dat het van mij is."
 CURRENT,wolf_part1_scavenger2,2593,"Luckily for you, you can have your precious data, so long as I get my finders fee.  It'll cost you $*X for the secrets.  Cross me and it will be the last mistake you make.","Gelukkig voor jou mag je je kostbare gegevens hebben, zolang ik mijn vindersloon krijg.  Het kost je $*X voor de geheimen.  Verraad me en het zal de laatste fout zijn die je maakt."
 CURRENT,wolf_part1_scavenger3,2593,Funds received. Pleasure doing business.,Ontvangen geld. Prettig zaken doen.
@@ -2271,7 +2318,7 @@ CURRENT,blackhole_part3_objective_dock,2593,Dock with the ship,Leg aan bij het s
 CURRENT,blackhole_part3_objective_rescue,2593,Rescue Dr. Marcus Martinez,Red Dr. Marcus Martinez
 CURRENT,blackhole_part3_objective_jumpout,2593,Jump away from the black hole,Spring weg van het zwarte gat
 CURRENT,blackhole_part3_objective_stargate,2593,Recover the Stargate data,Herstel de gegevens van de Sterrenpoort
-CURRENT,blackhole_part3_objective_stargateX,2593,Recover the Stargate data [*X%],Herstel de Sterrenpoortgegevens [*X%]
+CURRENT,blackhole_part3_objective_stargatex,2593,Recover the Stargate data [*X%],Herstel de Sterrenpoortgegevens [*X%]
 CURRENT,blackhole_part3_action_control,2593,Control Julian's ship,Bestuur Julians schip
 CURRENT,blackhole_part3_stargate1,2593,"Greetings, Captain.  Good luck with the rescue.  Remember the data onboard Marcus' ship is extremely valuable to us.  You'll need Marcus to transmit the data from his console before you can complete the rescue.","Groeten, kapitein.  Veel succes met de redding.  Vergeet niet dat de gegevens aan boord van Marcus' schip zeer waardevol voor ons zijn.  Marcus moet de gegevens van zijn console doorsturen voordat u de redding kunt voltooien."
 CURRENT,blackhole_part3_stargate2,2593,Losing that data will set the Stargate project back years.,Het verlies van die gegevens zal het Sterrenpoortproject jaren terugzetten.
@@ -2658,7 +2705,7 @@ CURRENT,dsi_part1_stationname,2593,A.J.E Foundry,A.J.E Gieterij
 CURRENT,dsi_part1_title,2593,Deep Space Industrialists,Ruimtevaartindustriëlen
 CURRENT,dsi_part1_advert1,2593,"My name is Alexander James Elistar, and I'm the chairman and founder of A.J.E Industries.  I have a business proposition for you.  If you would be interested in setting up a production facility for me, I believe with some luck and a good deal of hard work we can both make substantial returns.","Mijn naam is Alexander James Elistar en ik ben de voorzitter en oprichter van A.J.E Industries.  Ik heb een zakelijk voorstel voor u.  Als je geïnteresseerd zou zijn in het opzetten van een productiefaciliteit voor mij, dan denk ik dat we met wat geluk en een flinke dosis hard werk allebei een aanzienlijk rendement kunnen behalen."
 CURRENT,dsi_part1_advert2,2593,Please give me a call to discuss the details.,Bel me om de details te bespreken.
-CURRENT,dsi_part1_action_callX,2593,Call X,Bel X
+CURRENT,dsi_part1_action_callx,2593,Call X,Bel X
 CURRENT,dsi_part1_call1,2593,"Captain.  Perhaps you are already aware, but there are big plans underway within this sector.  There are designs to build something... incredible, a transportation system with near infinite range, requiring state of the art manufacturing and industry.","Kapitein.  Misschien weet je het al, maar er zijn grootse plannen gaande in deze sector.  Er zijn ontwerpen om iets ongelofelijks te bouwen, een transportsysteem met een bijna oneindige reikwijdte, waarvoor ultramoderne productie en industrie nodig is."
 CURRENT,dsi_part1_call2,2593,"A stargate, big enough for our most massive fleets, shuttling humanity between galaxies as if they were nothing but neighbouring stars.  A new multi-galactic era for humanity.","Een sterrenpoort, groot genoeg voor onze meest massieve vloten, die de mensheid tussen sterrenstelsels pendelt alsof het niets anders is dan naburige sterren.  Een nieuw multi-galactisch tijdperk voor de mensheid."
 CURRENT,dsi_part1_call3,2593,In all my years I've never known so much capital to be allocated to one project.,In al mijn jaren heb ik nog nooit meegemaakt dat er zoveel kapitaal aan één project werd toegewezen.
@@ -2787,6 +2834,7 @@ CURRENT,dsi_part2_scene_z4,2593,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2593,THERE WILL BE NO FURTHER WARNING.,ZAL ER GEEN VERDERE WAARSCHUWING VOLGEN.
 CURRENT,dsi_part2_scene_y7,2593,You've left me no choice.,Je hebt me geen keus gelaten.
 CURRENT,dsi_part2_scene_y8,2593,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Ik kom voor jou Alexander, en deze keer vraag ik niet om 10%. Ik wil alles."
+OBSOLETE,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,Hun uiterlijke slijtage doet ons geloven dat ze hier al minstens een eeuw zijn. Deze sector moet een van de eerste pogingen van de mensheid zijn geweest om de ruimte te koloniseren.
 OBSOLETE,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.","Schakel functies in om vertalers te helpen, zoals Alt om Engels te onthullen en Ctrl om de zinsnede te onthullen."
 OBSOLETE,shipeditor_tooltip_eyedropper,2793,"Lets you select a paint from the exterior of your ship (can also be used by pressing the ""Shift"" key)","Hiermee kun je een verf van de buitenkant van je schip selecteren (kan ook worden gebruikt door op de ""Shift""-toets te drukken)"
 OBSOLETE,settings_exitsaves_tooltip,2675,"When enabled, the current game will be saved when abandoned or when the game is quit in a file called exitsave.\n\nCAUTION: This file will be overwritten on every exit.","Als dit is ingeschakeld, wordt het huidige spel opgeslagen wanneer het wordt verlaten of wanneer het spel wordt afgesloten in een bestand met de naam exitsave.\n\nLET OP: Dit bestand wordt bij elke exit overschreven."
@@ -2822,8 +2870,6 @@ OBSOLETE,tutorial_airpipetoairduct,2593,"Drag a PIPE from the OXYGEN LOADER to t
 OBSOLETE,tutorial_airdone,2593,The AIRDUCT is activated and is pressurising the cabin! The atmosphere will soon be breathable.,De AIRDUCT is geactiveerd en zet de cabine onder druk! De atmosfeer zal snel ademend zijn.
 OBSOLETE,tutorial_enginesinformation,2593,Engines require both POWER and FUEL to operate. We must connect both engines to fuel and power.,Motoren hebben zowel STROOM als BRANDstof nodig om te kunnen werken. We moeten beide motoren verbinden met brandstof en vermogen.
 OBSOLETE,tutorial_enginesconnectpower,2593,"Now use the CABLES menu to power up the engine, by connecting it to your existing red power lines.",Gebruik nu het menu CABLES om de motor van stroom te voorzien door hem aan te sluiten op je bestaande rode stroomkabels.
-OBSOLETE,tutorial_ftlintro,2593,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,We kunnen deze passagiers niet op hun bestemming afleveren zonder sneller dan licht te reizen. Helaas is dit schip niet uitgerust met een eigen FTL aandrijving.\n\nWe moeten er een kopen en installeren.
-OBSOLETE,tutorial_ftltradescreen,2593,Open the trade screen to purchase an FTL drive.,Open het handelsscherm om een FTL-station te kopen.
 OBSOLETE,tutorial_ftlselectpropulsion,2593,The items we need are listed under PROPULSION. Select that category.,De items die we nodig hebben staan onder PROPULSIE. Selecteer die categorie.
 OBSOLETE,tutorial_ftladdftldrive,2593,Add one FTL drive to our order by clicking on the entry in the list.,Voeg één FTL-station toe aan onze bestelling door op het item in de lijst te klikken.
 OBSOLETE,tutorial_ftladdftlfuel,2593,FTL drives consume one fuel charge per jump. Add 5 FTL Charges to the order as well.,FTL aandrijvingen verbruiken één brandstoflading per sprong. Voeg ook 5 FTL-ladingen toe aan de bestelling.

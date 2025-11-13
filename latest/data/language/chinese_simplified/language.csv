@@ -1,6 +1,61 @@
 ﻿state,key,svn,english,translation
-UPDATED,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,它们外表的磨损让我们相信，它们在这里至少已经有一个世纪了。这个区域肯定是人类最早的外太空殖民尝试之一。
-PREVIOUS,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,它们外表的磨损让我们相信，它们在这里至少已经有一个世纪了。这个区域肯定是人类最早的外太空殖民尝试之一。
+NEW,settings_credits,3149,CREDITS,荣誉
+NEW,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,启用后，游戏将保存到 Steam 云。如果保存失败，则会显示警告。
+NEW,newmainmenu_saveoptions,3149,Save Options,保存选项
+NEW,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] 切换地板风格
+NEW,hud_tooltip_currentflooring,3149,Current style: *X,目前的风格*X
+NEW,hud_tooltip_gratedflooring,3149,Grated,磨碎
+NEW,hud_tooltip_normalflooring,3149,Normal,正常
+NEW,hud_hull_integrity,3149,HULL,赫尔
+NEW,hud_power_battery,3149,BATTERY,电池
+NEW,hud_power_powershortage,3149,POWER SHORTAGE,电力短缺
+NEW,hud_idlecrew,3149,Idle Crew,闲散人员
+NEW,hud_consumingperhour,3149,Consuming *X per hour,每小时消耗*X 
+NEW,hud_dehydrationperperson,3149,Dehydration *X per person,每人脱水*X 
+NEW,hud_hungerperperson,3149,Hunger *X per person,每人饥饿*X 
+NEW,hud_byauthor,3149,BY *X,BY*X
+NEW,communicator_newobjective,3149,NEW OBJECTIVE,新目标
+NEW,galaxymap_stargate,3149,STARGATE,星门
+NEW,trade_canceltrade,3149,CANCEL TRADE AND REFUND,取消交易和退款
+NEW,trade_refundvalue,3149,REFUND VALUE,退款价值
+NEW,trade_cancellationcost,3149,CANCELLATION COST,取消费用
+NEW,trade_partiallyfilled,3149,PARTIALLY FILLED,部分填满
+NEW,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,不完整部件
+NEW,trade_removeincomplete,3149,REMOVE INCOMPLETE,删除不完整
+NEW,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,清除部分填充物
+NEW,trade_order_normal,3149,(*X),(*X)
+NEW,trade_order_buy_on_sell_screen,3149,(BUY *X),(购买*X)
+NEW,trade_order_sell_on_buy_screen,3149,(SELL *X),(SELL*X)
+NEW,trade_order_sack_on_buy_screen,3149,(SACK *X),(SACK*X)
+NEW,techtree_researchpercent,3149,*X% Complete,*X完成百分比
+NEW,tooltip_efficiency,3149,Efficiency +*X%,效率 +*X%
+NEW,tooltip_activating,3149,Activating +*X%,激活 +*X%
+NEW,alert_type_lowdeuterium,3149,LOW DEUTERIUM,低氘
+NEW,stargate_unknowncomponent,3149,Unknown Component,未知组件
+NEW,stargate_unknowncomponent_description,3149,Unlock this component through research!,通过研究解开这部分内容！
+NEW,creditstitle_builders,3149,Ship Builders,造船厂
+NEW,creditstitle_testers,3149,Early Play Testing,早期游戏测试
+NEW,creditstitle_translators,3149,Translation,翻译
+NEW,engine_thrust,3149,THRUST *X%,总流量*X%
+UPDATED,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + RMB] 转换为分割器
+PREVIOUS,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[人民币] 转换为分割器
+UPDATED,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + RMB] 转换为轨道
+PREVIOUS,hud_convertsplittertotrack,3054,[RMB] Convert to track,[人民币] 转换为轨道
+UPDATED,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,没有超光速旅行，我们无法将这些乘客送达目的地。不幸的是，这艘飞船没有配备自己的<b>超光速驱动器</b>。\n\n我们需要买一个并安装好。
+PREVIOUS,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,没有超光速旅行，我们无法将这些乘客送达目的地。不幸的是，这艘飞船没有配备自己的<b>超光速</b>驱动器。\n\n我们需要买一个并安装好。
+PREVIOUS,tutorial_ftlintro,2448,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,没有超光速旅行，我们无法将这些乘客送达目的地。不幸的是，这艘飞船没有配备自己的超光速驱动器。\n\n我们需要买一个并安装好。
+UPDATED,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,打开贸易界面，购买一个<b>超光速驱动器</b>和一些<b>超光速燃料</b>。
+PREVIOUS,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,打开交易界面，购买<b>超光速</b>驱动器。
+PREVIOUS,tutorial_ftltradescreen,2448,Open the trade screen to purchase an FTL drive.,打开交易界面，购买超光速驱动器。
+UPDATED,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,包括停靠船只
+PREVIOUS,newmainmenu_includedocked,2448,INCLUDE DOCKED SHIPS IN EXPORT,将停靠船只列入出口
+UPDATED,hud_layer_hostile,3149,HOSTILE *X,主机*X
+PREVIOUS,hud_layer_hostile,2448,HOSTILE,主机
+UPDATED,hud_layer_derelict,3149,DERELICT *X,DERELICT*X
+PREVIOUS,hud_layer_derelict,2448,DERELICT,DERELICT
+UPDATED,hud_layer_forsale,3149,[FOR SALE] *X,[出售]*X
+PREVIOUS,hud_layer_forsale,2448,[FOR SALE],[出售]
+CURRENT,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,它们外表的磨损让我们相信，它们在这里至少已经有一个世纪了。这个区域肯定是人类最早的外太空殖民尝试之一。
 CURRENT,techtree_node_caption_metallurgyrepeatable,3054,Spend research credits to continually increase our smelting efficiency.,花费研究学分，不断提高我们的冶炼效率。
 CURRENT,mainmenu_gamemode_arena,3054,Arena,竞技场
 CURRENT,mainmenu_gamemode_arena_tooltip,3054,Create epic space battles between fleets of ships and watch the carnage unfold.,在舰队之间创建史诗般的太空战斗，观看大屠杀的发生。
@@ -20,8 +75,6 @@ CURRENT,newmainmenu_multisectorsim,3054,Multi-System Simulation,多系统模拟
 CURRENT,newmainmenu_multisectorsimtooltip,3054,"Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.",可进行多系统模拟，让您可以同时在多个系统/区段中分割您的舰队。
 CURRENT,hud_shipmaximumoccupancy,3054,Ship Maximum Occupancy: *X/*Y,船舶最大载客量：*X/*Y
 CURRENT,hud_surveyinprogress,3054,WARNING - SURVEY WILL BE CANCELLED,警告 - 调查将被取消
-CURRENT,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[人民币] 转换为分割器
-CURRENT,hud_convertsplittertotrack,3054,[RMB] Convert to track,[人民币] 转换为轨道
 CURRENT,shipeditor_tooltip_painthull,3054,Toggle painting the exterior panels of the hull of your ship,切换船体外部面板的喷漆工作
 CURRENT,shipeditor_tooltip_painthabitation,3054,Toggle painting the exterior panels of the habitation quarters of your ship,对飞船居住区的外墙板进行切换喷漆
 CURRENT,shipeditor_tooltip_paintscaffold,3054,Toggle painting the scaffolding on your ship,为船上的脚手架喷涂油漆
@@ -285,8 +338,6 @@ CURRENT,tutorial_airpipetoairduct,2886,"Drag a <b>PIPE</b> from the <b>OXYGEN LO
 CURRENT,tutorial_airdone,2886,The <b>AIRDUCT</b> is activated and is pressurising the cabin! The atmosphere will soon be breathable.,<b>空气导流器</b>已启动，正在给机舱加压！大气很快就可以呼吸了。
 CURRENT,tutorial_enginesinformation,2886,Engines require both <b>POWER</b> and <b>FUEL</b> to operate. We must connect both engines to fuel and power.,发动机的运行需要<b>动力</b>和<b>燃料</b>。我们必须将发动机与燃料和动力连接起来。
 CURRENT,tutorial_enginesconnectpower,2886,"Now use the <b>CABLES</b> menu to power up the engine, by connecting it to your existing red power lines.",现在使用 <b>CABLES</b>（电缆）菜单，将其连接到现有的红色电源线上，为引擎供电。
-CURRENT,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,没有超光速旅行，我们无法将这些乘客送达目的地。不幸的是，这艘飞船没有配备自己的<b>超光速</b>驱动器。\n\n我们需要买一个并安装好。
-CURRENT,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,打开交易界面，购买<b>超光速</b>驱动器。
 CURRENT,tutorial_ftlselectpropulsion,2886,The items we need are listed under <b>PROPULSION</b>. Select that category.,我们需要的物品列在 <b>PROPULSION</b> 分类下。请选择该类别。
 CURRENT,tutorial_ftladdftldrive,2886,Add one <b>FTL</b> drive to our order by clicking on the entry in the list.,点击列表中的条目，为我们的订单添加一个<b>超光速</b>驱动器。
 CURRENT,tutorial_ftladdftlfuel,2886,<b>FTL</b> drives consume one fuel charge per jump. Add 5 <b>FTL</b> Charges to the order as well.,<b>超光速</b>驱动器每次跳跃消耗一个燃料充电。订单中还需添加 5 个<b>超光速</b>燃料。
@@ -407,12 +458,12 @@ CURRENT,keybinding_panup1,2793,Pan Up (1),向上平移 (1)
 CURRENT,keybinding_panup2,2793,Pan Up (2),向上平移 (2)
 CURRENT,keybinding_zoomin,2793,Zoom In,放大
 CURRENT,keybinding_zoomout,2793,Zoom Out,放大
-CURRENT,keybinding_ManoeuvreLeft,2793,Thrust Left,左推力
-CURRENT,keybinding_ManoeuvreRight,2793,Thrust Right,向右推进
-CURRENT,keybinding_ManoeuvreUp,2793,Thrust Up,向上推
-CURRENT,keybinding_ManoeuvreDown,2793,Thrust Down,向下推进
-CURRENT,keybinding_ManoeuvreClockwise,2793,Thrust Clockwise,顺时针推力
-CURRENT,keybinding_ManoeuvreCounterClockwise,2793,Thrust C-Clockwise,C 顺时针方向推力
+CURRENT,keybinding_manoeuvreleft,2793,Thrust Left,左推力
+CURRENT,keybinding_manoeuvreright,2793,Thrust Right,向右推进
+CURRENT,keybinding_manoeuvreup,2793,Thrust Up,向上推
+CURRENT,keybinding_manoeuvredown,2793,Thrust Down,向下推进
+CURRENT,keybinding_manoeuvreclockwise,2793,Thrust Clockwise,顺时针推力
+CURRENT,keybinding_manoeuvrecounterclockwise,2793,Thrust C-Clockwise,C 顺时针方向推力
 CURRENT,keybinding_toggletactical,2793,Toggle Tactical,切换战术
 CURRENT,keybinding_togglemap,2793,Toggle Map,切换地图
 CURRENT,keybinding_increasethrust,2793,Engines +,发动机 +
@@ -718,7 +769,7 @@ CURRENT,techtree_node_title_hydroponics1,2448,Hydroponics 1,水栽法 1
 CURRENT,techtree_node_caption_hydroponics1,2448,Improves crop yield to produce more food per cycle,提高作物产量，每个周期生产更多食物
 CURRENT,techtree_node_title_hydroponics2,2448,Hydroponics 2,水栽法 2
 CURRENT,boost_harvestingyield,2448,Crop Yield +*X%,作物产量 +*X%
-CURRENT,mission_type_SectorProtect,2448,Protect (Sector),保护（部门）
+CURRENT,mission_type_sectorprotect,2448,Protect (Sector),保护（部门）
 CURRENT,mission_sectorprotect_title,2448,SECTOR OBJECTIVE: Protect ship under attack,部门目标：保护受到攻击的船只
 CURRENT,mission_sectorprotect_description2,2448,A commercial vessel is under attack from an unknown hostile enemy. They have already taken heavy damage.,一艘商船正遭受不明敌军的袭击。他们已经遭受重创。
 CURRENT,mission_sectorprotect_accepted,2448,We've marked the location of the ship on your map. Please hurry!,我们已经在您的地图上标出了船只的位置。请抓紧时间
@@ -837,11 +888,11 @@ CURRENT,samplebankeditor_addsample,2448,Add Sound,添加声音
 CURRENT,samplebank,2448,(Sample Bank),(样本库）
 CURRENT,tagline,2448,THE LAST STARSHIP,最后一艘飞船
 CURRENT,mainmenu_title,2448,Main Menu,主菜单
-CURRENT,mainmenu_newgameA,2448,New Game - Praxis,新游戏 - 普拉克西斯
-CURRENT,mainmenu_newgameB,2448,New Game - Sleek,新游戏--光滑
-CURRENT,mainmenu_newgameC,2448,New Game - Inner Shapes,新游戏 - 内部形状
-CURRENT,mainmenu_newgameD,2448,New Game - Shipyard,新游戏 - 船坞
-CURRENT,mainmenu_newgameE,2448,New Game - Large Logistics,新游戏 - 大型物流
+CURRENT,mainmenu_newgamea,2448,New Game - Praxis,新游戏 - 普拉克西斯
+CURRENT,mainmenu_newgameb,2448,New Game - Sleek,新游戏--光滑
+CURRENT,mainmenu_newgamec,2448,New Game - Inner Shapes,新游戏 - 内部形状
+CURRENT,mainmenu_newgamed,2448,New Game - Shipyard,新游戏 - 船坞
+CURRENT,mainmenu_newgamee,2448,New Game - Large Logistics,新游戏 - 大型物流
 CURRENT,mainmenu_savegame,2448,Save Game,保存游戏
 CURRENT,mainmenu_loadgame,2448,Load Game,加载游戏
 CURRENT,mainmenu_abandongame,2448,Abandon Game,放弃游戏
@@ -946,7 +997,6 @@ CURRENT,newmainmenu_loadgamedev,2448,LOAD GAME (DEV),加载游戏
 CURRENT,newmainmenu_createship,2448,CREATE NEW SHIP,创建新船
 CURRENT,newmainmenu_createnewsave,2448,CREATE NEW SAVE,新建保存
 CURRENT,newmainmenu_exportship,2448,EXPORT SHIP,出口船舶
-CURRENT,newmainmenu_includedocked,2448,INCLUDE DOCKED SHIPS IN EXPORT,将停靠船只列入出口
 CURRENT,newmainmenu_uploadship,2448,UPLOAD TO STEAM,上传到蒸汽
 CURRENT,newmainmenu_setshipname,2448,SET SHIP NAME,设置船名
 CURRENT,newmainmenu_importhostile,2448,IMPORT HOSTILE,输入主机
@@ -1137,9 +1187,6 @@ CURRENT,hud_storagecrate_tooltip_storing,2448,Storing *X,存储*X
 CURRENT,hud_storagecrate_tooltip_quantity,2448,Quantity: *X,数量*X
 CURRENT,hud_storagecrate_tooltip_capacity,2448,Capacity: *X,容量*X
 CURRENT,hud_mission_collection,2448,WARNING - MISSION COLLECTION UNDERWAY,警告--正在进行任务收集
-CURRENT,hud_layer_hostile,2448,HOSTILE,主机
-CURRENT,hud_layer_derelict,2448,DERELICT,DERELICT
-CURRENT,hud_layer_forsale,2448,[FOR SALE],[出售]
 CURRENT,hud_layer_unnaned_system,2448,UNNAMED,未命名
 CURRENT,hud_trade_incoming,2448,WARNING - TRADE INCOMING,警告 - 交易即将到来
 CURRENT,hud_trade_owed,2448,WARNING - TRADE OWED,警告--贸易欠款
@@ -1212,11 +1259,11 @@ CURRENT,shipeditor_tooltip_spawn,2448,Spawn equipment and resources inside your 
 CURRENT,shipeditor_brush_freehand,2448,FREEHAND,自由手
 CURRENT,shipeditor_brush_box,2448,BOX TOOL,箱式工具
 CURRENT,shipeditor_price_button,2448,Cost,费用
-CURRENT,shipeditor_stat_Mass,2448,Mass,质量
-CURRENT,shipeditor_stat_Toughness,2448,Toughness,韧性
-CURRENT,shipeditor_stat_Capacity,2448,Cabins,木屋
-CURRENT,shipeditor_stat_Value,2448,Value,价值
-CURRENT,shipeditor_stat_Damage,2448,Damage,损坏
+CURRENT,shipeditor_stat_mass,2448,Mass,质量
+CURRENT,shipeditor_stat_toughness,2448,Toughness,韧性
+CURRENT,shipeditor_stat_capacity,2448,Cabins,木屋
+CURRENT,shipeditor_stat_value,2448,Value,价值
+CURRENT,shipeditor_stat_damage,2448,Damage,损坏
 CURRENT,shipeditor_symmetry,2448,SYMMETRY,SYMMETRY
 CURRENT,shipeditor_symmetry_short,2448,S,S
 CURRENT,shipeditor_symmetry_leftclickdrag,2448,[LMB] Drag,[LMB] 拖动
@@ -1248,7 +1295,7 @@ CURRENT,powergrid_power,2448,POWER,权力
 CURRENT,powergrid_category_reactor,2448,REACTOR,反应器
 CURRENT,powergrid_category_battery,2448,BATTERY,电池
 CURRENT,powergrid_category_engines,2448,ENGINES,发动机
-CURRENT,powergrid_category_FTL,2448,FTL,超光速
+CURRENT,powergrid_category_ftl,2448,FTL,超光速
 CURRENT,powergrid_category_weapons,2448,WEAPONS,武器
 CURRENT,powergrid_category_defenses,2448,DEFENSES,辩护
 CURRENT,powergrid_category_lifesupport,2448,LIFE SUPPORT,生命支持
@@ -1279,16 +1326,16 @@ CURRENT,trade_overlay_price,2448,PRICE,价格
 CURRENT,trade_overlay_them,2448,THEM,他们
 CURRENT,trade_overlay_you,2448,YOU,你
 CURRENT,trade_overlay_boxed,2448,[boxed],[盒装]
-CURRENT,trade_window_Energy,2448,Energy,能源
-CURRENT,trade_window_Propulsion,2448,Propulsion,推进器
-CURRENT,trade_window_Habitation,2448,Habitation,居住环境
-CURRENT,trade_window_Defense,2448,Defense,国防
-CURRENT,trade_window_Industry,2448,Industry,行业
-CURRENT,trade_window_Logistics,2448,Logistics,物流
-CURRENT,trade_window_Science,2448,Science,科学
-CURRENT,trade_window_Resources,2448,Resources,资源
-CURRENT,trade_window_Components,2448,Components,组件
-CURRENT,trade_window_Crew,2448,Crew,船员
+CURRENT,trade_window_energy,2448,Energy,能源
+CURRENT,trade_window_propulsion,2448,Propulsion,推进器
+CURRENT,trade_window_habitation,2448,Habitation,居住环境
+CURRENT,trade_window_defense,2448,Defense,国防
+CURRENT,trade_window_industry,2448,Industry,行业
+CURRENT,trade_window_logistics,2448,Logistics,物流
+CURRENT,trade_window_science,2448,Science,科学
+CURRENT,trade_window_resources,2448,Resources,资源
+CURRENT,trade_window_components,2448,Components,组件
+CURRENT,trade_window_crew,2448,Crew,船员
 CURRENT,trade_equipment_charge,2448,- Charge (per use) : *X MW,- 收费（每次使用） ： *X 兆瓦
 CURRENT,trade_stack,2448,Stack of *X,堆叠*X
 CURRENT,trade_boxed,2448,Boxed,盒装
@@ -1316,12 +1363,12 @@ CURRENT,techtree_available,2448,AVAILABLE,可提供
 CURRENT,techtree_unavailable,2448,REQUIREMENTS NOT MET,未达到要求
 CURRENT,techtree_in_progress,2448,RESEARCH IN PROGRESS,正在进行的研究
 CURRENT,techtree_busy,2448,RESEARCHERS ARE BUSY,研究人员忙于
-CURRENT,techtree_cost_RP,2448,Cost: *X RP,成本 *X RP
-CURRENT,techtree_cost_CP,2448,Cost: *X CP,费用 *X CP
-CURRENT,techtree_cost_RP+CP,2448,Cost: *X RP + *Y CP,费用： *X RP +*Y CP
-CURRENT,techtree_currentResearch,2448,Currently Researching:,目前正在研究：
-CURRENT,techtree_researchPoints,2448,Research Points:,研究点：
-CURRENT,techtree_computationPoints,2448,Computation Points:,计算点数：
+CURRENT,techtree_cost_rp,2448,Cost: *X RP,成本 *X RP
+CURRENT,techtree_cost_cp,2448,Cost: *X CP,费用 *X CP
+CURRENT,techtree_cost_rp+cp,2448,Cost: *X RP + *Y CP,费用： *X RP +*Y CP
+CURRENT,techtree_currentresearch,2448,Currently Researching:,目前正在研究：
+CURRENT,techtree_researchpoints,2448,Research Points:,研究点：
+CURRENT,techtree_computationpoints,2448,Computation Points:,计算点数：
 CURRENT,techtree_rewards,2448,Rewards:,奖励：
 CURRENT,techtree_unlocks,2448,Unlocks:,解锁
 CURRENT,techtree_boosts,2448,Performance Boosts:,性能提升：
@@ -1332,24 +1379,24 @@ CURRENT,techtree_warning,2448,WARNING!,警告！
 CURRENT,techtree_lose_progress,2448,Starting a new research project will lose all progress on the current one.,启动一个新的研究项目将导致当前项目的所有进展付诸东流。
 CURRENT,techtree_stargate_warning,2448,Completing Andromeda Project phases ahead of the Deep Space Industrialists storyline will bypass those episodes.,"在 ""深空实业家 ""故事情节之前完成 ""仙女座计划 ""的各个阶段，可以绕过这些情节。"
 CURRENT,techtree_missing_equipment,2448,This research project requires a *X to be completed,本研究项目需要完成*X 
-CURRENT,techtree_node_title_Logistics1,2448,Logistics,物流
-CURRENT,techtree_node_caption_Logistics1,2448,Unlocks schematics for small logistics storage,解锁小型物流仓储示意图
-CURRENT,techtree_node_title_Logistics2,2448,Logistics Level 2,二级物流
-CURRENT,techtree_node_caption_Logistics2,2448,Unlocks schematics for Medium sized storage,解锁中型存储器的原理图
-CURRENT,techtree_node_title_Logistics3,2448,Logistics Level 3,物流 3 级
-CURRENT,techtree_node_caption_Logistics3,2448,Unlocks schematics for Large logistics storage,解锁大型物流仓储示意图
-CURRENT,techtree_node_title_Automation,2448,Automation,自动化
-CURRENT,techtree_node_caption_Automation,2448,Unlocks schematics for Tracks and Robot Arms,解锁履带和机械臂的原理图
-CURRENT,techtree_node_title_CompactAutomation,2448,Compact Robot Arms,紧凑型机器人手臂
-CURRENT,techtree_node_caption_CompactAutomation,2448,Unlocks schematic for Short Robot Arm,解锁短机械臂原理图
-CURRENT,techtree_node_title_SmartAutomation,2448,Smart Robot Arms,智能机械臂
-CURRENT,techtree_node_caption_SmartAutomation,2448,Unlocks schematic for Smart Robot Arm,解锁智能机械臂原理图
-CURRENT,techtree_node_title_Metallurgy1,2448,Metallurgy Level 1,冶金学 1 级
-CURRENT,techtree_node_caption_Metallurgy1,2448,Smelters produce 50% more output,冶炼厂的产量增加 50
-CURRENT,techtree_node_title_Metallurgy2,2448,Metallurgy Level 2,冶金学 2 级
-CURRENT,techtree_node_caption_Metallurgy2,2448,Smelters produce 100% more output,冶炼厂的产量提高 100
-CURRENT,techtree_node_title_EnergyTransmission,2448,Energy Transmission,能源传输
-CURRENT,techtree_node_caption_EnergyTransmission,2448,Unlocks schematic for Energy Transmitter and Receiver,解锁能量发射器和接收器原理图
+CURRENT,techtree_node_title_logistics1,2448,Logistics,物流
+CURRENT,techtree_node_caption_logistics1,2448,Unlocks schematics for small logistics storage,解锁小型物流仓储示意图
+CURRENT,techtree_node_title_logistics2,2448,Logistics Level 2,二级物流
+CURRENT,techtree_node_caption_logistics2,2448,Unlocks schematics for Medium sized storage,解锁中型存储器的原理图
+CURRENT,techtree_node_title_logistics3,2448,Logistics Level 3,物流 3 级
+CURRENT,techtree_node_caption_logistics3,2448,Unlocks schematics for Large logistics storage,解锁大型物流仓储示意图
+CURRENT,techtree_node_title_automation,2448,Automation,自动化
+CURRENT,techtree_node_caption_automation,2448,Unlocks schematics for Tracks and Robot Arms,解锁履带和机械臂的原理图
+CURRENT,techtree_node_title_compactautomation,2448,Compact Robot Arms,紧凑型机器人手臂
+CURRENT,techtree_node_caption_compactautomation,2448,Unlocks schematic for Short Robot Arm,解锁短机械臂原理图
+CURRENT,techtree_node_title_smartautomation,2448,Smart Robot Arms,智能机械臂
+CURRENT,techtree_node_caption_smartautomation,2448,Unlocks schematic for Smart Robot Arm,解锁智能机械臂原理图
+CURRENT,techtree_node_title_metallurgy1,2448,Metallurgy Level 1,冶金学 1 级
+CURRENT,techtree_node_caption_metallurgy1,2448,Smelters produce 50% more output,冶炼厂的产量增加 50
+CURRENT,techtree_node_title_metallurgy2,2448,Metallurgy Level 2,冶金学 2 级
+CURRENT,techtree_node_caption_metallurgy2,2448,Smelters produce 100% more output,冶炼厂的产量提高 100
+CURRENT,techtree_node_title_energytransmission,2448,Energy Transmission,能源传输
+CURRENT,techtree_node_caption_energytransmission,2448,Unlocks schematic for Energy Transmitter and Receiver,解锁能量发射器和接收器原理图
 CURRENT,techtree_node_title_droneintelligence,2448,Drone Intelligence,无人机情报
 CURRENT,techtree_node_caption_droneintelligence,2448,"Upgrades drones so they collect minerals in batches, greatly speeding up the process",升级无人机，使其能成批采集矿物，大大加快采集速度
 CURRENT,techtree_node_title_dronespeed1,2448,Drone Speed 1,无人机速度 1
@@ -1381,10 +1428,10 @@ CURRENT,techtree_node_caption_recycling1,2448,Improves all life-support recyclin
 CURRENT,techtree_node_title_recycling2,2448,Recycling Efficiency 2,回收效率 2
 CURRENT,techtree_node_caption_recycling2,2448,Brings all life-support recycling up to 100% efficiency,使所有生命支持循环的效率达到 100
 CURRENT,boost_reactorefficiency,2448,Reactor Efficiency +*X%,反应堆效率 +*X%
-CURRENT,boost_SmelterEfficiency,2448,Smelter Efficiency +*X%,冶炼效率 +*X%
-CURRENT,boost_DroneSpeed,2448,Drone Top Speed +*X%,无人机最高速度 +*X%
-CURRENT,boost_TrackSpeed,2448,Track Speed +*X%,轨道速度 +*X%
-CURRENT,boost_RobotArmSpeed,2448,Robot Arm Speed +*X%,机器人手臂速度 +*X%
+CURRENT,boost_smelterefficiency,2448,Smelter Efficiency +*X%,冶炼效率 +*X%
+CURRENT,boost_dronespeed,2448,Drone Top Speed +*X%,无人机最高速度 +*X%
+CURRENT,boost_trackspeed,2448,Track Speed +*X%,轨道速度 +*X%
+CURRENT,boost_robotarmspeed,2448,Robot Arm Speed +*X%,机器人手臂速度 +*X%
 CURRENT,boost_wasterecyclingefficiency,2448,Waste Recycling Efficiency +*X%,废物回收效率 +*X%
 CURRENT,boost_waterrecyclingefficiency,2448,Water Recycling Efficiency +*X%,水循环利用率 +*X%
 CURRENT,boost_airrecyclingefficiency,2448,Air Recycling Efficiency +*X%,空气回收效率 +*X%
@@ -1595,7 +1642,7 @@ CURRENT,mission_production_available,2448,You have *X stacks of R*Y available fo
 CURRENT,mission_production_received,2448,We have received *X stacks of R*Y out of a total of *Z.,我们已收到*X 堆栈中的R*Y ，共*Z 。
 CURRENT,mission_production_nomore,2448,There is no more R*X available within your fleet.,R*X 。
 CURRENT,mission_production_success,2448,Provided *X/*Y items,提供*X/*Y 项目
-CURRENT,mission_type_SectorDestroy,2448,Destroy Hostile Forces,摧毁敌对势力
+CURRENT,mission_type_sectordestroy,2448,Destroy Hostile Forces,摧毁敌对势力
 CURRENT,mission_sectordestroy_title,2448,SECTOR OBJECTIVE: Destroy all hostile forces,地区目标：消灭所有敌对势力
 CURRENT,mission_sectordestroy_progress,2448,Cleared *X out of *Y systems,将*X 从*Y 系统中清除
 CURRENT,mission_sectordestroy_desc1,2448,Hostile forces have taken up residence within this sector. They are hindering our evacuation efforts and stealing vital resources.,敌对势力已经在这一区域占据了一席之地。他们阻碍了我们的撤离工作，并窃取了重要资源。
@@ -1604,7 +1651,7 @@ CURRENT,mission_sectordestroy_desc3,2448,Terminate any enemy vessels you find at
 CURRENT,mission_sectordestroy_payment,2448,"A payment of $*X will be made after each location is cleared, for a total of $*Y.",每个地点结算后，将支付$*X ，总计$*Y 。
 CURRENT,mission_sectordestroy_map,2448,Destroy hostiles [*X/*Y],消灭敌人 [*X/*Y]
 CURRENT,mission_sectordestory_success,2448,HOSTILES ELIMINATED,消灭敌人
-CURRENT,mission_type_SectorRescue,2448,Rescue (Sector),救援（部门）
+CURRENT,mission_type_sectorrescue,2448,Rescue (Sector),救援（部门）
 CURRENT,mission_sectorrescue_title,2448,SECTOR OBJECTIVE: Rescue civilians from wrecked ship,部门目标：从失事船只中营救平民
 CURRENT,mission_sectorrescue_thrusters,2448,NB. YOU WILL NEED AT LEAST FOUR THRUSTERS TO MANOEUVRE INTO POSITION.,注意：您至少需要四个推进器才能操纵到位。
 CURRENT,mission_sectorrescue_timed,2448,The ship engines will explode very soon. (+25% pay).,飞船引擎很快就会爆炸。(+25% 报酬）。
@@ -2171,8 +2218,8 @@ CURRENT,wolf_shipname_wolf1,2448,Interstellar Prospector,星际勘探者
 CURRENT,wolf_shipname_wolf2,2448,Infinite Horizon,无限地平线
 CURRENT,wolf_shipname_wolf3,2448,Celestial Hauler,天体运输船
 CURRENT,wolf_shipname_scavenger,2448,Scavenger Wraith,清道夫巫妖
-CURRENT,object_FlightRecorder,2448,Flight Recorder,飞行记录器
-CURRENT,object_ShipWreckage,2448,Ship Wreckage,船舶残骸
+CURRENT,object_flightrecorder,2448,Flight Recorder,飞行记录器
+CURRENT,object_shipwreckage,2448,Ship Wreckage,船舶残骸
 CURRENT,wolf_part1_scavenger1,2448,"Got my hands on something you might be looking for.  A recording of the screams and static from the ship's final moments.  You want it, I know it.  Scavengers rights says it's mine.",我手上有你可能在找的东西  飞船最后时刻的尖叫和静电记录  你想要 我知道  拾荒者权利说这是我的
 CURRENT,wolf_part1_scavenger2,2448,"Luckily for you, you can have your precious data, so long as I get my finders fee.  It'll cost you $*X for the secrets.  Cross me and it will be the last mistake you make.","幸运的是，你可以得到你的珍贵资料 只要我拿到我的 ""发现费""。  你得花$*X 才能得到这些秘密  跟我作对，这将是你犯下的最后一个错误。"
 CURRENT,wolf_part1_scavenger3,2448,Funds received. Pleasure doing business.,已收到资金。生意兴隆。
@@ -2282,7 +2329,7 @@ CURRENT,blackhole_part3_objective_dock,2448,Dock with the ship,与飞船对接
 CURRENT,blackhole_part3_objective_rescue,2448,Rescue Dr. Marcus Martinez,营救马库斯-马丁内斯博士
 CURRENT,blackhole_part3_objective_jumpout,2448,Jump away from the black hole,跳离黑洞
 CURRENT,blackhole_part3_objective_stargate,2448,Recover the Stargate data,恢复星际之门数据
-CURRENT,blackhole_part3_objective_stargateX,2448,Recover the Stargate data [*X%],恢复星际之门数据 [*X%]
+CURRENT,blackhole_part3_objective_stargatex,2448,Recover the Stargate data [*X%],恢复星际之门数据 [*X%]
 CURRENT,blackhole_part3_action_control,2448,Control Julian's ship,控制朱利安的飞船
 CURRENT,blackhole_part3_stargate2,2448,Losing that data will set the Stargate project back years.,失去这些数据将使星际之门项目倒退数年。
 CURRENT,blackhole_part3_marcus1,2448,I was beginning to think you wouldn't be coming!  I've been down here for hours!,我还以为你不来了呢  我已经在下面等了好几个小时了
@@ -2616,7 +2663,7 @@ CURRENT,dsi_part1_stationname,2448,A.J.E Foundry,A.J.E 铸造厂
 CURRENT,dsi_part1_title,2448,Deep Space Industrialists,深空工业家
 CURRENT,dsi_part1_advert1,2448,"My name is Alexander James Elistar, and I'm the chairman and founder of A.J.E Industries.  I have a business proposition for you.  If you would be interested in setting up a production facility for me, I believe with some luck and a good deal of hard work we can both make substantial returns.",我叫亚历山大-詹姆斯-埃利斯塔 是A. J. E工业公司的董事长和创始人  我有一个商业建议给你。  如果你有兴趣为我建立一个生产设施，我相信只要运气好，再加上勤奋工作，我们都能获得丰厚的回报。
 CURRENT,dsi_part1_advert2,2448,Please give me a call to discuss the details.,请给我打电话讨论细节。
-CURRENT,dsi_part1_action_callX,2448,Call X,呼叫 X
+CURRENT,dsi_part1_action_callx,2448,Call X,呼叫 X
 CURRENT,dsi_part1_call1,2448,"Captain.  Perhaps you are already aware, but there are big plans underway within this sector.  There are designs to build something... incredible, a transportation system with near infinite range, requiring state of the art manufacturing and industry.",舰长  也许你已经知道了 但这个部门正在进行一项大计划  我们正在设计建造一种......不可思议的东西，一种近乎无限航程的运输系统，需要最先进的制造和工业技术。
 CURRENT,dsi_part1_call2,2448,"A stargate, big enough for our most massive fleets, shuttling humanity between galaxies as if they were nothing but neighbouring stars.  A new multi-galactic era for humanity.",一个足以容纳我们最庞大舰队的星门，将人类穿梭于各星系之间，仿佛它们只是相邻的恒星。  人类将迎来一个崭新的多星系时代。
 CURRENT,dsi_part1_call3,2448,In all my years I've never known so much capital to be allocated to one project.,在我工作的这些年里，我从未见过如此多的资金被分配到一个项目上。
@@ -2787,6 +2834,7 @@ CURRENT,bravenewsector_part1_dophase6,2872,Complete Phase 6 of the Stargate Proj
 CURRENT,trade_equipment_size,2872,- Size *X x *Y,- 尺寸*X x*Y
 CURRENT,trade_equipment_rotatable,2872,- Rotatable,- 可旋转
 CURRENT,trade_equipment_powered,2872,- Powered,- 供电
+OBSOLETE,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,它们外表的磨损让我们相信，它们在这里至少已经有一个世纪了。这个区域肯定是人类最早的外太空殖民尝试之一。
 OBSOLETE,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.",启用帮助翻译的功能，如 Alt 显示英文，Ctrl 显示短语关键字。
 OBSOLETE,shipeditor_tooltip_eyedropper,2793,"Lets you select a paint from the exterior of your ship (can also be used by pressing the ""Shift"" key)","让您从飞船外部选择一种涂料（也可通过按下 ""Shift ""键使用）"
 OBSOLETE,settings_exitsaves_tooltip,2675,"When enabled, the current game will be saved when abandoned or when the game is quit in a file called exitsave.\n\nCAUTION: This file will be overwritten on every exit.",启用后，当前游戏将在放弃或退出游戏时保存在一个名为 exitsave 的文件中。\n\n注意：该文件将在每次退出时被覆盖。
@@ -2830,8 +2878,6 @@ OBSOLETE,tutorial_airpipetoairduct,2448,"Drag a PIPE from the OXYGEN LOADER to t
 OBSOLETE,tutorial_airdone,2448,The AIRDUCT is activated and is pressurising the cabin! The atmosphere will soon be breathable.,空气导流器已启动，正在给机舱加压！大气很快就可以呼吸了。
 OBSOLETE,tutorial_enginesinformation,2448,Engines require both POWER and FUEL to operate. We must connect both engines to fuel and power.,发动机的运行需要动力和燃料。我们必须将发动机与燃料和动力连接起来。
 OBSOLETE,tutorial_enginesconnectpower,2448,"Now use the CABLES menu to power up the engine, by connecting it to your existing red power lines.",现在使用 CABLES（电缆）菜单，将其连接到现有的红色电源线上，为引擎供电。
-OBSOLETE,tutorial_ftlintro,2448,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,没有超光速旅行，我们无法将这些乘客送达目的地。不幸的是，这艘飞船没有配备自己的超光速驱动器。\n\n我们需要买一个并安装好。
-OBSOLETE,tutorial_ftltradescreen,2448,Open the trade screen to purchase an FTL drive.,打开交易界面，购买超光速驱动器。
 OBSOLETE,tutorial_ftlselectpropulsion,2448,The items we need are listed under PROPULSION. Select that category.,我们需要的物品列在 PROPULSION 分类下。请选择该类别。
 OBSOLETE,tutorial_ftladdftldrive,2448,Add one FTL drive to our order by clicking on the entry in the list.,点击列表中的条目，为我们的订单添加一个超光速驱动器。
 OBSOLETE,tutorial_ftladdftlfuel,2448,FTL drives consume one fuel charge per jump. Add 5 FTL Charges to the order as well.,超光速驱动器每次跳跃消耗一个燃料充电。订单中还需添加 5 个超光速燃料。

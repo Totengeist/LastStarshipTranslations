@@ -1,6 +1,61 @@
 ﻿state,key,svn,english,translation
-UPDATED,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,Dış görünüşlerindeki aşınma bizi en az bir asırdır burada olduklarına inandırıyor. Bu sektör insanoğlunun dış uzayı kolonileştirmek için yaptığı ilk girişimlerden biri olmalı.
-PREVIOUS,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,"Dış aşınmaları, en az bir yüzyıldır burada olduklarına inanmamızı sağlıyor. Bu sektör insanoğlunun dış uzayı kolonileştirmek için yaptığı ilk girişimlerden biri olmalı."
+NEW,settings_credits,3149,CREDITS,KREDİLER
+NEW,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,Etkinleştirildiğinde oyun Steam Cloud'a kaydedilecektir. Kaydetme başarısız olursa bir uyarı gösterilecektir.
+NEW,newmainmenu_saveoptions,3149,Save Options,Seçenekleri Kaydet
+NEW,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] Döşeme stilini değiştir
+NEW,hud_tooltip_currentflooring,3149,Current style: *X,Şu anki tarzım: *X
+NEW,hud_tooltip_gratedflooring,3149,Grated,Rendelenmiş
+NEW,hud_tooltip_normalflooring,3149,Normal,Normal
+NEW,hud_hull_integrity,3149,HULL,HULL
+NEW,hud_power_battery,3149,BATTERY,AKÜ
+NEW,hud_power_powershortage,3149,POWER SHORTAGE,GÜÇ EKSİKLİĞİ
+NEW,hud_idlecrew,3149,Idle Crew,Boşta Mürettebat
+NEW,hud_consumingperhour,3149,Consuming *X per hour,Saatte *X tüketmek
+NEW,hud_dehydrationperperson,3149,Dehydration *X per person,Dehidrasyon *X kişi başı
+NEW,hud_hungerperperson,3149,Hunger *X per person,Açlık *X kişi başı
+NEW,hud_byauthor,3149,BY *X,BY *X
+NEW,communicator_newobjective,3149,NEW OBJECTIVE,YENİ HEDEF
+NEW,galaxymap_stargate,3149,STARGATE,STARGATE
+NEW,trade_canceltrade,3149,CANCEL TRADE AND REFUND,IŞLEM IPTALI VE PARA IADESI
+NEW,trade_refundvalue,3149,REFUND VALUE,İADE DEĞERİ
+NEW,trade_cancellationcost,3149,CANCELLATION COST,IPTAL MALIYETI
+NEW,trade_partiallyfilled,3149,PARTIALLY FILLED,KISMEN DOLU
+NEW,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,TAMAMLANMAMIŞ BILEŞEN
+NEW,trade_removeincomplete,3149,REMOVE INCOMPLETE,TAMAMLANMAMIŞLARI KALDIRIN
+NEW,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,KISMEN DOLU OLANLARI ÇIKARIN
+NEW,trade_order_normal,3149,(*X),(*X)
+NEW,trade_order_buy_on_sell_screen,3149,(BUY *X),(AL *X)
+NEW,trade_order_sell_on_buy_screen,3149,(SELL *X),(SAT *X)
+NEW,trade_order_sack_on_buy_screen,3149,(SACK *X),(ÇUVAL *X)
+NEW,techtree_researchpercent,3149,*X% Complete,*Xtamamlandı
+NEW,tooltip_efficiency,3149,Efficiency +*X%,Verimlilik +*X%
+NEW,tooltip_activating,3149,Activating +*X%,Etkinleştirme +*X%
+NEW,alert_type_lowdeuterium,3149,LOW DEUTERIUM,DÜŞÜK Döteryum
+NEW,stargate_unknowncomponent,3149,Unknown Component,Bilinmeyen Bileşen
+NEW,stargate_unknowncomponent_description,3149,Unlock this component through research!,Araştırma yaparak bu bileşenin kilidini açın!
+NEW,creditstitle_builders,3149,Ship Builders,Gemi İnşaatçıları
+NEW,creditstitle_testers,3149,Early Play Testing,Erken Oyun Testi
+NEW,creditstitle_translators,3149,Translation,Çeviri
+NEW,engine_thrust,3149,THRUST *X%,BASINÇ *X%
+UPDATED,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + RMB] Ayırıcıya dönüştür
+PREVIOUS,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] Ayırıcıya dönüştür
+UPDATED,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + RMB] Parça'ya dönüştür
+PREVIOUS,hud_convertsplittertotrack,3054,[RMB] Convert to track,[RMB] Dönüştürmek için parça
+UPDATED,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,Işık Hızından Daha Hızlı yolculuk olmadan bu yolcuları varış yerlerine ulaştıramayız. Ne yazık ki bu gemi kendi <b>FTL sürücüsüne</b> sahip değil <b>.</b>\n\nBir tane satın alıp kurmamız gerekecek.
+PREVIOUS,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,Işık Hızından Daha Hızlı yolculuk olmadan bu yolcuları varış yerlerine ulaştıramayız. Ne yazık ki bu gemi kendi <b>FTL</b> sürücüsüne sahip değil.\n\nBir tane satın alıp kurmamız gerekecek.
+PREVIOUS,tutorial_ftlintro,2803,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,Işık Hızından Daha Hızlı yolculuk olmadan bu yolcuları varış yerlerine ulaştıramayız. Ne yazık ki bu gemi kendi FTL sürücüsüne sahip değil.\n\nBir tane satın alıp kurmamız gerekecek.
+UPDATED,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,Bir <b>FTL sürücüsü ve</b> bazı <b>FTL Şarjı</b> satın almak için ticaret ekranını açın <b>.</b>
+PREVIOUS,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,Bir <b>FTL</b> Sürücüsü satın almak için takas ekranını açın.
+PREVIOUS,tutorial_ftltradescreen,2803,Open the trade screen to purchase an FTL drive.,Bir FTL Sürücüsü satın almak için takas ekranını açın.
+UPDATED,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,YANAŞMIŞ GEMILERI IÇERIR
+PREVIOUS,newmainmenu_includedocked,2803,INCLUDE DOCKED SHIPS IN EXPORT,YANAŞMIŞ GEMILERI IHRACATA DAHIL ETMEK
+UPDATED,hud_layer_hostile,3149,HOSTILE *X,HOSTİL *X
+PREVIOUS,hud_layer_hostile,2803,HOSTILE,HOSTİL
+UPDATED,hud_layer_derelict,3149,DERELICT *X,DERELICT *X
+PREVIOUS,hud_layer_derelict,2803,DERELICT,DERELICT
+UPDATED,hud_layer_forsale,3149,[FOR SALE] *X,[SATILIK] *X
+PREVIOUS,hud_layer_forsale,2803,[FOR SALE],[SATILIK]
+CURRENT,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,Dış görünüşlerindeki aşınma bizi en az bir asırdır burada olduklarına inandırıyor. Bu sektör insanoğlunun dış uzayı kolonileştirmek için yaptığı ilk girişimlerden biri olmalı.
 CURRENT,techtree_node_caption_metallurgyrepeatable,3054,Spend research credits to continually increase our smelting efficiency.,Eritme verimliliğimizi sürekli artırmak için Araştırma Kredisi harcayın.
 CURRENT,mainmenu_gamemode_arena,3054,Arena,Arena
 CURRENT,mainmenu_gamemode_arena_tooltip,3054,Create epic space battles between fleets of ships and watch the carnage unfold.,Gemi filoları arasında destansı uzay savaşları yaratın ve katliamın ortaya çıkışını izleyin.
@@ -20,8 +75,6 @@ CURRENT,newmainmenu_multisectorsim,3054,Multi-System Simulation,Çoklu Sistem Si
 CURRENT,newmainmenu_multisectorsimtooltip,3054,"Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.",Çoklu sistem simülasyonunu etkinleştirerek filonuzu aynı anda birden fazla sistem/sektör arasında paylaştırmanıza olanak tanır.
 CURRENT,hud_shipmaximumoccupancy,3054,Ship Maximum Occupancy: *X/*Y,Gemi Maksimum Doluluk Oranı: *X/*Y
 CURRENT,hud_surveyinprogress,3054,WARNING - SURVEY WILL BE CANCELLED,UYARI - ANKET İPTAL EDİLECEKTİR
-CURRENT,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] Ayırıcıya dönüştür
-CURRENT,hud_convertsplittertotrack,3054,[RMB] Convert to track,[RMB] Dönüştürmek için parça
 CURRENT,shipeditor_tooltip_painthull,3054,Toggle painting the exterior panels of the hull of your ship,Geminizin gövdesinin dış panellerini boyamayı geçiş yapın
 CURRENT,shipeditor_tooltip_painthabitation,3054,Toggle painting the exterior panels of the habitation quarters of your ship,Geminizin yaşam mahallerinin dış panellerinin boyanmasına geçiş yapın
 CURRENT,shipeditor_tooltip_paintscaffold,3054,Toggle painting the scaffolding on your ship,Geminizdeki iskeleyi boyamayı değiştirin
@@ -322,8 +375,6 @@ CURRENT,tutorial_airpipetoairduct,2886,"Drag a <b>PIPE</b> from the <b>OXYGEN LO
 CURRENT,tutorial_airdone,2886,The <b>AIRDUCT</b> is activated and is pressurising the cabin! The atmosphere will soon be breathable.,<b>Airduct</b> etkinleştirildi ve kabine basınç uyguluyor! Atmosfer yakında nefes alınabilir hale gelecek.
 CURRENT,tutorial_enginesinformation,2886,Engines require both <b>POWER</b> and <b>FUEL</b> to operate. We must connect both engines to fuel and power.,Motorların çalışması için hem <b>GÜÇ</b> hem de <b>YAKIT</b> gerekir. Her iki motoru da yakıt ve güce bağlamalıyız.
 CURRENT,tutorial_enginesconnectpower,2886,"Now use the <b>CABLES</b> menu to power up the engine, by connecting it to your existing red power lines.","Şimdi, mevcut kırmızı güç hatlarınıza bağlayarak motora güç vermek için <b>KABLOLAR</b> menüsünü kullanın."
-CURRENT,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,Işık Hızından Daha Hızlı yolculuk olmadan bu yolcuları varış yerlerine ulaştıramayız. Ne yazık ki bu gemi kendi <b>FTL</b> sürücüsüne sahip değil.\n\nBir tane satın alıp kurmamız gerekecek.
-CURRENT,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,Bir <b>FTL</b> Sürücüsü satın almak için takas ekranını açın.
 CURRENT,tutorial_ftladdftldrive,2886,Add one <b>FTL</b> drive to our order by clicking on the entry in the list.,Listedeki girişe tıklayarak siparişimize bir <b>FTL</b> Sürücüsü ekleyin.
 CURRENT,tutorial_ftladdftlfuel,2886,<b>FTL</b> drives consume one fuel charge per jump. Add 5 <b>FTL</b> Charges to the order as well.,<b>FTL</b> Sürücüleri sıçrama başına bir yakıt şarjı tüketir. Siparişe 5 <b>FTL</b> Şarjı da ekleyin.
 CURRENT,tutorial_ftlinstallftl,2886,Install the <b>FTL</b> drive anywhere in your ship.,FTL Sürücüsünü geminizde herhangi bir yere kurun.
@@ -487,26 +538,26 @@ CURRENT,galaxymap_comet,2803,COMET,Kuyruklu yıldız
 CURRENT,powergrid_category_reactor,2803,REACTOR,REAKTÖR
 CURRENT,powergrid_category_battery,2803,BATTERY,AKÜ
 CURRENT,powergrid_category_engines,2803,ENGINES,MOTORLAR
-CURRENT,powergrid_category_FTL,2803,FTL,FTL
+CURRENT,powergrid_category_ftl,2803,FTL,FTL
 CURRENT,powergrid_batteryhint,2803,Install some Batteries to store reserve power from your Reactor.,Reaktörünüzden gelen yedek gücü depolamak için birkaç Akü takın.
 CURRENT,powergrid_powershortagehint,2803,Your ship cannot generate enough power. Consider installing more Reactors.,Geminiz yeterince güç üretemiyor. Daha fazla Reaktör kurmayı düşünün.
 CURRENT,trade_category_equipment,2803,Equipment,Ekipman
 CURRENT,trade_shuttleinbound,2803,SHUTTLE INBOUND,GELEN MEKİKLER
 CURRENT,trade_overlay_boxed,2803,[boxed],[kutulu]
-CURRENT,trade_window_Crew,2803,Crew,Mürettebat
+CURRENT,trade_window_crew,2803,Crew,Mürettebat
 CURRENT,trade_equipment_rotatable,2803,- Rotatable,- Döndürülebilir
 CURRENT,trade_boxed,2803,Boxed,Kutu
 CURRENT,trade_nextcollection,2803,NEXT SHUTTLE IN *Xs,NEXT MEKİK İÇİNDE *Xs
 CURRENT,trade_dangerdeflation,2803,"Prices for hardware and crew are lower than normal, due to panic",Panik nedeniyle donanım ve Mürettebat fiyatları normalden daha düşük
 CURRENT,trade_dangercivilians,2803,Civilians are offering larger sums than normal for safe transit out of the sector,Siviller sektör dışına güvenli geçiş için normalden daha büyük meblağlar teklif ediyor
-CURRENT,techtree_node_caption_Automation,2803,Unlocks schematics for Tracks and Robot Arms,Parçalar ve Robot Kolları için şemaların kilidini açar
-CURRENT,techtree_node_title_CompactAutomation,2803,Compact Robot Arms,Kompakt Robot Kolları
-CURRENT,techtree_node_caption_CompactAutomation,2803,Unlocks schematic for Short Robot Arm,Kısa Robot Kolu için şemanın kilidini açar
-CURRENT,techtree_node_title_SmartAutomation,2803,Smart Robot Arms,Akıllı Robot Kolları
-CURRENT,techtree_node_caption_SmartAutomation,2803,Unlocks schematic for Smart Robot Arm,Akıllı Robot Kolu için şemanın kilidini açar
-CURRENT,techtree_node_caption_Metallurgy1,2803,Smelters produce 50% more output,Eritici %50 daha fazla üretim yapıyor
-CURRENT,techtree_node_caption_Metallurgy2,2803,Smelters produce 100% more output,Eritici %100 daha fazla üretim yapıyor
-CURRENT,techtree_node_caption_EnergyTransmission,2803,Unlocks schematic for Energy Transmitter and Receiver,Enerji Vericisi ve Alıcısı için şemanın kilidini açar
+CURRENT,techtree_node_caption_automation,2803,Unlocks schematics for Tracks and Robot Arms,Parçalar ve Robot Kolları için şemaların kilidini açar
+CURRENT,techtree_node_title_compactautomation,2803,Compact Robot Arms,Kompakt Robot Kolları
+CURRENT,techtree_node_caption_compactautomation,2803,Unlocks schematic for Short Robot Arm,Kısa Robot Kolu için şemanın kilidini açar
+CURRENT,techtree_node_title_smartautomation,2803,Smart Robot Arms,Akıllı Robot Kolları
+CURRENT,techtree_node_caption_smartautomation,2803,Unlocks schematic for Smart Robot Arm,Akıllı Robot Kolu için şemanın kilidini açar
+CURRENT,techtree_node_caption_metallurgy1,2803,Smelters produce 50% more output,Eritici %50 daha fazla üretim yapıyor
+CURRENT,techtree_node_caption_metallurgy2,2803,Smelters produce 100% more output,Eritici %100 daha fazla üretim yapıyor
+CURRENT,techtree_node_caption_energytransmission,2803,Unlocks schematic for Energy Transmitter and Receiver,Enerji Vericisi ve Alıcısı için şemanın kilidini açar
 CURRENT,techtree_node_caption_droneintelligence,2803,"Upgrades drones so they collect minerals in batches, greatly speeding up the process",Dronları mineralleri gruplar halinde toplayacak şekilde yükselterek süreci büyük ölçüde hızlandırır
 CURRENT,techtree_node_title_trackspeed1,2803,Track Speed 1,Parça Hızı 1
 CURRENT,techtree_node_caption_trackspeed1,2803,Doubles the speed of all Tracks,Tüm Parçaların hızını iki katına çıkarır
@@ -525,9 +576,9 @@ CURRENT,techtree_node_caption_deflectorbeams,2803,Unlocks schematics to build a 
 CURRENT,techtree_node_caption_habitation,2803,Unlocks efficiency improvements for all areas of life support and crew survival,Yaşam desteği ve Mürettebatın Hayatta Kalması için tüm alanlarda verimlilik iyileştirmelerinin kilidini açar
 CURRENT,techtree_node_caption_hydroponics1,2803,Improves crop yield to produce more food per cycle,Döngü başına daha fazla yemek üretmek için mahsul verimini artırır
 CURRENT,boost_reactorefficiency,2803,Reactor Efficiency +*X%,Reaktör Verimliliği +*X%
-CURRENT,boost_SmelterEfficiency,2803,Smelter Efficiency +*X%,Eritici Verimliliği +*X%
-CURRENT,boost_TrackSpeed,2803,Track Speed +*X%,Parça Hızı +*X%
-CURRENT,boost_RobotArmSpeed,2803,Robot Arm Speed +*X%,Robot Kolu Hızı +*X%
+CURRENT,boost_smelterefficiency,2803,Smelter Efficiency +*X%,Eritici Verimliliği +*X%
+CURRENT,boost_trackspeed,2803,Track Speed +*X%,Parça Hızı +*X%
+CURRENT,boost_robotarmspeed,2803,Robot Arm Speed +*X%,Robot Kolu Hızı +*X%
 CURRENT,boost_waterrecyclingefficiency,2803,Water Recycling Efficiency +*X%,Su Geri Dönüşüm Verimliliği +*X%
 CURRENT,special_mininglaseraccuracy,2803,Mining Laser Precision,Madencilik Lazer Hassasiyeti
 CURRENT,orders_crew,2803,CREW,MÜRETTEBAT
@@ -809,7 +860,7 @@ CURRENT,blackhole_part2_stargate4,2803,"We see no reason why you can't rescue bo
 CURRENT,blackhole_part3_setup1,2803,"Everything is ready, Captain.  I've produced the Hyperspace Modulators and the FTL fuel is already loaded.","Her şey hazır, Kaptan.  Hiperuzay Modülatörlerini ürettim ve FTL yakıtı çoktan yüklendi."
 CURRENT,blackhole_part3_setup2,2803,"You'll be performing the rescue using my ship, using my modified FTL drive that is already installed onboard. You can take control of my ship when you are ready to begin the rescue.","Kurtarma işlemini benim gemimi kullanarak, gemide zaten kurulu olan modifiye edilmiş FTL Sürücümü kullanarak gerçekleştireceksiniz. Kurtarmaya başlamaya hazır olduğunuzda gemimin kontrolünü ele alabilirsiniz."
 CURRENT,blackhole_part3_objective_stargate,2803,Recover the Stargate data,Yıldız Geçidi verilerini kurtar
-CURRENT,blackhole_part3_objective_stargateX,2803,Recover the Stargate data [*X%],Yıldız Geçidi verilerini kurtar [*X%]
+CURRENT,blackhole_part3_objective_stargatex,2803,Recover the Stargate data [*X%],Yıldız Geçidi verilerini kurtar [*X%]
 CURRENT,blackhole_part3_stargate1,2803,"Greetings, Captain.  Good luck with the rescue.  Remember the data onboard Marcus' ship is extremely valuable to us.  You'll need Marcus to transmit the data from his console before you can complete the rescue.","Selamlar, Kaptan.  Kurtarma operasyonunda iyi şanslar.  Marcus'un gemisindeki verilerin bizim için son derece değerli olduğunu unutmayın.  Kurtarma işlemini tamamlayabilmeniz için Marcus'un verileri konsolundan iletmesi gerekiyor."
 CURRENT,blackhole_part3_stargate2,2803,Losing that data will set the Stargate project back years.,Bu verileri kaybetmek Yıldız Geçidi projesini yıllarca geriye götürecektir.
 CURRENT,blackhole_part3_marcus2,2803,"Dock your ship with mine, Captain, and tell me when you're ready for me to come on board.  Please hurry!","Geminizi Maden'e yanaştırın, Kaptan, ve gemiye çıkmaya hazır olduğunuzda bana haber verin.  Lütfen acele edin!"
@@ -1100,11 +1151,11 @@ CURRENT,samplebankeditor_addsample,2803,Add Sound,Ses Ekleme
 CURRENT,samplebank,2803,(Sample Bank),(Örnek Banka)
 CURRENT,tagline,2803,THE LAST STARSHIP,SON YILDIZ GEMISI
 CURRENT,mainmenu_title,2803,Main Menu,Ana Menü
-CURRENT,mainmenu_newgameA,2803,New Game - Praxis,Yeni Oyun - Praxis
-CURRENT,mainmenu_newgameB,2803,New Game - Sleek,Yeni Oyun - Sleek
-CURRENT,mainmenu_newgameC,2803,New Game - Inner Shapes,Yeni Oyun - İç Şekiller
-CURRENT,mainmenu_newgameD,2803,New Game - Shipyard,Yeni Oyun - Tersane
-CURRENT,mainmenu_newgameE,2803,New Game - Large Logistics,Yeni Oyun - Büyük Lojistik
+CURRENT,mainmenu_newgamea,2803,New Game - Praxis,Yeni Oyun - Praxis
+CURRENT,mainmenu_newgameb,2803,New Game - Sleek,Yeni Oyun - Sleek
+CURRENT,mainmenu_newgamec,2803,New Game - Inner Shapes,Yeni Oyun - İç Şekiller
+CURRENT,mainmenu_newgamed,2803,New Game - Shipyard,Yeni Oyun - Tersane
+CURRENT,mainmenu_newgamee,2803,New Game - Large Logistics,Yeni Oyun - Büyük Lojistik
 CURRENT,mainmenu_savegame,2803,Save Game,Oyunu Kaydet
 CURRENT,mainmenu_loadgame,2803,Load Game,Oyun Yükle
 CURRENT,mainmenu_abandongame,2803,Abandon Game,Oyunu Terk Et
@@ -1179,12 +1230,12 @@ CURRENT,keybinding_panup1,2803,Pan Up (1),Pan Yukarı (1)
 CURRENT,keybinding_panup2,2803,Pan Up (2),Pan Yukarı (2)
 CURRENT,keybinding_zoomin,2803,Zoom In,Yakınlaştır
 CURRENT,keybinding_zoomout,2803,Zoom Out,Uzaklaştır
-CURRENT,keybinding_ManoeuvreLeft,2803,Thrust Left,Sol İtme
-CURRENT,keybinding_ManoeuvreRight,2803,Thrust Right,Sağa İtme
-CURRENT,keybinding_ManoeuvreUp,2803,Thrust Up,Yukarı İtme
-CURRENT,keybinding_ManoeuvreDown,2803,Thrust Down,Aşağı İtme
-CURRENT,keybinding_ManoeuvreClockwise,2803,Thrust Clockwise,Saat Yönünde İtme
-CURRENT,keybinding_ManoeuvreCounterClockwise,2803,Thrust C-Clockwise,C-Saat Yönünde İtme
+CURRENT,keybinding_manoeuvreleft,2803,Thrust Left,Sol İtme
+CURRENT,keybinding_manoeuvreright,2803,Thrust Right,Sağa İtme
+CURRENT,keybinding_manoeuvreup,2803,Thrust Up,Yukarı İtme
+CURRENT,keybinding_manoeuvredown,2803,Thrust Down,Aşağı İtme
+CURRENT,keybinding_manoeuvreclockwise,2803,Thrust Clockwise,Saat Yönünde İtme
+CURRENT,keybinding_manoeuvrecounterclockwise,2803,Thrust C-Clockwise,C-Saat Yönünde İtme
 CURRENT,keybinding_toggletactical,2803,Toggle Tactical,Toggle Tactical
 CURRENT,keybinding_togglemap,2803,Toggle Map,Harita Değiştir
 CURRENT,keybinding_hudscaleup,2803,Increase HUD Scale,HUD Ölçeğini Artırın
@@ -1265,7 +1316,6 @@ CURRENT,newmainmenu_savetosteamcloud,2803,SAVE TO STEAM CLOUD,STEAM BULUTUNA KAY
 CURRENT,newmainmenu_steamcloud,2803,STEAM CLOUD,BUHAR BULUTU
 CURRENT,newmainmenu_cloudquotaremaining,2803,Used: *X / *Y (*Z% remaining),Kullanılmış: *X / *Y (*Z% kalan)
 CURRENT,newmainmenu_exportship,2803,EXPORT SHIP,İHRACAT GEMİSİ
-CURRENT,newmainmenu_includedocked,2803,INCLUDE DOCKED SHIPS IN EXPORT,YANAŞMIŞ GEMILERI IHRACATA DAHIL ETMEK
 CURRENT,newmainmenu_uploadship,2803,UPLOAD TO STEAM,STEAM'E YÜKLE
 CURRENT,newmainmenu_setshipname,2803,SET SHIP NAME,GEMİ ADINI AYARLA
 CURRENT,newmainmenu_importhostile,2803,IMPORT HOSTILE,İTHALAT EV SAHİBİ
@@ -1474,9 +1524,6 @@ CURRENT,hud_storagecrate_tooltip_capacity,2803,Capacity: *X,Kapasite: *X
 CURRENT,hud_collector_tooltip_totalgathered,2803,TOTAL GATHERED,TOPLAM VERİLEN
 CURRENT,hud_collector_tooltip_gathering,2803,Gathering *X *Y per second,Toplama *X *Y saniye başına
 CURRENT,hud_mission_collection,2803,WARNING - MISSION COLLECTION UNDERWAY,UYARI - GÖREV TOPLAMA ÇALIŞMALARI DEVAM EDİYOR
-CURRENT,hud_layer_hostile,2803,HOSTILE,HOSTİL
-CURRENT,hud_layer_derelict,2803,DERELICT,DERELICT
-CURRENT,hud_layer_forsale,2803,[FOR SALE],[SATILIK]
 CURRENT,hud_layer_unnaned_system,2803,UNNAMED,İSİMSİZ
 CURRENT,hud_trade_incoming,2803,WARNING - TRADE INCOMING,UYARI - TİCARET GELİYOR
 CURRENT,hud_trade_owed,2803,WARNING - TRADE OWED,UYARI - BORÇLU TİCARET
@@ -1532,11 +1579,11 @@ CURRENT,shipeditor_mode_spawn,2803,Spawn,Spawn
 CURRENT,shipeditor_mode_eyedropper,2803,Eyedropper,Damlalık
 CURRENT,shipeditor_brush_freehand,2803,FREEHAND,FREEHAND
 CURRENT,shipeditor_price_button,2803,Cost,Maliyet
-CURRENT,shipeditor_stat_Mass,2803,Mass,Kütle
-CURRENT,shipeditor_stat_Toughness,2803,Toughness,Sertlik
-CURRENT,shipeditor_stat_Capacity,2803,Cabins,Kabinler
-CURRENT,shipeditor_stat_Value,2803,Value,Değer
-CURRENT,shipeditor_stat_Damage,2803,Damage,Hasar
+CURRENT,shipeditor_stat_mass,2803,Mass,Kütle
+CURRENT,shipeditor_stat_toughness,2803,Toughness,Sertlik
+CURRENT,shipeditor_stat_capacity,2803,Cabins,Kabinler
+CURRENT,shipeditor_stat_value,2803,Value,Değer
+CURRENT,shipeditor_stat_damage,2803,Damage,Hasar
 CURRENT,shipeditor_symmetry,2803,SYMMETRY,SİMETRİ
 CURRENT,shipeditor_symmetry_short,2803,S,S
 CURRENT,shipeditor_symmetry_leftclickdrag,2803,[LMB] Drag,[LMB] Sürükle
@@ -1623,15 +1670,15 @@ CURRENT,trade_autotradedisabled,2803,DISABLED IN ORDER MENU,SIPARIŞ MENÜSÜNDE
 CURRENT,trade_overlay_price,2803,PRICE,FİYAT
 CURRENT,trade_overlay_them,2803,THEM,ONLAR
 CURRENT,trade_overlay_you,2803,YOU,SEN
-CURRENT,trade_window_Energy,2803,Energy,Enerji
-CURRENT,trade_window_Propulsion,2803,Propulsion,İtici Güç
-CURRENT,trade_window_Habitation,2803,Habitation,Yerleşim
-CURRENT,trade_window_Defense,2803,Defense,Savunma
-CURRENT,trade_window_Industry,2803,Industry,Endüstri
-CURRENT,trade_window_Logistics,2803,Logistics,Lojistik
-CURRENT,trade_window_Science,2803,Science,Bilim
-CURRENT,trade_window_Resources,2803,Resources,Kaynaklar
-CURRENT,trade_window_Components,2803,Components,Bileşenler
+CURRENT,trade_window_energy,2803,Energy,Enerji
+CURRENT,trade_window_propulsion,2803,Propulsion,İtici Güç
+CURRENT,trade_window_habitation,2803,Habitation,Yerleşim
+CURRENT,trade_window_defense,2803,Defense,Savunma
+CURRENT,trade_window_industry,2803,Industry,Endüstri
+CURRENT,trade_window_logistics,2803,Logistics,Lojistik
+CURRENT,trade_window_science,2803,Science,Bilim
+CURRENT,trade_window_resources,2803,Resources,Kaynaklar
+CURRENT,trade_window_components,2803,Components,Bileşenler
 CURRENT,trade_equipment_size,2803,- Size *X x *Y,- Boyut *X x *Y
 CURRENT,trade_equipment_powered,2803,- Powered,- Güçlendirilmiş
 CURRENT,trade_equipment_charge,2803,- Charge (per use) : *X MW,- Ücret (kullanım başına) : *X MW
@@ -1666,12 +1713,12 @@ CURRENT,techtree_available,2803,AVAILABLE,MEVCUT
 CURRENT,techtree_unavailable,2803,REQUIREMENTS NOT MET,GEREKSINIMLER KARŞILANMADI
 CURRENT,techtree_in_progress,2803,RESEARCH IN PROGRESS,DEVAM EDEN ARAŞTIRMA
 CURRENT,techtree_busy,2803,RESEARCHERS ARE BUSY,ARAŞTIRMACILAR MEŞGUL
-CURRENT,techtree_cost_RP,2803,Cost: *X RP,Maliyet: *X RP
-CURRENT,techtree_cost_CP,2803,Cost: *X CP,Maliyet: *X CP
-CURRENT,techtree_cost_RP+CP,2803,Cost: *X RP + *Y CP,Maliyet *X RP + *Y CP
-CURRENT,techtree_currentResearch,2803,Currently Researching:,Şu anda araştırma yapıyorum:
-CURRENT,techtree_researchPoints,2803,Research Points:,Araştırma Puanları:
-CURRENT,techtree_computationPoints,2803,Computation Points:,Hesaplama Noktaları:
+CURRENT,techtree_cost_rp,2803,Cost: *X RP,Maliyet: *X RP
+CURRENT,techtree_cost_cp,2803,Cost: *X CP,Maliyet: *X CP
+CURRENT,techtree_cost_rp+cp,2803,Cost: *X RP + *Y CP,Maliyet *X RP + *Y CP
+CURRENT,techtree_currentresearch,2803,Currently Researching:,Şu anda araştırma yapıyorum:
+CURRENT,techtree_researchpoints,2803,Research Points:,Araştırma Puanları:
+CURRENT,techtree_computationpoints,2803,Computation Points:,Hesaplama Noktaları:
 CURRENT,techtree_rewards,2803,Rewards:,Ödüller:
 CURRENT,techtree_unlocks,2803,Unlocks:,Kilitleri açar:
 CURRENT,techtree_boosts,2803,Performance Boosts:,Performans Artışları:
@@ -1685,16 +1732,16 @@ CURRENT,techtree_warning,2803,WARNING!,UYARI!
 CURRENT,techtree_lose_progress,2803,Starting a new research project will lose all progress on the current one.,"Yeni bir araştırma projesine başlamak, mevcut projedeki tüm ilerlemeyi kaybedecektir."
 CURRENT,techtree_stargate_warning,2803,Completing Andromeda Project phases ahead of the Deep Space Industrialists storyline will bypass those episodes.,Andromeda Projesi aşamalarını Derin Uzay Sanayicileri hikayesinden önce tamamlamak bu bölümleri atlayacaktır.
 CURRENT,techtree_missing_equipment,2803,This research project requires a *X to be completed,Bu araştırma projesi *X adresinin tamamlanmasını gerektirmektedir
-CURRENT,techtree_node_title_Logistics1,2803,Logistics,Lojistik
-CURRENT,techtree_node_caption_Logistics1,2803,Unlocks schematics for small logistics storage,Küçük lojistik deposu için şemaların kilidini açar
-CURRENT,techtree_node_title_Logistics2,2803,Logistics Level 2,Lojistik Seviye 2
-CURRENT,techtree_node_caption_Logistics2,2803,Unlocks schematics for Medium sized storage,Orta ölçekli depolama için şemaların kilidini açar
-CURRENT,techtree_node_title_Logistics3,2803,Logistics Level 3,Lojistik Seviye 3
-CURRENT,techtree_node_caption_Logistics3,2803,Unlocks schematics for Large logistics storage,Büyük lojistik deposu için şemaların kilidini açar
-CURRENT,techtree_node_title_Automation,2803,Automation,Otomasyon
-CURRENT,techtree_node_title_Metallurgy1,2803,Metallurgy Level 1,Metalurji Seviye 1
-CURRENT,techtree_node_title_Metallurgy2,2803,Metallurgy Level 2,Metalurji Seviye 2
-CURRENT,techtree_node_title_EnergyTransmission,2803,Energy Transmission,Enerji İletimi
+CURRENT,techtree_node_title_logistics1,2803,Logistics,Lojistik
+CURRENT,techtree_node_caption_logistics1,2803,Unlocks schematics for small logistics storage,Küçük lojistik deposu için şemaların kilidini açar
+CURRENT,techtree_node_title_logistics2,2803,Logistics Level 2,Lojistik Seviye 2
+CURRENT,techtree_node_caption_logistics2,2803,Unlocks schematics for Medium sized storage,Orta ölçekli depolama için şemaların kilidini açar
+CURRENT,techtree_node_title_logistics3,2803,Logistics Level 3,Lojistik Seviye 3
+CURRENT,techtree_node_caption_logistics3,2803,Unlocks schematics for Large logistics storage,Büyük lojistik deposu için şemaların kilidini açar
+CURRENT,techtree_node_title_automation,2803,Automation,Otomasyon
+CURRENT,techtree_node_title_metallurgy1,2803,Metallurgy Level 1,Metalurji Seviye 1
+CURRENT,techtree_node_title_metallurgy2,2803,Metallurgy Level 2,Metalurji Seviye 2
+CURRENT,techtree_node_title_energytransmission,2803,Energy Transmission,Enerji İletimi
 CURRENT,techtree_node_title_droneintelligence,2803,Drone Intelligence,Drone İstihbaratı
 CURRENT,techtree_node_title_dronespeed1,2803,Drone Speed 1,Drone Hızı 1
 CURRENT,techtree_node_caption_dronespeed1,2803,Increases the top speed of Drones by 50%,Dronların en yüksek hızını %50 artırır
@@ -1721,7 +1768,7 @@ CURRENT,techtree_node_caption_recycling2,2803,Brings all life-support recycling 
 CURRENT,techtree_node_title_hydroponics1,2803,Hydroponics 1,Hidroponik 1
 CURRENT,techtree_node_title_hydroponics2,2803,Hydroponics 2,Hidroponik 2
 CURRENT,techtree_node_caption_hydroponics2,2803,"Further improves crop yield, and unlocks schematics to manufacture Hydroponics Modules",Mahsul verimini daha da artırır ve Hidroponik Modüller üretmek için şemaların kilidini açar
-CURRENT,boost_DroneSpeed,2803,Drone Top Speed +*X%,Drone En Yüksek Hızı +*X%
+CURRENT,boost_dronespeed,2803,Drone Top Speed +*X%,Drone En Yüksek Hızı +*X%
 CURRENT,boost_wasterecyclingefficiency,2803,Waste Recycling Efficiency +*X%,Atık Geri Dönüşüm Verimliliği +*X%
 CURRENT,boost_airrecyclingefficiency,2803,Air Recycling Efficiency +*X%,Hava Geri Dönüşüm Verimliliği +*X%
 CURRENT,boost_recyclingefficiency,2803,Recycling Efficiency *X%,Geri Dönüşüm Verimliliği *X%
@@ -1883,7 +1930,7 @@ CURRENT,mission_production_available,2803,You have *X stacks of R*Y available fo
 CURRENT,mission_production_received,2803,We have received *X stacks of R*Y out of a total of *Z.,Toplam *Z yığınından *X yığınını R*Y aldık.
 CURRENT,mission_production_nomore,2803,There is no more R*X available within your fleet.,Filonuzda daha fazla R*X bulunmamaktadır.
 CURRENT,mission_production_success,2803,Provided *X/*Y items,Sağlanan *X/*Y öğeleri
-CURRENT,mission_type_SectorDestroy,2803,Destroy Hostile Forces,Düşman Güçleri Yok Edin
+CURRENT,mission_type_sectordestroy,2803,Destroy Hostile Forces,Düşman Güçleri Yok Edin
 CURRENT,mission_sectordestroy_title,2803,SECTOR OBJECTIVE: Destroy all hostile forces,SEKTÖR HEDEFİ: Tüm düşman kuvvetlerini yok edin
 CURRENT,mission_sectordestroy_system,2803,You have destroyed the enemy forces in system S*X. Payment of $*Y is coming your way.,S*X sistemindeki düşman kuvvetlerini yok ettiniz. $*Y ödemesi size doğru geliyor.
 CURRENT,mission_sectordestroy_progress,2803,Cleared *X out of *Y systems,*X *Y sistemlerinden temizlendi
@@ -1893,7 +1940,7 @@ CURRENT,mission_sectordestroy_desc3,2803,Terminate any enemy vessels you find at
 CURRENT,mission_sectordestroy_payment,2803,"A payment of $*X will be made after each location is cleared, for a total of $*Y.",Her bir lokasyon temizlendikten sonra toplam $*Y olmak üzere $*X ödemesi yapılacaktır.
 CURRENT,mission_sectordestroy_map,2803,Destroy hostiles [*X/*Y],Düşmanları yok edin [*X/*Y]
 CURRENT,mission_sectordestory_success,2803,HOSTILES ELIMINATED,DÜŞMANLAR ORTADAN KALDIRILDI
-CURRENT,mission_type_SectorRescue,2803,Rescue (Sector),Kurtarma (Sektör)
+CURRENT,mission_type_sectorrescue,2803,Rescue (Sector),Kurtarma (Sektör)
 CURRENT,mission_sectorrescue_description1,2803,Investigate a distress call in system S*X.,S*X sistemindeki bir tehlike çağrısını araştırın.
 CURRENT,mission_sectorrescue_thrust,2803,The ship is moving - you will need some skill to dock safely. (+25% pay),Gemi hareket ediyor - güvenli bir şekilde yanaşmak için biraz beceriye ihtiyacınız olacak. (+%25 ödeme)
 CURRENT,mission_sectorrescue_spin,2803,The ship is spinning out of control. It will be very challenging to dock. (+25% pay),Gemi kontrolden çıkıyor. Limana yanaşmak çok zor olacak. (+%25 ödeme)
@@ -1903,7 +1950,7 @@ CURRENT,mission_sectorrescue_map_initial,2803,Investigate Distress Call,Tehlike 
 CURRENT,mission_sectorrescue_map,2803,People rescued [*X/*Y],İnsanlar kurtarıldı [*X/*Y]
 CURRENT,mission_sectorrescue_awardcaption,2803,*X People rescued.,*X İnsanlar kurtarıldı.
 CURRENT,mission_sectorrescue_success,2803,RESCUE COMPLETED,KURTARMA TAMAMLANDI
-CURRENT,mission_type_SectorProtect,2803,Protect (Sector),Koru (Sektör)
+CURRENT,mission_type_sectorprotect,2803,Protect (Sector),Koru (Sektör)
 CURRENT,mission_sectorprotect_title,2803,SECTOR OBJECTIVE: Protect ship under attack,SEKTÖR HEDEFİ: Saldırı altındaki gemiyi korumak
 CURRENT,mission_sectorprotect_description1,2803,Investigate a distress call in system S*X.,S*X sistemindeki bir tehlike çağrısını araştırın.
 CURRENT,mission_sectorprotect_description2,2803,A commercial vessel is under attack from an unknown hostile enemy. They have already taken heavy damage.,Ticari bir gemi bilinmeyen bir düşmanın saldırısı altındadır. Çoktan ağır hasar aldılar.
@@ -2393,8 +2440,8 @@ CURRENT,wolf_shipname_wolf1,2803,Interstellar Prospector,Yıldızlararası Araş
 CURRENT,wolf_shipname_wolf2,2803,Infinite Horizon,Sonsuz Ufuk
 CURRENT,wolf_shipname_wolf3,2803,Celestial Hauler,Göksel Taşıyıcı
 CURRENT,wolf_shipname_scavenger,2803,Scavenger Wraith,Çöpçü Wraith
-CURRENT,object_FlightRecorder,2803,Flight Recorder,Uçuş Kayıt Cihazı
-CURRENT,object_ShipWreckage,2803,Ship Wreckage,Gemi Enkazı
+CURRENT,object_flightrecorder,2803,Flight Recorder,Uçuş Kayıt Cihazı
+CURRENT,object_shipwreckage,2803,Ship Wreckage,Gemi Enkazı
 CURRENT,wolf_part1_scavenger3,2803,Funds received. Pleasure doing business.,Fonlar alındı. İş yapmak zevkti.
 CURRENT,wolf_part1_sendingshuttle,2803,"Standby while I dock my ship with yours, Captain, to collect the items you've recovered so far. Thank you for your efforts.",Şu ana kadar kurtardığınız eşyaları toplamak için gemimi sizinkine yanaştırırken beklemede kalın Kaptan. Çabalarınız için teşekkür ederim.
 CURRENT,wolf_part1_completion2,2803,Most likely to be sold for vast profits to the Stargate Project - who don't seem keen to ask questions.,"Büyük olasılıkla, soru sormaya hevesli görünmeyen Yıldız Geçidi Projesi'ne büyük kârlar karşılığında satılacak."
@@ -2722,7 +2769,7 @@ CURRENT,dsi_xthanks3,2803,"I've received my share.  Excellent work, Captain.","P
 CURRENT,dsi_part1_stationname,2803,A.J.E Foundry,A.J.E Dökümhane
 CURRENT,dsi_part1_title,2803,Deep Space Industrialists,Derin Uzay Sanayicileri
 CURRENT,dsi_part1_advert2,2803,Please give me a call to discuss the details.,Detayları görüşmek için lütfen beni arayın.
-CURRENT,dsi_part1_action_callX,2803,Call X,Çağrı X
+CURRENT,dsi_part1_action_callx,2803,Call X,Çağrı X
 CURRENT,dsi_part1_call1,2803,"Captain.  Perhaps you are already aware, but there are big plans underway within this sector.  There are designs to build something... incredible, a transportation system with near infinite range, requiring state of the art manufacturing and industry.","Kaptan.  Belki zaten farkındasınızdır ama bu sektörde büyük planlar yapılıyor.  İnanılmaz bir şey inşa etmek için tasarımlar var... neredeyse sonsuz menzile sahip, son teknoloji üretim ve endüstri gerektiren bir ulaşım sistemi."
 CURRENT,dsi_part1_call2,2803,"A stargate, big enough for our most massive fleets, shuttling humanity between galaxies as if they were nothing but neighbouring stars.  A new multi-galactic era for humanity.","En büyük filolarımıza yetecek büyüklükte bir yıldız geçidi, insanlığı galaksiler arasında sanki komşu yıldızlardan başka bir şey değilmiş gibi mekik dokuyor.  İnsanlık için yeni bir çok galaktik çağ."
 CURRENT,dsi_part1_call3,2803,In all my years I've never known so much capital to be allocated to one project.,Bunca yıllık hayatımda bir projeye bu kadar çok sermaye ayrıldığını hiç görmemiştim.
@@ -2787,6 +2834,7 @@ CURRENT,dsi_part2_scene_z4,2803,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2803,THERE WILL BE NO FURTHER WARNING.,BAŞKA BIR UYARI YAPILMAYACAKTIR.
 CURRENT,dsi_part2_scene_y7,2803,You've left me no choice.,Bana başka seçenek bırakmadın.
 CURRENT,dsi_part2_scene_y8,2803,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Senin için geleceğim Alexander, ve bu sefer %10 istemiyorum. Hepsini istiyorum."
+OBSOLETE,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,"Dış aşınmaları, en az bir yüzyıldır burada olduklarına inanmamızı sağlıyor. Bu sektör insanoğlunun dış uzayı kolonileştirmek için yaptığı ilk girişimlerden biri olmalı."
 OBSOLETE,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.",Çevirmenlere yardımcı olmak için Alt'ın İngilizceyi ve Ctrl'nin ifade anahtarını göstermesi gibi özellikleri etkinleştirin.
 OBSOLETE,techtree_node_title_robotarmspeed,2803,Robot Arm Speed,Robot Kolu Hızı
 OBSOLETE,dsi_part2_isotopesintro2,2803,"It's not too complex.  It starts with a Hyperspace Scoop, or several ideally, that you can fit to your vessels.  Every time you make an FTL jump you'll collect more as you pass through deep space at light speed.  You can then pipe those isotopes into a Refinery and convert them into Stable Isotopes.","Çok karmaşık değil.  Gemilerinize takabileceğiniz bir veya ideal olarak birkaç Hyperspace Scoop ile başlar.  Her FTL sıçraması yaptığınızda, ışık hızında derin uzaydan geçerken daha fazlasını toplayacaksınız.  Daha sonra bu izotopları bir Rafineriye aktarabilir ve onları Kararlı İzotoplara dönüştürebilirsiniz."
@@ -2815,8 +2863,6 @@ OBSOLETE,tutorial_airpipetoairduct,2803,"Drag a PIPE from the OXYGEN LOADER to t
 OBSOLETE,tutorial_airdone,2803,The AIRDUCT is activated and is pressurising the cabin! The atmosphere will soon be breathable.,Airduct etkinleştirildi ve kabine basınç uyguluyor! Atmosfer yakında nefes alınabilir hale gelecek.
 OBSOLETE,tutorial_enginesinformation,2803,Engines require both POWER and FUEL to operate. We must connect both engines to fuel and power.,Motorların çalışması için hem GÜÇ hem de YAKIT gerekir. Her iki motoru da yakıt ve güce bağlamalıyız.
 OBSOLETE,tutorial_enginesconnectpower,2803,"Now use the CABLES menu to power up the engine, by connecting it to your existing red power lines.","Şimdi, mevcut kırmızı güç hatlarınıza bağlayarak motora güç vermek için KABLOLAR menüsünü kullanın."
-OBSOLETE,tutorial_ftlintro,2803,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,Işık Hızından Daha Hızlı yolculuk olmadan bu yolcuları varış yerlerine ulaştıramayız. Ne yazık ki bu gemi kendi FTL sürücüsüne sahip değil.\n\nBir tane satın alıp kurmamız gerekecek.
-OBSOLETE,tutorial_ftltradescreen,2803,Open the trade screen to purchase an FTL drive.,Bir FTL Sürücüsü satın almak için takas ekranını açın.
 OBSOLETE,tutorial_ftladdftldrive,2803,Add one FTL drive to our order by clicking on the entry in the list.,Listedeki girişe tıklayarak siparişimize bir FTL Sürücüsü ekleyin.
 OBSOLETE,tutorial_ftladdftlfuel,2803,FTL drives consume one fuel charge per jump. Add 5 FTL Charges to the order as well.,FTL Sürücüleri sıçrama başına bir yakıt şarjı tüketir. Siparişe 5 FTL Şarjı da ekleyin.
 OBSOLETE,tutorial_ftlinstallftl,2803,Install the FTL drive anywhere in your ship.,FTL Sürücüsünü geminizde herhangi bir yere kurun.

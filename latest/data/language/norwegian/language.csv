@@ -1,6 +1,61 @@
 ﻿state,key,svn,english,translation
-UPDATED,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,Den ytre slitasjen får oss til å tro at de har vært her i minst et århundre. Denne sektoren må ha vært et av menneskehetens første forsøk på å kolonisere det ytre rom.
-PREVIOUS,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,Den ytre slitasjen får oss til å tro at de har vært her i minst et århundre. Denne sektoren må ha vært et av menneskehetens første forsøk på å kolonisere det ytre rom.
+NEW,settings_credits,3149,CREDITS,KREDITTER
+NEW,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,Spillet lagres i Steam Cloud når dette er aktivert. En advarsel vises hvis lagringen mislykkes.
+NEW,newmainmenu_saveoptions,3149,Save Options,Lagre alternativer
+NEW,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] Bytt gulvbelegg
+NEW,hud_tooltip_currentflooring,3149,Current style: *X,Nåværende stil: *X
+NEW,hud_tooltip_gratedflooring,3149,Grated,Rivet
+NEW,hud_tooltip_normalflooring,3149,Normal,Normal
+NEW,hud_hull_integrity,3149,HULL,HULL
+NEW,hud_power_battery,3149,BATTERY,BATTERI
+NEW,hud_power_powershortage,3149,POWER SHORTAGE,STRØMMEMANGEL
+NEW,hud_idlecrew,3149,Idle Crew,Mannskap på tomgang
+NEW,hud_consumingperhour,3149,Consuming *X per hour,Forbruker *X per time
+NEW,hud_dehydrationperperson,3149,Dehydration *X per person,Dehydrering *X per person
+NEW,hud_hungerperperson,3149,Hunger *X per person,Hunger *X per person
+NEW,hud_byauthor,3149,BY *X,BY *X
+NEW,communicator_newobjective,3149,NEW OBJECTIVE,NYTT MÅL
+NEW,galaxymap_stargate,3149,STARGATE,STARGATE
+NEW,trade_canceltrade,3149,CANCEL TRADE AND REFUND,KANSELLERE HANDELEN OG REFUNDERE
+NEW,trade_refundvalue,3149,REFUND VALUE,TILBAKEBETALINGSVERDI
+NEW,trade_cancellationcost,3149,CANCELLATION COST,AVBESTILLINGSKOSTNAD
+NEW,trade_partiallyfilled,3149,PARTIALLY FILLED,DELVIS FYLT
+NEW,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,UFULLSTENDIG KOMPONENT
+NEW,trade_removeincomplete,3149,REMOVE INCOMPLETE,FJERNE UFULLSTENDIG
+NEW,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,FJERN DELVIS FYLT
+NEW,trade_order_normal,3149,(*X),(*X)
+NEW,trade_order_buy_on_sell_screen,3149,(BUY *X),(KJØP *X)
+NEW,trade_order_sell_on_buy_screen,3149,(SELL *X),(SELG *X)
+NEW,trade_order_sack_on_buy_screen,3149,(SACK *X),(SACK *X)
+NEW,techtree_researchpercent,3149,*X% Complete,*X% fullført
+NEW,tooltip_efficiency,3149,Efficiency +*X%,Effektivitet +*X%
+NEW,tooltip_activating,3149,Activating +*X%,Aktivering +*X%
+NEW,alert_type_lowdeuterium,3149,LOW DEUTERIUM,LAVT DEUTERIUM
+NEW,stargate_unknowncomponent,3149,Unknown Component,Ukjent komponent
+NEW,stargate_unknowncomponent_description,3149,Unlock this component through research!,Lås opp denne komponenten gjennom forskning!
+NEW,creditstitle_builders,3149,Ship Builders,Skipsbyggere
+NEW,creditstitle_testers,3149,Early Play Testing,Tidlig leketesting
+NEW,creditstitle_translators,3149,Translation,Oversettelse
+NEW,engine_thrust,3149,THRUST *X%,THRUST *X% %
+UPDATED,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + RMB] Konverter til Splitter
+PREVIOUS,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] Konverter til splitter
+UPDATED,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + RMB] Konverter til spor
+PREVIOUS,hud_convertsplittertotrack,3054,[RMB] Convert to track,[RMB] Konverter til spor
+UPDATED,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,Vi kan ikke frakte passasjerene til bestemmelsesstedet uten en FTL-reise. Dessverre er ikke dette skipet utstyrt med egen <b>FTL-drift</b>.\n\nVi må kjøpe en og sette den opp.
+PREVIOUS,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,Vi kan ikke frakte passasjerene til bestemmelsesstedet uten en FTL-reise. Dessverre er ikke dette skipet utstyrt med egen <b>FTL</b>-drift.\n\nVi må kjøpe en og sette den opp.
+PREVIOUS,tutorial_ftlintro,2803,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,Vi kan ikke frakte passasjerene til bestemmelsesstedet uten en FTL-reise. Dessverre er ikke dette skipet utstyrt med egen FTL-drift.\n\nVi må kjøpe en og sette den opp.
+UPDATED,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,Åpne handelsskjermen for å kjøpe en <b>FTL-drift</b> og noen <b>FTL-ladninger</b>.
+PREVIOUS,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,Åpne handelsskjermen for å kjøpe en <b>FTL</b>-drift.
+PREVIOUS,tutorial_ftltradescreen,2803,Open the trade screen to purchase an FTL drive.,Åpne handelsskjermen for å kjøpe en FTL-drift.
+UPDATED,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,INKLUDERER SKIP SOM LIGGER TIL KAI
+PREVIOUS,newmainmenu_includedocked,2803,INCLUDE DOCKED SHIPS IN EXPORT,INKLUDERE SKIP I DOKK I EKSPORTEN
+UPDATED,hud_layer_hostile,3149,HOSTILE *X,HOSTILE *X
+PREVIOUS,hud_layer_hostile,2803,HOSTILE,HOSTILE
+UPDATED,hud_layer_derelict,3149,DERELICT *X,DERELICT *X
+PREVIOUS,hud_layer_derelict,2803,DERELICT,DERELICT
+UPDATED,hud_layer_forsale,3149,[FOR SALE] *X,[TIL SALGS] *X
+PREVIOUS,hud_layer_forsale,2803,[FOR SALE],[TIL SALGS]
+CURRENT,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,Den ytre slitasjen får oss til å tro at de har vært her i minst et århundre. Denne sektoren må ha vært et av menneskehetens første forsøk på å kolonisere det ytre rom.
 CURRENT,techtree_node_caption_metallurgyrepeatable,3054,Spend research credits to continually increase our smelting efficiency.,Bruk forskningskreditter på å kontinuerlig øke smelteeffektiviteten vår.
 CURRENT,mainmenu_gamemode_arena,3054,Arena,Arena
 CURRENT,mainmenu_gamemode_arena_tooltip,3054,Create epic space battles between fleets of ships and watch the carnage unfold.,Skap episke romkamper mellom flåter av skip og se blodbadet utfolde seg.
@@ -20,8 +75,6 @@ CURRENT,newmainmenu_multisectorsim,3054,Multi-System Simulation,Simulering av fl
 CURRENT,newmainmenu_multisectorsimtooltip,3054,"Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.","Muliggjør simulering av flere systemer, slik at du kan dele opp flåten din mellom flere systemer/sektorer samtidig."
 CURRENT,hud_shipmaximumoccupancy,3054,Ship Maximum Occupancy: *X/*Y,Skipets maksimale belegg: *X/*Y
 CURRENT,hud_surveyinprogress,3054,WARNING - SURVEY WILL BE CANCELLED,ADVARSEL - UNDERSØKELSEN VIL BLI AVLYST
-CURRENT,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] Konverter til splitter
-CURRENT,hud_convertsplittertotrack,3054,[RMB] Convert to track,[RMB] Konverter til spor
 CURRENT,shipeditor_tooltip_painthull,3054,Toggle painting the exterior panels of the hull of your ship,Bytt maling av de utvendige panelene på skroget av skipet ditt
 CURRENT,shipeditor_tooltip_painthabitation,3054,Toggle painting the exterior panels of the habitation quarters of your ship,Bytt om på å male de utvendige panelene i boligkvarteret på skipet ditt
 CURRENT,shipeditor_tooltip_paintscaffold,3054,Toggle painting the scaffolding on your ship,Bytt om på stillasene på skipet ditt
@@ -322,8 +375,6 @@ CURRENT,tutorial_airpipetoairduct,2886,"Drag a <b>PIPE</b> from the <b>OXYGEN LO
 CURRENT,tutorial_airdone,2886,The <b>AIRDUCT</b> is activated and is pressurising the cabin! The atmosphere will soon be breathable.,<b>Airduct</b> er aktivert og setter kabinen under trykk! Atmosfæren vil snart være pustende.
 CURRENT,tutorial_enginesinformation,2886,Engines require both <b>POWER</b> and <b>FUEL</b> to operate. We must connect both engines to fuel and power.,Motorer krever både <b>KRAFT</b> og <b>DRIVSTOFF</b> for å fungere. Vi må koble både motorer til Drivstoff og Strøm.
 CURRENT,tutorial_enginesconnectpower,2886,"Now use the <b>CABLES</b> menu to power up the engine, by connecting it to your existing red power lines.",Bruk nå <b>CABLES</b>-menyen til å starte motoren ved å koble den til de eksisterende røde strømledningene.
-CURRENT,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,Vi kan ikke frakte passasjerene til bestemmelsesstedet uten en FTL-reise. Dessverre er ikke dette skipet utstyrt med egen <b>FTL</b>-drift.\n\nVi må kjøpe en og sette den opp.
-CURRENT,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,Åpne handelsskjermen for å kjøpe en <b>FTL</b>-drift.
 CURRENT,tutorial_ftladdftldrive,2886,Add one <b>FTL</b> drive to our order by clicking on the entry in the list.,Legg til en <b>FTL</b>-drift i bestillingen ved å klikke på oppføringen i listen.
 CURRENT,tutorial_ftladdftlfuel,2886,<b>FTL</b> drives consume one fuel charge per jump. Add 5 <b>FTL</b> Charges to the order as well.,<b>FTL</b>-drifter bruker én FTL-ladning per hopp. Legg også til 5 <b>FTL</b>-ladninger i bestillingen.
 CURRENT,tutorial_ftlinstallftl,2886,Install the <b>FTL</b> drive anywhere in your ship.,Installer <b>FTL</b>-driften hvor som helst i skipet ditt.
@@ -487,26 +538,26 @@ CURRENT,galaxymap_comet,2803,COMET,KOMET
 CURRENT,powergrid_category_reactor,2803,REACTOR,REAKTOR
 CURRENT,powergrid_category_battery,2803,BATTERY,BATTERI
 CURRENT,powergrid_category_engines,2803,ENGINES,MOTORER
-CURRENT,powergrid_category_FTL,2803,FTL,FTL
+CURRENT,powergrid_category_ftl,2803,FTL,FTL
 CURRENT,powergrid_batteryhint,2803,Install some Batteries to store reserve power from your Reactor.,Installer noen batterier for å lagre reservekraft fra Reaktoren.
 CURRENT,powergrid_powershortagehint,2803,Your ship cannot generate enough power. Consider installing more Reactors.,Skipet ditt kan ikke generere nok strøm. Vurder å installere flere Reaktorer.
 CURRENT,trade_category_equipment,2803,Equipment,Utstyr
 CURRENT,trade_shuttleinbound,2803,SHUTTLE INBOUND,SKYTTELBUSS INNGÅENDE
 CURRENT,trade_overlay_boxed,2803,[boxed],[Boks]
-CURRENT,trade_window_Crew,2803,Crew,Mannskap
+CURRENT,trade_window_crew,2803,Crew,Mannskap
 CURRENT,trade_equipment_rotatable,2803,- Rotatable,- Roterbar
 CURRENT,trade_boxed,2803,Boxed,Boks
 CURRENT,trade_nextcollection,2803,NEXT SHUTTLE IN *Xs,NESTE SKYTTELBUSS I *Xs
 CURRENT,trade_dangerdeflation,2803,"Prices for hardware and crew are lower than normal, due to panic","Prisene på maskinvare og mannskap er lavere enn normalt, på grunn av panikk"
 CURRENT,trade_dangercivilians,2803,Civilians are offering larger sums than normal for safe transit out of the sector,Sivile tilbyr større summer enn normalt for sikker transitt ut av sektoren
-CURRENT,techtree_node_caption_Automation,2803,Unlocks schematics for Tracks and Robot Arms,Låser opp skjemaer for Spor og Robotarmer
-CURRENT,techtree_node_title_CompactAutomation,2803,Compact Robot Arms,Kompakte Robotarmer
-CURRENT,techtree_node_caption_CompactAutomation,2803,Unlocks schematic for Short Robot Arm,Låser opp skjema for Kort robotarm
-CURRENT,techtree_node_title_SmartAutomation,2803,Smart Robot Arms,Smart robotarm
-CURRENT,techtree_node_caption_SmartAutomation,2803,Unlocks schematic for Smart Robot Arm,Låser opp skjema for Smart robotarm
-CURRENT,techtree_node_caption_Metallurgy1,2803,Smelters produce 50% more output,Smelteverkene produserer 50 % mer
-CURRENT,techtree_node_caption_Metallurgy2,2803,Smelters produce 100% more output,Smelteverkene produserer 100 % mer
-CURRENT,techtree_node_caption_EnergyTransmission,2803,Unlocks schematic for Energy Transmitter and Receiver,Låser opp skjema for Energisender og -mottaker
+CURRENT,techtree_node_caption_automation,2803,Unlocks schematics for Tracks and Robot Arms,Låser opp skjemaer for Spor og Robotarmer
+CURRENT,techtree_node_title_compactautomation,2803,Compact Robot Arms,Kompakte Robotarmer
+CURRENT,techtree_node_caption_compactautomation,2803,Unlocks schematic for Short Robot Arm,Låser opp skjema for Kort robotarm
+CURRENT,techtree_node_title_smartautomation,2803,Smart Robot Arms,Smart robotarm
+CURRENT,techtree_node_caption_smartautomation,2803,Unlocks schematic for Smart Robot Arm,Låser opp skjema for Smart robotarm
+CURRENT,techtree_node_caption_metallurgy1,2803,Smelters produce 50% more output,Smelteverkene produserer 50 % mer
+CURRENT,techtree_node_caption_metallurgy2,2803,Smelters produce 100% more output,Smelteverkene produserer 100 % mer
+CURRENT,techtree_node_caption_energytransmission,2803,Unlocks schematic for Energy Transmitter and Receiver,Låser opp skjema for Energisender og -mottaker
 CURRENT,techtree_node_caption_droneintelligence,2803,"Upgrades drones so they collect minerals in batches, greatly speeding up the process","Oppgraderer droner slik at de samler inn mineraler i grupper, noe som gjør prosessen mye raskere"
 CURRENT,techtree_node_title_trackspeed1,2803,Track Speed 1,Spor Hastighet 1
 CURRENT,techtree_node_caption_trackspeed1,2803,Doubles the speed of all Tracks,Dobler hastigheten på alle Spor
@@ -525,9 +576,9 @@ CURRENT,techtree_node_caption_deflectorbeams,2803,Unlocks schematics to build a 
 CURRENT,techtree_node_caption_habitation,2803,Unlocks efficiency improvements for all areas of life support and crew survival,Gir effektivitetsforbedringer på alle områder innen livsopphold og overlevelse for mannskapet
 CURRENT,techtree_node_caption_hydroponics1,2803,Improves crop yield to produce more food per cycle,Forbedrer avlingsutbyttet for å produsere mer mat per syklus
 CURRENT,boost_reactorefficiency,2803,Reactor Efficiency +*X%,Reaktorens effektivitet +*X%
-CURRENT,boost_SmelterEfficiency,2803,Smelter Efficiency +*X%,Smelteverkets effektivitet +*X%
-CURRENT,boost_TrackSpeed,2803,Track Speed +*X%,Spor Hastighet +*X%
-CURRENT,boost_RobotArmSpeed,2803,Robot Arm Speed +*X%,Robotarmens hastighet +*X%
+CURRENT,boost_smelterefficiency,2803,Smelter Efficiency +*X%,Smelteverkets effektivitet +*X%
+CURRENT,boost_trackspeed,2803,Track Speed +*X%,Spor Hastighet +*X%
+CURRENT,boost_robotarmspeed,2803,Robot Arm Speed +*X%,Robotarmens hastighet +*X%
 CURRENT,boost_waterrecyclingefficiency,2803,Water Recycling Efficiency +*X%,Effektiv gjenvinning av vann +*X%
 CURRENT,special_mininglaseraccuracy,2803,Mining Laser Precision,Gruvedrift Laser Presisjon
 CURRENT,orders_crew,2803,CREW,MANNSKAP
@@ -809,7 +860,7 @@ CURRENT,blackhole_part2_stargate4,2803,"We see no reason why you can't rescue bo
 CURRENT,blackhole_part3_setup1,2803,"Everything is ready, Captain.  I've produced the Hyperspace Modulators and the FTL fuel is already loaded.","Alt er klart, kaptein.  Jeg har produsert hyperrom-modulatorene, og FTL-drivstoffet er allerede lastet."
 CURRENT,blackhole_part3_setup2,2803,"You'll be performing the rescue using my ship, using my modified FTL drive that is already installed onboard. You can take control of my ship when you are ready to begin the rescue.","Du skal utføre redningen ved hjelp av skipet mitt, ved hjelp av min modifiserte FTL-drift som allerede er installert om bord. Du kan ta kontroll over skipet mitt når du er klar til å starte redningen."
 CURRENT,blackhole_part3_objective_stargate,2803,Recover the Stargate data,Gjenopprett Stargate-dataene
-CURRENT,blackhole_part3_objective_stargateX,2803,Recover the Stargate data [*X%],Gjenopprett Stargate-dataene [*X%]
+CURRENT,blackhole_part3_objective_stargatex,2803,Recover the Stargate data [*X%],Gjenopprett Stargate-dataene [*X%]
 CURRENT,blackhole_part3_stargate1,2803,"Greetings, Captain.  Good luck with the rescue.  Remember the data onboard Marcus' ship is extremely valuable to us.  You'll need Marcus to transmit the data from his console before you can complete the rescue.","Vær hilset, kaptein.  Lykke til med redningsaksjonen.  Husk at dataene om bord på Marcus' skip er ekstremt verdifulle for oss.  Du må få Marcus til å overføre dataene fra konsollen før du kan fullføre redningen."
 CURRENT,blackhole_part3_stargate2,2803,Losing that data will set the Stargate project back years.,Å miste de dataene vil sette Stargate-prosjektet mange år tilbake.
 CURRENT,blackhole_part3_marcus2,2803,"Dock your ship with mine, Captain, and tell me when you're ready for me to come on board.  Please hurry!","Dokk skipet ditt med mitt, kaptein, og si fra når jeg kan komme om bord.  Vær så snill, skynd deg!"
@@ -1100,11 +1151,11 @@ CURRENT,samplebankeditor_addsample,2803,Add Sound,Legg til lyd
 CURRENT,samplebank,2803,(Sample Bank),(Eksempelbank)
 CURRENT,tagline,2803,THE LAST STARSHIP,DET SISTE STJERNESKIPET
 CURRENT,mainmenu_title,2803,Main Menu,Hovedmeny
-CURRENT,mainmenu_newgameA,2803,New Game - Praxis,Nytt spill - Praxis
-CURRENT,mainmenu_newgameB,2803,New Game - Sleek,Nytt spill - Sleek
-CURRENT,mainmenu_newgameC,2803,New Game - Inner Shapes,Nytt spill - Indre former
-CURRENT,mainmenu_newgameD,2803,New Game - Shipyard,Nytt spill - Skipsverft
-CURRENT,mainmenu_newgameE,2803,New Game - Large Logistics,Nytt spill - Large Logistics
+CURRENT,mainmenu_newgamea,2803,New Game - Praxis,Nytt spill - Praxis
+CURRENT,mainmenu_newgameb,2803,New Game - Sleek,Nytt spill - Sleek
+CURRENT,mainmenu_newgamec,2803,New Game - Inner Shapes,Nytt spill - Indre former
+CURRENT,mainmenu_newgamed,2803,New Game - Shipyard,Nytt spill - Skipsverft
+CURRENT,mainmenu_newgamee,2803,New Game - Large Logistics,Nytt spill - Large Logistics
 CURRENT,mainmenu_savegame,2803,Save Game,Lagre spill
 CURRENT,mainmenu_loadgame,2803,Load Game,Last inn spill
 CURRENT,mainmenu_abandongame,2803,Abandon Game,Abandon Game
@@ -1179,12 +1230,12 @@ CURRENT,keybinding_panup1,2803,Pan Up (1),Panorere opp (1)
 CURRENT,keybinding_panup2,2803,Pan Up (2),Panorer opp (2)
 CURRENT,keybinding_zoomin,2803,Zoom In,Zoom inn
 CURRENT,keybinding_zoomout,2803,Zoom Out,Zoom ut
-CURRENT,keybinding_ManoeuvreLeft,2803,Thrust Left,Skyvekraft til venstre
-CURRENT,keybinding_ManoeuvreRight,2803,Thrust Right,Skyv til høyre
-CURRENT,keybinding_ManoeuvreUp,2803,Thrust Up,Skyv opp
-CURRENT,keybinding_ManoeuvreDown,2803,Thrust Down,Skyv ned
-CURRENT,keybinding_ManoeuvreClockwise,2803,Thrust Clockwise,Skyvekraft med klokken
-CURRENT,keybinding_ManoeuvreCounterClockwise,2803,Thrust C-Clockwise,Trykk C mot klokken
+CURRENT,keybinding_manoeuvreleft,2803,Thrust Left,Skyvekraft til venstre
+CURRENT,keybinding_manoeuvreright,2803,Thrust Right,Skyv til høyre
+CURRENT,keybinding_manoeuvreup,2803,Thrust Up,Skyv opp
+CURRENT,keybinding_manoeuvredown,2803,Thrust Down,Skyv ned
+CURRENT,keybinding_manoeuvreclockwise,2803,Thrust Clockwise,Skyvekraft med klokken
+CURRENT,keybinding_manoeuvrecounterclockwise,2803,Thrust C-Clockwise,Trykk C mot klokken
 CURRENT,keybinding_toggletactical,2803,Toggle Tactical,Toggle Taktisk
 CURRENT,keybinding_togglemap,2803,Toggle Map,Veksle mellom kart
 CURRENT,keybinding_hudscaleup,2803,Increase HUD Scale,Øke HUD-skalaen
@@ -1265,7 +1316,6 @@ CURRENT,newmainmenu_savetosteamcloud,2803,SAVE TO STEAM CLOUD,LAGRE I STEAM-SKYE
 CURRENT,newmainmenu_steamcloud,2803,STEAM CLOUD,STEAM CLOUD
 CURRENT,newmainmenu_cloudquotaremaining,2803,Used: *X / *Y (*Z% remaining),Brukes: *X / *Y (*Z% gjenværende)
 CURRENT,newmainmenu_exportship,2803,EXPORT SHIP,EXPORT SHIP
-CURRENT,newmainmenu_includedocked,2803,INCLUDE DOCKED SHIPS IN EXPORT,INKLUDERE SKIP I DOKK I EKSPORTEN
 CURRENT,newmainmenu_uploadship,2803,UPLOAD TO STEAM,LAST OPP TIL STEAM
 CURRENT,newmainmenu_setshipname,2803,SET SHIP NAME,SET SHIP NAME
 CURRENT,newmainmenu_importhostile,2803,IMPORT HOSTILE,IMPORT HOSTILE
@@ -1474,9 +1524,6 @@ CURRENT,hud_storagecrate_tooltip_capacity,2803,Capacity: *X,Kapasitet: *X
 CURRENT,hud_collector_tooltip_totalgathered,2803,TOTAL GATHERED,TOTALT GJORT
 CURRENT,hud_collector_tooltip_gathering,2803,Gathering *X *Y per second,Samler *X *Y per sekund
 CURRENT,hud_mission_collection,2803,WARNING - MISSION COLLECTION UNDERWAY,ADVARSEL - INNSAMLING AV OPPDRAG PÅGÅR
-CURRENT,hud_layer_hostile,2803,HOSTILE,HOSTILE
-CURRENT,hud_layer_derelict,2803,DERELICT,DERELICT
-CURRENT,hud_layer_forsale,2803,[FOR SALE],[TIL SALGS]
 CURRENT,hud_layer_unnaned_system,2803,UNNAMED,UNNAMED
 CURRENT,hud_trade_incoming,2803,WARNING - TRADE INCOMING,ADVARSEL - HANDEL PÅ VEI
 CURRENT,hud_trade_owed,2803,WARNING - TRADE OWED,ADVARSEL - SKYLDIG HANDEL
@@ -1532,11 +1579,11 @@ CURRENT,shipeditor_mode_spawn,2803,Spawn,Gyte
 CURRENT,shipeditor_mode_eyedropper,2803,Eyedropper,Øyedråpeteller
 CURRENT,shipeditor_brush_freehand,2803,FREEHAND,FREEHAND
 CURRENT,shipeditor_price_button,2803,Cost,Kostnader
-CURRENT,shipeditor_stat_Mass,2803,Mass,Masse
-CURRENT,shipeditor_stat_Toughness,2803,Toughness,Tøffhet
-CURRENT,shipeditor_stat_Capacity,2803,Cabins,Hytter
-CURRENT,shipeditor_stat_Value,2803,Value,Verdi
-CURRENT,shipeditor_stat_Damage,2803,Damage,Skader
+CURRENT,shipeditor_stat_mass,2803,Mass,Masse
+CURRENT,shipeditor_stat_toughness,2803,Toughness,Tøffhet
+CURRENT,shipeditor_stat_capacity,2803,Cabins,Hytter
+CURRENT,shipeditor_stat_value,2803,Value,Verdi
+CURRENT,shipeditor_stat_damage,2803,Damage,Skader
 CURRENT,shipeditor_symmetry,2803,SYMMETRY,SYMMETRI
 CURRENT,shipeditor_symmetry_short,2803,S,S
 CURRENT,shipeditor_symmetry_leftclickdrag,2803,[LMB] Drag,[LMB] Dra
@@ -1623,15 +1670,15 @@ CURRENT,trade_autotradedisabled,2803,DISABLED IN ORDER MENU,DEAKTIVERT I BESTILL
 CURRENT,trade_overlay_price,2803,PRICE,PRIS
 CURRENT,trade_overlay_them,2803,THEM,DEM
 CURRENT,trade_overlay_you,2803,YOU,DU
-CURRENT,trade_window_Energy,2803,Energy,Energi
-CURRENT,trade_window_Propulsion,2803,Propulsion,Fremdrift
-CURRENT,trade_window_Habitation,2803,Habitation,Bolig
-CURRENT,trade_window_Defense,2803,Defense,Forsvar
-CURRENT,trade_window_Industry,2803,Industry,Industri
-CURRENT,trade_window_Logistics,2803,Logistics,Logistikk
-CURRENT,trade_window_Science,2803,Science,Vitenskap
-CURRENT,trade_window_Resources,2803,Resources,Ressurser
-CURRENT,trade_window_Components,2803,Components,Komponenter
+CURRENT,trade_window_energy,2803,Energy,Energi
+CURRENT,trade_window_propulsion,2803,Propulsion,Fremdrift
+CURRENT,trade_window_habitation,2803,Habitation,Bolig
+CURRENT,trade_window_defense,2803,Defense,Forsvar
+CURRENT,trade_window_industry,2803,Industry,Industri
+CURRENT,trade_window_logistics,2803,Logistics,Logistikk
+CURRENT,trade_window_science,2803,Science,Vitenskap
+CURRENT,trade_window_resources,2803,Resources,Ressurser
+CURRENT,trade_window_components,2803,Components,Komponenter
 CURRENT,trade_equipment_size,2803,- Size *X x *Y,- Størrelse *X x *Y
 CURRENT,trade_equipment_powered,2803,- Powered,- Drevet
 CURRENT,trade_equipment_charge,2803,- Charge (per use) : *X MW,- Avgift (per bruk) : *X MW
@@ -1666,12 +1713,12 @@ CURRENT,techtree_available,2803,AVAILABLE,TILGJENGELIG
 CURRENT,techtree_unavailable,2803,REQUIREMENTS NOT MET,KRAVENE IKKE OPPFYLT
 CURRENT,techtree_in_progress,2803,RESEARCH IN PROGRESS,PÅGÅENDE FORSKNING
 CURRENT,techtree_busy,2803,RESEARCHERS ARE BUSY,FORSKERE ER OPPTATT
-CURRENT,techtree_cost_RP,2803,Cost: *X RP,Kostnad *X RP
-CURRENT,techtree_cost_CP,2803,Cost: *X CP,Kostnad *X CP
-CURRENT,techtree_cost_RP+CP,2803,Cost: *X RP + *Y CP,Kostnad *X RP + *Y CP
-CURRENT,techtree_currentResearch,2803,Currently Researching:,For tiden forsker jeg:
-CURRENT,techtree_researchPoints,2803,Research Points:,Forskningspoeng:
-CURRENT,techtree_computationPoints,2803,Computation Points:,Beregningspoeng:
+CURRENT,techtree_cost_rp,2803,Cost: *X RP,Kostnad *X RP
+CURRENT,techtree_cost_cp,2803,Cost: *X CP,Kostnad *X CP
+CURRENT,techtree_cost_rp+cp,2803,Cost: *X RP + *Y CP,Kostnad *X RP + *Y CP
+CURRENT,techtree_currentresearch,2803,Currently Researching:,For tiden forsker jeg:
+CURRENT,techtree_researchpoints,2803,Research Points:,Forskningspoeng:
+CURRENT,techtree_computationpoints,2803,Computation Points:,Beregningspoeng:
 CURRENT,techtree_rewards,2803,Rewards:,Belønninger:
 CURRENT,techtree_unlocks,2803,Unlocks:,Låser opp:
 CURRENT,techtree_boosts,2803,Performance Boosts:,Øker ytelsen:
@@ -1685,16 +1732,16 @@ CURRENT,techtree_warning,2803,WARNING!,ADVARSEL!
 CURRENT,techtree_lose_progress,2803,Starting a new research project will lose all progress on the current one.,"Hvis du starter et nytt forskningsprosjekt, mister du all fremdrift i det pågående prosjektet."
 CURRENT,techtree_stargate_warning,2803,Completing Andromeda Project phases ahead of the Deep Space Industrialists storyline will bypass those episodes.,"Hvis du fullfører fasene i Andromeda-prosjektet før Deep Space Industrialists-historien, går du utenom disse episodene."
 CURRENT,techtree_missing_equipment,2803,This research project requires a *X to be completed,Dette forskningsprosjektet krever at *X fylles ut
-CURRENT,techtree_node_title_Logistics1,2803,Logistics,Logistikk
-CURRENT,techtree_node_caption_Logistics1,2803,Unlocks schematics for small logistics storage,Låser opp skjemaer for små logistikklagre
-CURRENT,techtree_node_title_Logistics2,2803,Logistics Level 2,Logistikk nivå 2
-CURRENT,techtree_node_caption_Logistics2,2803,Unlocks schematics for Medium sized storage,Låser opp skjemaer for mellomstor lagringsplass
-CURRENT,techtree_node_title_Logistics3,2803,Logistics Level 3,Logistikk nivå 3
-CURRENT,techtree_node_caption_Logistics3,2803,Unlocks schematics for Large logistics storage,Låser opp skjemaer for Large logistics storage
-CURRENT,techtree_node_title_Automation,2803,Automation,Automatisering
-CURRENT,techtree_node_title_Metallurgy1,2803,Metallurgy Level 1,Metallurgi nivå 1
-CURRENT,techtree_node_title_Metallurgy2,2803,Metallurgy Level 2,Metallurgi nivå 2
-CURRENT,techtree_node_title_EnergyTransmission,2803,Energy Transmission,Overføring av energi
+CURRENT,techtree_node_title_logistics1,2803,Logistics,Logistikk
+CURRENT,techtree_node_caption_logistics1,2803,Unlocks schematics for small logistics storage,Låser opp skjemaer for små logistikklagre
+CURRENT,techtree_node_title_logistics2,2803,Logistics Level 2,Logistikk nivå 2
+CURRENT,techtree_node_caption_logistics2,2803,Unlocks schematics for Medium sized storage,Låser opp skjemaer for mellomstor lagringsplass
+CURRENT,techtree_node_title_logistics3,2803,Logistics Level 3,Logistikk nivå 3
+CURRENT,techtree_node_caption_logistics3,2803,Unlocks schematics for Large logistics storage,Låser opp skjemaer for Large logistics storage
+CURRENT,techtree_node_title_automation,2803,Automation,Automatisering
+CURRENT,techtree_node_title_metallurgy1,2803,Metallurgy Level 1,Metallurgi nivå 1
+CURRENT,techtree_node_title_metallurgy2,2803,Metallurgy Level 2,Metallurgi nivå 2
+CURRENT,techtree_node_title_energytransmission,2803,Energy Transmission,Overføring av energi
 CURRENT,techtree_node_title_droneintelligence,2803,Drone Intelligence,Droneetterretning
 CURRENT,techtree_node_title_dronespeed1,2803,Drone Speed 1,Dronehastighet 1
 CURRENT,techtree_node_caption_dronespeed1,2803,Increases the top speed of Drones by 50%,Øker topphastigheten til droner med 50 %
@@ -1721,7 +1768,7 @@ CURRENT,techtree_node_caption_recycling2,2803,Brings all life-support recycling 
 CURRENT,techtree_node_title_hydroponics1,2803,Hydroponics 1,Hydroponics 1
 CURRENT,techtree_node_title_hydroponics2,2803,Hydroponics 2,Hydroponics 2
 CURRENT,techtree_node_caption_hydroponics2,2803,"Further improves crop yield, and unlocks schematics to manufacture Hydroponics Modules","Forbedrer avlingene ytterligere, og låser opp skjemaer for å produsere hydroponiske moduler"
-CURRENT,boost_DroneSpeed,2803,Drone Top Speed +*X%,Dronens topphastighet +*X%
+CURRENT,boost_dronespeed,2803,Drone Top Speed +*X%,Dronens topphastighet +*X%
 CURRENT,boost_wasterecyclingefficiency,2803,Waste Recycling Efficiency +*X%,Effektivitet i avfallsgjenvinning +*X%
 CURRENT,boost_airrecyclingefficiency,2803,Air Recycling Efficiency +*X%,Luftgjenvinningseffektivitet +*X%
 CURRENT,boost_recyclingefficiency,2803,Recycling Efficiency *X%,Gjenvinningseffektivitet *X%
@@ -1883,7 +1930,7 @@ CURRENT,mission_production_available,2803,You have *X stacks of R*Y available fo
 CURRENT,mission_production_received,2803,We have received *X stacks of R*Y out of a total of *Z.,Vi har mottatt *X stabler med R*Y av totalt *Z.
 CURRENT,mission_production_nomore,2803,There is no more R*X available within your fleet.,Det er ikke mer R*X tilgjengelig i flåten din.
 CURRENT,mission_production_success,2803,Provided *X/*Y items,Levert *X/*Y elementer
-CURRENT,mission_type_SectorDestroy,2803,Destroy Hostile Forces,Ødelegg fiendtlige styrker
+CURRENT,mission_type_sectordestroy,2803,Destroy Hostile Forces,Ødelegg fiendtlige styrker
 CURRENT,mission_sectordestroy_title,2803,SECTOR OBJECTIVE: Destroy all hostile forces,SEKTORMÅL: Ødelegge alle fiendtlige styrker
 CURRENT,mission_sectordestroy_system,2803,You have destroyed the enemy forces in system S*X. Payment of $*Y is coming your way.,Du har tilintetgjort fiendens styrker i system S*X. Betaling av $*Y er på vei til deg.
 CURRENT,mission_sectordestroy_progress,2803,Cleared *X out of *Y systems,Ryddet *X ut av *Y -systemer
@@ -1893,7 +1940,7 @@ CURRENT,mission_sectordestroy_desc3,2803,Terminate any enemy vessels you find at
 CURRENT,mission_sectordestroy_payment,2803,"A payment of $*X will be made after each location is cleared, for a total of $*Y.","En betaling på $*X vil bli foretatt etter at hvert sted er klarert, til sammen $*Y."
 CURRENT,mission_sectordestroy_map,2803,Destroy hostiles [*X/*Y],Ødelegg fiender [*X/*Y]
 CURRENT,mission_sectordestory_success,2803,HOSTILES ELIMINATED,FIENDER ELIMINERT
-CURRENT,mission_type_SectorRescue,2803,Rescue (Sector),Redning (sektor)
+CURRENT,mission_type_sectorrescue,2803,Rescue (Sector),Redning (sektor)
 CURRENT,mission_sectorrescue_description1,2803,Investigate a distress call in system S*X.,Undersøk et nødanrop i system S*X.
 CURRENT,mission_sectorrescue_thrust,2803,The ship is moving - you will need some skill to dock safely. (+25% pay),Skipet er i bevegelse - du trenger litt dyktighet for å legge til kai på en trygg måte. (+25 % lønn)
 CURRENT,mission_sectorrescue_spin,2803,The ship is spinning out of control. It will be very challenging to dock. (+25% pay),Skipet er ute av kontroll. Det blir en stor utfordring å legge til kai. (+25 % lønn)
@@ -1903,7 +1950,7 @@ CURRENT,mission_sectorrescue_map_initial,2803,Investigate Distress Call,Undersø
 CURRENT,mission_sectorrescue_map,2803,People rescued [*X/*Y],Mennesker reddet [*X/*Y]
 CURRENT,mission_sectorrescue_awardcaption,2803,*X People rescued.,*X Mennesker reddet.
 CURRENT,mission_sectorrescue_success,2803,RESCUE COMPLETED,REDNING FULLFØRT
-CURRENT,mission_type_SectorProtect,2803,Protect (Sector),Beskytt (sektor)
+CURRENT,mission_type_sectorprotect,2803,Protect (Sector),Beskytt (sektor)
 CURRENT,mission_sectorprotect_title,2803,SECTOR OBJECTIVE: Protect ship under attack,SEKTORMÅL: Beskytte skip under angrep
 CURRENT,mission_sectorprotect_description1,2803,Investigate a distress call in system S*X.,Undersøk et nødanrop i system S*X.
 CURRENT,mission_sectorprotect_description2,2803,A commercial vessel is under attack from an unknown hostile enemy. They have already taken heavy damage.,Et handelsskip er under angrep fra en ukjent fiende. De har allerede fått store skader.
@@ -2393,8 +2440,8 @@ CURRENT,wolf_shipname_wolf1,2803,Interstellar Prospector,Interstellar Prospector
 CURRENT,wolf_shipname_wolf2,2803,Infinite Horizon,Uendelig horisont
 CURRENT,wolf_shipname_wolf3,2803,Celestial Hauler,Celestial Hauler
 CURRENT,wolf_shipname_scavenger,2803,Scavenger Wraith,Scavenger Wraith
-CURRENT,object_FlightRecorder,2803,Flight Recorder,Flyopptaker
-CURRENT,object_ShipWreckage,2803,Ship Wreckage,Skipsvrak
+CURRENT,object_flightrecorder,2803,Flight Recorder,Flyopptaker
+CURRENT,object_shipwreckage,2803,Ship Wreckage,Skipsvrak
 CURRENT,wolf_part1_scavenger3,2803,Funds received. Pleasure doing business.,Mottatte midler. En fornøyelse å gjøre forretninger.
 CURRENT,wolf_part1_sendingshuttle,2803,"Standby while I dock my ship with yours, Captain, to collect the items you've recovered so far. Thank you for your efforts.","Vent mens jeg dokker skipet mitt med ditt, kaptein, for å hente gjenstandene du har funnet så langt. Takk for innsatsen."
 CURRENT,wolf_part1_completion2,2803,Most likely to be sold for vast profits to the Stargate Project - who don't seem keen to ask questions.,Mest sannsynlig vil de bli solgt med stor fortjeneste til Stargate-prosjektet - som ikke ser ut til å være interessert i å stille spørsmål.
@@ -2722,7 +2769,7 @@ CURRENT,dsi_xthanks3,2803,"I've received my share.  Excellent work, Captain.","J
 CURRENT,dsi_part1_stationname,2803,A.J.E Foundry,A.J.E Foundry
 CURRENT,dsi_part1_title,2803,Deep Space Industrialists,Industrialister i verdensrommet
 CURRENT,dsi_part1_advert2,2803,Please give me a call to discuss the details.,Ring meg for å diskutere detaljene.
-CURRENT,dsi_part1_action_callX,2803,Call X,Ring X
+CURRENT,dsi_part1_action_callx,2803,Call X,Ring X
 CURRENT,dsi_part1_call1,2803,"Captain.  Perhaps you are already aware, but there are big plans underway within this sector.  There are designs to build something... incredible, a transportation system with near infinite range, requiring state of the art manufacturing and industry.","Kaptein.  Kanskje du allerede er klar over det, men det er store planer på gang i denne sektoren.  Det er planer om å bygge noe... utrolig, et transportsystem med nesten uendelig rekkevidde, som krever toppmoderne produksjon og industri."
 CURRENT,dsi_part1_call2,2803,"A stargate, big enough for our most massive fleets, shuttling humanity between galaxies as if they were nothing but neighbouring stars.  A new multi-galactic era for humanity.","En stjerneport, stor nok for våre mest massive flåter, som sender menneskeheten i skytteltrafikk mellom galakser som om de ikke var annet enn nabostjerner.  En ny multigalaktisk æra for menneskeheten."
 CURRENT,dsi_part1_call3,2803,In all my years I've never known so much capital to be allocated to one project.,I løpet av alle mine år har jeg aldri opplevd at så mye kapital har blitt allokert til ett prosjekt.
@@ -2787,6 +2834,7 @@ CURRENT,dsi_part2_scene_z4,2803,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2803,THERE WILL BE NO FURTHER WARNING.,VIL DET IKKE KOMME FLERE ADVARSLER.
 CURRENT,dsi_part2_scene_y7,2803,You've left me no choice.,Du har ikke gitt meg noe valg.
 CURRENT,dsi_part2_scene_y8,2803,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Jeg kommer etter deg, Alexander, og denne gangen ber jeg ikke om 10 %. Jeg vil ha alt."
+OBSOLETE,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,Den ytre slitasjen får oss til å tro at de har vært her i minst et århundre. Denne sektoren må ha vært et av menneskehetens første forsøk på å kolonisere det ytre rom.
 OBSOLETE,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.","Aktiver funksjoner som hjelper oversettere, for eksempel Alt for å vise engelsk og Ctrl for å vise frasenøkkelen."
 OBSOLETE,techtree_node_title_robotarmspeed,2803,Robot Arm Speed,Robotarmens hastighet
 OBSOLETE,dsi_part2_isotopesintro2,2803,"It's not too complex.  It starts with a Hyperspace Scoop, or several ideally, that you can fit to your vessels.  Every time you make an FTL jump you'll collect more as you pass through deep space at light speed.  You can then pipe those isotopes into a Refinery and convert them into Stable Isotopes.","Det er ikke så komplisert.  Det starter med en Hyperspace Scoop, eller helst flere, som du kan montere på fartøyene dine.  Hver gang du gjør et FTL-hopp, samler du inn mer mens du passerer gjennom det dype rommet i lysets hastighet.  Disse isotopene kan du så føre inn i et Raffineri og omdanne dem til Stabile isotoper."
@@ -2815,8 +2863,6 @@ OBSOLETE,tutorial_airpipetoairduct,2803,"Drag a PIPE from the OXYGEN LOADER to t
 OBSOLETE,tutorial_airdone,2803,The AIRDUCT is activated and is pressurising the cabin! The atmosphere will soon be breathable.,Airduct er aktivert og setter kabinen under trykk! Atmosfæren vil snart være pustende.
 OBSOLETE,tutorial_enginesinformation,2803,Engines require both POWER and FUEL to operate. We must connect both engines to fuel and power.,Motorer krever både KRAFT og DRIVSTOFF for å fungere. Vi må koble både motorer til Drivstoff og Strøm.
 OBSOLETE,tutorial_enginesconnectpower,2803,"Now use the CABLES menu to power up the engine, by connecting it to your existing red power lines.",Bruk nå CABLES-menyen til å starte motoren ved å koble den til de eksisterende røde strømledningene.
-OBSOLETE,tutorial_ftlintro,2803,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,Vi kan ikke frakte passasjerene til bestemmelsesstedet uten en FTL-reise. Dessverre er ikke dette skipet utstyrt med egen FTL-drift.\n\nVi må kjøpe en og sette den opp.
-OBSOLETE,tutorial_ftltradescreen,2803,Open the trade screen to purchase an FTL drive.,Åpne handelsskjermen for å kjøpe en FTL-drift.
 OBSOLETE,tutorial_ftladdftldrive,2803,Add one FTL drive to our order by clicking on the entry in the list.,Legg til en FTL-drift i bestillingen ved å klikke på oppføringen i listen.
 OBSOLETE,tutorial_ftladdftlfuel,2803,FTL drives consume one fuel charge per jump. Add 5 FTL Charges to the order as well.,FTL-drifter bruker én FTL-ladning per hopp. Legg også til 5 FTL-ladninger i bestillingen.
 OBSOLETE,tutorial_ftlinstallftl,2803,Install the FTL drive anywhere in your ship.,Installer FTL-driften hvor som helst i skipet ditt.

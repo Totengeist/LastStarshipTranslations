@@ -239,6 +239,7 @@ settings_appearance                     APPEARANCE
 settings_keybindings                    KEYBOARD
 settings_autosaves                      AUTOSAVES
 settings_other                          OTHER
+settings_credits                        CREDITS
 settings_mastervolume                   Master Volume
 settings_effectsvolume                  Effects Volume
 settings_musicvolume                    Music Volume
@@ -409,11 +410,12 @@ newmainmenu_loadgamedev                 LOAD GAME (DEV)
 newmainmenu_createship                  CREATE NEW SHIP
 newmainmenu_createnewsave               CREATE NEW SAVE
 newmainmenu_savetosteamcloud            SAVE TO STEAM CLOUD
+newmainmenu_savetosteamcloud_tooltip    The game will be saved to Steam Cloud when enabled. A warning will show if the save fails. 
 newmainmenu_showautosaves               AUTOSAVES
 newmainmenu_steamcloud                  STEAM CLOUD
 newmainmenu_cloudquotaremaining         Used: *X / *Y (*Z% remaining)
 newmainmenu_exportship                  EXPORT SHIP
-newmainmenu_includedocked               INCLUDE DOCKED SHIPS IN EXPORT
+newmainmenu_includedocked               INCLUDE DOCKED SHIPS
 newmainmenu_uploadship                  UPLOAD TO STEAM
 newmainmenu_setshipname                 SET SHIP NAME
 newmainmenu_importhostile               IMPORT HOSTILE
@@ -435,6 +437,7 @@ newmainmenu_exitsaves                   Auto-save on exit
 newmainmenu_autosavewarning             Auto-save load warning
 newmainmenu_filter                      SEARCH...
 newmainmenu_newgameoptions              Game Options
+newmainmenu_saveoptions                 Save Options
 newmainmenu_defensiveenemies            Defensive Enemies
 newmainmenu_defensiveenemiestooltip     Hostile ships will only target you once you have targeted them first.
 newmainmenu_multisectorsim              Multi-System Simulation
@@ -672,6 +675,11 @@ hud_tooltip_boxed                       [BOXED]
 hud_tooltip_charge                      Charge
 hud_totalproduction                     TOTAL PRODUCTION
 hud_totalconsumption                    TOTAL CONSUMPTION
+
+hud_tooltip_switchflooring              [{RotateObject}] Switch flooring style
+hud_tooltip_currentflooring             Current style: *X
+hud_tooltip_gratedflooring              Grated
+hud_tooltip_normalflooring              Normal
     
 hud_panel_storagecrate_leftclick        [LMB] x1 Container
 hud_panel_storagecrate_shiftclick       [SHIFT] x5 Containers
@@ -689,16 +697,27 @@ hud_storagecrate_tooltip_capacity       Capacity: *X
 hud_maximumoccupancy                    Maximum Occupancy: *X/*Y
 hud_shipmaximumoccupancy                Ship Maximum Occupancy: *X/*Y
 
+hud_hull_integrity                      HULL
+hud_power_battery                       BATTERY
+hud_power_powershortage                 POWER SHORTAGE
+
 hud_cabins                              Cabins: *X/*Y
+hud_idlecrew                            Idle Crew
+
+hud_consumingperhour                    Consuming *X per hour
+hud_dehydrationperperson                Dehydration *X per person
+hud_hungerperperson                     Hunger *X per person
+
+hud_byauthor                            BY *X
 
 hud_collector_tooltip_totalgathered     TOTAL GATHERED
 hud_collector_tooltip_gathering         Gathering *X *Y per second
 
 hud_mission_collection                  WARNING - MISSION COLLECTION UNDERWAY
 
-hud_layer_hostile                       HOSTILE
-hud_layer_derelict                      DERELICT
-hud_layer_forsale                       [FOR SALE]
+hud_layer_hostile                       HOSTILE *X
+hud_layer_derelict                      DERELICT *X
+hud_layer_forsale                       [FOR SALE] *X
 hud_layer_unnaned_system                UNNAMED
 
 hud_trade_incoming                      WARNING - TRADE INCOMING
@@ -713,11 +732,12 @@ hud_invalidplacement                    INVALID PLACEMENT
 hud_invalidplacement_tooltip            This equipment can not function properly when installed in this position.
 hud_removefromtrack                     [RMB] Remove from track
 
-hud_converttracktosplitter              [RMB] Convert to splitter
-hud_convertsplittertotrack              [RMB] Convert to track
+hud_converttracktosplitter              [CTRL + RMB] Convert to splitter
+hud_convertsplittertotrack              [CTRL + RMB] Convert to track
 
 communicator_incomingcall               INCOMING HAIL...
 communicator_outgoingcall               CALLING...
+communicator_newobjective               NEW OBJECTIVE
 
 hud_repairyourship                      You should repair the damage to your ship at a SHIPYARD.
 
@@ -912,6 +932,7 @@ galaxymap_survivalexit                  Reach the STARGATE!
 galaxymap_sectornumber                  SECTOR *X
 galaxymap_sectorgone                    LOST TO THE ANOMALY
 galaxymap_switchsector                  Switch Sector View
+galaxymap_stargate                      STARGATE
 
 survey_type_derelict                    Derelict
 survey_type_asteroid                    Asteroid belt
@@ -1002,9 +1023,17 @@ trade_transaction                       *X: *Y
 trade_showoutofstock                    Show out of stock
 trade_shuttleinbound                    SHUTTLE INBOUND
 trade_autotrade                         AUTO-TRADE
+trade_canceltrade                       CANCEL TRADE AND REFUND
 trade_cancelautotrade                   CANCEL AUTO-TRADE
 trade_autotradecancelled                LAST ORDER CANCELLED
 trade_autotradedisabled                 DISABLED IN ORDER MENU
+trade_refundvalue                       REFUND VALUE
+trade_cancellationcost                  CANCELLATION COST
+
+trade_partiallyfilled                   PARTIALLY FILLED
+trade_incompletecomponent               INCOMPLETE COMPONENT
+trade_removeincomplete                  REMOVE INCOMPLETE
+trade_removepartiallyfilled             REMOVE PARTIALLY FILLED
 
 trade_overlay_price                     PRICE
 trade_overlay_them                      THEM
@@ -1047,6 +1076,10 @@ trade_ourstock                          You have *X on-board
 trade_buying                            Buying *X
 trade_selling                           Selling *X
 trade_sacking                           Sacking *X
+trade_order_normal                      (*X)
+trade_order_buy_on_sell_screen          (BUY *X)
+trade_order_sell_on_buy_screen          (SELL *X)
+trade_order_sack_on_buy_screen          (SACK *X)
 trade_sack                              SACK
 trade_tooltip_canceltrade               [LMB] Cancel
 trade_tooltip_cancelalltrade            [RMB] Cancel All
@@ -1095,6 +1128,7 @@ techtree_lose_progress                  Starting a new research project will los
 techtree_stargate_warning               Completing Andromeda Project phases ahead of the Deep Space Industrialists storyline will bypass those episodes.
 techtree_missing_equipment              This research project requires a *X to be completed
 techtree_researchcredit_tooltip         Perform sector scans to find derelict ships that contain research credits.
+techtree_researchpercent                *X% Complete 
 
 researchcredit_hint                     Load into a Science Station for analysis
 
@@ -1181,6 +1215,8 @@ techtree_node_caption_metallurgyrepeatable        Spend research credits to cont
 techtree_node_title_robotarmspeedrepeatable       Robot Arm Speed
 techtree_node_caption_robotarmspeedrepeatable     Spend research credits to continually increase our robot arm speed.
 
+tooltip_efficiency                      Efficiency +*X%
+tooltip_activating                      Activating +*X%
 boost_reactorefficiency                 Reactor Efficiency +*X%
 boost_SmelterEfficiency                 Smelter Efficiency +*X%
 boost_DroneSpeed                        Drone Top Speed +*X%
@@ -1999,6 +2035,7 @@ alert_type_dead                         DEATHS
 alert_type_dead_caption                 *X dead
 alert_type_lowresource_caption          *X
 alert_type_lowfuel                      LOW FUEL
+alert_type_lowdeuterium                 LOW DEUTERIUM
 alert_type_lowftl                       FTL CHARGES
 alert_type_lowoxygen                    LOW OXYGEN
 alert_type_lowbattery                   BATTERY LOW
@@ -2089,6 +2126,9 @@ stargate_award_subtitle                 Phase *X Completed
 stargate_available_subtitle             Phase *X Available
 stargate_unlocked_subtitle              Stargate window unlocked
 
+stargate_unknowncomponent               Unknown Component
+stargate_unknowncomponent_description   Unlock this component through research!
+
 # =============================================================================
 # Industry Tutorial
 # =============================================================================
@@ -2143,8 +2183,8 @@ tutorial_enginesportside               Now repeat the process with the port engi
 tutorial_enginesoperational            Both of our engines are now operational.
 
 tutorial_ftl_title                    FASTER THAN LIGHT
-tutorial_ftlintro                     We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.
-tutorial_ftltradescreen               Open the trade screen to purchase an <b>FTL</b> drive.
+tutorial_ftlintro                     We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.
+tutorial_ftltradescreen               Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.
 tutorial_ftlselectpropulsion          The items we need are listed under <b>PROPULSION</b>. Select that category.
 tutorial_ftladdftldrive               Add one <b>FTL</b> drive to our order by clicking on the entry in the list.
 tutorial_ftladdftlfuel                <b>FTL</b> drives consume one fuel charge per jump. Add 5 <b>FTL</b> Charges to the order as well.
@@ -2412,7 +2452,7 @@ calltoarms_harken_5                 Thank you, Captain.
 
 calltoarms_harkenrailroad_1         My name is Commander Harken, and I'm the Chief of Private Security for the sector.
 calltoarms_harkenrailroad_2         There is a crisis underway, Captain.  Commercial vessels are going missing, all across the sector.  I suspect foul play, and I need your help to investigate.
-calltoarms_harkenrailroad_3         We've recieved reports of a shipwreck nearby. I believe it to be the wreckage of THE INTERSTELLAR PROSPECTOR - a large commercial vessel that went missing yesterday.
+calltoarms_harkenrailroad_3         We've received reports of a shipwreck nearby. I believe it to be the wreckage of THE INTERSTELLAR PROSPECTOR - a large commercial vessel that went missing yesterday.
 calltoarms_harkenrailroad_4         Travel to the shipwreck and look for a Black Box Flight Recorder in the wreckage.  This device will contain a log of their final moments.
 calltoarms_harkenrailroad_5         To collect the flight recorder you'll need to install a DRONE BAY and at least one LOGISTICS DRONE. You can buy them from any Shipyard or Colony.
 calltoarms_harkenrailroad_6         I've marked the location of the shipwreck on your map as a Gold Highlight.  Good luck, Captain.
@@ -2610,7 +2650,7 @@ blackhole_objective_returnisotopes      Deliver Hyperspace Isotope Containers [*
 
 blackhole_part2_title                   Black Hole Sun, Part 2
 blackhole_shipname_julian               Julian Martinez
-        
+
 blackhole_character_stargate            Andromeda Project LLC
 
 blackhole_part2_intro1                  Captain.  My modifications to the FTL Drive are now complete.  We are ready now for phase 2 of my brother's rescue.
@@ -3593,6 +3633,68 @@ credits_18                          Ship Builders\nLindsay Fleay (DRx)
 credits_19                          Thanks to everyone\nwho contributed ship designs
 credits_20                          Thank you for playing!
 
+creditstitle_builders               Ship Builders
+creditsextras_builders_0            Johnny Struggles
+creditsextras_builders_1            Lindsay Fleay (DRx)
+creditsextras_builders_2            Joseph Abboud
+creditsextras_builders_3            RADKNITHAT
+creditsextras_builders_4            ZORBANE
+creditsextras_builders_5            RUSH
+creditsextras_builders_6            R0NALXD
+creditsextras_builders_7            Ed the Loon
+creditsextras_builders_8            Brot Groggers
+creditsextras_builders_9            Peraza
+creditsextras_builders_10           Zion
+creditsextras_builders_11           Scruffee
+creditsextras_builders_12           Tris
+creditsextras_builders_13           MasterFool-ZA
+creditsextras_builders_14           Jeremy Carlsten
+creditsextras_builders_15           Mensla
+creditsextras_builders_16           KittenRaee
+
+
+creditstitle_testers                Early Play Testing
+creditsextras_testers_0             Ahmed Hasan
+creditsextras_testers_1             Ruben M. Andre
+creditsextras_testers_2             Luke Bagot
+creditsextras_testers_3             Alex M. Banquero Bonilla
+creditsextras_testers_4             Anmol Bhardwaj
+creditsextras_testers_5             Ishan Choudhury
+creditsextras_testers_6             Oliver Coombs
+creditsextras_testers_7             Louis J. D. Craig
+creditsextras_testers_8             Robert C. Crisan
+creditsextras_testers_9             Kasper H. Crittenden-Wedge
+creditsextras_testers_10            Kevin Fekete
+creditsextras_testers_11            Joshua Gorton
+creditsextras_testers_12            Hassan Iqbal
+creditsextras_testers_13            Jack M. Jordan
+creditsextras_testers_14            Prince Kamunga
+creditsextras_testers_15            Serhii Kozlov
+creditsextras_testers_16            William Marshall
+creditsextras_testers_17            Davide Motta
+creditsextras_testers_18            Viktoria A. Ninova
+creditsextras_testers_19            Patryk Parzelski
+creditsextras_testers_20            Pranoy J. Purathethu Sreejith
+creditsextras_testers_21            Ronik Quessou
+creditsextras_testers_22            Abishek Ramalingam
+creditsextras_testers_23            Iniyavan Ramesh
+creditsextras_testers_24            Joel Sabu
+creditsextras_testers_25            Zohib Sala
+creditsextras_testers_26            Roberto Scialpi
+creditsextras_testers_27            Khadeer A. Shaik
+creditsextras_testers_28            Valeriya R. Stefanova
+creditsextras_testers_29            Roshni Thapa
+creditsextras_testers_30            Tenisonsaran Thayaparan
+creditsextras_testers_31            Vladimir Tomov
+creditsextras_testers_32            Shalom Vuzantoko
+creditsextras_testers_33            Kelsey-Leigh G. White
+creditsextras_testers_34            Jonathan Weinel
+creditsextras_testers_35            Andrei Copaceanu
+
+creditstitle_translators            Translation
+
+
+
 ftl_galacticjump                    This will be the final journey of your fleet.\nBe prepared for a long journey to the Andromeda galaxy, and save as many as you can!
 
 credits_survivors                   Survivors
@@ -3601,4 +3703,5 @@ credits_playtime                    Playtime
 survivalend_quitmessage1            We hope you enjoyed playing the demo of The Last Starship. Your journey has just begun!  Unlock the full game to explore more Story Episodes, Survival Mode, Arena Mode, a full Ship Editor and more!
 survivalend_quitmessage             After a long and perilous journey, the survivors emerged into a new and uncharted galaxy.  Those left behind faced a desperate, nomadic life.  But those that made the jump face an even more uncertain future.  Humanity's survival remains on a knife edge...
 
+engine_thrust                       THRUST *X%
 

@@ -1,6 +1,61 @@
 ﻿state,key,svn,english,translation
-UPDATED,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,L'usura esterna ci fa pensare che siano qui da almeno un secolo. Questo settore deve essere stato uno dei primi tentativi dell'umanità di colonizzare lo spazio esterno.
-PREVIOUS,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,L'usura esterna ci fa pensare che siano qui da almeno un secolo. Questo settore deve essere stato uno dei primi tentativi dell'umanità di colonizzare lo spazio esterno.
+NEW,settings_credits,3149,CREDITS,CREDITI
+NEW,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,"Il gioco verrà salvato su Steam Cloud quando sarà abilitato. Se il salvataggio fallisce, viene visualizzato un avviso."
+NEW,newmainmenu_saveoptions,3149,Save Options,Salva le opzioni
+NEW,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] Cambia stile di pavimentazione
+NEW,hud_tooltip_currentflooring,3149,Current style: *X,Stile attuale: *X
+NEW,hud_tooltip_gratedflooring,3149,Grated,Grattugiato
+NEW,hud_tooltip_normalflooring,3149,Normal,Normale
+NEW,hud_hull_integrity,3149,HULL,HULL
+NEW,hud_power_battery,3149,BATTERY,BATTERIA
+NEW,hud_power_powershortage,3149,POWER SHORTAGE,CARENZA DI ENERGIA
+NEW,hud_idlecrew,3149,Idle Crew,Equipaggio inattivo
+NEW,hud_consumingperhour,3149,Consuming *X per hour,Consumo di *X all'ora
+NEW,hud_dehydrationperperson,3149,Dehydration *X per person,Disidratazione *X per persona
+NEW,hud_hungerperperson,3149,Hunger *X per person,Fame *X per persona
+NEW,hud_byauthor,3149,BY *X,BY *X
+NEW,communicator_newobjective,3149,NEW OBJECTIVE,NUOVO OBIETTIVO
+NEW,galaxymap_stargate,3149,STARGATE,STARGATE
+NEW,trade_canceltrade,3149,CANCEL TRADE AND REFUND,ANNULLAMENTO DELLO SCAMBIO E RIMBORSO
+NEW,trade_refundvalue,3149,REFUND VALUE,VALORE DEL RIMBORSO
+NEW,trade_cancellationcost,3149,CANCELLATION COST,COSTO DI CANCELLAZIONE
+NEW,trade_partiallyfilled,3149,PARTIALLY FILLED,PARZIALMENTE RIEMPITO
+NEW,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,COMPONENTE INCOMPLETO
+NEW,trade_removeincomplete,3149,REMOVE INCOMPLETE,RIMUOVI L'INCOMPLETO
+NEW,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,RIMUOVI IL MATERIALE PARZIALMENTE RIEMPITO
+NEW,trade_order_normal,3149,(*X),(*X)
+NEW,trade_order_buy_on_sell_screen,3149,(BUY *X),(ACQUISTA *X)
+NEW,trade_order_sell_on_buy_screen,3149,(SELL *X),(SELL *X)
+NEW,trade_order_sack_on_buy_screen,3149,(SACK *X),(SACK *X)
+NEW,techtree_researchpercent,3149,*X% Complete,*X% Completa
+NEW,tooltip_efficiency,3149,Efficiency +*X%,Efficienza +*X%
+NEW,tooltip_activating,3149,Activating +*X%,Attivazione +*X%
+NEW,alert_type_lowdeuterium,3149,LOW DEUTERIUM,DEUTERIO BASSO
+NEW,stargate_unknowncomponent,3149,Unknown Component,Componente sconosciuto
+NEW,stargate_unknowncomponent_description,3149,Unlock this component through research!,Sblocca questo componente attraverso la ricerca!
+NEW,creditstitle_builders,3149,Ship Builders,Costruttori di navi
+NEW,creditstitle_testers,3149,Early Play Testing,Test di gioco iniziali
+NEW,creditstitle_translators,3149,Translation,Traduzione
+NEW,engine_thrust,3149,THRUST *X%,THRUST *X%
+UPDATED,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + RMB] Converti in Splitter
+PREVIOUS,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] Convertire in splitter
+UPDATED,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + RMB] Converti in Traccia
+PREVIOUS,hud_convertsplittertotrack,3054,[RMB] Convert to track,[RMB] Converti in Traccia
+UPDATED,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,Non possiamo consegnare i passeggeri a destinazione senza un viaggio più veloce della luce. Purtroppo questa nave non è dotata di un proprio <b>motore FTL</b>.\n\nDovremo acquistarne uno e installarlo.
+PREVIOUS,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,Non possiamo consegnare i passeggeri a destinazione senza un viaggio a velocità superiore a quella della luce. Purtroppo questa nave non è dotata di un proprio motore <b>FTL</b>.\n\nDovremo comprarne uno e configurarlo.
+PREVIOUS,tutorial_ftlintro,2639,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,Non possiamo consegnare i passeggeri a destinazione senza un viaggio a velocità superiore a quella della luce. Purtroppo questa nave non è dotata di un proprio motore FTL.\n\nDovremo comprarne uno e configurarlo.
+UPDATED,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,Apri la schermata del commercio per acquistare una <b>Guida FTL</b> e alcune <b>Cariche FTL</b>.
+PREVIOUS,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,Apri la schermata del commercio per acquistare un'unità <b>FTL</b>.
+PREVIOUS,tutorial_ftltradescreen,2639,Open the trade screen to purchase an FTL drive.,Apri la schermata del commercio per acquistare un'unità FTL.
+UPDATED,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,INCLUDERE LE NAVI ATTRACCATE
+PREVIOUS,newmainmenu_includedocked,2639,INCLUDE DOCKED SHIPS IN EXPORT,INCLUDERE LE NAVI ATTRACCATE NELL'ESPORTAZIONE
+UPDATED,hud_layer_hostile,3149,HOSTILE *X,OSPITI *X
+PREVIOUS,hud_layer_hostile,2639,HOSTILE,OSTILI
+UPDATED,hud_layer_derelict,3149,DERELICT *X,DERELICT *X
+PREVIOUS,hud_layer_derelict,2639,DERELICT,RELITTO
+UPDATED,hud_layer_forsale,3149,[FOR SALE] *X,[IN VENDITA] *X
+PREVIOUS,hud_layer_forsale,2639,[FOR SALE],[IN VENDITA]
+CURRENT,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,L'usura esterna ci fa pensare che siano qui da almeno un secolo. Questo settore deve essere stato uno dei primi tentativi dell'umanità di colonizzare lo spazio esterno.
 CURRENT,techtree_node_caption_metallurgyrepeatable,3054,Spend research credits to continually increase our smelting efficiency.,Spendi crediti di ricerca per aumentare continuamente la nostra efficienza di fusione.
 CURRENT,mainmenu_gamemode_arena,3054,Arena,Arena
 CURRENT,mainmenu_gamemode_arena_tooltip,3054,Create epic space battles between fleets of ships and watch the carnage unfold.,Crea epiche battaglie spaziali tra flotte di navi e guarda la carneficina che si scatena.
@@ -20,8 +75,6 @@ CURRENT,newmainmenu_multisectorsim,3054,Multi-System Simulation,Simulazione mult
 CURRENT,newmainmenu_multisectorsimtooltip,3054,"Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.","Abilita la simulazione multi-sistema, permettendoti di suddividere la tua flotta tra più sistemi/settori contemporaneamente."
 CURRENT,hud_shipmaximumoccupancy,3054,Ship Maximum Occupancy: *X/*Y,Occupazione massima della nave: *X/*Y
 CURRENT,hud_surveyinprogress,3054,WARNING - SURVEY WILL BE CANCELLED,AVVISO - L'INDAGINE SARÀ ANNULLATA
-CURRENT,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] Convertire in splitter
-CURRENT,hud_convertsplittertotrack,3054,[RMB] Convert to track,[RMB] Converti in Traccia
 CURRENT,shipeditor_tooltip_painthull,3054,Toggle painting the exterior panels of the hull of your ship,Vernicia i pannelli esterni dello scafo della tua nave
 CURRENT,shipeditor_tooltip_painthabitation,3054,Toggle painting the exterior panels of the habitation quarters of your ship,Tampona la verniciatura dei pannelli esterni degli alloggi della tua nave
 CURRENT,shipeditor_tooltip_paintscaffold,3054,Toggle painting the scaffolding on your ship,Toggle che dipinge l'impalcatura della tua nave
@@ -329,8 +382,6 @@ CURRENT,tutorial_airpipetoairduct,2886,"Drag a <b>PIPE</b> from the <b>OXYGEN LO
 CURRENT,tutorial_airdone,2886,The <b>AIRDUCT</b> is activated and is pressurising the cabin! The atmosphere will soon be breathable.,L'<b>AIRDUCT</b> si è attivato e sta pressurizzando la cabina! L'atmosfera sarà presto respirabile.
 CURRENT,tutorial_enginesinformation,2886,Engines require both <b>POWER</b> and <b>FUEL</b> to operate. We must connect both engines to fuel and power.,I motori hanno bisogno sia di <b>ENERGIA</b> che di <b>COMBUSTIONE</b> per funzionare. Dobbiamo collegare entrambi i motori al carburante e all'energia.
 CURRENT,tutorial_enginesconnectpower,2886,"Now use the <b>CABLES</b> menu to power up the engine, by connecting it to your existing red power lines.","Ora usa il menu <b>CAVI</b> per alimentare il motore, collegandolo alle linee elettriche rosse esistenti."
-CURRENT,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,Non possiamo consegnare i passeggeri a destinazione senza un viaggio a velocità superiore a quella della luce. Purtroppo questa nave non è dotata di un proprio motore <b>FTL</b>.\n\nDovremo comprarne uno e configurarlo.
-CURRENT,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,Apri la schermata del commercio per acquistare un'unità <b>FTL</b>.
 CURRENT,tutorial_ftlselectpropulsion,2886,The items we need are listed under <b>PROPULSION</b>. Select that category.,Gli articoli di cui abbiamo bisogno sono elencati sotto la voce <b>PROPULSIONE</b>. Seleziona questa categoria.
 CURRENT,tutorial_ftladdftldrive,2886,Add one <b>FTL</b> drive to our order by clicking on the entry in the list.,Aggiungi un'unità <b>FTL</b> al nostro ordine cliccando sulla voce nell'elenco.
 CURRENT,tutorial_ftladdftlfuel,2886,<b>FTL</b> drives consume one fuel charge per jump. Add 5 <b>FTL</b> Charges to the order as well.,I motori <b>FTL</b> consumano una carica di carburante per ogni salto. Aggiungi anche 5 cariche <b>FTL</b> all'ordine.
@@ -458,12 +509,12 @@ CURRENT,keybinding_panup1,2793,Pan Up (1),Pan Up (1)
 CURRENT,keybinding_panup2,2793,Pan Up (2),Pan Up (2)
 CURRENT,keybinding_zoomin,2793,Zoom In,Zoom In
 CURRENT,keybinding_zoomout,2793,Zoom Out,Zoom Out
-CURRENT,keybinding_ManoeuvreLeft,2793,Thrust Left,Spinta a sinistra
-CURRENT,keybinding_ManoeuvreRight,2793,Thrust Right,Spinta a destra
-CURRENT,keybinding_ManoeuvreUp,2793,Thrust Up,Spinta verso l'alto
-CURRENT,keybinding_ManoeuvreDown,2793,Thrust Down,Spinta verso il basso
-CURRENT,keybinding_ManoeuvreClockwise,2793,Thrust Clockwise,Spinta in senso orario
-CURRENT,keybinding_ManoeuvreCounterClockwise,2793,Thrust C-Clockwise,Spinta C in senso orario
+CURRENT,keybinding_manoeuvreleft,2793,Thrust Left,Spinta a sinistra
+CURRENT,keybinding_manoeuvreright,2793,Thrust Right,Spinta a destra
+CURRENT,keybinding_manoeuvreup,2793,Thrust Up,Spinta verso l'alto
+CURRENT,keybinding_manoeuvredown,2793,Thrust Down,Spinta verso il basso
+CURRENT,keybinding_manoeuvreclockwise,2793,Thrust Clockwise,Spinta in senso orario
+CURRENT,keybinding_manoeuvrecounterclockwise,2793,Thrust C-Clockwise,Spinta C in senso orario
 CURRENT,keybinding_toggletactical,2793,Toggle Tactical,Toggle Tactical
 CURRENT,keybinding_togglemap,2793,Toggle Map,Mappa
 CURRENT,keybinding_increasethrust,2793,Engines +,Motori +
@@ -653,11 +704,11 @@ CURRENT,samplebankeditor_addsample,2639,Add Sound,Aggiungi suono
 CURRENT,samplebank,2639,(Sample Bank),(Banca campione)
 CURRENT,tagline,2639,THE LAST STARSHIP,L'ULTIMA ASTRONAVE
 CURRENT,mainmenu_title,2639,Main Menu,Menu principale
-CURRENT,mainmenu_newgameA,2639,New Game - Praxis,Nuovo gioco - Praxis
-CURRENT,mainmenu_newgameB,2639,New Game - Sleek,Nuovo gioco - Sleek
-CURRENT,mainmenu_newgameC,2639,New Game - Inner Shapes,Nuovo gioco - Forme interne
-CURRENT,mainmenu_newgameD,2639,New Game - Shipyard,Nuovo gioco - Cantiere navale
-CURRENT,mainmenu_newgameE,2639,New Game - Large Logistics,Nuovo gioco - Grande logistica
+CURRENT,mainmenu_newgamea,2639,New Game - Praxis,Nuovo gioco - Praxis
+CURRENT,mainmenu_newgameb,2639,New Game - Sleek,Nuovo gioco - Sleek
+CURRENT,mainmenu_newgamec,2639,New Game - Inner Shapes,Nuovo gioco - Forme interne
+CURRENT,mainmenu_newgamed,2639,New Game - Shipyard,Nuovo gioco - Cantiere navale
+CURRENT,mainmenu_newgamee,2639,New Game - Large Logistics,Nuovo gioco - Grande logistica
 CURRENT,mainmenu_savegame,2639,Save Game,Salva la partita
 CURRENT,mainmenu_loadgame,2639,Load Game,Carica la partita
 CURRENT,mainmenu_abandongame,2639,Abandon Game,Abbandona il gioco
@@ -775,7 +826,6 @@ CURRENT,newmainmenu_savetosteamcloud,2639,SAVE TO STEAM CLOUD,SALVA SU STEAM CLO
 CURRENT,newmainmenu_steamcloud,2639,STEAM CLOUD,STEAM CLOUD
 CURRENT,newmainmenu_cloudquotaremaining,2639,Used: *X / *Y (*Z% remaining),Usato: *X / *Y (*Z% rimanente)
 CURRENT,newmainmenu_exportship,2639,EXPORT SHIP,ESPORTA LA NAVE
-CURRENT,newmainmenu_includedocked,2639,INCLUDE DOCKED SHIPS IN EXPORT,INCLUDERE LE NAVI ATTRACCATE NELL'ESPORTAZIONE
 CURRENT,newmainmenu_uploadship,2639,UPLOAD TO STEAM,CARICARE SU STEAM
 CURRENT,newmainmenu_setshipname,2639,SET SHIP NAME,IMPOSTA IL NOME DELLA NAVE
 CURRENT,newmainmenu_importhostile,2639,IMPORT HOSTILE,IMPORTA NAVI NEMICHE
@@ -989,9 +1039,6 @@ CURRENT,hud_storagecrate_tooltip_quantity,2639,Quantity: *X,Quantità: *X
 CURRENT,hud_storagecrate_tooltip_capacity,2639,Capacity: *X,Capacità: *X
 CURRENT,hud_collector_tooltip_gathering,2639,Gathering *X *Y per second,Raccolta *X *Y al secondo
 CURRENT,hud_mission_collection,2639,WARNING - MISSION COLLECTION UNDERWAY,AVVISO - RACCOLTA DI MISSIONI IN CORSO
-CURRENT,hud_layer_hostile,2639,HOSTILE,OSTILI
-CURRENT,hud_layer_derelict,2639,DERELICT,RELITTO
-CURRENT,hud_layer_forsale,2639,[FOR SALE],[IN VENDITA]
 CURRENT,hud_layer_unnaned_system,2639,UNNAMED,SENZA NOME
 CURRENT,hud_trade_incoming,2639,WARNING - TRADE INCOMING,AVVISO - COMMERCIO IN ARRIVO
 CURRENT,hud_trade_owed,2639,WARNING - TRADE OWED,AVVISO - COMMERCIO DOVUTO
@@ -1064,11 +1111,11 @@ CURRENT,shipeditor_tooltip_spawn,2639,Spawn equipment and resources inside your 
 CURRENT,shipeditor_brush_freehand,2639,FREEHAND,LIBERA
 CURRENT,shipeditor_brush_box,2639,BOX TOOL,STRUMENTI
 CURRENT,shipeditor_price_button,2639,Cost,Costo
-CURRENT,shipeditor_stat_Mass,2639,Mass,Massa
-CURRENT,shipeditor_stat_Toughness,2639,Toughness,Resistenza
-CURRENT,shipeditor_stat_Capacity,2639,Cabins,Cabine
-CURRENT,shipeditor_stat_Value,2639,Value,Valore
-CURRENT,shipeditor_stat_Damage,2639,Damage,Danni
+CURRENT,shipeditor_stat_mass,2639,Mass,Massa
+CURRENT,shipeditor_stat_toughness,2639,Toughness,Resistenza
+CURRENT,shipeditor_stat_capacity,2639,Cabins,Cabine
+CURRENT,shipeditor_stat_value,2639,Value,Valore
+CURRENT,shipeditor_stat_damage,2639,Damage,Danni
 CURRENT,shipeditor_symmetry,2639,SYMMETRY,SIMMETRIA
 CURRENT,shipeditor_symmetry_short,2639,S,S
 CURRENT,shipeditor_symmetry_leftclickdrag,2639,[LMB] Drag,trascinamento [LMB]
@@ -1102,7 +1149,7 @@ CURRENT,powergrid_power,2639,POWER,POTENZA
 CURRENT,powergrid_category_reactor,2639,REACTOR,REATTORE
 CURRENT,powergrid_category_battery,2639,BATTERY,BATTERIA
 CURRENT,powergrid_category_engines,2639,ENGINES,MOTORI
-CURRENT,powergrid_category_FTL,2639,FTL,FTL
+CURRENT,powergrid_category_ftl,2639,FTL,FTL
 CURRENT,powergrid_category_weapons,2639,WEAPONS,ARMI
 CURRENT,powergrid_category_defenses,2639,DEFENSES,DIFESE
 CURRENT,powergrid_category_lifesupport,2639,LIFE SUPPORT,SUPPORTO ALLA VITA
@@ -1143,16 +1190,16 @@ CURRENT,trade_overlay_price,2639,PRICE,PREZZO
 CURRENT,trade_overlay_them,2639,THEM,LORO
 CURRENT,trade_overlay_you,2639,YOU,TU
 CURRENT,trade_overlay_boxed,2639,[boxed],[in scatola]
-CURRENT,trade_window_Energy,2639,Energy,Energia
-CURRENT,trade_window_Propulsion,2639,Propulsion,Propulsione
-CURRENT,trade_window_Habitation,2639,Habitation,Abitazione
-CURRENT,trade_window_Defense,2639,Defense,Difesa
-CURRENT,trade_window_Industry,2639,Industry,Industria
-CURRENT,trade_window_Logistics,2639,Logistics,Logistica
-CURRENT,trade_window_Science,2639,Science,Scienza
-CURRENT,trade_window_Resources,2639,Resources,Risorse
-CURRENT,trade_window_Components,2639,Components,Componenti
-CURRENT,trade_window_Crew,2639,Crew,Equipaggio
+CURRENT,trade_window_energy,2639,Energy,Energia
+CURRENT,trade_window_propulsion,2639,Propulsion,Propulsione
+CURRENT,trade_window_habitation,2639,Habitation,Abitazione
+CURRENT,trade_window_defense,2639,Defense,Difesa
+CURRENT,trade_window_industry,2639,Industry,Industria
+CURRENT,trade_window_logistics,2639,Logistics,Logistica
+CURRENT,trade_window_science,2639,Science,Scienza
+CURRENT,trade_window_resources,2639,Resources,Risorse
+CURRENT,trade_window_components,2639,Components,Componenti
+CURRENT,trade_window_crew,2639,Crew,Equipaggio
 CURRENT,trade_equipment_size,2639,- Size *X x *Y,- Dimensione *X x *Y
 CURRENT,trade_equipment_rotatable,2639,- Rotatable,- Rotante
 CURRENT,trade_equipment_powered,2639,- Powered,- Potenziato
@@ -1192,12 +1239,12 @@ CURRENT,techtree_available,2639,AVAILABLE,DISPONIBILE
 CURRENT,techtree_unavailable,2639,REQUIREMENTS NOT MET,REQUISITI NON SODDISFATTI
 CURRENT,techtree_in_progress,2639,RESEARCH IN PROGRESS,RICERCA IN CORSO
 CURRENT,techtree_busy,2639,RESEARCHERS ARE BUSY,I RICERCATORI SONO IMPEGNATI
-CURRENT,techtree_cost_RP,2639,Cost: *X RP,Costo: *X RP
-CURRENT,techtree_cost_CP,2639,Cost: *X CP,Costo: *X CP
-CURRENT,techtree_cost_RP+CP,2639,Cost: *X RP + *Y CP,Costo: *X RP + *Y CP
-CURRENT,techtree_currentResearch,2639,Currently Researching:,Attualmente sto conducendo una ricerca:
-CURRENT,techtree_researchPoints,2639,Research Points:,Punti di ricerca:
-CURRENT,techtree_computationPoints,2639,Computation Points:,Punti di calcolo:
+CURRENT,techtree_cost_rp,2639,Cost: *X RP,Costo: *X RP
+CURRENT,techtree_cost_cp,2639,Cost: *X CP,Costo: *X CP
+CURRENT,techtree_cost_rp+cp,2639,Cost: *X RP + *Y CP,Costo: *X RP + *Y CP
+CURRENT,techtree_currentresearch,2639,Currently Researching:,Attualmente sto conducendo una ricerca:
+CURRENT,techtree_researchpoints,2639,Research Points:,Punti di ricerca:
+CURRENT,techtree_computationpoints,2639,Computation Points:,Punti di calcolo:
 CURRENT,techtree_rewards,2639,Rewards:,Ricompense:
 CURRENT,techtree_unlocks,2639,Unlocks:,Sblocca:
 CURRENT,techtree_boosts,2639,Performance Boosts:,Incremento delle prestazioni:
@@ -1211,24 +1258,24 @@ CURRENT,techtree_warning,2639,WARNING!,ATTENZIONE!
 CURRENT,techtree_lose_progress,2639,Starting a new research project will lose all progress on the current one.,L'avvio di un nuovo progetto di ricerca farà perdere tutti i progressi di quello in corso.
 CURRENT,techtree_stargate_warning,2639,Completing Andromeda Project phases ahead of the Deep Space Industrialists storyline will bypass those episodes.,"Completando le fasi del Progetto Andromeda prima della storia degli Industriali dello Spazio Profondo, questi episodi non verranno presi in considerazione."
 CURRENT,techtree_missing_equipment,2639,This research project requires a *X to be completed,Questo progetto di ricerca richiede un *X per essere completato
-CURRENT,techtree_node_title_Logistics1,2639,Logistics,Logistica
-CURRENT,techtree_node_caption_Logistics1,2639,Unlocks schematics for small logistics storage,Sblocca gli schemi per un piccolo magazzino logistico
-CURRENT,techtree_node_title_Logistics2,2639,Logistics Level 2,Logistica Livello 2
-CURRENT,techtree_node_caption_Logistics2,2639,Unlocks schematics for Medium sized storage,Sblocca gli schemi per il magazzino di medie dimensioni
-CURRENT,techtree_node_title_Logistics3,2639,Logistics Level 3,Logistica Livello 3
-CURRENT,techtree_node_caption_Logistics3,2639,Unlocks schematics for Large logistics storage,Sblocca gli schemi per il Grande magazzino logistico
-CURRENT,techtree_node_title_Automation,2639,Automation,Automazione
-CURRENT,techtree_node_caption_Automation,2639,Unlocks schematics for Tracks and Robot Arms,Sblocca gli schemi per i cingoli e i bracci dei robot
-CURRENT,techtree_node_title_CompactAutomation,2639,Compact Robot Arms,Bracci robotici compatti
-CURRENT,techtree_node_caption_CompactAutomation,2639,Unlocks schematic for Short Robot Arm,Sblocca lo schema del braccio robotico corto
-CURRENT,techtree_node_title_SmartAutomation,2639,Smart Robot Arms,Braccia robotiche intelligenti
-CURRENT,techtree_node_caption_SmartAutomation,2639,Unlocks schematic for Smart Robot Arm,Sblocca lo schema del braccio robotico intelligente
-CURRENT,techtree_node_title_Metallurgy1,2639,Metallurgy Level 1,Metallurgia Livello 1
-CURRENT,techtree_node_caption_Metallurgy1,2639,Smelters produce 50% more output,Le fonderie producono il 50% in più
-CURRENT,techtree_node_title_Metallurgy2,2639,Metallurgy Level 2,Metallurgia Livello 2
-CURRENT,techtree_node_caption_Metallurgy2,2639,Smelters produce 100% more output,Le fonderie producono il 100% in più
-CURRENT,techtree_node_title_EnergyTransmission,2639,Energy Transmission,Trasmissione di energia
-CURRENT,techtree_node_caption_EnergyTransmission,2639,Unlocks schematic for Energy Transmitter and Receiver,Sblocca gli schemi del trasmettitore e del ricevitore di energia
+CURRENT,techtree_node_title_logistics1,2639,Logistics,Logistica
+CURRENT,techtree_node_caption_logistics1,2639,Unlocks schematics for small logistics storage,Sblocca gli schemi per un piccolo magazzino logistico
+CURRENT,techtree_node_title_logistics2,2639,Logistics Level 2,Logistica Livello 2
+CURRENT,techtree_node_caption_logistics2,2639,Unlocks schematics for Medium sized storage,Sblocca gli schemi per il magazzino di medie dimensioni
+CURRENT,techtree_node_title_logistics3,2639,Logistics Level 3,Logistica Livello 3
+CURRENT,techtree_node_caption_logistics3,2639,Unlocks schematics for Large logistics storage,Sblocca gli schemi per il Grande magazzino logistico
+CURRENT,techtree_node_title_automation,2639,Automation,Automazione
+CURRENT,techtree_node_caption_automation,2639,Unlocks schematics for Tracks and Robot Arms,Sblocca gli schemi per i cingoli e i bracci dei robot
+CURRENT,techtree_node_title_compactautomation,2639,Compact Robot Arms,Bracci robotici compatti
+CURRENT,techtree_node_caption_compactautomation,2639,Unlocks schematic for Short Robot Arm,Sblocca lo schema del braccio robotico corto
+CURRENT,techtree_node_title_smartautomation,2639,Smart Robot Arms,Braccia robotiche intelligenti
+CURRENT,techtree_node_caption_smartautomation,2639,Unlocks schematic for Smart Robot Arm,Sblocca lo schema del braccio robotico intelligente
+CURRENT,techtree_node_title_metallurgy1,2639,Metallurgy Level 1,Metallurgia Livello 1
+CURRENT,techtree_node_caption_metallurgy1,2639,Smelters produce 50% more output,Le fonderie producono il 50% in più
+CURRENT,techtree_node_title_metallurgy2,2639,Metallurgy Level 2,Metallurgia Livello 2
+CURRENT,techtree_node_caption_metallurgy2,2639,Smelters produce 100% more output,Le fonderie producono il 100% in più
+CURRENT,techtree_node_title_energytransmission,2639,Energy Transmission,Trasmissione di energia
+CURRENT,techtree_node_caption_energytransmission,2639,Unlocks schematic for Energy Transmitter and Receiver,Sblocca gli schemi del trasmettitore e del ricevitore di energia
 CURRENT,techtree_node_title_droneintelligence,2639,Drone Intelligence,Intelligenza dei droni
 CURRENT,techtree_node_caption_droneintelligence,2639,"Upgrades drones so they collect minerals in batches, greatly speeding up the process","Aggiorna i droni in modo che raccolgano i minerali in lotti, velocizzando notevolmente il processo"
 CURRENT,techtree_node_title_dronespeed1,2639,Drone Speed 1,Velocità del drone 1
@@ -1273,10 +1320,10 @@ CURRENT,techtree_node_caption_hydroponics1,2639,Improves crop yield to produce m
 CURRENT,techtree_node_title_hydroponics2,2639,Hydroponics 2,Idroponica 2
 CURRENT,techtree_node_caption_hydroponics2,2639,"Further improves crop yield, and unlocks schematics to manufacture Hydroponics Modules",Migliora ulteriormente la resa delle colture e sblocca gli schemi per la produzione di moduli idroponici
 CURRENT,boost_reactorefficiency,2639,Reactor Efficiency +*X%,Efficienza del reattore +*X%
-CURRENT,boost_SmelterEfficiency,2639,Smelter Efficiency +*X%,Efficienza della fonderia +*X%
-CURRENT,boost_DroneSpeed,2639,Drone Top Speed +*X%,Velocità massima del drone +*X%
-CURRENT,boost_TrackSpeed,2639,Track Speed +*X%,Velocità del tracciato +*X%
-CURRENT,boost_RobotArmSpeed,2639,Robot Arm Speed +*X%,Velocità del braccio robotico +*X%
+CURRENT,boost_smelterefficiency,2639,Smelter Efficiency +*X%,Efficienza della fonderia +*X%
+CURRENT,boost_dronespeed,2639,Drone Top Speed +*X%,Velocità massima del drone +*X%
+CURRENT,boost_trackspeed,2639,Track Speed +*X%,Velocità del tracciato +*X%
+CURRENT,boost_robotarmspeed,2639,Robot Arm Speed +*X%,Velocità del braccio robotico +*X%
 CURRENT,boost_wasterecyclingefficiency,2639,Waste Recycling Efficiency +*X%,Efficienza del riciclo dei rifiuti +*X%
 CURRENT,boost_waterrecyclingefficiency,2639,Water Recycling Efficiency +*X%,Efficienza del riciclo dell'acqua +*X%
 CURRENT,boost_airrecyclingefficiency,2639,Air Recycling Efficiency +*X%,Efficienza del riciclo dell'aria +*X%
@@ -1491,7 +1538,7 @@ CURRENT,mission_production_available,2639,You have *X stacks of R*Y available fo
 CURRENT,mission_production_received,2639,We have received *X stacks of R*Y out of a total of *Z.,Abbiamo ricevuto *X pile di R*Y su un totale di *Z.
 CURRENT,mission_production_nomore,2639,There is no more R*X available within your fleet.,Non ci sono più R*X disponibili nella tua flotta.
 CURRENT,mission_production_success,2639,Provided *X/*Y items,Articoli forniti *X/*Y
-CURRENT,mission_type_SectorDestroy,2639,Destroy Hostile Forces,Distruggi le forze ostili
+CURRENT,mission_type_sectordestroy,2639,Destroy Hostile Forces,Distruggi le forze ostili
 CURRENT,mission_sectordestroy_title,2639,SECTOR OBJECTIVE: Destroy all hostile forces,OBIETTIVO DEL SETTORE: distruggere tutte le forze ostili
 CURRENT,mission_sectordestroy_system,2639,You have destroyed the enemy forces in system S*X. Payment of $*Y is coming your way.,Hai distrutto le forze nemiche nel sistema S*X. Il pagamento di $*Y è in arrivo per te.
 CURRENT,mission_sectordestroy_progress,2639,Cleared *X out of *Y systems,Cancellati i sistemi *X da *Y
@@ -1501,7 +1548,7 @@ CURRENT,mission_sectordestroy_desc3,2639,Terminate any enemy vessels you find at
 CURRENT,mission_sectordestroy_payment,2639,"A payment of $*X will be made after each location is cleared, for a total of $*Y.","Verrà effettuato un pagamento di $*X dopo l'autorizzazione di ciascuna posizione, per un totale di $*Y."
 CURRENT,mission_sectordestroy_map,2639,Destroy hostiles [*X/*Y],Distruggi i nemici [*X/*Y]
 CURRENT,mission_sectordestory_success,2639,HOSTILES ELIMINATED,OSTILI ELIMINATI
-CURRENT,mission_type_SectorRescue,2639,Rescue (Sector),Soccorso (Settore)
+CURRENT,mission_type_sectorrescue,2639,Rescue (Sector),Soccorso (Settore)
 CURRENT,mission_sectorrescue_title,2639,SECTOR OBJECTIVE: Rescue civilians from wrecked ship,OBIETTIVO DEL SETTORE: salvataggio di civili da una nave naufragata
 CURRENT,mission_sectorrescue_description1,2639,Investigate a distress call in system S*X.,Indaga su una chiamata di soccorso nel sistema S*X.
 CURRENT,mission_sectorrescue_thrusters,2639,NB. YOU WILL NEED AT LEAST FOUR THRUSTERS TO MANOEUVRE INTO POSITION.,NB. AVRAI BISOGNO DI ALMENO QUATTRO PROPULSORI PER MANOVRARE IN POSIZIONE.
@@ -1521,7 +1568,7 @@ CURRENT,mission_sectorrescue_map_initial,2639,Investigate Distress Call,Indagare
 CURRENT,mission_sectorrescue_map,2639,People rescued [*X/*Y],Persone salvate [*X/*Y]
 CURRENT,mission_sectorrescue_awardcaption,2639,*X People rescued.,*X Persone salvate.
 CURRENT,mission_sectorrescue_success,2639,RESCUE COMPLETED,SALVATAGGIO COMPLETATO
-CURRENT,mission_type_SectorProtect,2639,Protect (Sector),Proteggere (Settore)
+CURRENT,mission_type_sectorprotect,2639,Protect (Sector),Proteggere (Settore)
 CURRENT,mission_sectorprotect_title,2639,SECTOR OBJECTIVE: Protect ship under attack,OBIETTIVO DEL SETTORE: Proteggere la nave sotto attacco
 CURRENT,mission_sectorprotect_description1,2639,Investigate a distress call in system S*X.,Indaga su una chiamata di soccorso nel sistema S*X.
 CURRENT,mission_sectorprotect_description2,2639,A commercial vessel is under attack from an unknown hostile enemy. They have already taken heavy damage.,Una nave commerciale è sotto attacco da parte di un nemico sconosciuto. Hanno già subito ingenti danni.
@@ -2139,8 +2186,8 @@ CURRENT,wolf_shipname_wolf1,2639,Interstellar Prospector,Prospettore interstella
 CURRENT,wolf_shipname_wolf2,2639,Infinite Horizon,Orizzonte infinito
 CURRENT,wolf_shipname_wolf3,2639,Celestial Hauler,Trasportatore Celeste
 CURRENT,wolf_shipname_scavenger,2639,Scavenger Wraith,Spettro Scavenger
-CURRENT,object_FlightRecorder,2639,Flight Recorder,Registratore di volo
-CURRENT,object_ShipWreckage,2639,Ship Wreckage,Relitti di navi
+CURRENT,object_flightrecorder,2639,Flight Recorder,Registratore di volo
+CURRENT,object_shipwreckage,2639,Ship Wreckage,Relitti di navi
 CURRENT,wolf_part1_scavenger1,2639,"Got my hands on something you might be looking for.  A recording of the screams and static from the ship's final moments.  You want it, I know it.  Scavengers rights says it's mine.","Ho messo le mani su qualcosa che potresti cercare.  Una registrazione delle urla e delle interferenze degli ultimi momenti della nave.  Se la vuoi, la conosco.  I diritti degli scafisti dicono che è mia."
 CURRENT,wolf_part1_scavenger2,2639,"Luckily for you, you can have your precious data, so long as I get my finders fee.  It'll cost you $*X for the secrets.  Cross me and it will be the last mistake you make.","Fortunatamente per te, puoi avere i tuoi preziosi dati, a patto che io ottenga la mia commissione di ricerca.  Ti costerà $*X per i segreti.  Mettiti contro di me e sarà l'ultimo errore che farai."
 CURRENT,wolf_part1_scavenger3,2639,Funds received. Pleasure doing business.,Fondi ricevuti. È un piacere fare affari.
@@ -2271,7 +2318,7 @@ CURRENT,blackhole_part3_objective_dock,2639,Dock with the ship,Attraccare con la
 CURRENT,blackhole_part3_objective_rescue,2639,Rescue Dr. Marcus Martinez,Salvare il Dr. Marcus Martinez
 CURRENT,blackhole_part3_objective_jumpout,2639,Jump away from the black hole,Saltare via dal buco nero
 CURRENT,blackhole_part3_objective_stargate,2639,Recover the Stargate data,Recuperare i dati dello Stargate
-CURRENT,blackhole_part3_objective_stargateX,2639,Recover the Stargate data [*X%],Recuperare i dati dello Stargate [*X%]
+CURRENT,blackhole_part3_objective_stargatex,2639,Recover the Stargate data [*X%],Recuperare i dati dello Stargate [*X%]
 CURRENT,blackhole_part3_action_control,2639,Control Julian's ship,Controlla la nave di Julian
 CURRENT,blackhole_part3_stargate1,2639,"Greetings, Captain.  Good luck with the rescue.  Remember the data onboard Marcus' ship is extremely valuable to us.  You'll need Marcus to transmit the data from his console before you can complete the rescue.","Saluti, Capitano.  Buona fortuna per il salvataggio.  Si ricordi che i dati a bordo della nave di Marcus sono estremamente preziosi per noi.  Avrà bisogno che Marcus trasmetta i dati dalla sua console prima di poter completare il salvataggio."
 CURRENT,blackhole_part3_stargate2,2639,Losing that data will set the Stargate project back years.,La perdita di quei dati riporterà il progetto Stargate indietro di anni.
@@ -2658,7 +2705,7 @@ CURRENT,dsi_part1_stationname,2639,A.J.E Foundry,Fonderia A.J.E
 CURRENT,dsi_part1_title,2639,Deep Space Industrialists,Industriali dello spazio profondo
 CURRENT,dsi_part1_advert1,2639,"My name is Alexander James Elistar, and I'm the chairman and founder of A.J.E Industries.  I have a business proposition for you.  If you would be interested in setting up a production facility for me, I believe with some luck and a good deal of hard work we can both make substantial returns.","Mi chiamo Alexander James Elistar e sono il presidente e fondatore di A.J.E Industries.  Ho una proposta d'affari per te.  Se fossi interessato a creare un impianto di produzione per me, credo che con un po' di fortuna e una buona dose di duro lavoro potremmo entrambi ottenere notevoli profitti."
 CURRENT,dsi_part1_advert2,2639,Please give me a call to discuss the details.,Chiamami per discutere i dettagli.
-CURRENT,dsi_part1_action_callX,2639,Call X,Chiama X
+CURRENT,dsi_part1_action_callx,2639,Call X,Chiama X
 CURRENT,dsi_part1_call1,2639,"Captain.  Perhaps you are already aware, but there are big plans underway within this sector.  There are designs to build something... incredible, a transportation system with near infinite range, requiring state of the art manufacturing and industry.","Capitano.  Forse lo sa già, ma ci sono grandi progetti in corso in questo settore.  Ci sono progetti per costruire qualcosa di... incredibile, un sistema di trasporto con una portata quasi infinita, che richiede una produzione e un'industria all'avanguardia."
 CURRENT,dsi_part1_call2,2639,"A stargate, big enough for our most massive fleets, shuttling humanity between galaxies as if they were nothing but neighbouring stars.  A new multi-galactic era for humanity.","Uno stargate, grande abbastanza per le nostre flotte più imponenti, che trasporta l'umanità tra le galassie come se non fossero altro che stelle vicine.  Una nuova era multi-galattica per l'umanità."
 CURRENT,dsi_part1_call3,2639,In all my years I've never known so much capital to be allocated to one project.,In tutti i miei anni di attività non ho mai visto destinare così tanto capitale a un unico progetto.
@@ -2787,6 +2834,7 @@ CURRENT,dsi_part2_scene_z4,2639,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2639,THERE WILL BE NO FURTHER WARNING.,NON CI SARANNO ULTERIORI AVVISI.
 CURRENT,dsi_part2_scene_y7,2639,You've left me no choice.,Non mi hai lasciato altra scelta.
 CURRENT,dsi_part2_scene_y8,2639,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.",Verrò a prenderti Alexander e questa volta non ti chiederò il 10%. Voglio tutto.
+OBSOLETE,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,L'usura esterna ci fa pensare che siano qui da almeno un secolo. Questo settore deve essere stato uno dei primi tentativi dell'umanità di colonizzare lo spazio esterno.
 OBSOLETE,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.","Abilita le funzioni per aiutare i traduttori, come Alt per rivelare l'inglese e Ctrl per rivelare la frase chiave."
 OBSOLETE,shipeditor_tooltip_eyedropper,2793,"Lets you select a paint from the exterior of your ship (can also be used by pressing the ""Shift"" key)","Permette di selezionare un colore dall'esterno della nave (può essere utilizzato anche premendo il tasto ""Shift"")"
 OBSOLETE,settings_exitsaves_tooltip,2675,"When enabled, the current game will be saved when abandoned or when the game is quit in a file called exitsave.\n\nCAUTION: This file will be overwritten on every exit.","Se abilitata, la partita in corso verrà salvata quando viene abbandonata o quando si esce dal gioco in un file chiamato exitsave.\n\nATTENZIONE: questo file verrà sovrascritto a ogni uscita."
@@ -2823,8 +2871,6 @@ OBSOLETE,tutorial_airpipetoairduct,2639,"Drag a PIPE from the OXYGEN LOADER to t
 OBSOLETE,tutorial_airdone,2639,The AIRDUCT is activated and is pressurising the cabin! The atmosphere will soon be breathable.,L'AIRDUCT si è attivato e sta pressurizzando la cabina! L'atmosfera sarà presto respirabile.
 OBSOLETE,tutorial_enginesinformation,2639,Engines require both POWER and FUEL to operate. We must connect both engines to fuel and power.,I motori hanno bisogno sia di ENERGIA che di COMBUSTIONE per funzionare. Dobbiamo collegare entrambi i motori al carburante e all'energia.
 OBSOLETE,tutorial_enginesconnectpower,2639,"Now use the CABLES menu to power up the engine, by connecting it to your existing red power lines.","Ora usa il menu CAVI per alimentare il motore, collegandolo alle linee elettriche rosse esistenti."
-OBSOLETE,tutorial_ftlintro,2639,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,Non possiamo consegnare i passeggeri a destinazione senza un viaggio a velocità superiore a quella della luce. Purtroppo questa nave non è dotata di un proprio motore FTL.\n\nDovremo comprarne uno e configurarlo.
-OBSOLETE,tutorial_ftltradescreen,2639,Open the trade screen to purchase an FTL drive.,Apri la schermata del commercio per acquistare un'unità FTL.
 OBSOLETE,tutorial_ftlselectpropulsion,2639,The items we need are listed under PROPULSION. Select that category.,Gli articoli di cui abbiamo bisogno sono elencati sotto la voce PROPULSIONE. Seleziona questa categoria.
 OBSOLETE,tutorial_ftladdftldrive,2639,Add one FTL drive to our order by clicking on the entry in the list.,Aggiungi un'unità FTL al nostro ordine cliccando sulla voce nell'elenco.
 OBSOLETE,tutorial_ftladdftlfuel,2639,FTL drives consume one fuel charge per jump. Add 5 FTL Charges to the order as well.,I motori FTL consumano una carica di carburante per ogni salto. Aggiungi anche 5 cariche FTL all'ordine.
