@@ -1,60 +1,253 @@
 ﻿state,key,svn,english,translation
-NEW,settings_credits,3149,CREDITS,ТИТРЫ
-NEW,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,"Игра будет сохраняться в Облаке Steam, если включить эту функцию. При неудачном сохранении появится предупреждение."
-NEW,newmainmenu_saveoptions,3149,Save Options,Параметры сохранения
-NEW,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] Переключить стиль напольного покрытия
-NEW,hud_tooltip_currentflooring,3149,Current style: *X,Текущий стиль: *X
-NEW,hud_tooltip_gratedflooring,3149,Grated,Рельефный
-NEW,hud_tooltip_normalflooring,3149,Normal,Нормальный
-NEW,hud_hull_integrity,3149,HULL,КОРПУС
-NEW,hud_power_battery,3149,BATTERY,БАТАРЕЯ
-NEW,hud_power_powershortage,3149,POWER SHORTAGE,МАЛО ЭНЕРГИИ
-NEW,hud_idlecrew,3149,Idle Crew,Без Работы
-NEW,hud_consumingperhour,3149,Consuming *X per hour,Потребление *X в час
-NEW,hud_dehydrationperperson,3149,Dehydration *X per person,Обезвоживание *X на человека
-NEW,hud_hungerperperson,3149,Hunger *X per person,Голод *X на человека
-NEW,hud_byauthor,3149,BY *X,ОТ *X
-NEW,communicator_newobjective,3149,NEW OBJECTIVE,НОВАЯ МИССИЯ
-NEW,galaxymap_stargate,3149,STARGATE,ЗВЕЗДНЫЕ ВРАТА
-NEW,trade_canceltrade,3149,CANCEL TRADE AND REFUND,ОТМЕНА СДЕЛКИ И ВОЗВРАТ
-NEW,trade_refundvalue,3149,REFUND VALUE,СТОИМОСТЬ ОТМЕНЫ
-NEW,trade_cancellationcost,3149,CANCELLATION COST,СТОИМОСТЬ ОТМЕНЫ
-NEW,trade_partiallyfilled,3149,PARTIALLY FILLED,ЧАСТИЧНО ЗАПОЛНЕННО
-NEW,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,НЕЗАВЕРШЕННЫЙ КОМПОНЕНТ
-NEW,trade_removeincomplete,3149,REMOVE INCOMPLETE,УБРАТЬ НЕЗАВЕРШЕННОЕ
-NEW,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,УБРАТЬ ЧАСТИЧНО ЗАПОЛНЕННОЕ
-NEW,trade_order_normal,3149,(*X),(*X)
-NEW,trade_order_buy_on_sell_screen,3149,(BUY *X),(КУПИТЬ *X)
-NEW,trade_order_sell_on_buy_screen,3149,(SELL *X),(ПРОДАТЬ *X)
-NEW,trade_order_sack_on_buy_screen,3149,(SACK *X),(УВОЛИТЬ *X)
-NEW,techtree_researchpercent,3149,*X% Complete,*X% Завершено
-NEW,tooltip_efficiency,3149,Efficiency +*X%,Эффективность +*X%
-NEW,tooltip_activating,3149,Activating +*X%,Активация +*X%
-NEW,alert_type_lowdeuterium,3149,LOW DEUTERIUM,МАЛО ДЕЙТЕРИЯ
-NEW,stargate_unknowncomponent,3149,Unknown Component,Неизвестный компонент
-NEW,stargate_unknowncomponent_description,3149,Unlock this component through research!,Разблокируй этот компонент с помощью исследований!
-NEW,creditstitle_builders,3149,Ship Builders,Создание Кораблей
-NEW,creditstitle_testers,3149,Early Play Testing,Игровое Тестирование
-NEW,creditstitle_translators,3149,Translation,Перевод
-NEW,engine_thrust,3149,THRUST *X%,ТЯГА *X%
-UPDATED,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + ПКМ] Преобразовать в разделитель
-PREVIOUS,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[ПКМ] Преобразовать в разделитель
-UPDATED,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + ПКМ] Преобразовать в конвейер
-PREVIOUS,hud_convertsplittertotrack,3054,[RMB] Convert to track,[ПКМ] Преобразовать в конвейер
-UPDATED,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,"Мы не сможем доставить этих пассажиров к месту назначения без сверхсветовых путешествий. К сожалению, этот корабль не оснащен собственным <b>ГИПЕРДВИГАТЕЛЕМ</b>.\n\nНам придется купить его и установить."
-PREVIOUS,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,"Мы не можем доставить этих пассажиров к месту назначения без путешествия быстрее света. К сожалению, этот корабль не оснащен собственным <b>ГИПЕРДВИГАТЕЛЕМ</b>.\n\nНам нужно купить его и установить."
-PREVIOUS,tutorial_ftlintro,2448,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,"Мы не сможем доставить этих пассажиров к месту назначения без использования ускорителей света. К сожалению, этот корабль не оснащен собственным Сверхсветовым приводом.\n\n Нам придется купить его и установить."
-UPDATED,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,"Откройте экран торговли, чтобы приобрести <b>ГИПЕРДВИГАТЕЛЬ</b> и немного <b>ГИПЕРТОПЛИВА</b>."
-PREVIOUS,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,"Откройте экран торговли, чтобы купить <b>ГИПЕРДВИГАТЕЛЬ</b>."
-PREVIOUS,tutorial_ftltradescreen,2448,Open the trade screen to purchase an FTL drive.,"Откройте торговый экран, чтобы купить Сверхсветовой привод."
-UPDATED,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,ВКЛЮЧИТЬ ПРИСТЫКОВАННЫЕ КОРАБЛИ
-PREVIOUS,newmainmenu_includedocked,2448,INCLUDE DOCKED SHIPS IN EXPORT,ВКЛЮЧИТЬ ПРИСТЫКОВАННЫЕ КОРАБЛИ В ЭКСПОРТ
-UPDATED,hud_layer_hostile,3149,HOSTILE *X,ВРАЖДЕБНЫЙ *X
-PREVIOUS,hud_layer_hostile,2448,HOSTILE,ВРАЖДЕБНЫЕ СИЛЫ
-UPDATED,hud_layer_derelict,3149,DERELICT *X,ЗАБРОШЕННЫЙ *X
-PREVIOUS,hud_layer_derelict,2448,DERELICT,ЗАБРОШЕННЫЙ ОБЪЕКТ
-UPDATED,hud_layer_forsale,3149,[FOR SALE] *X,[ПРОДАЕТСЯ] *X
-PREVIOUS,hud_layer_forsale,2448,[FOR SALE],[ПРОДАЕТСЯ]
+UPDATED,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,"Каждый компонент, который тебе нужно изготовить, находится справа.\nНаведя курсор на иконку компонента, ты увидишь, как его изготовить."
+PREVIOUS,tutorial_stargatewindowhighlightcomponent,2448,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,"Каждый компонент, который вам нужно произвести, находится слева.\nНаведя мышь на значок компонента, вы увидите, как его произвести."
+CURRENT,logistics_tooltip_skiporder,3248,Skip currently executing order,Пропусти текущий исполняемый заказ
+CURRENT,logistics_tooltip_loop,3248,Loop execution,Выполнение циклов
+CURRENT,thefinalstand_artemis1,3248,Hello again Captain!,"И снова здравствуй, капитан!"
+CURRENT,thefinalstand_artemis2,3248,"After some careful analysis of the Stargate's blueprints, I have found the backdoor that the late Alexander James Elistar has left you.","После тщательного анализа чертежей Звездных врат я нашел черный ход, который оставил тебе покойный Александр Джеймс Элистар."
+CURRENT,thefinalstand_artemis3,3248,You will use this backdoor to upload a small virus that I have written to their command centre within the HQ. It will disable the station's offensive capabilities and place itself under your command.,"С помощью этого бэкдора ты загрузишь небольшой вирус, который я написал, в их командный центр в штаб-квартире. Он отключит наступательные возможности станции и перейдет под твое командование."
+CURRENT,thefinalstand_boss_artemis1,3248,"Captain, I can route a signal to their powergrid and overload their generators, tell me when to trigger it!","Капитан, я могу направить сигнал в их энергосистему и перегрузить генераторы, скажи мне, когда их запустить!"
+CURRENT,thefinalstand_end_objective_leave,3248,Leave the HQ,Покинуть штаб-квартиру
+CURRENT,thefinalstand_harken2,3248,"The Andromeda Project has moved their HQ and all key personell into an unknown location in the new sector, where we believe they are controlling the Stargate.","Проект ""Андромеда"" переместил свою штаб-квартиру и всех ключевых сотрудников в неизвестное место в новом секторе, где, как мы полагаем, они контролируют Звездные врата."
+CURRENT,thefinalstand_harken3,3248,"My plan is to use our fleets to take control of the HQ by force. Any and all damage to the HQ should be avoided, many innocent lives are on-board and the loss of life from destroying it would be far too great.\nI have devised a plan with an old friend of yours that should minimise casualties...","Мой план состоит в том, чтобы использовать наши флоты для захвата штаб-квартиры силой. Любые повреждения штаба должны быть исключены, на борту находится много невинных людей, и потери от его разрушения будут слишком велики.\nЯ разработал план с твоим старым другом, который должен свести потери к минимуму..."
+CURRENT,thefinalstand_harken4,3248,"While you neutralise the HQ, my fleet will fight off the Andromeda Project navy. Once the battle is over, I will take control of the HQ and arrest everyone involved. Their conglomerate will be dismantled.","Пока ты нейтрализуешь штаб-квартиру, мой флот будет отбиваться от флота Проекта Андромеда. Как только битва закончится, я возьму под контроль штаб-квартиру и арестую всех причастных. Их конгломерат будет ликвидирован."
+CURRENT,thefinalstand_harken5,3248,The Stargate will fall back into your sole control. I've marked an allied shipyard on your map. I'll hide out there in the mean-time.,Звездные врата вернутся под твой единоличный контроль. Я отметил на твоей карте верфь союзников. Я спрячусь там в это время.
+CURRENT,thefinalstand_harken6,3248,Meet me to discuss the plan further. Goodbye for now.,"Встретимся, чтобы обсудить план дальше. Пока что прощай."
+CURRENT,thefinalstand_boss_harken2,3248,This is the Andromeda Navy's flagship! You should have access to its command centre from the HQ!,Это флагманский корабль Флота Андромеды! Ты должен иметь доступ к его командному центру из штаб-квартиры!
+CURRENT,industryend_message,3248,"Now the Andromeda HQ has been captured, Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind spreads beyond our home galaxy and into the future.","Теперь штаб-квартира ""Андромеды"" захвачена, Харкен и Межгалактический совет безопасности ликвидируют конгломерат Andromeda Project и вернут себе контроль над Звездными вратами на благо всего человечества.  Началась новая глава, когда человечество выходит за пределы нашей родной галактики и устремляется в будущее."
+CURRENT,bravenewsector_part4_rep9,3244,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy and the Andromeda galaxy.,"Здравствуйте, капитан. Недавно завершенные Звездные врата поставили Проект Андромеда в мощное положение, позволяющее контролировать потоки ресурсов и людей между этой галактикой и галактикой Андромеда."
+CURRENT,thefinalstand_battleprep_1,3244,"Hello Captain, it's good to see you. These are all of the ships I control in this sector, the rest are on the other side of the Stargate, unable to reach us.","Здравствуйте, капитан, рад вас видеть. Это все корабли, которые я контролирую в этом секторе, остальные находятся по ту сторону Звездных врат и не могут до нас добраться."
+CURRENT,thefinalstand_battle_rep1,3244,Commander Harken! I see that my first fleet has failed to deal with you. I suppose if I want something done properly I should do it myself.,"Командир Харкен! Я вижу, что мой первый флот не справился с тобой. Полагаю, если я хочу, чтобы что-то было сделано как следует, я должен сделать это сам."
+CURRENT,newmainmenu_continue,3239,CONTINUE GAME,ПРОДОЛЖИТЬ ИГРУ
+CURRENT,hud_ftlshipblockedfromftl,3239,Ship cannot enter hyperspace with your fleet,Корабль не может войти в гиперпространство вместе с вашим флотом
+CURRENT,hud_window_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,МЕЖЗВЕЗДНАЯ ЛОГИСТИКА
+CURRENT,andromeda_travel,3239,ANDROMEDA JOURNEY,ПУТЕШЕСТВИЕ АНДРОМЕДЫ
+CURRENT,trade_autohireat,3239,HIRE BELOW,НАЙМИСЬ НИЖЕ
+CURRENT,trade_autosackat,3239,SACK ABOVE,МЕШОК ВЫШЕ
+CURRENT,trade_autoembarkat,3239,EMBARK BELOW,EMBARK BELOW
+CURRENT,trade_autodisembarkat,3239,DISEMBARK BELOW,ВЫСАДИСЬ ВНИЗУ
+CURRENT,trade_tooltip_hire,3239,[LMB] Hire,[LMB] Прокат
+CURRENT,trade_tooltip_embark,3239,[LMB] Embark,[LMB] Embark
+CURRENT,trade_tooltip_disembark,3239,[LMB] Disembark,[LMB] Высадка
+CURRENT,trade_hiring,3239,Hiring *X,Найм *X
+CURRENT,trade_embarking,3239,Embarking *X,Погружение *X
+CURRENT,trade_disembarking,3239,Disembarking *X,Высадка *X
+CURRENT,trade_order_hire_on_sell_screen,3239,(HIRE *X),(HIRE *X)
+CURRENT,trade_order_embark_on_sell_screen,3239,(EMBARK *X),(EMBARK *X)
+CURRENT,trade_order_disembark_on_buy_screen,3239,(DISEMBARK *X),(DISEMBARK *X)
+CURRENT,trade_hire,3239,HIRE,НАЙМИ
+CURRENT,trade_embark,3239,EMBARK,EMBARK
+CURRENT,trade_disembark,3239,DISEMBARK,DISEMBARK
+CURRENT,techtree_node_title_atmosphericprocessing,3239,Atmospheric Processing,Атмосферная обработка
+CURRENT,techtree_node_caption_atmosphericprocessing,3239,Unlocks schematics for hardware required to maintain a breathable atmosphere,"Открывает схемы оборудования, необходимого для поддержания пригодной для дыхания атмосферы"
+CURRENT,techtree_node_title_atmosphericprocessing2,3239,Atmospheric Processing 2,Атмосферная обработка 2
+CURRENT,techtree_node_caption_atmosphericprocessing2,3239,Unlocks more schematics for hardware required to maintain a breathable atmosphere,"Открывает больше схем для оборудования, необходимого для поддержания пригодной для дыхания атмосферы"
+CURRENT,techtree_node_title_wasteprocessing,3239,Waste Processing,Переработка отходов
+CURRENT,techtree_node_caption_wasteprocessing,3239,Unlocks schematics for hardware to capture and reprocess human waste,Раскрывает схемы аппаратуры для улавливания и переработки человеческих отходов
+CURRENT,special_advancedlogistics,3239,Interstellar Logistics,Межзвездная логистика
+CURRENT,tactical_dockingassistant,3239,DOCKING ASSIST,ДОКИНГ-АССИСТ
+CURRENT,tactical_fleetformation,3239,FLEET FORMATION,ФОРМИРОВАНИЕ ФЛОТА
+CURRENT,tactical_fleetcombat,3239,FLEET COMBAT AI,БОЙ ФЛОТА AI
+CURRENT,tactical_on,3239,ON,НА
+CURRENT,tactical_off,3239,OFF,OFF
+CURRENT,tactical_tooltip_dockingassistant,3239,"When enabled, the Docking Assistant will perform the final maneuovers required to dock your ship with another, once you are close enough.\n\nIt is recommended you disable Fleet Formation when attempting to dock.","Если включить эту функцию, помощник по стыковке выполнит последние маневры, необходимые для стыковки твоего корабля с другим, как только ты окажешься достаточно близко.\n\nПри попытке стыковки рекомендуется отключить функцию Fleet Formation."
+CURRENT,tactical_tooltip_fleetformation,3239,"When enabled, all of the fleet ships within a system will fly together in close formation, following the lead of whichever ship you are directly controlling.","Когда эта функция включена, все корабли флота в пределах системы будут летать вместе в тесном строю, следуя за лидером того корабля, которым ты непосредственно управляешь."
+CURRENT,tactical_tooltip_fleetcombat,3239,"When enabled, your other fleet ships will take care of themselves during combat, moving to optimal range and engaging as best they can.","Когда эта функция включена, другие корабли твоего флота будут сами заботиться о себе во время боя, перемещаясь на оптимальную дистанцию и вступая в бой как можно лучше."
+CURRENT,tactical_tooltip_weapon,3239,[LMB] Select weapon\n[SHIFT-LMB] Select multiple weapons\n[RMB] Clear current target,[LMB] Выбрать оружие\n[SHIFT-LMB] Выбрать несколько видов оружия\n[RMB] Очистить текущую цель
+CURRENT,tactical_tooltip_auto,3239,AUTO-TARGETTING\n[LMB] Enable auto-targetting\n[RMB] Disable auto-targetting,АВТОТАРГЕТТИНГ\n[LMB] Включить автотаргетинг\n[RMB] Отключить автотаргетинг
+CURRENT,logistics_tooltip_add,3239,[LMB] Add,[LMB] Добавить
+CURRENT,logistics_tooltip_remove_rmb,3239,[RMB] Remove,[RMB] Убрать
+CURRENT,logistics_tooltip_cancel,3239,[RMB] Cancel,[RMB] Отмена
+CURRENT,logistics_tooltip_shift,3239,[SHIFT] x5,[SHIFT] x5
+CURRENT,logistics_tooltip_control,3239,[CTRL] x50,[CTRL] x50
+CURRENT,advancedlogisticswindow_title,3239,INTERSTELLAR LOGISTICS,МЕЖЗВЕЗДНАЯ ЛОГИСТИКА
+CURRENT,logistics_system_select,3239,LOCATION,LOCATION
+CURRENT,logistics_create_order,3239,Create Order,Создай заказ
+CURRENT,logistics_loop,3239,Loop,Петля
+CURRENT,logistics_order_none,3239,Order Type,Тип заказа
+CURRENT,logistics_order_mine,3239,Mine,Шахта
+CURRENT,logistics_order_collect,3239,Collect Gas,Собери газ
+CURRENT,logistics_order_buy,3239,Buy,Купить
+CURRENT,logistics_order_sell,3239,Sell,Продай
+CURRENT,logistics_order_transferto,3239,Transfer To,Передача в
+CURRENT,logistics_order_transferfrom,3239,Transfer From,Перевод из
+CURRENT,logistics_condition_none,3239,Amount,Сумма
+CURRENT,logistics_condition_quantity,3239,Quantity,Количество
+CURRENT,logistics_condition_stacks,3239,Stacks,Стеки
+CURRENT,logistics_condition_containers,3239,Containers,Контейнеры
+CURRENT,logistics_condition_allbut,3239,All But,Все но
+CURRENT,logistics_condition_storagefull,3239,Until Storage Full,Пока хранилище не заполнится
+CURRENT,logistics_condition_all,3239,All Available,Все доступные
+CURRENT,logistics_condition_time,3239,Minutes,Минуты
+CURRENT,logistics_transferto_none,3239,DESTINATION SHIP,КОРАБЛЬ НАЗНАЧЕНИЯ
+CURRENT,logistics_transferfrom_none,3239,SOURCE SHIP,SOURCE SHIP
+CURRENT,logistics_item_none,3239,Select Item,Выберите предмет
+CURRENT,logistics_stuck_default,3239,Orders stuck,Заказы застряли
+CURRENT,logistics_stuck_invalidsystem,3239,System S*X does not exist,Система S*X не существует
+CURRENT,logistics_stuck_invalidlayer,3239,Ship L*X does not exist,Корабль L*X не существует
+CURRENT,logistics_stuck_equipment,3239,L*X does not have a working R*Y,L*X не работает R*Y
+CURRENT,logistics_stuck_resources,3239,L*X does not have any R*Ys,L*X не имеет ни одного R*Ys
+CURRENT,logistics_stuck_patches,3239,System S*X does not have any R*Y to mine,В системе S*X нет ни одного R*Y для Шахты
+CURRENT,logistics_stuck_gas,3239,System S*X does not have any R*Y to collect,"В системе S*X нет ни одного R*Y, который можно было бы собрать"
+CURRENT,logistics_stuck_tradingpost,3239,System S*X does not have a trading post,В системе S*X нет торгового поста
+CURRENT,logistics_stuck_resourcestosell,3239,L*X does not have any R*Y to sell,L*X у него нет R*Y для продажи
+CURRENT,logistics_stuck_stargate,3239,Stargate is not ready for jump,Звездные врата не готовы к прыжку
+CURRENT,logistics_status_notrunning,3239,No order currently running,Ни один заказ в данный момент не выполняется
+CURRENT,logistics_status_travelling,3239,Travelling to system S*X,Путешествие в систему S*X
+CURRENT,logistics_status_mining,3239,Mined *X R*Y,Шахта *X R*Y
+CURRENT,logistics_status_miningstacks,3239,(*X/*Y stacks),(*X/*Y stacks)
+CURRENT,logistics_status_miningstacks1,3239,(*X stacks),(*X stacks)
+CURRENT,logistics_status_collect,3239,Collected *X R*Y,Собрано *X R*Y
+CURRENT,logistics_status_collectcontainers,3239,(*X/*Y containers),(*X/*Y контейнеры)
+CURRENT,logistics_status_collectcontainers1,3239,(*X containers),(*X контейнеры)
+CURRENT,logistics_status_transferto,3239,Transfering *X R*Y to L*Z,Передача *X R*Y в L*Z
+CURRENT,logistics_status_transferfrom,3239,Transfering *X R*Y from L*Z,Передача *X R*Y из L*Z
+CURRENT,logistics_status_buy,3239,Bought *X R*Y for $*Z,Купил *X R*Y для $*Z
+CURRENT,logistics_status_sell,3239,Sold *X R*Y for $*Z,Продается *X R*Y для $*Z
+CURRENT,logistics_status_notlooping,3239,Finished execution (not looping),Законченное выполнение (не зацикленное)
+CURRENT,logistics_status_time1,3239,in *X:*Y,в *X:*Y
+CURRENT,logistics_status_time2,3239,in *X:0*Y,в *X:0*Y
+CURRENT,logistics_status_time3,3239,in 0*X:*Y,в 0*X:*Y
+CURRENT,logistics_status_time4,3239,in 0*X:0*Y,в 0*X:0*Y
+CURRENT,order_advancedlogistics,3239,Interstellar Logistics,Межзвездная логистика
+CURRENT,mission_objective_done,3239,DONE,ГОТОВО
+CURRENT,alert_type_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,МЕЖЗВЕЗДНАЯ ЛОГИСТИКА
+CURRENT,alert_type_interstellarlogistics_caption,3239,Orders stuck,Заказы застряли
+CURRENT,stargate_startandromedajump,3239,TEST ANDROMEDA JUMP,ИСПЫТАНИЕ ПРЫЖКА АНДРОМЕДЫ
+CURRENT,stargate_power_tooltip,3239,POWER REQUIRED: *X MW,НЕОБХОДИМАЯ МОЩНОСТЬ: *X МВТ
+CURRENT,stargate_distance_travelled,3239,*X kly REMAINING,*X kly REMAINING
+CURRENT,stargate_journey_completed,3239,*X% COMPLETED,*X% ВЫПОЛНЕНО
+CURRENT,stargate_sell,3239,SELL ALL (*X FOR *Y),ПРОДАЙ ВСЕ (*X ДЛЯ *Y)
+CURRENT,stargate_price_per_unit,3239,*X PER UNIT,*X ЗА ЕДИНИЦУ
+CURRENT,stargate_total_price,3239,*X TOTAL,*X ВСЕ
+CURRENT,stargate_award_complete_title,3239,STARGATE COMPLETED,ЗВЕЗДНЫЕ ВРАТА ЗАВЕРШЕНЫ
+CURRENT,stargate_award_complete_subtitle,3239,All phases completed,Все этапы завершены
+CURRENT,tutorial_radiationselectfriendly,3239,"First, select a friendly ship with a laser infuser available.","Для начала выбери дружественный корабль, на котором доступен лазерный инфузор."
+CURRENT,blackhole_objective_tank,3239,Acquire a Storage Tank,Приобретите резервуар для хранения
+CURRENT,blackhole_objective_storagetank,3239,Connect a tank to the Hyperspace Scoop,Подключите танк к Гиперпространственному Совку
+CURRENT,blackhole_objective_loader,3239,Connect a Loader to the tank,Подключите Погрузчик к танку
+CURRENT,blackhole_objective_unloadloader,3239,Set the Loader to UNLOAD,Установите Погрузчик в положение Разгрузить
+CURRENT,dsi_part2_dogmavessel1,3239,D.O.G.M.A Spartan,Спартанец D.O.G.M.A
+CURRENT,dsi_part2_dogmavessel2,3239,D.O.G.M.A Citadel,Цитадель D.O.G.M.A
+CURRENT,dsi_part2_dogmavessel3,3239,D.O.G.M.A Centurion,D.O.G.M.A Centurion
+CURRENT,bravenewsector_part4_title,3239,"Brave New Sector, Part 4","Бравый новый сектор, часть 4"
+CURRENT,bravenewsector_part4_summary,3239,Complete the final test.,Заверши финальный тест.
+CURRENT,bravenewsector_part4_intro,3239,"Captain, preparations have concluded for the final Stargate test. We are ready to send a ship to the Andromeda Galaxy. Please call us when you are ready.","Капитан, подготовка к финальному испытанию Звездных врат завершена. Мы готовы отправить корабль в галактику Андромеды. Пожалуйста, вызови нас, когда будешь готов."
+CURRENT,bravenewsector_part4_call_action,3239,Call the Representative,Позвони представителю
+CURRENT,bravenewsector_part4_rep1,3239,The materials you provided to us have been fitted to the Stargate. It is fully functional and ready to test.,"Материалы, которые ты нам предоставил, были установлены на Звездные врата. Они полностью функциональны и готовы к испытаниям."
+CURRENT,bravenewsector_part4_rep2,3239,This is a monumental moment in the history of our species. If this test is successful the Andromeda Project will be the first entity to send mankind to another galaxy.,"Это монументальный момент в истории нашего вида. Если испытание пройдет успешно, проект ""Андромеда"" станет первой сущностью, отправившей человечество в другую галактику."
+CURRENT,bravenewsector_part4_rep3,3239,"Captain, you will need to begin the test and provide power for the entire journey so our test ship can reach the Andromeda Galaxy. This will require a significant amount of energy, more than what's needed to travel between sectors.","Капитан, тебе нужно будет начать испытание и обеспечить энергией все путешествие, чтобы наш тестовый корабль смог достичь галактики Андромеды. Для этого потребуется значительное количество энергии, большее, чем то, что нужно для путешествия между секторами."
+CURRENT,bravenewsector_part4_rep4,3239,Please begin the test when you are ready.,"Пожалуйста, начинай тест, когда будешь готов."
+CURRENT,bravenewsector_part4_objective_test,3239,Send the test ship to the Andromeda Galaxy,Отправь испытательный корабль в галактику Андромеды
+CURRENT,bravenewsector_part4_action_starttest,3239,Start Test,Стартовый тест
+CURRENT,bravenewsector_part4_reachandromeda_award,3239,ANDROMEDA REACHED,АНДРОМЕДА ДОСТИГЛА
+CURRENT,bravenewsector_part4_reachandromeda_caption,3239,Signal received from test ship,"Сигнал, полученный с испытательного корабля"
+CURRENT,bravenewsector_part4_andromeda_bonus,3239,ANDROMEDA BONUS,БОНУС АНДРОМЕДЫ
+CURRENT,bravenewsector_part4_andromeda_caption,3239,Payment for sending the test ship,Оплата за отправку тестового корабля
+CURRENT,bravenewsector_part4_rep5,3239,"Captain, the Stargate has received a signal from the Andromeda Galaxy.","Капитан, Звездные врата приняли сигнал из галактики Андромеды."
+CURRENT,bravenewsector_part4_rep6,3239,The test ship made it. The test was a complete and total success. This is a historic moment for all of mankind.,Испытательный корабль добрался до места. Испытание прошло с полным и абсолютным успехом. Это исторический момент для всего человечества.
+CURRENT,bravenewsector_part4_rep7,3239,It couldn't have been done without you Captain. Your industrial expertise and dedication to the project have been invaluable.,"Без тебя, капитан, это было бы невозможно сделать. Твой промышленный опыт и преданность проекту были бесценны."
+CURRENT,bravenewsector_part4_rep8,3239,"Thank you Captain, your contribution will not be forgotten. Goodbye for now.","Спасибо, капитан, твой вклад не будет забыт. На этом прощаемся."
+CURRENT,bravenewsector_part4_objective_wait,3239,Await further instructions,Жди дальнейших указаний
+CURRENT,bravenewsector_part4_harken1,3239,"Captain, there are reports that the Andromeda Project are withholding access to the Stargate from any ships that aren't their own.","Капитан, есть сведения, что Проект Андромеда закрывает доступ к Звездным вратам для любых чужих кораблей."
+CURRENT,bravenewsector_part4_harken2,3239,"My sensors are detecting major fleet movements towards the Stargate, it looks like the Andromeda Project is aiming to secure their control over it.","Мои сенсоры фиксируют крупные перемещения флота в сторону Звездных врат, похоже, что Проект Андромеда стремится закрепить свой контроль над ними."
+CURRENT,bravenewsector_part4_harken3,3239,"This is... concerning. Be careful, I don't like the look of this.","Это... вызывает опасения. Будь осторожен, мне не нравится, как это выглядит."
+CURRENT,bravenewsector_part4_rep10,3239,The next stage of the project has begun. Our fleet has obtained full control over the Stargate and we are currently in the process of moving our workforce into the new galaxy.,"Начался следующий этап проекта. Наш флот получил полный контроль над Звездными вратами, и сейчас мы занимаемся перемещением нашей рабочей силы в новую галактику."
+CURRENT,bravenewsector_part4_rep11,3239,"We will bring prosperity to all those who work with us. Speak to you soon, Captain. We may have some more work for you in the future.","Мы принесем процветание всем, кто будет работать с нами. Скоро поговорим с тобой, капитан. Возможно, в будущем у нас найдется для тебя еще работа."
+CURRENT,bravenewsector_part4_testshipname,3239,Andromeda Test Ship MK.1,Испытательный корабль Андромеды MK.1
+CURRENT,thefinalstand_title,3239,The Final Stand,The Final Stand
+CURRENT,thefinalstand_summary,3239,Stop the Andromeda Project.,"Останови проект ""Андромеда""."
+CURRENT,thefinalstand_harken1_intro,3239,"Captain! In direct violation of intergalactic law, the Andromeda Project has permanently closed access to the Stargate outside of their own ships. Billions of colonists have been stranded in the new sector, unable to return home.","Капитан! В прямое нарушение межгалактических законов Проект ""Андромеда"" навсегда закрыл доступ к Звездным вратам за пределами своих кораблей. Миллиарды колонистов застряли в новом секторе, не имея возможности вернуться домой."
+CURRENT,thefinalstand_harken2_intro,3239,"You are the only one outside of the Andromeda Project with access codes, please call back as soon as you can. They must be stopped.","Ты единственный за пределами проекта ""Андромеда"", у кого есть коды доступа, перезвони, пожалуйста, как только сможешь. Они должны быть остановлены."
+CURRENT,thefinalstand_call_action,3239,Call Harken,"Позвони в ""Харкен"
+CURRENT,thefinalstand_andromedahq_name,3239,ANDROMEDA HQ,ШТАБ-КВАРТИРА АНДРОМЕДЫ
+CURRENT,thefinalstand_andromedaflagship_name,3239,ANDROMEDA FLAGSHIP,ФЛАГМАН АНДРОМЕДЫ
+CURRENT,thefinalstand_ai_name,3239,ANDROMEDA SHIP CONTROL,УПРАВЛЕНИЕ КОРАБЛЕМ АНДРОМЕДА
+CURRENT,thefinalstand_harken1,3239,"Greetings Captain, I was worried you had taken their side in all of this.","Приветствую тебя, капитан, я беспокоился, что ты принял их сторону во всем этом."
+CURRENT,thefinalstand_objective_traveltoharken,3239,Travel to Harken,Путешествие в Харкен
+CURRENT,thefinalstand_battleprep_2,3239,My officers have pin-pointed the position of their HQ. Upon arrival we expect to be met with heavy resistance from their private security forces.,"Мои офицеры точно определили местоположение их штаба. По прибытии мы ожидаем, что встретим сильное сопротивление со стороны их частных сил безопасности."
+CURRENT,thefinalstand_battleprep_3,3239,I should be able to grab their attention away from your fleet while you get close and take control of the station.,"Я должен суметь отвлечь их внимание от твоего флота, пока ты подберешься поближе и возьмешь станцию под контроль."
+CURRENT,thefinalstand_battleprep_4,3239,"Good luck Captain, I'll see you on the battlefield.","Удачи, капитан, увидимся на поле боя."
+CURRENT,thefinalstand_objective_destroyhq,3239,Take control of the Andromeda Project HQ,"Возьми под контроль штаб-квартиру проекта ""Андромеда"""
+CURRENT,thefinalstand_battleintro_rep1,3239,"I gave you a very clear warning, Captain. You could've had anything in the universe as our business partner.","Я очень четко предупредил тебя, капитан. В качестве нашего делового партнера ты мог получить что угодно во Вселенной."
+CURRENT,thefinalstand_battleintro_rep2,3239,Now you must be destroyed.,Теперь ты должен быть уничтожен.
+CURRENT,thefinalstand_battleintro_rep3,3239,It was a pleasure working with you.,Было очень приятно работать с тобой.
+CURRENT,thefinalstand_battleintro_dogma1,3239,"This is DOGMA Private Security force, we are en-route to the disturbance. ETA: imminent.","Это частная служба безопасности DOGMA, мы выехали на место беспорядков. Расчетное время прибытия: неизбежно."
+CURRENT,thefinalstand_battleintro_harken1,3239,There are multiple hostile signatures inbound on our position! You must get in close range of the HQ and upload the virus. I'll do my best to keep their ships off you.,"К нашей позиции приближается множество враждебных сигнатур! Ты должен подойти на близкое расстояние к штабу и загрузить вирус. Я сделаю все возможное, чтобы их корабли не приближались к тебе."
+CURRENT,thefinalstand_battleintro_harken2,3239,"They're about to arrive, hurry!","Они вот-вот прибудут, поторопись!"
+CURRENT,thefinalstand_objective_flytohq,3239,Fly close to the HQ,Подлетай близко к штаб-квартире
+CURRENT,thefinalstand_objective_destroyhostiles,3239,Destroy remaining hostiles: *X,Уничтожь оставшихся врагов: *X
+CURRENT,thefinalstand_backdoor_action,3239,Trigger Backdoor,Триггерный бэкдор
+CURRENT,thefinalstand_battle_harken1,3239,Great work Captain! But my sensors are detecting a massive signature headi-,"Отличная работа, капитан! Но мои сенсоры фиксируют массивный сигнатурный хэд-диск"
+CURRENT,thefinalstand_boss_harken1,3239,I've lost both of my frigates Captain! I don't have enough firepower to win this!,"Я потерял оба своих фрегата, капитан! У меня недостаточно огневой мощи, чтобы выиграть это!"
+CURRENT,thefinalstand_objective_destroyboss,3239,Destroy the Andromeda Flagship,Уничтожить флагман Андромеды
+CURRENT,thefinalstand_boss_overloadcaption,3239,OVERLOAD GENERATOR,ГЕНЕРАТОР ПЕРЕГРУЗКИ
+CURRENT,thefinalstand_battleoutro_ship1,3239,DANGER: POWER SYSTEMS DETERIORATING. POWER GRID OVERLOADED.,ОПАСНОСТЬ: УХУДШЕНИЕ СОСТОЯНИЯ ЭНЕРГОСИСТЕМ. ЭНЕРГОСИСТЕМЫ ПЕРЕГРУЖЕНЫ.
+CURRENT,thefinalstand_battleoutro_rep1,3239,"I don't understand, how is that possible!?","Я не понимаю, как такое возможно!!!?"
+CURRENT,thefinalstand_battleoutro_ship2,3239,DANGER: GENERATOR STATUS CRITICAL.,ОПАСНОСТЬ: СОСТОЯНИЕ ГЕНЕРАТОРА КРИТИЧЕСКОЕ.
+CURRENT,thefinalstand_battleoutro_rep2,3239,"Send all available power to railguns, set target to-","Направь всю доступную энергию на рельсотроны, установи цель на.."
+CURRENT,thefinalstand_battleoutro_harken1,3239,"This is a message for Andromeda HQ. I am Commander Harken, Chief of Private Security for this sector, and I command you to stand down.","Это сообщение для штаба Андромеды. Я - коммандер Харкен, начальник личной охраны этого сектора, и я приказываю вам отступить."
+CURRENT,thefinalstand_battleoutro_harken2,3239,"The Andromeda Navy in this sector has been destroyed, you are now blockaded, there is nothing left to fight for.","Флот Андромеды в этом секторе уничтожен, теперь вы блокированы, сражаться больше не за что."
+CURRENT,thefinalstand_battleoutro_harken3,3239,"It's over, Captain. The Andromeda HQ will be placed under the jurisdiction of the Intergalactic Security Council while I make the necessary arrests. The access codes for the Stargate are back under your control.","Все кончено, капитан. Штаб-квартира ""Андромеды"" будет передана под юрисдикцию Межгалактического совета безопасности, пока я произведу необходимые аресты. Коды доступа к Звездным вратам возвращаются под твой контроль."
+CURRENT,thefinalstand_battleoutro_harken4,3239,The current leadership of the Andromeda Project will be dismantled and the new galaxy will be freed from their control.,"Нынешнее руководство ""Проекта Андромеда"" будет ликвидировано, а новая галактика освободится от их контроля."
+CURRENT,thefinalstand_battleoutro_harken5,3239,"You've proven that you can be trusted with control of the Stargate, so I'll leave it in your hands.","Ты доказал, что тебе можно доверить контроль над Звездными вратами, поэтому я оставляю их в твоих руках."
+CURRENT,thefinalstand_battleoutro_harken6,3239,"Goodbye Captain, and good luck with your new place in the galaxy.","Прощай, капитан, и удачи тебе на новом месте в галактике."
+CURRENT,hud_consumingperhour,3239,Consuming *X per day,Употребляя *X в день
+CURRENT,survey_captionmultiple,3239,*X ships surveying,*X обследование кораблей
+CURRENT,tutorial_radiationinstallinfuser,3239,Laser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area and power it.,Лазерные инфузоры используются для зарядки пустых кристаллов газом зелеоном и при питании будут излучать радиацию на окружающее пространство.\n\nУстанови лазерный инфузор в чистом месте и включи его.
+CURRENT,tutorial_radiationsetupinfuser,3239,Let's set the laser infuser to use them to produce charged crystals.,"Давай настроим лазерный инфузор, чтобы использовать их для получения заряженных кристаллов."
+CURRENT,tutorial_radiationwaitforinputs,3239,The laser infuser is set to start making charged crystals! Laser infusers use Zeleon Energy Cells to charge the crystals.\n\nLet's wait for it to begin charging crystals.,"Лазерный инфузор готов приступить к изготовлению заряженных кристаллов! Лазерные инфузоры используют Энергетические Ячейки Зелеона для зарядки кристаллов.\n\nДавай подождем, пока он начнет заряжать кристаллы."
+CURRENT,tutorial_surveystartsectorsurvey,3239,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one ship in a system can do a sector scan.\n\nClick the button to begin a sector scan.,"Секторное сканирование ищет интересующие тебя области в секторе вокруг системы, в которой находится твой корабль.\n\nСканирование прекратится после его завершения. Только один корабль в системе может проводить секторное сканирование.\n\nНажми на кнопку, чтобы начать секторное сканирование."
+CURRENT,tutorial_surveystartlocalsurvey,3239,Areas of interest will expire after some time if they are not surveyed. Multiple ships can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,"Зоны интереса истекут через некоторое время, если их не обследовать. Несколько кораблей могут внести свой вклад в локальное исследование.\n\nЩелкни по интересующей тебя точке, чтобы начать локальное исследование."
+CURRENT,bravenewsector_part2_x4,3239,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. As a safeguard against the Andromeda Project, I have installed a back-door that allows you to take control of the Stargate and any devices commanding it.","Пожалуйста, не дай этому случиться, капитан. Так много моей жизни и так много моих проектов было сделано исключительно ради прибыли, я не могу позволить, чтобы этот стал одним из них. В качестве защиты от проекта ""Андромеда"" я установил черный ход, который позволяет тебе взять под контроль Звездные врата и любые устройства, управляющие ими."
+CURRENT,bravenewsector_part2_x5,3239,Please use it if they restrict the use of the Stargate for their own gain.,"Пожалуйста, используй его, если они ограничат использование Звездных врат в своих корыстных целях."
+CURRENT,stargate_power_fraction,3239,*X / *Y MW,*X / *Y MW
+CURRENT,blackhole_part1_setup7,3239,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop and a tank to store the isotopes in first.","Мне нужны материалы для синтеза необходимых нам ресурсов.  Вы можете помочь мне с этим, пока я работаю над расчетами. Мне понадобятся Гиперпространственные Изотопы - Вы должны быть в состоянии собрать их достаточно легко, но сначала Вам нужно будет приобрести Гиперпространственный Совок и резервуар для хранения изотопов."
+CURRENT,settings_credits,3149,CREDITS,ТИТРЫ
+CURRENT,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,"Игра будет сохраняться в Облаке Steam, если включить эту функцию. При неудачном сохранении появится предупреждение."
+CURRENT,newmainmenu_saveoptions,3149,Save Options,Параметры сохранения
+CURRENT,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] Переключить стиль напольного покрытия
+CURRENT,hud_tooltip_currentflooring,3149,Current style: *X,Текущий стиль: *X
+CURRENT,hud_tooltip_gratedflooring,3149,Grated,Рельефный
+CURRENT,hud_tooltip_normalflooring,3149,Normal,Нормальный
+CURRENT,hud_hull_integrity,3149,HULL,КОРПУС
+CURRENT,hud_power_battery,3149,BATTERY,БАТАРЕЯ
+CURRENT,hud_power_powershortage,3149,POWER SHORTAGE,МАЛО ЭНЕРГИИ
+CURRENT,hud_idlecrew,3149,Idle Crew,Без Работы
+CURRENT,hud_dehydrationperperson,3149,Dehydration *X per person,Обезвоживание *X на человека
+CURRENT,hud_hungerperperson,3149,Hunger *X per person,Голод *X на человека
+CURRENT,hud_byauthor,3149,BY *X,ОТ *X
+CURRENT,communicator_newobjective,3149,NEW OBJECTIVE,НОВАЯ МИССИЯ
+CURRENT,galaxymap_stargate,3149,STARGATE,ЗВЕЗДНЫЕ ВРАТА
+CURRENT,trade_canceltrade,3149,CANCEL TRADE AND REFUND,ОТМЕНА СДЕЛКИ И ВОЗВРАТ
+CURRENT,trade_refundvalue,3149,REFUND VALUE,СТОИМОСТЬ ОТМЕНЫ
+CURRENT,trade_cancellationcost,3149,CANCELLATION COST,СТОИМОСТЬ ОТМЕНЫ
+CURRENT,trade_partiallyfilled,3149,PARTIALLY FILLED,ЧАСТИЧНО ЗАПОЛНЕННО
+CURRENT,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,НЕЗАВЕРШЕННЫЙ КОМПОНЕНТ
+CURRENT,trade_removeincomplete,3149,REMOVE INCOMPLETE,УБРАТЬ НЕЗАВЕРШЕННОЕ
+CURRENT,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,УБРАТЬ ЧАСТИЧНО ЗАПОЛНЕННОЕ
+CURRENT,trade_order_normal,3149,(*X),(*X)
+CURRENT,trade_order_buy_on_sell_screen,3149,(BUY *X),(КУПИТЬ *X)
+CURRENT,trade_order_sell_on_buy_screen,3149,(SELL *X),(ПРОДАТЬ *X)
+CURRENT,trade_order_sack_on_buy_screen,3149,(SACK *X),(УВОЛИТЬ *X)
+CURRENT,techtree_researchpercent,3149,*X% Complete,*X% Завершено
+CURRENT,tooltip_efficiency,3149,Efficiency +*X%,Эффективность +*X%
+CURRENT,tooltip_activating,3149,Activating +*X%,Активация +*X%
+CURRENT,alert_type_lowdeuterium,3149,LOW DEUTERIUM,МАЛО ДЕЙТЕРИЯ
+CURRENT,stargate_unknowncomponent,3149,Unknown Component,Неизвестный компонент
+CURRENT,stargate_unknowncomponent_description,3149,Unlock this component through research!,Разблокируй этот компонент с помощью исследований!
+CURRENT,creditstitle_builders,3149,Ship Builders,Создание Кораблей
+CURRENT,creditstitle_testers,3149,Early Play Testing,Игровое Тестирование
+CURRENT,creditstitle_translators,3149,Translation,Перевод
+CURRENT,engine_thrust,3149,THRUST *X%,ТЯГА *X%
+CURRENT,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + ПКМ] Преобразовать в разделитель
+CURRENT,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + ПКМ] Преобразовать в конвейер
+CURRENT,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,"Мы не сможем доставить этих пассажиров к месту назначения без сверхсветовых путешествий. К сожалению, этот корабль не оснащен собственным <b>ГИПЕРДВИГАТЕЛЕМ</b>.\n\nНам придется купить его и установить."
+CURRENT,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,"Откройте экран торговли, чтобы приобрести <b>ГИПЕРДВИГАТЕЛЬ</b> и немного <b>ГИПЕРТОПЛИВА</b>."
+CURRENT,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,ВКЛЮЧИТЬ ПРИСТЫКОВАННЫЕ КОРАБЛИ
+CURRENT,hud_layer_hostile,3149,HOSTILE *X,ВРАЖДЕБНЫЙ *X
+CURRENT,hud_layer_derelict,3149,DERELICT *X,ЗАБРОШЕННЫЙ *X
+CURRENT,hud_layer_forsale,3149,[FOR SALE] *X,[ПРОДАЕТСЯ] *X
 CURRENT,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,"По износу корпуса можно судить, что они здесь как минимум столетие. Этот сектор, вероятно, был одной из первых попыток человечества колонизировать космос."
 CURRENT,techtree_node_caption_metallurgyrepeatable,3054,Spend research credits to continually increase our smelting efficiency.,"Тратьте чипы данных, чтобы постоянно увеличивать эффективность нашей плавки."
 CURRENT,mainmenu_gamemode_arena,3054,Arena,Арена
@@ -100,7 +293,6 @@ CURRENT,survey_type_colony,3054,Colony,Колония
 CURRENT,survey_title,3054,UNSURVEYED *X,НЕИССЛЕДОВАННЫЙ *X
 CURRENT,survey_captionnone,3054,No survey in progress,Исследование не ведется
 CURRENT,survey_captionsingle,3054,Surveyed by *X,Исследуется *X
-CURRENT,survey_captionmultiple,3054,*X layers surveying,*X слоев исследуют
 CURRENT,survey_local_noequipment,3054,NO SUPERCOMPUTERS INSTALLED,НЕ УСТАНОВЛЕНЫ СУПЕРКОМПЬЮТЕРЫ
 CURRENT,survey_sector_title,3054,SECTOR SCAN,СКАНИРОВАНИЕ СЕКТОРА
 CURRENT,survey_sector_nothingtoscan,3054,REGION FULLY SCANNED,РЕГИОН ПОЛНОСТЬЮ ОТСКАНИРОВАН
@@ -159,9 +351,6 @@ CURRENT,alert_type_emp_caption,3054,*X piece(s) disabled,*X устройств �
 CURRENT,alert_type_emp_tooltip,3054,"Your ship has been struck by lightning, temporarily disabling some of your equipment.","Ваш корабль был поражен молнией, временно отключив часть вашего оборудования."
 CURRENT,tutorial_radiation_title,3054,RADIATION,РАДИАЦИЯ
 CURRENT,tutorial_radiationintro,3054,We are going to learn about radiation.,Мы собираемся узнать о радиации.
-CURRENT,tutorial_radiationinstallinfuser,3054,A laser infuser has been delivered to your ship.\n\nLaser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area.,Лазерный инфузор был доставлен на ваш корабль.\n\nЛазерные инфузоры используются для зарядки пустых кристаллов газом зелеона и будут излучать радиацию в окружающую область при работе.\n\nУстановите лазерный инфузор в свободной области.
-CURRENT,tutorial_radiationsetupinfuser,3054,An empty crystal and some zeleon energy cells have been delivered to your ship too.\n\nLet's set the laser infuser to use them to produce charged crystals.,Пустой кристалл и несколько энергетических ячеек зелеона также были доставлены на ваш корабль.\n\nДавайте настроим лазерный инфузор на использование их для производства заряженных кристаллов.
-CURRENT,tutorial_radiationwaitforinputs,3054,The laser infuser is set to start making charged crystals!\n\nLet's wait for it to begin charging crystals.\n\nDon't forget to power the Laser Infuser.,"Лазерный инфузор настроен на начало производства заряженных кристаллов!\n\nДавайте подождем, пока он начнет заряжать кристаллы.\n\nНе забудьте запитать Лазерный Инфузор."
 CURRENT,tutorial_radiationselectoverlay,3054,The game has been set to a slower speed for now.\n\nRadiation is emitted in all directions away from the laser infuser.\n\nClick on the radiation overlay to view where your ship is irradiated.,"Скорость игры была установлена медленнее на данный момент.\n\nРадиация излучается во всех направлениях от лазерного инфузора.\n\nНажмите на наложение радиации, чтобы увидеть, где ваш корабль облучен."
 CURRENT,tutorial_radiationselectoverlay2,3054,"All green areas of your ship are safe for your crew, but the darker areas are dangerous.\n\nSpacesuits will protect your crew from being irradiated.","Все зеленые области вашего корабля безопасны для вашего экипажа, но более темные области опасны.\n\nКосмические скафандры защитят ваш экипаж от облучения."
 CURRENT,tutorial_radiationinstallblockers,3054,"Radiation spread can be limited by special equipment called radiation blockers.\n\nInstall some blockers close to your laser infuser, leaving a small gap between the infuser and the blocker.\n\nIncrease the game speed when you are ready.","Распространение радиации может быть ограничено специальным оборудованием, называемым блокаторами радиации.\n\nУстановите несколько блокаторов близко к вашему лазерному инфузору, оставив небольшой зазор между инфузором и блокатором.\n\nУвеличьте скорость игры, когда будете готовы."
@@ -171,11 +360,9 @@ CURRENT,tutorial_radiationsuccess,3054,"Well done, you have now learnt how radia
 CURRENT,tutorial_survey_title,3054,SECTOR SURVEYING,СКАНИРОВАНИЕ СЕКТОРА
 CURRENT,tutorial_surveyintro,3054,"We are going to learn how to survey the area around your ship.\n\nThe first step is to scan the local area of the sector surrounding you ship using a <b>SECTOR SCAN</b>.\n\nIn Boldly Go, only the new sector can be surveyed.\n\nHyperspace sensors are required to do this.","Мы собираемся узнать, как исследовать область вокруг вашего корабля.\n\nПервый шаг - просканировать локальную область сектора, окружающего ваш корабль, используя <b>СКАНИРОВАНИЕ СЕКТОРА</b>.\n\nВ Boldly Go может быть просканирован только новый сектор.\n\nДля этого требуются гиперпространственные сенсоры."
 CURRENT,tutorial_surveyinstallsensors,3054,"Install Hyperspace Sensors or Hyperspace Sensor LRs onto one of your ships.\n\nThis tutorial will resume afterwards.\n\nIf you are playing the Boldly Go game mode, your ship must also be in the new sector.","Установите Гиперпространственные Сенсоры или Гиперпространственные Сенсоры LR на один из ваших кораблей.\n\nЭто обучение возобновится после этого.\n\nЕсли вы играете в режиме Boldly Go, ваш корабль также должен находиться в новом секторе."
-CURRENT,tutorial_surveystartsectorsurvey,3054,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan.,"Сканирование сектора ищет зоны интереса в секторе вокруг системы, в которой находится ваш корабль.\n\nСканирование остановится после завершения. Только один корабль в системе может выполнять сканирование сектора.\n\nНажмите на кнопку, чтобы начать сканирование сектора."
 CURRENT,tutorial_surveyhighlightsectorsurveysystem,3054,Hovering the mouse over the current system will reveal the radius around the system that is being scanned and the scan's progress toward finding new points of interest.\n\nOpen the <b>SECTOR MAP</b> and click <b>NEXT</b> to speed-up the survey.,"Наведя курсор на текущую систему, вы увидите радиус вокруг сканируемой системы и прогресс сканирования в поиске новых точек интереса.\n\nОткройте <b>КАРТУ СЕКТОРА</b> и нажмите <b>ДАЛЕЕ</b>, чтобы ускорить исследование."
 CURRENT,tutorial_surveylocalsurveyintro,3054,The next step is to perform a <b>LOCAL SURVEY</b>.\n\nLocal surveys allow points of interest to be accessed via FTL.\n\nShips need to have super computers installed and must be in the same sector to participate in a local survey.,Следующий шаг - выполнить <b>ЛОКАЛЬНОЕ ИССЛЕДОВАНИЕ</b>.\n\nЛокальные исследования позволяют получить доступ к точкам интереса через Гипердвигатель.\n\nКорабли должны иметь установленные суперкомпьютеры и должны находиться в одном секторе для участия в локальном исследовании.
 CURRENT,tutorial_surveyinstallcomputers,3054,Install a super-computer on one of your ships.\n\nThis tutorial will resume afterwards.,Установите суперкомпьютер на один из ваших кораблей.\n\nЭто обучение возобновится после этого.
-CURRENT,tutorial_surveystartlocalsurvey,3054,Areas of interest will expire after some time if they are not surveyed. Multiple layers can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,"Зоны интереса истекут через некоторое время, если они не исследованы. Несколько кораблей могут участвовать в локальном исследовании.\n\nНажмите на точку интереса, чтобы начать локальное исследование."
 CURRENT,tutorial_surveyoutro,3054,Click <b>NEXT</b> to speed-up the survey.,"Нажмите <b>ДАЛЕЕ</b>, чтобы ускорить исследование."
 CURRENT,tutorial_surveysuccess,3054,"A new system on the sector map has appeared for your fleet to explore!\n\nWell done, you have now learnt how to use sector surveying to find and explore new systems.\n\nKeep an eye out for special loot on surveyed derelict ships that can be researched by your science stations.","На карте сектора появилась новая система для исследования вашим флотом!\n\nОтлично, теперь вы научились использовать сканирование сектора для поиска и исследования новых систем.\n\nСледите за особыми предметами на исследованных заброшенных кораблях, которые могут быть исследованы вашими научными станциями."
 CURRENT,bravenewsector_part1_x1,3054,Captain? Are you there?,Капитан? Вы на месте?
@@ -186,8 +373,6 @@ CURRENT,bravenewsector_part2_title,3054,"Brave New Sector, Part 2","Дивный
 CURRENT,bravenewsector_part2_summary,3054,Uncover the history of the new sector.,Раскройте историю нового сектора.
 CURRENT,bravenewsector_part2_x1,3054,"Hello again Captain, the Andromeda Project is very impressed with the samples you've sent them. They want your work on the Stargate to continue.","Снова здравствуйте, Капитан, Проект Андромеда очень впечатлен образцами, которые вы им отправили. Они хотят, чтобы ваша работа над Звездными Вратами продолжалась."
 CURRENT,bravenewsector_part2_x3,3054,"I must warn you, there are rumours that their plan is to take the Stargate fully under their control. They will charge anyone who wants to use it a fortune, preventing any competition and harvesting all the resources in the new galaxy for themselves. They will become more powerful than any entity we have seen before.","Я должен предупредить вас, ходят слухи, что их план - полностью взять Звездные Врата под свой контроль. Они будут взимать с любого, кто захочет их использовать, целое состояние, предотвращая любую конкуренцию и собирая все ресурсы в новой галактике для себя. Они станут более могущественными, чем любая сущность, которую мы видели раньше."
-CURRENT,bravenewsector_part2_x4,3054,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. The Stargate is too important and valuable for our species to be under their control.","Пожалуйста, не позволяйте этому случиться, Капитан. Так много в моей жизни и так много моих проектов было сделано исключительно ради прибыли, я не могу позволить этому стать одним из них. Звездные Врата слишком важны и ценны для нашего вида, чтобы быть под их контролем."
-CURRENT,bravenewsector_part2_x5,3054,I have installed a back-door that will cause the Stargate to self-destruct if you command it to. You must trigger it if the rumours are true.,"Я установил бэкдор, который заставит Звездные Врата самоуничтожиться, если вы прикажете. Вы должны активировать его, если слухи окажутся правдой."
 CURRENT,bravenewsector_part2_x6,3054,"Unfortunately, I've been given some bad news, and I won't be around for much longer. I would like to give you full ownership of the foundry as a thank you for helping me finish this final project.","К сожалению, мне сообщили плохие новости, и меня не будет намного дольше. Я хотел бы передать вам полное владение фабрикой в знак благодарности за помощь в завершении этого последнего проекта."
 CURRENT,bravenewsector_part2_x7,3054,It seems we have completed it just in time.,"Похоже, мы завершили его как раз вовремя."
 CURRENT,bravenewsector_part2_x8,3054,"This is our final call, Captain. I wish you the best of luck. Thank you again, and goodbye.","Это наш последний звонок, Капитан. Желаю вам удачи. Еще раз спасибо, и до свидания."
@@ -663,7 +848,6 @@ CURRENT,object_neubidiumcapacitor,2624,Neubidium Capacitor,Нейбидиумн�
 CURRENT,alert_type_stargatelosingpower,2624,STARGATE LOSING POWER,ЗВЕЗДНЫЕ ВРАТА ТЕРЯЮТ ПИТАНИЕ
 CURRENT,alert_type_stargatelosingpower_caption,2624,*X MW / *Y MW Supplied,*X МВт / *Y МВт Поставляется
 CURRENT,alert_type_stargatelosingpower_tooltip,2624,The stargate isn't being supplied with enough power. Use energy transmitters to supply the Stargate with power.,Звездные врата не получают достаточно энергии. Используйте передатчики энергии для снабжения Звездных Врат энергией.
-CURRENT,stargate_power_fraction,2624,SUPPLIED:\n*X MW / *Y MW,ПОДАНО:\n*X МВт / *Y МВт
 CURRENT,stargate_power_button,2624,START,СТАРТ
 CURRENT,stargate_powered_off,2624,POWERED OFF,ОТКЛЮЧЕНО
 CURRENT,stargate_warming_up,2624,WARMING UP,РАЗОГРЕВ
@@ -1142,10 +1326,11 @@ CURRENT,hud_endcreativemodewarning,2448,LEAVING CREATIVE MODE,ВЫХОД ИЗ Т
 CURRENT,hud_endcreativemodefull,2448,Creative Mode will end when you jump to hyperspace,"Творческий Режим завершится, когда вы прыгнете в гиперпространство"
 CURRENT,hud_hyperspace,2448,HYPERSPACE,ГИПЕРПРОСТРАНСТВО
 CURRENT,hud_deselectlayer,2448,DESELECT SHIP,СНЯТЬ ВЫБОР КОРАБЛЯ
-CURRENT,hud_direction_up,2448,Port,Левый Борт
-CURRENT,hud_direction_right,2448,Forward,Нос
-CURRENT,hud_direction_down,2448,Starboard,Правый Борт
-CURRENT,hud_direction_left,2448,Aft,Корма
+CURRENT,hud_gun_port,3205,Port *X,*X по Левому Борту
+CURRENT,hud_gun_forward,3205,Forward *X,*X на Носу
+CURRENT,hud_gun_starboard,3205,Starboard *X,*X по Правому Борту
+CURRENT,hud_gun_aft,3205,Aft *X,*X на Корме
+CURRENT,hud_gun_gattling,3205,PDC,ЗАК
 CURRENT,hud_camerattracking,2448,Camera Tracking,Слежение Камеры
 CURRENT,hud_enabled,2448,Enabled,Включено
 CURRENT,hud_disabled,2448,Disabled,Отключено
@@ -2328,7 +2513,6 @@ CURRENT,blackhole_part1_setup4,2448,"The last time, we pushed it too far.  My br
 CURRENT,blackhole_part1_setup5,2448,"I've lost all contact, and he's been down there for a long time now.  He's still showing on the sensors, and his ship is still intact.  The gravitational forces and time dilation will be extreme.  But with your help, we're going to rescue him.","Я потерял с ним связь, и он там уже давно.  Он все еще виден на сенсорах, а его корабль все еще цел.  Гравитационные силы и замедление времени будут экстремальными.  Но с вашей помощью мы его спасем."
 CURRENT,blackhole_part1_setup6,2448,There's only one way to get to him without falling into the black hole ourselves.  We're going to have to do an extremely short range HYPERSPACE HOP.,"Есть только один способ добраться до него, не упав в черную дыру самим.  Нам придется совершить чрезвычайно короткий ГИПЕРПРОСТРАНСТВЕННЫЙ ПРЫЖОК."
 CURRENT,blackhole_part1_setup6b,2448,"Using a modified FTL Drive you'll do one hyperspace hop toward the black hole, rescue my brother Marcus, then turn around and hop right out.  It will be dangerous, but it's the only way to avoid being dragged in ourselves.","Используя модифицированный Гипердвигатель, вы совершите один гиперпространственный прыжок к черной дыре, спасете моего брата Маркуса, затем развернетесь и выпрыгнете обратно.  Это будет опасно, но это единственный способ избежать того, чтобы нас затянуло."
-CURRENT,blackhole_part1_setup7,2448,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop first.","Мне нужны материалы для синтеза необходимых ресурсов.  Вы можете помочь мне с этим, пока я работаю над расчетами. Мне понадобятся Гиперпространственные Изотопы - вы сможете собрать их довольно легко, но сначала вам нужно будет приобрести Гиперпространственный Совок."
 CURRENT,blackhole_part1_setup7b,2448,You'll then need to use a Loader to start unloading the isotopes into containers.,"Затем вам нужно будет использовать Погрузчик, чтобы начать разгружать изотопы в контейнеры."
 CURRENT,blackhole_part1_setup8,2448,I'm building the Hyperspace FTL drive that will allow you to perform the hop.  It's going to need some modifications.  I'll need you to manufacture some parts for me. I know you have manufacturing facilities near the Stargate project.  You should be able to make these parts for me without too much trouble.,"Я строю Прыжковый Гипердвигатель, который позволит вам совершить прыжок.  Ему потребуются некоторые модификации.  Мне нужно, чтобы вы изготовили для меня некоторые детали. Я знаю, что у вас есть производственные мощности рядом с проектом Звездные Врата.  Вы сможете изготовить эти детали для меня без особых проблем."
 CURRENT,blackhole_part1_setup9,2448,"Bring those materials back to me, and we can move onto phase 2.","Привезите эти материалы ко мне, и мы сможем перейти к фазе 2."
@@ -2692,7 +2876,6 @@ CURRENT,tutorial_dsisetrecipe,2448,Right-clicking on equipment allows you to set
 CURRENT,tutorial_dsisetupdone,2448,The smelter will now start producing metal ingots after it has finished heating up.,Плавильная печь начнет производить железные слитки после разогрева.
 CURRENT,tutorial_stargatewindowopenwindow,2448,Select the Stargate button in your toolbar to open the Stargate screen.,"Нажмите на кнопку Звездные Врата на вашей панели инструментов, чтобы открыть экран Звездные Врата."
 CURRENT,tutorial_stargatewindowintro,2448,The Stargate screen displays everything you need to manufacture to complete the current phase.,"Экран Звездные Врата показывает все, что вам нужно произвести для завершения текущей фазы."
-CURRENT,tutorial_stargatewindowhighlightcomponent,2448,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,"Каждый компонент, который вам нужно произвести, находится слева.\nНаведя мышь на значок компонента, вы увидите, как его произвести."
 CURRENT,tutorial_stargatewindowhighlightphases,2448,"The Stargate's construction is split into phases, with each phase requiring more and more resources.\nYou have just completed Phase 1.","Строительство Звездных Врат разделено на фазы, и каждая фаза требует все больше ресурсов.\nВы только что завершили Фазу 1."
 CURRENT,tutorial_stargatewindowhighlightphase2,2448,Select Phase 2 to see what you need to manufacture for this phase.,"Выберите Фазу 2, чтобы увидеть, что вам нужно произвести для этой фазы."
 CURRENT,tutorial_stargatewindowhighlightframes1,2448,"To complete Phase 2, we need to continue manufacturing Stargate Frames.\n\nInstead of 10, we now need 200!","Чтобы завершить Фазу 2, нам нужно продолжать производить Рамы Звездных Врат.\n\nВместо 10 нам теперь нужно 200!"
@@ -2834,6 +3017,37 @@ CURRENT,dsi_part2_scene_z4,2448,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2448,THERE WILL BE NO FURTHER WARNING.,БОЛЬШЕ ПРЕДУПРЕЖДЕНИЙ НЕ БУДЕТ.
 CURRENT,dsi_part2_scene_y7,2448,You've left me no choice.,Ты не оставил мне выбора.
 CURRENT,dsi_part2_scene_y8,2448,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Я приду за тобой, Александр, и на этот раз я не прошу 10%. Я хочу все."
+OBSOLETE,thefinalstand_harken2,3239,"My scientists and officers have analysed the blueprints of the Stargate project, provided to us by the late Alexander James Elistar.","Мои ученые и офицеры проанализировали чертежи проекта Звездных врат, предоставленные нам покойным Александром Джеймсом Элистаром."
+OBSOLETE,thefinalstand_harken3,3239,"The Andromeda Project has moved their HQ and all key personell into an unknown location in the new sector, where we believe they are controlling the Stargate.","Проект ""Андромеда"" переместил свою штаб-квартиру и всех ключевых сотрудников в неизвестное место в новом секторе, где, как мы полагаем, они контролируют Звездные врата."
+OBSOLETE,thefinalstand_harken4,3239,"Elistar has left you with a backdoor into the Stargate's security systems, compromising all devices controlling it and providing us with direct access to the Andromeda Project's systems.","Элистар оставил тебе бэкдор в системах безопасности Звездных врат, скомпрометировав все устройства, контролирующие их, и предоставив нам прямой доступ к системам проекта ""Андромеда""."
+OBSOLETE,thefinalstand_harken5,3239,"Any and all damage to the HQ should be avoided. Many innocent lives are on-board that HQ, the loss of life from destroying it would be far too great. You will upload a virus to their command centre and disable the station's offensive capabilities.","Любые повреждения штаба должны быть исключены. На борту штаба находится множество невинных жизней, и потери от его уничтожения будут слишком велики. Ты загрузишь вирус в их командный центр и отключишь наступательные возможности станции."
+OBSOLETE,thefinalstand_harken6,3239,"While you are doing this, my fleet will fight off the Andromeda Project navy. Once the battle is over, I will take control of the HQ and arrest everyone involved. Their conglomerate will be dismantled.","Пока ты будешь этим заниматься, мой флот будет отбиваться от флота Проекта Андромеда. Как только битва закончится, я возьму под контроль штаб-квартиру и арестую всех причастных. Их конгломерат будет ликвидирован."
+OBSOLETE,thefinalstand_boss_harken2,3239,"The previous ships were private security, this one is the Andromeda Navy's flagship! You should have access to its command centre from the HQ.","Предыдущие корабли были частной охраной, а этот - флагман Флота Андромеды! У тебя должен быть доступ к его командному центру из штаб-квартиры."
+OBSOLETE,industryend_message,3239,"After capturing the Andromeda HQ, Harken and the Intergalactic Security Council dismantled the Andromeda Project conglomerate.  The control of the Stargate was left in the hands of the Captain that built it.  Humanity's journey across the universe has only just begun...","Захватив штаб-квартиру ""Андромеды"", Харкен и Межгалактический совет безопасности ликвидировали конгломерат ""Проект Андромеда"".  Контроль над Звездными вратами остался в руках капитана, который их построил.  Путешествие человечества по Вселенной только началось..."
+OBSOLETE,bravenewsector_part4_rep9,3239,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy the Andromeda.,"Здравствуйте, капитан. Недавно построенные Звездные врата поставили Проект Андромеда в мощное положение, позволяющее контролировать поток ресурсов и людей между этой галактикой и Андромедой."
+OBSOLETE,thefinalstand_battleprep_1,3239,"Hello Captain, it's good to see you. This is all of the ships I control in this sector, the rest are on the other side of the Stargate, unable to reach us.","Здравствуйте, капитан, рад вас видеть. Это все корабли, которые я контролирую в этом секторе, остальные находятся по ту сторону Звездных врат и не могут с нами связаться."
+OBSOLETE,thefinalstand_battle_rep1,3239,Commander Harken! I see that my first fleet failed to deal you. I suppose if I want something done properly I should do it myself.,"Командир Харкен! Я вижу, что мой первый флот не справился с тобой. Полагаю, если я хочу, чтобы что-то было сделано как следует, я должен сделать это сам."
+OBSOLETE,hud_consumingperhour,3149,Consuming *X per hour,Потребление *X в час
+OBSOLETE,survey_captionmultiple,3054,*X layers surveying,*X слоев исследуют
+OBSOLETE,tutorial_radiationinstallinfuser,3054,A laser infuser has been delivered to your ship.\n\nLaser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area.,Лазерный инфузор был доставлен на ваш корабль.\n\nЛазерные инфузоры используются для зарядки пустых кристаллов газом зелеона и будут излучать радиацию в окружающую область при работе.\n\nУстановите лазерный инфузор в свободной области.
+OBSOLETE,tutorial_radiationsetupinfuser,3054,An empty crystal and some zeleon energy cells have been delivered to your ship too.\n\nLet's set the laser infuser to use them to produce charged crystals.,Пустой кристалл и несколько энергетических ячеек зелеона также были доставлены на ваш корабль.\n\nДавайте настроим лазерный инфузор на использование их для производства заряженных кристаллов.
+OBSOLETE,tutorial_radiationwaitforinputs,3054,The laser infuser is set to start making charged crystals!\n\nLet's wait for it to begin charging crystals.\n\nDon't forget to power the Laser Infuser.,"Лазерный инфузор настроен на начало производства заряженных кристаллов!\n\nДавайте подождем, пока он начнет заряжать кристаллы.\n\nНе забудьте запитать Лазерный Инфузор."
+OBSOLETE,tutorial_surveystartsectorsurvey,3054,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan.,"Сканирование сектора ищет зоны интереса в секторе вокруг системы, в которой находится ваш корабль.\n\nСканирование остановится после завершения. Только один корабль в системе может выполнять сканирование сектора.\n\nНажмите на кнопку, чтобы начать сканирование сектора."
+OBSOLETE,tutorial_surveystartlocalsurvey,3054,Areas of interest will expire after some time if they are not surveyed. Multiple layers can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,"Зоны интереса истекут через некоторое время, если они не исследованы. Несколько кораблей могут участвовать в локальном исследовании.\n\nНажмите на точку интереса, чтобы начать локальное исследование."
+OBSOLETE,bravenewsector_part2_x4,3054,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. The Stargate is too important and valuable for our species to be under their control.","Пожалуйста, не позволяйте этому случиться, Капитан. Так много в моей жизни и так много моих проектов было сделано исключительно ради прибыли, я не могу позволить этому стать одним из них. Звездные Врата слишком важны и ценны для нашего вида, чтобы быть под их контролем."
+OBSOLETE,bravenewsector_part2_x5,3054,I have installed a back-door that will cause the Stargate to self-destruct if you command it to. You must trigger it if the rumours are true.,"Я установил бэкдор, который заставит Звездные Врата самоуничтожиться, если вы прикажете. Вы должны активировать его, если слухи окажутся правдой."
+OBSOLETE,stargate_power_fraction,2624,SUPPLIED:\n*X MW / *Y MW,ПОДАНО:\n*X МВт / *Y МВт
+OBSOLETE,blackhole_part1_setup7,2448,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop first.","Мне нужны материалы для синтеза необходимых ресурсов.  Вы можете помочь мне с этим, пока я работаю над расчетами. Мне понадобятся Гиперпространственные Изотопы - вы сможете собрать их довольно легко, но сначала вам нужно будет приобрести Гиперпространственный Совок."
+OBSOLETE,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[ПКМ] Преобразовать в разделитель
+OBSOLETE,hud_convertsplittertotrack,3054,[RMB] Convert to track,[ПКМ] Преобразовать в конвейер
+OBSOLETE,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,"Мы не можем доставить этих пассажиров к месту назначения без путешествия быстрее света. К сожалению, этот корабль не оснащен собственным <b>ГИПЕРДВИГАТЕЛЕМ</b>.\n\nНам нужно купить его и установить."
+OBSOLETE,tutorial_ftlintro,2448,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,"Мы не сможем доставить этих пассажиров к месту назначения без использования ускорителей света. К сожалению, этот корабль не оснащен собственным Сверхсветовым приводом.\n\n Нам придется купить его и установить."
+OBSOLETE,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,"Откройте экран торговли, чтобы купить <b>ГИПЕРДВИГАТЕЛЬ</b>."
+OBSOLETE,tutorial_ftltradescreen,2448,Open the trade screen to purchase an FTL drive.,"Откройте торговый экран, чтобы купить Сверхсветовой привод."
+OBSOLETE,newmainmenu_includedocked,2448,INCLUDE DOCKED SHIPS IN EXPORT,ВКЛЮЧИТЬ ПРИСТЫКОВАННЫЕ КОРАБЛИ В ЭКСПОРТ
+OBSOLETE,hud_layer_hostile,2448,HOSTILE,ВРАЖДЕБНЫЕ СИЛЫ
+OBSOLETE,hud_layer_derelict,2448,DERELICT,ЗАБРОШЕННЫЙ ОБЪЕКТ
+OBSOLETE,hud_layer_forsale,2448,[FOR SALE],[ПРОДАЕТСЯ]
 OBSOLETE,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,"Их внешняя изношенность заставляет нас предположить, что они находятся здесь уже не менее века. Наверное, этот сектор был одной из первых попыток человечества колонизировать космическое пространство."
 OBSOLETE,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.","Включает функции, помогающие переводчикам, например Alt для раскрытия английского языка и Ctrl для раскрытия ключа фразы."
 OBSOLETE,shipeditor_tooltip_eyedropper,2793,"Lets you select a paint from the exterior of your ship (can also be used by pressing the ""Shift"" key)","Позволяет выбрать краску с внешней стороны вашего корабля (также можно использовать, зажав клавишу ""Shift"")"
