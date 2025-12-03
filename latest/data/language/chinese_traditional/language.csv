@@ -20,7 +20,7 @@ CURRENT,thefinalstand_battleprep_1,3244,"Hello Captain, it's good to see you. Th
 CURRENT,thefinalstand_battle_rep1,3244,Commander Harken! I see that my first fleet has failed to deal with you. I suppose if I want something done properly I should do it myself.,哈肯指揮官看來我的第一支艦隊沒能對付你我想，如果我想把事情辦好，就應該親自動手。
 CURRENT,newmainmenu_continue,3239,CONTINUE GAME,繼續遊戲
 CURRENT,hud_ftlshipblockedfromftl,3239,Ship cannot enter hyperspace with your fleet,艦船無法隨艦隊進入超空間
-CURRENT,hud_window_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,星際物流
+CURRENT,hud_window_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,星際貨運
 CURRENT,andromeda_travel,3239,ANDROMEDA JOURNEY,仙女座之旅
 CURRENT,trade_autohireat,3239,HIRE BELOW,自動僱傭下限
 CURRENT,trade_autosackat,3239,SACK ABOVE,自動解僱上限
@@ -46,7 +46,7 @@ CURRENT,techtree_node_title_atmosphericprocessing2,3239,Atmospheric Processing 2
 CURRENT,techtree_node_caption_atmosphericprocessing2,3239,Unlocks more schematics for hardware required to maintain a breathable atmosphere,解鎖更多維持可呼吸大氣所需的硬件原理圖
 CURRENT,techtree_node_title_wasteprocessing,3239,Waste Processing,廢物處理
 CURRENT,techtree_node_caption_wasteprocessing,3239,Unlocks schematics for hardware to capture and reprocess human waste,解鎖收集和再處理人類廢物的硬件原理圖
-CURRENT,special_advancedlogistics,3239,Interstellar Logistics,星際物流
+CURRENT,special_advancedlogistics,3239,Interstellar Logistics,星際貨運
 CURRENT,tactical_dockingassistant,3239,DOCKING ASSIST,停泊輔助系統
 CURRENT,tactical_fleetformation,3239,FLEET FORMATION,艦隊編組
 CURRENT,tactical_fleetcombat,3239,FLEET COMBAT AI,艦隊戰鬥 AI
@@ -62,7 +62,7 @@ CURRENT,logistics_tooltip_remove_rmb,3239,[RMB] Remove,[右鍵] 刪除
 CURRENT,logistics_tooltip_cancel,3239,[RMB] Cancel,[右鍵] 取消
 CURRENT,logistics_tooltip_shift,3239,[SHIFT] x5,[SHIFT] x5
 CURRENT,logistics_tooltip_control,3239,[CTRL] x50,[CTRL] x50
-CURRENT,advancedlogisticswindow_title,3239,INTERSTELLAR LOGISTICS,星際物流
+CURRENT,advancedlogisticswindow_title,3239,INTERSTELLAR LOGISTICS,星際貨運
 CURRENT,logistics_system_select,3239,LOCATION,地點
 CURRENT,logistics_create_order,3239,Create Order,創建訂單
 CURRENT,logistics_loop,3239,Loop,循環
@@ -111,9 +111,9 @@ CURRENT,logistics_status_time1,3239,in *X:*Y,剩餘 *X:*Y
 CURRENT,logistics_status_time2,3239,in *X:0*Y,剩餘 *X:0*Y
 CURRENT,logistics_status_time3,3239,in 0*X:*Y,剩餘 0*X:*Y
 CURRENT,logistics_status_time4,3239,in 0*X:0*Y,剩餘 0*X:0*Y
-CURRENT,order_advancedlogistics,3239,Interstellar Logistics,星際物流
+CURRENT,order_advancedlogistics,3239,Interstellar Logistics,星際貨運
 CURRENT,mission_objective_done,3239,DONE,完成
-CURRENT,alert_type_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,星際物流
+CURRENT,alert_type_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,星際貨運
 CURRENT,alert_type_interstellarlogistics_caption,3239,Orders stuck,訂單滯留
 CURRENT,stargate_startandromedajump,3239,TEST ANDROMEDA JUMP,測試仙女座跳躍
 CURRENT,stargate_power_tooltip,3239,POWER REQUIRED: *X MW,所需功率：*X MW
@@ -696,7 +696,7 @@ CURRENT,shipeditor_palettelibrary_cancel,2793,CANCEL,取消
 CURRENT,shipeditor_palettelibrary_export,2793,EXPORT,導出
 CURRENT,shipeditor_palettelibrary_upload,2793,UPLOAD,上傳
 CURRENT,trade_autotradedisabled,2793,DISABLED IN ORDER MENU,在訂單菜單中已禁用
-CURRENT,order_autotradeactive,2793,Auto Trade,汽車貿易
+CURRENT,order_autotradeactive,2793,Auto Trade,自動貿易
 CURRENT,object_table,2793,Table,桌子
 CURRENT,object_smalltable,2793,Small Table,小桌子
 CURRENT,object_chair,2793,Chair,椅子
@@ -1228,7 +1228,7 @@ CURRENT,debugbuildpanel_scaffold,2448,Scaffold,腳手架
 CURRENT,debugbuildpanel_interior,2448,Interior,內政
 CURRENT,debugbuildpanel_armour,2448,Armour,盔甲
 CURRENT,debugbuildpanel_cable,2448,Cable,電纜
-CURRENT,debugbuildpanel_pipe,2448,Pipe,管材
+CURRENT,debugbuildpanel_pipe,2448,Pipe,管道
 CURRENT,debugbuildpanel_equipment,2448,Equipment,設備
 CURRENT,debugbuildpanel_floor,2448,Floor,樓層
 CURRENT,debugbuildpanel_habitation,2448,Habitation,居住環境
@@ -1631,10 +1631,10 @@ CURRENT,techtree_award_title,2448,RESEARCH COMPLETED,已完成研究
 CURRENT,award_rewards,2448,Rewards,獎勵
 CURRENT,tactical_docked,2448,--- DOCKED ---,--- 停靠 ---
 CURRENT,tactical_undock,2448,UNDOCK,解鎖
-CURRENT,tactical_throttle,2448,THROTTLE,變速箱
+CURRENT,tactical_throttle,2448,THROTTLE,油門
 CURRENT,tactical_detach_all,2448,DETACH ALL,全部拆除
 CURRENT,tactical_velocity,2448,VELOCITY,速度
-CURRENT,tactical_evasion,2448,EVASION,喚醒
+CURRENT,tactical_evasion,2448,EVASION,閃避
 CURRENT,tactical_weapons,2448,WEAPONS,武器
 CURRENT,tactical_fire,2448,FIRE,火災
 CURRENT,tactical_hold,2448,HOLD,保持
@@ -1642,23 +1642,23 @@ CURRENT,tactical_maneuvering,2448,MANEUVERING,管理
 CURRENT,tactical_damaged,2448,DAMAGED,損壞
 CURRENT,tactical_reloading,2448,RELOADING,重新啓動
 CURRENT,tactical_lowpower,2448,LOW POWER,低功率
-CURRENT,logisticswindow_title,2448,LOGISTICS,物流
+CURRENT,logisticswindow_title,2448,LOGISTICS,貨運
 CURRENT,logistics_tooltip_transfer,2448,[LMB] Transfer 1 from *X,[左鍵] 從 *X 轉運 1 個
 CURRENT,logistics_tooltip_cancel_transfer,2448,[RMB] Cancel 1 from *X,[右鍵] 取消從 *X 轉運 1 個
 CURRENT,logistics_tooltip_modifiers,2448,Modifiers:,修飾鍵：
-CURRENT,orders_logistics,2448,LOGISTICS,物流
-CURRENT,orders_crew,2448,CREW,CREW
-CURRENT,orders_doors,2448,DOORS,門
+CURRENT,orders_logistics,2448,LOGISTICS,貨運
+CURRENT,orders_crew,2448,CREW,船員
+CURRENT,orders_doors,2448,DOORS,艙門
 CURRENT,order_none,2448,None,無
-CURRENT,order_salvage,2448,Gather Salvage,收集打撈
-CURRENT,order_gather,2448,Gather Materials,收集材料
+CURRENT,order_salvage,2448,Gather Salvage,回收殘骸
+CURRENT,order_gather,2448,Gather Materials,收集物資
 CURRENT,order_repairhull,2448,Repair Hull,維修船體
 CURRENT,order_shiftwork,2448,Shift Work,輪班工作
-CURRENT,order_suitson,2448,Suits On,西裝革履
-CURRENT,order_exteriorwork,2448,Exterior Work,室外工程
-CURRENT,order_weaponsactive,2448,Weapons Free,無武器
-CURRENT,order_fleetlogistics,2448,Fleet Logistics,車隊物流
-CURRENT,order_battlestations,2448,Battle Stations,戰鬥站
+CURRENT,order_suitson,2448,Suits On,穿戴宇航服
+CURRENT,order_exteriorwork,2448,Exterior Work,艙外作業
+CURRENT,order_weaponsactive,2448,Weapons Free,自由開火
+CURRENT,order_fleetlogistics,2448,Fleet Logistics,艦隊貨運
+CURRENT,order_battlestations,2448,Battle Stations,戰鬥崗位
 CURRENT,order_mining,2448,Mining,採礦
 CURRENT,action_opendoors,2448,Open All Doors,打開所有大門
 CURRENT,action_closedoors,2448,Close All Doors,關閉所有門
@@ -2091,7 +2091,7 @@ CURRENT,object_sewage,2448,Sewage,污水
 CURRENT,object_wastewater,2448,Waste Water,廢水
 CURRENT,object_compost,2448,Compost,堆肥
 CURRENT,object_carbondioxide,2448,CO2,二氧化碳
-CURRENT,object_short_oxygen,2448,O2,O2
+CURRENT,object_short_oxygen,2448,O2,氧氣
 CURRENT,object_short_ftlcharge,2448,FTL,超光速
 CURRENT,object_short_bullets,2448,Ammo,彈藥
 CURRENT,object_short_railgunshell,2448,Slugs,彈頭
@@ -2197,7 +2197,7 @@ CURRENT,mission_tiddletssale_success,2448,Traded *X Tiddlets,交易*X Tiddlets
 CURRENT,object_tiddlet,2448,Tiddlet,提德萊特
 CURRENT,tiddlet_child,2448,Baby,幼體
 CURRENT,tiddlet_boxed,2448,Boxed,盒裝
-CURRENT,newplayerhelp_fuelpipe,2448,<FUEL PIPE,&lt;油管
+CURRENT,newplayerhelp_fuelpipe,2448,<FUEL PIPE,&lt;燃料管道
 CURRENT,alert_title,2448,ALERTS,警報
 CURRENT,alert_type_none,2448,NO ALERT,無警報
 CURRENT,alert_type_test,2448,TEST ALERT,測試警報
@@ -2251,12 +2251,12 @@ CURRENT,rating_rankincreased,2448,RANK INCREASED,排名上升
 CURRENT,rating_combat,2448,Combat,戰鬥
 CURRENT,rating_industry,2448,Industry,工業
 CURRENT,rating_humanitarian,2448,Humanitarian,人道主義
-CURRENT,rating_logistics,2448,Logistics,物流
+CURRENT,rating_logistics,2448,Logistics,貨運
 CURRENT,rating_criminal,2448,Criminal,犯罪
 CURRENT,rating_title_combat,2448,Combat Rating,戰鬥等級
 CURRENT,rating_title_industry,2448,Industry Rating,工業評級
 CURRENT,rating_title_humanitarian,2448,Humanitarian Rating,人道主義評級
-CURRENT,rating_title_logistics,2448,Logistics Rating,物流評級
+CURRENT,rating_title_logistics,2448,Logistics Rating,貨運評級
 CURRENT,rating_title_criminal,2448,Criminal Rating,犯罪評級
 CURRENT,rating_rank,2448,RANK *X,排名 *X
 CURRENT,rating_hostilesdestroyed,2448,HOSTILES DESTROYED,消滅敵軍
@@ -2321,7 +2321,7 @@ CURRENT,tutorial_docking_title,2448,DOCKING,對接
 CURRENT,tutorial_dockingstart,2448,We are now going to learn how to dock your ship to another ship.,現在我們來學習如何將飛船停靠在另一艘飛船上。
 CURRENT,tutorial_dockingapproachship_x,2448,Use your main ship engines to get close to the *X.,使用主船引擎靠近*X 。
 CURRENT,tutorial_dockingsuccess,2448,Well done. You have docked successfully!,幹得好，你已成功對接！
-CURRENT,tutorial_logistics_crew_title,2448,CREW LOGISTICS,團隊物流
+CURRENT,tutorial_logistics_crew_title,2448,CREW LOGISTICS,船員調配
 CURRENT,tutorial_logisticscrewstart,2448,We are now going to learn how to transfer crew from one ship to another.\n\nThe two ships must be docked so that the crew can walk from one ship to another.,現在我們將學習如何將船員從一艘飛船轉移到另一艘飛船。\n\n兩艘飛船必須對接，以便船員可以在飛船之間走動。
 CURRENT,tutorial_logisticscrewswitchtonormalview,2448,"First, switch back to normal view by leaving tactical mode.",首先，離開戰術模式切換回正常視圖。
 CURRENT,tutorial_logisticscrewopen,2448,Open the Fleet Logistics window.,打開艦隊後勤窗口。
@@ -2367,14 +2367,14 @@ CURRENT,calltoarms_harken_5,2448,"Thank you, Captain.",謝謝你，艦長。
 CURRENT,calltoarms_harkenrailroad_1,2448,"My name is Commander Harken, and I'm the Chief of Private Security for the sector.",我叫哈肯指揮官，是區裏的私人保安隊長。
 CURRENT,calltoarms_harkenrailroad_3,2448,We've recieved reports of a shipwreck nearby. I believe it to be the wreckage of THE INTERSTELLAR PROSPECTOR - a large commercial vessel that went missing yesterday.,"我們收到報告說附近有沉船殘骸我相信那是昨天失蹤的大型商船 ""星際探測器 ""號的殘骸。"
 CURRENT,calltoarms_harkenrailroad_4,2448,Travel to the shipwreck and look for a Black Box Flight Recorder in the wreckage.  This device will contain a log of their final moments.,前往沉船，在殘骸中尋找黑匣子飛行記錄器。  這個裝置將記錄他們最後的時刻。
-CURRENT,calltoarms_harkenrailroad_5,2448,To collect the flight recorder you'll need to install a DRONE BAY and at least one LOGISTICS DRONE. You can buy them from any Shipyard or Colony.,要收集飛行記錄器，您需要安裝一個無人機艙和至少一架物流無人機。您可以從任何船廠或殖民地購買。
+CURRENT,calltoarms_harkenrailroad_5,2448,To collect the flight recorder you'll need to install a DRONE BAY and at least one LOGISTICS DRONE. You can buy them from any Shipyard or Colony.,要收集飛行記錄器，您需要安裝一個無人機艙和至少一架貨運無人機。您可以從任何船廠或殖民地購買。
 CURRENT,wolf_episode_title,2448,Wolf In Sheep's Clothing,披着羊皮的狼
 CURRENT,wolf_part1_title,2448,A Wolf in Sheep's Clothing,披着羊皮的狼
 CURRENT,wolf_character_harken,2448,Commander Harken,哈肯指揮官
 CURRENT,wolf_character_harken_short,2448,CMDR HARKEN,哈肯指揮官
 CURRENT,wolf_part1_intro1,2448,"My name is Commander Harken, and I'm the Chief of Private Security for the sector.",我叫哈肯指揮官，是區裏的私人保安隊長。
 CURRENT,wolf_part1_intro2,2448,"You have found the remains of the Interstellar Prospector. Please bring its Black Box Flight Recorder to me, and I will explain more.",你們發現了星際探礦者號的殘骸。請把它的黑匣子飛行記錄器拿給我，我會給你更多解釋。
-CURRENT,wolf_part1_intro3,2448,"In order to collect the Flight Recorder you will need Drones, launched from a Drone Bay on your ship.  If you don't already have this equipment, you'll need to buy at least one DRONE BAY, and at least one LOGISTICS DRONE, from any colony or shipyard.",爲了收集飛行記錄器，您需要從飛船上的無人機艙發射無人機。  如果您還沒有這些設備，您需要從任何殖民地或造船廠購買至少一個無人機艙和至少一架物流無人機。
+CURRENT,wolf_part1_intro3,2448,"In order to collect the Flight Recorder you will need Drones, launched from a Drone Bay on your ship.  If you don't already have this equipment, you'll need to buy at least one DRONE BAY, and at least one LOGISTICS DRONE, from any colony or shipyard.",爲了收集飛行記錄器，您需要從飛船上的無人機艙發射無人機。  如果您還沒有這些設備，您需要從任何殖民地或造船廠購買至少一個無人機艙和至少一架貨運無人機。
 CURRENT,wolf_part1_setupcall1,2448,"Thank you for returning the flight recorder, Captain.",謝謝你歸還飛行記錄器，艦長
 CURRENT,wolf_part1_setupcall1b,2448,"We are in the grip of a major crisis.  Commercial vessels laden with valuable cargo are being targeted and destroyed.  These vessels are under our protection - but often lack any serious defenses, and barely have a chance to send out a distress call before they are plundered.  This is a calculated assault on the free market trade and industry within this sector, and cannot be allowed to continue.",我們正處於一場重大危機之中。  滿載貴重貨物的商船正成爲襲擊和摧毀的目標。  這些船隻受到我們的保護，但往往缺乏有效的防禦措施，幾乎連發出求救信號的機會都沒有，就被掠奪一空。  這是對這一地區自由市場貿易和工業的蓄意攻擊，不能再任其發展下去了。
 CURRENT,wolf_part1_setupcall2,2448,"I'm sending you the coordinates of two more stricken vessels, pinpointing their last known locations before they went dark.  We need you to travel to the wreckage of each of these ships, and collect whatever evidence you can.",我把另外兩艘遇難船隻的座標發給你 它們在消失前的最後位置都已確定  我們需要你前往這兩艘船的殘骸處 儘可能收集證據
@@ -2384,7 +2384,7 @@ CURRENT,wolf_part1_setupcall5,2448,"The fourth vessel to be targeted managed to 
 CURRENT,wolf_part1_setupcall5b,2448,"This is the only image they managed to send, before their transmission went dead.",這是他們在傳輸中斷前成功發送的唯一圖像。
 CURRENT,wolf_part1_setupcall6,2448,"The wreckage - which is the forensic evidence of their fate - was collected and taken back to System S*X, where it's currently sitting in storage.  We need you to send a ship to collect the wreckage, and bring it to us along with the recovered black box modules.",這些殘骸是他們命運的法醫證據，已被收集並運回S*X 系統，目前被存放在那裏。  我們需要你們派遣一艘飛船去收集殘骸，並將其與回收的黑匣子模塊一起交給我們。
 CURRENT,wolf_part1_setupcall7,2448,"Bring all the recovered wreckage and the black box flight recorders back to me for analysis on board my ship The Vanguard, to complete the contract.",把所有打撈上來的殘骸和黑匣子飛行記錄器帶回我的先鋒號上進行分析，以完成合同。
-CURRENT,wolf_part1_objective_drones,2448,Install a Drone Bay and at least one Logistics Drone,安裝無人機艙和至少一架後勤無人機
+CURRENT,wolf_part1_objective_drones,2448,Install a Drone Bay and at least one Logistics Drone,安裝無人機艙和至少一架貨運無人機
 CURRENT,wolf_part1_objective_recoverbox1,2448,Recover Flight Recorder from UMC Interstellar Prospector,從 UMC 星際勘探者號上回收飛行記錄器
 CURRENT,wolf_part1_objective_recoverbox2,2448,Recover Flight Recorder from UMC Infinite Horizon,從聯電無限地平線恢復飛行記錄器
 CURRENT,wolf_part1_objective_recoverbox3,2448,Recover Flight Recorder from UMC Celestial Hauler,從 UMC Celestial Hauler 上回收飛行記錄器
@@ -2487,7 +2487,7 @@ CURRENT,blackhole_part2_setup5,2448,"I'll need quite a lot of Tilium Crystals fo
 CURRENT,blackhole_part2_setup6,2448,You'll then need a Smelter to process the ore into Tilium Crystals.  I have most of the equipment you'll need here.  If you dock with my ship I can send it over.,然後，您需要一個冶煉廠將礦石加工成提裏米晶體。  我這裏有你需要的大部分設備。  如果你停靠我的飛船，我可以把它送過來。
 CURRENT,blackhole_part2_objective_dock,2448,Dock with Julian Martinez,與朱利安-馬丁內斯對接
 CURRENT,blackhole_part2_objective_lasers,2448,Receive 2x Mining Lasers,接收 2x 採礦激光器
-CURRENT,blackhole_part2_objective_drones,2448,Receive Logistics Drone,接收後勤無人機
+CURRENT,blackhole_part2_objective_drones,2448,Receive Logistics Drone,接收貨運無人機
 CURRENT,blackhole_part2_objective_dronebay,2448,Receive Drone Bay,接收無人機灣
 CURRENT,blackhole_part2_objective_smelter,2448,Receive 1x Smelter,獲得 1x 熔爐
 CURRENT,blackhole_part2_setup7,2448,Take those Mining Lasers and the drones and find an asteroid belt with some Tilium deposits.  Point the mining lasers at the Tilium and use the drones to collect the mineral.,帶上採礦激光器和無人機，找到一個蘊藏着鈦鐵礦的小行星帶。  將採礦激光對準鈦鐵礦，然後使用無人機收集礦石。
@@ -2608,9 +2608,9 @@ CURRENT,tiddlets_summary,2448,Help Prof. Artemis Toppingbury with his research.,
 CURRENT,tiddlets_part1_accept,2448,ACCEPT,接受
 CURRENT,tiddlets_part1_deliver,2448,DELIVER TIDDLETS,運送提德萊特
 CURRENT,tiddlets_part1_setup1,2448,"I should introduce myself. My name is Artemis Toppingbury, and I'm a professor at the Institute of Interstellar Lifeforms.  We've been trying to find a live Tiddlet for years now.",我應該自我介紹一下我叫阿爾忒彌斯・託平伯裏 我是星際生命體研究所的教授  多年來我們一直在尋找活的提德萊人
-CURRENT,tiddlets_part1_setup2,2448,"This is a massive breakthrough. Bring the Tiddlets on board, carefully, using a Logistics Drone. Once you have them, meet me at the Institute for Interstellar Lifeforms.  We're at Starbase S*X.",這是一個巨大的突破。用後勤無人機小心地把提德萊特帶上來。帶上他們後，到星際生命體研究所找我。我們在星際基地S*X。
+CURRENT,tiddlets_part1_setup2,2448,"This is a massive breakthrough. Bring the Tiddlets on board, carefully, using a Logistics Drone. Once you have them, meet me at the Institute for Interstellar Lifeforms.  We're at Starbase S*X.",這是一個巨大的突破。用貨運無人機小心地把提德萊特帶上來。帶上他們後，到星際生命體研究所找我。我們在星際基地S*X。
 CURRENT,tiddlets_objective_dronebay,2448,Install at least one Drone Bay,安裝至少一個無人機艙
-CURRENT,tiddlets_objective_drone,2448,Purchase at least one Logistics Drone,購買至少一架後勤無人機
+CURRENT,tiddlets_objective_drone,2448,Purchase at least one Logistics Drone,購買至少一架貨運無人機
 CURRENT,tiddlets_objective_recovertiddlets,2448,Recover the Tiddlets [*X/*Y],奪回 Tiddlets [*X/*Y]
 CURRENT,tiddlets_objective_delivertiddlets,2448,Deliver the Tiddlets to the Institute for Interstellar Lifeforms,將 Tiddlets 送到星際生命形式研究所
 CURRENT,tiddlets_part1_sendingshuttle,2448,You managed to bring them back? Amazing! I'll be here in a second.,你成功地把它們帶回來了？太神奇了我馬上就來
@@ -2911,12 +2911,12 @@ CURRENT,dsi_part2_objective_resin,2448,Manufacture Stargate Resin [*X/250],製�
 CURRENT,dsi_part2_objective_isotopes,2448,Manufacture Stable Isotopes [*X/100],製造穩定同位素 [*X/100]
 CURRENT,dsi_part2_objective_takecontrol,2448,Take control of the A.J.E Foundry,控制 A.J.E 鑄造廠
 CURRENT,dsi_part2_action_takecontrol,2448,Take control of station,控制空間站
-CURRENT,dsi_part2_actuatorsintro1,2448,"I propose we expand and upgrade the Station into a mining facility.  If we install Engines we can move to a rich asteroid vein, then Mining Lasers and Logistics Drones will give us the capability to harvest the raw materials we need.",我建議我們將空間站擴建升級爲採礦設施。  如果我們安裝了引擎，就能移動到富饒的小行星礦脈，然後採礦激光器和後勤無人機就能讓我們收穫所需的原材料。
+CURRENT,dsi_part2_actuatorsintro1,2448,"I propose we expand and upgrade the Station into a mining facility.  If we install Engines we can move to a rich asteroid vein, then Mining Lasers and Logistics Drones will give us the capability to harvest the raw materials we need.",我建議我們將空間站擴建升級爲採礦設施。  如果我們安裝了引擎，就能移動到富饒的小行星礦脈，然後採礦激光器和貨運無人機就能讓我們收穫所需的原材料。
 CURRENT,dsi_part2_actuatorsintro2,2448,"The Stargate Actuators are made on the Assembly Table as normal, and they require a Stargate Frame and a Motor. Motors can be made in fabricators.",星際之門推杆和普通推杆一樣在裝配臺上製造，它們需要一個星際之門框架和一個電機。電機可以在製造臺上製造。
 CURRENT,dsi_part2_actuatorsintro3,2448,"You'll need to mine Metallic Minerals and Copper Minerals, then melt those materials into ingots in an array of Smelters.  You can then fabricate the Motors and Frames, and finally assemble them into Stargate Actuators.",您需要開採金屬礦物和銅礦物，然後在一系列熔煉爐中將這些材料熔鍊成銅錠。  然後，您可以製造電機和框架，最後將它們組裝成星際之門傳動裝置。
 CURRENT,dsi_part2_actuatorsintro4,2448,"I'll release some more of the seed capital to cover the costs of the upgrade, but you can take care of the details.",我會再釋放一些種子資金，以支付升級的費用，但具體細節就交給你們了。
 CURRENT,dsi_part2_objective_installlasers,2448,Install mining lasers,安裝採礦激光器
-CURRENT,dsi_part2_objective_installdrones,2448,Install logistics drones,安裝後勤無人機
+CURRENT,dsi_part2_objective_installdrones,2448,Install logistics drones,安裝貨運無人機
 CURRENT,dsi_part2_objective_mineminerals,2448,Begin mining metallic minerals [*X/100],開始開採金屬礦物 [*X/100]
 CURRENT,dsi_part2_objective_minecopper,2448,Begin mining copper minerals [*X/100],開始開採銅礦石 [*X/100]
 CURRENT,dsi_part2_objective_copperingots,2448,Begin smelting Copper Ingots [*X/100],開始冶煉銅錠 [*X/100]
