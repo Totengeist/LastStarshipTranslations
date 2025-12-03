@@ -1076,7 +1076,7 @@ CURRENT,mainmenu_newgamea,2448,New Game - Praxis,新遊戲 - 普拉克西斯
 CURRENT,mainmenu_newgameb,2448,New Game - Sleek,新遊戲 - 流線型
 CURRENT,mainmenu_newgamec,2448,New Game - Inner Shapes,新遊戲 - 內構型
 CURRENT,mainmenu_newgamed,2448,New Game - Shipyard,新遊戲 - 船塢
-CURRENT,mainmenu_newgamee,2448,New Game - Large Logistics,新遊戲 - 大型物流
+CURRENT,mainmenu_newgamee,2448,New Game - Large Logistics,新遊戲 - 大型貨運船
 CURRENT,mainmenu_savegame,2448,Save Game,保存遊戲
 CURRENT,mainmenu_loadgame,2448,Load Game,加載遊戲
 CURRENT,mainmenu_abandongame,2448,Abandon Game,放棄遊戲
@@ -1204,16 +1204,16 @@ CURRENT,scenario_funds,2448,FUNDS,資金
 CURRENT,scenario_praxis,2448,"A tiny and fast science vessel with all necessary equipment for interstellar adventure, and provisioned with enough supplies for a small crew.",一艘小巧快速的科考船，配備了星際探險所需的所有設備，併爲少量船員提供了充足的補給。
 CURRENT,scenario_sleek,2448,"A more complex setup. A large and capable ship with plenty of room for upgrades, but with a heavier and slower hull.",更復雜的配置。一艘大型且功能強大的飛船，擁有充足的升級空間，但船體較重，速度較慢。
 CURRENT,scenario_innershapes,2448,"Another large vessel well suited to combat and dangerous operations.  The forward hull is encased in heavy armour, making the ship much tougher, but also slower and less maneuverable.",另一艘非常適合作戰和危險行動的大型飛船。前部船體包裹着重型裝甲，使其更加堅固，但速度較慢，機動性較差。
-CURRENT,scenario_largelogistics,2448,"A modular and easily expanded ship design, ideal for interstellar logistics and mining operations. With cabin space for over 50 crew or passengers.",模塊化且易於擴展的飛船設計，是星際物流和採礦作業的理想選擇。擁有可容納 50 多名船員或乘客的艙室空間。
+CURRENT,scenario_largelogistics,2448,"A modular and easily expanded ship design, ideal for interstellar logistics and mining operations. With cabin space for over 50 crew or passengers.",模塊化且易於擴展的飛船設計，是星際貨運和採礦作業的理想選擇。擁有可容納 50 多名船員或乘客的艙室空間。
 CURRENT,scenario_carrierfrigate,2448,"A huge community fuselage built by Zion - perfect for any career the Captain desires. The ship benefits from a huge cabin capacity, but is very slow and heavy.",由 Zion 建造的巨大社區船體——非常適合艦長所期望的任何職業。該船擁有巨大的艙室容量，但速度非常慢且笨重。
 CURRENT,scenario_procyoncruiser,2448,"A community ship built by Orion Industries - a perfect balance of form and function. Decent cabin space and room for equipment, but small and light enough to be fast and nimble.",由 Orion Industries 建造的社區飛船——外形與功能的完美平衡。擁有不錯的艙室空間和設備空間，同時足夠小巧輕便，快速靈活。
 CURRENT,scenario_shipyard,2448,"The absolute minimum ship fuselage, but you are docked at a fully operational Shipyard with a generous starting budget to build whatever ship you want from scratch.",絕對最小的船體，但您停靠在一個全面運作的造船廠，擁有豐厚的起始預算，可以從零開始建造任何您想要的飛船。
 CURRENT,scenario_industry,2448,The Stargate Project demands your help! Industry and Automation take centre stage as you manufacture parts for a megaproject stargate to the Andromeda Galaxy.,星際之門項目需要您的幫助！工業和自動化佔據核心地位，您將爲通往仙女座星系的宏大星際之門項目製造零件。
-CURRENT,scenario_crabclaw,2448,"A truly massive ship designed with heavy industry, science and logistics in mind.  Big, slow, and heavy - requiring a massive power grid and engine array.",一艘真正的巨型飛船，設計時考慮到了重工業、科學和物流。龐大、緩慢且笨重——需要龐大的電網和引擎陣列。
+CURRENT,scenario_crabclaw,2448,"A truly massive ship designed with heavy industry, science and logistics in mind.  Big, slow, and heavy - requiring a massive power grid and engine array.",一艘真正的巨型飛船，設計時考慮到了重工業、科學和貨運。龐大、緩慢且笨重——需要龐大的電網和引擎陣列。
 CURRENT,scenario_praxis_title,2448,Praxis,實踐號
 CURRENT,scenario_sleek_title,2448,Sleek ship,流線型飛船
 CURRENT,scenario_innershapes_title,2448,Inner Shapes,內構號
-CURRENT,scenario_largelogistics_title,2448,Large Logistics,大型物流船
+CURRENT,scenario_largelogistics_title,2448,Large Logistics,大型貨運船
 CURRENT,scenario_carrierfrigate_title,2448,Carrier Frigate,航母護衛艦
 CURRENT,scenario_procyoncruiser_title,2448,Procyon Cruiser,南河三巡洋艦
 CURRENT,scenario_crabclaw_title,2448,The Crab Claw,蟹鉗號
@@ -1288,7 +1288,7 @@ CURRENT,hud_window_shipyard,2448,SHIPYARD,船塢
 CURRENT,hud_window_trade,2448,TRADE,貿易
 CURRENT,hud_window_missions,2448,CONTRACTS,合同
 CURRENT,hud_window_power,2448,POWERGRID,電網
-CURRENT,hud_window_logistics,2448,LOGISTICS,物流
+CURRENT,hud_window_logistics,2448,LOGISTICS,貨運
 CURRENT,hud_window_ftl,2448,FTL,超光速
 CURRENT,hud_window_score,2448,SCORE,分數
 CURRENT,hud_window_editor,2448,EDITOR,編輯器
@@ -1484,7 +1484,7 @@ CURRENT,powergrid_category_ftl,2448,FTL,超光速
 CURRENT,powergrid_category_weapons,2448,WEAPONS,武器
 CURRENT,powergrid_category_defenses,2448,DEFENSES,防禦
 CURRENT,powergrid_category_lifesupport,2448,LIFE SUPPORT,生命支持
-CURRENT,powergrid_category_logistics,2448,LOGISTICS,物流
+CURRENT,powergrid_category_logistics,2448,LOGISTICS,貨運
 CURRENT,powergrid_category_science,2448,SCIENCE,科學
 CURRENT,powergrid_category_other,2448,OTHER,其他
 CURRENT,powergrid_demand,2448,DEMAND *X Mw,需求 *X MW
@@ -1496,7 +1496,7 @@ CURRENT,trade_title,2448,TRADE,貿易
 CURRENT,trade_category_equipment,2448,Equipment,設備
 CURRENT,trade_category_resource,2448,Resource,資源
 CURRENT,trade_category_reagent,2448,Reagent,試劑
-CURRENT,trade_cash,2448,Cash,現金
+CURRENT,trade_cash,2448,Cash,資金
 CURRENT,trade_confirm,2448,CONFIRM,確認
 CURRENT,trade_buy,2448,BUY,購買
 CURRENT,trade_sell,2448,SELL,出售
@@ -1510,20 +1510,20 @@ CURRENT,trade_showoutofstock,2448,Show out of stock,顯示缺貨項
 CURRENT,trade_overlay_price,2448,PRICE,價格
 CURRENT,trade_overlay_them,2448,THEM,對方
 CURRENT,trade_overlay_you,2448,YOU,我方
-CURRENT,trade_overlay_boxed,2448,[boxed],[盒裝]
+CURRENT,trade_overlay_boxed,2448,[boxed],[箱裝]
 CURRENT,trade_window_energy,2448,Energy,能源
 CURRENT,trade_window_propulsion,2448,Propulsion,推進
 CURRENT,trade_window_habitation,2448,Habitation,居住
 CURRENT,trade_window_defense,2448,Defense,防禦
 CURRENT,trade_window_industry,2448,Industry,工業
-CURRENT,trade_window_logistics,2448,Logistics,物流
+CURRENT,trade_window_logistics,2448,Logistics,貨運
 CURRENT,trade_window_science,2448,Science,科學
 CURRENT,trade_window_resources,2448,Resources,資源
 CURRENT,trade_window_components,2448,Components,組件
 CURRENT,trade_window_crew,2448,Crew,船員
 CURRENT,trade_equipment_charge,2448,- Charge (per use) : *X MW,- 充能（每次使用）：*X MW
-CURRENT,trade_stack,2448,Stack of *X,堆疊數量 *X
-CURRENT,trade_boxed,2448,Boxed,盒裝
+CURRENT,trade_stack,2448,Stack of *X,一組 *X
+CURRENT,trade_boxed,2448,Boxed,箱裝
 CURRENT,trade_component,2448,Component,組件
 CURRENT,trade_sell_ship,2448,SELL SHIP,出售飛船
 CURRENT,trade_allitems,2448,ALL ITEMS,所有物品
@@ -1564,12 +1564,12 @@ CURRENT,techtree_warning,2448,WARNING!,警告！
 CURRENT,techtree_lose_progress,2448,Starting a new research project will lose all progress on the current one.,啓動一個新的研究項目將導致當前項目的所有進展付諸東流。
 CURRENT,techtree_stargate_warning,2448,Completing Andromeda Project phases ahead of the Deep Space Industrialists storyline will bypass those episodes.,"在 ""深空實業家 ""故事情節之前完成 ""仙女座計劃 ""的各個階段，可以繞過這些情節。"
 CURRENT,techtree_missing_equipment,2448,This research project requires a *X to be completed,本研究項目需要 *X 才能完成
-CURRENT,techtree_node_title_logistics1,2448,Logistics,物流
-CURRENT,techtree_node_caption_logistics1,2448,Unlocks schematics for small logistics storage,解鎖小型物流倉儲示意圖
-CURRENT,techtree_node_title_logistics2,2448,Logistics Level 2,物流等級 2
+CURRENT,techtree_node_title_logistics1,2448,Logistics,貨運
+CURRENT,techtree_node_caption_logistics1,2448,Unlocks schematics for small logistics storage,解鎖小型貨運倉儲示意圖
+CURRENT,techtree_node_title_logistics2,2448,Logistics Level 2,貨運等級 2
 CURRENT,techtree_node_caption_logistics2,2448,Unlocks schematics for Medium sized storage,解鎖中型存儲器的原理圖
-CURRENT,techtree_node_title_logistics3,2448,Logistics Level 3,物流等級 3
-CURRENT,techtree_node_caption_logistics3,2448,Unlocks schematics for Large logistics storage,解鎖大型物流倉儲示意圖
+CURRENT,techtree_node_title_logistics3,2448,Logistics Level 3,貨運等級 3
+CURRENT,techtree_node_caption_logistics3,2448,Unlocks schematics for Large logistics storage,解鎖大型貨運倉儲示意圖
 CURRENT,techtree_node_title_automation,2448,Automation,自動化
 CURRENT,techtree_node_caption_automation,2448,Unlocks schematics for Tracks and Robot Arms,解鎖履帶和機械臂的原理圖
 CURRENT,techtree_node_title_compactautomation,2448,Compact Robot Arms,緊湊型機械臂
@@ -1703,7 +1703,7 @@ CURRENT,mission_requires_combatvessel,2448,Contract requires armed combat vessel
 CURRENT,mission_requires_cabinspace,2448,Contract requires at least *X free cabins,合同要求至少*X 個空閒艙位
 CURRENT,mission_requires_combatrating,2448,You require a Combat Rating of at least *X,需要戰鬥等級至少達到*X
 CURRENT,mission_requires_industryrating,2448,You require an Industry Rating of at least *X,需要工業等級至少達到*X
-CURRENT,mission_requires_logisticsrating,2448,You require a Logistics Rating of at least *X,需要物流等級至少達到*X
+CURRENT,mission_requires_logisticsrating,2448,You require a Logistics Rating of at least *X,需要貨運等級至少達到*X
 CURRENT,mission_requires_humanitarianrating,2448,You require a Humanitarian Rating of at least *X,需要人道主義等級至少達到*X
 CURRENT,mission_requires_notindemo,2448,Unavailable to demo players,試玩版中不可用
 CURRENT,mission_difficulty,2448,This mission has been assigned a difficulty rating of *X.,此任務難度等級爲*X。
@@ -1982,7 +1982,7 @@ CURRENT,object_fuelloader,2448,Fuel Loader,燃料裝載器
 CURRENT,object_fuelloader_description,2448,"Takes a canister of Fuel, and pumps it into an underfloor pipe. Use pipes to connect this to your Reactor and your Engines.",接收燃料罐，並將其泵入地板下的管道。使用管道將其連接到反應堆和引擎。
 CURRENT,object_oxygenloader,2448,Oxygen Loader,氧氣裝載器
 CURRENT,object_oxygenloader_description,2448,"Takes a pressurised canister of oxygen and pumps it into an underfloor pipe.  Use pipes to connect this to your Airduct, to supply oxygen to the cabin.",接收加壓氧氣罐，並將其泵入地板下的管道。使用管道將其連接到通風管道，爲機艙提供氧氣。
-CURRENT,object_logisticsdrone,2448,Logistics Drone,物流無人機
+CURRENT,object_logisticsdrone,2448,Logistics Drone,貨運無人機
 CURRENT,object_logisticsdrone_description,2448,"An incredibly useful semi-intelligent robot, capable of gathering salvage from deep space. Can also perform minor repairs to a damaged hull. Must be launched from a Drone Bay.",一種非常有用的半智能機器人，能夠從深空收集打撈物。它還能對損壞的船體進行小修。必須從無人機艙發射。
 CURRENT,object_meteor,2448,Meteor,流星
 CURRENT,object_asteroid,2448,Asteroid,小行星
@@ -2979,7 +2979,7 @@ CURRENT,shipeditor_equipment_autobuyenable,2872,Auto Buy *X,自動購買 *X
 CURRENT,shipeditor_equipment_missing,2872,You require *X,您需要 *X
 CURRENT,shipeditor_equipment_incoming,2872,You have *X incoming,您有 *X 即將運達
 CURRENT,shipeditor_equipment_outgoing,2872,You have *X outgoing,您有 *X 即將運出
-CURRENT,shipeditor_equipment_expected,2872,You will be missing *X when ongoing deliveries/logistics complete,當正在進行的交付/物流完成時，您將缺少 *X 
+CURRENT,shipeditor_equipment_expected,2872,You will be missing *X when ongoing deliveries/logistics complete,當正在進行的交付/貨運完成時，您將缺少 *X 
 CURRENT,shipeditor_equipment_available,2872,Trading Post has *X available,貿易站有 *X 可用
 CURRENT,shipeditor_equipment_totalcost,2872,Total Cost,總成本
 CURRENT,shipeditor_equipment_immediatecost,2872,Immediate Cost: *X,直接費用：*X
