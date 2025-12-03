@@ -196,9 +196,9 @@ CURRENT,thefinalstand_battleoutro_harken5,3239,"You've proven that you can be tr
 CURRENT,thefinalstand_battleoutro_harken6,3239,"Goodbye Captain, and good luck with your new place in the galaxy.",再见，舰长，祝你在银河系的新征程一切顺利。
 CURRENT,hud_consumingperhour,3239,Consuming *X per day,"日消耗 *X "
 CURRENT,survey_captionmultiple,3239,*X ships surveying,*X 船舶测量
-CURRENT,tutorial_radiationinstallinfuser,3239,Laser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area and power it.,激光注入器用于将Zeleon气体充入空晶体，通电时会向周围区域释放辐射。\n\n将激光注入器安装在一个空旷的区域并为其通电。
+CURRENT,tutorial_radiationinstallinfuser,3239,Laser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area and power it.,激光注入器用于将泽莱昂(Zeleon)气体充入空晶体，通电时会向周围区域释放辐射。\n\n将激光注入器安装在一个空旷的区域并为其通电。
 CURRENT,tutorial_radiationsetupinfuser,3239,Let's set the laser infuser to use them to produce charged crystals.,让我们设置激光注入器，用它们来生产充能水晶。
-CURRENT,tutorial_radiationwaitforinputs,3239,The laser infuser is set to start making charged crystals! Laser infusers use Zeleon Energy Cells to charge the crystals.\n\nLet's wait for it to begin charging crystals.,激光注入器已设定开始制造充能水晶！激光注入器使用Zeleon能量电池为晶体充电。\n\n让我们等待它开始为晶体充电。
+CURRENT,tutorial_radiationwaitforinputs,3239,The laser infuser is set to start making charged crystals! Laser infusers use Zeleon Energy Cells to charge the crystals.\n\nLet's wait for it to begin charging crystals.,激光注入器已设定开始制造充能水晶！激光注入器使用泽莱昂(Zeleon)能量电池为晶体充电。\n\n让我们等待它开始为晶体充电。
 CURRENT,tutorial_surveystartsectorsurvey,3239,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one ship in a system can do a sector scan.\n\nClick the button to begin a sector scan.,星区扫描会在您飞船所在星系周围的星区中搜索兴趣点。\n\n扫描完成后将停止。一个星系中只能有一艘飞船进行星区扫描。\n\n点击按钮开始星区扫描。
 CURRENT,tutorial_surveystartlocalsurvey,3239,Areas of interest will expire after some time if they are not surveyed. Multiple ships can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,如果不进行勘测，兴趣点将在一段时间后失效。多艘飞船可以共同进行本地勘测。\n\n点击兴趣点开始本地勘测。
 CURRENT,bravenewsector_part2_x4,3239,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. As a safeguard against the Andromeda Project, I have installed a back-door that allows you to take control of the Stargate and any devices commanding it.",请不要让这种事发生，舰长。我的一生和许多项目都是纯粹为了利益而做的，我不能让这个项目也变成那样。为了防备仙女座计划，我安装了一个后门，可以让你控制星门和任何指挥它的装置。
@@ -331,7 +331,7 @@ CURRENT,special_sectorsurvey,3054,Sector Surveying,星区勘察
 CURRENT,special_tracksplitter,3054,Splitter Tracks,分路器轨道
 CURRENT,object_tracksplitter,3054,Splitter,分路器
 CURRENT,object_laserinfuser,3054,Laser Infuser,激光注入器
-CURRENT,object_crystalinfuser_description,3054,"Laser infuser, infuses objects with energy. No tiddlets were harmed in the making of this equipment.",激光注入器，为物体注入能量。制造此设备未伤害任何 Tiddlets。
+CURRENT,object_crystalinfuser_description,3054,"Laser infuser, infuses objects with energy. No tiddlets were harmed in the making of this equipment.",激光注入器，为物体注入能量。制造此设备未伤害任何 提德莱特(Tiddlets)。
 CURRENT,object_lightningrod,3054,Lightning Rod,避雷针
 CURRENT,object_lightningrod_description,3054,"These are installed in the exterior wall of your ship, reducing the damaging effects of lightning and providing more control over where the lightning strikes. They cannot be repaired, but they will queue the installation of their replacement, when destroyed by lightning.",安装在飞船外壁，可减少闪电造成的伤害，并引导雷击位置。它们无法修复，但在被闪电击毁后会自动生成替换安装任务。
 CURRENT,object_researchcredit,3054,Research Credit,研究点数
@@ -390,20 +390,20 @@ CURRENT,bravenewsector_part2_receivecompute,3054,Receive a Super Computer,接收
 CURRENT,bravenewsector_part3_title,3054,"Brave New Sector, Part 3",勇敢新星区，第三部分
 CURRENT,bravenewsector_part3_summary,3054,Assist the scientist with his research.,协助科学家开展研究。
 CURRENT,bravenewsector_part3_intro_rep1,3054,"Hello again, Captain. Congratulations on completing the latest phase of the Stargate project! We are all very impressed by your commitment and dedication.",您好，舰长。祝贺你完成了星门计划的最新阶段！你的承诺和奉献精神给我们留下了深刻的印象。
-CURRENT,bravenewsector_part3_intro_rep2,3054,The project has a new task for you. One of our scientists is investigating a new lifeform called tiddlets.,"项目有一项新任务交给你。我们的一位科学家正在研究一种新的生命形式，叫做 ""Tiddlets""。"
+CURRENT,bravenewsector_part3_intro_rep2,3054,The project has a new task for you. One of our scientists is investigating a new lifeform called tiddlets.,"项目有一项新任务交给你。我们的一位科学家正在研究一种新的生命形式，叫做 ""提德莱特(Tiddlets)""。"
 CURRENT,bravenewsector_part3_intro_rep3,3054,"Upon death, a crystal is formed at the core of the tiddlet. This crystal has extraordinary energy density, which is exactly what we need to increase the hyperspace range of the Stargate.",死亡后，会在Tiddlet的核心形成一个晶体。这种晶体具有超强的能量密度，而这正是我们增加星门超空间范围所需要的。
-CURRENT,bravenewsector_part3_intro_rep4,3054,"The Andromeda Project would love to relentlessly farm these tiddlets, but due to recent accidents they have become a strictly protected species. The scientist you're going to visit is researching how to ethically produce their crystals. He believes the new sector's resources will be a breakthrough for his research.",仙女座计划很想无情地养殖这些Tiddlets，但由于最近发生的事故，它们成了受严格保护的物种。你们要拜访的科学家正在研究如何以道德的方式生产它们的晶体。他相信新区域的资源将是他研究的一个突破口。
-CURRENT,bravenewsector_part3_intro_rep5,3054,Visit him and provide him a sample of the zeleon.,拜访他，并向他提供一份Zeleon样品。
+CURRENT,bravenewsector_part3_intro_rep4,3054,"The Andromeda Project would love to relentlessly farm these tiddlets, but due to recent accidents they have become a strictly protected species. The scientist you're going to visit is researching how to ethically produce their crystals. He believes the new sector's resources will be a breakthrough for his research.",仙女座计划很想无情地养殖这些提德莱特(Tiddlets)，但由于最近发生的事故，它们成了受严格保护的物种。你们要拜访的科学家正在研究如何以道德的方式生产它们的晶体。他相信新区域的资源将是他研究的一个突破口。
+CURRENT,bravenewsector_part3_intro_rep5,3054,Visit him and provide him a sample of the zeleon.,拜访他，并向他提供一份泽莱昂(Zeleon)样品。
 CURRENT,bravenewsector_part3_deliversample,3054,Deliver the resources,交付资源
-CURRENT,bravenewsector_part3_deliverzeleon,3054,Deliver a sample of Shielded Zeleon [*X/*Y],提供屏蔽Zeleon样本 [*X/*Y]
-CURRENT,bravenewsector_part3_deliverneubidium,3054,Deliver a sample of Neubidium Ingots [*X/*Y],交付Neubidium锭样品 [*X/*Y]
+CURRENT,bravenewsector_part3_deliverzeleon,3054,Deliver a sample of Shielded Zeleon [*X/*Y],提供屏蔽泽莱昂(Zeleon)样本 [*X/*Y]
+CURRENT,bravenewsector_part3_deliverneubidium,3054,Deliver a sample of Neubidium Ingots [*X/*Y],交付纽比迪昂(Neubidium)锭样品 [*X/*Y]
 CURRENT,bravenewsector_part3_artemis_1a,3054,Captain? Is that you? What are you doing here? It's so good to see you!,舰长？是你吗？你怎么来了？见到你太好了！
-CURRENT,bravenewsector_part3_artemis_2a,3054,"The Andromeda Project have hired me to work on synthesising the tiddlet crystals that we discovered during our research, and I see they've sent you to provide me with the zeleon.",仙女座计划雇我来合成我们在研究过程中发现的Tiddlet晶体，我看到他们派你来给我提供Zeleon。
-CURRENT,bravenewsector_part3_artemis_3a,3054,I see you're looking after those tiddlets well! A lot has changed since the tiddlet farm explosion. They are a protected species now and harming them is strictly prohibited.,我看你把那些Tiddlets照顾得很好！自从Tiddlet农场爆炸以来，已经发生了很多变化。它们现在是受保护物种，严禁伤害它们。
+CURRENT,bravenewsector_part3_artemis_2a,3054,"The Andromeda Project have hired me to work on synthesising the tiddlet crystals that we discovered during our research, and I see they've sent you to provide me with the zeleon.",仙女座计划雇我来合成我们在研究过程中发现的提德莱特(Tiddlets)晶体，我看到他们派你来给我提供泽莱昂(Zeleon)。
+CURRENT,bravenewsector_part3_artemis_3a,3054,I see you're looking after those tiddlets well! A lot has changed since the tiddlet farm explosion. They are a protected species now and harming them is strictly prohibited.,我看你把那些提德莱特(Tiddlets)照顾得很好！自从提德莱特(Tiddlets)农场爆炸以来，已经发生了很多变化。它们现在是受保护物种，严禁伤害它们。
 CURRENT,bravenewsector_part3_artemis_4a,3054,A lot has changed since the tiddlet farm explosion. They are a protected species now and harming them is strictly prohibited.,自从Tiddlet农场爆炸以来，很多事情都发生了变化。它们现在是受保护物种，严禁伤害它们。
-CURRENT,bravenewsector_part3_artemis_1b,3054,"Greetings Captain, the Andromeda Project have hired me to work on synthesising crystals produced by a creature I discovered. I've named them tiddlets.","你好，舰长。仙女座计划雇我来合成我发现的一种生物所产生的晶体。我给它们起名叫 ""Tiddlets""。"
-CURRENT,bravenewsector_part3_artemis_2b,3054,"Upon death, a crystal is formed at the core of the tiddlet. My job is to find a way to produce these crystals without having to farm any tiddlets in the process.",一旦死亡，就会在Tiddlet的核心处形成晶体。我的任务就是想办法生产这些晶体，而不需要在生产过程中养殖任何Tiddlets。
-CURRENT,bravenewsector_part3_artemis_3b,3054,The neubidium and zeleon you discovered could be key to my research.,你发现的Neubidium和Zeleon可能是我研究的关键。
+CURRENT,bravenewsector_part3_artemis_1b,3054,"Greetings Captain, the Andromeda Project have hired me to work on synthesising crystals produced by a creature I discovered. I've named them tiddlets.","你好，舰长。仙女座计划雇我来合成我发现的一种生物所产生的晶体。我给它们起名叫 ""提德莱特(Tiddlets)""。"
+CURRENT,bravenewsector_part3_artemis_2b,3054,"Upon death, a crystal is formed at the core of the tiddlet. My job is to find a way to produce these crystals without having to farm any tiddlets in the process.",一旦死亡，就会在提德莱特(Tiddlets)的核心处形成晶体。我的任务就是想办法生产这些晶体，而不需要在生产过程中养殖任何提德莱特(Tiddlets)。
+CURRENT,bravenewsector_part3_artemis_3b,3054,The neubidium and zeleon you discovered could be key to my research.,你发现的纽比迪昂(Neubidium)和泽莱昂(Zeleon)可能是我研究的关键。
 CURRENT,bravenewsector_part3_artemis_5a,3054,"One moment Captain, I've sent a shuttle to receive the resources from you.",请稍等，舰长，我已经派了一艘穿梭机去接收你的资源。
 CURRENT,bravenewsector_part3_artemis_5b,3054,"Unfortunately, it looks like you don't have the resources I need for my experiment, when you have the required amount come back and I'll retrieve them from you.",不幸的是，你好像没有我的实验所需的资源，等你有了所需的资源再回来，我会从你那里取回的。
 CURRENT,bravenewsector_part3_artemis_6,3054,Great! That should be all the resources I need. I'll run the experiments and call you back when I'm done.,太好了！这应该就是我需要的所有资源了。我会进行实验，完成后给你回电话。
@@ -411,14 +411,14 @@ CURRENT,bravenewsector_part3_artemis_7,3054,"Speak to you soon, Captain!",再见
 CURRENT,bravenewsector_part3_wait_rep1,3054,"Thank you for doing that Captain, Artemis will correspond with you directly from now on.",谢谢你这样做，舰长，从现在起阿耳特弥斯将直接与你通信。
 CURRENT,bravenewsector_part3_wait_rep2,3054,Goodbye for now.,暂时再见。
 CURRENT,bravenewsector_part3_waitforresults,3054,Wait for Artemis to call you about his experiment,等待阿耳特弥斯给你打电话询问他的实验情况
-CURRENT,bravenewsector_part3_artemis_results_1,3054,Hello Captain! I have incredible results. Using a highly powered zeleon laser we can charge synthetic crystals made of Neubidium to achieve properties similar to that of the tiddlet crystals.,你好，舰长！我有令人难以置信的成果使用高能zeleon激光器，我们可以给新铷原子合成晶体充电，使其具有与提德雷晶体类似的特性。
+CURRENT,bravenewsector_part3_artemis_results_1,3054,Hello Captain! I have incredible results. Using a highly powered zeleon laser we can charge synthetic crystals made of Neubidium to achieve properties similar to that of the tiddlet crystals.,你好，舰长！我有令人难以置信的成果使用高能泽莱昂(Zeleon)激光器，我们可以给纽比迪昂(Neubidium)合成晶体充电，使其具有与提德莱特(Tiddlets)晶体类似的特性。
 CURRENT,bravenewsector_part3_artemis_results_3,3054,"This is a fantastic breakthrough but I must warn you that the laser is incredibly radioactive, and will very quickly kill your crew if you don't correctly contain its radiation.",这是一项了不起的突破，但我必须警告你，这种激光具有惊人的辐射性，如果不正确控制其辐射，你的船员很快就会丧命。
 CURRENT,bravenewsector_part3_artemis_results_4,3054,Come back to my system and I'll send you one of my lasers along with some radiation blockers to keep your crew safe.,回到我的系统，我会给你送去我的激光器和一些辐射阻断器，以保证你的船员安全。
 CURRENT,bravenewsector_part3_receiveequipment,3054,Receive new equipment from Artemis,从阿尔忒弥斯接收新设备
 CURRENT,bravenewsector_part3_receivelaser,3054,Receive a Laser Infuser,接收激光输液器
 CURRENT,bravenewsector_part3_receiveblockers,3054,Receive Radiation Blockers [*X/*Y],接收辐射阻断器 [*X/*Y]
 CURRENT,bravenewsector_part3_receivecrystal,3054,Receive an Empty Crystal,接收一个空水晶
-CURRENT,bravenewsector_part3_receivezeleon,3054,Receive Zeleon Energy Cell,接收 Zeleon 能源电池
+CURRENT,bravenewsector_part3_receivezeleon,3054,Receive Zeleon Energy Cell,接收 泽莱昂(Zeleon) 能源电池
 CURRENT,bravenewsector_part3_artemis_results_5,3054,The next step is to research how this all applies to the Stargate. My hypothesis is that we can use the crystal's energy-density properties to enable jumps much farther than the next sector.,下一步是研究这一切如何应用于星门。我的假设是，我们可以利用水晶的能量密度特性，实现比下一个星区更远的跳跃。
 CURRENT,bravenewsector_part3_artemis_results_6,3054,"Good luck with your research, Captain.",祝你研究顺利，舰长。
 CURRENT,translationeditor_unmodified,3054,Unmodified Phrases,未经修改的短语
@@ -536,32 +536,32 @@ CURRENT,tutorial_stargatescreen3,2886,On the left of the screen you can see the 
 CURRENT,tutorial_stargatescreen4,2886,"These <b>PHASE</b> 1 components are easy to manufacture, and we already have what we need onboard.\n\nBut we can sell them to the <b>STARGATE PROJECT</b> for a small fortune.",这些<b>PHASE</b> 1 组件易于制造，我们船上已具备所需。\n\n但我们可以把它们卖给<b>星门项目</b>，赚一笔小钱。
 CURRENT,tutorial_stargatescreen5,2886,Close the <b>STARGATE</b> screen by clicking on the toolbar again (or press ESC).,再次单击工具栏（或按 ESC 键）关闭 <b>STARGATE</b> 屏幕。
 CURRENT,tutorial_productionstart,2886,We are now going to learn how to produce <b>STARGATE FRAMES</b>.,现在我们来学习如何制作<b>星门框架</b>。
-CURRENT,tutorial_fabricationinstallfabricator,2886,"Components are manufactured in a <b>FABRICATOR</b>, using raw materials like <b>METAL INGOTS</b>.\n\nInstall a <b>FABRICATOR</b> somewhere in the South East quadrant of the station.",\n\n在空间站东南象限的某个地方安装一台<b>制造机</b>。
-CURRENT,tutorial_fabricationinstallassemblytable,2886,Those components are then assembled into finished products on an <b>ASSEMBLY TABLE</b>.\n\nInstall an <b>ASSEMBLY TABLE</b> somewhere near the <b>FABRICATOR</b>.,然后<b>在组装台</b>上将这些部件组装成成品。\n<b>在制造机</b>附近安装一个<b>组装台</b>。
-CURRENT,tutorial_fabricationpower,2886,This new equipment needs power.  Build <b>POWER CABLES</b> to connect your <b>REACTOR</b> to the <b>FABRICATOR</b> and <b>ASSEMBLY TABLE</b>.,新设备需要电源。 制作<b>电源线</b>，将<b>反应堆</b>连接到<b>制造台</b>和<b>组装台</b>。
-CURRENT,tutorial_fabricationconfigurefab1,2886,We need to configure the new equipment to make the products that we want.\n\nRIGHT <b>CLICK</b> on the <b>FABRICATOR</b> to configure it.,我们需要对新设备进行配置，以便生产出我们想要的产品。\n\n右键<b>单击</b> <b>FABRICATOR</b> 进行配置。
-CURRENT,tutorial_fabricationconfigurefab2,2886,This drop-down menu shows all of the components that we can manufacture in a <b>FABRICATOR</b>.\n\nSelect <b>FRAME</b> from the list.,此下拉菜单显示我们可以在<b>FABRICATOR</b>中制造的所有组件。\n\n从列表中选择<b>FRAME</b>。
-CURRENT,tutorial_fabricationconfigureass1,2886,We need to configure the <b>ASSEMBLY TABLE</b> in the same way.\n\nRIGHT <b>CLICK</b> on the assembly table.,我们需要以同样的方式配置<b>装配表</b>。\n\n<b>右键单击</b>装配表。
+CURRENT,tutorial_fabricationinstallfabricator,2886,"Components are manufactured in a <b>制造机</b>, using raw materials like <b>METAL INGOTS</b>.\n\nInstall a <b>制造机</b> somewhere in the South East quadrant of the station.",\n\n在空间站东南象限的某个地方安装一台<b>制造机</b>。
+CURRENT,tutorial_fabricationinstallassemblytable,2886,Those components are then assembled into finished products on an <b>ASSEMBLY TABLE</b>.\n\nInstall an <b>ASSEMBLY TABLE</b> somewhere near the <b>制造机</b>.,然后<b>在组装机</b>上将这些部件组装成成品。\n<b>在制造机</b>附近安装一个<b>组装机</b>。
+CURRENT,tutorial_fabricationpower,2886,This new equipment needs power.  Build <b>POWER CABLES</b> to connect your <b>REACTOR</b> to the <b>制造机</b> and <b>ASSEMBLY TABLE</b>.,新设备需要电源。 制作<b>电源线</b>，将<b>反应堆</b>连接到<b>制造机</b>和<b>组装机</b>。
+CURRENT,tutorial_fabricationconfigurefab1,2886,We need to configure the new equipment to make the products that we want.\n\nRIGHT <b>CLICK</b> on the <b>制造机</b> to configure it.,我们需要对新设备进行配置，以便生产出我们想要的产品。\n\n右键<b>单击</b> <b>制造机</b> 进行配置。
+CURRENT,tutorial_fabricationconfigurefab2,2886,This drop-down menu shows all of the components that we can manufacture in a <b>制造机</b>.\n\nSelect <b>FRAME</b> from the list.,此下拉菜单显示我们可以在<b>制造机</b>中制造的所有组件。\n\n从列表中选择<b>FRAME</b>。
+CURRENT,tutorial_fabricationconfigureass1,2886,We need to configure the <b>ASSEMBLY TABLE</b> in the same way.\n\nRIGHT <b>CLICK</b> on the assembly table.,我们需要以同样的方式配置<b>组装机</b>。\n\n<b>右键单击</b>组装机。
 CURRENT,tutorial_fabricationconfigureass2,2886,Select <b>STARGATE FRAME</b> from the drop-down menu.,从下拉菜单中选择<b>星门框架</b>。
 CURRENT,tutorial_fabricationclosefab1,2886,"Close the Equipment Panel by clicking the X in the top right corner, or pressing <b>ESC</b>.",单击右上角的 X 或按 <b>ESC</b> 键关闭设备面板。
 CURRENT,tutorial_fabricationclosefab2,2886,"Close the Equipment Panel by clicking the X in the top right corner, or pressing <b>ESC</b>.",单击右上角的 X 或按 <b>ESC</b> 键关闭设备面板。
 CURRENT,tutorial_fabricationworking,2886,"Your crew are now fabricating <b>FRAMES</b> out of <b>METAL INGOTS</b>, then assembling those <b>FRAMES</b> into <b>STARGATE FRAMES</b>, which we can sell to the <b>STARGATE</b> project for profit.",你们的工作人员现在正在用<b>金属锭</b>制造<b>框架</b>，然后将这些<b>框架</b>组装成<b>星门框架</b>，我们可以将这些框架卖给<b>星门</b>项目，从中获利。
 CURRENT,tutorial_smeltersintroduction,2886,"We are going to need a lot of <b>METAL INGOTS</b> if we're to make enough of those <b>STARGATE FRAMES</b>.\n\nWe don't have many <b>METAL INGOTS</b> on board, and will run out soon.",我们需要大量的<b>金属锭</b>才能制造出足够多的<b>星门框架</b>。\n\n我们船上的<b>金属锭</b>不多，很快就会用完。
-CURRENT,tutorial_smeltersbuild,2886,"But we do have plenty of <b>SCRAP METAL</b>, and we can melt that down in a <b>SMELTER</b>.\n\nBuild a <b>SMELTER</b> somewhere near the production line.",不过我们确实有大量的<b>废金属</b>，我们可以在<b>熔炉</b>中将其熔化。\n\n在靠近生产线的地方建造一个<b>熔炉</b>。
-CURRENT,tutorial_smelterspower,2886,Connect the smelters to the <b>REACTOR</b> using <b>POWER CABLES</b>,使用电源线将熔炉与<b>反应堆</b>连接起来
-CURRENT,tutorial_smeltersscrapmetal,2886,Right click on the <b>SMELTER</b> and set its material to be <b>SCRAP METAL</b>.,右键点击 <b>SMELTER</b>，将其材质设置为<b>碎金属</b>。
-CURRENT,tutorial_smeltersoperational,2886,The crew will now load in all the <b>SCRAP METAL</b> and smelt it into much more useful <b>METAL INGOTS</b>.,现在，工作人员将装入所有<b>废金属</b>，并将其熔炼成更有用的<b>金属锭</b>。
+CURRENT,tutorial_smeltersbuild,2886,"But we do have plenty of <b>SCRAP METAL</b>, and we can melt that down in a <b>SMELTER</b>.\n\nBuild a <b>SMELTER</b> somewhere near the production line.",不过我们确实有大量的<b>废金属</b>，我们可以在<b>冶炼机</b>中将其熔化。\n\n在靠近生产线的地方建造一个<b>冶炼机</b>。
+CURRENT,tutorial_smelterspower,2886,Connect the smelters to the <b>REACTOR</b> using <b>POWER CABLES</b>,使用电源线将冶炼机与<b>反应堆</b>连接起来
+CURRENT,tutorial_smeltersscrapmetal,2886,Right click on the <b>SMELTER</b> and set its material to be <b>SCRAP METAL</b>.,右键点击 <b>冶炼机</b>，将其材质设置为<b>废金属</b>。
+CURRENT,tutorial_smeltersoperational,2886,The crew will now load in all the <b>SCRAP METAL</b> and smelt it into much more useful <b>METAL INGOTS</b>.,现在，工作人员将装入所有<b>废金属</b>，并将其冶炼成更有用的<b>金属锭</b>。
 CURRENT,tutorial_smeltersdismantle,2886,"There is a ton of <b>RUINED EQUIPMENT</b> around this old station, that we can break down into <b>SCRAP METAL</b>.\n\nSelect <b>DISMANTLE</b> from the <b>CONSTRUCTION</b> toolbar.",这老旧的基地附近有许多<b>损坏的设备</b>，我们可以将其拆解成<b>废金属</b>。\n\n从<b>建造</b>工具栏中选择<b>拆除</b>。
-CURRENT,tutorial_smeltersstoragetoolbar,2886,"We can make things more efficient for our crew by telling them to store <b>SCRAP METAL</b> near to the <b>SMELTER</b>.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>SCRAP METAL</b> from the list.",通过告知我们的船员将<b>废金属</b>储存在<b>熔炉</b>附近，我们可以提高他们的工作效率。\n\n从<b>“建造”</b>工具栏中选择<b>“储存”</b>，然后从列表中选择<b>“废金属”</b>。
-CURRENT,tutorial_smeltersstorageworld,2886,Now drag out a storage zone near to the <b>SMELTER</b>.,现在，在 <b>SMELTER</b> 附近拖出一个储藏区。
+CURRENT,tutorial_smeltersstoragetoolbar,2886,"We can make things more efficient for our crew by telling them to store <b>SCRAP METAL</b> near to the <b>SMELTER</b>.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>SCRAP METAL</b> from the list.",通过告知我们的船员将<b>废金属</b>储存在<b>冶炼机</b>附近，我们可以提高他们的工作效率。\n\n从<b>“建造”</b>工具栏中选择<b>“储存”</b>，然后从列表中选择<b>“废金属”</b>。
+CURRENT,tutorial_smeltersstorageworld,2886,Now drag out a storage zone near to the <b>SMELTER</b>.,现在，在 <b>冶炼机</b> 附近拖出一个储藏区。
 CURRENT,tutorial_smeltersstoragedone,2886,The crew will move all the <b>SCRAP METAL</b> into this zone.,工作人员将把所有<b>废金属</b>运到这个区域。
 CURRENT,tutorial_tradewaitforsellable,2886,Your crew will now use the equipment to produce some <b>STARGATE FRAMES</b>.,现在，您的船员将使用这些设备生产一些<b>星门框架</b>。
 CURRENT,tutorial_tradeothersupplies,2886,"We can use the <b>TRADE</b> system to buy raw materials to produce more <b>STARGATE FRAMES</b>, as well as resources we will need to survive.\n\nReopen the <b>TRADE</b> screen.",我们可以使用<b>贸易</b>系统购买原材料来生产更多的<b>星门框架</b>，以及我们生存所需的资源。\n\n重新打开<b>贸易</b>界面。
-CURRENT,tutorial_tradebuyminerals,2886,<b>METALLIC MINERALS</b> can be smelted into <b>METAL INGOTS</b> just like <b>SCRAP METAL</b>.\n\nAdd all the <b>METALLIC MINERALS</b> to the trade.,<b>金属矿物</b>可以像<b>碎金属</b>一样冶炼成<b>金属锭</b>。\n\n将所有<b>金属矿物</b>加入交易。
-CURRENT,tutorial_tradebuysmelter,2886,We will also need another <b>SMELTER</b> to begin processing those <b>METALLIC MINERALS</b>.\n\nFind the <b>SMELTER</b> under the <b>INDUSTRY</b> tab and add one to the order.,我们还需要一个<b>冶炼器</b>来开始加工这些<b>金属矿物</b>。\n\n在“<b>工业</b>”选项卡下找到<b>冶炼器</b>，并在订单中添加一个。
+CURRENT,tutorial_tradebuyminerals,2886,<b>METALLIC MINERALS</b> can be smelted into <b>METAL INGOTS</b> just like <b>SCRAP METAL</b>.\n\nAdd all the <b>METALLIC MINERALS</b> to the trade.,<b>金属矿物</b>可以像<b>废金属</b>一样冶炼成<b>金属锭</b>。\n\n将所有<b>金属矿物</b>加入交易。
+CURRENT,tutorial_tradebuysmelter,2886,We will also need another <b>SMELTER</b> to begin processing those <b>METALLIC MINERALS</b>.\n\nFind the <b>SMELTER</b> under the <b>INDUSTRY</b> tab and add one to the order.,我们还需要一个<b>冶炼机</b>来开始加工这些<b>金属矿物</b>。\n\n在“<b>工业</b>”选项卡下找到<b>冶炼机</b>，并在订单中添加一个。
 CURRENT,tutorial_tradebuymore,2886,This is a good opportunity to stock up on some other resources that are critical for life support.\n\nWe'd recommend you purchase:\n\n - 2x <b>FUEL</b>\n - 2x <b>OXYGEN</b>\n - 2x <b>WATER</b>\n - 2x <b>FOOD</b>\n\n- <b>HIRE</b> 5 <b>MORE CREW</b>\n\nCONFIRM the order when you are done.,这是补充一些维持生命所必需的其他资源的好机会。\n\n我们建议您购买：\n\n - 2x <b>燃料</b>\n - 2x <b>氧气</b>\n - 2x <b>水</b>\n - 2x <b>食物</b>\n\n- <b>雇用</b>5名<b>以上船员</b>\n\n完成后确认订单。
-CURRENT,tutorial_tradeinstallsmelter,2886,"Once those goods have arrived, you should install your second <b>SMELTER</b> somewhere near the first.",一旦这些货物到达，您就应该把第二个 <b>SMELTER</b> 安装在第一个 SMELTER 附近的某个地方。
-CURRENT,tutorial_tradesmeltmetallicminerals,2886,Set the <b>SMELTER</b> to process those <b>METALLIC MINERALS</b> you bought into more <b>METAL INGOTS</b>.,设置 <b>冶炼器</b>，将您购买的<b>金属矿物</b>加工成更多的<b>金属锭</b>。
+CURRENT,tutorial_tradeinstallsmelter,2886,"Once those goods have arrived, you should install your second <b>SMELTER</b> somewhere near the first.",一旦这些货物到达，您就应该把第二个 <b>冶炼机</b> 安装在第一个 冶炼机 附近的某个地方。
+CURRENT,tutorial_tradesmeltmetallicminerals,2886,Set the <b>SMELTER</b> to process those <b>METALLIC MINERALS</b> you bought into more <b>METAL INGOTS</b>.,设置 <b>冶炼机</b>，将您购买的<b>金属矿物</b>加工成更多的<b>金属锭</b>。
 CURRENT,tutorial_productionsuccess,2886,"Well done, you are now all set to produce <b>STARGATE FRAMES</b>.",干得好，您现在已经准备好制作<b>星门框架</b>了。
 CURRENT,tutorial_fleetcrew,2886,We will need a crew. Hire five <b>CREW MEMBERS</b> from the <b>TRADE</b> screen.,我们需要一名船员。从 <b>贸易</b> 界面雇佣五名<b>船员</b>。
 CURRENT,tutorial_fleetcrew_shiftclick,2886,<b>NOTE</b>: You can <b>SHIFT CLICK</b> to hire in multiples of 5.,<b>注意</b>：您可以<b>按 SHIFT 键</b>以 5 的倍数进行租用。
@@ -616,8 +616,8 @@ CURRENT,tutorial_miningflytosystem,2886,"Look at the rocks on the map, these ind
 CURRENT,tutorial_miningselectlaser,2886,"You can also target specific mineral patches.\n\nFirst, select which laser you would like to use.\n\nYou can <b>SHIFT CLICK</b> to select multiple lasers.",您还可以瞄准特定的矿脉。\n\n首先，选择您要使用的激光。\n\n您可以按住 <b>SHIFT 点击</b> 来选择多个激光。
 CURRENT,tutorial_mininginstalldronebay,2886,Drones will collect mined resources.\n\nInstall a <b>DRONE BAY</b> so your drones can collect the Tilium Ore.,无人机将收集开采出的资源。\n\n安装一个<b>无人机舱</b>，这样无人机就可以收集泰利昂(Tilium)矿石。
 CURRENT,tutorial_miningfleetorders,2886,You also need to make sure that <b>GATHER MATERIALS</b> is enabled in <b>FLEET ORDERS</b>.,您还需要确保在 <b>“船队订单”</b> 中启用了 <b>“收集材料”</b> 功能。
-CURRENT,tutorial_mininginstallsmelter,2886,You will need to smelt the raw Tilium Ore to crystals.\n\nInstall a <b>SMELTER</b>.,您需要将未加工的泰利昂(Tilium)矿石熔炼成晶体。\n\n安装<b>熔炼炉</b>。
-CURRENT,tutorial_miningsetsmelter,2886,Right click on the <b>SMELTER</b> and select <b>TILIUM ORE</b> to smelt it into Tilium Crystals.,"右键点击 ""<b>熔炼炉</b>""，选择 ""<b>泰利昂(Tilium)矿石</b>""，将其熔炼成泰利昂(Tilium)晶体。"
+CURRENT,tutorial_mininginstallsmelter,2886,You will need to smelt the raw Tilium Ore to crystals.\n\nInstall a <b>SMELTER</b>.,您需要将未加工的泰利昂(Tilium)矿石冶炼成晶体。\n\n安装<b>冶炼机</b>。
+CURRENT,tutorial_miningsetsmelter,2886,Right click on the <b>SMELTER</b> and select <b>TILIUM ORE</b> to smelt it into Tilium Crystals.,"右键点击 ""<b>冶炼机</b>""，选择 ""<b>泰利昂(Tilium)矿石</b>""，将其冶炼成泰利昂(Tilium)晶体。"
 CURRENT,tutorial_buyshipinspect,2886,"Click on the <b>JMC MINING STATION</b>, an old unused industrial station for sale.",点击 <b>JMC MINING STATION</b>，这是一个待售的闲置旧工业站。
 CURRENT,tutorial_buyshipbuy,2886,Click on the <b>BUY</b> button to purchase the <b>JMC MINING STATION</b>.,点击<b>购买</b>按钮，购买<b>JMC MINING STATION</b>。
 CURRENT,tutorial_buyshipsuccess,2886,"Well done, you have purchased the <b>JMC MINING STATION</b>.",干得好，您已经购买了 <b>JMC MINING STATION</b>。
@@ -755,14 +755,14 @@ CURRENT,powergrid_category_stargate,2624,STARGATE,星门
 CURRENT,techtree_refining,2624,Refining,炼油
 CURRENT,techtree_collection,2624,Collection,收藏品
 CURRENT,techtree_smelting,2624,Smelting,冶炼
-CURRENT,techtree_node_title_zeleongasrefining,2624,Zeleon Gas,宙龙燃气
+CURRENT,techtree_node_title_zeleongasrefining,2624,Zeleon Gas,泽莱昂(Zeleon)燃气
 CURRENT,techtree_node_caption_zeleongasrefining,2624,"The new gas we've observed seems to be quite unstable and is radiating high amounts of energy, our scientists need to find a safe way to collect and stabilise it.",我们观测到的这种新气体似乎很不稳定，正在辐射出大量的能量，我们的科学家需要找到一种安全的方法来收集和稳定这种气体。
 CURRENT,techtree_node_title_zeleonenergycontainment,2624,Zeleon Energy Containment,宙斯盾能量封闭装置
 CURRENT,techtree_node_caption_zeleonenergycontainment,2624,"Stable Zeleon is a safe, energy-dense gas that could be used for advanced energy storage.",稳定宙龙是一种安全的高能量气体，可用于先进的能源存储。
-CURRENT,techtree_node_title_neubidiumprocessing,2624,Neubidium Processing,Neubidium 加工
+CURRENT,techtree_node_title_neubidiumprocessing,2624,Neubidium Processing,纽比迪昂(Neubidium) 加工
 CURRENT,techtree_node_caption_neubidiumprocessing,2624,"The mineral collected from the local asteroid has never been seen before, we should investigate its uses.",从当地小行星上采集到的矿物以前从未见过，我们应该研究一下它的用途。
-CURRENT,techtree_node_title_neubidiumfabrication,2624,Neubidium Fabrication,Neubidium 制作
-CURRENT,techtree_node_caption_neubidiumfabrication,2624,"Infuse energy storage with Neubidium, providing it with enhanced efficiency and improved conductive properties.",为储能注入 Neubidium，使其具有更高的效率和更好的导电性能。
+CURRENT,techtree_node_title_neubidiumfabrication,2624,Neubidium Fabrication,纽比迪昂(Neubidium) 制造
+CURRENT,techtree_node_caption_neubidiumfabrication,2624,"Infuse energy storage with Neubidium, providing it with enhanced efficiency and improved conductive properties.",为储能注入 纽比迪昂(Neubidium)，使其具有更高的效率和更好的导电性能。
 CURRENT,techtree_available_title,2624,RESEARCH AVAILABLE,现有研究
 CURRENT,mission_sectorjumpgate_title,2624,SECTOR OBJECTIVE: Activate the Jumpgate,星区目标：激活跳跃门
 CURRENT,mission_sectorjumpgate_description1,2624,The Jumpgate at the end of this sector has some requirements before it can be used.,本星区末端的跳跃门在使用前需要满足一些条件。
@@ -783,8 +783,8 @@ CURRENT,mission_sectorjumpgate_hostiles,2624,Eradicate hostile blockade,清除�
 CURRENT,mission_sectorjumpgate_hostiles2,2624,A fleet of hostile ships is attempting to blockade the jumpgate and extort money from ships passing through.,一支敌对舰队正试图封锁跳跃门，向通过的船只勒索钱财。
 CURRENT,mission_sectorjumpgate_hostiles3,2624,You'll need to clear them out before we can safely activate the jumpgate.,在我们能安全启动跳跃门之前，你需要先清除他们。
 CURRENT,object_energytransmitter_description,2624,"A large piece of equipment, capable of transmitting up to 200MW to the Stargate.",一个大型设备，能够向星门传输高达 200 兆瓦的电力。
-CURRENT,object_neubidiumore,2624,Neubidium Ore,纽比迪姆矿石
-CURRENT,object_neubidiumingot,2624,Neubidium Ingot,纽比迪姆锭
+CURRENT,object_neubidiumore,2624,Neubidium Ore,纽比迪昂(Neubidium)矿石
+CURRENT,object_neubidiumingot,2624,Neubidium Ingot,纽比迪昂(Neubidium)锭
 CURRENT,object_zeleongas,2624,Zeleon Gas,泽里昂气体
 CURRENT,object_stablezeleon,2624,Stable Zeleon,稳定泽里昂
 CURRENT,object_stargatecapacitor,2624,Stargate Capacitor,星门电容器
@@ -792,7 +792,7 @@ CURRENT,object_shieldedzeleoncanister,2624,Shielded Zeleon,屏蔽泽里昂
 CURRENT,object_shieldedcanistercomponent,2624,Shielded Canister,屏蔽罐
 CURRENT,object_energycellframecomponent,2624,Energy Cell Frame,能量电池框架
 CURRENT,object_zeleonenergycell,2624,Zeleon Energy Cell,泽里昂能量电池
-CURRENT,object_neubidiumcapacitor,2624,Neubidium Capacitor,纽比迪姆电容器
+CURRENT,object_neubidiumcapacitor,2624,Neubidium Capacitor,纽比迪昂(Neubidium)电容器
 CURRENT,alert_type_stargatelosingpower,2624,STARGATE LOSING POWER,星门失去动力
 CURRENT,alert_type_stargatelosingpower_caption,2624,*X MW / *Y MW Supplied,"*X MW / 已供应 *Y MW"
 CURRENT,alert_type_stargatelosingpower_tooltip,2624,The stargate isn't being supplied with enough power. Use energy transmitters to supply the Stargate with power.,星门没有获得足够的能量。使用能量发射器为星门供电。
@@ -861,7 +861,7 @@ CURRENT,tiddlets_part1_delivered4,2624,"Incredible work, Captain. I can't believ
 CURRENT,tiddlets_part1_delivered7,2624,"These findings will make an incredible research paper, Captain.  I'll be sure to credit you as the pilot who found the first living specimens.  I would offer to name the creatures after you, but they already have a name, so apologies for not being able to honour that tradition.",这些发现将成为一篇出色的研究论文 舰长  我一定会把你列为发现第一批活体标本的飞行员。  我本想用你的名字为这些生物命名，但它们已经有名字了，所以很抱歉不能尊重这一传统。
 CURRENT,tiddlets_part1_swanson4,2624,"Anyway, thank you for your work, Captain. Here's a reward for your efforts.",无论如何，谢谢你的工作，舰长。这是对你努力的回报
 CURRENT,tiddlets_part2_setup1,2624,"Welcome back, Captain! I must say, the corridors at the Institute have been alive with excitement over this wondrous new lifeform. My paper has already been provisionally accepted into all the top nature journals, which makes me so proud.",欢迎回来 舰长我得说，研究所的走廊里都在为这种奇妙的新生命形式而兴奋不已。我的论文已经被所有顶级自然杂志暂时录用，这让我非常自豪。
-CURRENT,tiddlets_part2_setup6,2624,"We need you to take the tiddlets on a series of specific hyperspace jumps. We will be recording the effect on their reproductive process and on their physiology. All... well, most of these experiments can be done hopefully without any harm coming to the creatures.",我们需要你带着小蝌蚪进行一系列特定的超空间跳跃。我们将记录下对它们繁殖过程和生理机能的影响所有......好吧，大部分实验都可以在不伤害生物的情况下完成。
+CURRENT,tiddlets_part2_setup6,2624,"We need you to take the tiddlets on a series of specific hyperspace jumps. We will be recording the effect on their reproductive process and on their physiology. All... well, most of these experiments can be done hopefully without any harm coming to the creatures.",我们需要你带着提德莱特(Tiddlets)进行一系列特定的超空间跳跃。我们将记录下对它们繁殖过程和生理机能的影响所有......好吧，大部分实验都可以在不伤害生物的情况下完成。
 CURRENT,tiddlets_part2_setup9,2624,"But with your permission, we can begin. Install the new sensors first, Captain. And be sure to stock up on FTL fuel if you need to. Three or four jumps ought to be enough.",但如果你允许，我们可以开始了先安装新的传感器 舰长如果需要的话，一定要储备好超光速燃料 And be sure to stock up on FTL fuel if you need to.三四次跳跃应该足够了 Three or four jumps ought to be enough.
 CURRENT,tiddlets_part2_shortjump1,2624,"*X Tiddlets so far.  This is all working very well, Captain.  Now onto the real science.",*X 到目前为止都是  一切顺利 舰长  现在开始真正的科学
 CURRENT,tiddlets_part2_finalexperiment1,2624,"*X Tiddlets now on board!  Fascinating, Captain.  It appears the Tiddlet reproductive process occurs even at incredibly short hyperspace distances.\nHow do they find the time?",*X 蒂德尔斯上船了  真有趣，舰长  看来，即使在超空间距离极短的情况下，提德雷特的繁殖过程也会发生。 ，他们是怎么找到时间的？\n
@@ -910,8 +910,8 @@ CURRENT,dsi_part2_thirdpartcomplete3,2624,"You should know that my Doctors conti
 CURRENT,trade_waitingfor,2501,Waiting for *X x *Y,等待 *X x *Y
 CURRENT,alert_type_autotradeinactive,2501,AUTO-TRADE INACTIVE,自动贸易不活跃
 CURRENT,alert_type_autotradeinactive_tooltip,2501,One or more of your auto-orders have been made inactive. This may be because you owe a large payment to X.,您的一个或多个自动订单已失效。这可能是因为您欠 X 一大笔货款。
-CURRENT,dsi_part1_objective_storescrap,2489,Store scrap metal near Smelter [*X/10],在冶炼厂附近储存废金属 [*X/10]
-CURRENT,dsi_part1_objective_storeingots,2489,Store Metal Ingots near Smelter [*X/10],在冶炼厂附近储存金属锭 [*X/10]
+CURRENT,dsi_part1_objective_storescrap,2489,Store scrap metal near Smelter [*X/10],在冶炼机附近储存废金属 [*X/10]
+CURRENT,dsi_part1_objective_storeingots,2489,Store Metal Ingots near Smelter [*X/10],在冶炼机附近储存金属锭 [*X/10]
 CURRENT,language_helpustranslate,2448,Help Us Translate!,帮助我们翻译！
 CURRENT,language_system,2481,System,系统
 CURRENT,settings_credit_tooltip,2475,With thanks to:,特别感谢：
@@ -1577,9 +1577,9 @@ CURRENT,techtree_node_caption_compactautomation,2448,Unlocks schematic for Short
 CURRENT,techtree_node_title_smartautomation,2448,Smart Robot Arms,智能机械臂
 CURRENT,techtree_node_caption_smartautomation,2448,Unlocks schematic for Smart Robot Arm,解锁智能机械臂原理图
 CURRENT,techtree_node_title_metallurgy1,2448,Metallurgy Level 1,冶金等级 1
-CURRENT,techtree_node_caption_metallurgy1,2448,Smelters produce 50% more output,冶炼厂产量增加 50%
+CURRENT,techtree_node_caption_metallurgy1,2448,Smelters produce 50% more output,冶炼机产量增加 50%
 CURRENT,techtree_node_title_metallurgy2,2448,Metallurgy Level 2,冶金等级 2
-CURRENT,techtree_node_caption_metallurgy2,2448,Smelters produce 100% more output,冶炼厂产量增加 100%
+CURRENT,techtree_node_caption_metallurgy2,2448,Smelters produce 100% more output,冶炼机产量增加 100%
 CURRENT,techtree_node_title_energytransmission,2448,Energy Transmission,能源传输
 CURRENT,techtree_node_caption_energytransmission,2448,Unlocks schematic for Energy Transmitter and Receiver,解锁能量发射器和接收器原理图
 CURRENT,techtree_node_title_droneintelligence,2448,Drone Intelligence,无人机智能
@@ -1616,7 +1616,7 @@ CURRENT,boost_reactorefficiency,2448,Reactor Efficiency +*X%,反应堆效率 +*X
 CURRENT,boost_smelterefficiency,2448,Smelter Efficiency +*X%,冶炼效率 +*X%
 CURRENT,boost_dronespeed,2448,Drone Top Speed +*X%,无人机最高速度 +*X%
 CURRENT,boost_trackspeed,2448,Track Speed +*X%,轨道速度 +*X%
-CURRENT,boost_robotarmspeed,2448,Robot Arm Speed +*X%,机器人手臂速度 +*X%
+CURRENT,boost_robotarmspeed,2448,Robot Arm Speed +*X%,机械臂速度 +*X%
 CURRENT,boost_wasterecyclingefficiency,2448,Waste Recycling Efficiency +*X%,废物回收效率 +*X%
 CURRENT,boost_waterrecyclingefficiency,2448,Water Recycling Efficiency +*X%,水循环利用率 +*X%
 CURRENT,boost_airrecyclingefficiency,2448,Air Recycling Efficiency +*X%,空气回收效率 +*X%
@@ -1803,7 +1803,7 @@ CURRENT,mission_industry_description,2448,"There is huge demand for FTL fuel cel
 CURRENT,mission_industry_description2,2448,"We can manufacture FTL Fuel, but we need Tilium ore that can only be found in certain asteroid belts.",我们可以制造超光速燃料，但我们需要泰利昂(Tilium)矿石，而泰利昂(Tilium)矿石只能在某些小行星带找到。
 CURRENT,mission_industry_description3b,2448,The nearest asteroid belt is in the next sector.,最近的小行星带在下一个区域。
 CURRENT,mission_industry_tiliumrequired,2448,Travel to the asteroid belt and extract *X Tilium ore.,前往小行星带，提取*X 泰利昂(Tilium)矿石。
-CURRENT,mission_industry_refinedrequired,2448,Then refine the mined ore in a Smelter.,然后在冶炼厂对开采出的矿石进行提炼。
+CURRENT,mission_industry_refinedrequired,2448,Then refine the mined ore in a Smelter.,然后在冶炼机对开采出的矿石进行提炼。
 CURRENT,mission_industry_description4,2448,Then drop the Ore off at any trading post to collect payment.,然后将矿石送到任何一个贸易站收款。
 CURRENT,mission_industry_requirements,2448,"This contract requires a suitable mining vessel, equipped with Mining Lasers and Logistics Drones.",这份合同需要一艘合适的采矿船，配备采矿激光器和后勤无人机。
 CURRENT,mission_industry_accepted1,2448,We've marked the asteroid belt location on your map.,我们已经在地图上标出了小行星带的位置。
@@ -1812,7 +1812,7 @@ CURRENT,mission_industry_return,2448,Return to a colony or shipyard system to de
 CURRENT,mission_industry_received,2448,We have received *X Tilium out of a total of *Y. Total payment due $*Z.,我们已收到*X 泰利昂(Tilium)，总金额为*Y 。应支付的总金额为$*Z 。
 CURRENT,mission_industry_meteorshower,2448,WARNING: There are reports of a meteor shower in that system. (+50% pay).,警告：有报告称该星系出现流星雨。(报酬+50%）。
 CURRENT,mission_industry_hostiles,2448,WARNING: There are hostile forces camped out near the asteroid belt. (+50% pay),警告：小行星带附近有敌军驻扎。(+50%报酬）
-CURRENT,mission_industry_refined,2448,"""==> The Tilium must first be refined in a Smelter prior to delivery. <==","""==&gt; 在交付之前，必须先在熔炼炉中提炼泰利昂(Tilium)。&lt;=="
+CURRENT,mission_industry_refined,2448,"""==> The Tilium must first be refined in a Smelter prior to delivery. <==","""==&gt; 在交付之前，必须先在冶炼机中提炼泰利昂(Tilium)。&lt;=="
 CURRENT,mission_industry_shuttle,2448,We've dispatched a shuttle to collect the Tilium Ore.,我们已经派出一艘穿梭机去采集泰利昂(Tilium)矿石了。
 CURRENT,mission_industry_lost,2448,There is no more Tilium on board your ship.,你的船上已经没有泰利昂(Tilium)了。
 CURRENT,mission_industry_success,2448,Extracted *X/*Y Ore,提取的*X/*Y 矿石
@@ -2034,8 +2034,8 @@ CURRENT,object_hyperspaceisotopes,2448,Hyperspace Isotopes,超空间同位素
 CURRENT,object_stableisotopes,2448,Stable Isotopes,稳定同位素
 CURRENT,object_seeds,2448,Seeds,种子
 CURRENT,object_seeds_description,2448,"A small bag of mixed vegetable seeds, that you might be able to grow in a Hydroponic Garden.",一小袋混合蔬菜种子，您可以在水培花园中种植。
-CURRENT,object_smelter,2448,Smelter,冶炼厂
-CURRENT,object_smelter_description,2448,"This industrial processing machine can melt ores into usable metal ingots. Once installed, click on it to change the ore type.",此工业加工机器可将矿石熔炼成可用的金属锭。安装后，点击它以更改矿石类型。
+CURRENT,object_smelter,2448,Smelter,冶炼机
+CURRENT,object_smelter_description,2448,"This industrial processing machine can melt ores into usable metal ingots. Once installed, click on it to change the ore type.",此工业加工机器可将矿石冶炼成可用的金属锭。安装后，点击它以更改矿石类型。
 CURRENT,object_sewagepipe,2448,Sewage Pipe,污水管道
 CURRENT,object_sewagepipe_description,2448,This pipe extracts sewage from the habitation deck above. You can then pipe the sewage into a storage tank and (eventually) reprocess it back into water.  The Pipe MUST BE DIRECTLY UNDER THE HABITATION DECK to function.,此管道从上方的居住甲板抽取污水。然后，您可以用管道将污水输送到储水箱中，并（最终）将其重新处理成水。此管道必须直接位于居住甲板下方方可生效。
 CURRENT,object_sewagemachine,2448,Waste Treatment Machine,废物处理机
@@ -2044,9 +2044,9 @@ CURRENT,object_waterpurifier,2448,Water Purifier,净水器
 CURRENT,object_waterpurifier_description,2448,Takes dirty water from sewage recycling or from naturally occurring ice - and purifies it into safe drinkable water.,接收来自污水回收或天然冰块的脏水，并将其净化为安全的饮用水。
 CURRENT,object_oxygenmaker,2448,Oxygen Maker,制氧机
 CURRENT,object_oxygenmaker_description,2448,Uses electrical power to extract Oxygen from Water.,消耗电力从水中提取氧气。
-CURRENT,object_scrubber,2448,CO2 Scrubber,二氧化碳洗涤器
+CURRENT,object_scrubber,2448,CO2 Scrubber,二氧化碳抽取器
 CURRENT,object_scrubber_description,2448,Extracts Carbon Dioxide from the atmosphere. Its output must be piped into a storage tank or it will become blocked.,从大气中提取二氧化碳。其输出必须通过管道输送至储罐，否则会发生堵塞。
-CURRENT,object_airreprocessor,2448,Air Reprocessor,空气后处理器
+CURRENT,object_airreprocessor,2448,Air Reprocessor,氧气转换器
 CURRENT,object_airreprocessor_description,2448,Converts CO2 into breathable Oxygen.,将二氧化碳转化为可呼吸的氧气。
 CURRENT,object_icegrinder,2448,Ice Grinder,磨冰机
 CURRENT,object_icegrinder_description,2448,"Grinds giant lumps of ice into small pieces, then warms the ice until it melts into liquid. The resulting water must be filtered before it is safe to drink.",将巨大的冰块研磨成碎块，然后加热直至融化成液体。由此产生的水必须经过过滤才能安全饮用。
@@ -2064,9 +2064,9 @@ CURRENT,object_munitionsfactory_description,2448,"A workbench where a skilled cr
 CURRENT,object_hydroponics,2448,Hydroponic Garden,水耕花园
 CURRENT,object_hydroponics_description,2448,"An enclosed greenhouse device that can be used to grow crops, in order to feed your crew.  Requires compost and water, and Seeds to get things started.",一种封闭式温室装置，可以用来种植作物，为你的船员提供食物。需要堆肥、水和种子来启动。
 CURRENT,object_fabricator,2448,Fabricator,制造机
-CURRENT,object_assembler,2448,Assembly Table,装配台
-CURRENT,object_robotarm,2448,Robot Arm,机器人手臂
-CURRENT,object_robotarmshort,2448,Short Robot Arm,短机器人手臂
+CURRENT,object_assembler,2448,Assembly Table,组装机
+CURRENT,object_robotarm,2448,Robot Arm,机械臂
+CURRENT,object_robotarmshort,2448,Short Robot Arm,短机械臂
 CURRENT,object_robotarmsmart,2448,Smart Robot Arm,智能机械臂
 CURRENT,object_track,2448,Track,轨道
 CURRENT,object_ruinedequipment,2448,Ruined Equipment,被毁坏的设备
@@ -2205,7 +2205,7 @@ CURRENT,alert_type_hullbreach,2448,HULL BREACH,船体破裂
 CURRENT,alert_type_hullbreach_caption,2448,Repair *X%,维修进度 *X%
 CURRENT,alert_type_hullbreach_tooltip,2448,"There is a hole in your ship hull and the cabin is depressurising. Your crew will fix the breach, but you should consider closing your Door Vents to seal off the area.",您的船体上有一个洞，船舱正在减压。您的船员会修复破洞，但您应该考虑关闭舱门通风口以封闭该区域。
 CURRENT,alert_type_co2,2448,CO2 WARNING,二氧化碳警告
-CURRENT,alert_type_co2_tooltip,2448,"There is a dangerous build up of CO2 inside your ship. If it reaches 100%, your crew will suffocate. Consider buying a CO2 Scrubber and connecting it to a storage tank.",您的飞船内正在积聚危险的二氧化碳。如果达到 100%，您的船员就会窒息。考虑购买一个二氧化碳洗涤器，并将其连接到一个储气罐。
+CURRENT,alert_type_co2_tooltip,2448,"There is a dangerous build up of CO2 inside your ship. If it reaches 100%, your crew will suffocate. Consider buying a CO2 Scrubber and connecting it to a storage tank.",您的飞船内正在积聚危险的二氧化碳。如果达到 100%，您的船员就会窒息。考虑购买一个二氧化碳抽取器，并将其连接到一个储气罐。
 CURRENT,alert_type_co2_caption,2448,*X% Fatal,致死率 *X%
 CURRENT,alert_type_oxygen,2448,Oxygen must be at 50% to be breathable.,氧气含量必须达到 50%，才可以呼吸。
 CURRENT,alert_type_meteorshower,2448,METEOR SHOWER,流星雨
@@ -2297,7 +2297,7 @@ CURRENT,tutorial_ftlconfirmorder,2448,Confirm the order.,确认订单。
 CURRENT,tutorial_ftldelivery,2448,A shuttle will deliver the items to us.,穿梭机会将物品送到我们这里。
 CURRENT,tutorial_stargatescreen_title,2448,STARGATE PROJECT,星门计划
 CURRENT,tutorial_fabrication_title,2448,FABRICATION,制造
-CURRENT,tutorial_smelters_title,2448,SMELTERS,冶炼厂
+CURRENT,tutorial_smelters_title,2448,SMELTERS,冶炼机
 CURRENT,tutorial_trade_title,2448,TRADE,贸易
 CURRENT,tutorial_fleetcrewarrival,2448,Your new crew will arrive by shuttle.,你的新船员将乘坐穿梭机抵达。
 CURRENT,tutorial_fleetwaitforpowerup,2448,Your crew will now power up the ship and bring the engines and life support online.,现在，您的船员将为飞船提供动力，启动引擎和生命支持系统。
@@ -2342,7 +2342,7 @@ CURRENT,tutorial_miningopenweaponscontrol,2448,Open the weapons control panel.,�
 CURRENT,tutorial_miningrange,2448,You can see the range of mining lasers by hovering over them. Mining lasers will fire at mineral patches in their field of fire.,将鼠标悬停在采矿激光器上方，就能看到它们的射程。采矿激光器会向其射程内的矿斑开火。
 CURRENT,tutorial_miningselecttarget,2448,Target a Tilium Ore patch by clicking on one while having a mining laser selected.,在选中采矿激光器的同时，点击一个泰利昂(Tilium)矿石补丁，瞄准该补丁。
 CURRENT,tutorial_mininggetinrange,2448,Move your ship until the mineral patch is in the range of fire.,移动飞船，直到矿斑进入射击范围。
-CURRENT,tutorial_miningwaitsmelter,2448,Perfect! Now wait for your smelter to smelt the Tilium Ore.,完美！现在就等着你的熔炼炉熔炼泰利昂(Tilium)矿石吧。
+CURRENT,tutorial_miningwaitsmelter,2448,Perfect! Now wait for your smelter to smelt the Tilium Ore.,完美！现在就等着你的冶炼机冶炼泰利昂(Tilium)矿石吧。
 CURRENT,tutorial_buyship_title,2448,PURCHASING SHIPS,购船
 CURRENT,tutorial_buyshipstart,2448,We are now going to learn about selecting and buying ships.,现在，我们将学习如何选择和购买船只。
 CURRENT,episode_part1,2448,PART 1,第 1 部分
@@ -2484,18 +2484,18 @@ CURRENT,blackhole_part2_setup2,2448,"I've completed work on the modified FTL dri
 CURRENT,blackhole_part2_setup3,2448,"With this FTL drive you'll be capable of performing an extremely short range FTL Hop in close proximity to the black hole.  You'll emerge directly on top of my twin brother's ship, and perform the rescue.",有了这个超光速驱动器，你就能在黑洞附近进行一次极短距离的超光速跳跃。  你会直接出现在我孪生兄弟的飞船顶部，并实施营救。
 CURRENT,blackhole_part2_setup4,2448,You'll need to make two jumps - one in and one out.  I've checked and double checked the calculations.  I'll need your help to make two FTL charges that work with the modified FTL Hop Drive.,您需要进行两次跳跃--一进一出。  我已经反复检查过计算结果了。  我需要你帮忙制造两个超光速充能器，与改装过的超光速合体驱动器配合使用。
 CURRENT,blackhole_part2_setup5,2448,"I'll need quite a lot of Tilium Crystals for the FTL charges.  Tilium ore can be mined from just about any asteroid belt in the system - but you will need a Mining Laser to do it, and Drones to collect the mineral.",我需要大量的泰利昂(Tilium)晶体来充当超光速燃料。  泰利昂(Tilium)矿石几乎可以从系统中的任何小行星带开采出来--但你需要一台激光采矿机和无人机来采集矿石。
-CURRENT,blackhole_part2_setup6,2448,You'll then need a Smelter to process the ore into Tilium Crystals.  I have most of the equipment you'll need here.  If you dock with my ship I can send it over.,然后，您需要一个冶炼厂将矿石加工成提里米晶体。  我这里有你需要的大部分设备。  如果你停靠我的飞船，我可以把它送过来。
+CURRENT,blackhole_part2_setup6,2448,You'll then need a Smelter to process the ore into Tilium Crystals.  I have most of the equipment you'll need here.  If you dock with my ship I can send it over.,然后，您需要一个冶炼机将矿石加工成泰利昂(Tilium)晶体。  我这里有你需要的大部分设备。  如果你停靠我的飞船，我可以把它送过来。
 CURRENT,blackhole_part2_objective_dock,2448,Dock with Julian Martinez,与朱利安-马丁内斯对接
 CURRENT,blackhole_part2_objective_lasers,2448,Receive 2x Mining Lasers,接收 2x 采矿激光器
 CURRENT,blackhole_part2_objective_drones,2448,Receive Logistics Drone,接收货运无人机
 CURRENT,blackhole_part2_objective_dronebay,2448,Receive Drone Bay,接收无人机湾
-CURRENT,blackhole_part2_objective_smelter,2448,Receive 1x Smelter,获得 1x 熔炉
-CURRENT,blackhole_part2_setup7,2448,Take those Mining Lasers and the drones and find an asteroid belt with some Tilium deposits.  Point the mining lasers at the Tilium and use the drones to collect the mineral.,带上采矿激光器和无人机，找到一个蕴藏着钛铁矿的小行星带。  将采矿激光对准钛铁矿，然后使用无人机收集矿石。
-CURRENT,blackhole_part2_setup8,2448,Once you've mined the resource you'll need to refine it into Tilium Crystals using the Smelter I've provided.,开采出资源后，您需要使用我提供的熔炼炉将其提炼成 Tilium 晶体。
-CURRENT,blackhole_part2_objective_totilium,2448,Travel to an asteroid belt with Tilium deposits,前往一个蕴藏纤云的小行星带
-CURRENT,blackhole_part2_objective_mine,2448,Mine Tilium Ore [*X/*Y],开采钛铁矿 [*X/*Y]
-CURRENT,blackhole_part2_objective_refine,2448,Refine Tilium Crystals [*X/*Y],提炼 Tilium 晶体 [*X/*Y]
-CURRENT,blackhole_part2_objective_return,2448,Return the Tilium Crystals to Dr. Martinez [*X/*Y],把 Tilium 晶体还给马丁内斯博士 [*X/*Y]
+CURRENT,blackhole_part2_objective_smelter,2448,Receive 1x Smelter,获得 1x 冶炼机
+CURRENT,blackhole_part2_setup7,2448,Take those Mining Lasers and the drones and find an asteroid belt with some Tilium deposits.  Point the mining lasers at the Tilium and use the drones to collect the mineral.,带上采矿激光器和无人机，找到一个蕴藏着泰利昂(Tilium)矿藏的小行星带。  将采矿激光对准泰利昂(Tilium)，然后使用无人机收集矿石。
+CURRENT,blackhole_part2_setup8,2448,Once you've mined the resource you'll need to refine it into Tilium Crystals using the Smelter I've provided.,开采出资源后，您需要使用我提供的冶炼机将其提炼成泰利昂(Tilium)晶体。
+CURRENT,blackhole_part2_objective_totilium,2448,Travel to an asteroid belt with Tilium deposits,前往一个蕴藏泰利昂(Tilium)矿藏的小行星带
+CURRENT,blackhole_part2_objective_mine,2448,Mine Tilium Ore [*X/*Y],开采泰利昂(Tilium)矿石 [*X/*Y]
+CURRENT,blackhole_part2_objective_refine,2448,Refine Tilium Crystals [*X/*Y],提炼泰利昂(Tilium)晶体 [*X/*Y]
+CURRENT,blackhole_part2_objective_return,2448,Return the Tilium Crystals to Dr. Martinez [*X/*Y],把泰利昂(Tilium)晶体还给马丁内斯博士 [*X/*Y]
 CURRENT,blackhole_part2_finished2,2448,"I know the Stargate Project have been in touch and I know they want their data.  I get that, but let's remember the priority is safely recovering my brother.  Sometimes they take people for granted.",我知道星门计划一直在联系我 我知道他们想要他们的数据  我明白 但我们要记住 首要任务是安全找回我弟弟  有时他们会想当然
 CURRENT,blackhole_part2_finished3,2448,I'll contact you when I'm ready to begin the rescue.,当我准备好开始救援时，我会联系你的。
 CURRENT,blackhole_part2_stargate1,2448,"We heard about your involvement with the Martinez rescue mission and we wanted to offer our support.  The twins have been hugely important to the project from the beginning, and the data they have provided has enabled many of our biggest advancements.",我们听说了你们参与马丁内斯营救任务的事，我们想提供支持。  这对双胞胎姐妹从一开始就对这个项目非常重要，她们提供的数据使我们取得了许多最大的进展。
@@ -2816,9 +2816,9 @@ CURRENT,tutorial_dsismelterrecipes,2448,RECIPES,配方
 CURRENT,tutorial_dsidismantle,2448,Dismantling equipment removes it from your ship and places it in a box so you can install it later.,拆卸设备可将其从飞船上拆下并放入一个盒子中，以便以后安装。
 CURRENT,tutorial_dsihighlightruinedequipment,2448,"This equipment is ruined, so you'll receive scrap metal when you dismantle it.",这些设备已被毁坏，拆卸时会得到废金属。
 CURRENT,tutorial_dsiclicktodismantle,2448,Any equipment can be dismantled by left-clicking.,任何设备都可以通过左键单击进行拆卸。
-CURRENT,tutorial_dsihighlightsmelter,2448,Let's use the scrap metal to produce metal ingots in the smelter. Right-click on the smelter.,让我们用废金属在熔炼炉中生产金属锭。右键单击熔炼炉。
-CURRENT,tutorial_dsisetrecipe,2448,Right-clicking on equipment allows you to set recipes. Set the smelter recipe to scrap metal.,右键单击设备可以设置配方。将熔炼炉配方设置为废金属。
-CURRENT,tutorial_dsisetupdone,2448,The smelter will now start producing metal ingots after it has finished heating up.,熔炼炉在完成加热后将开始生产金属锭。
+CURRENT,tutorial_dsihighlightsmelter,2448,Let's use the scrap metal to produce metal ingots in the smelter. Right-click on the smelter.,让我们用废金属在冶炼机中生产金属锭。右键单击冶炼机。
+CURRENT,tutorial_dsisetrecipe,2448,Right-clicking on equipment allows you to set recipes. Set the smelter recipe to scrap metal.,右键单击设备可以设置配方。将冶炼机配方设置为废金属。
+CURRENT,tutorial_dsisetupdone,2448,The smelter will now start producing metal ingots after it has finished heating up.,冶炼机在完成加热后将开始生产金属锭。
 CURRENT,tutorial_stargatewindowopenwindow,2448,Select the Stargate button in your toolbar to open the Stargate screen.,选择工具栏中的星门按钮，打开星门界面。
 CURRENT,tutorial_stargatewindowintro,2448,The Stargate screen displays everything you need to manufacture to complete the current phase.,星门屏幕会显示完成当前阶段所需的一切制造过程。
 CURRENT,tutorial_stargatewindowhighlightphases,2448,"The Stargate's construction is split into phases, with each phase requiring more and more resources.\nYou have just completed Phase 1.",星门的建造分为几个阶段，每个阶段都需要越来越多的资源。\n您刚刚完成了第一阶段。
@@ -2866,18 +2866,18 @@ CURRENT,dsi_part1_objective_installreactor,2448,Install Reactor,安装反应堆
 CURRENT,dsi_part1_objective_installairduct,2448,Install Airduct,安装气导管
 CURRENT,dsi_part1_objective_pressurisefacility,2448,Pressurise Facility [*X%],给设施加压 [*X%]
 CURRENT,dsi_part1_installsmelter1,2448,"We need to tidy up the mess, but nothing needs to be wasted.  We can recycle all of the raw materials found on this station.",我们需要收拾残局，但不能浪费任何东西。  我们可以回收利用这个空间站里的所有原材料。
-CURRENT,dsi_part1_installsmelter2,2448,"There is an industrial smelter among the boxed equipment.  Install it and power it up, then set it to recycling all of the scrap metal.  This will give us an early supply of Metal Ingots.  A critical resource in manufacturing anything.",盒装设备中有一个工业熔炉。  安装并启动它，然后将其设置为回收所有废金属。  这样我们就能尽早获得金属锭。  这是制造任何物品的关键资源。
-CURRENT,dsi_part1_objective_installsmelter,2448,Install Smelter,安装熔炉
-CURRENT,dsi_part1_objective_setsmelter,2448,Set Smelter to Scrap Metal,将熔炼炉设置为废金属
+CURRENT,dsi_part1_installsmelter2,2448,"There is an industrial smelter among the boxed equipment.  Install it and power it up, then set it to recycling all of the scrap metal.  This will give us an early supply of Metal Ingots.  A critical resource in manufacturing anything.",盒装设备中有一个工业冶炼机。  安装并启动它，然后将其设置为回收所有废金属。  这样我们就能尽早获得金属锭。  这是制造任何物品的关键资源。
+CURRENT,dsi_part1_objective_installsmelter,2448,Install Smelter,安装冶炼机
+CURRENT,dsi_part1_objective_setsmelter,2448,Set Smelter to Scrap Metal,将冶炼机设置为废金属
 CURRENT,dsi_part1_objective_dismantleequipment,2448,Dismantle ruined equipment,拆除毁坏的装备
-CURRENT,dsi_part1_setupstorage1,2448,"Efficiency is going to be the key to this facility turning a profit.  Set up a storage zone for scrap metal near to your Smelter, and another for the Metal Ingots that come out.  Our crew will waste a lot less time carrying goods long distances.",效率将是该设施实现盈利的关键。  在冶炼厂附近设立一个废金属储存区，另一个储存区则用来存放生产出来的金属锭。  这样，我们的员工就能减少长途运输的时间浪费。
+CURRENT,dsi_part1_setupstorage1,2448,"Efficiency is going to be the key to this facility turning a profit.  Set up a storage zone for scrap metal near to your Smelter, and another for the Metal Ingots that come out.  Our crew will waste a lot less time carrying goods long distances.",效率将是该设施实现盈利的关键。  在冶炼机附近设立一个废金属储存区，另一个储存区则用来存放生产出来的金属锭。  这样，我们的员工就能减少长途运输的时间浪费。
 CURRENT,dsi_part1_manufactureframes1,2448,"If I could draw your attention to this schematic issued by the Andromeda Project.  You can see it's actually quite a simple part.  This is just a structural framework, onto which they'll build everything else.","请大家看一下 ""仙女座计划 ""发布的示意图。  你可以看到这其实是个很简单的部分  这只是一个结构框架 他们会在上面建造其他的东西"
-CURRENT,dsi_part1_manufactureframes2,2448,"We can manufacture these parts in just two stages out of Metal Ingots.  I've left a boxed Fabricator and an Assembly Table on the station.  Set them up next to each other, ideally near to the Metal Ingots.",我们只需两道工序就能用金属锭制造出这些部件。  我在空间站上留下了一个盒装制造机和一个装配台。  把它们摆放在一起，最好靠近金属锭。
-CURRENT,dsi_part1_manufactureframes3,2448,"Once they're installed, set the Fabricator to manufacture Frames, then set the Assembly Table to specialise them into finished Stargate Frames.  It's simple stuff, but eventually we will need a huge throughput.",安装完成后，设置制造器制造框架，然后设置装配台将其加工成成品星门框架。  这很简单，但最终我们将需要巨大的吞吐量。
-CURRENT,dsi_part1_objective_installfabricator,2448,Install Fabricator,安装制造者
-CURRENT,dsi_part1_objective_setfabricator,2448,Set Fabricator to Frames,将制造器设置为框架
-CURRENT,dsi_part1_objective_installassemblytab,2448,Install Assembly Table,安装装配台
-CURRENT,dsi_part1_objective_setassemblytab,2448,Set Assembly Table to Stargate Frames,将组装台设置为星门框架
+CURRENT,dsi_part1_manufactureframes2,2448,"We can manufacture these parts in just two stages out of Metal Ingots.  I've left a boxed Fabricator and an Assembly Table on the station.  Set them up next to each other, ideally near to the Metal Ingots.",我们只需两道工序就能用金属锭制造出这些部件。  我在空间站上留下了一个盒装制造机和一个组装机。  把它们摆放在一起，最好靠近金属锭。
+CURRENT,dsi_part1_manufactureframes3,2448,"Once they're installed, set the Fabricator to manufacture Frames, then set the Assembly Table to specialise them into finished Stargate Frames.  It's simple stuff, but eventually we will need a huge throughput.",安装完成后，设置制造机制造框架，然后设置组装机将其加工成成品星门框架。  这很简单，但最终我们将需要巨大的吞吐量。
+CURRENT,dsi_part1_objective_installfabricator,2448,Install Fabricator,安装制造机
+CURRENT,dsi_part1_objective_setfabricator,2448,Set Fabricator to Frames,将制造机设置为框架
+CURRENT,dsi_part1_objective_installassemblytab,2448,Install Assembly Table,安装组装机
+CURRENT,dsi_part1_objective_setassemblytab,2448,Set Assembly Table to Stargate Frames,将组装机设置为星门框架
 CURRENT,dsi_part1_manufactureframes4,2448,"They want us to provide an initial batch of 10 Stargate Frames, for certification.  They'll inspect our work and we'll be approved as official partners in the Andromeda Project.",他们要我们提供首批10个星门框架 以供认证  他们会检查我们的工作 我们将被批准成为仙女座计划的正式合作伙伴
 CURRENT,dsi_part1_manufactureframes5,2448,"It shouldn't take too long.  If you run out of metal, remember you can recycle more of the ruined equipment around the facility.",这不需要太长时间。  如果金属用完了，请记住您可以回收更多设施周围的废旧设备。
 CURRENT,dsi_part1_objective_manufactureframes,2448,Manufacture Stargate Frames [*X/10],制造星门框架 [*X/10]
@@ -2887,8 +2887,8 @@ CURRENT,dsi_part1_callfromrep3,2448,"Thank you for your endeavours, and good luc
 CURRENT,dsi_part1_openstargatescreen,2448,"Excellent.  Let's have a look at the Manifest that he mentioned, and see what is required next.",非常好。  让我们来看看他提到的清单，看看接下来需要做什么。
 CURRENT,dsi_part1_phase2_xcall1,2448,"It looks like it's just a bulk order of the part we already provided.  We need to make 200 more Stargate Frames.  We're already manufacturing them, but we'll need to scale up production or else this will take forever.",看起来只是批量订购我们已经提供的部件。  我们需要再制造 200 个星门框架。  我们已经在生产了，但我们需要扩大生产规模，否则会花很长时间。
 CURRENT,dsi_part1_phase2_xcall2,2448,"I'm releasing some of the seed money to you.  $600,000 should be enough for you to buy all the equipment we need to scale up.  Remember this isn't a gift.  I still own this station, and all the equipment onboard.",我把一部分种子资金给你们。  60 万美元应该足够你们购买我们扩大规模所需的所有设备。  记住这不是礼物  我仍然拥有这个站和所有的设备
-CURRENT,dsi_part1_phase2_xcall3,2448,"I suggest you buy more Smelters, more Fabricators, and more Assembly Tables.  A couple of each at least.  All that equipment will draw more juice, so you'll need to expand the power network with more Reactors and Batteries to cope.  And you'll need more crew to do the work.",我建议你购买更多的熔炼炉、制造机和装配台。  至少每种都要买几个。  所有这些设备都会消耗更多的能源，所以你需要用更多的反应堆和电池来扩大电力网络。  你还需要更多的工作人员来完成这些工作。
-CURRENT,dsi_part1_phase2_xcall4,2448,"If you run out of Metal Ingots, you should be able to buy raw materials from the open Marketplace.  You can usually buy more Scrap Metal, but you'll also find Metallic Minerals for sale which can also be smelted into Metal Ingots.",如果金属锭用完了，可以在开放的市场上购买原材料。  您通常可以买到更多的废金属，但您也可以找到金属矿物出售，它们也可以熔炼成金属锭。
+CURRENT,dsi_part1_phase2_xcall3,2448,"I suggest you buy more Smelters, more Fabricators, and more Assembly Tables.  A couple of each at least.  All that equipment will draw more juice, so you'll need to expand the power network with more Reactors and Batteries to cope.  And you'll need more crew to do the work.",我建议你购买更多的冶炼机、制造机和组装机。  至少每种都要买几个。  所有这些设备都会消耗更多的能源，所以你需要用更多的反应堆和电池来扩大电力网络。  你还需要更多的工作人员来完成这些工作。
+CURRENT,dsi_part1_phase2_xcall4,2448,"If you run out of Metal Ingots, you should be able to buy raw materials from the open Marketplace.  You can usually buy more Scrap Metal, but you'll also find Metallic Minerals for sale which can also be smelted into Metal Ingots.",如果金属锭用完了，可以在开放的市场上购买原材料。  您通常可以买到更多的废金属，但您也可以找到金属矿物出售，它们也可以冶炼成金属锭。
 CURRENT,dsi_part1_objective_scaleupproduction,2448,Scale up production,扩大生产规模
 CURRENT,dsi_part1_objective_smeltmetallicminerals,2448,Start smelting Metallic Minerals [*X/200],开始冶炼金属矿物 [*X/200]
 CURRENT,dsi_part1_objective_produceframes,2448,Produce 200 Stargate Frames [*X/200],制作 200 个星门框架 [*X/200]
@@ -2912,8 +2912,8 @@ CURRENT,dsi_part2_objective_isotopes,2448,Manufacture Stable Isotopes [*X/100],�
 CURRENT,dsi_part2_objective_takecontrol,2448,Take control of the A.J.E Foundry,控制 A.J.E 铸造厂
 CURRENT,dsi_part2_action_takecontrol,2448,Take control of station,控制空间站
 CURRENT,dsi_part2_actuatorsintro1,2448,"I propose we expand and upgrade the Station into a mining facility.  If we install Engines we can move to a rich asteroid vein, then Mining Lasers and Logistics Drones will give us the capability to harvest the raw materials we need.",我建议我们将空间站扩建升级为采矿设施。  如果我们安装了引擎，就能移动到富饶的小行星矿脉，然后采矿激光器和货运无人机就能让我们收获所需的原材料。
-CURRENT,dsi_part2_actuatorsintro2,2448,"The Stargate Actuators are made on the Assembly Table as normal, and they require a Stargate Frame and a Motor. Motors can be made in fabricators.",星门推杆和普通推杆一样在装配台上制造，它们需要一个星门框架和一个电机。电机可以在制造台上制造。
-CURRENT,dsi_part2_actuatorsintro3,2448,"You'll need to mine Metallic Minerals and Copper Minerals, then melt those materials into ingots in an array of Smelters.  You can then fabricate the Motors and Frames, and finally assemble them into Stargate Actuators.",您需要开采金属矿物和铜矿物，然后在一系列熔炼炉中将这些材料熔炼成铜锭。  然后，您可以制造电机和框架，最后将它们组装成星门传动装置。
+CURRENT,dsi_part2_actuatorsintro2,2448,"The Stargate Actuators are made on the Assembly Table as normal, and they require a Stargate Frame and a Motor. Motors can be made in fabricators.",星门推杆和普通推杆一样在组装机上制造，它们需要一个星门框架和一个电机。电机可以在制造机上制造。
+CURRENT,dsi_part2_actuatorsintro3,2448,"You'll need to mine Metallic Minerals and Copper Minerals, then melt those materials into ingots in an array of Smelters.  You can then fabricate the Motors and Frames, and finally assemble them into Stargate Actuators.",您需要开采金属矿物和铜矿物，然后在一系列冶炼机中将这些材料冶炼成铜锭。  然后，您可以制造电机和框架，最后将它们组装成星门传动装置。
 CURRENT,dsi_part2_actuatorsintro4,2448,"I'll release some more of the seed capital to cover the costs of the upgrade, but you can take care of the details.",我会再释放一些种子资金，以支付升级的费用，但具体细节就交给你们了。
 CURRENT,dsi_part2_objective_installlasers,2448,Install mining lasers,安装采矿激光器
 CURRENT,dsi_part2_objective_installdrones,2448,Install logistics drones,安装货运无人机
