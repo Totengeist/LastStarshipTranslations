@@ -1,253 +1,60 @@
 ﻿state,key,svn,english,translation
-UPDATED,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,Varje komponent som du behöver tillverka finns till höger.\nGenom att placera musen över en komponents ikon visas hur du tillverkar den.
-PREVIOUS,tutorial_stargatewindowhighlightcomponent,2624,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,Varje komponent som du behöver tillverka finns till vänster.\nOm du placerar musen över en komponents ikon visas hur du tillverkar den.
-CURRENT,logistics_tooltip_skiporder,3248,Skip currently executing order,Hoppa över pågående order
-CURRENT,logistics_tooltip_loop,3248,Loop execution,Exekvering av loop
-CURRENT,thefinalstand_artemis1,3248,Hello again Captain!,"Hej igen, kapten!"
-CURRENT,thefinalstand_artemis2,3248,"After some careful analysis of the Stargate's blueprints, I have found the backdoor that the late Alexander James Elistar has left you.",Efter en noggrann analys av Stargates ritningar har jag hittat den bakdörr som den avlidne Alexander James Elistar lämnade till dig.
-CURRENT,thefinalstand_artemis3,3248,You will use this backdoor to upload a small virus that I have written to their command centre within the HQ. It will disable the station's offensive capabilities and place itself under your command.,Du kommer att använda den här bakdörren för att ladda upp ett litet virus som jag har skrivit till deras kommandocentral i högkvarteret. Det kommer att inaktivera stationens offensiva kapacitet och placera sig själv under ditt kommando.
-CURRENT,thefinalstand_boss_artemis1,3248,"Captain, I can route a signal to their powergrid and overload their generators, tell me when to trigger it!","Kapten, jag kan skicka en signal till deras kraftnät och överbelasta deras generatorer, säg när jag ska utlösa det!"
-CURRENT,thefinalstand_end_objective_leave,3248,Leave the HQ,Lämna högkvarteret
-CURRENT,thefinalstand_harken2,3248,"The Andromeda Project has moved their HQ and all key personell into an unknown location in the new sector, where we believe they are controlling the Stargate.","Andromedaprojektet har flyttat sitt huvudkontor och all nyckelpersonal till en okänd plats i den nya sektorn, där vi tror att de kontrollerar Stargate."
-CURRENT,thefinalstand_harken3,3248,"My plan is to use our fleets to take control of the HQ by force. Any and all damage to the HQ should be avoided, many innocent lives are on-board and the loss of life from destroying it would be far too great.\nI have devised a plan with an old friend of yours that should minimise casualties...","Min plan är att använda våra flottor för att ta kontroll över högkvarteret med våld. All skada på högkvarteret bör undvikas, många oskyldiga finns ombord och förlusten av liv genom att förstöra det skulle vara alldeles för stor.\nJag har utarbetat en plan med en gammal vän till dig som bör minimera förlusterna ..."
-CURRENT,thefinalstand_harken4,3248,"While you neutralise the HQ, my fleet will fight off the Andromeda Project navy. Once the battle is over, I will take control of the HQ and arrest everyone involved. Their conglomerate will be dismantled.","Medan du neutraliserar högkvarteret, kommer min flotta att bekämpa Andromedaprojektets flotta. När striden är över tar jag kontroll över högkvarteret och arresterar alla inblandade. Deras konglomerat kommer att monteras ner."
-CURRENT,thefinalstand_harken5,3248,The Stargate will fall back into your sole control. I've marked an allied shipyard on your map. I'll hide out there in the mean-time.,Stargate kommer att falla tillbaka i din kontroll. Jag har markerat ett allierat skeppsvarv på din karta. Jag gömmer mig där ute under tiden.
-CURRENT,thefinalstand_harken6,3248,Meet me to discuss the plan further. Goodbye for now.,Träffa mig för att diskutera planen vidare. Adjö för nu.
-CURRENT,thefinalstand_boss_harken2,3248,This is the Andromeda Navy's flagship! You should have access to its command centre from the HQ!,Det här är Andromedaflottans flaggskepp! Du borde ha tillgång till dess kommandocentral från högkvarteret!
-CURRENT,industryend_message,3248,"Now the Andromeda HQ has been captured, Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind spreads beyond our home galaxy and into the future.","Nu när Andromedas högkvarter har intagits kommer Harken och det intergalaktiska säkerhetsrådet att upplösa Andromedaprojektets konglomerat och återta kontrollen över Stargate, till gagn för hela mänskligheten.  Ett nytt kapitel har inletts, när mänskligheten sprider sig bortom vår hemgalax och in i framtiden."
-CURRENT,bravenewsector_part4_rep9,3244,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy and the Andromeda galaxy.,Hej kapten. Den nyligen färdigställda Stargate har satt Andromedaprojektet i en stark position att kontrollera flödet av resurser och människor mellan denna galax och Andromedagalaxen.
-CURRENT,thefinalstand_battleprep_1,3244,"Hello Captain, it's good to see you. These are all of the ships I control in this sector, the rest are on the other side of the Stargate, unable to reach us.","Hej kapten, det är trevligt att se dig. Det här är alla skepp jag kontrollerar i den här sektorn, resten är på andra sidan av Stargate och kan inte nå oss."
-CURRENT,thefinalstand_battle_rep1,3244,Commander Harken! I see that my first fleet has failed to deal with you. I suppose if I want something done properly I should do it myself.,Kommendörkapten Harken! Jag ser att min första flotta har misslyckats med att ta hand om dig. Jag antar att om jag vill ha något gjort ordentligt så borde jag göra det själv.
-CURRENT,newmainmenu_continue,3239,CONTINUE GAME,FORTSÄTT SPELA
-CURRENT,hud_ftlshipblockedfromftl,3239,Ship cannot enter hyperspace with your fleet,Fartyget kan inte gå in i hyperrymden med din flotta
-CURRENT,hud_window_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,INTERSTELLÄR LOGISTIK
-CURRENT,andromeda_travel,3239,ANDROMEDA JOURNEY,ANDROMEDAS RESA
-CURRENT,trade_autohireat,3239,HIRE BELOW,ANSTÄLLNING NEDAN
-CURRENT,trade_autosackat,3239,SACK ABOVE,SÄCK OVANFÖR
-CURRENT,trade_autoembarkat,3239,EMBARK BELOW,EMBARKERA NEDAN
-CURRENT,trade_autodisembarkat,3239,DISEMBARK BELOW,GÅ I LAND NEDANFÖR
-CURRENT,trade_tooltip_hire,3239,[LMB] Hire,[LMB] Hyrbil
-CURRENT,trade_tooltip_embark,3239,[LMB] Embark,[LMB] Gå ombord
-CURRENT,trade_tooltip_disembark,3239,[LMB] Disembark,[LMB] Avstigning
-CURRENT,trade_hiring,3239,Hiring *X,Anställning *X
-CURRENT,trade_embarking,3239,Embarking *X,Ombordstigning *X
-CURRENT,trade_disembarking,3239,Disembarking *X,Avstigning *X
-CURRENT,trade_order_hire_on_sell_screen,3239,(HIRE *X),(HIRE *X)
-CURRENT,trade_order_embark_on_sell_screen,3239,(EMBARK *X),(EMBARK *X)
-CURRENT,trade_order_disembark_on_buy_screen,3239,(DISEMBARK *X),(DISEMBARK *X)
-CURRENT,trade_hire,3239,HIRE,UTHYRNING
-CURRENT,trade_embark,3239,EMBARK,EMBARK
-CURRENT,trade_disembark,3239,DISEMBARK,DISEMBARK
-CURRENT,techtree_node_title_atmosphericprocessing,3239,Atmospheric Processing,Atmosfärisk bearbetning
-CURRENT,techtree_node_caption_atmosphericprocessing,3239,Unlocks schematics for hardware required to maintain a breathable atmosphere,Låser upp scheman för hårdvara som krävs för att upprätthålla en andningsbar atmosfär
-CURRENT,techtree_node_title_atmosphericprocessing2,3239,Atmospheric Processing 2,Atmosfärisk bearbetning 2
-CURRENT,techtree_node_caption_atmosphericprocessing2,3239,Unlocks more schematics for hardware required to maintain a breathable atmosphere,Låser upp fler scheman för hårdvara som krävs för att upprätthålla en andningsbar atmosfär
-CURRENT,techtree_node_title_wasteprocessing,3239,Waste Processing,Avfallshantering
-CURRENT,techtree_node_caption_wasteprocessing,3239,Unlocks schematics for hardware to capture and reprocess human waste,Låser upp ritningar till hårdvara för att fånga upp och återanvända mänskligt avfall
-CURRENT,special_advancedlogistics,3239,Interstellar Logistics,Interstellär logistik
-CURRENT,tactical_dockingassistant,3239,DOCKING ASSIST,DOCKING ASSIST
-CURRENT,tactical_fleetformation,3239,FLEET FORMATION,FLOTTBILDNING
-CURRENT,tactical_fleetcombat,3239,FLEET COMBAT AI,FLEET COMBAT AI
-CURRENT,tactical_on,3239,ON,ON
-CURRENT,tactical_off,3239,OFF,OFF
-CURRENT,tactical_tooltip_dockingassistant,3239,"When enabled, the Docking Assistant will perform the final maneuovers required to dock your ship with another, once you are close enough.\n\nIt is recommended you disable Fleet Formation when attempting to dock.","När den är aktiverad kommer dockningsassistenten att utföra de sista manövrerna som krävs för att docka ditt skepp med ett annat, när du är tillräckligt nära.\n\nDet rekommenderas att du avaktiverar Fleet Formation när du försöker docka."
-CURRENT,tactical_tooltip_fleetformation,3239,"When enabled, all of the fleet ships within a system will fly together in close formation, following the lead of whichever ship you are directly controlling.",När den är aktiverad kommer alla flottans skepp inom ett system att flyga tillsammans i tät formation och följa det skepp som du direkt kontrollerar.
-CURRENT,tactical_tooltip_fleetcombat,3239,"When enabled, your other fleet ships will take care of themselves during combat, moving to optimal range and engaging as best they can.","När den är aktiverad kommer dina andra flottskepp att ta hand om sig själva under striden, förflytta sig till optimalt avstånd och engagera sig så gott de kan."
-CURRENT,tactical_tooltip_weapon,3239,[LMB] Select weapon\n[SHIFT-LMB] Select multiple weapons\n[RMB] Clear current target,[LMB] Välj vapen\n[SHIFT-LMB] Välj flera vapen\n[RMB] Rensa aktuellt mål
-CURRENT,tactical_tooltip_auto,3239,AUTO-TARGETTING\n[LMB] Enable auto-targetting\n[RMB] Disable auto-targetting,AUTO-TARGETTING\n[LMB] Aktivera auto-targeting\n[RMB] Avaktivera auto-targeting
-CURRENT,logistics_tooltip_add,3239,[LMB] Add,[LMB] Lägg till
-CURRENT,logistics_tooltip_remove_rmb,3239,[RMB] Remove,[RMB] Ta bort
-CURRENT,logistics_tooltip_cancel,3239,[RMB] Cancel,[RMB] Annullera
-CURRENT,logistics_tooltip_shift,3239,[SHIFT] x5,[SHIFT] x5
-CURRENT,logistics_tooltip_control,3239,[CTRL] x50,[CTRL] x50
-CURRENT,advancedlogisticswindow_title,3239,INTERSTELLAR LOGISTICS,INTERSTELLÄR LOGISTIK
-CURRENT,logistics_system_select,3239,LOCATION,PLATS
-CURRENT,logistics_create_order,3239,Create Order,Skapa order
-CURRENT,logistics_loop,3239,Loop,Slinga
-CURRENT,logistics_order_none,3239,Order Type,Beställningstyp
-CURRENT,logistics_order_mine,3239,Mine,Gruva
-CURRENT,logistics_order_collect,3239,Collect Gas,Samla in gas
-CURRENT,logistics_order_buy,3239,Buy,Köp
-CURRENT,logistics_order_sell,3239,Sell,Sälja
-CURRENT,logistics_order_transferto,3239,Transfer To,Överföring till
-CURRENT,logistics_order_transferfrom,3239,Transfer From,Överföring från
-CURRENT,logistics_condition_none,3239,Amount,Belopp
-CURRENT,logistics_condition_quantity,3239,Quantity,Kvantitet
-CURRENT,logistics_condition_stacks,3239,Stacks,Staplar
-CURRENT,logistics_condition_containers,3239,Containers,Behållare
-CURRENT,logistics_condition_allbut,3239,All But,Alla utom
-CURRENT,logistics_condition_storagefull,3239,Until Storage Full,Tills lagret är fullt
-CURRENT,logistics_condition_all,3239,All Available,Alla tillgängliga
-CURRENT,logistics_condition_time,3239,Minutes,Protokoll
-CURRENT,logistics_transferto_none,3239,DESTINATION SHIP,DESTINATIONSFARTYG
-CURRENT,logistics_transferfrom_none,3239,SOURCE SHIP,KÄLLA SHIP
-CURRENT,logistics_item_none,3239,Select Item,Välj artikel
-CURRENT,logistics_stuck_default,3239,Orders stuck,Beställningar har fastnat
-CURRENT,logistics_stuck_invalidsystem,3239,System S*X does not exist,Systemet S*X finns inte
-CURRENT,logistics_stuck_invalidlayer,3239,Ship L*X does not exist,Fartyget L*X finns inte
-CURRENT,logistics_stuck_equipment,3239,L*X does not have a working R*Y,L*X inte har en fungerande R*Y
-CURRENT,logistics_stuck_resources,3239,L*X does not have any R*Ys,L*X har inte någon R*Ys
-CURRENT,logistics_stuck_patches,3239,System S*X does not have any R*Y to mine,System S*X har inte någon R*Y till Gruva
-CURRENT,logistics_stuck_gas,3239,System S*X does not have any R*Y to collect,System S*X har inte någon R*Y att samla in
-CURRENT,logistics_stuck_tradingpost,3239,System S*X does not have a trading post,System S*X har inte någon handelsplats
-CURRENT,logistics_stuck_resourcestosell,3239,L*X does not have any R*Y to sell,L*X inte har någon R*Y att sälja
-CURRENT,logistics_stuck_stargate,3239,Stargate is not ready for jump,Stargate är inte redo för hopp
-CURRENT,logistics_status_notrunning,3239,No order currently running,Ingen order pågår för närvarande
-CURRENT,logistics_status_travelling,3239,Travelling to system S*X,Resa till system S*X
-CURRENT,logistics_status_mining,3239,Mined *X R*Y,Gruva *X R*Y
-CURRENT,logistics_status_miningstacks,3239,(*X/*Y stacks),(*X/*Y staplar)
-CURRENT,logistics_status_miningstacks1,3239,(*X stacks),(*X staplar)
-CURRENT,logistics_status_collect,3239,Collected *X R*Y,Samlad *X R*Y
-CURRENT,logistics_status_collectcontainers,3239,(*X/*Y containers),(*X/*Y behållare)
-CURRENT,logistics_status_collectcontainers1,3239,(*X containers),(*X containrar)
-CURRENT,logistics_status_transferto,3239,Transfering *X R*Y to L*Z,Överföring *X R*Y till L*Z
-CURRENT,logistics_status_transferfrom,3239,Transfering *X R*Y from L*Z,Överföring *X R*Y från L*Z
-CURRENT,logistics_status_buy,3239,Bought *X R*Y for $*Z,Köpt *X R*Y för $*Z
-CURRENT,logistics_status_sell,3239,Sold *X R*Y for $*Z,Såld *X R*Y för $*Z
-CURRENT,logistics_status_notlooping,3239,Finished execution (not looping),Avslutad körning (ingen loop)
-CURRENT,logistics_status_time1,3239,in *X:*Y,i *X:*Y
-CURRENT,logistics_status_time2,3239,in *X:0*Y,på *X:0*Y
-CURRENT,logistics_status_time3,3239,in 0*X:*Y,i 0*X:*Y
-CURRENT,logistics_status_time4,3239,in 0*X:0*Y,i 0*X:0*Y
-CURRENT,order_advancedlogistics,3239,Interstellar Logistics,Interstellär logistik
-CURRENT,mission_objective_done,3239,DONE,KLART
-CURRENT,alert_type_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,INTERSTELLÄR LOGISTIK
-CURRENT,alert_type_interstellarlogistics_caption,3239,Orders stuck,Beställningar har fastnat
-CURRENT,stargate_startandromedajump,3239,TEST ANDROMEDA JUMP,TEST ANDROMEDA HOPP
-CURRENT,stargate_power_tooltip,3239,POWER REQUIRED: *X MW,EFFEKT KRÄVS: *X MW
-CURRENT,stargate_distance_travelled,3239,*X kly REMAINING,*X kly RESTANDE
-CURRENT,stargate_journey_completed,3239,*X% COMPLETED,*X% GENOMFÖRT
-CURRENT,stargate_sell,3239,SELL ALL (*X FOR *Y),SÄLJA ALLA (*X FÖR *Y)
-CURRENT,stargate_price_per_unit,3239,*X PER UNIT,*X PER ENHET
-CURRENT,stargate_total_price,3239,*X TOTAL,*X TOTALT
-CURRENT,stargate_award_complete_title,3239,STARGATE COMPLETED,STARGATE FÄRDIGSTÄLLD
-CURRENT,stargate_award_complete_subtitle,3239,All phases completed,Alla faser slutförda
-CURRENT,tutorial_radiationselectfriendly,3239,"First, select a friendly ship with a laser infuser available.",Välj först ett vänligt sinnat fartyg med en Laserinfusor tillgänglig.
-CURRENT,blackhole_objective_tank,3239,Acquire a Storage Tank,Förvärva en lagringstank
-CURRENT,blackhole_objective_storagetank,3239,Connect a tank to the Hyperspace Scoop,Anslut en tank till Hyperspace Scoop
-CURRENT,blackhole_objective_loader,3239,Connect a Loader to the tank,Anslut en Lastare till tanken
-CURRENT,blackhole_objective_unloadloader,3239,Set the Loader to UNLOAD,Ställ in Lastaren på UNLOAD
-CURRENT,dsi_part2_dogmavessel1,3239,D.O.G.M.A Spartan,D.O.G.M.A Spartan
-CURRENT,dsi_part2_dogmavessel2,3239,D.O.G.M.A Citadel,D.O.G.M.A Citadel
-CURRENT,dsi_part2_dogmavessel3,3239,D.O.G.M.A Centurion,D.O.G.M.A Centurion
-CURRENT,bravenewsector_part4_title,3239,"Brave New Sector, Part 4","Brave New Sector, del 4"
-CURRENT,bravenewsector_part4_summary,3239,Complete the final test.,Genomför det slutliga testet.
-CURRENT,bravenewsector_part4_intro,3239,"Captain, preparations have concluded for the final Stargate test. We are ready to send a ship to the Andromeda Galaxy. Please call us when you are ready.","Kapten, förberedelserna har avslutats för det sista Stargate-testet. Vi är redo att skicka ett skepp till Andromedagalaxen. Var vänlig och ring oss när ni är redo."
-CURRENT,bravenewsector_part4_call_action,3239,Call the Representative,Ring ombudet
-CURRENT,bravenewsector_part4_rep1,3239,The materials you provided to us have been fitted to the Stargate. It is fully functional and ready to test.,Materialet som ni gav oss har monterats i Stargate. Den är fullt funktionell och redo att testas.
-CURRENT,bravenewsector_part4_rep2,3239,This is a monumental moment in the history of our species. If this test is successful the Andromeda Project will be the first entity to send mankind to another galaxy.,Detta är ett monumentalt ögonblick i vår arts historia. Om detta test är framgångsrikt kommer Andromedaprojektet att vara den första enheten som skickar mänskligheten till en annan galax.
-CURRENT,bravenewsector_part4_rep3,3239,"Captain, you will need to begin the test and provide power for the entire journey so our test ship can reach the Andromeda Galaxy. This will require a significant amount of energy, more than what's needed to travel between sectors.","Kapten, ni måste påbörja testet och förse hela resan med ström så att vårt testskepp kan nå Andromedagalaxen. Detta kommer att kräva en betydande mängd energi, mer än vad som behövs för att resa mellan sektorer."
-CURRENT,bravenewsector_part4_rep4,3239,Please begin the test when you are ready.,Börja testet när du är redo.
-CURRENT,bravenewsector_part4_objective_test,3239,Send the test ship to the Andromeda Galaxy,Skicka testskeppet till Andromedagalaxen
-CURRENT,bravenewsector_part4_action_starttest,3239,Start Test,Starta test
-CURRENT,bravenewsector_part4_reachandromeda_award,3239,ANDROMEDA REACHED,ANDROMEDA NÅDDE
-CURRENT,bravenewsector_part4_reachandromeda_caption,3239,Signal received from test ship,Signal mottagen från testfartyg
-CURRENT,bravenewsector_part4_andromeda_bonus,3239,ANDROMEDA BONUS,ANDROMEDA BONUS
-CURRENT,bravenewsector_part4_andromeda_caption,3239,Payment for sending the test ship,Betalning för att skicka testfartyget
-CURRENT,bravenewsector_part4_rep5,3239,"Captain, the Stargate has received a signal from the Andromeda Galaxy.","Kapten, Stargate har tagit emot en signal från Andromedagalaxen."
-CURRENT,bravenewsector_part4_rep6,3239,The test ship made it. The test was a complete and total success. This is a historic moment for all of mankind.,Testfartyget klarade sig. Testet var en fullständig och total framgång. Detta är ett historiskt ögonblick för hela mänskligheten.
-CURRENT,bravenewsector_part4_rep7,3239,It couldn't have been done without you Captain. Your industrial expertise and dedication to the project have been invaluable.,"Det hade inte gått att genomföra utan dig, kapten. Din industriella expertis och ditt engagemang i projektet har varit ovärderligt."
-CURRENT,bravenewsector_part4_rep8,3239,"Thank you Captain, your contribution will not be forgotten. Goodbye for now.","Tack kapten, ditt bidrag kommer inte att glömmas bort. Adjö för den här gången."
-CURRENT,bravenewsector_part4_objective_wait,3239,Await further instructions,Invänta ytterligare instruktioner
-CURRENT,bravenewsector_part4_harken1,3239,"Captain, there are reports that the Andromeda Project are withholding access to the Stargate from any ships that aren't their own.","Kapten, det finns rapporter om att Andromedaprojektet hindrar tillgång till Stargate från alla skepp som inte är deras egna."
-CURRENT,bravenewsector_part4_harken2,3239,"My sensors are detecting major fleet movements towards the Stargate, it looks like the Andromeda Project is aiming to secure their control over it.","Mina sensorer upptäcker stora flottrörelser mot Stargate, det ser ut som om Andromedaprojektet siktar på att säkra sin kontroll över den."
-CURRENT,bravenewsector_part4_harken3,3239,"This is... concerning. Be careful, I don't like the look of this.","Det här är... oroande. Var försiktig, jag gillar inte hur det här ser ut."
-CURRENT,bravenewsector_part4_rep10,3239,The next stage of the project has begun. Our fleet has obtained full control over the Stargate and we are currently in the process of moving our workforce into the new galaxy.,Nästa steg i projektet har inletts. Vår flotta har fått full kontroll över Stargate och vi håller för närvarande på att flytta vår personal till den nya galaxen.
-CURRENT,bravenewsector_part4_rep11,3239,"We will bring prosperity to all those who work with us. Speak to you soon, Captain. We may have some more work for you in the future.","Vi kommer att bringa välstånd till alla som arbetar med oss. Vi hörs snart, kapten. Vi kanske har mer arbete åt dig i framtiden."
-CURRENT,bravenewsector_part4_testshipname,3239,Andromeda Test Ship MK.1,Andromeda Testfartyg MK.1
-CURRENT,thefinalstand_title,3239,The Final Stand,Den sista striden
-CURRENT,thefinalstand_summary,3239,Stop the Andromeda Project.,Stoppa Andromedaprojektet.
-CURRENT,thefinalstand_harken1_intro,3239,"Captain! In direct violation of intergalactic law, the Andromeda Project has permanently closed access to the Stargate outside of their own ships. Billions of colonists have been stranded in the new sector, unable to return home.","Kapten! I direkt strid med intergalaktisk lag har Andromedaprojektet permanent stängt Stargate för andra än sina egna skepp. Miljarder kolonister har blivit strandsatta i den nya sektorn, utan möjlighet att återvända hem."
-CURRENT,thefinalstand_harken2_intro,3239,"You are the only one outside of the Andromeda Project with access codes, please call back as soon as you can. They must be stopped.","Du är den enda utanför Andromedaprojektet med åtkomstkoder, ring tillbaka så snart du kan. De måste stoppas."
-CURRENT,thefinalstand_call_action,3239,Call Harken,Ring Harken
-CURRENT,thefinalstand_andromedahq_name,3239,ANDROMEDA HQ,ANDROMEDA HQ
-CURRENT,thefinalstand_andromedaflagship_name,3239,ANDROMEDA FLAGSHIP,ANDROMEDA FLAGGSKEPP
-CURRENT,thefinalstand_ai_name,3239,ANDROMEDA SHIP CONTROL,ANDROMEDA SKEPPSKONTROLL
-CURRENT,thefinalstand_harken1,3239,"Greetings Captain, I was worried you had taken their side in all of this.","Goddag kapten, jag var orolig att du hade tagit deras sida i allt det här."
-CURRENT,thefinalstand_objective_traveltoharken,3239,Travel to Harken,Resa till Harken
-CURRENT,thefinalstand_battleprep_2,3239,My officers have pin-pointed the position of their HQ. Upon arrival we expect to be met with heavy resistance from their private security forces.,Mina officerare har lokaliserat deras högkvarter. Vid ankomsten förväntar vi oss att mötas av hårt motstånd från deras privata säkerhetsstyrkor.
-CURRENT,thefinalstand_battleprep_3,3239,I should be able to grab their attention away from your fleet while you get close and take control of the station.,Jag borde kunna avleda deras uppmärksamhet från er flotta medan ni närmar er och tar kontroll över stationen.
-CURRENT,thefinalstand_battleprep_4,3239,"Good luck Captain, I'll see you on the battlefield.","Lycka till, kapten. Vi ses på slagfältet."
-CURRENT,thefinalstand_objective_destroyhq,3239,Take control of the Andromeda Project HQ,Ta kontroll över Andromedaprojektets högkvarter
-CURRENT,thefinalstand_battleintro_rep1,3239,"I gave you a very clear warning, Captain. You could've had anything in the universe as our business partner.","Jag gav dig en tydlig varning, kapten. Du kunde ha fått vem som helst i universum som vår affärspartner."
-CURRENT,thefinalstand_battleintro_rep2,3239,Now you must be destroyed.,Nu måste du förgöras.
-CURRENT,thefinalstand_battleintro_rep3,3239,It was a pleasure working with you.,Det var ett nöje att arbeta med dig.
-CURRENT,thefinalstand_battleintro_dogma1,3239,"This is DOGMA Private Security force, we are en-route to the disturbance. ETA: imminent.","Det här är DOGMA Private Security Force, vi är på väg till störningen. ETA: överhängande."
-CURRENT,thefinalstand_battleintro_harken1,3239,There are multiple hostile signatures inbound on our position! You must get in close range of the HQ and upload the virus. I'll do my best to keep their ships off you.,Det finns flera fientliga signaturer på väg in mot vår position! Du måste komma nära högkvarteret och ladda upp viruset. Jag ska göra mitt bästa för att hålla deras skepp borta från dig.
-CURRENT,thefinalstand_battleintro_harken2,3239,"They're about to arrive, hurry!","De kommer snart, skynda dig!"
-CURRENT,thefinalstand_objective_flytohq,3239,Fly close to the HQ,Flyg nära högkvarteret
-CURRENT,thefinalstand_objective_destroyhostiles,3239,Destroy remaining hostiles: *X,Förstör kvarvarande fiender: *X
-CURRENT,thefinalstand_backdoor_action,3239,Trigger Backdoor,Trigger bakdörr
-CURRENT,thefinalstand_battle_harken1,3239,Great work Captain! But my sensors are detecting a massive signature headi-,"Bra jobbat, kapten! Men mina sensorer upptäcker ett massivt signaturhuvud.."
-CURRENT,thefinalstand_boss_harken1,3239,I've lost both of my frigates Captain! I don't have enough firepower to win this!,"Jag har förlorat båda mina fregatter, kapten! Jag har inte tillräckligt med eldkraft för att vinna det här!"
-CURRENT,thefinalstand_objective_destroyboss,3239,Destroy the Andromeda Flagship,Förstör Andromedas flaggskepp
-CURRENT,thefinalstand_boss_overloadcaption,3239,OVERLOAD GENERATOR,ÖVERBELASTNINGSGENERATOR
-CURRENT,thefinalstand_battleoutro_ship1,3239,DANGER: POWER SYSTEMS DETERIORATING. POWER GRID OVERLOADED.,FARA: KRAFTSYSTEM FÖRSÄMRAS. ELNÄTET ÖVERBELASTAT.
-CURRENT,thefinalstand_battleoutro_rep1,3239,"I don't understand, how is that possible!?","Jag förstår inte, hur är det möjligt!?"
-CURRENT,thefinalstand_battleoutro_ship2,3239,DANGER: GENERATOR STATUS CRITICAL.,FARA: GENERATORNS STATUS KRITISK.
-CURRENT,thefinalstand_battleoutro_rep2,3239,"Send all available power to railguns, set target to-","Skicka all tillgänglig kraft till Railguns, ställ in målet på-"
-CURRENT,thefinalstand_battleoutro_harken1,3239,"This is a message for Andromeda HQ. I am Commander Harken, Chief of Private Security for this sector, and I command you to stand down.","Det här är ett meddelande till Andromedas högkvarter. Jag är kommendör Harken, chef för privat säkerhet i denna sektor, och jag beordrar er att avvakta."
-CURRENT,thefinalstand_battleoutro_harken2,3239,"The Andromeda Navy in this sector has been destroyed, you are now blockaded, there is nothing left to fight for.","Andromedas flotta i denna sektor har förintats, ni är nu blockerade, det finns inget kvar att kämpa för."
-CURRENT,thefinalstand_battleoutro_harken3,3239,"It's over, Captain. The Andromeda HQ will be placed under the jurisdiction of the Intergalactic Security Council while I make the necessary arrests. The access codes for the Stargate are back under your control.","Det är över, kapten. Andromeda HQ kommer att placeras under det Intergalaktiska Säkerhetsrådets jurisdiktion medan jag gör de nödvändiga arresteringarna. Åtkomstkoderna för Stargate är tillbaka under din kontroll."
-CURRENT,thefinalstand_battleoutro_harken4,3239,The current leadership of the Andromeda Project will be dismantled and the new galaxy will be freed from their control.,Andromedaprojektets nuvarande ledning kommer att avvecklas och den nya galaxen kommer att befrias från deras kontroll.
-CURRENT,thefinalstand_battleoutro_harken5,3239,"You've proven that you can be trusted with control of the Stargate, so I'll leave it in your hands.","Du har bevisat att du kan anförtros kontrollen av Stargate, så jag lämnar den i dina händer."
-CURRENT,thefinalstand_battleoutro_harken6,3239,"Goodbye Captain, and good luck with your new place in the galaxy.","Adjö, kapten, och lycka till med din nya plats i galaxen."
-CURRENT,hud_consumingperhour,3239,Consuming *X per day,Konsumerar *X per dag
-CURRENT,survey_captionmultiple,3239,*X ships surveying,*X skeppsmätning
-CURRENT,tutorial_radiationinstallinfuser,3239,Laser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area and power it.,Laserinfusorer används för att ladda tomma kristaller med Zeleon Gas och avger strålning till omgivningen när de är strömförsörjda.\n\nInstallera laserinfusorn i ett fritt område och strömförsörj den.
-CURRENT,tutorial_radiationsetupinfuser,3239,Let's set the laser infuser to use them to produce charged crystals.,Låt oss ställa in Laserinfusorn så att den använder dem för att producera Laddade kristaller.
-CURRENT,tutorial_radiationwaitforinputs,3239,The laser infuser is set to start making charged crystals! Laser infusers use Zeleon Energy Cells to charge the crystals.\n\nLet's wait for it to begin charging crystals.,Laserinfusorn är inställd på att börja göra laddade kristaller! Laserinfusorer använder Zeleon energiceller för att ladda kristallerna.\n\nLåt oss vänta på att den ska börja ladda kristaller.
-CURRENT,tutorial_surveystartsectorsurvey,3239,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one ship in a system can do a sector scan.\n\nClick the button to begin a sector scan.,Sektorscanningar söker efter intressanta områden i sektorn runt det system som ditt skepp befinner sig i.\n\nScanningen stoppas när den är klar. Endast ett skepp i ett system kan göra en sektorskanning.\n\nKlicka på knappen för att påbörja en sektorskanning.
-CURRENT,tutorial_surveystartlocalsurvey,3239,Areas of interest will expire after some time if they are not surveyed. Multiple ships can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,Områden av intresse upphör att gälla efter en tid om de inte undersöks. Flera fartyg kan bidra till en lokal undersökning.\n\nKlicka på intressepunkten för att påbörja den lokala undersökningen.
-CURRENT,bravenewsector_part2_x4,3239,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. As a safeguard against the Andromeda Project, I have installed a back-door that allows you to take control of the Stargate and any devices commanding it.","Snälla, låt inte det hända, kapten. Så mycket av mitt liv och så många av mina projekt har gjorts enbart för vinst, jag kan inte låta detta bli ett av dem. Som ett skydd mot Andromedaprojektet har jag installerat en bakdörr som låter dig ta kontroll över Stargate och alla enheter som styr den."
-CURRENT,bravenewsector_part2_x5,3239,Please use it if they restrict the use of the Stargate for their own gain.,Använd den om de begränsar användningen av Stargate för egen vinning.
-CURRENT,stargate_power_fraction,3239,*X / *Y MW,*X / *Y MW
-CURRENT,blackhole_part1_setup7,3239,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop and a tank to store the isotopes in first.","Jag behöver material för att syntetisera de resurser vi behöver.  Du kan hjälpa mig med detta, medan jag arbetar med beräkningarna. Jag behöver Isotoper i hyperrymden - du borde kunna samla in dem ganska lätt, men du behöver först skaffa en Hyperspace Scoop och en tank att förvara isotoperna i."
-CURRENT,settings_credits,3149,CREDITS,KREDITER
-CURRENT,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,Spelet kommer att sparas till Steam Cloud när det är aktiverat. En varning visas om sparandet misslyckas.
-CURRENT,newmainmenu_saveoptions,3149,Save Options,Spara alternativ
-CURRENT,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] Byta golvstil
-CURRENT,hud_tooltip_currentflooring,3149,Current style: *X,Aktuell stil: *X
-CURRENT,hud_tooltip_gratedflooring,3149,Grated,Riven
-CURRENT,hud_tooltip_normalflooring,3149,Normal,Normal
-CURRENT,hud_hull_integrity,3149,HULL,HULL
-CURRENT,hud_power_battery,3149,BATTERY,BATTERI
-CURRENT,hud_power_powershortage,3149,POWER SHORTAGE,BRIST PÅ STRÖM
-CURRENT,hud_idlecrew,3149,Idle Crew,Besättning
-CURRENT,hud_dehydrationperperson,3149,Dehydration *X per person,Uttorkning *X per person
-CURRENT,hud_hungerperperson,3149,Hunger *X per person,Hunger *X per person
-CURRENT,hud_byauthor,3149,BY *X,BY *X
-CURRENT,communicator_newobjective,3149,NEW OBJECTIVE,NYTT MÅL
-CURRENT,galaxymap_stargate,3149,STARGATE,STARGATE
-CURRENT,trade_canceltrade,3149,CANCEL TRADE AND REFUND,ANNULLERA HANDEL OCH ÅTERBETALNING
-CURRENT,trade_refundvalue,3149,REFUND VALUE,ÅTERBETALNINGSVÄRDE
-CURRENT,trade_cancellationcost,3149,CANCELLATION COST,AVBOKNINGSKOSTNAD
-CURRENT,trade_partiallyfilled,3149,PARTIALLY FILLED,DELVIS FYLLD
-CURRENT,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,OFULLSTÄNDIG KOMPONENT
-CURRENT,trade_removeincomplete,3149,REMOVE INCOMPLETE,TA BORT OFULLSTÄNDIG
-CURRENT,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,TA BORT DELVIS FYLLD
-CURRENT,trade_order_normal,3149,(*X),(*X)
-CURRENT,trade_order_buy_on_sell_screen,3149,(BUY *X),(KÖP *X)
-CURRENT,trade_order_sell_on_buy_screen,3149,(SELL *X),(SÄLJ *X)
-CURRENT,trade_order_sack_on_buy_screen,3149,(SACK *X),(SACK *X)
-CURRENT,techtree_researchpercent,3149,*X% Complete,*X% komplett
-CURRENT,tooltip_efficiency,3149,Efficiency +*X%,Verkningsgrad +*X%
-CURRENT,tooltip_activating,3149,Activating +*X%,Aktivering +*X%
-CURRENT,alert_type_lowdeuterium,3149,LOW DEUTERIUM,LÅGT DEUTERIUM
-CURRENT,stargate_unknowncomponent,3149,Unknown Component,Okänd komponent
-CURRENT,stargate_unknowncomponent_description,3149,Unlock this component through research!,Lås upp denna komponent genom forskning!
-CURRENT,creditstitle_builders,3149,Ship Builders,Fartygsbyggare
-CURRENT,creditstitle_testers,3149,Early Play Testing,Tidig testning av lek
-CURRENT,creditstitle_translators,3149,Translation,Översättning
-CURRENT,engine_thrust,3149,THRUST *X%,THRUST *X%
-CURRENT,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + RMB] Konvertera till Splitter
-CURRENT,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + RMB] Konvertera till spår
-CURRENT,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,Vi kan inte leverera passagerarna till deras destination utan en snabbare resa. Tyvärr är detta skepp inte utrustat med en egen <b>FTL-drift</b>.\n\nVi måste köpa en och installera den.
-CURRENT,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,Öppna handelsskärmen för att köpa en <b>FTL-drift</b> och några <b>FTL-laddningar</b>.
-CURRENT,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,INKLUDERAR DOCKADE FARTYG
-CURRENT,hud_layer_hostile,3149,HOSTILE *X,HOSTILE *X
-CURRENT,hud_layer_derelict,3149,DERELICT *X,DERELICT *X
-CURRENT,hud_layer_forsale,3149,[FOR SALE] *X,[TILL SALU] *X
+NEW,settings_credits,3149,CREDITS,KREDITER
+NEW,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,Spelet kommer att sparas till Steam Cloud när det är aktiverat. En varning visas om sparandet misslyckas.
+NEW,newmainmenu_saveoptions,3149,Save Options,Spara alternativ
+NEW,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] Byta golvstil
+NEW,hud_tooltip_currentflooring,3149,Current style: *X,Aktuell stil: *X
+NEW,hud_tooltip_gratedflooring,3149,Grated,Riven
+NEW,hud_tooltip_normalflooring,3149,Normal,Normal
+NEW,hud_hull_integrity,3149,HULL,HULL
+NEW,hud_power_battery,3149,BATTERY,BATTERI
+NEW,hud_power_powershortage,3149,POWER SHORTAGE,BRIST PÅ STRÖM
+NEW,hud_idlecrew,3149,Idle Crew,Besättning
+NEW,hud_consumingperhour,3149,Consuming *X per hour,Konsumerar *X per timme
+NEW,hud_dehydrationperperson,3149,Dehydration *X per person,Uttorkning *X per person
+NEW,hud_hungerperperson,3149,Hunger *X per person,Hunger *X per person
+NEW,hud_byauthor,3149,BY *X,BY *X
+NEW,communicator_newobjective,3149,NEW OBJECTIVE,NYTT MÅL
+NEW,galaxymap_stargate,3149,STARGATE,STARGATE
+NEW,trade_canceltrade,3149,CANCEL TRADE AND REFUND,ANNULLERA HANDEL OCH ÅTERBETALNING
+NEW,trade_refundvalue,3149,REFUND VALUE,ÅTERBETALNINGSVÄRDE
+NEW,trade_cancellationcost,3149,CANCELLATION COST,AVBOKNINGSKOSTNAD
+NEW,trade_partiallyfilled,3149,PARTIALLY FILLED,DELVIS FYLLD
+NEW,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,OFULLSTÄNDIG KOMPONENT
+NEW,trade_removeincomplete,3149,REMOVE INCOMPLETE,TA BORT OFULLSTÄNDIG
+NEW,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,TA BORT DELVIS FYLLD
+NEW,trade_order_normal,3149,(*X),(*X)
+NEW,trade_order_buy_on_sell_screen,3149,(BUY *X),(KÖP *X)
+NEW,trade_order_sell_on_buy_screen,3149,(SELL *X),(SÄLJ *X)
+NEW,trade_order_sack_on_buy_screen,3149,(SACK *X),(SACK *X)
+NEW,techtree_researchpercent,3149,*X% Complete,*X% komplett
+NEW,tooltip_efficiency,3149,Efficiency +*X%,Verkningsgrad +*X%
+NEW,tooltip_activating,3149,Activating +*X%,Aktivering +*X%
+NEW,alert_type_lowdeuterium,3149,LOW DEUTERIUM,LÅGT DEUTERIUM
+NEW,stargate_unknowncomponent,3149,Unknown Component,Okänd komponent
+NEW,stargate_unknowncomponent_description,3149,Unlock this component through research!,Lås upp denna komponent genom forskning!
+NEW,creditstitle_builders,3149,Ship Builders,Fartygsbyggare
+NEW,creditstitle_testers,3149,Early Play Testing,Tidig testning av lek
+NEW,creditstitle_translators,3149,Translation,Översättning
+NEW,engine_thrust,3149,THRUST *X%,THRUST *X%
+UPDATED,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + RMB] Konvertera till Splitter
+PREVIOUS,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] Konvertera till splitter
+UPDATED,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + RMB] Konvertera till spår
+PREVIOUS,hud_convertsplittertotrack,3054,[RMB] Convert to track,[RMB] Konvertera till spår
+UPDATED,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,Vi kan inte leverera passagerarna till deras destination utan en snabbare resa. Tyvärr är detta skepp inte utrustat med en egen <b>FTL-drift</b>.\n\nVi måste köpa en och installera den.
+PREVIOUS,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,Vi kan inte leverera passagerarna till deras destination utan snabbare än ljuset. Tyvärr är det här skeppet inte utrustat med en egen <b>FTL</b>-drift.\n\nVi måste köpa en och sätta upp den.
+PREVIOUS,tutorial_ftlintro,2624,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,Vi kan inte leverera passagerarna till deras destination utan snabbare än ljuset. Tyvärr är det här skeppet inte utrustat med en egen FTL-drift.\n\nVi måste köpa en och sätta upp den.
+UPDATED,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,Öppna handelsskärmen för att köpa en <b>FTL-drift</b> och några <b>FTL-laddningar</b>.
+PREVIOUS,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,Öppna handelsskärmen för att köpa en <b>FTL</b>-drivenhet.
+PREVIOUS,tutorial_ftltradescreen,2624,Open the trade screen to purchase an FTL drive.,Öppna handelsskärmen för att köpa en FTL-drivenhet.
+UPDATED,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,INKLUDERAR DOCKADE FARTYG
+PREVIOUS,newmainmenu_includedocked,2624,INCLUDE DOCKED SHIPS IN EXPORT,INKLUDERA DOCKADE FARTYG I EXPORTEN
+UPDATED,hud_layer_hostile,3149,HOSTILE *X,HOSTILE *X
+PREVIOUS,hud_layer_hostile,2624,HOSTILE,HOSTILE
+UPDATED,hud_layer_derelict,3149,DERELICT *X,DERELICT *X
+PREVIOUS,hud_layer_derelict,2624,DERELICT,DERELICT
+UPDATED,hud_layer_forsale,3149,[FOR SALE] *X,[TILL SALU] *X
+PREVIOUS,hud_layer_forsale,2624,[FOR SALE],[TILL SALU]
 CURRENT,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,Deras yttre slitage får oss att tro att de har varit här i minst ett sekel. Den här sektorn måste ha varit ett av mänsklighetens första försök att kolonisera yttre rymden.
 CURRENT,techtree_node_caption_metallurgyrepeatable,3054,Spend research credits to continually increase our smelting efficiency.,Spendera forskningskrediter för att kontinuerligt öka vår smältningseffektivitet.
 CURRENT,mainmenu_gamemode_arena,3054,Arena,Arena
@@ -293,6 +100,7 @@ CURRENT,survey_type_colony,3054,Colony,Koloni
 CURRENT,survey_title,3054,UNSURVEYED *X,UNSURVEYED *X
 CURRENT,survey_captionnone,3054,No survey in progress,Ingen undersökning pågår
 CURRENT,survey_captionsingle,3054,Surveyed by *X,Undersökt av *X
+CURRENT,survey_captionmultiple,3054,*X layers surveying,*X lagermätning
 CURRENT,survey_local_noequipment,3054,NO SUPERCOMPUTERS INSTALLED,INGA SUPERDATORER INSTALLERADE
 CURRENT,survey_sector_title,3054,SECTOR SCAN,SCAN AV SEKTORER
 CURRENT,survey_sector_nothingtoscan,3054,REGION FULLY SCANNED,REGION HELT SKANNAD
@@ -351,6 +159,9 @@ CURRENT,alert_type_emp_caption,3054,*X piece(s) disabled,*X del(ar) avaktiverad(
 CURRENT,alert_type_emp_tooltip,3054,"Your ship has been struck by lightning, temporarily disabling some of your equipment.",Ditt skepp har träffats av blixten och en del av utrustningen har tillfälligt satts ur funktion.
 CURRENT,tutorial_radiation_title,3054,RADIATION,STRÅLNING
 CURRENT,tutorial_radiationintro,3054,We are going to learn about radiation.,Vi ska lära oss mer om strålning.
+CURRENT,tutorial_radiationinstallinfuser,3054,A laser infuser has been delivered to your ship.\n\nLaser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area.,En laserinfusor har levererats till ditt skepp.\n\nLaserinfusorer används för att ladda tomma kristaller med Zeleon Gas och kommer att avge strålning till omgivningen medan de är strömförande.\n\nInstallera laserinfusorn i ett fritt område.
+CURRENT,tutorial_radiationsetupinfuser,3054,An empty crystal and some zeleon energy cells have been delivered to your ship too.\n\nLet's set the laser infuser to use them to produce charged crystals.,En tom kristall och några Zeleon energiceller har också levererats till ditt skepp.\n\nLåt oss ställa in laserinfusorn så att den använder dem för att producera laddade kristaller.
+CURRENT,tutorial_radiationwaitforinputs,3054,The laser infuser is set to start making charged crystals!\n\nLet's wait for it to begin charging crystals.\n\nDon't forget to power the Laser Infuser.,Laserinfusorn är inställd på att börja tillverka laddade kristaller!\n\nLåt oss vänta på att den ska börja ladda kristaller.\n\nGlöm inte att strömförsörja laserinfusorn.
 CURRENT,tutorial_radiationselectoverlay,3054,The game has been set to a slower speed for now.\n\nRadiation is emitted in all directions away from the laser infuser.\n\nClick on the radiation overlay to view where your ship is irradiated.,Spelet har ställts in på en långsammare hastighet för tillfället.\n\nStrålning avges i alla riktningar bort från laserinfusorn.\n\nKlicka på strålningsöverlägget för att se var ditt fartyg är bestrålat.
 CURRENT,tutorial_radiationselectoverlay2,3054,"All green areas of your ship are safe for your crew, but the darker areas are dangerous.\n\nSpacesuits will protect your crew from being irradiated.","Alla gröna områden på fartyget är säkra för besättningen, men de mörkare områdena är farliga.\n\nRymddräkter skyddar besättningen från att bli bestrålad."
 CURRENT,tutorial_radiationinstallblockers,3054,"Radiation spread can be limited by special equipment called radiation blockers.\n\nInstall some blockers close to your laser infuser, leaving a small gap between the infuser and the blocker.\n\nIncrease the game speed when you are ready.",Spridningen av strålning kan begränsas med hjälp av specialutrustning som kallas blockeringar av strålning.\n\nInstallera några blockeringar nära din laserinfusor och lämna ett litet mellanrum mellan infusorn och blockeringen.\n\nÖka spelhastigheten när du är redo.
@@ -360,9 +171,11 @@ CURRENT,tutorial_radiationsuccess,3054,"Well done, you have now learnt how radia
 CURRENT,tutorial_survey_title,3054,SECTOR SURVEYING,SEKTORMÄTNING
 CURRENT,tutorial_surveyintro,3054,"We are going to learn how to survey the area around your ship.\n\nThe first step is to scan the local area of the sector surrounding you ship using a <b>SECTOR SCAN</b>.\n\nIn Boldly Go, only the new sector can be surveyed.\n\nHyperspace sensors are required to do this.",Vi ska lära oss att undersöka området runt ditt skepp.\n\nDet första steget är att skanna det lokala området i den sektor som omger ditt skepp med en <b>SECTOR SCAN</b>.\n\nI Boldly Go kan endast den nya sektorn undersökas.\n\nSensorer för hyperrymd krävs för att göra detta.
 CURRENT,tutorial_surveyinstallsensors,3054,"Install Hyperspace Sensors or Hyperspace Sensor LRs onto one of your ships.\n\nThis tutorial will resume afterwards.\n\nIf you are playing the Boldly Go game mode, your ship must also be in the new sector.",Installera sensorer för hyperrymd eller LR för sensorer för hyperrymd på ett av dina skepp.\n\nDenna handledning kommer att återupptas efteråt.\n\nOm du spelar spelläget Boldly Go måste ditt skepp också befinna sig i den nya sektorn.
+CURRENT,tutorial_surveystartsectorsurvey,3054,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan.,Sektorscanningar söker efter intressanta områden i sektorn runt det system som ditt skepp befinner sig i.\n\nScanningen stoppas efter att den har slutförts. Endast ett lager i ett system kan göra en sektorskanning.\n\nKlicka på knappen för att påbörja en sektorskanning.
 CURRENT,tutorial_surveyhighlightsectorsurveysystem,3054,Hovering the mouse over the current system will reveal the radius around the system that is being scanned and the scan's progress toward finding new points of interest.\n\nOpen the <b>SECTOR MAP</b> and click <b>NEXT</b> to speed-up the survey.,Om du håller muspekaren över det aktuella systemet visas radien runt det system som skannas och hur skanningen fortskrider för att hitta nya intressanta punkter.\n\nÖppna <b>SECTOR MAP</b> och klicka på <b>NEXT</b> för att påskynda undersökningen.
 CURRENT,tutorial_surveylocalsurveyintro,3054,The next step is to perform a <b>LOCAL SURVEY</b>.\n\nLocal surveys allow points of interest to be accessed via FTL.\n\nShips need to have super computers installed and must be in the same sector to participate in a local survey.,Nästa steg är att utföra en <b>LOKAL</b> ÖVERSIKT.\n\nLokala översikter gör att intressanta platser kan nås via FTL.\n\nSkepp måste ha superdatorer installerade och måste befinna sig i samma sektor för att kunna delta i en lokal översikt.
 CURRENT,tutorial_surveyinstallcomputers,3054,Install a super-computer on one of your ships.\n\nThis tutorial will resume afterwards.,Installera en superdator på ett av dina fartyg.\n\nDenna handledning kommer att återupptas efteråt.
+CURRENT,tutorial_surveystartlocalsurvey,3054,Areas of interest will expire after some time if they are not surveyed. Multiple layers can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,Områden av intresse upphör att gälla efter en tid om de inte undersöks. Flera lager kan bidra till en lokal undersökning.\n\nKlicka på intressepunkten för att påbörja den lokala undersökningen.
 CURRENT,tutorial_surveyoutro,3054,Click <b>NEXT</b> to speed-up the survey.,Klicka på <b>NEXT</b> för att påskynda undersökningen.
 CURRENT,tutorial_surveysuccess,3054,"A new system on the sector map has appeared for your fleet to explore!\n\nWell done, you have now learnt how to use sector surveying to find and explore new systems.\n\nKeep an eye out for special loot on surveyed derelict ships that can be researched by your science stations.","Ett nytt system på sektorkartan har dykt upp som din flotta kan utforska!\n\nBra jobbat, du har nu lärt dig hur man använder sektorövervakning för att hitta och utforska nya system.\n\nHåll utkik efter specialbyte på övergivna skepp som kan undersökas av dina Vetenskapsstationer."
 CURRENT,bravenewsector_part1_x1,3054,Captain? Are you there?,Kapten? Är du där?
@@ -373,6 +186,8 @@ CURRENT,bravenewsector_part2_title,3054,"Brave New Sector, Part 2","Brave New Se
 CURRENT,bravenewsector_part2_summary,3054,Uncover the history of the new sector.,Ta reda på historien bakom den nya sektorn.
 CURRENT,bravenewsector_part2_x1,3054,"Hello again Captain, the Andromeda Project is very impressed with the samples you've sent them. They want your work on the Stargate to continue.","Hej igen kapten, Andromedaprojektet är mycket imponerade av de prover du skickat dem. De vill att ditt arbete med Stargate ska fortsätta."
 CURRENT,bravenewsector_part2_x3,3054,"I must warn you, there are rumours that their plan is to take the Stargate fully under their control. They will charge anyone who wants to use it a fortune, preventing any competition and harvesting all the resources in the new galaxy for themselves. They will become more powerful than any entity we have seen before.","Jag måste varna er, det går rykten om att deras plan är att ta Stargate helt under deras kontroll. De kommer att ta ut en förmögenhet av alla som vill använda den, förhindra all konkurrens och skörda alla resurser i den nya galaxen åt sig själva. De kommer att bli mäktigare än något annat Entitet vi har sett tidigare."
+CURRENT,bravenewsector_part2_x4,3054,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. The Stargate is too important and valuable for our species to be under their control.","Snälla, låt inte det hända, kapten. Så mycket av mitt liv och så många av mina projekt har gjorts enbart för vinst, jag kan inte låta detta bli ett av dem. Stargate är för viktig och värdefull för vår art för att vara under deras kontroll."
+CURRENT,bravenewsector_part2_x5,3054,I have installed a back-door that will cause the Stargate to self-destruct if you command it to. You must trigger it if the rumours are true.,Jag har installerat en bakdörr som får Stargate att självförstöras om du beordrar det. Du måste utlösa den om ryktena är sanna.
 CURRENT,bravenewsector_part2_x6,3054,"Unfortunately, I've been given some bad news, and I won't be around for much longer. I would like to give you full ownership of the foundry as a thank you for helping me finish this final project.","Tyvärr har jag fått dåliga nyheter, och jag kommer inte att vara kvar länge till. Jag skulle vilja ge dig full äganderätt till gjuteriet som ett tack för att du hjälper mig att slutföra detta sista projekt."
 CURRENT,bravenewsector_part2_x7,3054,It seems we have completed it just in time.,Det verkar som om vi har slutfört det precis i tid.
 CURRENT,bravenewsector_part2_x8,3054,"This is our final call, Captain. I wish you the best of luck. Thank you again, and goodbye.","Det här är vårt sista samtal, kapten. Jag önskar er lycka till. Tack igen, och adjö."
@@ -1121,11 +936,10 @@ CURRENT,hud_endcreativemodewarning,2624,LEAVING CREATIVE MODE,LÄMNAR KREATIVT L
 CURRENT,hud_endcreativemodefull,2624,Creative Mode will end when you jump to hyperspace,Creative Mode avslutas när du hoppar till hyperrymden
 CURRENT,hud_hyperspace,2624,HYPERSPACE,HYPERSPACE
 CURRENT,hud_deselectlayer,2624,DESELECT SHIP,AVBESTÄLLNING FARTYG
-CURRENT,hud_gun_port,3205,Port *X,*X på babords sida
-CURRENT,hud_gun_forward,3205,Forward *X,*X förut
-CURRENT,hud_gun_starboard,3205,Starboard *X,*X på styrbords sida
-CURRENT,hud_gun_aft,3205,Aft *X,*X akterut
-CURRENT,hud_gun_gattling,3205,PDC,NDS
+CURRENT,hud_direction_up,2624,Port,Port
+CURRENT,hud_direction_right,2624,Forward,Framåt
+CURRENT,hud_direction_down,2624,Starboard,Styrbord
+CURRENT,hud_direction_left,2624,Aft,Aft
 CURRENT,hud_camerattracking,2624,Camera Tracking,Kameraspårning
 CURRENT,hud_enabled,2624,Enabled,Aktiverad
 CURRENT,hud_disabled,2624,Disabled,Inaktiverad
@@ -2223,6 +2037,7 @@ CURRENT,recipe_duration,2624,Duration: *X seconds,Varaktighet: *X sekunder
 CURRENT,recipe_quantity_required,2624,*X x *Y,*X x *Y
 CURRENT,stargate_energy_required,2624,REQUIRED: *X MW,NÖDVÄNDIGT: *X MW
 CURRENT,stargate_energy_received,2624,RECEIVED: *X MW,MOTTAGNA: *X MW
+CURRENT,stargate_power_fraction,2624,SUPPLIED:\n*X MW / *Y MW,LEVERERAD:\n*X MW / *Y MW
 CURRENT,stargate_power_button,2624,START,START
 CURRENT,stargate_powered_off,2624,POWERED OFF,AVSTÄNGD
 CURRENT,stargate_warming_up,2624,WARMING UP,UPPVÄRMNING
@@ -2436,6 +2251,7 @@ CURRENT,blackhole_part1_setup4,2624,"The last time, we pushed it too far.  My br
 CURRENT,blackhole_part1_setup5,2624,"I've lost all contact, and he's been down there for a long time now.  He's still showing on the sensors, and his ship is still intact.  The gravitational forces and time dilation will be extreme.  But with your help, we're going to rescue him.","Jag har förlorat all kontakt, och han har varit där nere länge nu.  Han syns fortfarande på sensorerna, och hans skepp är intakt.  Gravitationskrafterna och tidsdilatationen kommer att vara extrema.  Men med din hjälp kommer vi att rädda honom."
 CURRENT,blackhole_part1_setup6,2624,There's only one way to get to him without falling into the black hole ourselves.  We're going to have to do an extremely short range HYPERSPACE HOP.,Det finns bara ett sätt att nå honom utan att själva falla ner i det svarta hålet.  Vi måste göra ett HYPERSPACE HOP med extremt kort räckvidd.
 CURRENT,blackhole_part1_setup6b,2624,"Using a modified FTL Drive you'll do one hyperspace hop toward the black hole, rescue my brother Marcus, then turn around and hop right out.  It will be dangerous, but it's the only way to avoid being dragged in ourselves.","Med hjälp av en modifierad FTL-drivenhet gör ni ett hyperrymdshopp mot det svarta hålet, räddar min bror Marcus, vänder sedan om och hoppar ut direkt.  Det kommer att vara farligt, men det är enda sättet att undvika att dras in själva."
+CURRENT,blackhole_part1_setup7,2624,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop first.","Jag behöver material för att syntetisera de resurser vi behöver.  Du kan hjälpa mig med detta, medan jag arbetar med beräkningarna. Jag behöver hyperrymdsisotoper - du borde kunna samla in dem ganska lätt, men du måste skaffa en hyperrymdsskopa först."
 CURRENT,blackhole_part1_setup7b,2624,You'll then need to use a Loader to start unloading the isotopes into containers.,Du måste sedan använda en Loader för att börja lossa isotoperna i behållare.
 CURRENT,blackhole_part1_setup8,2624,I'm building the Hyperspace FTL drive that will allow you to perform the hop.  It's going to need some modifications.  I'll need you to manufacture some parts for me. I know you have manufacturing facilities near the Stargate project.  You should be able to make these parts for me without too much trouble.,Jag bygger Hyperspace FTL-driften som gör att du kan utföra hoppet.  Den kommer att behöva några modifieringar.  Jag behöver dig för att tillverka några delar åt mig. Jag vet att ni har tillverkningsanläggningar nära Stargateprojektet.  Ni borde kunna tillverka de här delarna åt mig utan större problem.
 CURRENT,blackhole_part1_setup9,2624,"Bring those materials back to me, and we can move onto phase 2.","Ta med materialet tillbaka till mig, så kan vi gå vidare till fas 2."
@@ -2860,6 +2676,7 @@ CURRENT,tutorial_dsisetrecipe,2624,Right-clicking on equipment allows you to set
 CURRENT,tutorial_dsisetupdone,2624,The smelter will now start producing metal ingots after it has finished heating up.,Smältverket kommer nu att börja producera metallgöt efter att det har värmts upp.
 CURRENT,tutorial_stargatewindowopenwindow,2624,Select the Stargate button in your toolbar to open the Stargate screen.,Välj Stargate-knappen i verktygsfältet för att öppna Stargate-skärmen.
 CURRENT,tutorial_stargatewindowintro,2624,The Stargate screen displays everything you need to manufacture to complete the current phase.,På Stargate-skärmen visas allt du behöver tillverka för att slutföra den aktuella fasen.
+CURRENT,tutorial_stargatewindowhighlightcomponent,2624,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,Varje komponent som du behöver tillverka finns till vänster.\nOm du placerar musen över en komponents ikon visas hur du tillverkar den.
 CURRENT,tutorial_stargatewindowhighlightphases,2624,"The Stargate's construction is split into phases, with each phase requiring more and more resources.\nYou have just completed Phase 1.","Stjärnportens konstruktion är indelad i faser, där varje fas kräver mer och mer resurser. \nDu har just avslutat fas 1."
 CURRENT,tutorial_stargatewindowhighlightphase2,2624,Select Phase 2 to see what you need to manufacture for this phase.,Välj Fas 2 för att se vad du behöver tillverka för denna fas.
 CURRENT,tutorial_stargatewindowhighlightframes1,2624,"To complete Phase 2, we need to continue manufacturing Stargate Frames.\n\nInstead of 10, we now need 200!",För att slutföra fas 2 måste vi fortsätta att tillverka Stargate-ramar.\n\nIstället för 10 behöver vi nu 200!
@@ -3017,37 +2834,6 @@ CURRENT,dsi_part2_scene_z4,2624,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2624,THERE WILL BE NO FURTHER WARNING.,KOMMER DET INTE ATT FINNAS NÅGON YTTERLIGARE VARNING.
 CURRENT,dsi_part2_scene_y7,2624,You've left me no choice.,Du har inte gett mig något val.
 CURRENT,dsi_part2_scene_y8,2624,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Jag kommer efter dig Alexander, och den här gången ber jag inte om 10%. Jag vill ha allt."
-OBSOLETE,thefinalstand_harken2,3239,"My scientists and officers have analysed the blueprints of the Stargate project, provided to us by the late Alexander James Elistar.","Mina vetenskapsmän och officerare har analyserat ritningarna till Stargate-projektet, som vi fick av den framlidne Alexander James Elistar."
-OBSOLETE,thefinalstand_harken3,3239,"The Andromeda Project has moved their HQ and all key personell into an unknown location in the new sector, where we believe they are controlling the Stargate.","Andromedaprojektet har flyttat sitt huvudkontor och all nyckelpersonal till en okänd plats i den nya sektorn, där vi tror att de kontrollerar Stargate."
-OBSOLETE,thefinalstand_harken4,3239,"Elistar has left you with a backdoor into the Stargate's security systems, compromising all devices controlling it and providing us with direct access to the Andromeda Project's systems.","Elistar har lämnat er med en bakdörr in i Stargates säkerhetssystem, vilket äventyrar alla enheter som styr den och ger oss direkt tillgång till Andromedaprojektets system."
-OBSOLETE,thefinalstand_harken5,3239,"Any and all damage to the HQ should be avoided. Many innocent lives are on-board that HQ, the loss of life from destroying it would be far too great. You will upload a virus to their command centre and disable the station's offensive capabilities.","All skada på högkvarteret bör undvikas. Många oskyldiga liv finns ombord på högkvarteret, förlusten av liv genom att förstöra det skulle vara alldeles för stor. Du kommer att ladda upp ett virus till deras kommandocentral och inaktivera stationens offensiva kapacitet."
-OBSOLETE,thefinalstand_harken6,3239,"While you are doing this, my fleet will fight off the Andromeda Project navy. Once the battle is over, I will take control of the HQ and arrest everyone involved. Their conglomerate will be dismantled.","Medan du gör detta kommer min flotta att slå tillbaka Andromedaprojektets flotta. När striden är över, tar jag kontroll över högkvarteret och arresterar alla inblandade. Deras konglomerat kommer att demonteras."
-OBSOLETE,thefinalstand_boss_harken2,3239,"The previous ships were private security, this one is the Andromeda Navy's flagship! You should have access to its command centre from the HQ.","De tidigare skeppen var privata säkerhetsskepp, det här är Andromedaflottans flaggskepp! Du bör ha tillgång till dess kommandocentral från högkvarteret."
-OBSOLETE,industryend_message,3239,"After capturing the Andromeda HQ, Harken and the Intergalactic Security Council dismantled the Andromeda Project conglomerate.  The control of the Stargate was left in the hands of the Captain that built it.  Humanity's journey across the universe has only just begun...",Efter att ha intagit Andromedas högkvarter avvecklade Harken och det intergalaktiska säkerhetsrådet Andromedaprojektets konglomerat.  Kontrollen över Stargate lämnades i händerna på den kapten som byggt den.  Mänsklighetens resa genom universum har bara börjat...
-OBSOLETE,bravenewsector_part4_rep9,3239,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy the Andromeda.,Hej kapten. Den nyligen färdigställda Stargate har satt Andromedaprojektet i en kraftfull position att kontrollera flödet av resurser och människor mellan denna galax och Andromeda.
-OBSOLETE,thefinalstand_battleprep_1,3239,"Hello Captain, it's good to see you. This is all of the ships I control in this sector, the rest are on the other side of the Stargate, unable to reach us.","Hej kapten, det är trevligt att se dig. Det här är alla skepp jag kontrollerar i den här sektorn, resten är på andra sidan Stargate och kan inte nå oss."
-OBSOLETE,thefinalstand_battle_rep1,3239,Commander Harken! I see that my first fleet failed to deal you. I suppose if I want something done properly I should do it myself.,Kommendörkapten Harken! Jag ser att min första flotta misslyckades med att ta hand om dig. Jag antar att om jag vill att något ska göras ordentligt så borde jag göra det själv.
-OBSOLETE,hud_consumingperhour,3149,Consuming *X per hour,Konsumerar *X per timme
-OBSOLETE,survey_captionmultiple,3054,*X layers surveying,*X lagermätning
-OBSOLETE,tutorial_radiationinstallinfuser,3054,A laser infuser has been delivered to your ship.\n\nLaser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area.,En laserinfusor har levererats till ditt skepp.\n\nLaserinfusorer används för att ladda tomma kristaller med Zeleon Gas och kommer att avge strålning till omgivningen medan de är strömförande.\n\nInstallera laserinfusorn i ett fritt område.
-OBSOLETE,tutorial_radiationsetupinfuser,3054,An empty crystal and some zeleon energy cells have been delivered to your ship too.\n\nLet's set the laser infuser to use them to produce charged crystals.,En tom kristall och några Zeleon energiceller har också levererats till ditt skepp.\n\nLåt oss ställa in laserinfusorn så att den använder dem för att producera laddade kristaller.
-OBSOLETE,tutorial_radiationwaitforinputs,3054,The laser infuser is set to start making charged crystals!\n\nLet's wait for it to begin charging crystals.\n\nDon't forget to power the Laser Infuser.,Laserinfusorn är inställd på att börja tillverka laddade kristaller!\n\nLåt oss vänta på att den ska börja ladda kristaller.\n\nGlöm inte att strömförsörja laserinfusorn.
-OBSOLETE,tutorial_surveystartsectorsurvey,3054,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan.,Sektorscanningar söker efter intressanta områden i sektorn runt det system som ditt skepp befinner sig i.\n\nScanningen stoppas efter att den har slutförts. Endast ett lager i ett system kan göra en sektorskanning.\n\nKlicka på knappen för att påbörja en sektorskanning.
-OBSOLETE,tutorial_surveystartlocalsurvey,3054,Areas of interest will expire after some time if they are not surveyed. Multiple layers can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,Områden av intresse upphör att gälla efter en tid om de inte undersöks. Flera lager kan bidra till en lokal undersökning.\n\nKlicka på intressepunkten för att påbörja den lokala undersökningen.
-OBSOLETE,bravenewsector_part2_x4,3054,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. The Stargate is too important and valuable for our species to be under their control.","Snälla, låt inte det hända, kapten. Så mycket av mitt liv och så många av mina projekt har gjorts enbart för vinst, jag kan inte låta detta bli ett av dem. Stargate är för viktig och värdefull för vår art för att vara under deras kontroll."
-OBSOLETE,bravenewsector_part2_x5,3054,I have installed a back-door that will cause the Stargate to self-destruct if you command it to. You must trigger it if the rumours are true.,Jag har installerat en bakdörr som får Stargate att självförstöras om du beordrar det. Du måste utlösa den om ryktena är sanna.
-OBSOLETE,stargate_power_fraction,2624,SUPPLIED:\n*X MW / *Y MW,LEVERERAD:\n*X MW / *Y MW
-OBSOLETE,blackhole_part1_setup7,2624,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop first.","Jag behöver material för att syntetisera de resurser vi behöver.  Du kan hjälpa mig med detta, medan jag arbetar med beräkningarna. Jag behöver hyperrymdsisotoper - du borde kunna samla in dem ganska lätt, men du måste skaffa en hyperrymdsskopa först."
-OBSOLETE,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] Konvertera till splitter
-OBSOLETE,hud_convertsplittertotrack,3054,[RMB] Convert to track,[RMB] Konvertera till spår
-OBSOLETE,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,Vi kan inte leverera passagerarna till deras destination utan snabbare än ljuset. Tyvärr är det här skeppet inte utrustat med en egen <b>FTL</b>-drift.\n\nVi måste köpa en och sätta upp den.
-OBSOLETE,tutorial_ftlintro,2624,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,Vi kan inte leverera passagerarna till deras destination utan snabbare än ljuset. Tyvärr är det här skeppet inte utrustat med en egen FTL-drift.\n\nVi måste köpa en och sätta upp den.
-OBSOLETE,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,Öppna handelsskärmen för att köpa en <b>FTL</b>-drivenhet.
-OBSOLETE,tutorial_ftltradescreen,2624,Open the trade screen to purchase an FTL drive.,Öppna handelsskärmen för att köpa en FTL-drivenhet.
-OBSOLETE,newmainmenu_includedocked,2624,INCLUDE DOCKED SHIPS IN EXPORT,INKLUDERA DOCKADE FARTYG I EXPORTEN
-OBSOLETE,hud_layer_hostile,2624,HOSTILE,HOSTILE
-OBSOLETE,hud_layer_derelict,2624,DERELICT,DERELICT
-OBSOLETE,hud_layer_forsale,2624,[FOR SALE],[TILL SALU]
 OBSOLETE,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,Deras yttre slitage får oss att tro att de har varit här i minst ett sekel. Den här sektorn måste ha varit ett av mänsklighetens första försök att kolonisera yttre rymden.
 OBSOLETE,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.","Aktivera funktioner som underlättar för översättare, t.ex. Alt för att visa engelska och Ctrl för att visa frasnyckeln."
 OBSOLETE,shipeditor_tooltip_eyedropper,2793,"Lets you select a paint from the exterior of your ship (can also be used by pressing the ""Shift"" key)","Låter dig välja en färg från utsidan av ditt fartyg (kan också användas genom att trycka på ""Shift""-tangenten)"

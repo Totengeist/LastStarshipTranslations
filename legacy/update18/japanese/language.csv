@@ -1090,11 +1090,10 @@ CURRENT,hud_endcreativemodewarning,2448,LEAVING CREATIVE MODE,クリエイティ
 CURRENT,hud_endcreativemodefull,2448,Creative Mode will end when you jump to hyperspace,ハイパースペースにジャンプするとクリエイティブモードが終了します
 CURRENT,hud_hyperspace,2448,HYPERSPACE,ハイパースペース
 CURRENT,hud_deselectlayer,2448,DESELECT SHIP,シップの選択を解除する
-CURRENT,hud_gun_port,3205,Port *X,左舷*X
-CURRENT,hud_gun_forward,3205,Forward *X,艦首*X
-CURRENT,hud_gun_starboard,3205,Starboard *X,右舷*X
-CURRENT,hud_gun_aft,3205,Aft *X,艦尾*X
-CURRENT,hud_gun_gattling,3205,PDC,CIWS
+CURRENT,hud_direction_up,2448,Port,左舷
+CURRENT,hud_direction_right,2448,Forward,前方
+CURRENT,hud_direction_down,2448,Starboard,右舷
+CURRENT,hud_direction_left,2448,Aft,後方
 CURRENT,hud_camerattracking,2448,Camera Tracking,カメラ追跡
 CURRENT,hud_enabled,2448,Enabled,有効
 CURRENT,hud_disabled,2448,Disabled,無効

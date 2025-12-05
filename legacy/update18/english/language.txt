@@ -387,7 +387,6 @@ newmainmenu_settings                    SETTINGS
 newmainmenu_quit                        QUIT
 newmainmenu_returntomainmenu            RETURN TO MAIN MENU
 newmainmenu_mainmenu                    MAIN MENU
-newmainmenu_continue                    CONTINUE GAME
 newmainmenu_abandon                     ABANDON GAME
 newmainmenu_resume                      RESUME
 newmainmenu_chooseship                  CHOOSE STARTING SHIP
@@ -557,7 +556,6 @@ hud_ftl                                 FTL Drive
 hud_ftlincluded                         Jump
 hud_ftlexcluded                         Stay
 hud_ftlshipnotviablewarning             Ship needs either hull or scaffolding to be brought into hyperspace
-hud_ftlshipblockedfromftl               Ship cannot enter hyperspace with your fleet
 hud_noships                             NO SHIPS SELECTED
 hud_noftl                               NO FTL FOUND
 hud_ftlnodestination                    NO DESTINATION
@@ -573,14 +571,10 @@ hud_endcreativemodefull                 Creative Mode will end when you jump to 
 hud_hyperspace                          HYPERSPACE
 hud_deselectlayer                       DESELECT SHIP
 
-# *X is a gun type (Cannon, Mining Laser, PDC)
-# PDC is Point Defence Cannon
-hud_gun_port                            Port *X
-hud_gun_forward                         Forward *X
-hud_gun_starboard                       Starboard *X
-hud_gun_aft                             Aft *X
-hud_gun_gattling                        PDC
-
+hud_direction_up                        Port
+hud_direction_right                     Forward
+hud_direction_down                      Starboard
+hud_direction_left                      Aft
 hud_camerattracking                     Camera Tracking
 hud_enabled                             Enabled
 hud_disabled                            Disabled
@@ -592,7 +586,6 @@ hud_window_trade                        TRADE
 hud_window_missions                     CONTRACTS
 hud_window_power                        POWERGRID
 hud_window_logistics                    LOGISTICS
-hud_window_interstellarlogistics        INTERSTELLAR LOGISTICS
 hud_window_ftl                          FTL
 hud_window_sectormap                    SECTOR MAP ({ToggleMap})
 hud_window_score                        SCORE
@@ -711,7 +704,7 @@ hud_power_powershortage                 POWER SHORTAGE
 hud_cabins                              Cabins: *X/*Y
 hud_idlecrew                            Idle Crew
 
-hud_consumingperhour                    Consuming *X per day
+hud_consumingperhour                    Consuming *X per hour
 hud_dehydrationperperson                Dehydration *X per person
 hud_hungerperperson                     Hunger *X per person
 
@@ -915,7 +908,6 @@ shipeditor_palettelibrary_upload        UPLOAD
 # Interstellar Travel 
 # =============================================================================
 
-andromeda_travel                        ANDROMEDA JOURNEY
 interstellar_travel                     INTERSTELLAR TRAVEL
 intergalactic_travel                    INTERGALACTIC TRAVEL
 
@@ -952,7 +944,7 @@ survey_title                            UNSURVEYED *X
 
 survey_captionnone                      No survey in progress
 survey_captionsingle                    Surveyed by *X
-survey_captionmultiple                  *X ships surveying
+survey_captionmultiple                  *X layers surveying
 survey_local_noequipment                NO SUPERCOMPUTERS INSTALLED
 
 survey_sector_title                     SECTOR SCAN
@@ -1013,14 +1005,12 @@ trade_category_resource                 Resource
 trade_category_reagent                  Reagent
 trade_cash                              Cash
 trade_confirm                           CONFIRM
+trade_buy                               BUY
+trade_sell                              SELL
 trade_automatic                         AUTO TRADE
 trade_neworder                          NEW ORDER
 trade_autobuyat                         BUY BELOW
 trade_autosellat                        SELL ABOVE
-trade_autohireat                        HIRE BELOW
-trade_autosackat                        SACK ABOVE
-trade_autoembarkat                      EMBARK BELOW
-trade_autodisembarkat                   DISEMBARK BELOW
 trade_all                               ALL
 trade_remove                            REMOVE
 trade_enabled                           ENABLED
@@ -1072,11 +1062,8 @@ trade_sell_ship                         SELL SHIP
 
 trade_allitems                          ALL ITEMS
 
-trade_tooltip_hire                      [LMB] Hire
-trade_tooltip_sack                      [LMB] Sack
-trade_tooltip_embark                    [LMB] Embark
-trade_tooltip_disembark                 [LMB] Disembark
 trade_tooltip_buy                       [LMB] Buy
+trade_tooltip_sack                      [LMB] Sack
 trade_tooltip_sell                      [LMB] Sell
 trade_tooltip_add                       [LMB] Add
 trade_tooltip_remove_rmb                [RMB] Remove
@@ -1088,24 +1075,12 @@ trade_tooltip_disableorder              [CTRL + RMB] Disable
 trade_ourstock                          You have *X on-board
 trade_buying                            Buying *X
 trade_selling                           Selling *X
-trade_hiring                            Hiring *X
 trade_sacking                           Sacking *X
-trade_selling                           Selling *X
-trade_embarking                         Embarking *X
-trade_disembarking                      Disembarking *X
 trade_order_normal                      (*X)
 trade_order_buy_on_sell_screen          (BUY *X)
-trade_order_hire_on_sell_screen         (HIRE *X)
-trade_order_embark_on_sell_screen       (EMBARK *X)
 trade_order_sell_on_buy_screen          (SELL *X)
 trade_order_sack_on_buy_screen          (SACK *X)
-trade_order_disembark_on_buy_screen     (DISEMBARK *X)
-trade_hire                              HIRE
 trade_sack                              SACK
-trade_embark                            EMBARK
-trade_disembark                         DISEMBARK
-trade_buy                               BUY
-trade_sell                              SELL
 trade_tooltip_canceltrade               [LMB] Cancel
 trade_tooltip_cancelalltrade            [RMB] Cancel All
 trade_tooltip_reset                     [RMB] Reset
@@ -1228,12 +1203,6 @@ techtree_node_title_sectorsurvey                 Sector Surveying
 techtree_node_caption_sectorsurvey               Unlock surveying the current sector for new systems nearby.
 techtree_node_title_advancedtracks               Advanced Tracks
 techtree_node_caption_advancedtracks             Unlocks the ability to convert tracks into splitters, and vice versa. Splitters will evenly distribute items between their output directions.
-techtree_node_title_atmosphericprocessing        Atmospheric Processing
-techtree_node_caption_atmosphericprocessing      Unlocks schematics for hardware required to maintain a breathable atmosphere
-techtree_node_title_atmosphericprocessing2       Atmospheric Processing 2
-techtree_node_caption_atmosphericprocessing2     Unlocks more schematics for hardware required to maintain a breathable atmosphere
-techtree_node_title_wasteprocessing              Waste Processing
-techtree_node_caption_wasteprocessing            Unlocks schematics for hardware to capture and reprocess human waste
 
 techtree_node_title_reactorefficiencyrepeatable   Reactor Efficiency
 techtree_node_caption_reactorefficiencyrepeatable Spend research credits to continually improve the efficiency of our reactors.
@@ -1270,8 +1239,6 @@ special_stargatepart3                   Andromeda Project Phases 4, 5
 special_sectorsurvey                    Sector Surveying
 special_tracksplitter                   Splitter Tracks
 
-special_advancedlogistics               Interstellar Logistics
-
 techtree_editor_save                    SAVE CHANGES
 techtree_editor_reset                   RELOAD TREE
 techtree_award_title                    RESEARCH COMPLETED
@@ -1295,19 +1262,6 @@ tactical_maneuvering                    MANEUVERING
 tactical_damaged                        DAMAGED
 tactical_reloading                      RELOADING
 tactical_lowpower                       LOW POWER
-tactical_dockingassistant               DOCKING ASSIST
-tactical_fleetformation                 FLEET FORMATION
-tactical_fleetcombat                    FLEET COMBAT AI
-tactical_on                             ON
-tactical_off                            OFF
-
-tactical_tooltip_dockingassistant       When enabled, the Docking Assistant will perform the final maneuovers required to dock your ship with another, once you are close enough.\n\nIt is recommended you disable Fleet Formation when attempting to dock.
-tactical_tooltip_fleetformation         When enabled, all of the fleet ships within a system will fly together in close formation, following the lead of whichever ship you are directly controlling.
-tactical_tooltip_fleetcombat            When enabled, your other fleet ships will take care of themselves during combat, moving to optimal range and engaging as best they can.
-
-tactical_tooltip_weapon                 [LMB] Select weapon\n[SHIFT-LMB] Select multiple weapons\n[RMB] Clear current target
-tactical_tooltip_auto                   AUTO-TARGETTING\n[LMB] Enable auto-targetting\n[RMB] Disable auto-targetting
-
 
 # =============================================================================
 # Logistics Window
@@ -1318,77 +1272,6 @@ logisticswindow_title                   LOGISTICS
 logistics_tooltip_transfer              [LMB] Transfer 1 from *X
 logistics_tooltip_cancel_transfer       [RMB] Cancel 1 from *X
 logistics_tooltip_modifiers             Modifiers:
-
-logistics_tooltip_add                   [LMB] Add
-logistics_tooltip_remove_rmb            [RMB] Remove
-logistics_tooltip_cancel                [RMB] Cancel
-logistics_tooltip_shift                 [SHIFT] x5
-logistics_tooltip_control               [CTRL] x50
-
-
-# =============================================================================
-# Interstellar Logistics Window
-# =============================================================================
-
-advancedlogisticswindow_title           INTERSTELLAR LOGISTICS
-
-logistics_system_select                 LOCATION
-logistics_create_order                  Create Order
-logistics_loop                          Loop
-
-logistics_order_none                    Order Type
-logistics_order_mine                    Mine
-logistics_order_collect                 Collect Gas
-logistics_order_buy                     Buy
-logistics_order_sell                    Sell
-logistics_order_transferto              Transfer To
-logistics_order_transferfrom            Transfer From
-
-logistics_condition_none                Amount
-logistics_condition_quantity            Quantity
-logistics_condition_stacks              Stacks
-logistics_condition_containers          Containers
-logistics_condition_allbut              All But
-logistics_condition_storagefull         Until Storage Full
-logistics_condition_all                 All Available
-logistics_condition_time                Minutes
-
-logistics_transferto_none               DESTINATION SHIP
-logistics_transferfrom_none             SOURCE SHIP
-
-logistics_item_none                     Select Item
-
-logistics_stuck_default                 Orders stuck
-logistics_stuck_invalidsystem           System S*X does not exist
-logistics_stuck_invalidlayer            Ship L*X does not exist
-logistics_stuck_equipment               L*X does not have a working R*Y
-logistics_stuck_resources               L*X does not have any R*Ys
-logistics_stuck_patches                 System S*X does not have any R*Y to mine
-logistics_stuck_gas                     System S*X does not have any R*Y to collect
-logistics_stuck_tradingpost             System S*X does not have a trading post
-logistics_stuck_resourcestosell         L*X does not have any R*Y to sell
-logistics_stuck_stargate                Stargate is not ready for jump
-
-logistics_status_notrunning             No order currently running
-logistics_status_travelling             Travelling to system S*X
-logistics_status_mining                 Mined *X R*Y
-logistics_status_miningstacks           (*X/*Y stacks)
-logistics_status_miningstacks1          (*X stacks)
-logistics_status_collect                Collected *X R*Y
-logistics_status_collectcontainers      (*X/*Y containers)
-logistics_status_collectcontainers1     (*X containers)
-logistics_status_transferto             Transfering *X R*Y to L*Z
-logistics_status_transferfrom           Transfering *X R*Y from L*Z
-logistics_status_buy                    Bought *X R*Y for $*Z
-logistics_status_sell                   Sold *X R*Y for $*Z
-logistics_status_notlooping             Finished execution (not looping)
-logistics_status_time1                  in *X:*Y
-logistics_status_time2                  in *X:0*Y
-logistics_status_time3                  in 0*X:*Y
-logistics_status_time4                  in 0*X:0*Y
-
-logistics_tooltip_skiporder             Skip currently executing order
-logistics_tooltip_loop                  Loop execution
 
 
 # =============================================================================
@@ -1411,7 +1294,6 @@ order_fleetlogistics                    Fleet Logistics
 order_battlestations                    Battle Stations
 order_mining                            Mining
 order_autotradeactive                   Auto Trade
-order_advancedlogistics                 Interstellar Logistics
 
 action_opendoors                        Open All Doors
 action_closedoors                       Close All Doors
@@ -1433,7 +1315,6 @@ mission_cannotassigntolayer             Cannot assign to *X
 mission_episode_1                       EPISODE 1
 mission_deliver                         Deliver
 mission_turnin                          Turn in contract
-mission_objective_done                  DONE
 mission_completed                       COMPLETED
 mission_failed                          FAILED
 mission_bypassed                        BYPASSED
@@ -2176,8 +2057,6 @@ alert_type_abouttoautosave_caption      Autosaving in *X...
 alert_type_emp                          EMP
 alert_type_emp_caption                  *X piece(s) disabled
 alert_type_emp_tooltip                  Your ship has been struck by lightning, temporarily disabling some of your equipment.
-alert_type_interstellarlogistics        INTERSTELLAR LOGISTICS
-alert_type_interstellarlogistics_caption Orders stuck
 
 warning_unbreathable                    UNBREATHABLE
 warning_suitsrequired                   SPACESUITS REQUIRED
@@ -2188,7 +2067,7 @@ warning_storagerequired                 CREATE STORAGE ZONES
 # Misc
 # =============================================================================
  
- format_currency                        $*X
+ format_currency                        $*X 
  format_per_square                      *X / sq
 
 # =============================================================================
@@ -2228,10 +2107,9 @@ recipe_quantity_required                *X x *Y
 stargate_energy_required                REQUIRED: *X MW
 stargate_energy_received                RECEIVED: *X MW
 
-stargate_power_fraction                 *X / *Y MW
+stargate_power_fraction                 SUPPLIED:\n*X MW / *Y MW
 
 stargate_power_button                   START
-stargate_startandromedajump             TEST ANDROMEDA JUMP
 stargate_powered_off                    POWERED OFF
 stargate_warming_up                     WARMING UP
 stargate_powering_on                    STARTING UP
@@ -2242,21 +2120,11 @@ stargate_jumping                        JUMP IN PROGRESS
 stargate_testfire_help                  Captain, the Stargate is ready for its first test. If supplied with enough power it should provide us access to a nearby uncharted sector.
 smelt_title                             Smelt *X
 
-stargate_power_tooltip                  POWER REQUIRED: *X MW
-stargate_distance_travelled             *X kly REMAINING
-stargate_journey_completed              *X% COMPLETED
-
-stargate_sell                           SELL ALL (*X FOR *Y)
-stargate_price_per_unit                 *X PER UNIT
-stargate_total_price                    *X TOTAL
 
 stargate_award_title                    STARGATE PROGRESS
 stargate_award_subtitle                 Phase *X Completed
 stargate_available_subtitle             Phase *X Available
 stargate_unlocked_subtitle              Stargate window unlocked
-
-stargate_award_complete_title           STARGATE COMPLETED
-stargate_award_complete_subtitle        All phases completed
 
 stargate_unknowncomponent               Unknown Component
 stargate_unknowncomponent_description   Unlock this component through research!
@@ -2521,10 +2389,9 @@ tutorial_buyshipsuccess               Well done, you have purchased the <b>JMC M
 
 tutorial_radiation_title            RADIATION
 tutorial_radiationintro             We are going to learn about radiation.
-tutorial_radiationselectfriendly    First, select a friendly ship with a laser infuser available.
-tutorial_radiationinstallinfuser    Laser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area and power it.
-tutorial_radiationsetupinfuser      Let's set the laser infuser to use them to produce charged crystals.
-tutorial_radiationwaitforinputs     The laser infuser is set to start making charged crystals! Laser infusers use Zeleon Energy Cells to charge the crystals.\n\nLet's wait for it to begin charging crystals.
+tutorial_radiationinstallinfuser    A laser infuser has been delivered to your ship.\n\nLaser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area.
+tutorial_radiationsetupinfuser      An empty crystal and some zeleon energy cells have been delivered to your ship too.\n\nLet's set the laser infuser to use them to produce charged crystals.
+tutorial_radiationwaitforinputs     The laser infuser is set to start making charged crystals!\n\nLet's wait for it to begin charging crystals.\n\nDon't forget to power the Laser Infuser.
 tutorial_radiationselectoverlay     The game has been set to a slower speed for now.\n\nRadiation is emitted in all directions away from the laser infuser.\n\nClick on the radiation overlay to view where your ship is irradiated.
 tutorial_radiationselectoverlay2    All green areas of your ship are safe for your crew, but the darker areas are dangerous.\n\nSpacesuits will protect your crew from being irradiated.
 tutorial_radiationinstallblockers   Radiation spread can be limited by special equipment called radiation blockers.\n\nInstall some blockers close to your laser infuser, leaving a small gap between the infuser and the blocker.\n\nIncrease the game speed when you are ready.
@@ -2539,11 +2406,11 @@ tutorial_radiationsuccess           Well done, you have now learnt how radiation
 tutorial_survey_title                       SECTOR SURVEYING
 tutorial_surveyintro                        We are going to learn how to survey the area around your ship.\n\nThe first step is to scan the local area of the sector surrounding you ship using a <b>SECTOR SCAN</b>.\n\nIn Boldly Go, only the new sector can be surveyed.\n\nHyperspace sensors are required to do this. 
 tutorial_surveyinstallsensors               Install Hyperspace Sensors or Hyperspace Sensor LRs onto one of your ships.\n\nThis tutorial will resume afterwards.\n\nIf you are playing the Boldly Go game mode, your ship must also be in the new sector.
-tutorial_surveystartsectorsurvey            Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one ship in a system can do a sector scan.\n\nClick the button to begin a sector scan. 
+tutorial_surveystartsectorsurvey            Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan. 
 tutorial_surveyhighlightsectorsurveysystem  Hovering the mouse over the current system will reveal the radius around the system that is being scanned and the scan's progress toward finding new points of interest.\n\nOpen the <b>SECTOR MAP</b> and click <b>NEXT</b> to speed-up the survey.
 tutorial_surveylocalsurveyintro             The next step is to perform a <b>LOCAL SURVEY</b>.\n\nLocal surveys allow points of interest to be accessed via FTL.\n\nShips need to have super computers installed and must be in the same sector to participate in a local survey.
 tutorial_surveyinstallcomputers             Install a super-computer on one of your ships.\n\nThis tutorial will resume afterwards.
-tutorial_surveystartlocalsurvey             Areas of interest will expire after some time if they are not surveyed. Multiple ships can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.
+tutorial_surveystartlocalsurvey             Areas of interest will expire after some time if they are not surveyed. Multiple layers can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.
 tutorial_surveyoutro                        Click <b>NEXT</b> to speed-up the survey.
 tutorial_surveysuccess                      A new system on the sector map has appeared for your fleet to explore!\n\nWell done, you have now learnt how to use sector surveying to find and explore new systems.\n\nKeep an eye out for special loot on surveyed derelict ships that can be researched by your science stations.
 
@@ -2750,13 +2617,12 @@ blackhole_part1_setup4                  The last time, we pushed it too far.  My
 blackhole_part1_setup5                  I've lost all contact, and he's been down there for a long time now.  He's still showing on the sensors, and his ship is still intact.  The gravitational forces and time dilation will be extreme.  But with your help, we're going to rescue him.
 blackhole_part1_setup6                  There's only one way to get to him without falling into the black hole ourselves.  We're going to have to do an extremely short range HYPERSPACE HOP.
 blackhole_part1_setup6b                 Using a modified FTL Drive you'll do one hyperspace hop toward the black hole, rescue my brother Marcus, then turn around and hop right out.  It will be dangerous, but it's the only way to avoid being dragged in ourselves.
-blackhole_part1_setup7                  I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop and a tank to store the isotopes in first.
+blackhole_part1_setup7                  I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop first.
 blackhole_part1_setup7b                 You'll then need to use a Loader to start unloading the isotopes into containers.
 blackhole_part1_setup8                  I'm building the Hyperspace FTL drive that will allow you to perform the hop.  It's going to need some modifications.  I'll need you to manufacture some parts for me. I know you have manufacturing facilities near the Stargate project.  You should be able to make these parts for me without too much trouble.
 blackhole_part1_setup9                  Bring those materials back to me, and we can move onto phase 2.
 
 blackhole_objective_scoop               Acquire a Hyperspace Scoop
-blackhole_objective_tank                Acquire a Storage Tank
 blackhole_objective_isotopes            Collect Hyperspace Isotopes [*X/*Y]
 blackhole_objective_containers          Unload the Hyperspace Isotopes into Containers [*X/*Y]. *Z Containers used
 blackhole_objective_modulators          Manufacture Hyperspace Modulators [*X/*Y]
@@ -2764,13 +2630,10 @@ blackhole_objective_modulators          Manufacture Hyperspace Modulators [*X/*Y
 blackhole_part1_hintisotopes1           Looks like you have a Hyperspace Scoop!  You can use this to gather the Hyperspace Isotopes I need.
 blackhole_part1_hintisotopes2           You'll need to install the Scoop facing forward on the front of your ship, then connect its pipe output to a storage tank.
 blackhole_part1_hintisotopes3           The Scoop works only when you are in hyperspace. So you'll need to gather the isotopes over a few FTL jumps.
-blackhole_objective_storagetank         Connect a tank to the Hyperspace Scoop
 
 blackhole_part1_hintunloading1          You've collected some Hyperspace Isotopes in a tank! You'll need to pump them into Containers so we can easily move them between ships.
 blackhole_part1_hintunloading2          Buy a LOADER from any trade post and install it near your Hyperspace Isotope tanks. Connect the pipes, and set the loader to 'UNLOAD'.
 blackhole_part1_hintunloading3          You should also designate some storage space for the Isotope containers.
-blackhole_objective_loader              Connect a Loader to the tank
-blackhole_objective_unloadloader        Set the Loader to UNLOAD
 
 blackhole_part1_return1                 You've gathered the materials I need! Bring them back to me at Qz247 to complete the contract.
 blackhole_part1_sendingshuttle          I'm sending a shuttle to you now, Captain. Get your crew to load the Hyperspace Isotopes for me.
@@ -3365,7 +3228,7 @@ tutorial_dsisetupdone                       The smelter will now start producing
 
 tutorial_stargatewindowopenwindow           Select the Stargate button in your toolbar to open the Stargate screen.
 tutorial_stargatewindowintro                The Stargate screen displays everything you need to manufacture to complete the current phase.
-tutorial_stargatewindowhighlightcomponent   Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.
+tutorial_stargatewindowhighlightcomponent   Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.
 tutorial_stargatewindowhighlightphases      The Stargate's construction is split into phases, with each phase requiring more and more resources.\nYou have just completed Phase 1.
 tutorial_stargatewindowhighlightphase2      Select Phase 2 to see what you need to manufacture for this phase.
 tutorial_stargatewindowhighlightframes1     To complete Phase 2, we need to continue manufacturing Stargate Frames.\n\nInstead of 10, we now need 200!
@@ -3494,10 +3357,6 @@ dsi_part1_debrief5                          Goodbye for now!
 dsi_part2_title                             Deep Space Industrialists, Part 2
 
 dsi_part2_summary                           Resume work on the Stargate with X
-
-dsi_part2_dogmavessel1                      D.O.G.M.A Spartan
-dsi_part2_dogmavessel2                      D.O.G.M.A Citadel
-dsi_part2_dogmavessel3                      D.O.G.M.A Centurion
 
 dsi_part2_advertisement                     Captain, I think it's time we resumed work on the Stargate contract.  I've had a look ahead and the next phase is a huge step up.  Give me a call when you're ready to continue work.
 
@@ -3649,8 +3508,8 @@ bravenewsector_part2_summary    Uncover the history of the new sector.
 
 bravenewsector_part2_x1             Hello again Captain, the Andromeda Project is very impressed with the samples you've sent them. They want your work on the Stargate to continue.
 bravenewsector_part2_x3             I must warn you, there are rumours that their plan is to take the Stargate fully under their control. They will charge anyone who wants to use it a fortune, preventing any competition and harvesting all the resources in the new galaxy for themselves. They will become more powerful than any entity we have seen before.
-bravenewsector_part2_x4             Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. As a safeguard against the Andromeda Project, I have installed a back-door that allows you to take control of the Stargate and any devices commanding it.
-bravenewsector_part2_x5             Please use it if they restrict the use of the Stargate for their own gain.
+bravenewsector_part2_x4             Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. The Stargate is too important and valuable for our species to be under their control.
+bravenewsector_part2_x5             I have installed a back-door that will cause the Stargate to self-destruct if you command it to. You must trigger it if the rumours are true.
 bravenewsector_part2_x6             Unfortunately, I've been given some bad news, and I won't be around for much longer. I would like to give you full ownership of the foundry as a thank you for helping me finish this final project.
 bravenewsector_part2_x7             It seems we have completed it just in time.
 bravenewsector_part2_x8             This is our final call, Captain. I wish you the best of luck. Thank you again, and goodbye.
@@ -3721,125 +3580,6 @@ bravenewsector_part3_receivezeleon      Receive Zeleon Energy Cell
 bravenewsector_part3_artemis_results_5  The next step is to research how this all applies to the Stargate. My hypothesis is that we can use the crystal's energy-density properties to enable jumps much farther than the next sector.
 bravenewsector_part3_artemis_results_6  Good luck with your research, Captain.
 
-
-# =============================================================================
-# Brave New Sector, Part 4
-# =============================================================================
-
-bravenewsector_part4_title                  Brave New Sector, Part 4
-bravenewsector_part4_summary                Complete the final test.
-
-bravenewsector_part4_intro                  Captain, preparations have concluded for the final Stargate test. We are ready to send a ship to the Andromeda Galaxy. Please call us when you are ready.
-bravenewsector_part4_call_action            Call the Representative
-
-bravenewsector_part4_rep1                   The materials you provided to us have been fitted to the Stargate. It is fully functional and ready to test.
-bravenewsector_part4_rep2                   This is a monumental moment in the history of our species. If this test is successful the Andromeda Project will be the first entity to send mankind to another galaxy.
-bravenewsector_part4_rep3                   Captain, you will need to begin the test and provide power for the entire journey so our test ship can reach the Andromeda Galaxy. This will require a significant amount of energy, more than what's needed to travel between sectors.
-bravenewsector_part4_rep4                   Please begin the test when you are ready.
-
-bravenewsector_part4_objective_test         Send the test ship to the Andromeda Galaxy
-bravenewsector_part4_action_starttest       Start Test
-
-bravenewsector_part4_reachandromeda_award   ANDROMEDA REACHED
-bravenewsector_part4_reachandromeda_caption Signal received from test ship
-
-bravenewsector_part4_andromeda_bonus        ANDROMEDA BONUS
-bravenewsector_part4_andromeda_caption      Payment for sending the test ship
-
-bravenewsector_part4_rep5                   Captain, the Stargate has received a signal from the Andromeda Galaxy.
-bravenewsector_part4_rep6                   The test ship made it. The test was a complete and total success. This is a historic moment for all of mankind.
-bravenewsector_part4_rep7                   It couldn't have been done without you Captain. Your industrial expertise and dedication to the project have been invaluable.
-bravenewsector_part4_rep8                   Thank you Captain, your contribution will not be forgotten. Goodbye for now.
-
-bravenewsector_part4_objective_wait         Await further instructions
-
-bravenewsector_part4_harken1                Captain, there are reports that the Andromeda Project are withholding access to the Stargate from any ships that aren't their own.
-bravenewsector_part4_harken2                My sensors are detecting major fleet movements towards the Stargate, it looks like the Andromeda Project is aiming to secure their control over it.
-bravenewsector_part4_harken3                This is... concerning. Be careful, I don't like the look of this.
-
-bravenewsector_part4_rep9                   Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy and the Andromeda galaxy.
-bravenewsector_part4_rep10                  The next stage of the project has begun. Our fleet has obtained full control over the Stargate and we are currently in the process of moving our workforce into the new galaxy.
-bravenewsector_part4_rep11                  We will bring prosperity to all those who work with us. Speak to you soon, Captain. We may have some more work for you in the future.
-
-bravenewsector_part4_testshipname 	        Andromeda Test Ship MK.1
-
-
-# =============================================================================
-# The Final Stand
-# =============================================================================
-
-thefinalstand_title                         The Final Stand
-thefinalstand_summary                       Stop the Andromeda Project.
-
-thefinalstand_harken1_intro                 Captain! In direct violation of intergalactic law, the Andromeda Project has permanently closed access to the Stargate outside of their own ships. Billions of colonists have been stranded in the new sector, unable to return home.
-thefinalstand_harken2_intro                 You are the only one outside of the Andromeda Project with access codes, please call back as soon as you can. They must be stopped.
-
-thefinalstand_call_action                   Call Harken
-
-thefinalstand_andromedahq_name              ANDROMEDA HQ
-thefinalstand_andromedaflagship_name        ANDROMEDA FLAGSHIP
-thefinalstand_ai_name                       ANDROMEDA SHIP CONTROL
-
-thefinalstand_harken1                       Greetings Captain, I was worried you had taken their side in all of this.
-thefinalstand_harken2                       The Andromeda Project has moved their HQ and all key personell into an unknown location in the new sector, where we believe they are controlling the Stargate.
-thefinalstand_harken3                       My plan is to use our fleets to take control of the HQ by force. Any and all damage to the HQ should be avoided, many innocent lives are on-board and the loss of life from destroying it would be far too great.\nI have devised a plan with an old friend of yours that should minimise casualties...
-
-thefinalstand_artemis1                      Hello again Captain!
-thefinalstand_artemis2                      After some careful analysis of the Stargate's blueprints, I have found the backdoor that the late Alexander James Elistar has left you.
-thefinalstand_artemis3                      You will use this backdoor to upload a small virus that I have written to their command centre within the HQ. It will disable the station's offensive capabilities and place itself under your command.
-
-thefinalstand_harken4                       While you neutralise the HQ, my fleet will fight off the Andromeda Project navy. Once the battle is over, I will take control of the HQ and arrest everyone involved. Their conglomerate will be dismantled.
-thefinalstand_harken5                       The Stargate will fall back into your sole control. I've marked an allied shipyard on your map. I'll hide out there in the mean-time.
-thefinalstand_harken6                       Meet me to discuss the plan further. Goodbye for now.
-
-thefinalstand_objective_traveltoharken      Travel to Harken 
-
-thefinalstand_battleprep_1                  Hello Captain, it's good to see you. These are all of the ships I control in this sector, the rest are on the other side of the Stargate, unable to reach us.
-thefinalstand_battleprep_2                  My officers have pin-pointed the position of their HQ. Upon arrival we expect to be met with heavy resistance from their private security forces.
-thefinalstand_battleprep_3                  I should be able to grab their attention away from your fleet while you get close and take control of the station.
-thefinalstand_battleprep_4                  Good luck Captain, I'll see you on the battlefield.
-
-thefinalstand_objective_destroyhq           Take control of the Andromeda Project HQ
-
-thefinalstand_battleintro_rep1              I gave you a very clear warning, Captain. You could've had anything in the universe as our business partner.
-thefinalstand_battleintro_rep2              Now you must be destroyed.
-thefinalstand_battleintro_rep3              It was a pleasure working with you.
-
-thefinalstand_battleintro_dogma1            This is DOGMA Private Security force, we are en-route to the disturbance. ETA: imminent.
-
-thefinalstand_battleintro_harken1           There are multiple hostile signatures inbound on our position! You must get in close range of the HQ and upload the virus. I'll do my best to keep their ships off you.
-thefinalstand_battleintro_harken2           They're about to arrive, hurry!
-
-thefinalstand_objective_flytohq             Fly close to the HQ
-thefinalstand_objective_destroyhostiles     Destroy remaining hostiles: *X
-thefinalstand_backdoor_action               Trigger Backdoor
-
-thefinalstand_battle_harken1                Great work Captain! But my sensors are detecting a massive signature headi-
-thefinalstand_battle_rep1                   Commander Harken! I see that my first fleet has failed to deal with you. I suppose if I want something done properly I should do it myself.
-
-thefinalstand_boss_harken1                  I've lost both of my frigates Captain! I don't have enough firepower to win this!
-thefinalstand_boss_harken2                  This is the Andromeda Navy's flagship! You should have access to its command centre from the HQ!
-
-thefinalstand_boss_artemis1                 Captain, I can route a signal to their powergrid and overload their generators, tell me when to trigger it!
-
-thefinalstand_objective_destroyboss         Destroy the Andromeda Flagship
-
-thefinalstand_boss_overloadcaption          OVERLOAD GENERATOR
-
-thefinalstand_battleoutro_ship1             DANGER: POWER SYSTEMS DETERIORATING. POWER GRID OVERLOADED.
-thefinalstand_battleoutro_rep1              I don't understand, how is that possible!?
-
-thefinalstand_battleoutro_ship2             DANGER: GENERATOR STATUS CRITICAL.
-thefinalstand_battleoutro_rep2              Send all available power to railguns, set target to- 
-
-thefinalstand_battleoutro_harken1           This is a message for Andromeda HQ. I am Commander Harken, Chief of Private Security for this sector, and I command you to stand down.
-thefinalstand_battleoutro_harken2           The Andromeda Navy in this sector has been destroyed, you are now blockaded, there is nothing left to fight for.
-thefinalstand_battleoutro_harken3           It's over, Captain. The Andromeda HQ will be placed under the jurisdiction of the Intergalactic Security Council while I make the necessary arrests. The access codes for the Stargate are back under your control.
-thefinalstand_battleoutro_harken4           The current leadership of the Andromeda Project will be dismantled and the new galaxy will be freed from their control.
-thefinalstand_battleoutro_harken5           You've proven that you can be trusted with control of the Stargate, so I'll leave it in your hands.
-thefinalstand_battleoutro_harken6           Goodbye Captain, and good luck with your new place in the galaxy.
-
-thefinalstand_end_objective_leave           Leave the HQ
 
 # =============================================================================
 # Translation Editor
@@ -3950,7 +3690,6 @@ creditsextras_testers_32            Shalom Vuzantoko
 creditsextras_testers_33            Kelsey-Leigh G. White
 creditsextras_testers_34            Jonathan Weinel
 creditsextras_testers_35            Andrei Copaceanu
-creditsextras_testers_36            Joseph Knight
 
 creditstitle_translators            Translation
 
@@ -3963,8 +3702,6 @@ credits_playtime                    Playtime
 
 survivalend_quitmessage1            We hope you enjoyed playing the demo of The Last Starship. Your journey has just begun!  Unlock the full game to explore more Story Episodes, Survival Mode, Arena Mode, a full Ship Editor and more!
 survivalend_quitmessage             After a long and perilous journey, the survivors emerged into a new and uncharted galaxy.  Those left behind faced a desperate, nomadic life.  But those that made the jump face an even more uncertain future.  Humanity's survival remains on a knife edge...
-
-industryend_message                 Now the Andromeda HQ has been captured, Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind spreads beyond our home galaxy and into the future.
 
 engine_thrust                       THRUST *X%
 

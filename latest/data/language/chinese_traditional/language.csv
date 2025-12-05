@@ -1,6 +1,5 @@
 ﻿state,key,svn,english,translation
-UPDATED,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,您需要生產的每個組件都在右側。\n將鼠標懸停在組件圖標上，即可顯示該組件的生產方式。
-PREVIOUS,tutorial_stargatewindowhighlightcomponent,2448,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,您需要生產的每個組件都在左側。\n將鼠標懸停在組件圖標上，即可顯示該組件的生產方式。
+CURRENT,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,您需要生產的每個組件都在右側。\n將鼠標懸停在組件圖標上，即可顯示該組件的生產方式。
 CURRENT,logistics_tooltip_skiporder,3248,Skip currently executing order,跳過當前執行的訂單
 CURRENT,logistics_tooltip_loop,3248,Loop execution,循環執行
 CURRENT,thefinalstand_artemis1,3248,Hello again Captain!,又見面了，艦長！
@@ -623,7 +622,7 @@ CURRENT,tutorial_buyshipbuy,2886,Click on the <b>BUY</b> button to purchase the 
 CURRENT,tutorial_buyshipsuccess,2886,"Well done, you have purchased the <b>JMC MINING STATION</b>.",幹得好，您已經購買了 <b>JMC MINING STATION</b>。
 CURRENT,settings_accentinsensitivesearch,2803,Accent Insensitive Search,忽略重音搜索
 CURRENT,settings_accentinsensitivesearch_description,2803,"When searching in lists, ignore accented characters, e.g. ""é"" will match ""e""",在列表中搜索時忽略重音字符，例如 “é” 將匹配 “e”
-CURRENT,settings_translatorassist,2803,"Translator Assist (Ctrl, Alt)",翻譯輔助 (Ctrl, Alt)
+CURRENT,settings_translatorassist,2803,"Translator Assist (Ctrl, Alt)","翻譯輔助 (Ctrl, Alt)"
 CURRENT,settings_sound,2793,SOUND,聲音
 CURRENT,settings_appearance,2793,APPEARANCE,外觀
 CURRENT,settings_keybindings,2793,KEYBOARD,按鍵綁定
@@ -1129,27 +1128,27 @@ CURRENT,toolsmenu_dialogeditor,2448,Dialog Editor,對話框編輯器
 CURRENT,toolsmenu_spriteeditor,2448,Sprite Editor,精靈編輯器
 CURRENT,toolsmenu_close,2448,Close,關閉
 CURRENT,steamworkshopmenu_title,2448,Steam Workshop Menu,Steam 創意工坊菜單
-CURRENT,steamworkshopmenu_savegamesectionlabel,2448,"""========================== Save Games ==========================","""========================== 遊戲存檔 =========================="
+CURRENT,steamworkshopmenu_savegamesectionlabel,2448, ========================== Save Games ==========================,"""========================== 遊戲存檔 =========================="
 CURRENT,steamworkshopmenu_uploadsavegametitlelabel,2448,Title,標題
 CURRENT,steamworkshopmenu_uploadsavegamedesclabel,2448,Description,描述
 CURRENT,steamworkshopmenu_uploadsavegame,2448,Upload,上傳
 CURRENT,steamworkshopmenu_updateselectedsavegame,2448,Update Selected,更新選中項
 CURRENT,steamworkshopmenu_savegamelegalagreementtext,2448,"By submitting this item, you agree to the",提交此物品即表示您同意
 CURRENT,steamworkshopmenu_savegamelegalagreementbutton,2448,workshop terms of service,創意工坊服務條款
-CURRENT,steamworkshopmenu_uploadsavegameprogress,2448,"""=","""="
+CURRENT,steamworkshopmenu_uploadsavegameprogress,2448, =,"""="
 CURRENT,steamworkshopmenu_publishedsavegamelistlabel,2448,Published Save Games,已發佈的存檔
 CURRENT,steamworkshopmenu_refreshpublishedsavegamelist,2448,Refresh List,刷新列表
 CURRENT,steamworkshopmenu_subscribedsavegamelistlabel,2448,Subscribed Save Games,已訂閱的存檔
 CURRENT,steamworkshopmenu_refreshsubscribedsavegamelist,2448,Refresh List,刷新列表
 CURRENT,steamworkshopmenu_loadselectedsavegame,2448,Load,加載
-CURRENT,steamworkshopmenu_shipsectionlabel,2448,"""=============================== Ships ===============================","""=============================== 飛船 ==============================="
+CURRENT,steamworkshopmenu_shipsectionlabel,2448, =============================== Ships ===============================,"""=============================== 飛船 ==============================="
 CURRENT,steamworkshopmenu_uploadshiptitlelabel,2448,Title,標題
 CURRENT,steamworkshopmenu_uploadshipdesclabel,2448,Description,描述
 CURRENT,steamworkshopmenu_uploadship,2448,Upload,上傳
 CURRENT,steamworkshopmenu_updateselectedship,2448,Update Selected,更新選中項
 CURRENT,steamworkshopmenu_shiplegalagreementtext,2448,"By submitting this item, you agree to the",提交此物品即表示您同意
 CURRENT,steamworkshopmenu_shiplegalagreementbutton,2448,workshop terms of service,創意工坊服務條款
-CURRENT,steamworkshopmenu_uploadshipprogress,2448,"""=","""="
+CURRENT,steamworkshopmenu_uploadshipprogress,2448, =,"""="
 CURRENT,steamworkshopmenu_publishedshiplistlabel,2448,Published Ships,已發佈的飛船
 CURRENT,steamworkshopmenu_refreshpublishedshiplist,2448,Refresh List,刷新列表
 CURRENT,steamworkshopmenu_subscribedshiplistlabel,2448,Subscribed Ships,已訂閱的飛船
@@ -2962,7 +2961,6 @@ CURRENT,dsi_part2_scene_z4,2448,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2448,THERE WILL BE NO FURTHER WARNING.,將不再發出警告。
 CURRENT,dsi_part2_scene_y7,2448,You've left me no choice.,你讓我別無選擇。
 CURRENT,dsi_part2_scene_y8,2448,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.",我會來找你的，亞歷山大，這次我不要求10%。我要全部
-CURRENT,keybinding_alttool,2872,Alt Editor Tool,Alt 編輯工具
 CURRENT,hud_jumpgalaxies,2872,ESCAPE THE GALAXY,逃離銀河系
 CURRENT,hud_window_recipes,2872,RECIPES,配方
 CURRENT,hud_recipes_goback,2872,GO BACK,返回
@@ -3014,6 +3012,181 @@ CURRENT,bravenewsector_part1_representative6,2872,"The results of your research 
 CURRENT,bravenewsector_part1_representative7,2872,We expect a shipment of Neubidium ingots and the stabilised Zeleon gas.,我們希望能收到一批Neubidium錠和穩定的Zeleon氣體。
 CURRENT,bravenewsector_part1_representative8,2872,"Thank you for your co-operation, Captain.",謝謝你的合作，艦長。
 CURRENT,bravenewsector_part1_dophase6,2872,Complete Phase 6 of the Stargate Project,完成星門項目第六階段
+CURRENT,keybinding_alttool,2872,Alt Editor Tool,Alt 編輯工具
 CURRENT,trade_equipment_size,2872,- Size *X x *Y,- 尺寸 *X x *Y
 CURRENT,trade_equipment_rotatable,2872,- Rotatable,- 可旋轉
 CURRENT,trade_equipment_powered,2872,- Powered,- 需要供電
+OBSOLETE,tutorial_stargatewindowhighlightcomponent,2448,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,您需要製造的每個元件都在左側。\n將滑鼠放在元件圖示上，就會顯示如何製造該元件。
+OBSOLETE,thefinalstand_harken2,3239,"My scientists and officers have analysed the blueprints of the Stargate project, provided to us by the late Alexander James Elistar.",我的科學家和軍官分析了已故亞歷山大-詹姆斯-艾利斯達提供給我們的星門計劃藍圖。
+OBSOLETE,thefinalstand_harken3,3239,"The Andromeda Project has moved their HQ and all key personell into an unknown location in the new sector, where we believe they are controlling the Stargate.",仙女座計畫已經將他們的總部和所有關鍵人物遷移到新區域的一個未知地點，我們相信他們在那裡控制著星門。
+OBSOLETE,thefinalstand_harken4,3239,"Elistar has left you with a backdoor into the Stargate's security systems, compromising all devices controlling it and providing us with direct access to the Andromeda Project's systems.",伊利斯達給你留下了一個進入星門安全系統的後門，危及了所有控制星門的裝置，讓我們可以直接進入仙女座計劃的系統。
+OBSOLETE,thefinalstand_harken5,3239,"Any and all damage to the HQ should be avoided. Many innocent lives are on-board that HQ, the loss of life from destroying it would be far too great. You will upload a virus to their command centre and disable the station's offensive capabilities.",應該避免任何對總部的破壞。總部內有許多無辜的生命，摧毀總部會造成巨大的生命損失。您將上傳病毒到他們的指揮中心，使該站失去攻擊能力。
+OBSOLETE,thefinalstand_harken6,3239,"While you are doing this, my fleet will fight off the Andromeda Project navy. Once the battle is over, I will take control of the HQ and arrest everyone involved. Their conglomerate will be dismantled.",當你在做這些事的時候，我的艦隊將會對抗仙女座計劃的海軍。一旦戰爭結束，我會控制總部，逮捕所有相關人員。他們的集團將會被瓦解.
+OBSOLETE,thefinalstand_boss_harken2,3239,"The previous ships were private security, this one is the Andromeda Navy's flagship! You should have access to its command centre from the HQ.",之前的船是私人保衛艦，這艘是仙女座海軍的旗艦！你應該可以從總部進入它的指揮中心.
+OBSOLETE,industryend_message,3239,"After capturing the Andromeda HQ, Harken and the Intergalactic Security Council dismantled the Andromeda Project conglomerate.  The control of the Stargate was left in the hands of the Captain that built it.  Humanity's journey across the universe has only just begun...",奪下仙女座總部後，哈肯和星際安全委員會解散了仙女座計畫集團。  星門的控制權則交到了建造星門的船長手中。  人類橫跨宇宙的旅程才剛剛開始...
+OBSOLETE,bravenewsector_part4_rep9,3239,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy the Andromeda.,你好，船長新完成的星際之門讓仙女座計畫處於有利的地位 可以控制這個星系和仙女座之間的資源和人流
+OBSOLETE,thefinalstand_battleprep_1,3239,"Hello Captain, it's good to see you. This is all of the ships I control in this sector, the rest are on the other side of the Stargate, unable to reach us.",你好，船長，很高興見到你。這是我在這個區域控制的所有飛船，其他的都在星門的另一邊，無法接觸到我們。
+OBSOLETE,thefinalstand_battle_rep1,3239,Commander Harken! I see that my first fleet failed to deal you. I suppose if I want something done properly I should do it myself.,哈肯指揮官我看我的第一支艦隊沒能搞定你我想，如果我想把事情做好，我就應該自己來做。
+OBSOLETE,hud_consumingperhour,3149,Consuming *X per hour,每小時消耗*X 
+OBSOLETE,survey_captionmultiple,3054,*X layers surveying,*X 圖層測量
+OBSOLETE,tutorial_radiationinstallinfuser,3054,A laser infuser has been delivered to your ship.\n\nLaser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area.,一個雷射注入器已送到您的船上。\n\n雷射注入器是用來為空晶體充入銫離子氣體，並且在通電時會向周圍區域放射輻射。\n\n將雷射注入器安裝在一個空曠的區域。
+OBSOLETE,tutorial_radiationsetupinfuser,3054,An empty crystal and some zeleon energy cells have been delivered to your ship too.\n\nLet's set the laser infuser to use them to produce charged crystals.,\n\n讓我們設定雷射注入器，利用它們產生充電晶體。
+OBSOLETE,tutorial_radiationwaitforinputs,3054,The laser infuser is set to start making charged crystals!\n\nLet's wait for it to begin charging crystals.\n\nDon't forget to power the Laser Infuser.,雷射注入器已設定開始製造充電的水晶！\n\n讓我們等待它開始為水晶充電。\n\n別忘了為雷射注入器供電。
+OBSOLETE,tutorial_surveystartsectorsurvey,3054,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan.,扇區掃描在您的船艦所在系統周圍的扇區中搜尋有興趣的區域。\n\n掃描完成後會停止。一個系統中只有一層可以進行扇區掃描。\n\n按一下按鈕開始扇區掃描。
+OBSOLETE,tutorial_surveystartlocalsurvey,3054,Areas of interest will expire after some time if they are not surveyed. Multiple layers can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,如果未進行調查，興趣區域會在一段時間後失效。\n\n按一下興趣點即可開始當地測量。
+OBSOLETE,bravenewsector_part2_x4,3054,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. The Stargate is too important and valuable for our species to be under their control.",請不要讓這種事情發生，隊長。我的人生和許多計劃都是純粹為了賺錢 我不能讓它成為其中之一星際之門對我們人類來說太重要、太有價值了，不能被他們控制。
+OBSOLETE,bravenewsector_part2_x5,3054,I have installed a back-door that will cause the Stargate to self-destruct if you command it to. You must trigger it if the rumours are true.,我已經安裝了一個後門 如果你下令的話 星際之門就會自毀如果傳言是真的 你必須啟動它
+OBSOLETE,stargate_power_fraction,2624,SUPPLIED:\n*X MW / *Y MW,提供：\n*X MW /*Y MW
+OBSOLETE,blackhole_part1_setup7,2448,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop first.",我需要材料來合成我們需要的資源。  在我進行計算時，你可以幫我這個忙。我需要超空間同位素 - 你應該很容易就能收集到，但你需要先取得超空間戽斗。
+OBSOLETE,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] 轉換為分割器
+OBSOLETE,hud_convertsplittertotrack,3054,[RMB] Convert to track,[人民幣] 轉換為軌跡
+OBSOLETE,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,如果沒有超光速旅行，我們無法將這些乘客送到目的地。不幸的是，這艘船沒有裝備自己的<b>超光速</b>驅動器。\n\n我們需要買一個並安裝好。
+OBSOLETE,tutorial_ftlintro,2448,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,如果沒有超光速旅行，我們無法將這些乘客送到目的地。不幸的是，這艘船沒有裝備自己的超光速驅動器。\n\n我們需要買一個並安裝好。
+OBSOLETE,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,開啟交易畫面購買 <b>FTL</b> 驅動器。
+OBSOLETE,tutorial_ftltradescreen,2448,Open the trade screen to purchase an FTL drive.,開啟交易畫面購買 FTL 驅動器。
+OBSOLETE,newmainmenu_includedocked,2448,INCLUDE DOCKED SHIPS IN EXPORT,將停靠的船舶列入出口
+OBSOLETE,hud_layer_hostile,2448,HOSTILE,駐留
+OBSOLETE,hud_layer_derelict,2448,DERELICT,DERELICT
+OBSOLETE,hud_layer_forsale,2448,[FOR SALE],[出售]
+OBSOLETE,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,它們外表的磨損讓我們相信它們在這裡至少有一個世紀了。這個區域一定是人類最早的外太空殖民嘗試之一。
+OBSOLETE,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.",啟用有助於翻譯的功能，例如 Alt 顯示英文，Ctrl 顯示詞組鍵。
+OBSOLETE,shipeditor_tooltip_eyedropper,2793,"Lets you select a paint from the exterior of your ship (can also be used by pressing the ""Shift"" key)",讓您從船艦外部選取塗裝（也可以按下「Shift」鍵使用）
+OBSOLETE,settings_exitsaves_tooltip,2675,"When enabled, the current game will be saved when abandoned or when the game is quit in a file called exitsave.\n\nCAUTION: This file will be overwritten on every exit.",當啟用時，當前遊戲會在放棄或退出遊戲時儲存在一個名為 exitsave 的檔案中。\n\n注意：這個檔案會在每次退出時被覆寫。
+OBSOLETE,newmainmenu_exitsaves,2675,Exit-saves,退出儲存
+OBSOLETE,stargatesectorwarning_harken_1,2624,"Captain, this sector has never been visited before and it is outside of my security jurisdiction.",上尉，這個區域從未被到訪過，而且不在我的安全管轄範圍內。
+OBSOLETE,stargatesectorwarning_harken_2,2624,"We have a full scan underway for the sector, once it's completed more locations will be marked on your map. In the systems surveyed so far we've found new resources, which may be just a glimpse into what this sector has to offer.",我們正在對這個區域進行全面掃描，一旦完成，您的地圖上將會標出更多地點。在目前調查過的系統中，我們發現了新的資源，這可能只是這個區域所能提供的一瞥。
+OBSOLETE,stargatesectorwarning_harken_3,2624,"Unfortunately, that means pirates will probably find their way here soon, but it seems clear for now.",不幸的是，這意味著海盜可能很快就會找到這裡來，但目前看來是安全的。
+OBSOLETE,techtree_node_title_robotarmspeed,2448,Robot Arm Speed,機械手臂速度
+OBSOLETE,dsi_part2_isotopesintro2,2448,"It's not too complex.  It starts with a Hyperspace Scoop, or several ideally, that you can fit to your vessels.  Every time you make an FTL jump you'll collect more as you pass through deep space at light speed.  You can then pipe those isotopes into a Refinery and convert them into Stable Isotopes.",它並不太複雜。  一開始，您可以在您的船隻上安裝一個或幾個 Hyperspace Scoop。  每次進行超光速跳躍時，當您以光速通過深空時，就會收集到更多的同位素。  然後，您可以將這些同位素導入精煉廠，將它們轉換成穩定同位素。
+OBSOLETE,tutorial_battlestationsactivate,2793,BATTLE STATIONS must be activated before your weapons can be used.\n\nThis will tell your crew to prepare for battle!,BATTLE STATIONS（戰鬥站）必須先啟動，才能使用您的武器。\n\n這會告訴您的船員準備戰鬥！
+OBSOLETE,tutorial_stargatejumpintro,2793,The Stargate enables travel between different sectors.\n\nThe jump costs a single FTL charge and the Stargate will use more power while a jump is in progress.,星際之門可以在不同的區域之間進行旅行。\n\n躍進需要耗費一次超光速充電，星際之門在進行躍進時會消耗更多的能量。
+OBSOLETE,tutorial_stargatejumpopenftl,2793,"First, let's open the FTL window.",首先，讓我們打開 FTL 視窗。
+OBSOLETE,tutorial_powerreactoractive,2793,The REACTOR is activated! We are now generating power for our ship.,REACTOR 已啟動！我們正在為我們的船隻發電。
+OBSOLETE,tutorial_stargatescreen1,2624,Let's turn our attention to the STARGATE PROJECT.\n\nWe can view our progress from the Stargate screen.\n\nOpen the STARGATE screen.,\n\n我們可以從星門畫面檢視進度。\n\n開啟星門畫面。
+OBSOLETE,tutorial_smelterssalvage,2624,Click on the nearby RUINED EQUIPMENT to instruct your crew to dismantle it into SCRAP METAL.,按一下附近的殘破裝備，指示您的工作人員將其拆成廢金屬。
+OBSOLETE,tutorial_fleettrade,2624,The ship is fitted with engines and an FTL drive for Interstellar Travel! But it does need a crew.\n\nOpen the TRADE screen.,這艘船裝有引擎和超光速驅動器，可以進行星際旅行！\n\n開啟 TRADE 畫面。
+OBSOLETE,tutorial_dsiclosedismantle,2489,We can stop dismantling by clicking the dismantle button again or by closing the construction menu.\n\nClose the menu by clicking the CONSTRUCTION button or by pressing ESC.,我們可以再次按下拆卸按鈕或關閉施工功能表來停止拆卸。\n\n，按下施工按鈕或按下 ESC 關閉功能表。
+OBSOLETE,tutorial_cameracontrols,2475,"Use {PanUp1}{PanLeft1}{PanDown1}{PanRight1} or the ARROW KEYS to move the view around.\n\nZoom the view using the MOUSE WHEEL, or {ZoomIn}/{ZoomOut} on the keyboard.\n\nDrag the view by holding the MIDDLE MOUSE BUTTON.",使用{PanUp1}{PanLeft1} {PanDown1} {PanRight1} 或箭頭鍵移動檢視。\n\n使用滑鼠滑輪或鍵盤上的{ZoomIn}/{ZoomOut} 縮放檢視。\n\n按住中間滑鼠按鈕拖曳檢視。
+OBSOLETE,tutorial_flighttactical,2475,"We should give our engines a small test flight.  To maneuver our ship, switch into TACTICAL mode by clicking the highlighted button, or pressing {ToggleTactical}.",我們應該讓引擎進行一次小型試飛。  要操控我們的飛船，請按一下反白的按鈕，或按{ToggleTactical} 切換到 TACTICAL 模式。
+OBSOLETE,tutorial_flightexittactical,2475,"Exit TACTICAL mode by clicking the button again, or pressing {ToggleTactical}.",再次按一下按鈕，或按{ToggleTactical} ，退出 TACTICAL 模式。
+OBSOLETE,tutorial_dockingswitchtotactical,2475,"To get started, switch to TACTICAL mode by clicking the button or pressing {ToggleTactical}.",要開始使用，請按一下按鈕或按{ToggleTactical} 切換到 TACTICAL 模式。
+OBSOLETE,tutorial_dockingmaneuverkeys,2475,"Use the Maneuvering controls to move the ship into position.\n\nYou can also use the keys {ManoeuvreUp}, {ManoeuvreLeft}, {ManoeuvreDown}, {ManoeuvreRight} to move, and {ManoeuvreClockwise} and {ManoeuvreCounterClockwise} to rotate the ship.","\n\n您也可以使用按鍵{ManoeuvreUp},{ManoeuvreLeft},{ManoeuvreDown},{ManoeuvreRight} 來移動，{ManoeuvreClockwise} 和{ManoeuvreCounterClockwise} 來旋轉飛船。"
+OBSOLETE,tutorial_miningopenmap,2475,Now open the sector map ({ToggleMap}).,現在開啟扇區地圖 ({ToggleMap})。
+OBSOLETE,tutorial_buy_shiftclick,2448,NOTE: You can SHIFT CLICK to buy in multiples of 5.,注意：您可以 SHIFT CLICK 以 5 的倍數購買。
+OBSOLETE,tutorial_introduction2,2448,"This vessel is fresh out of the shipyard production line.\n\nIt's just an empty hull right now, without power or a breathable atmosphere. Our first job is to fix that.\n\nClick NEXT to continue.",\n\n這艘船剛從造船廠的生產線出來，現在只是一個空殼，沒有動力，也沒有可呼吸的大氣。我們的首要任務就是解決這個問題。\n\n點選 NEXT 繼續。
+OBSOLETE,tutorial_powerinstallmenu,2448,"Let's begin by installing a REACTOR, to generate power for our ship.\n\nClick into the CONSTRUCTION menu, then click INSTALL.",\n\n按一下「建設」功能表，然後按一下「安裝」。
+OBSOLETE,tutorial_powerselectreactor,2448,This is all the boxed equipment you have available on-board.\n\nSelect REACTOR from the list.,\n\n從清單中選取 REACTOR。
+OBSOLETE,tutorial_powerplacereactor,2448,Stamp the REACTOR down inside your ship.,將 REACTOR 壓在您的船艦內。
+OBSOLETE,tutorial_powerreactorinprogress,2448,Your crew will install the REACTOR.,您的工作人員將安裝 REACTOR。
+OBSOLETE,tutorial_powerselectloader,2448,"The REACTOR needs FUEL, and we use a FUEL LOADER to pump it to the REACTOR.\n\nSelect the FUEL LOADER from the Construction menu.",REACTOR 需要燃料，我們使用 FUEL LOADER 將燃料泵送到 REACTOR。\n\n從「建築」選單中選擇 FUEL LOADER。
+OBSOLETE,tutorial_powerplaceloader,2448,Stamp the FUEL LOADER down somewhere near the REACTOR.,將 FUEL LOADER 壓在 REACTOR 附近。
+OBSOLETE,tutorial_powerselectpipes,2448,"We need to connect the FUEL LOADER to the REACTOR, using a Pipe.\n\nSelect PIPES from the Construction Menu.",我們需要使用管道將 FUEL LOADER 連接到 REACTOR。\n\n從「建築」選單中選擇「管道」。
+OBSOLETE,tutorial_powerpipeconnect,2448,"Drag a pipe from the FUEL LOADER to the REACTOR, connecting the yellow pipe circles.\n\nFUEL PIPES are used to connect the output from one piece of equipment into the input of another.\n\nFUEL PIPES are yellow and must connect the yellow circles on equipment.",從 FUEL LOADER 拖曳一條管道到 REACTOR，連接黃色的管道圓圈。\n\nFUEL PIPES 用於將一台設備的輸出連接到另一台設備的輸入。\n\nFUEL PIPES 是黃色的，必須連接設備上的黃色圓圈。
+OBSOLETE,tutorial_powerreactorpowerup,2448,The REACTOR is starting up.,REACTOR 正在啟動。
+OBSOLETE,tutorial_airinstallairduct,2448,We now need to provide a breathable atmosphere for our crew. This is done with an AIRDUCT.\n\nInstall an AIRDUCT somewhere near the Reactor.,我們現在需要為船員提供一個可呼吸的環境。\n\n在反應堆附近的某個地方安裝透氣管。
+OBSOLETE,tutorial_aircables,2448,The AIRDUCT needs to be powered from the REACTOR.  Select CABLES from the CONSTRUCTION menu.,AIRDUCT 需由 REACTOR 供電。  從 CONSTRUCTION（構造）功能表中選擇 CABLES。
+OBSOLETE,tutorial_aircabletoreactor,2448,"Drag a power cable from the REACTOR to the AIRDUCT, connecting the red circles.\n\nPOWER CABLES are used to connect reactors to any equipment that needs power.\n\nPOWER CABLES are red and must connect red circles on equipment.",從 REACTOR 拖曳電源線到 AIRDUCT，連接紅色圓圈。\n\n電源線用於連接反應器和任何需要電源的設備。\n\n電源線為紅色，必須連接設備上的紅色圓圈。
+OBSOLETE,tutorial_airinstallairloader,2448,"The AIRDUCT needs OXYGEN, in the same way as the REACTOR needs FUEL. We can use an OXYGEN LOADER to provide OXYGEN.\n\nInstall an OXYGEN LOADER near the AIRDUCT.",導氣管需要氧氣，就像反應器需要燃料一樣。我們可以使用氧氣載入器來提供氧氣。\n\n在導氣管附近安裝氧氣載入器。
+OBSOLETE,tutorial_airpipes,2448,We need to connect the OXYGEN LOADER into the AIRDUCT using PIPES.\n\nSelect PIPES from the CONSTRUCTION menu.,我們需要使用 PIPES 將 OXYGEN LOADER 連接到 AIRDUCT。\n\n從 CONSTRUCTION（構造）功能表中選擇 PIPES。
+OBSOLETE,tutorial_airpipetoairduct,2448,"Drag a PIPE from the OXYGEN LOADER to the AIRDUCT, connecting the BLUE circles.",從 OXYGEN LOADER 拖曳 PIPE 到 AIRDUCT，連接藍色的圓圈。
+OBSOLETE,tutorial_airdone,2448,The AIRDUCT is activated and is pressurising the cabin! The atmosphere will soon be breathable.,AIRDUCT 已啟動，正在為機艙加壓！大氣很快就可以呼吸了。
+OBSOLETE,tutorial_enginesinformation,2448,Engines require both POWER and FUEL to operate. We must connect both engines to fuel and power.,引擎的運作需要動力和燃料。我們必須將引擎與燃料和動力連接起來。
+OBSOLETE,tutorial_enginesconnectpower,2448,"Now use the CABLES menu to power up the engine, by connecting it to your existing red power lines.",現在使用 CABLES 功能表，將引擎連接至現有的紅色電源線，為引擎供電。
+OBSOLETE,tutorial_ftlselectpropulsion,2448,The items we need are listed under PROPULSION. Select that category.,我們需要的物品列在 PROPULSION 下。請選擇該類別。
+OBSOLETE,tutorial_ftladdftldrive,2448,Add one FTL drive to our order by clicking on the entry in the list.,點選清單中的項目，將一個 FTL 驅動器加入我們的訂單。
+OBSOLETE,tutorial_ftladdftlfuel,2448,FTL drives consume one fuel charge per jump. Add 5 FTL Charges to the order as well.,超光速驅動器每次跳躍消耗一個燃料充電。在訂單中也加入 5 個 FTL 充電。
+OBSOLETE,tutorial_ftlinstallftl,2448,Install the FTL drive anywhere in your ship.,將 FTL 驅動器安裝在您船艦的任何位置。
+OBSOLETE,tutorial_ftlpowerftl,2448,Connect the FTL drive to your power network.,將 FTL 硬碟機連接到您的電源網路。
+OBSOLETE,tutorial_ftlstoragetoolbar,2448,"We can make things more efficient for our crew by telling them to store FTL Charges near the FTL drive.\n\nSelect STORAGE from the CONSTRUCTION toolbar, then select FTL Charges from the list.",\n\n從「建築」工具列中選擇「儲存」，然後從清單中選擇「FTL 充電」。
+OBSOLETE,tutorial_ftlstorageworld,2448,Now drag out a storage zone near to the FTL drive.,現在在超光速驅動器附近拖出一個儲存區。
+OBSOLETE,tutorial_ftlstoragedone,2448,The crew will move all the FTL Charges into this zone.,船員將把所有的 FTL 充電器移到這個區域。
+OBSOLETE,tutorial_stargatescreen2,2448,This screen shows the phases that require construction in order to complete the STARGATE.\n\nWe are in PHASE 1. Work has only just begun.,此畫面顯示完成 STARGATE 所需的建造階段。\n\n我們現在處於階段 1。工作才剛開始。
+OBSOLETE,tutorial_stargatescreen3,2448,On the left of the screen you can see the requirements to complete PHASE 1.\n\nWe need to manufacture:\n- 100 STARGATE FRAMES\n- 10 STARGATE RESIN,\n\n我們需要製造：\n- 100 STARGATE FRAMES\n- 10 STARGATE RESIN
+OBSOLETE,tutorial_stargatescreen4,2448,"These PHASE 1 components are easy to manufacture, and we already have what we need onboard.\n\nBut we can sell them to the STARGATE PROJECT for a small fortune.",這些 PHASE 1 元件很容易製造，而且我們船上已經有我們需要的東西。\n\n，但我們可以賣給 STARGATE PROJECT，花一小筆錢。
+OBSOLETE,tutorial_stargatescreen5,2448,Close the STARGATE screen by clicking on the toolbar again (or press ESC).,再次按一下工具列（或按 ESC）關閉 STARGATE 畫面。
+OBSOLETE,tutorial_productionstart,2448,We are now going to learn how to produce STARGATE FRAMES.,我們現在要學習如何製作星門框。
+OBSOLETE,tutorial_fabricationinstallfabricator,2448,"Components are manufactured in a FABRICATOR, using raw materials like METAL INGOTS.\n\nInstall a FABRICATOR somewhere in the South East quadrant of the station.",組件在 FABRICATOR 中製造，使用的原料是金屬 INGOTS。\n\n在車站東南象限的某個地方安裝一個 FABRICATOR。
+OBSOLETE,tutorial_fabricationinstallassemblytable,2448,Those components are then assembled into finished products on an ASSEMBLY TABLE.\n\nInstall an ASSEMBLY TABLE somewhere near the FABRICATOR.,這些組件會在組裝台上組裝成成品。\n\n在製造機附近安裝組裝台。
+OBSOLETE,tutorial_fabricationpower,2448,This new equipment needs power.  Build POWER CABLES to connect your REACTOR to the FABRICATOR and ASSEMBLY TABLE.,這個新設備需要電源。  製造電源纜線，將您的 REACTOR 連接到製造器和組裝台。
+OBSOLETE,tutorial_fabricationconfigurefab1,2448,We need to configure the new equipment to make the products that we want.\n\nRIGHT CLICK on the FABRICATOR to configure it.,我們需要設定新設備，以製造我們想要的產品。\n\n右擊 FABRICATOR 進行設定。
+OBSOLETE,tutorial_fabricationconfigurefab2,2448,This drop-down menu shows all of the components that we can manufacture in a FABRICATOR.\n\nSelect FRAME from the list.,此下拉式功能表顯示我們可以在 FABRICATOR 製造的所有組件。\n\n從清單中選擇 FRAME。
+OBSOLETE,tutorial_fabricationconfigureass1,2448,We need to configure the ASSEMBLY TABLE in the same way.\n\nRIGHT CLICK on the assembly table.,我們需要以相同的方式設定 ASSEMBLY TABLE。\n\n右擊組裝表。
+OBSOLETE,tutorial_fabricationconfigureass2,2448,Select STARGATE FRAME from the drop-down menu.,從下拉式功能表中選擇 STARGATE FRAME。
+OBSOLETE,tutorial_fabricationclosefab1,2448,"Close the Equipment Panel by clicking the X in the top right corner, or pressing ESC.",按一下右上角的 X 或按 ESC 關閉「設備面板」。
+OBSOLETE,tutorial_fabricationclosefab2,2448,"Close the Equipment Panel by clicking the X in the top right corner, or pressing ESC.",按一下右上角的 X 或按 ESC 關閉「設備面板」。
+OBSOLETE,tutorial_fabricationworking,2448,"Your crew are now fabricating FRAMES out of METAL INGOTS, then assembling those FRAMES into STARGATE FRAMES, which we can sell to the STARGATE project for profit.",您的工作人員現在正在製造金屬箭頭框架，然後將這些框架組裝成 STARGATE 框架，我們可以將這些框架賣給 STARGATE 計劃獲利。
+OBSOLETE,tutorial_smeltersintroduction,2448,"We are going to need a lot of METAL INGOTS if we're to make enough of those STARGATE FRAMES.\n\nWe don't have many METAL INGOTS on board, and will run out soon.",如果要製造足夠的星門框架，我們需要大量的金屬蝸牛。\n\n我們船上的金屬蝸牛不多，很快就會用完。
+OBSOLETE,tutorial_smeltersbuild,2448,"But we do have plenty of SCRAP METAL, and we can melt that down in a SMELTER.\n\nBuild a SMELTER somewhere near the production line.",\n\n在生產線附近的某處建造一台 SMELTER。
+OBSOLETE,tutorial_smelterspower,2448,Connect the smelters to the REACTOR using POWER CABLES,使用電源線將冶煉器連接到 REACTOR
+OBSOLETE,tutorial_smeltersscrapmetal,2448,Right click on the SMELTER and set its material to be SCRAP METAL.,在 SMELTER 上按一下滑鼠右鍵，將其材質設定為 SCRAP METAL。
+OBSOLETE,tutorial_smeltersoperational,2448,The crew will now load in all the SCRAP METAL and smelt it into much more useful METAL INGOTS.,工作人員現在會裝入所有的廢金屬，並將其冶煉成更有用的金屬锭。
+OBSOLETE,tutorial_smeltersdismantle,2448,"There is a ton of RUINED EQUIPMENT around this old station, that we can break down into SCRAP METAL.\n\nSelect DISMANTLE from the CONSTRUCTION toolbar.",\n\n從「建築」工具列選擇「拆除」。
+OBSOLETE,tutorial_smeltersstoragetoolbar,2448,"We can make things more efficient for our crew by telling them to store SCRAP METAL near to the SMELTER.\n\nSelect STORAGE from the CONSTRUCTION toolbar, then select SCRAP METAL from the list.",\n\n從「建築」工具列中選擇「儲存」，然後從清單中選擇「廢棄金屬」，可以讓工作人員更有效率。
+OBSOLETE,tutorial_smeltersstorageworld,2448,Now drag out a storage zone near to the SMELTER.,現在在 SMELTER 附近拖出一個儲存區。
+OBSOLETE,tutorial_smeltersstoragedone,2448,The crew will move all the SCRAP METAL into this zone.,工作人員會將所有的廢金屬移到這個區域。
+OBSOLETE,tutorial_tradewaitforsellable,2448,Your crew will now use the equipment to produce some STARGATE FRAMES.,您的船員現在要使用設備製造一些星門框架。
+OBSOLETE,tutorial_tradeothersupplies,2448,"We can use the TRADE system to buy raw materials to produce more STARGATE FRAMES, as well as resources we will need to survive.\n\nReopen the TRADE screen.",\n\n重新開啟 TRADE 畫面。
+OBSOLETE,tutorial_tradebuyminerals,2448,METALLIC MINERALS can be smelted into METAL INGOTS just like SCRAP METAL.\n\nAdd all the METALLIC MINERALS to the trade.,METALLIC MINERALS（金屬礦物）可以像 SCRAP METAL（碎金屬）一樣冶煉成 METAL INGOTS（金屬塊）。\n\n將所有 METALLIC MINERALS（金屬礦物）加入交易中。
+OBSOLETE,tutorial_tradebuysmelter,2448,We will also need another SMELTER to begin processing those METALLIC MINERALS.\n\nFind the SMELTER under the INDUSTRY tab and add one to the order.,我們也需要另一個 SMELTER 來開始處理這些金屬礦物。\n\n在 INDUSTRY（工業）標籤下找到 SMELTER，並將其加入訂單中。
+OBSOLETE,tutorial_tradebuymore,2448,This is a good opportunity to stock up on some other resources that are critical for life support.\n\nWe'd recommend you purchase:\n\n - 2x FUEL\n - 2x OXYGEN\n - 2x WATER\n - 2x FOOD\n\n- HIRE 5 MORE CREW\n\nCONFIRM the order when you are done.,\n\n我們建議您購買：\n\n - 2x FUEL\n - 2x OXYGEN\n - 2x WATER\n - 2x FOOD\n\n- HIRE 5 MORE CREW\n\n完成後確認訂單。
+OBSOLETE,tutorial_tradeinstallsmelter,2448,"Once those goods have arrived, you should install your second SMELTER somewhere near the first.",一旦這些貨物到達，您應該在靠近第一台 SMELTER 的某個地方安裝第二台 SMELTER。
+OBSOLETE,tutorial_tradesmeltmetallicminerals,2448,Set the SMELTER to process those METALLIC MINERALS you bought into more METAL INGOTS.,設定 SMELTER，將您購買的金屬礦物加工成更多的金屬菁英。
+OBSOLETE,tutorial_productionsuccess,2448,"Well done, you are now all set to produce STARGATE FRAMES.",做得好！您現在已準備好製作星門框。
+OBSOLETE,tutorial_fleetcrew,2448,We will need a crew. Hire five CREW MEMBERS from the TRADE screen.,我們需要一名船員。從 TRADE（交易）畫面雇用五名工作人員。
+OBSOLETE,tutorial_fleetcrew_shiftclick,2448,NOTE: You can SHIFT CLICK to hire in multiples of 5.,注意：您可以 SHIFT CLICK 以 5 的倍數租用。
+OBSOLETE,tutorial_fleetspacesuits,2448,Those crew will also need SPACESUITS as there is no atmosphere onboard our ship yet.\n\nOrder five SPACESUITS for the new crew.,這些船員也需要空間服裝，因為我們的船上還沒有大氣。\n\n為新船員訂購五個空間服裝。
+OBSOLETE,tutorial_fleettradeconfirm,2448,CONFIRM the trade.,確認交易。
+OBSOLETE,tutorial_fleetresources,2448,We also need resources for the ship to function.\n\nUse the TRADE screen to buy:\n- 5x FUEL\n- 5x OXYGEN\n- 5x FTL CHARGE\n- 2x FOOD\n- 2x WATER.\n\nCONFIRM the trade when you are done.,\n\n使用 TRADE 畫面購買：\n- 5x FUEL\n- 5x OXYGEN\n- 5x FTL CHARGE\n- 2x FOOD\n- 2x WATER。\n\n完成後確認交易。
+OBSOLETE,tutorial_flightengines,2448,We can directly control our engine THROTTLE from here.\n\nTry increasing your engine throttle with this control.,我們可以從這裡直接控制引擎的節流閥。\n\n嘗試用這個控制項增加引擎的節流閥。
+OBSOLETE,tutorial_flightturning,2448,"We can also turn the ship by left clicking in TACTICAL mode, in the direction we wish to travel.",我們也可以在 TACTICAL（戰術）模式下按左鍵，朝我們想要的方向轉動飛船。
+OBSOLETE,tutorial_flightsetcourse,2448,We can send our ship to a specific location by RIGHT-CLICKING. Try setting a destination by right clicking in the tactical view.,我們可以透過右鍵單擊將船艦送往特定地點。嘗試在戰略檢視中按一下滑鼠右鍵來設定目的地。
+OBSOLETE,tutorial_flightinformation,2448,"Your crew will continue to operate the ship and keep the engines running as you travel around. Try flying around the system until you have a handle on the controls.\n\nWhen you are ready, bring the ship to a stop by setting the THROTTLE to zero in TACTICAL mode.",當您四處旅行時，您的船員會繼續操作飛船並維持引擎運轉。請嘗試在系統中四處飛行，直到您掌握控制為止。\n\n當您準備好時，在戰術模式下將 THROTTLE 設定為零，讓飛船停下來。
+OBSOLETE,tutorial_financemissionscreen,2448,"Now that our ship is up and running, we need to earn our way.  We can complete contracts for financial reward and reputation.\n\nOpen the CONTRACTS screen to see a list of available contracts.",現在我們的船隻已經開始運作，我們需要賺取我們的路徑。  我們可以完成契約以獲得經濟報酬和聲望。\n\n開啟契約畫面，查看可用契約清單。
+OBSOLETE,tutorial_financeselectship,2448,"Contracts are assigned to the ship you currently have selected.\n\nOnly the PROCYON can travel between locations, so select the PROCYON.",\n\n只有 PROCYON 可以在不同地點之間旅行，因此請選擇 PROCYON。
+OBSOLETE,tutorial_financeselecttransport,2448,"Here we have a TRANSPORT PASSENGER contract, click it to see more details.",這裡有一份 TRANSPORT PASSENGER 合約，請按一下以查看更多詳細資訊。
+OBSOLETE,tutorial_financeassigntransport,2448,This mission requires us to transport a group of people from here to another location in the sector.\n\nClick the accept button to assign this contract to the PROCYON.,\n\n按下接受按鈕，將此任務指派給 PROCYON。
+OBSOLETE,tutorial_financepassengersinbound,2448,The passengers will be delivered to the PROCYON by shuttle.,乘客將由穿梭巴士送至 PROCYON。
+OBSOLETE,tutorial_financesectormap,2448,"All passengers have been delivered to the PROCYON, and our FTL drive is operational. We must now plot an FTL jump to their destination.\n\nOpen the SECTOR MAP.",所有乘客都已送抵 PROCYON，我們的超光速驅動器也已啟動。\n\n開啟星域地圖。
+OBSOLETE,tutorial_financesetdestination,2448,"This is a map of all the systems in this sector.\n\nOur ship and our space station are located in the middle, where the map is marked YOU-ARE-HERE.\n\nSet a course to the destination (labelled TRANSPORT PASSENGERS) by clicking on it.",\n\n我們的太空船和太空站位於中間，也就是地圖上標示為 YOU-ARE-HERE 的地方。\n\n點選目的地（標示為 TRANSPORT PASSENGERS）設定航向。
+OBSOLETE,tutorial_financeclosesectormap,2448,"Close the SECTOR MAP by clicking the X in the top right corner, or by pressing ESC.",按一下右上角的 X 或按 ESC 關閉 SECTOR MAP。
+OBSOLETE,tutorial_financeftlwindow,2448,Open the FTL screen to order the FTL jump.,開啟 FTL 畫面，命令進行 FTL 跳躍。
+OBSOLETE,tutorial_financepreparejump,2448,Click on PREPARE JUMP to align the ship and prepare for hyperspace.,按一下準備跳躍，對齊飛船並準備進入超空間。
+OBSOLETE,tutorial_financepreparingjump,2448,"The PROCYON will align for hyperspace, and prepare the FTL drive to make the jump.",PROCYON 號會對準超空間，準備超光速驅動器進行跳躍。
+OBSOLETE,tutorial_financejump,2448,Click the JUMP button to jump to hyperspace.,按一下 JUMP 按鈕跳到超空間。
+OBSOLETE,tutorial_financeselectmission,2448,We now need to turn in our completed passenger contract.\n\nOpen the CONTRACTS screen and select the passenger mission.,\n\n開啟 CONTRACTS 畫面，選擇乘客任務。
+OBSOLETE,tutorial_financeturnin,2448,Click the DELIVER button to drop off the passengers and receive payment,按一下 DELIVER 按鈕，送走乘客並收取付款
+OBSOLETE,tutorial_wrapup2,2448,"The career you choose is now up to you.  There are many opportunities to choose from, and you'll learn more as you work.\n\nOpen the CONTRACTS board.",您選擇的職業現在由您決定。  有許多機會可以選擇，您會在工作中學到更多。\n\n開啟 CONTRACTS 板。
+OBSOLETE,tutorial_resinstart,2448,We are now going to learn how to produce STARGATE RESIN.,我們現在要學習如何生產 STARGATE RESIN。
+OBSOLETE,tutorial_resinintro,2448,"Turning our attention back to the Stargate, the Stargate project also requires us to produce STARGATE RESIN.\n\nWe are going to use the INDUSTRIOUS to collect METREON GAS, refine it, and process it into STARGATE RESIN.",將注意力轉回星門，星門計畫也需要我們生產星門晶粒（STARGATE RESIN）。\n\n，我們要利用 INDUSTRIOUS 收集 METREON GAS，提煉後加工成星門晶粒（STARGATE RESIN）。
+OBSOLETE,tutorial_resinintro2,2448,Raise enough money to purchase for INDUSTRIOUS:\n\n- 1x GAS COLLECTOR\n- 1x REFINERY\n- 1x CHEMICAL LAB,為 INDUSTRIOUS 籌集足夠的資金來購買：\n\n- 1x GAS COLLECTOR\n- 1x REFINERY\n- 1x CHEMICAL LAB
+OBSOLETE,tutorial_resinselectnebula,2448,"Before we can start collecting the METREON GAS, we need to move the INDUSTRIOUS to a system containing a GAS CLOUD.\n\nUse the SECTOR MAP to select a suitable destination.",在開始收集 METREON GAS 之前，我們需要先將 INDUSTRIOUS 移到含有 GAS CLOUD 的系統。\n\n使用 SECTOR MAP（區域地圖）選擇合適的目的地。
+OBSOLETE,tutorial_resinjumptonebula,2448,Close the sector map and use the FTL Window to jump the INDUSTRIOUS to the nebula.,關閉區域地圖，使用超光速視窗跳轉 INDUSTRIOUS 到星雲。
+OBSOLETE,tutorial_resininstallgascollector,2448,"Install the GAS COLLECTOR, REFINERY and CHEMICAL LAB so that they are close to each other.",安裝 GAS COLLECTOR、REFINERY 和 CHEMICAL LAB，使它們彼此靠近。
+OBSOLETE,tutorial_resinpowerup,2448,"Power up the GAS COLLECTOR, REFINERY and CHEMICAL LAB.",啟動 GAS COLLECTOR、REFINERY 和 CHEMICAL LAB。
+OBSOLETE,tutorial_resinrefineryrecipe,2448,Right click on the REFINERY and set its recipe to REFINE METREON GAS.,在 REFINERY 上按一下滑鼠右鍵，然後將其配方設定為 REFINE METREON GAS。
+OBSOLETE,tutorial_resinchemicallabrecipe,2448,Right click on the CHEMICAL LAB and set its recipe to MAKE STARGATE RESIN.,在 CHEMICAL LAB 上按一下滑鼠右鍵，將其配方設定為製造 STARGATE RESIN。
+OBSOLETE,tutorial_resinconnectgascollector,2448,Connect the GAS COLLECTOR to the REFINERY with a PIPE.,用管道將集氣器與精煉廠連接。
+OBSOLETE,tutorial_resinconnectchemicallab,2448,Connect the REFINERY to the CHEMICAL LAB with a PIPE.,用管道連接 REFINERY 和 CHEMICAL LAB。
+OBSOLETE,tutorial_resinsuccess,2448,"Well done, you have started to produce STARGATE RESIN.\n\nWhen you have produced enough, travel back to any COLONY, SHIP YARD or the STARGATE system to sell it to the STARGATE PROJECT.",\n\n當您生產足夠的星門晶粒時，請回到任何殖民地、船場或星門系統，將晶粒賣給星門計劃。
+OBSOLETE,tutorial_dockingcheckthrusters,2448,"In order to be able to dock successfully, your ship needs at least four working THRUSTERS.\n\nUse a different ship, or purchase and install four thrusters at a nearby trading post.",為了能夠成功停靠，您的船至少需要四個正常運作的推進器。\n\n使用不同的船，或在附近的貿易站購買並安裝四個推進器。
+OBSOLETE,tutorial_dockingzoomin,2448,Zoom in so that you can see the docking guides more clearly. They are RED diamonds extending from the docking ports.,放大，以便更清楚地看到停靠導板。它們是從停靠埠延伸出來的紅色菱形。
+OBSOLETE,tutorial_dockingopenmaneuver,2448,Open the MANEUVERING THRUSTER controls.,打開 MANEUVERING THRUSTER 控制鈕。
+OBSOLETE,tutorial_dockingmaneuver,2448,"Use your THRUSTERS to maneuver your ship so that RED diamonds of your docking ports align with the docking port of the *X.\n\nWhen aligned correctly, they will both turn YELLOW.\n\nKeep the ships aligned until the docking bridge is fully extended.",使用您的舵手來操控您的船艦，使您的船塢連接埠的紅鑽與*X 的連接埠對齊。\n\n對齊正確之後，它們都會變成黃色。\n\n保持船艦對齊，直到連接橋完全伸展為止。
+OBSOLETE,tutorial_logisticscrewselectship,2448,Select the UMC Astral Temptress. \n\n As you can see it has no crew.,選擇 UMC Astral Temptress。 \n\n 您可以看到它沒有船員。
+OBSOLETE,tutorial_logisticscrewselectfrom,2448,Select the SOURCE ship that the crew will come FROM.,選擇船員來自的 SOURCE 船。
+OBSOLETE,tutorial_logisticscrewclicktarget,2448,Click in the CREW cell of the DESTINATION ship to request 5 crew to transfer.,點選目的地船艦的 CREW 單元格，要求轉移 5 名船員。
+OBSOLETE,tutorial_logisticscrewclicktarget_shiftclick,2448,NOTE: You can SHIFT CLICK to request transfer in multiples of 5.,注意：您可以 SHIFT CLICK 來要求以 5 的倍數進行傳輸。
+OBSOLETE,tutorial_combatselectcannon,2448,"Your guns can also target specific points on enemy ships.\n\nFirst, select which guns you would like to use.\n\nYou can SHIFT CLICK to select multiple guns.",您的砲也可以針對敵人船隻上的特定點。\n\n首先，選擇您想使用的砲。\n\n您可以 SHIFT CLICK 來選擇多種砲。
+OBSOLETE,tutorial_combatbattlestations,2448,The effect of the EMP is wearing off!\n\nDeploy your weapons and make your crew ready to fight by clicking on BATTLE STATIONS.,EMP 的效果正在消失！\n\n部署您的武器，並按一下 BATTLE STATIONS（戰鬥站），讓您的船員準備好戰鬥。
+OBSOLETE,tutorial_combatkeepmoving,2448,"Make sure to keep moving during combat, this increases your EVASION and makes you a harder target to hit.",確保在戰鬥中保持移動，這會增加您的 EVASION，使您成為更難擊中的目標。
+OBSOLETE,tutorial_mininginstalllaser,2448,You will need a Mining Laser. These use a lot of power so consider installing extra reactors or batteries.\n\nInstall a MINING LASER and connect it to the power grid.,您需要一個 Mining Laser。這些設備會消耗大量電力，因此請考慮安裝額外的反應器或電池。\n\n安裝一個 Mining LASER 並將其連接到電網。
+OBSOLETE,tutorial_miningundock,2448,Make sure to UNDOCK from any other ship (from the TACTICAL screen).,請務必從任何其他船隻 (從 TACTICAL 畫面) 解鎖。
+OBSOLETE,tutorial_miningflytosystem,2448,"Look at the rocks on the map, these indicate ASTEROID BELTS. \n\nFly to a system in an asteroid belt, it will probably contain Tilium Ore.",看看地圖上的岩石，這些表示小行星帶。\n\n飛往小行星帶中的系統，那裡可能有 Tilium 礦石。
+OBSOLETE,tutorial_miningselectlaser,2448,"You can also target specific mineral patches.\n\nFirst, select which laser you would like to use.\n\nYou can SHIFT CLICK to select multiple lasers.",您也可以針對特定的礦物斑塊。\n\n首先，選擇您想使用的雷射。\n\n您可以 SHIFT CLICK 來選擇多個雷射。
+OBSOLETE,tutorial_mininginstalldronebay,2448,Drones will collect mined resources.\n\nInstall a DRONE BAY so your drones can collect the Tilium Ore.,\n\n安裝 DRONE BAY，讓您的無人機可以收集 Tilium Ore。
+OBSOLETE,tutorial_miningfleetorders,2448,You also need to make sure that GATHER MATERIALS is enabled in FLEET ORDERS.,您也需要確定在 FLEET ORDERS 中已啟用 GATHER MATERIALS。
+OBSOLETE,tutorial_mininginstallsmelter,2448,You will need to smelt the raw Tilium Ore to crystals.\n\nInstall a SMELTER.,\n\n安裝 SMELTER。
+OBSOLETE,tutorial_miningsetsmelter,2448,Right click on the SMELTER and select TILIUM ORE to smelt it into Tilium Crystals.,在 SMELTER 上按一下滑鼠右鍵，然後選擇 TILIUM ORE，即可將它冶煉成 Tilium Crystals。
+OBSOLETE,tutorial_buyshipinspect,2448,"Click on the JMC MINING STATION, an old unused industrial station for sale.",點選 JMC MINING STATION，這是一個待售的未使用舊工業站。
+OBSOLETE,tutorial_buyshipbuy,2448,Click on the BUY button to purchase the JMC MINING STATION.,按一下購買按鈕，即可購買 JMC MINING STATION。
+OBSOLETE,tutorial_buyshipsuccess,2448,"Well done, you have purchased the JMC MINING STATION.",做得好！您已購買 JMC MINING STATION。

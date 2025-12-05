@@ -1,253 +1,60 @@
 ﻿state,key,svn,english,translation
-UPDATED,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,제작에 필요한 각 컴포넌트는 오른쪽에 있습니다.\n컴포넌트의 아이콘 위에 마우스를 올려놓으면 제작 방법이 표시됩니다.
-PREVIOUS,tutorial_stargatewindowhighlightcomponent,2448,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,필요한 각 부품은 왼쪽에 있습니다.\n부품 아이콘 위에 마우스를 올리면 생산 방법이 표시됩니다.  
-CURRENT,logistics_tooltip_skiporder,3248,Skip currently executing order,현재 실행 중인 주문 건너뛰기
-CURRENT,logistics_tooltip_loop,3248,Loop execution,루프 실행
-CURRENT,thefinalstand_artemis1,3248,Hello again Captain!,"안녕하세요, 캡틴!"
-CURRENT,thefinalstand_artemis2,3248,"After some careful analysis of the Stargate's blueprints, I have found the backdoor that the late Alexander James Elistar has left you.","스타게이트의 설계도를 면밀히 분석한 결과, 고 알렉산더 제임스 엘리스타가 여러분에게 남긴 백도어를 찾아냈습니다."
-CURRENT,thefinalstand_artemis3,3248,You will use this backdoor to upload a small virus that I have written to their command centre within the HQ. It will disable the station's offensive capabilities and place itself under your command.,이 백도어를 사용하여 제가 작성한 작은 바이러스를 본부 내 지휘 센터에 업로드할 것입니다. 이 바이러스는 기지의 공격 능력을 무력화시키고 당신의 지휘 하에 놓이게 됩니다.
-CURRENT,thefinalstand_boss_artemis1,3248,"Captain, I can route a signal to their powergrid and overload their generators, tell me when to trigger it!","선장님, 전력망에 신호를 보내서 발전기에 과부하를 걸 수 있으니 언제 발동시킬지 알려주세요!"
-CURRENT,thefinalstand_end_objective_leave,3248,Leave the HQ,본부를 떠나기
-CURRENT,thefinalstand_harken2,3248,"The Andromeda Project has moved their HQ and all key personell into an unknown location in the new sector, where we believe they are controlling the Stargate.","안드로메다 프로젝트는 본부와 모든 핵심 인력을 새로운 섹터의 알려지지 않은 장소로 이동시켰으며, 그곳에서 스타게이트를 통제하고 있는 것으로 추정됩니다."
-CURRENT,thefinalstand_harken3,3248,"My plan is to use our fleets to take control of the HQ by force. Any and all damage to the HQ should be avoided, many innocent lives are on-board and the loss of life from destroying it would be far too great.\nI have devised a plan with an old friend of yours that should minimise casualties...",내 계획은 우리 함대를 이용해 무력으로 본부를 장악하는 것입니다. 본부에 대한 모든 피해는 피해야 합니다. 많은 무고한 생명들이 탑승하고 있고 파괴로 인한 인명 손실은 너무 클 것입니다.\n나는 당신의 오랜 친구와 함께 사상자를 최소화 할 계획을 고안했습니다...
-CURRENT,thefinalstand_harken4,3248,"While you neutralise the HQ, my fleet will fight off the Andromeda Project navy. Once the battle is over, I will take control of the HQ and arrest everyone involved. Their conglomerate will be dismantled.",당신이 본부를 무력화하는 동안 내 함대는 안드로메다 프로젝트 해군과 싸울 것입니다. 전투가 끝나면 본부를 장악하고 관련자를 모두 체포할 것입니다. 그들의 대기업은 해체될 것입니다.
-CURRENT,thefinalstand_harken5,3248,The Stargate will fall back into your sole control. I've marked an allied shipyard on your map. I'll hide out there in the mean-time.,스타게이트는 다시 당신의 단독 통제하에 놓이게 됩니다. 지도에 연합군 조선소를 표시해뒀어. 그 동안 난 저기 숨어 있을게요.
-CURRENT,thefinalstand_harken6,3248,Meet me to discuss the plan further. Goodbye for now.,계획에 대해 더 자세히 논의하려면 저를 만나주세요. 이만 끊겠습니다.
-CURRENT,thefinalstand_boss_harken2,3248,This is the Andromeda Navy's flagship! You should have access to its command centre from the HQ!,안드로메다 해군의 기함입니다! 본부에서 지휘 센터에 접속할 수 있습니다!
-CURRENT,industryend_message,3248,"Now the Andromeda HQ has been captured, Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind spreads beyond our home galaxy and into the future.",이제 안드로메다 본부를 점령한 하켄과 은하계 보안 위원회는 모든 인류를 위해 안드로메다 프로젝트 대기업을 해체하고 스타게이트의 통제권을 되찾을 것입니다.  인류가 우리 은하계를 넘어 미래로 뻗어나가는 새로운 장이 시작되었습니다.
-CURRENT,bravenewsector_part4_rep9,3244,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy and the Andromeda galaxy.,"안녕하세요, 함장님. 새로 완공된 스타게이트 덕분에 안드로메다 프로젝트는 이 은하와 안드로메다 은하 사이의 자원과 사람의 흐름을 통제할 수 있는 강력한 위치에 서게 되었습니다."
-CURRENT,thefinalstand_battleprep_1,3244,"Hello Captain, it's good to see you. These are all of the ships I control in this sector, the rest are on the other side of the Stargate, unable to reach us.","안녕하세요, 함장님, 반갑습니다. 이 구역의 함선들은 제가 관리하는 모든 함선이고, 나머지는 스타게이트 반대편에 있어 연락이 안 됩니다."
-CURRENT,thefinalstand_battle_rep1,3244,Commander Harken! I see that my first fleet has failed to deal with you. I suppose if I want something done properly I should do it myself.,하켄 사령관! 내 첫 번째 함대가 당신을 처리하는 데 실패한 것 같군. 제대로 처리하려면 내가 직접 해야겠군.
-CURRENT,newmainmenu_continue,3239,CONTINUE GAME,게임 계속하기
-CURRENT,hud_ftlshipblockedfromftl,3239,Ship cannot enter hyperspace with your fleet,함대와 함께 하이퍼스페이스에 진입할 수 없습니다
-CURRENT,hud_window_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,인터스텔라 물류
-CURRENT,andromeda_travel,3239,ANDROMEDA JOURNEY,안드로메다 여정
-CURRENT,trade_autohireat,3239,HIRE BELOW,아래에서 채용하기
-CURRENT,trade_autosackat,3239,SACK ABOVE,위의 자루
-CURRENT,trade_autoembarkat,3239,EMBARK BELOW,아래 표시
-CURRENT,trade_autodisembarkat,3239,DISEMBARK BELOW,아래에서 하선
-CURRENT,trade_tooltip_hire,3239,[LMB] Hire,[LMB] 채용
-CURRENT,trade_tooltip_embark,3239,[LMB] Embark,[LMB] 출발
-CURRENT,trade_tooltip_disembark,3239,[LMB] Disembark,[LMB] 하선
-CURRENT,trade_hiring,3239,Hiring *X,채용 *X
-CURRENT,trade_embarking,3239,Embarking *X,출발 *X
-CURRENT,trade_disembarking,3239,Disembarking *X,하선하기 *X
-CURRENT,trade_order_hire_on_sell_screen,3239,(HIRE *X),( *X)
-CURRENT,trade_order_embark_on_sell_screen,3239,(EMBARK *X),(EMBARK *X)
-CURRENT,trade_order_disembark_on_buy_screen,3239,(DISEMBARK *X),(해제 *X)
-CURRENT,trade_hire,3239,HIRE,HIRE
-CURRENT,trade_embark,3239,EMBARK,엠마크
-CURRENT,trade_disembark,3239,DISEMBARK,해제
-CURRENT,techtree_node_title_atmosphericprocessing,3239,Atmospheric Processing,대기 처리
-CURRENT,techtree_node_caption_atmosphericprocessing,3239,Unlocks schematics for hardware required to maintain a breathable atmosphere,통기성 유지에 필요한 하드웨어의 회로도를 잠금 해제합니다
-CURRENT,techtree_node_title_atmosphericprocessing2,3239,Atmospheric Processing 2,대기 처리 2
-CURRENT,techtree_node_caption_atmosphericprocessing2,3239,Unlocks more schematics for hardware required to maintain a breathable atmosphere,통기성 유지에 필요한 하드웨어에 대한 더 많은 회로도를 잠금 해제합니다
-CURRENT,techtree_node_title_wasteprocessing,3239,Waste Processing,폐기물 처리
-CURRENT,techtree_node_caption_wasteprocessing,3239,Unlocks schematics for hardware to capture and reprocess human waste,분뇨를 포집하고 재처리하는 하드웨어의 회로도를 잠금 해제합니다
-CURRENT,special_advancedlogistics,3239,Interstellar Logistics,인터스텔라 물류
-CURRENT,tactical_dockingassistant,3239,DOCKING ASSIST,도킹 지원
-CURRENT,tactical_fleetformation,3239,FLEET FORMATION,함대 편성
-CURRENT,tactical_fleetcombat,3239,FLEET COMBAT AI,함대 전투 AI
-CURRENT,tactical_on,3239,ON,켜기
-CURRENT,tactical_off,3239,OFF,꺼짐
-CURRENT,tactical_tooltip_dockingassistant,3239,"When enabled, the Docking Assistant will perform the final maneuovers required to dock your ship with another, once you are close enough.\n\nIt is recommended you disable Fleet Formation when attempting to dock.",활성화하면 도킹 도우미가 다른 함선과 충분히 가까워지면 도킹에 필요한 마지막 기동을 수행합니다.\n\n도킹을 시도할 때는 함대 형성을 비활성화하는 것이 좋습니다.
-CURRENT,tactical_tooltip_fleetformation,3239,"When enabled, all of the fleet ships within a system will fly together in close formation, following the lead of whichever ship you are directly controlling.",이 기능을 활성화하면 시스템 내의 모든 함대 함선이 직접 조종하는 함선의 선도에 따라 근접 편대를 이루어 함께 비행합니다.
-CURRENT,tactical_tooltip_fleetcombat,3239,"When enabled, your other fleet ships will take care of themselves during combat, moving to optimal range and engaging as best they can.",활성화하면 다른 함대는 전투 중에 스스로 알아서 최적의 범위로 이동하고 최선을 다해 교전합니다.
-CURRENT,tactical_tooltip_weapon,3239,[LMB] Select weapon\n[SHIFT-LMB] Select multiple weapons\n[RMB] Clear current target,[LMB] 무기 선택\n[SHIFT-LMB] 여러 무기 선택\n[RMB] 현재 목표 지우기
-CURRENT,tactical_tooltip_auto,3239,AUTO-TARGETTING\n[LMB] Enable auto-targetting\n[RMB] Disable auto-targetting,자동 타겟팅\n[LMB] 자동 타겟팅 활성화\n[RMB] 자동 타겟팅 비활성화
-CURRENT,logistics_tooltip_add,3239,[LMB] Add,[LMB] 추가
-CURRENT,logistics_tooltip_remove_rmb,3239,[RMB] Remove,[RMB] 제거
-CURRENT,logistics_tooltip_cancel,3239,[RMB] Cancel,[RMB] 취소
-CURRENT,logistics_tooltip_shift,3239,[SHIFT] x5,[SHIFT] x5
-CURRENT,logistics_tooltip_control,3239,[CTRL] x50,[CTRL] x50
-CURRENT,advancedlogisticswindow_title,3239,INTERSTELLAR LOGISTICS,인터스텔라 물류
-CURRENT,logistics_system_select,3239,LOCATION,위치
-CURRENT,logistics_create_order,3239,Create Order,주문 생성
-CURRENT,logistics_loop,3239,Loop,Loop
-CURRENT,logistics_order_none,3239,Order Type,주문 유형
-CURRENT,logistics_order_mine,3239,Mine,광산
-CURRENT,logistics_order_collect,3239,Collect Gas,가스 수집
-CURRENT,logistics_order_buy,3239,Buy,구매
-CURRENT,logistics_order_sell,3239,Sell,판매
-CURRENT,logistics_order_transferto,3239,Transfer To,전송 대상
-CURRENT,logistics_order_transferfrom,3239,Transfer From,다음에서 전송
-CURRENT,logistics_condition_none,3239,Amount,금액
-CURRENT,logistics_condition_quantity,3239,Quantity,수량
-CURRENT,logistics_condition_stacks,3239,Stacks,스택
-CURRENT,logistics_condition_containers,3239,Containers,컨테이너
-CURRENT,logistics_condition_allbut,3239,All But,모두 제외
-CURRENT,logistics_condition_storagefull,3239,Until Storage Full,저장 공간이 가득 찰 때까지
-CURRENT,logistics_condition_all,3239,All Available,모두 사용 가능
-CURRENT,logistics_condition_time,3239,Minutes,분
-CURRENT,logistics_transferto_none,3239,DESTINATION SHIP,목적지 선박
-CURRENT,logistics_transferfrom_none,3239,SOURCE SHIP,소스 배송
-CURRENT,logistics_item_none,3239,Select Item,항목 선택
-CURRENT,logistics_stuck_default,3239,Orders stuck,주문이 중단됨
-CURRENT,logistics_stuck_invalidsystem,3239,System S*X does not exist,시스템 S*X 존재하지 않음
-CURRENT,logistics_stuck_invalidlayer,3239,Ship L*X does not exist,배송 L*X 존재하지 않음
-CURRENT,logistics_stuck_equipment,3239,L*X does not have a working R*Y,L*X 작동하지 않는 R*Y
-CURRENT,logistics_stuck_resources,3239,L*X does not have any R*Ys,L*X R*Y s가 없습니다
-CURRENT,logistics_stuck_patches,3239,System S*X does not have any R*Y to mine,시스템 S*X 광산에 R*Y 없음
-CURRENT,logistics_stuck_gas,3239,System S*X does not have any R*Y to collect,시스템 S*X 수집할 R*Y 없음
-CURRENT,logistics_stuck_tradingpost,3239,System S*X does not have a trading post,시스템 S*X 거래소가 없습니다
-CURRENT,logistics_stuck_resourcestosell,3239,L*X does not have any R*Y to sell,L*X 판매할 R*Y 가 없습니다
-CURRENT,logistics_stuck_stargate,3239,Stargate is not ready for jump,스타게이트가 점프할 준비가 되지 않았습니다
-CURRENT,logistics_status_notrunning,3239,No order currently running,현재 진행 중인 주문이 없습니다
-CURRENT,logistics_status_travelling,3239,Travelling to system S*X,시스템으로 이동 S*X
-CURRENT,logistics_status_mining,3239,Mined *X R*Y,광산 *X R*Y
-CURRENT,logistics_status_miningstacks,3239,(*X/*Y stacks),(*X/*Y 스택)
-CURRENT,logistics_status_miningstacks1,3239,(*X stacks),(*X 스택)
-CURRENT,logistics_status_collect,3239,Collected *X R*Y,수집됨 *X R*Y
-CURRENT,logistics_status_collectcontainers,3239,(*X/*Y containers),(*X/*Y 컨테이너)
-CURRENT,logistics_status_collectcontainers1,3239,(*X containers),(*X 컨테이너)
-CURRENT,logistics_status_transferto,3239,Transfering *X R*Y to L*Z,*X R*Y 으로 전송 L*Z
-CURRENT,logistics_status_transferfrom,3239,Transfering *X R*Y from L*Z,*X R*Y 에서 전송 L*Z
-CURRENT,logistics_status_buy,3239,Bought *X R*Y for $*Z,구입 *X R*Y $*Z
-CURRENT,logistics_status_sell,3239,Sold *X R*Y for $*Z,판매 *X R*Y $*Z
-CURRENT,logistics_status_notlooping,3239,Finished execution (not looping),실행 완료(루핑되지 않음)
-CURRENT,logistics_status_time1,3239,in *X:*Y,에서 *X:*Y
-CURRENT,logistics_status_time2,3239,in *X:0*Y,in *X:0*Y
-CURRENT,logistics_status_time3,3239,in 0*X:*Y,0에서*X:*Y
-CURRENT,logistics_status_time4,3239,in 0*X:0*Y,in 0*X:0*Y
-CURRENT,order_advancedlogistics,3239,Interstellar Logistics,인터스텔라 물류
-CURRENT,mission_objective_done,3239,DONE,완료
-CURRENT,alert_type_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,인터스텔라 물류
-CURRENT,alert_type_interstellarlogistics_caption,3239,Orders stuck,주문이 중단됨
-CURRENT,stargate_startandromedajump,3239,TEST ANDROMEDA JUMP,안드로메다 점프 테스트
-CURRENT,stargate_power_tooltip,3239,POWER REQUIRED: *X MW,필요한 전력 *X MW
-CURRENT,stargate_distance_travelled,3239,*X kly REMAINING,*X 클라리 잔여
-CURRENT,stargate_journey_completed,3239,*X% COMPLETED,*X완료된 %
-CURRENT,stargate_sell,3239,SELL ALL (*X FOR *Y),모두 판매 (*X 에 대한 *Y)
-CURRENT,stargate_price_per_unit,3239,*X PER UNIT,*X 단위당
-CURRENT,stargate_total_price,3239,*X TOTAL,*X 총계
-CURRENT,stargate_award_complete_title,3239,STARGATE COMPLETED,스타게이트 완료
-CURRENT,stargate_award_complete_subtitle,3239,All phases completed,모든 단계 완료
-CURRENT,tutorial_radiationselectfriendly,3239,"First, select a friendly ship with a laser infuser available.",먼저 레이저 인퓨저를 사용할 수 있는 아군 함선을 선택하세요.
-CURRENT,blackhole_objective_tank,3239,Acquire a Storage Tank,저장 탱크 획득하기
-CURRENT,blackhole_objective_storagetank,3239,Connect a tank to the Hyperspace Scoop,탱크를 초공간 스쿠프에 연결하기
-CURRENT,blackhole_objective_loader,3239,Connect a Loader to the tank,탱크에 적재기 연결하기
-CURRENT,blackhole_objective_unloadloader,3239,Set the Loader to UNLOAD,적재기를 언로드로 설정하기
-CURRENT,dsi_part2_dogmavessel1,3239,D.O.G.M.A Spartan,D.O.G.M.A 스파르탄
-CURRENT,dsi_part2_dogmavessel2,3239,D.O.G.M.A Citadel,D.O.G.M.A 시타델
-CURRENT,dsi_part2_dogmavessel3,3239,D.O.G.M.A Centurion,D.O.G.M.A 센츄리온
-CURRENT,bravenewsector_part4_title,3239,"Brave New Sector, Part 4","브레이브 뉴 섹터, 4부"
-CURRENT,bravenewsector_part4_summary,3239,Complete the final test.,최종 테스트를 완료합니다.
-CURRENT,bravenewsector_part4_intro,3239,"Captain, preparations have concluded for the final Stargate test. We are ready to send a ship to the Andromeda Galaxy. Please call us when you are ready.","함장님, 마지막 스타게이트 테스트 준비가 끝났습니다. 안드로메다 은하로 우주선을 보낼 준비가 되었습니다. 준비가 되면 전화해 주세요."
-CURRENT,bravenewsector_part4_call_action,3239,Call the Representative,담당자에게 전화하기
-CURRENT,bravenewsector_part4_rep1,3239,The materials you provided to us have been fitted to the Stargate. It is fully functional and ready to test.,귀하가 제공한 자료가 스타게이트에 장착되었습니다. 완전히 작동하며 테스트할 준비가 되었습니다.
-CURRENT,bravenewsector_part4_rep2,3239,This is a monumental moment in the history of our species. If this test is successful the Andromeda Project will be the first entity to send mankind to another galaxy.,이것은 인류 역사에 기념비적인 순간입니다. 이 실험이 성공하면 안드로메다 프로젝트는 인류를 다른 은하계로 보내는 최초의 개체가 될 것입니다.
-CURRENT,bravenewsector_part4_rep3,3239,"Captain, you will need to begin the test and provide power for the entire journey so our test ship can reach the Andromeda Galaxy. This will require a significant amount of energy, more than what's needed to travel between sectors.","선장님, 테스트 우주선이 안드로메다 은하에 도착할 수 있도록 테스트를 시작하고 전체 여정 동안 전력을 공급해야 합니다. 그러려면 섹터 간 이동에 필요한 것보다 더 많은 양의 에너지가 필요합니다."
-CURRENT,bravenewsector_part4_rep4,3239,Please begin the test when you are ready.,준비가 되면 테스트를 시작하세요.
-CURRENT,bravenewsector_part4_objective_test,3239,Send the test ship to the Andromeda Galaxy,시험 우주선을 안드로메다 은하로 보내기
-CURRENT,bravenewsector_part4_action_starttest,3239,Start Test,테스트 시작
-CURRENT,bravenewsector_part4_reachandromeda_award,3239,ANDROMEDA REACHED,안드로메다 도달
-CURRENT,bravenewsector_part4_reachandromeda_caption,3239,Signal received from test ship,테스트 선박에서 수신한 신호
-CURRENT,bravenewsector_part4_andromeda_bonus,3239,ANDROMEDA BONUS,안드로메다 보너스
-CURRENT,bravenewsector_part4_andromeda_caption,3239,Payment for sending the test ship,테스트 선박 발송에 대한 결제
-CURRENT,bravenewsector_part4_rep5,3239,"Captain, the Stargate has received a signal from the Andromeda Galaxy.","함장님, 스타게이트가 안드로메다 은하에서 신호를 받았습니다."
-CURRENT,bravenewsector_part4_rep6,3239,The test ship made it. The test was a complete and total success. This is a historic moment for all of mankind.,테스트 선박이 성공했습니다. 테스트는 완전하고 완벽하게 성공했습니다. 인류 모두에게 역사적인 순간입니다.
-CURRENT,bravenewsector_part4_rep7,3239,It couldn't have been done without you Captain. Your industrial expertise and dedication to the project have been invaluable.,캡틴이 없었다면 불가능했을 것입니다. 여러분의 산업 전문성과 프로젝트에 대한 헌신은 매우 귀중한 것이었습니다.
-CURRENT,bravenewsector_part4_rep8,3239,"Thank you Captain, your contribution will not be forgotten. Goodbye for now.","캡틴님, 여러분의 공헌을 잊지 않겠습니다. 이제 안녕히 계세요."
-CURRENT,bravenewsector_part4_objective_wait,3239,Await further instructions,추가 지침을 기다립니다
-CURRENT,bravenewsector_part4_harken1,3239,"Captain, there are reports that the Andromeda Project are withholding access to the Stargate from any ships that aren't their own.","함장님, 안드로메다 프로젝트가 자기 함선이 아닌 다른 함선의 스타게이트 접근을 보류하고 있다는 보고가 있습니다."
-CURRENT,bravenewsector_part4_harken2,3239,"My sensors are detecting major fleet movements towards the Stargate, it looks like the Andromeda Project is aiming to secure their control over it.",제 센서가 스타게이트로 향하는 주요 함대의 움직임을 감지하고 있습니다. 안드로메다 프로젝트가 스타게이트에 대한 통제권을 확보하려는 것 같습니다.
-CURRENT,bravenewsector_part4_harken3,3239,"This is... concerning. Be careful, I don't like the look of this.","이건... 우려스럽네요. 조심해, 이 꼴이 맘에 안 들어"
-CURRENT,bravenewsector_part4_rep10,3239,The next stage of the project has begun. Our fleet has obtained full control over the Stargate and we are currently in the process of moving our workforce into the new galaxy.,프로젝트의 다음 단계가 시작되었습니다. 우리 함대는 스타게이트에 대한 완전한 통제권을 확보했으며 현재 인력을 새로운 은하계로 이동시키는 작업을 진행 중입니다.
-CURRENT,bravenewsector_part4_rep11,3239,"We will bring prosperity to all those who work with us. Speak to you soon, Captain. We may have some more work for you in the future.","우리와 함께 일하는 모든 이들에게 번영을 가져다줄 것입니다. 곧 다시 뵙겠습니다, 대위님. 앞으로 더 많은 일이 있을지도 모르니까요."
-CURRENT,bravenewsector_part4_testshipname,3239,Andromeda Test Ship MK.1,안드로메다 시험선 MK.1
-CURRENT,thefinalstand_title,3239,The Final Stand,파이널 스탠드
-CURRENT,thefinalstand_summary,3239,Stop the Andromeda Project.,안드로메다 프로젝트를 중지합니다.
-CURRENT,thefinalstand_harken1_intro,3239,"Captain! In direct violation of intergalactic law, the Andromeda Project has permanently closed access to the Stargate outside of their own ships. Billions of colonists have been stranded in the new sector, unable to return home.",함장님! 안드로메다 프로젝트는 은하계 법을 정면으로 위반하여 우주선 외부에서 스타게이트로의 접근을 영구적으로 폐쇄했습니다. 수십억 명의 식민지 주민들이 고향으로 돌아가지 못한 채 새로운 구역에 발이 묶였습니다.
-CURRENT,thefinalstand_harken2_intro,3239,"You are the only one outside of the Andromeda Project with access codes, please call back as soon as you can. They must be stopped.",안드로메다 프로젝트 외부에서 액세스 코드를 가진 사람은 회원님이 유일하니 가능한 한 빨리 전화해 주세요. 그들은 반드시 막아야 합니다.
-CURRENT,thefinalstand_call_action,3239,Call Harken,하켄에게 전화하기
-CURRENT,thefinalstand_andromedahq_name,3239,ANDROMEDA HQ,안드로메다 본사
-CURRENT,thefinalstand_andromedaflagship_name,3239,ANDROMEDA FLAGSHIP,안드로메다 플래그십
-CURRENT,thefinalstand_ai_name,3239,ANDROMEDA SHIP CONTROL,안드로메다 선박 제어
-CURRENT,thefinalstand_harken1,3239,"Greetings Captain, I was worried you had taken their side in all of this.","안녕하세요, 캡틴님, 이 모든 일에서 저쪽 편을 들까 봐 걱정했어요."
-CURRENT,thefinalstand_objective_traveltoharken,3239,Travel to Harken,하켄으로 여행하기
-CURRENT,thefinalstand_battleprep_2,3239,My officers have pin-pointed the position of their HQ. Upon arrival we expect to be met with heavy resistance from their private security forces.,제 장교들이 놈들의 본거지 위치를 정확히 파악했습니다. 도착하자마자 우리는 그들의 사설 보안군의 거센 저항에 부딪힐 것으로 예상됩니다.
-CURRENT,thefinalstand_battleprep_3,3239,I should be able to grab their attention away from your fleet while you get close and take control of the station.,내가 가까이 다가가 정거장을 장악하는 동안 적 함대의 주의를 다른 곳으로 돌릴 수 있어야 합니다.
-CURRENT,thefinalstand_battleprep_4,3239,"Good luck Captain, I'll see you on the battlefield.","행운을 빕니다, 대위님 전장에서 뵙겠습니다."
-CURRENT,thefinalstand_objective_destroyhq,3239,Take control of the Andromeda Project HQ,안드로메다 프로젝트 본부를 장악하세요
-CURRENT,thefinalstand_battleintro_rep1,3239,"I gave you a very clear warning, Captain. You could've had anything in the universe as our business partner.","내가 분명히 경고했잖아, 캡틴. 당신은 우리의 사업 파트너로 우주에 있는 모든 것을 가질 수 있었어요."
-CURRENT,thefinalstand_battleintro_rep2,3239,Now you must be destroyed.,이제 당신은 파괴되어야 합니다.
-CURRENT,thefinalstand_battleintro_rep3,3239,It was a pleasure working with you.,함께 일할 수 있어서 즐거웠습니다.
-CURRENT,thefinalstand_battleintro_dogma1,3239,"This is DOGMA Private Security force, we are en-route to the disturbance. ETA: imminent.","여기는 도그마 사설 보안팀, 소란이 발생한 곳으로 가는 중입니다. 도착 예정 시간: 임박."
-CURRENT,thefinalstand_battleintro_harken1,3239,There are multiple hostile signatures inbound on our position! You must get in close range of the HQ and upload the virus. I'll do my best to keep their ships off you.,우리 위치로 다수의 적대적인 시그널이 들어오고 있습니다! 본부와 가까운 거리로 가서 바이러스를 업로드해야 합니다. 최선을 다해 놈들의 함선을 막겠습니다.
-CURRENT,thefinalstand_battleintro_harken2,3239,"They're about to arrive, hurry!","곧 도착할 거예요, 서둘러요!"
-CURRENT,thefinalstand_objective_flytohq,3239,Fly close to the HQ,본부 가까이 비행하기
-CURRENT,thefinalstand_objective_destroyhostiles,3239,Destroy remaining hostiles: *X,남은 적을 처치하십시오: *X
-CURRENT,thefinalstand_backdoor_action,3239,Trigger Backdoor,백도어 트리거
-CURRENT,thefinalstand_battle_harken1,3239,Great work Captain! But my sensors are detecting a massive signature headi-,"수고하셨습니다, 함장님! 하지만 내 센서가 거대한 머리의 흔적을 감지하고 있습니다"
-CURRENT,thefinalstand_boss_harken1,3239,I've lost both of my frigates Captain! I don't have enough firepower to win this!,"두 호위함을 모두 잃었습니다, 함장님! 화력이 부족해서 이길 수 없습니다!"
-CURRENT,thefinalstand_objective_destroyboss,3239,Destroy the Andromeda Flagship,안드로메다 기함 파괴하기
-CURRENT,thefinalstand_boss_overloadcaption,3239,OVERLOAD GENERATOR,과부하 발전기
-CURRENT,thefinalstand_battleoutro_ship1,3239,DANGER: POWER SYSTEMS DETERIORATING. POWER GRID OVERLOADED.,위험: 전력 시스템 성능 저하. 전력망 과부하.
-CURRENT,thefinalstand_battleoutro_rep1,3239,"I don't understand, how is that possible!?","이해가 안 돼요, 어떻게 그럴 수 있죠?"
-CURRENT,thefinalstand_battleoutro_ship2,3239,DANGER: GENERATOR STATUS CRITICAL.,위험: 발전기 상태 위험.
-CURRENT,thefinalstand_battleoutro_rep2,3239,"Send all available power to railguns, set target to-","레일건에 사용 가능한 모든 전력을 보내고, 대상을 다음과 같이 설정합니다"
-CURRENT,thefinalstand_battleoutro_harken1,3239,"This is a message for Andromeda HQ. I am Commander Harken, Chief of Private Security for this sector, and I command you to stand down.","안드로메다 본부로 보내는 메시지입니다. 나는 이 구역의 민간 보안 책임자 하켄 중령이며, 당신에게 물러날 것을 명령합니다."
-CURRENT,thefinalstand_battleoutro_harken2,3239,"The Andromeda Navy in this sector has been destroyed, you are now blockaded, there is nothing left to fight for.","이 구역의 안드로메다 해군은 파괴되었고, 이제 봉쇄되어 싸울 것이 아무것도 남지 않았습니다."
-CURRENT,thefinalstand_battleoutro_harken3,3239,"It's over, Captain. The Andromeda HQ will be placed under the jurisdiction of the Intergalactic Security Council while I make the necessary arrests. The access codes for the Stargate are back under your control.","끝났습니다, 함장님 안드로메다 본부는 내가 체포하는 동안 은하 간 안전보장이사회의 관할하에 놓이게 될 거야. 스타게이트의 액세스 코드가 다시 당신 통제하에 있습니다."
-CURRENT,thefinalstand_battleoutro_harken4,3239,The current leadership of the Andromeda Project will be dismantled and the new galaxy will be freed from their control.,안드로메다 프로젝트의 현 지도부는 해체되고 새로운 은하계는 그들의 통제에서 벗어나게 될 것입니다.
-CURRENT,thefinalstand_battleoutro_harken5,3239,"You've proven that you can be trusted with control of the Stargate, so I'll leave it in your hands.",스타게이트의 통제권을 맡길 수 있다는 걸 증명했으니 자네에게 맡기겠네.
-CURRENT,thefinalstand_battleoutro_harken6,3239,"Goodbye Captain, and good luck with your new place in the galaxy.","안녕히 계시고, 새로운 은하계에서 행운을 빕니다."
-CURRENT,hud_consumingperhour,3239,Consuming *X per day,하루 *X 소비량
-CURRENT,survey_captionmultiple,3239,*X ships surveying,*X 선박 측량
-CURRENT,tutorial_radiationinstallinfuser,3239,Laser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area and power it.,레이저 인퓨저는 빈 크리스탈을 젤레온 가스로 충전하는 데 사용되며 전원이 켜져 있는 동안 주변으로 방사선을 방출합니다.\n\n레이저 인퓨저를 깨끗한 곳에 설치하고 전원을 켭니다.
-CURRENT,tutorial_radiationsetupinfuser,3239,Let's set the laser infuser to use them to produce charged crystals.,레이저 인퓨저를 사용하여 충전된 크리스탈을 생성하도록 설정해 보겠습니다.
-CURRENT,tutorial_radiationwaitforinputs,3239,The laser infuser is set to start making charged crystals! Laser infusers use Zeleon Energy Cells to charge the crystals.\n\nLet's wait for it to begin charging crystals.,레이저 인퓨저가 충전된 크리스탈을 만들기 시작하도록 설정되었습니다! 레이저 인퓨저는 젤레온 에너지 셀을 사용하여 크리스탈을 충전합니다.\n\n크리스탈 충전이 시작될 때까지 기다려 봅시다.
-CURRENT,tutorial_surveystartsectorsurvey,3239,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one ship in a system can do a sector scan.\n\nClick the button to begin a sector scan.,섹터 스캔은 내 함선이 위치한 시스템 주변의 섹터에서 관심 영역을 검색합니다.\n\n스캔이 완료되면 스캔이 중지됩니다. 한 시스템에서 한 척의 선박만 섹터 스캔을 수행할 수 있습니다.\n\n버튼을 클릭하여 섹터 스캔을 시작합니다.
-CURRENT,tutorial_surveystartlocalsurvey,3239,Areas of interest will expire after some time if they are not surveyed. Multiple ships can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,관심 지역은 조사하지 않으면 일정 시간이 지나면 만료됩니다. 여러 선박이 지역 조사에 참여할 수 있습니다.\n\n관심 지점을 클릭하면 지역 조사를 시작할 수 있습니다.
-CURRENT,bravenewsector_part2_x4,3239,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. As a safeguard against the Andromeda Project, I have installed a back-door that allows you to take control of the Stargate and any devices commanding it.","제발 그러지 마세요, 캡틴. 제 인생의 많은 부분과 많은 프로젝트가 순전히 이익을 위해 진행되어 왔는데, 이 프로젝트도 그렇게 될 수는 없어요. 안드로메다 프로젝트에 대한 안전장치로 스타게이트와 스타게이트를 지휘하는 모든 장치를 제어할 수 있는 백도어를 설치해뒀어요."
-CURRENT,bravenewsector_part2_x5,3239,Please use it if they restrict the use of the Stargate for their own gain.,자신의 이익을 위해 스타게이트 사용을 제한하는 경우 이 기능을 사용해 주세요.
-CURRENT,blackhole_part1_setup7,3239,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop and a tank to store the isotopes in first.","필요한 자원을 합성할 자료가 필요해요.  제가 계산하는 동안 이 작업을 도와주세요. 초공간 동위 원소가 필요해요 - 쉽게 수집할 수 있지만, 먼저 초공간 스쿠프와 동위 원소를 저장할 탱크를 획득해야 해요."
-CURRENT,stargate_power_fraction,3239,*X / *Y MW,*X / *Y MW
-CURRENT,settings_credits,3149,CREDITS,크레딧
-CURRENT,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,활성화하면 게임이 Steam 클라우드에 저장됩니다. 저장에 실패하면 경고가 표시됩니다.
-CURRENT,newmainmenu_saveoptions,3149,Save Options,저장 옵션
-CURRENT,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] 바닥재 스타일 전환
-CURRENT,hud_tooltip_currentflooring,3149,Current style: *X,현재 스타일: *X
-CURRENT,hud_tooltip_gratedflooring,3149,Grated,강판
-CURRENT,hud_tooltip_normalflooring,3149,Normal,보통
-CURRENT,hud_hull_integrity,3149,HULL,HULL
-CURRENT,hud_power_battery,3149,BATTERY,배터리
-CURRENT,hud_power_powershortage,3149,POWER SHORTAGE,전력 부족
-CURRENT,hud_idlecrew,3149,Idle Crew,유휴 승무원
-CURRENT,hud_dehydrationperperson,3149,Dehydration *X per person,탈수 *X 1인당
-CURRENT,hud_hungerperperson,3149,Hunger *X per person,기아 *X 1인당
-CURRENT,hud_byauthor,3149,BY *X,BY *X
-CURRENT,communicator_newobjective,3149,NEW OBJECTIVE,새로운 목표
-CURRENT,galaxymap_stargate,3149,STARGATE,스타게이트
-CURRENT,trade_canceltrade,3149,CANCEL TRADE AND REFUND,거래 취소 및 환불
-CURRENT,trade_refundvalue,3149,REFUND VALUE,환불 가치
-CURRENT,trade_cancellationcost,3149,CANCELLATION COST,취소 비용
-CURRENT,trade_partiallyfilled,3149,PARTIALLY FILLED,부분적으로 채워짐
-CURRENT,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,불완전한 구성 요소
-CURRENT,trade_removeincomplete,3149,REMOVE INCOMPLETE,불완전한 제거
-CURRENT,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,부분적으로 채워진 부분 제거
-CURRENT,trade_order_normal,3149,(*X),(*X)
-CURRENT,trade_order_buy_on_sell_screen,3149,(BUY *X),(구매 *X)
-CURRENT,trade_order_sell_on_buy_screen,3149,(SELL *X),(판매 *X)
-CURRENT,trade_order_sack_on_buy_screen,3149,(SACK *X),(SACK *X)
-CURRENT,techtree_researchpercent,3149,*X% Complete,*X% 완료
-CURRENT,tooltip_efficiency,3149,Efficiency +*X%,효율성 +*X%
-CURRENT,tooltip_activating,3149,Activating +*X%,활성화 +*X%
-CURRENT,alert_type_lowdeuterium,3149,LOW DEUTERIUM,저 중수소
-CURRENT,stargate_unknowncomponent,3149,Unknown Component,알 수 없는 구성 요소
-CURRENT,stargate_unknowncomponent_description,3149,Unlock this component through research!,연구를 통해 이 구성 요소를 잠금 해제하세요!
-CURRENT,creditstitle_builders,3149,Ship Builders,선박 제조업체
-CURRENT,creditstitle_testers,3149,Early Play Testing,초기 플레이 테스트
-CURRENT,creditstitle_translators,3149,Translation,번역
-CURRENT,engine_thrust,3149,THRUST *X%,THRUST *X%
-CURRENT,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + RMB] 스플리터로 변환하기
-CURRENT,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + RMB] 트랙으로 변환
-CURRENT,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,승객을 목적지까지 데려다줄 수 있는 FTL(Faster-Than-Light)이 없으면 승객을 목적지까지 운송할 수 없습니다. 안타깝게도 이 배에는 자체 <b>FTL 드라이브가</b> 장착되어 있지 않습니다.\n\n하나를 구입하여 설치해야 합니다.
-CURRENT,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,거래 화면을 열어 <b>FTL 드라이브와</b> 일부 <b>FTL 충전을</b> 구매합니다.
-CURRENT,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,정박 중인 선박 포함
-CURRENT,hud_layer_hostile,3149,HOSTILE *X,HOSTILE *X
-CURRENT,hud_layer_derelict,3149,DERELICT *X,DERELICT *X
-CURRENT,hud_layer_forsale,3149,[FOR SALE] *X,[판매용] *X
+NEW,settings_credits,3149,CREDITS,크레딧
+NEW,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,활성화하면 게임이 Steam 클라우드에 저장됩니다. 저장에 실패하면 경고가 표시됩니다.
+NEW,newmainmenu_saveoptions,3149,Save Options,저장 옵션
+NEW,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] 바닥재 스타일 전환
+NEW,hud_tooltip_currentflooring,3149,Current style: *X,현재 스타일: *X
+NEW,hud_tooltip_gratedflooring,3149,Grated,강판
+NEW,hud_tooltip_normalflooring,3149,Normal,보통
+NEW,hud_hull_integrity,3149,HULL,HULL
+NEW,hud_power_battery,3149,BATTERY,배터리
+NEW,hud_power_powershortage,3149,POWER SHORTAGE,전력 부족
+NEW,hud_idlecrew,3149,Idle Crew,유휴 승무원
+NEW,hud_consumingperhour,3149,Consuming *X per hour,시간당 *X 사용량
+NEW,hud_dehydrationperperson,3149,Dehydration *X per person,탈수 *X 1인당
+NEW,hud_hungerperperson,3149,Hunger *X per person,기아 *X 1인당
+NEW,hud_byauthor,3149,BY *X,BY *X
+NEW,communicator_newobjective,3149,NEW OBJECTIVE,새로운 목표
+NEW,galaxymap_stargate,3149,STARGATE,스타게이트
+NEW,trade_canceltrade,3149,CANCEL TRADE AND REFUND,거래 취소 및 환불
+NEW,trade_refundvalue,3149,REFUND VALUE,환불 가치
+NEW,trade_cancellationcost,3149,CANCELLATION COST,취소 비용
+NEW,trade_partiallyfilled,3149,PARTIALLY FILLED,부분적으로 채워짐
+NEW,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,불완전한 구성 요소
+NEW,trade_removeincomplete,3149,REMOVE INCOMPLETE,불완전한 제거
+NEW,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,부분적으로 채워진 부분 제거
+NEW,trade_order_normal,3149,(*X),(*X)
+NEW,trade_order_buy_on_sell_screen,3149,(BUY *X),(구매 *X)
+NEW,trade_order_sell_on_buy_screen,3149,(SELL *X),(판매 *X)
+NEW,trade_order_sack_on_buy_screen,3149,(SACK *X),(SACK *X)
+NEW,techtree_researchpercent,3149,*X% Complete,*X% 완료
+NEW,tooltip_efficiency,3149,Efficiency +*X%,효율성 +*X%
+NEW,tooltip_activating,3149,Activating +*X%,활성화 +*X%
+NEW,alert_type_lowdeuterium,3149,LOW DEUTERIUM,저 중수소
+NEW,stargate_unknowncomponent,3149,Unknown Component,알 수 없는 구성 요소
+NEW,stargate_unknowncomponent_description,3149,Unlock this component through research!,연구를 통해 이 구성 요소를 잠금 해제하세요!
+NEW,creditstitle_builders,3149,Ship Builders,선박 제조업체
+NEW,creditstitle_testers,3149,Early Play Testing,초기 플레이 테스트
+NEW,creditstitle_translators,3149,Translation,번역
+NEW,engine_thrust,3149,THRUST *X%,THRUST *X%
+UPDATED,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + RMB] 스플리터로 변환하기
+PREVIOUS,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] 스플리터로 변환
+UPDATED,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + RMB] 트랙으로 변환
+PREVIOUS,hud_convertsplittertotrack,3054,[RMB] Convert to track,[RMB] 트랙으로 변환하기
+UPDATED,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,승객을 목적지까지 데려다줄 수 있는 FTL(Faster-Than-Light)이 없으면 승객을 목적지까지 운송할 수 없습니다. 안타깝게도 이 배에는 자체 <b>FTL 드라이브가</b> 장착되어 있지 않습니다.\n\n하나를 구입하여 설치해야 합니다.
+PREVIOUS,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,승객을 목적지까지 데려다줄 수 있는 FTL(Faster-Than-Light)이 없으면 승객을 목적지까지 운송할 수 없습니다. 안타깝게도 이 선박에는 자체 <b>FTL</b> 드라이브가 장착되어 있지 않습니다.\n\n하나를 구입하여 설치해야 합니다.
+PREVIOUS,tutorial_ftlintro,2448,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,광속 항법(FTL) 없이는 해당 승객들을 목적지까지 데려다줄 수 없습니다. 불행히도 이 함선에는 자체 FTL 드라이브가 장착되어 있지 않습니다.\n\n우리는 이를 구매해서 설치해야 합니다.
+UPDATED,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,거래 화면을 열어 <b>FTL 드라이브와</b> 일부 <b>FTL 충전을</b> 구매합니다.
+PREVIOUS,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,FTL 드라이브를 구매하려면 거래 화면을 엽니다.
+PREVIOUS,tutorial_ftltradescreen,2448,Open the trade screen to purchase an FTL drive.,무역 화면을 열어 FTL 드라이브를 구매하세요.
+UPDATED,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,정박 중인 선박 포함
+PREVIOUS,newmainmenu_includedocked,2448,INCLUDE DOCKED SHIPS IN EXPORT,도킹된 함선 포함하여 내보내기  
+UPDATED,hud_layer_hostile,3149,HOSTILE *X,HOSTILE *X
+PREVIOUS,hud_layer_hostile,2448,HOSTILE,적대  
+UPDATED,hud_layer_derelict,3149,DERELICT *X,DERELICT *X
+PREVIOUS,hud_layer_derelict,2448,DERELICT,폐허  
+UPDATED,hud_layer_forsale,3149,[FOR SALE] *X,[판매용] *X
+PREVIOUS,hud_layer_forsale,2448,[FOR SALE],[판매 중]  
 CURRENT,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,외관이 마모된 것으로 보아 적어도 한 세기 이상 이곳에 있었을 것으로 추정됩니다. 이 구역은 인류가 우주를 식민지화하려는 최초의 시도 중 하나였을 것입니다.
 CURRENT,mainmenu_gamemode_arena,3054,Arena,아레나
 CURRENT,mainmenu_gamemode_arena_tooltip,3054,Create epic space battles between fleets of ships and watch the carnage unfold.,함대 간의 장대한 우주 전투를 만들고 대학살이 펼쳐지는 모습을 지켜보세요.
@@ -292,6 +99,7 @@ CURRENT,survey_type_colony,3054,Colony,Colony
 CURRENT,survey_title,3054,UNSURVEYED *X,조사되지 않음 *X
 CURRENT,survey_captionnone,3054,No survey in progress,진행 중인 설문조사 없음
 CURRENT,survey_captionsingle,3054,Surveyed by *X,조사 대상 *X
+CURRENT,survey_captionmultiple,3054,*X layers surveying,*X 레이어 측량
 CURRENT,survey_local_noequipment,3054,NO SUPERCOMPUTERS INSTALLED,설치된 슈퍼컴퓨터 없음
 CURRENT,survey_sector_title,3054,SECTOR SCAN,섹터 스캔
 CURRENT,survey_sector_nothingtoscan,3054,REGION FULLY SCANNED,지역 전체 스캔
@@ -352,6 +160,9 @@ CURRENT,alert_type_emp_caption,3054,*X piece(s) disabled,*X 비활성화된 조�
 CURRENT,alert_type_emp_tooltip,3054,"Your ship has been struck by lightning, temporarily disabling some of your equipment.",함선이 번개에 맞아 일부 장비가 일시적으로 비활성화되었습니다.
 CURRENT,tutorial_radiation_title,3054,RADIATION,방사
 CURRENT,tutorial_radiationintro,3054,We are going to learn about radiation.,방사선에 대해 알아보겠습니다.
+CURRENT,tutorial_radiationinstallinfuser,3054,A laser infuser has been delivered to your ship.\n\nLaser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area.,레이저 인퓨저가 배송되었습니다.\n\n레이저 인퓨저는 빈 크리스탈을 젤레온 가스로 충전하는 데 사용되며 전원이 켜져 있는 동안 주변으로 방사선을 방출합니다.\n\n레이저 인퓨저를 깨끗한 곳에 설치합니다.
+CURRENT,tutorial_radiationsetupinfuser,3054,An empty crystal and some zeleon energy cells have been delivered to your ship too.\n\nLet's set the laser infuser to use them to produce charged crystals.,빈 크리스탈과 젤레온 에너지 셀이 우주선으로 배달되었습니다.\n\n레이저 주입기를 사용하여 충전된 크리스탈을 생성하도록 설정해 보겠습니다.
+CURRENT,tutorial_radiationwaitforinputs,3054,The laser infuser is set to start making charged crystals!\n\nLet's wait for it to begin charging crystals.\n\nDon't forget to power the Laser Infuser.,레이저 인퓨저가 충전된 크리스탈을 만들기 시작하도록 설정되었습니다!\n\n크리스탈 충전이 시작될 때까지 기다리겠습니다.\n\n레이저 인퓨저에 전원을 공급하는 것을 잊지 마세요.
 CURRENT,tutorial_radiationselectoverlay,3054,The game has been set to a slower speed for now.\n\nRadiation is emitted in all directions away from the laser infuser.\n\nClick on the radiation overlay to view where your ship is irradiated.,\n\n레이저 인퓨저에서 떨어진 모든 방향으로 방사선이 방출됩니다.\n\n방사선 오버레이를 클릭하면 우주선이 조사되는 위치를 확인할 수 있습니다.
 CURRENT,tutorial_radiationselectoverlay2,3054,"All green areas of your ship are safe for your crew, but the darker areas are dangerous.\n\nSpacesuits will protect your crew from being irradiated.",우주선의 모든 녹색 영역은 승무원에게 안전하지만 어두운 영역은 위험합니다.\n\n우주복은 승무원을 방사선 조사로부터 보호해 줍니다.
 CURRENT,tutorial_radiationinstallblockers,3054,"Radiation spread can be limited by special equipment called radiation blockers.\n\nInstall some blockers close to your laser infuser, leaving a small gap between the infuser and the blocker.\n\nIncrease the game speed when you are ready.",방사선 차단제라는 특수 장비로 방사선 확산을 제한할 수 있습니다.\n\n레이저 인퓨저와 차단제 사이에 작은 간격을 두고 인퓨저 가까이에 차단제를 설치합니다.\n\n준비가 되면 게임 속도를 높입니다.
@@ -361,9 +172,11 @@ CURRENT,tutorial_radiationsuccess,3054,"Well done, you have now learnt how radia
 CURRENT,tutorial_survey_title,3054,SECTOR SURVEYING,섹터 측량
 CURRENT,tutorial_surveyintro,3054,"We are going to learn how to survey the area around your ship.\n\nThe first step is to scan the local area of the sector surrounding you ship using a <b>SECTOR SCAN</b>.\n\nIn Boldly Go, only the new sector can be surveyed.\n\nHyperspace sensors are required to do this.",\n\n첫 번째 단계는 <b>섹터 스캔을</b> 사용하여 선박 주변 섹터의 로컬 영역을 스캔하는 것입니다.\n\nBoldly Go에서는 새 섹터만 스캔할 수 있습니다.\n\n이를 위해서는 초공간 센서가 필요합니다.
 CURRENT,tutorial_surveyinstallsensors,3054,"Install Hyperspace Sensors or Hyperspace Sensor LRs onto one of your ships.\n\nThis tutorial will resume afterwards.\n\nIf you are playing the Boldly Go game mode, your ship must also be in the new sector.","초공간 센서 또는 초공간 센서 LR을 함선 중 하나에 설치하세요.\n\n이 튜토리얼은 나중에 다시 시작됩니다.\n\n대담하게 도전 게임 모드를 플레이하는 경우, 함선도 새로운 섹터에 있어야 합니다."
+CURRENT,tutorial_surveystartsectorsurvey,3054,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan.,섹터 스캔은 우주선이 위치한 시스템 주변의 섹터에서 관심 영역을 검색합니다.\n\n스캔이 완료되면 스캔이 중지됩니다. 시스템에서 하나의 레이어만 섹터 스캔을 수행할 수 있습니다.\n\n섹터 스캔을 시작하려면 버튼을 클릭합니다.
 CURRENT,tutorial_surveyhighlightsectorsurveysystem,3054,Hovering the mouse over the current system will reveal the radius around the system that is being scanned and the scan's progress toward finding new points of interest.\n\nOpen the <b>SECTOR MAP</b> and click <b>NEXT</b> to speed-up the survey.,현재 시스템 위로 마우스를 가져가면 스캔 중인 시스템 주변의 반경과 새로운 관심 지점을 찾기 위한 스캔 진행 상황이 표시됩니다.\n\n<b>섹터 맵을</b> 열고 <b>다음을</b> 클릭하여 조사 속도를 높입니다.
 CURRENT,tutorial_surveylocalsurveyintro,3054,The next step is to perform a <b>LOCAL SURVEY</b>.\n\nLocal surveys allow points of interest to be accessed via FTL.\n\nShips need to have super computers installed and must be in the same sector to participate in a local survey.,다음 단계는 <b>로컬</b> 조사를 수행하는 것입니다.\n\n로컬 조사를 통해 관심 지점에 FTL로 액세스할 수 있습니다.\n\n로컬 조사에 참여하려면 선박에 슈퍼 컴퓨터가 설치되어 있어야 하며 같은 섹터에 있어야 합니다.
 CURRENT,tutorial_surveyinstallcomputers,3054,Install a super-computer on one of your ships.\n\nThis tutorial will resume afterwards.,선박 중 하나에 슈퍼컴퓨터를 설치하세요.\n\n이 튜토리얼은 나중에 다시 시작됩니다.
+CURRENT,tutorial_surveystartlocalsurvey,3054,Areas of interest will expire after some time if they are not surveyed. Multiple layers can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,관심 지역은 설문조사에 참여하지 않으면 일정 시간이 지나면 만료됩니다. \n\n 관심 지점을 클릭하면 지역 설문조사를 시작할 수 있습니다.
 CURRENT,tutorial_surveyoutro,3054,Click <b>NEXT</b> to speed-up the survey.,설문조사 속도를 높이려면 <b>다음을</b> 클릭합니다.
 CURRENT,tutorial_surveysuccess,3054,"A new system on the sector map has appeared for your fleet to explore!\n\nWell done, you have now learnt how to use sector surveying to find and explore new systems.\n\nKeep an eye out for special loot on surveyed derelict ships that can be researched by your science stations.",함대가 탐험할 수 있는 새로운 시스템이 섹터 지도에 등장했습니다!\n\n이제 섹터 측량을 사용하여 새로운 시스템을 찾고 탐험하는 방법을 배웠습니다.\n\n과학실에서 조사할 수 있는 조사된 폐선에는 특별한 전리품이 있으니 잘 살펴보세요.
 CURRENT,bravenewsector_part1_x1,3054,Captain? Are you there?,선장님? 거기 계세요?
@@ -374,6 +187,8 @@ CURRENT,bravenewsector_part2_title,3054,"Brave New Sector, Part 2","브레이브
 CURRENT,bravenewsector_part2_summary,3054,Uncover the history of the new sector.,새로운 부문의 역사를 알아보세요.
 CURRENT,bravenewsector_part2_x1,3054,"Hello again Captain, the Andromeda Project is very impressed with the samples you've sent them. They want your work on the Stargate to continue.","안녕하세요, 함장님, 안드로메다 프로젝트에서 보내주신 샘플에 깊은 인상을 받았습니다. 그들은 스타게이트에 대한 당신의 작업을 계속하기를 원합니다."
 CURRENT,bravenewsector_part2_x3,3054,"I must warn you, there are rumours that their plan is to take the Stargate fully under their control. They will charge anyone who wants to use it a fortune, preventing any competition and harvesting all the resources in the new galaxy for themselves. They will become more powerful than any entity we have seen before.","경고하건대, 그들의 계획은 스타게이트를 완전히 장악하는 것이라는 소문이 있습니다. 그들은 스타게이트를 사용하려는 모든 이들에게 막대한 비용을 청구하여 경쟁을 막고 새로운 은하계의 모든 자원을 자신들을 위해 수확할 것입니다. 그들은 우리가 이전에 본 어떤 개체보다 더 강력해질 것입니다."
+CURRENT,bravenewsector_part2_x4,3054,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. The Stargate is too important and valuable for our species to be under their control.","제발 그러지 마세요, 캡틴. 제 인생의 많은 부분과 많은 프로젝트가 순전히 이익을 위해 이루어졌는데, 이 일까지 그렇게 될 순 없어요. 스타게이트는 우리 종족에게 너무 중요하고 소중해서 저들의 통제하에 놓아둘 수 없어요."
+CURRENT,bravenewsector_part2_x5,3054,I have installed a back-door that will cause the Stargate to self-destruct if you command it to. You must trigger it if the rumours are true.,명령하면 스타게이트가 자폭하도록 하는 백도어를 설치했습니다. 소문이 사실이라면 반드시 작동시켜야 합니다.
 CURRENT,bravenewsector_part2_x6,3054,"Unfortunately, I've been given some bad news, and I won't be around for much longer. I would like to give you full ownership of the foundry as a thank you for helping me finish this final project.",안타깝게도 저는 나쁜 소식을 접하게 되어 더 이상 함께하지 못하게 되었습니다. 이 마지막 프로젝트를 마무리할 수 있도록 도와주신 것에 대한 감사의 표시로 파운드리의 완전한 소유권을 여러분께 넘기고 싶습니다.
 CURRENT,bravenewsector_part2_x7,3054,It seems we have completed it just in time.,제때에 완료한 것 같습니다.
 CURRENT,bravenewsector_part2_x8,3054,"This is our final call, Captain. I wish you the best of luck. Thank you again, and goodbye.","이게 마지막 전화입니다, 기장님. 행운을 빕니다. 다시 한번 감사드리며 안녕히 계세요."
@@ -954,11 +769,10 @@ CURRENT,hud_endcreativemode2,2448,When you jump to hyperspace,초공간 점프 �
 CURRENT,hud_endcreativemodewarning,2448,LEAVING CREATIVE MODE,크리에이티브 모드 종료  
 CURRENT,hud_endcreativemodefull,2448,Creative Mode will end when you jump to hyperspace,초공간으로 점프하면 크리에이티브 모드가 종료됩니다.  
 CURRENT,hud_hyperspace,2448,HYPERSPACE,초공간  
-CURRENT,hud_gun_port,3205,Port *X,좌현 *X
-CURRENT,hud_gun_forward,3205,Forward *X,함수 *X
-CURRENT,hud_gun_starboard,3205,Starboard *X,우현 *X
-CURRENT,hud_gun_aft,3205,Aft *X,함미 *X
-CURRENT,hud_gun_gattling,3205,PDC,CIWS
+CURRENT,hud_direction_up,2448,Port,좌현  
+CURRENT,hud_direction_right,2448,Forward,전방  
+CURRENT,hud_direction_down,2448,Starboard,우현  
+CURRENT,hud_direction_left,2448,Aft,후방  
 CURRENT,hud_camerattracking,2448,Camera Tracking,카메라 추적  
 CURRENT,hud_enabled,2448,Enabled,활성화됨  
 CURRENT,hud_disabled,2448,Disabled,비활성화됨  
@@ -2106,6 +1920,7 @@ CURRENT,blackhole_part1_setup4,2448,"The last time, we pushed it too far.  My br
 CURRENT,blackhole_part1_setup5,2448,"I've lost all contact, and he's been down there for a long time now.  He's still showing on the sensors, and his ship is still intact.  The gravitational forces and time dilation will be extreme.  But with your help, we're going to rescue him.","그 이후로 모든 연락이 끊겼고, 그는 오랫동안 그곳에 있습니다. 하지만 센서에는 여전히 신호가 잡히고 있고, 함선도 온전한 상태입니다. 중력 간섭과 시간 지연은 극심할 것입니다. 하지만 당신이 도와주신다면, 구조할 수 있습니다.  "
 CURRENT,blackhole_part1_setup6,2448,There's only one way to get to him without falling into the black hole ourselves.  We're going to have to do an extremely short range HYPERSPACE HOP.,그에게 도달하면서 블랙홀에 빨려들지 않으려면 방법은 단 하나뿐입니다. 매우 짧은 거리의 하이퍼스페이스 도약을 해야 합니다.  
 CURRENT,blackhole_part1_setup6b,2448,"Using a modified FTL Drive you'll do one hyperspace hop toward the black hole, rescue my brother Marcus, then turn around and hop right out.  It will be dangerous, but it's the only way to avoid being dragged in ourselves.","개조된 FTL 드라이브를 사용해 블랙홀 쪽으로 단 한 번 하이퍼스페이스 도약을 한 뒤, 마커스를 구조하고, 즉시 방향을 바꿔 다시 도약해 빠져나와야 합니다. 위험하긴 하지만, 우리가 빨려들지 않고 돌아올 수 있는 유일한 방법입니다.  "
+CURRENT,blackhole_part1_setup7,2448,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop first.","필요한 자원을 합성하려면 재료가 필요합니다. 당신은 자재를 모아주시고, 저는 도약 경로 계산을 계속하겠습니다. 하이퍼스페이스 동위원소가 필요합니다. 수집 자체는 어렵지 않지만, 먼저 하이퍼스페이스 스쿱이 필요합니다.  "
 CURRENT,blackhole_part1_setup7b,2448,You'll then need to use a Loader to start unloading the isotopes into containers.,그다음에는 적재기를 사용해 동위원소를 컨테이너에 옮겨 담아야 합니다.  
 CURRENT,blackhole_part1_setup8,2448,I'm building the Hyperspace FTL drive that will allow you to perform the hop.  It's going to need some modifications.  I'll need you to manufacture some parts for me. I know you have manufacturing facilities near the Stargate project.  You should be able to make these parts for me without too much trouble.,"지금 저는 하이퍼스페이스 FTL 드라이브를 조립 중입니다. 약간의 개조가 필요하기 때문에, 몇 가지 부품을 제작해주셔야 합니다. 스타게이트 프로젝트 근처에 제조 설비가 있는 걸로 알고 있습니다. 이 부품들은 큰 어려움 없이 제작하실 수 있을 겁니다."
 CURRENT,blackhole_part1_setup9,2448,"Bring those materials back to me, and we can move onto phase 2.",그 자재들을 저에게 가져다주시면 2단계로 넘어갈 수 있습니다.  
@@ -2469,6 +2284,7 @@ CURRENT,tutorial_dsisetrecipe,2448,Right-clicking on equipment allows you to set
 CURRENT,tutorial_dsisetupdone,2448,The smelter will now start producing metal ingots after it has finished heating up.,제련로가 예열을 마치면 금속 주괴 생산을 시작합니다.  
 CURRENT,tutorial_stargatewindowopenwindow,2448,Select the Stargate button in your toolbar to open the Stargate screen.,도구 모음에서 스타게이트 버튼을 선택해 스타게이트 화면을 여세요.  
 CURRENT,tutorial_stargatewindowintro,2448,The Stargate screen displays everything you need to manufacture to complete the current phase.,스타게이트 화면에는 현재 단계 완료를 위해 제조해야 할 모든 항목이 표시됩니다.  
+CURRENT,tutorial_stargatewindowhighlightcomponent,2448,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,필요한 각 부품은 왼쪽에 있습니다.\n부품 아이콘 위에 마우스를 올리면 생산 방법이 표시됩니다.  
 CURRENT,tutorial_stargatewindowhighlightphases,2448,"The Stargate's construction is split into phases, with each phase requiring more and more resources.\nYou have just completed Phase 1.","스타게이트 건설은 여러 단계로 나뉘며, 각 단계마다 더 많은 자원이 필요합니다.\n방금 1단계를 완료했습니다.  "
 CURRENT,tutorial_stargatewindowhighlightphase2,2448,Select Phase 2 to see what you need to manufacture for this phase.,2단계를 선택해 이번 단계에 제조해야 할 항목을 확인하세요.  
 CURRENT,tutorial_stargatewindowhighlightframes1,2448,"To complete Phase 2, we need to continue manufacturing Stargate Frames.\n\nInstead of 10, we now need 200!",2단계를 완료하려면 스타게이트 프레임을 계속 생산해야 합니다.\n\n10개 대신 이제 200개가 필요합니다!  
@@ -2784,6 +2600,7 @@ CURRENT,object_neubidiumcapacitor,2624,Neubidium Capacitor,누비디움 커패�
 CURRENT,alert_type_stargatelosingpower,2624,STARGATE LOSING POWER,스타게이트 전력 부족  
 CURRENT,alert_type_stargatelosingpower_caption,2624,*X MW / *Y MW Supplied,공급량: *X MW / *Y MW  
 CURRENT,alert_type_stargatelosingpower_tooltip,2624,The stargate isn't being supplied with enough power. Use energy transmitters to supply the Stargate with power.,스타게이트에 충분한 전력이 공급되지 않고 있습니다. 에너지 송신기를 사용하여 전력을 공급하세요.  
+CURRENT,stargate_power_fraction,2624,SUPPLIED:\n*X MW / *Y MW,공급됨:\n*X MW / *Y MW  
 CURRENT,stargate_power_button,2624,START,시작  
 CURRENT,stargate_powered_off,2624,POWERED OFF,전원 꺼짐  
 CURRENT,stargate_warming_up,2624,WARMING UP,예열 중  
@@ -3017,37 +2834,6 @@ CURRENT,calltoarms_harkenrailroad_3,2448,We've recieved reports of a shipwreck n
 CURRENT,calltoarms_harkenrailroad_4,2448,Travel to the shipwreck and look for a Black Box Flight Recorder in the wreckage.  This device will contain a log of their final moments.,잔해를 찾아가 블랙박스 비행기록 장치를 확보하세요. 이 장치에는 마지막 순간의 로그가 기록되어 있습니다.  
 CURRENT,calltoarms_harkenrailroad_5,2448,To collect the flight recorder you'll need to install a DRONE BAY and at least one LOGISTICS DRONE. You can buy them from any Shipyard or Colony.,비행기록 장치를 수거하려면 드론 베이와 최소 1대 이상의 물류 드론이 필요합니다. 이는 조선소나 식민지에서 구매할 수 있습니다.  
 CURRENT,dsi_part1_callfromrep1,2448,"This is a message for A.J.E FOUNDRY.  We've received your samples and can report that they have passed comfortably within our engineering tolerances.  You are formally approved as licensed industry partners, and may now manufacture all items in our design manifest.","이 메시지는 A.J.E 주조소에 전하는 것입니다. 귀사에서 보낸 샘플은 당사의 공학 허용 오차 기준을 무난히 통과했습니다. 귀사는 정식으로 라이선스를 획득한 산업 파트너로 승인되었으며, 설계 목록에 포함된 모든 항목을 생산할 수 있습니다."
-OBSOLETE,thefinalstand_harken2,3239,"My scientists and officers have analysed the blueprints of the Stargate project, provided to us by the late Alexander James Elistar.",제 과학자들과 장교들이 고 알렉산더 제임스 엘리스타가 제공한 스타게이트 프로젝트의 청사진을 분석했습니다.
-OBSOLETE,thefinalstand_harken3,3239,"The Andromeda Project has moved their HQ and all key personell into an unknown location in the new sector, where we believe they are controlling the Stargate.","안드로메다 프로젝트는 본부와 모든 핵심 인력을 새로운 섹터의 알려지지 않은 장소로 이동시켰으며, 그곳에서 스타게이트를 통제하고 있는 것으로 추정됩니다."
-OBSOLETE,thefinalstand_harken4,3239,"Elistar has left you with a backdoor into the Stargate's security systems, compromising all devices controlling it and providing us with direct access to the Andromeda Project's systems.",엘리스타는 스타게이트의 보안 시스템에 백도어를 남겨 스타게이트를 제어하는 모든 장치를 손상시키고 안드로메다 프로젝트의 시스템에 직접 액세스할 수 있는 권한을 부여했습니다.
-OBSOLETE,thefinalstand_harken5,3239,"Any and all damage to the HQ should be avoided. Many innocent lives are on-board that HQ, the loss of life from destroying it would be far too great. You will upload a virus to their command centre and disable the station's offensive capabilities.","본부에 대한 모든 피해는 피해야 합니다. 본부에는 많은 무고한 생명들이 탑승하고 있으며, 본부를 파괴할 경우 인명 손실이 너무 클 것입니다. 지휘 센터에 바이러스를 업로드하여 정거장의 공격 능력을 무력화시켜야 합니다."
-OBSOLETE,thefinalstand_harken6,3239,"While you are doing this, my fleet will fight off the Andromeda Project navy. Once the battle is over, I will take control of the HQ and arrest everyone involved. Their conglomerate will be dismantled.",당신이 이 일을 하는 동안 내 함대는 안드로메다 프로젝트 해군과 싸울 것입니다. 전투가 끝나면 내가 본부를 장악하고 관련자들을 모두 체포할 것이다. 그들의 대기업은 해체될 것이다.
-OBSOLETE,thefinalstand_boss_harken2,3239,"The previous ships were private security, this one is the Andromeda Navy's flagship! You should have access to its command centre from the HQ.","이전 함선은 개인 경비함이었다면, 이 함선은 안드로메다 해군의 기함입니다! 본부에서 지휘 센터에 접속할 수 있습니다."
-OBSOLETE,industryend_message,3239,"After capturing the Andromeda HQ, Harken and the Intergalactic Security Council dismantled the Andromeda Project conglomerate.  The control of the Stargate was left in the hands of the Captain that built it.  Humanity's journey across the universe has only just begun...","안드로메다 본부를 점령한 후, 하켄과 은하계 안전 보장 이사회는 안드로메다 프로젝트 대기업을 해체했습니다.  스타게이트의 통제권은 스타게이트를 건설한 캡틴의 손에 남겨졌습니다.  우주를 가로지르는 인류의 여정은 이제 막 시작되었습니다..."
-OBSOLETE,bravenewsector_part4_rep9,3239,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy the Andromeda.,"안녕하세요, 함장님. 새로 완공된 스타게이트로 인해 안드로메다 프로젝트는 이 은하계 안드로메다 사이의 자원과 사람의 흐름을 통제할 수 있는 강력한 위치에 서게 되었습니다."
-OBSOLETE,thefinalstand_battleprep_1,3239,"Hello Captain, it's good to see you. This is all of the ships I control in this sector, the rest are on the other side of the Stargate, unable to reach us.","안녕하세요, 함장님, 반갑습니다. 이 구역의 모든 함선은 제가 통제하고 있으며, 나머지는 스타게이트 반대편에 있어 연락이 안 됩니다."
-OBSOLETE,thefinalstand_battle_rep1,3239,Commander Harken! I see that my first fleet failed to deal you. I suppose if I want something done properly I should do it myself.,하켄 사령관! 내 첫 번째 함대가 당신을 처리하지 못한 것 같군. 제대로 된 일을 하려면 내가 직접 해야겠군.
-OBSOLETE,hud_consumingperhour,3149,Consuming *X per hour,시간당 *X 사용량
-OBSOLETE,survey_captionmultiple,3054,*X layers surveying,*X 레이어 측량
-OBSOLETE,tutorial_radiationinstallinfuser,3054,A laser infuser has been delivered to your ship.\n\nLaser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area.,레이저 인퓨저가 배송되었습니다.\n\n레이저 인퓨저는 빈 크리스탈을 젤레온 가스로 충전하는 데 사용되며 전원이 켜져 있는 동안 주변으로 방사선을 방출합니다.\n\n레이저 인퓨저를 깨끗한 곳에 설치합니다.
-OBSOLETE,tutorial_radiationsetupinfuser,3054,An empty crystal and some zeleon energy cells have been delivered to your ship too.\n\nLet's set the laser infuser to use them to produce charged crystals.,빈 크리스탈과 젤레온 에너지 셀이 우주선으로 배달되었습니다.\n\n레이저 주입기를 사용하여 충전된 크리스탈을 생성하도록 설정해 보겠습니다.
-OBSOLETE,tutorial_radiationwaitforinputs,3054,The laser infuser is set to start making charged crystals!\n\nLet's wait for it to begin charging crystals.\n\nDon't forget to power the Laser Infuser.,레이저 인퓨저가 충전된 크리스탈을 만들기 시작하도록 설정되었습니다!\n\n크리스탈 충전이 시작될 때까지 기다리겠습니다.\n\n레이저 인퓨저에 전원을 공급하는 것을 잊지 마세요.
-OBSOLETE,tutorial_surveystartsectorsurvey,3054,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan.,섹터 스캔은 우주선이 위치한 시스템 주변의 섹터에서 관심 영역을 검색합니다.\n\n스캔이 완료되면 스캔이 중지됩니다. 시스템에서 하나의 레이어만 섹터 스캔을 수행할 수 있습니다.\n\n섹터 스캔을 시작하려면 버튼을 클릭합니다.
-OBSOLETE,tutorial_surveystartlocalsurvey,3054,Areas of interest will expire after some time if they are not surveyed. Multiple layers can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,관심 지역은 설문조사에 참여하지 않으면 일정 시간이 지나면 만료됩니다. \n\n 관심 지점을 클릭하면 지역 설문조사를 시작할 수 있습니다.
-OBSOLETE,bravenewsector_part2_x4,3054,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. The Stargate is too important and valuable for our species to be under their control.","제발 그러지 마세요, 캡틴. 제 인생의 많은 부분과 많은 프로젝트가 순전히 이익을 위해 이루어졌는데, 이 일까지 그렇게 될 순 없어요. 스타게이트는 우리 종족에게 너무 중요하고 소중해서 저들의 통제하에 놓아둘 수 없어요."
-OBSOLETE,bravenewsector_part2_x5,3054,I have installed a back-door that will cause the Stargate to self-destruct if you command it to. You must trigger it if the rumours are true.,명령하면 스타게이트가 자폭하도록 하는 백도어를 설치했습니다. 소문이 사실이라면 반드시 작동시켜야 합니다.
-OBSOLETE,blackhole_part1_setup7,2448,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop first.","필요한 자원을 합성하려면 재료가 필요합니다. 당신은 자재를 모아주시고, 저는 도약 경로 계산을 계속하겠습니다. 하이퍼스페이스 동위원소가 필요합니다. 수집 자체는 어렵지 않지만, 먼저 하이퍼스페이스 스쿱이 필요합니다.  "
-OBSOLETE,stargate_power_fraction,2624,SUPPLIED:\n*X MW / *Y MW,공급됨:\n*X MW / *Y MW  
-OBSOLETE,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] 스플리터로 변환
-OBSOLETE,hud_convertsplittertotrack,3054,[RMB] Convert to track,[RMB] 트랙으로 변환하기
-OBSOLETE,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,승객을 목적지까지 데려다줄 수 있는 FTL(Faster-Than-Light)이 없으면 승객을 목적지까지 운송할 수 없습니다. 안타깝게도 이 선박에는 자체 <b>FTL</b> 드라이브가 장착되어 있지 않습니다.\n\n하나를 구입하여 설치해야 합니다.
-OBSOLETE,tutorial_ftlintro,2448,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,광속 항법(FTL) 없이는 해당 승객들을 목적지까지 데려다줄 수 없습니다. 불행히도 이 함선에는 자체 FTL 드라이브가 장착되어 있지 않습니다.\n\n우리는 이를 구매해서 설치해야 합니다.
-OBSOLETE,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,FTL 드라이브를 구매하려면 거래 화면을 엽니다.
-OBSOLETE,tutorial_ftltradescreen,2448,Open the trade screen to purchase an FTL drive.,무역 화면을 열어 FTL 드라이브를 구매하세요.
-OBSOLETE,newmainmenu_includedocked,2448,INCLUDE DOCKED SHIPS IN EXPORT,도킹된 함선 포함하여 내보내기  
-OBSOLETE,hud_layer_hostile,2448,HOSTILE,적대  
-OBSOLETE,hud_layer_derelict,2448,DERELICT,폐허  
-OBSOLETE,hud_layer_forsale,2448,[FOR SALE],[판매 중]  
 OBSOLETE,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,외관이 마모된 것으로 보아 적어도 한 세기 이상 이곳에 있었던 것으로 추정됩니다. 이 구역은 인류 최초의 우주 식민지 개척 시도 중 하나였을 것입니다.
 OBSOLETE,techtree_node_title_robotarmspeed,2448,Robot Arm Speed,로봇 팔 속도  
 OBSOLETE,dsi_part2_isotopesintro2,2448,"It's not too complex.  It starts with a Hyperspace Scoop, or several ideally, that you can fit to your vessels.  Every time you make an FTL jump you'll collect more as you pass through deep space at light speed.  You can then pipe those isotopes into a Refinery and convert them into Stable Isotopes.","복잡하지 않습니다. 우주선에 장착할 수 있는 초공간 스쿱, 가능하면 여러 개가 필요합니다. FTL 점프할 때마다 광속으로 심우주를 통과하며 동위원소를 수집합니다. 이를 정제소로 보내 안정 동위원소로 전환할 수 있습니다.  "
