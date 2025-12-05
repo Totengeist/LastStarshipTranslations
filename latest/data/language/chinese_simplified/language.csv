@@ -623,7 +623,7 @@ CURRENT,tutorial_buyshipbuy,2886,Click on the <b>BUY</b> button to purchase the 
 CURRENT,tutorial_buyshipsuccess,2886,"Well done, you have purchased the <b>JMC MINING STATION</b>.",干得好，您已经购买了 <b>JMC MINING STATION</b>。
 CURRENT,settings_accentinsensitivesearch,2803,Accent Insensitive Search,忽略重音搜索
 CURRENT,settings_accentinsensitivesearch_description,2803,"When searching in lists, ignore accented characters, e.g. ""é"" will match ""e""","在列表中搜索时忽略重音字符，例如 “é” 将匹配 “e”"
-CURRENT,settings_translatorassist,2803,"Translator Assist (Ctrl, Alt)",翻译辅助 (Ctrl, Alt)
+CURRENT,settings_translatorassist,2803,"Translator Assist (Ctrl, Alt)","翻译辅助 (Ctrl, Alt)"
 CURRENT,settings_sound,2793,SOUND,声音
 CURRENT,settings_appearance,2793,APPEARANCE,外观
 CURRENT,settings_keybindings,2793,KEYBOARD,按键绑定
