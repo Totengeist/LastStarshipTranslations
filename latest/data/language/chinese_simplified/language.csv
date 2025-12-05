@@ -1602,8 +1602,8 @@ CURRENT,techtree_node_caption_stargatepart1,2448,Unlocks Phase 1 and 2 of the An
 CURRENT,techtree_node_title_stargatepart2,2448,Andromeda Project Part 2,仙女座计划》第二部分
 CURRENT,techtree_node_caption_stargatepart2,2448,Unlocks Phase 3 of the Andromeda Project.,解锁仙女座计划第三阶段。
 CURRENT,techtree_node_title_stargatepart3,2448,Andromeda Project Part 3,仙女座计划第 3 部分
-CURRENT,techtree_node_title_deflectorbeams,2448,Deflector Beams,导流梁
-CURRENT,techtree_node_caption_deflectorbeams,2448,Unlocks schematics to build a defensive system that can deflect incoming cannon shells,解锁建造可抵挡来袭炮弹的防御系统的图纸
+CURRENT,techtree_node_title_deflectorbeams,2448,Deflector Beams,偏导光束护盾
+CURRENT,techtree_node_caption_deflectorbeams,2448,Unlocks schematics to build a defensive system that can deflect incoming cannon shells,解锁建造可用偏导光束抵挡来袭炮弹的防御护盾图纸
 CURRENT,techtree_node_title_science,2448,Science,科学
 CURRENT,techtree_node_caption_science,2448,Unlocks improvements in all areas of advanced physics,解锁高级物理所有领域的改进功能
 CURRENT,techtree_node_title_habitation,2448,Habitation,居住环境
@@ -1812,7 +1812,7 @@ CURRENT,mission_industry_return,2448,Return to a colony or shipyard system to de
 CURRENT,mission_industry_received,2448,We have received *X Tilium out of a total of *Y. Total payment due $*Z.,我们已收到*X 泰利昂(Tilium)，总金额为*Y 。应支付的总金额为$*Z 。
 CURRENT,mission_industry_meteorshower,2448,WARNING: There are reports of a meteor shower in that system. (+50% pay).,警告：有报告称该星系出现流星雨。(报酬+50%）。
 CURRENT,mission_industry_hostiles,2448,WARNING: There are hostile forces camped out near the asteroid belt. (+50% pay),警告：小行星带附近有敌军驻扎。(+50%报酬）
-CURRENT,mission_industry_refined,2448,"""==> The Tilium must first be refined in a Smelter prior to delivery. <==","""==&gt; 在交付之前，必须先在冶炼机中提炼泰利昂(Tilium)。&lt;=="
+CURRENT,mission_industry_refined,2448,"""==> The Tilium must first be refined in a Smelter prior to delivery. <==","""==>; 在交付之前，必须先在冶炼机中提炼泰利昂(Tilium)。<=="
 CURRENT,mission_industry_shuttle,2448,We've dispatched a shuttle to collect the Tilium Ore.,我们已经派出一艘穿梭机去采集泰利昂(Tilium)矿石了。
 CURRENT,mission_industry_lost,2448,There is no more Tilium on board your ship.,你的船上已经没有泰利昂(Tilium)了。
 CURRENT,mission_industry_success,2448,Extracted *X/*Y Ore,提取的*X/*Y 矿石
@@ -1972,8 +1972,8 @@ CURRENT,object_cannon_description,2448,"A medium range weapon system that launch
 CURRENT,object_cannonshell,2448,Cannon Shells,炮弹
 CURRENT,object_mininglaser,2448,Mining Laser,采矿激光器
 CURRENT,object_mininglaser_description,2448,Can drill into mineral patches (found in asteroid belts) to extract valuable minerals.,可钻入矿脉（发现于小行星带）以提取有价值的矿物。
-CURRENT,object_deflector,2448,Deflector,偏导器
-CURRENT,object_deflector_description,2448,A defensive system that uses a deflector beam to divert incoming rocket shells,利用偏转光束转移来袭火箭弹的防御系统。
+CURRENT,object_deflector,2448,Deflector,偏导光束护盾
+CURRENT,object_deflector_description,2448,A defensive system that uses a deflector beam to divert incoming rocket shells,利用偏导光束转移来袭火箭弹的防御系统。
 CURRENT,object_generator,2448,Generator,发电机
 CURRENT,object_hullbreach,2448,Hull Breach,船体破损
 CURRENT,object_loader,2448,Loader,装载器

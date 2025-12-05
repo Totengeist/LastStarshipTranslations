@@ -1812,7 +1812,7 @@ CURRENT,mission_industry_return,2448,Return to a colony or shipyard system to de
 CURRENT,mission_industry_received,2448,We have received *X Tilium out of a total of *Y. Total payment due $*Z.,我們已收到*X 泰利昂(Tilium)，總金額爲*Y 。應支付的總金額爲$*Z 。
 CURRENT,mission_industry_meteorshower,2448,WARNING: There are reports of a meteor shower in that system. (+50% pay).,警告：有報告稱該星系出現流星雨。(報酬+50%）。
 CURRENT,mission_industry_hostiles,2448,WARNING: There are hostile forces camped out near the asteroid belt. (+50% pay),警告：小行星帶附近有敵軍駐紮。(+50%報酬）
-CURRENT,mission_industry_refined,2448,"""==> The Tilium must first be refined in a Smelter prior to delivery. <==","""==&gt; 在交付之前，必須先在冶煉機中提煉泰利昂(Tilium)。&lt;=="
+CURRENT,mission_industry_refined,2448,"""==> The Tilium must first be refined in a Smelter prior to delivery. <==","""==> 在交付之前，必須先在冶煉機中提煉泰利昂(Tilium)。<=="
 CURRENT,mission_industry_shuttle,2448,We've dispatched a shuttle to collect the Tilium Ore.,我們已經派出一艘穿梭機去採集泰利昂(Tilium)礦石了。
 CURRENT,mission_industry_lost,2448,There is no more Tilium on board your ship.,你的船上已經沒有泰利昂(Tilium)了。
 CURRENT,mission_industry_success,2448,Extracted *X/*Y Ore,提取的*X/*Y 礦石
