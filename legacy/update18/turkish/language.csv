@@ -1,253 +1,60 @@
 ﻿state,key,svn,english,translation
-UPDATED,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,"Üretmeniz gereken her bir bileşen sağ tarafta yer almaktadır.\nFarenizi bir bileşenin simgesinin üzerine getirdiğinizde, o bileşenin nasıl üretileceği gösterilir."
-PREVIOUS,tutorial_stargatewindowhighlightcomponent,2803,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,"Üretmeniz gereken her bir bileşen sol tarafta yer almaktadır.\nFarenizi bir bileşenin simgesinin üzerine getirdiğinizde, o bileşenin nasıl üretileceği gösterilir."
-CURRENT,logistics_tooltip_skiporder,3248,Skip currently executing order,Yürütülmekte olan emri atla
-CURRENT,logistics_tooltip_loop,3248,Loop execution,Döngü yürütme
-CURRENT,thefinalstand_artemis1,3248,Hello again Captain!,Tekrar merhaba Kaptan!
-CURRENT,thefinalstand_artemis2,3248,"After some careful analysis of the Stargate's blueprints, I have found the backdoor that the late Alexander James Elistar has left you.","Yıldız Geçidi'nin planları üzerinde yaptığım dikkatli bir analizden sonra, merhum Alexander James Elistar'ın size bıraktığı arka kapıyı buldum."
-CURRENT,thefinalstand_artemis3,3248,You will use this backdoor to upload a small virus that I have written to their command centre within the HQ. It will disable the station's offensive capabilities and place itself under your command.,Bu arka kapıyı kullanarak benim yazdığım küçük bir virüsü merkezdeki komuta merkezine yükleyeceksiniz. İstasyonun saldırı yeteneklerini devre dışı bırakacak ve kendisini sizin komutanız altına sokacak.
-CURRENT,thefinalstand_boss_artemis1,3248,"Captain, I can route a signal to their powergrid and overload their generators, tell me when to trigger it!","Kaptan, güç şebekelerine bir sinyal yönlendirip jeneratörlerini aşırı yükleyebilirim, bana ne zaman tetikleyeceğimi söyleyin!"
-CURRENT,thefinalstand_end_objective_leave,3248,Leave the HQ,Karargahtan ayrıl
-CURRENT,thefinalstand_harken2,3248,"The Andromeda Project has moved their HQ and all key personell into an unknown location in the new sector, where we believe they are controlling the Stargate.","Andromeda Projesi, merkezini ve tüm kilit personelini yeni sektörde bilinmeyen bir yere taşıdı ve Yıldız Geçidi'ni kontrol ettiklerini düşünüyoruz."
-CURRENT,thefinalstand_harken3,3248,"My plan is to use our fleets to take control of the HQ by force. Any and all damage to the HQ should be avoided, many innocent lives are on-board and the loss of life from destroying it would be far too great.\nI have devised a plan with an old friend of yours that should minimise casualties...","Planım filolarımızı kullanarak karargâhın kontrolünü zorla ele geçirmek. Karargâha zarar vermekten kaçınılmalı, gemide pek çok masum hayat var ve karargâhı yok etmenin yaratacağı can kaybı çok büyük olacaktır.\nEski bir dostunuzla birlikte kayıpları en aza indirecek bir plan hazırladık..."
-CURRENT,thefinalstand_harken4,3248,"While you neutralise the HQ, my fleet will fight off the Andromeda Project navy. Once the battle is over, I will take control of the HQ and arrest everyone involved. Their conglomerate will be dismantled.","Siz karargâhı etkisiz hale getirirken, filom Andromeda Projesi donanmasıyla savaşacak. Savaş bittiğinde, karargâhın kontrolünü ele geçireceğim ve ilgili herkesi tutuklayacağım. Holdingleri dağıtılacak."
-CURRENT,thefinalstand_harken5,3248,The Stargate will fall back into your sole control. I've marked an allied shipyard on your map. I'll hide out there in the mean-time.,Yıldız Geçidi tekrar sizin kontrolünüze geçecek. Haritanızda bir müttefik tersanesini işaretledim. Bu süre zarfında orada saklanacağım.
-CURRENT,thefinalstand_harken6,3248,Meet me to discuss the plan further. Goodbye for now.,Planı konuşmak için benimle buluş. Şimdilik hoşça kalın.
-CURRENT,thefinalstand_boss_harken2,3248,This is the Andromeda Navy's flagship! You should have access to its command centre from the HQ!,Bu Andromeda Donanması'nın amiral gemisi! Karargâhtan komuta merkezine erişiminiz olmalı!
-CURRENT,industryend_message,3248,"Now the Andromeda HQ has been captured, Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind spreads beyond our home galaxy and into the future.","Andromeda Karargâhı ele geçirildiğine göre, Harken ve Galaksilerarası Güvenlik Konseyi Andromeda Projesi holdingini dağıtacak ve tüm insanlığın yararı için Yıldız Geçidi'nin kontrolünü yeniden ele geçirecek.  İnsanlık kendi galaksimizin ötesine ve geleceğe yayılırken yeni bir bölüm başladı."
-CURRENT,bravenewsector_part4_rep9,3244,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy and the Andromeda galaxy.,Merhaba Kaptan. Yeni tamamlanan Yıldız Geçidi Andromeda Projesini bu galaksi ile Andromeda galaksisi arasındaki kaynak ve insan akışını kontrol edebilecek güçlü bir konuma getirdi.
-CURRENT,thefinalstand_battleprep_1,3244,"Hello Captain, it's good to see you. These are all of the ships I control in this sector, the rest are on the other side of the Stargate, unable to reach us.","Merhaba Kaptan, sizi görmek güzel. Bu sektörde kontrol ettiğim tüm gemiler bunlar, geri kalanlar Yıldız Geçidi'nin diğer tarafında, bize ulaşamıyorlar."
-CURRENT,thefinalstand_battle_rep1,3244,Commander Harken! I see that my first fleet has failed to deal with you. I suppose if I want something done properly I should do it myself.,Komutan Harken! İlk filomun sizinle başa çıkamadığını görüyorum. Sanırım bir şeyin düzgün yapılmasını istiyorsam bunu kendim yapmalıyım.
-CURRENT,newmainmenu_continue,3239,CONTINUE GAME,OYUNA DEVAM ET
-CURRENT,hud_ftlshipblockedfromftl,3239,Ship cannot enter hyperspace with your fleet,Gemi filonuzla birlikte hiperuzaya giremez
-CURRENT,hud_window_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,YILDIZLARARASI LOJISTIK
-CURRENT,andromeda_travel,3239,ANDROMEDA JOURNEY,ANDROMEDA YOLCULUĞU
-CURRENT,trade_autohireat,3239,HIRE BELOW,AŞAĞIDA KİRALAMA
-CURRENT,trade_autosackat,3239,SACK ABOVE,ÇUVAL ÜSTÜ
-CURRENT,trade_autoembarkat,3239,EMBARK BELOW,AŞAĞIDAKİ EMBARK
-CURRENT,trade_autodisembarkat,3239,DISEMBARK BELOW,AŞAĞIDA KARAYA ÇIKIN
-CURRENT,trade_tooltip_hire,3239,[LMB] Hire,[LMB] Kiralama
-CURRENT,trade_tooltip_embark,3239,[LMB] Embark,[LMB] Embark
-CURRENT,trade_tooltip_disembark,3239,[LMB] Disembark,[LMB] Karaya çıkın
-CURRENT,trade_hiring,3239,Hiring *X,İşe Alım *X
-CURRENT,trade_embarking,3239,Embarking *X,Gemiye biniş *X
-CURRENT,trade_disembarking,3239,Disembarking *X,Gemiden iniş *X
-CURRENT,trade_order_hire_on_sell_screen,3239,(HIRE *X),(KİRALA *X)
-CURRENT,trade_order_embark_on_sell_screen,3239,(EMBARK *X),(EMBARK *X)
-CURRENT,trade_order_disembark_on_buy_screen,3239,(DISEMBARK *X),(DISEMBARK *X)
-CURRENT,trade_hire,3239,HIRE,KİRALAMA
-CURRENT,trade_embark,3239,EMBARK,EMBARK
-CURRENT,trade_disembark,3239,DISEMBARK,DİSEMBARK
-CURRENT,techtree_node_title_atmosphericprocessing,3239,Atmospheric Processing,Atmosferik İşleme
-CURRENT,techtree_node_caption_atmosphericprocessing,3239,Unlocks schematics for hardware required to maintain a breathable atmosphere,Nefes alınabilir bir atmosferi korumak için gereken donanımın şemalarını açar
-CURRENT,techtree_node_title_atmosphericprocessing2,3239,Atmospheric Processing 2,Atmosferik İşleme 2
-CURRENT,techtree_node_caption_atmosphericprocessing2,3239,Unlocks more schematics for hardware required to maintain a breathable atmosphere,Nefes alınabilir bir atmosferi korumak için gereken donanım için daha fazla şemanın kilidini açar
-CURRENT,techtree_node_title_wasteprocessing,3239,Waste Processing,Atık İşleme
-CURRENT,techtree_node_caption_wasteprocessing,3239,Unlocks schematics for hardware to capture and reprocess human waste,İnsan atıklarını yakalayacak ve yeniden işleyecek donanımın şemalarını açar
-CURRENT,special_advancedlogistics,3239,Interstellar Logistics,Yıldızlararası Lojistik
-CURRENT,tactical_dockingassistant,3239,DOCKING ASSIST,DEMİRLEME YARDIMI
-CURRENT,tactical_fleetformation,3239,FLEET FORMATION,FILO OLUŞUMU
-CURRENT,tactical_fleetcombat,3239,FLEET COMBAT AI,FİLO SAVAŞ YAPAY ZEKASI
-CURRENT,tactical_on,3239,ON,AÇIK
-CURRENT,tactical_off,3239,OFF,KAPALI
-CURRENT,tactical_tooltip_dockingassistant,3239,"When enabled, the Docking Assistant will perform the final maneuovers required to dock your ship with another, once you are close enough.\n\nIt is recommended you disable Fleet Formation when attempting to dock.","Etkinleştirildiğinde, yeterince yaklaştığınızda Kenetlenme Yardımcısı geminizi bir diğerine kenetlemek için gereken son manevraları gerçekleştirecektir.\n\nKenetlenmeye çalışırken Filo Oluşumunu devre dışı bırakmanız önerilir."
-CURRENT,tactical_tooltip_fleetformation,3239,"When enabled, all of the fleet ships within a system will fly together in close formation, following the lead of whichever ship you are directly controlling.","Etkinleştirildiğinde, bir sistemdeki tüm filo gemileri, doğrudan kontrol ettiğiniz geminin liderliğini takip ederek yakın düzende birlikte uçacaktır."
-CURRENT,tactical_tooltip_fleetcombat,3239,"When enabled, your other fleet ships will take care of themselves during combat, moving to optimal range and engaging as best they can.","Etkinleştirildiğinde, diğer filo gemileriniz savaş sırasında kendi başlarının çaresine bakacak, en uygun menzile hareket edecek ve ellerinden geldiğince angaje olacaklardır."
-CURRENT,tactical_tooltip_weapon,3239,[LMB] Select weapon\n[SHIFT-LMB] Select multiple weapons\n[RMB] Clear current target,[LMB] Silah seç\n[SHIFT-LMB] Birden fazla silah seç\n[RMB] Geçerli hedefi temizle
-CURRENT,tactical_tooltip_auto,3239,AUTO-TARGETTING\n[LMB] Enable auto-targetting\n[RMB] Disable auto-targetting,OTOMATİK HEDEFLEME\n[LMB] Otomatik hedeflemeyi etkinleştir\n[RMB] Otomatik hedeflemeyi devre dışı bırak
-CURRENT,logistics_tooltip_add,3239,[LMB] Add,[LMB] Ekle
-CURRENT,logistics_tooltip_remove_rmb,3239,[RMB] Remove,[RMB] Kaldır
-CURRENT,logistics_tooltip_cancel,3239,[RMB] Cancel,[RMB] İptal
-CURRENT,logistics_tooltip_shift,3239,[SHIFT] x5,[SHIFT] x5
-CURRENT,logistics_tooltip_control,3239,[CTRL] x50,[CTRL] x50
-CURRENT,advancedlogisticswindow_title,3239,INTERSTELLAR LOGISTICS,YILDIZLARARASI LOJISTIK
-CURRENT,logistics_system_select,3239,LOCATION,KONUM
-CURRENT,logistics_create_order,3239,Create Order,Sipariş Oluştur
-CURRENT,logistics_loop,3239,Loop,Döngü
-CURRENT,logistics_order_none,3239,Order Type,Sipariş Türü
-CURRENT,logistics_order_mine,3239,Mine,Maden
-CURRENT,logistics_order_collect,3239,Collect Gas,Gaz Toplayın
-CURRENT,logistics_order_buy,3239,Buy,Satın Al
-CURRENT,logistics_order_sell,3239,Sell,Satmak
-CURRENT,logistics_order_transferto,3239,Transfer To,Transfer Edilecek
-CURRENT,logistics_order_transferfrom,3239,Transfer From,Nereden Transfer
-CURRENT,logistics_condition_none,3239,Amount,Miktar
-CURRENT,logistics_condition_quantity,3239,Quantity,Miktar
-CURRENT,logistics_condition_stacks,3239,Stacks,Yığınlar
-CURRENT,logistics_condition_containers,3239,Containers,Konteynerler
-CURRENT,logistics_condition_allbut,3239,All But,Hepsi Ama
-CURRENT,logistics_condition_storagefull,3239,Until Storage Full,Depolama Dolana Kadar
-CURRENT,logistics_condition_all,3239,All Available,Tümü Mevcut
-CURRENT,logistics_condition_time,3239,Minutes,Dakika
-CURRENT,logistics_transferto_none,3239,DESTINATION SHIP,HEDEF GEMI
-CURRENT,logistics_transferfrom_none,3239,SOURCE SHIP,KAYNAK GEMİ
-CURRENT,logistics_item_none,3239,Select Item,Ürün Seçiniz
-CURRENT,logistics_stuck_default,3239,Orders stuck,Siparişler takıldı
-CURRENT,logistics_stuck_invalidsystem,3239,System S*X does not exist,Sistem S*X mevcut değil
-CURRENT,logistics_stuck_invalidlayer,3239,Ship L*X does not exist,Gemi L*X mevcut değil
-CURRENT,logistics_stuck_equipment,3239,L*X does not have a working R*Y,L*X çalışan bir R*Y
-CURRENT,logistics_stuck_resources,3239,L*X does not have any R*Ys,L*X R*Y s adresine sahip değildir
-CURRENT,logistics_stuck_patches,3239,System S*X does not have any R*Y to mine,Sistem S*X madenine R*Y sahip değil
-CURRENT,logistics_stuck_gas,3239,System S*X does not have any R*Y to collect,"Sistem S*X, toplamak için herhangi bir R*Y adresine sahip değildir"
-CURRENT,logistics_stuck_tradingpost,3239,System S*X does not have a trading post,Sistem S*X 'da bir ticaret noktası yok
-CURRENT,logistics_stuck_resourcestosell,3239,L*X does not have any R*Y to sell,L*X satmak için herhangi bir R*Y adresi yok
-CURRENT,logistics_stuck_stargate,3239,Stargate is not ready for jump,Yıldız Geçidi sıçrama için hazır değil
-CURRENT,logistics_status_notrunning,3239,No order currently running,Şu anda devam eden bir sipariş yok
-CURRENT,logistics_status_travelling,3239,Travelling to system S*X,Sisteme seyahat S*X
-CURRENT,logistics_status_mining,3239,Mined *X R*Y,Maden *X R*Y
-CURRENT,logistics_status_miningstacks,3239,(*X/*Y stacks),(*X/*Y yığınları)
-CURRENT,logistics_status_miningstacks1,3239,(*X stacks),(*X stacks)
-CURRENT,logistics_status_collect,3239,Collected *X R*Y,Toplandı *X R*Y
-CURRENT,logistics_status_collectcontainers,3239,(*X/*Y containers),(*X/*Y konteynerler)
-CURRENT,logistics_status_collectcontainers1,3239,(*X containers),(*X konteynerler)
-CURRENT,logistics_status_transferto,3239,Transfering *X R*Y to L*Z,*X R*Y adresine aktarılıyor L*Z
-CURRENT,logistics_status_transferfrom,3239,Transfering *X R*Y from L*Z,*X R*Y adresinden aktarılıyor L*Z
-CURRENT,logistics_status_buy,3239,Bought *X R*Y for $*Z,Için *X R*Y adresini satın aldım $*Z
-CURRENT,logistics_status_sell,3239,Sold *X R*Y for $*Z,*X R*Y için satıldı $*Z
-CURRENT,logistics_status_notlooping,3239,Finished execution (not looping),Yürütme tamamlandı (döngü değil)
-CURRENT,logistics_status_time1,3239,in *X:*Y,*X adresinde:*Y
-CURRENT,logistics_status_time2,3239,in *X:0*Y,*X:0*Y
-CURRENT,logistics_status_time3,3239,in 0*X:*Y,0'da*X:*Y
-CURRENT,logistics_status_time4,3239,in 0*X:0*Y,0'da*X:0*Y
-CURRENT,order_advancedlogistics,3239,Interstellar Logistics,Yıldızlararası Lojistik
-CURRENT,mission_objective_done,3239,DONE,BİTTİ
-CURRENT,alert_type_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,YILDIZLARARASI LOJISTIK
-CURRENT,alert_type_interstellarlogistics_caption,3239,Orders stuck,Siparişler takıldı
-CURRENT,stargate_startandromedajump,3239,TEST ANDROMEDA JUMP,TEST ANDROMEDA ATLAYIŞI
-CURRENT,stargate_power_tooltip,3239,POWER REQUIRED: *X MW,GEREKLI GÜÇ: *X MW
-CURRENT,stargate_distance_travelled,3239,*X kly REMAINING,*X kly KALAN
-CURRENT,stargate_journey_completed,3239,*X% COMPLETED,*X% TAMAMLANDI
-CURRENT,stargate_sell,3239,SELL ALL (*X FOR *Y),HEPSINI SAT (*X IÇIN *Y)
-CURRENT,stargate_price_per_unit,3239,*X PER UNIT,*X BİRİM BAŞINA
-CURRENT,stargate_total_price,3239,*X TOTAL,*X TOPLAM
-CURRENT,stargate_award_complete_title,3239,STARGATE COMPLETED,YILDIZ GEÇIDI TAMAMLANDI
-CURRENT,stargate_award_complete_subtitle,3239,All phases completed,Tüm aşamalar tamamlandı
-CURRENT,tutorial_radiationselectfriendly,3239,"First, select a friendly ship with a laser infuser available.","İlk olarak, lazer infüzör olan dost bir gemi seçin."
-CURRENT,blackhole_objective_tank,3239,Acquire a Storage Tank,Bir Depolama Tankı Edin
-CURRENT,blackhole_objective_storagetank,3239,Connect a tank to the Hyperspace Scoop,Hyperspace Scoop'a bir tank bağla
-CURRENT,blackhole_objective_loader,3239,Connect a Loader to the tank,Tanka bir Yükleyici bağlayın
-CURRENT,blackhole_objective_unloadloader,3239,Set the Loader to UNLOAD,Yükleyiciyi BOŞALT olarak ayarlayın
-CURRENT,dsi_part2_dogmavessel1,3239,D.O.G.M.A Spartan,D.O.G.M.A Spartan
-CURRENT,dsi_part2_dogmavessel2,3239,D.O.G.M.A Citadel,D.O.G.M.A Kalesi
-CURRENT,dsi_part2_dogmavessel3,3239,D.O.G.M.A Centurion,D.O.G.M.A Centurion
-CURRENT,bravenewsector_part4_title,3239,"Brave New Sector, Part 4","Cesur Yeni Sektör, Bölüm 4"
-CURRENT,bravenewsector_part4_summary,3239,Complete the final test.,Son testi tamamlayın.
-CURRENT,bravenewsector_part4_intro,3239,"Captain, preparations have concluded for the final Stargate test. We are ready to send a ship to the Andromeda Galaxy. Please call us when you are ready.","Kaptan, son Yıldız Geçidi testi için hazırlıklar tamamlandı. Andromeda Galaksisine bir gemi göndermeye hazırız. Hazır olduğunuzda lütfen bizi arayın."
-CURRENT,bravenewsector_part4_call_action,3239,Call the Representative,Temsilciyi Arayın
-CURRENT,bravenewsector_part4_rep1,3239,The materials you provided to us have been fitted to the Stargate. It is fully functional and ready to test.,Bize sağladığınız malzemeler Yıldız Geçidine yerleştirildi. Tamamen işlevsel ve test edilmeye hazır.
-CURRENT,bravenewsector_part4_rep2,3239,This is a monumental moment in the history of our species. If this test is successful the Andromeda Project will be the first entity to send mankind to another galaxy.,"Bu, türümüzün tarihinde muazzam bir an. Eğer bu test başarılı olursa Andromeda Projesi insanlığı başka bir galaksiye gönderen ilk varlık olacak."
-CURRENT,bravenewsector_part4_rep3,3239,"Captain, you will need to begin the test and provide power for the entire journey so our test ship can reach the Andromeda Galaxy. This will require a significant amount of energy, more than what's needed to travel between sectors.","Kaptan, test gemimizin Andromeda Galaksisine ulaşabilmesi için teste başlamanız ve tüm yolculuk için güç sağlamanız gerekecek. Bu, sektörler arasında seyahat etmek için gerekenden daha fazla, önemli miktarda enerji gerektirecektir."
-CURRENT,bravenewsector_part4_rep4,3239,Please begin the test when you are ready.,Lütfen hazır olduğunuzda teste başlayın.
-CURRENT,bravenewsector_part4_objective_test,3239,Send the test ship to the Andromeda Galaxy,Test gemisini Andromeda Galaksisine gönder
-CURRENT,bravenewsector_part4_action_starttest,3239,Start Test,Testi Başlat
-CURRENT,bravenewsector_part4_reachandromeda_award,3239,ANDROMEDA REACHED,ANDROMEDA'YA ULAŞILDI
-CURRENT,bravenewsector_part4_reachandromeda_caption,3239,Signal received from test ship,Test gemisinden alınan sinyal
-CURRENT,bravenewsector_part4_andromeda_bonus,3239,ANDROMEDA BONUS,ANDROMEDA BONUS
-CURRENT,bravenewsector_part4_andromeda_caption,3239,Payment for sending the test ship,Test gemisinin gönderilmesi için ödeme
-CURRENT,bravenewsector_part4_rep5,3239,"Captain, the Stargate has received a signal from the Andromeda Galaxy.","Kaptan, Yıldız Geçidi Andromeda Galaksisi'nden bir sinyal aldı."
-CURRENT,bravenewsector_part4_rep6,3239,The test ship made it. The test was a complete and total success. This is a historic moment for all of mankind.,Test gemisi başardı. Test tam ve eksiksiz bir başarıydı. Bu tüm insanlık için tarihi bir an.
-CURRENT,bravenewsector_part4_rep7,3239,It couldn't have been done without you Captain. Your industrial expertise and dedication to the project have been invaluable.,Siz olmasaydınız bunu başaramazdık Kaptan. Endüstriyel uzmanlığınız ve projeye olan bağlılığınız çok değerliydi.
-CURRENT,bravenewsector_part4_rep8,3239,"Thank you Captain, your contribution will not be forgotten. Goodbye for now.","Teşekkürler Kaptan, katkılarınız unutulmayacak. Şimdilik hoşça kalın."
-CURRENT,bravenewsector_part4_objective_wait,3239,Await further instructions,Daha fazla talimat bekleyin
-CURRENT,bravenewsector_part4_harken1,3239,"Captain, there are reports that the Andromeda Project are withholding access to the Stargate from any ships that aren't their own.","Kaptan, Andromeda Projesi'nin kendilerine ait olmayan gemilerin Yıldız Geçidi'ne erişimini engellediğine dair raporlar var."
-CURRENT,bravenewsector_part4_harken2,3239,"My sensors are detecting major fleet movements towards the Stargate, it looks like the Andromeda Project is aiming to secure their control over it.","Sensörlerim Yıldız Geçidi'ne doğru büyük filo hareketleri tespit ediyor, görünüşe göre Andromeda Projesi geçit üzerindeki kontrollerini sağlamlaştırmayı amaçlıyor."
-CURRENT,bravenewsector_part4_harken3,3239,"This is... concerning. Be careful, I don't like the look of this.","Bu... endişe verici. Dikkatli ol, bunun görüntüsü hoşuma gitmedi."
-CURRENT,bravenewsector_part4_rep10,3239,The next stage of the project has begun. Our fleet has obtained full control over the Stargate and we are currently in the process of moving our workforce into the new galaxy.,Projenin bir sonraki aşaması başladı. Filomuz Yıldız Geçidi üzerinde tam kontrol sağladı ve şu anda işgücümüzü yeni galaksiye taşıma sürecindeyiz.
-CURRENT,bravenewsector_part4_rep11,3239,"We will bring prosperity to all those who work with us. Speak to you soon, Captain. We may have some more work for you in the future.","Bizimle çalışan herkese refah getireceğiz. Yakında görüşürüz, Kaptan. Gelecekte sizin için daha fazla işimiz olabilir."
-CURRENT,bravenewsector_part4_testshipname,3239,Andromeda Test Ship MK.1,Andromeda Test Gemisi MK.1
-CURRENT,thefinalstand_title,3239,The Final Stand,Son Durak
-CURRENT,thefinalstand_summary,3239,Stop the Andromeda Project.,Andromeda Projesi'ni durdurun.
-CURRENT,thefinalstand_harken1_intro,3239,"Captain! In direct violation of intergalactic law, the Andromeda Project has permanently closed access to the Stargate outside of their own ships. Billions of colonists have been stranded in the new sector, unable to return home.","Kaptan! Andromeda Projesi, galaksiler arası yasaları doğrudan ihlal ederek, kendi gemileri dışında Yıldız Geçidi'ne erişimi kalıcı olarak kapattı. Milyarlarca kolonist yeni sektörde mahsur kaldı ve evlerine dönemiyor."
-CURRENT,thefinalstand_harken2_intro,3239,"You are the only one outside of the Andromeda Project with access codes, please call back as soon as you can. They must be stopped.","Andromeda Projesi dışında erişim kodlarına sahip tek kişi sizsiniz, lütfen mümkün olduğunca çabuk geri arayın. Durdurulmalılar."
-CURRENT,thefinalstand_call_action,3239,Call Harken,Harken'i arayın
-CURRENT,thefinalstand_andromedahq_name,3239,ANDROMEDA HQ,ANDROMEDA GENEL MERKEZI
-CURRENT,thefinalstand_andromedaflagship_name,3239,ANDROMEDA FLAGSHIP,ANDROMEDA AMİRAL GEMİSİ
-CURRENT,thefinalstand_ai_name,3239,ANDROMEDA SHIP CONTROL,ANDROMEDA GEMİ KONTROLÜ
-CURRENT,thefinalstand_harken1,3239,"Greetings Captain, I was worried you had taken their side in all of this.","Selamlar Kaptan, bu olayda onların tarafını tuttuğunuzdan endişeleniyordum."
-CURRENT,thefinalstand_objective_traveltoharken,3239,Travel to Harken,Harken'e Seyahat
-CURRENT,thefinalstand_battleprep_2,3239,My officers have pin-pointed the position of their HQ. Upon arrival we expect to be met with heavy resistance from their private security forces.,Subaylarım karargahlarının yerini belirledi. Vardığımızda özel güvenlik güçlerinin ağır direnişiyle karşılaşmayı bekliyoruz.
-CURRENT,thefinalstand_battleprep_3,3239,I should be able to grab their attention away from your fleet while you get close and take control of the station.,Siz yaklaşıp istasyonun kontrolünü ele geçirirken onların dikkatini filonuzdan uzaklaştırabilirim.
-CURRENT,thefinalstand_battleprep_4,3239,"Good luck Captain, I'll see you on the battlefield.","İyi şanslar Yüzbaşı, savaş alanında görüşürüz."
-CURRENT,thefinalstand_objective_destroyhq,3239,Take control of the Andromeda Project HQ,Andromeda Projesi Karargahının kontrolünü ele geçir
-CURRENT,thefinalstand_battleintro_rep1,3239,"I gave you a very clear warning, Captain. You could've had anything in the universe as our business partner.","Sizi çok açık bir şekilde uyarmıştım, Kaptan. İş ortağımız olarak evrendeki her şeye sahip olabilirdin."
-CURRENT,thefinalstand_battleintro_rep2,3239,Now you must be destroyed.,Şimdi yok edilmelisin.
-CURRENT,thefinalstand_battleintro_rep3,3239,It was a pleasure working with you.,Sizinle çalışmak bir zevkti.
-CURRENT,thefinalstand_battleintro_dogma1,3239,"This is DOGMA Private Security force, we are en-route to the disturbance. ETA: imminent.","Burası DOGMA Özel Güvenlik Birimi, olay yerine doğru yola çıktık. Çok yakında."
-CURRENT,thefinalstand_battleintro_harken1,3239,There are multiple hostile signatures inbound on our position! You must get in close range of the HQ and upload the virus. I'll do my best to keep their ships off you.,Konumumuza doğru gelen çok sayıda düşman işareti var! Karargâha yaklaşmalı ve virüsü yüklemelisiniz. Gemilerini sizden uzak tutmak için elimden geleni yapacağım.
-CURRENT,thefinalstand_battleintro_harken2,3239,"They're about to arrive, hurry!","Gelmek üzereler, acele edin!"
-CURRENT,thefinalstand_objective_flytohq,3239,Fly close to the HQ,Karargaha yakın uç
-CURRENT,thefinalstand_objective_destroyhostiles,3239,Destroy remaining hostiles: *X,Kalan düşmanları yok et: *X
-CURRENT,thefinalstand_backdoor_action,3239,Trigger Backdoor,Tetikleyici Arka Kapı
-CURRENT,thefinalstand_battle_harken1,3239,Great work Captain! But my sensors are detecting a massive signature headi-,Harika iş Kaptan! Ama sensörlerim büyük bir kafa izi tespit ediyor
-CURRENT,thefinalstand_boss_harken1,3239,I've lost both of my frigates Captain! I don't have enough firepower to win this!,İki fırkateynimi de kaybettim Kaptan! Bunu kazanmak için yeterli ateş gücüm yok!
-CURRENT,thefinalstand_objective_destroyboss,3239,Destroy the Andromeda Flagship,Andromeda Amiral Gemisini yok et
-CURRENT,thefinalstand_boss_overloadcaption,3239,OVERLOAD GENERATOR,AŞIRI YÜK JENERATÖRÜ
-CURRENT,thefinalstand_battleoutro_ship1,3239,DANGER: POWER SYSTEMS DETERIORATING. POWER GRID OVERLOADED.,TEHLİKE: GÜÇ SİSTEMLERİ KÖTÜLEŞİYOR. GÜÇ ŞEBEKESİ AŞIRI YÜKLENDİ.
-CURRENT,thefinalstand_battleoutro_rep1,3239,"I don't understand, how is that possible!?","Anlamıyorum, bu nasıl mümkün olabilir!?"
-CURRENT,thefinalstand_battleoutro_ship2,3239,DANGER: GENERATOR STATUS CRITICAL.,TEHLİKE: Jeneratör DURUMU KRİTİK.
-CURRENT,thefinalstand_battleoutro_rep2,3239,"Send all available power to railguns, set target to-","Mevcut tüm gücü Railgun'lara gönderin, hedefi belirleyin-"
-CURRENT,thefinalstand_battleoutro_harken1,3239,"This is a message for Andromeda HQ. I am Commander Harken, Chief of Private Security for this sector, and I command you to stand down.","Bu Andromeda Karargahı için bir mesajdır. Ben Komutan Harken, bu sektörün Özel Güvenlik Şefiyim ve size geri çekilmenizi emrediyorum."
-CURRENT,thefinalstand_battleoutro_harken2,3239,"The Andromeda Navy in this sector has been destroyed, you are now blockaded, there is nothing left to fight for.","Bu sektördeki Andromeda Donanması yok edildi, artık abluka altındasınız, uğruna savaşacak bir şey kalmadı."
-CURRENT,thefinalstand_battleoutro_harken3,3239,"It's over, Captain. The Andromeda HQ will be placed under the jurisdiction of the Intergalactic Security Council while I make the necessary arrests. The access codes for the Stargate are back under your control.","Bitti, Kaptan. Ben gerekli tutuklamaları yaparken Andromeda Karargahı Galaksilerarası Güvenlik Konseyi'nin yetkisi altına girecek. Yıldız Geçidi'nin erişim kodları tekrar sizin kontrolünüzde."
-CURRENT,thefinalstand_battleoutro_harken4,3239,The current leadership of the Andromeda Project will be dismantled and the new galaxy will be freed from their control.,Andromeda Projesi'nin mevcut liderliği dağıtılacak ve yeni galaksi onların kontrolünden kurtulacaktır.
-CURRENT,thefinalstand_battleoutro_harken5,3239,"You've proven that you can be trusted with control of the Stargate, so I'll leave it in your hands.","Yıldız Geçidi'nin kontrolü konusunda sana güvenilebileceğini kanıtladın, bu yüzden onu senin ellerine bırakıyorum."
-CURRENT,thefinalstand_battleoutro_harken6,3239,"Goodbye Captain, and good luck with your new place in the galaxy.",Hoşça kalın Kaptan ve galaksideki yeni yerinizde iyi şanslar.
-CURRENT,hud_consumingperhour,3239,Consuming *X per day,Günde *X tüketmek
-CURRENT,survey_captionmultiple,3239,*X ships surveying,*X gemi̇ sörveyi̇
-CURRENT,tutorial_radiationinstallinfuser,3239,Laser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area and power it.,Lazer İnfüzörler boş kristalleri Zeleon Gaz ile şarj etmek için kullanılır ve güç verildiğinde çevreye radyasyon yayar.\n\nLazer İnfüzörü açık bir alana kurun ve güç verin.
-CURRENT,tutorial_radiationsetupinfuser,3239,Let's set the laser infuser to use them to produce charged crystals.,Lazer İnfüzör'ü bunları yüklü kristaller üretmek için kullanacak şekilde ayarlayalım.
-CURRENT,tutorial_radiationwaitforinputs,3239,The laser infuser is set to start making charged crystals! Laser infusers use Zeleon Energy Cells to charge the crystals.\n\nLet's wait for it to begin charging crystals.,Lazer İnfüzör yüklü kristaller yapmaya başlamak üzere ayarlandı! Lazer İnfüzörler kristalleri şarj etmek için Zeleon Enerji Hücrelerini kullanır.\n\nKristalleri şarj etmeye başlamasını bekleyelim.
-CURRENT,tutorial_surveystartsectorsurvey,3239,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one ship in a system can do a sector scan.\n\nClick the button to begin a sector scan.,Sektör taramaları geminizin bulunduğu sistemin etrafındaki sektörde ilgi çeken alanları arar.\n\nTarama tamamlandıktan sonra duracaktır. Bir sistemde sadece bir gemi sektör taraması yapabilir.\n\nSektör taramasına başlamak için düğmeye tıklayın.
-CURRENT,tutorial_surveystartlocalsurvey,3239,Areas of interest will expire after some time if they are not surveyed. Multiple ships can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,"İlgi alanları, incelenmedikleri takdirde bir süre sonra sona erecektir. Birden fazla gemi yerel bir sörveye katkıda bulunabilir.\n\nYerel sörveyi başlatmak için ilgi noktasına tıklayın."
-CURRENT,bravenewsector_part2_x4,3239,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. As a safeguard against the Andromeda Project, I have installed a back-door that allows you to take control of the Stargate and any devices commanding it.","Lütfen bunun olmasına izin verme Kaptan. Hayatımın büyük bir kısmı ve projelerimin çoğu sadece kar amacıyla yapıldı, bunun da onlardan biri olmasına izin veremem. Andromeda Projesi'ne karşı bir önlem olarak, Yıldız Geçidi'nin ve ona kumanda eden tüm cihazların kontrolünü ele geçirmenizi sağlayan bir arka kapı kurdum."
-CURRENT,bravenewsector_part2_x5,3239,Please use it if they restrict the use of the Stargate for their own gain.,Kendi çıkarları için Yıldız Geçidi'nin kullanımını kısıtlıyorlarsa lütfen bunu kullanın.
-CURRENT,blackhole_part1_setup7,3239,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop and a tank to store the isotopes in first.","İhtiyacımız olan kaynakları sentezlemek için malzemelere ihtiyacım var.  Ben hesaplamalar üzerinde çalışırken sen de bana bu konuda yardımcı olabilirsin. Hiperuzay İzotoplarına ihtiyacım var - bunları kolayca toplayabilirsin, ancak önce bir Hyperspace Scoop ve izotopları depolamak için bir tank edinmen gerekecek."
-CURRENT,stargate_power_fraction,3239,*X / *Y MW,*X / *Y MW
-CURRENT,settings_credits,3149,CREDITS,KREDİLER
-CURRENT,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,Etkinleştirildiğinde oyun Steam Cloud'a kaydedilecektir. Kaydetme başarısız olursa bir uyarı gösterilecektir.
-CURRENT,newmainmenu_saveoptions,3149,Save Options,Seçenekleri Kaydet
-CURRENT,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] Döşeme stilini değiştir
-CURRENT,hud_tooltip_currentflooring,3149,Current style: *X,Şu anki tarzım: *X
-CURRENT,hud_tooltip_gratedflooring,3149,Grated,Rendelenmiş
-CURRENT,hud_tooltip_normalflooring,3149,Normal,Normal
-CURRENT,hud_hull_integrity,3149,HULL,HULL
-CURRENT,hud_power_battery,3149,BATTERY,AKÜ
-CURRENT,hud_power_powershortage,3149,POWER SHORTAGE,GÜÇ EKSİKLİĞİ
-CURRENT,hud_idlecrew,3149,Idle Crew,Boşta Mürettebat
-CURRENT,hud_dehydrationperperson,3149,Dehydration *X per person,Dehidrasyon *X kişi başı
-CURRENT,hud_hungerperperson,3149,Hunger *X per person,Açlık *X kişi başı
-CURRENT,hud_byauthor,3149,BY *X,BY *X
-CURRENT,communicator_newobjective,3149,NEW OBJECTIVE,YENİ HEDEF
-CURRENT,galaxymap_stargate,3149,STARGATE,STARGATE
-CURRENT,trade_canceltrade,3149,CANCEL TRADE AND REFUND,IŞLEM IPTALI VE PARA IADESI
-CURRENT,trade_refundvalue,3149,REFUND VALUE,İADE DEĞERİ
-CURRENT,trade_cancellationcost,3149,CANCELLATION COST,IPTAL MALIYETI
-CURRENT,trade_partiallyfilled,3149,PARTIALLY FILLED,KISMEN DOLU
-CURRENT,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,TAMAMLANMAMIŞ BILEŞEN
-CURRENT,trade_removeincomplete,3149,REMOVE INCOMPLETE,TAMAMLANMAMIŞLARI KALDIRIN
-CURRENT,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,KISMEN DOLU OLANLARI ÇIKARIN
-CURRENT,trade_order_normal,3149,(*X),(*X)
-CURRENT,trade_order_buy_on_sell_screen,3149,(BUY *X),(AL *X)
-CURRENT,trade_order_sell_on_buy_screen,3149,(SELL *X),(SAT *X)
-CURRENT,trade_order_sack_on_buy_screen,3149,(SACK *X),(ÇUVAL *X)
-CURRENT,techtree_researchpercent,3149,*X% Complete,*Xtamamlandı
-CURRENT,tooltip_efficiency,3149,Efficiency +*X%,Verimlilik +*X%
-CURRENT,tooltip_activating,3149,Activating +*X%,Etkinleştirme +*X%
-CURRENT,alert_type_lowdeuterium,3149,LOW DEUTERIUM,DÜŞÜK Döteryum
-CURRENT,stargate_unknowncomponent,3149,Unknown Component,Bilinmeyen Bileşen
-CURRENT,stargate_unknowncomponent_description,3149,Unlock this component through research!,Araştırma yaparak bu bileşenin kilidini açın!
-CURRENT,creditstitle_builders,3149,Ship Builders,Gemi İnşaatçıları
-CURRENT,creditstitle_testers,3149,Early Play Testing,Erken Oyun Testi
-CURRENT,creditstitle_translators,3149,Translation,Çeviri
-CURRENT,engine_thrust,3149,THRUST *X%,BASINÇ *X%
-CURRENT,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + RMB] Ayırıcıya dönüştür
-CURRENT,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + RMB] Parça'ya dönüştür
-CURRENT,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,Işık Hızından Daha Hızlı yolculuk olmadan bu yolcuları varış yerlerine ulaştıramayız. Ne yazık ki bu gemi kendi <b>FTL sürücüsüne</b> sahip değil <b>.</b>\n\nBir tane satın alıp kurmamız gerekecek.
-CURRENT,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,Bir <b>FTL sürücüsü ve</b> bazı <b>FTL Şarjı</b> satın almak için ticaret ekranını açın <b>.</b>
-CURRENT,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,YANAŞMIŞ GEMILERI IÇERIR
-CURRENT,hud_layer_hostile,3149,HOSTILE *X,HOSTİL *X
-CURRENT,hud_layer_derelict,3149,DERELICT *X,DERELICT *X
-CURRENT,hud_layer_forsale,3149,[FOR SALE] *X,[SATILIK] *X
+NEW,settings_credits,3149,CREDITS,KREDİLER
+NEW,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,Etkinleştirildiğinde oyun Steam Cloud'a kaydedilecektir. Kaydetme başarısız olursa bir uyarı gösterilecektir.
+NEW,newmainmenu_saveoptions,3149,Save Options,Seçenekleri Kaydet
+NEW,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] Döşeme stilini değiştir
+NEW,hud_tooltip_currentflooring,3149,Current style: *X,Şu anki tarzım: *X
+NEW,hud_tooltip_gratedflooring,3149,Grated,Rendelenmiş
+NEW,hud_tooltip_normalflooring,3149,Normal,Normal
+NEW,hud_hull_integrity,3149,HULL,HULL
+NEW,hud_power_battery,3149,BATTERY,AKÜ
+NEW,hud_power_powershortage,3149,POWER SHORTAGE,GÜÇ EKSİKLİĞİ
+NEW,hud_idlecrew,3149,Idle Crew,Boşta Mürettebat
+NEW,hud_consumingperhour,3149,Consuming *X per hour,Saatte *X tüketmek
+NEW,hud_dehydrationperperson,3149,Dehydration *X per person,Dehidrasyon *X kişi başı
+NEW,hud_hungerperperson,3149,Hunger *X per person,Açlık *X kişi başı
+NEW,hud_byauthor,3149,BY *X,BY *X
+NEW,communicator_newobjective,3149,NEW OBJECTIVE,YENİ HEDEF
+NEW,galaxymap_stargate,3149,STARGATE,STARGATE
+NEW,trade_canceltrade,3149,CANCEL TRADE AND REFUND,IŞLEM IPTALI VE PARA IADESI
+NEW,trade_refundvalue,3149,REFUND VALUE,İADE DEĞERİ
+NEW,trade_cancellationcost,3149,CANCELLATION COST,IPTAL MALIYETI
+NEW,trade_partiallyfilled,3149,PARTIALLY FILLED,KISMEN DOLU
+NEW,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,TAMAMLANMAMIŞ BILEŞEN
+NEW,trade_removeincomplete,3149,REMOVE INCOMPLETE,TAMAMLANMAMIŞLARI KALDIRIN
+NEW,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,KISMEN DOLU OLANLARI ÇIKARIN
+NEW,trade_order_normal,3149,(*X),(*X)
+NEW,trade_order_buy_on_sell_screen,3149,(BUY *X),(AL *X)
+NEW,trade_order_sell_on_buy_screen,3149,(SELL *X),(SAT *X)
+NEW,trade_order_sack_on_buy_screen,3149,(SACK *X),(ÇUVAL *X)
+NEW,techtree_researchpercent,3149,*X% Complete,*Xtamamlandı
+NEW,tooltip_efficiency,3149,Efficiency +*X%,Verimlilik +*X%
+NEW,tooltip_activating,3149,Activating +*X%,Etkinleştirme +*X%
+NEW,alert_type_lowdeuterium,3149,LOW DEUTERIUM,DÜŞÜK Döteryum
+NEW,stargate_unknowncomponent,3149,Unknown Component,Bilinmeyen Bileşen
+NEW,stargate_unknowncomponent_description,3149,Unlock this component through research!,Araştırma yaparak bu bileşenin kilidini açın!
+NEW,creditstitle_builders,3149,Ship Builders,Gemi İnşaatçıları
+NEW,creditstitle_testers,3149,Early Play Testing,Erken Oyun Testi
+NEW,creditstitle_translators,3149,Translation,Çeviri
+NEW,engine_thrust,3149,THRUST *X%,BASINÇ *X%
+UPDATED,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + RMB] Ayırıcıya dönüştür
+PREVIOUS,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] Ayırıcıya dönüştür
+UPDATED,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + RMB] Parça'ya dönüştür
+PREVIOUS,hud_convertsplittertotrack,3054,[RMB] Convert to track,[RMB] Dönüştürmek için parça
+UPDATED,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,Işık Hızından Daha Hızlı yolculuk olmadan bu yolcuları varış yerlerine ulaştıramayız. Ne yazık ki bu gemi kendi <b>FTL sürücüsüne</b> sahip değil <b>.</b>\n\nBir tane satın alıp kurmamız gerekecek.
+PREVIOUS,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,Işık Hızından Daha Hızlı yolculuk olmadan bu yolcuları varış yerlerine ulaştıramayız. Ne yazık ki bu gemi kendi <b>FTL</b> sürücüsüne sahip değil.\n\nBir tane satın alıp kurmamız gerekecek.
+PREVIOUS,tutorial_ftlintro,2803,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,Işık Hızından Daha Hızlı yolculuk olmadan bu yolcuları varış yerlerine ulaştıramayız. Ne yazık ki bu gemi kendi FTL sürücüsüne sahip değil.\n\nBir tane satın alıp kurmamız gerekecek.
+UPDATED,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,Bir <b>FTL sürücüsü ve</b> bazı <b>FTL Şarjı</b> satın almak için ticaret ekranını açın <b>.</b>
+PREVIOUS,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,Bir <b>FTL</b> Sürücüsü satın almak için takas ekranını açın.
+PREVIOUS,tutorial_ftltradescreen,2803,Open the trade screen to purchase an FTL drive.,Bir FTL Sürücüsü satın almak için takas ekranını açın.
+UPDATED,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,YANAŞMIŞ GEMILERI IÇERIR
+PREVIOUS,newmainmenu_includedocked,2803,INCLUDE DOCKED SHIPS IN EXPORT,YANAŞMIŞ GEMILERI IHRACATA DAHIL ETMEK
+UPDATED,hud_layer_hostile,3149,HOSTILE *X,HOSTİL *X
+PREVIOUS,hud_layer_hostile,2803,HOSTILE,HOSTİL
+UPDATED,hud_layer_derelict,3149,DERELICT *X,DERELICT *X
+PREVIOUS,hud_layer_derelict,2803,DERELICT,DERELICT
+UPDATED,hud_layer_forsale,3149,[FOR SALE] *X,[SATILIK] *X
+PREVIOUS,hud_layer_forsale,2803,[FOR SALE],[SATILIK]
 CURRENT,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,Dış görünüşlerindeki aşınma bizi en az bir asırdır burada olduklarına inandırıyor. Bu sektör insanoğlunun dış uzayı kolonileştirmek için yaptığı ilk girişimlerden biri olmalı.
 CURRENT,techtree_node_caption_metallurgyrepeatable,3054,Spend research credits to continually increase our smelting efficiency.,Eritme verimliliğimizi sürekli artırmak için Araştırma Kredisi harcayın.
 CURRENT,mainmenu_gamemode_arena,3054,Arena,Arena
@@ -293,6 +100,7 @@ CURRENT,survey_type_colony,3054,Colony,Koloni
 CURRENT,survey_title,3054,UNSURVEYED *X,BELİRSİZ *X
 CURRENT,survey_captionnone,3054,No survey in progress,Devam eden bir araştırma yok
 CURRENT,survey_captionsingle,3054,Surveyed by *X,Tarafından araştırıldı *X
+CURRENT,survey_captionmultiple,3054,*X layers surveying,*X katmanlar ölçümü
 CURRENT,survey_local_noequipment,3054,NO SUPERCOMPUTERS INSTALLED,KURULU SÜPER BILGISAYAR YOK
 CURRENT,survey_sector_title,3054,SECTOR SCAN,SEKTÖR TARAMASI
 CURRENT,survey_sector_nothingtoscan,3054,REGION FULLY SCANNED,BÖLGE TAMAMEN TARANDI
@@ -351,6 +159,9 @@ CURRENT,alert_type_emp_caption,3054,*X piece(s) disabled,*X parça(lar) devre d�
 CURRENT,alert_type_emp_tooltip,3054,"Your ship has been struck by lightning, temporarily disabling some of your equipment.",Geminize yıldırım çarptı ve bazı ekipmanlarınızı geçici olarak devre dışı bıraktı.
 CURRENT,tutorial_radiation_title,3054,RADIATION,RADYASYON
 CURRENT,tutorial_radiationintro,3054,We are going to learn about radiation.,Radyasyon hakkında bilgi edineceğiz.
+CURRENT,tutorial_radiationinstallinfuser,3054,A laser infuser has been delivered to your ship.\n\nLaser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area.,Geminize bir lazer infüzörü teslim edildi.\n\nLazer infüzörleri boş kristalleri Zeleon Gaz ile şarj etmek için kullanılır ve güç verildiğinde çevreye radyasyon yayar.\n\nLazer infüzörünü açık bir alana kurun.
+CURRENT,tutorial_radiationsetupinfuser,3054,An empty crystal and some zeleon energy cells have been delivered to your ship too.\n\nLet's set the laser infuser to use them to produce charged crystals.,Geminize boş bir kristal ve bazı Zeleon Enerji Hücreleri de teslim edildi.\n\nLazer infüzörünü bunları kullanarak yüklü kristaller üretecek şekilde ayarlayalım.
+CURRENT,tutorial_radiationwaitforinputs,3054,The laser infuser is set to start making charged crystals!\n\nLet's wait for it to begin charging crystals.\n\nDon't forget to power the Laser Infuser.,Lazer infüzör şarjlı kristaller yapmaya başlamak üzere ayarlandı!\n\nKristalleri şarj etmeye başlamasını bekleyelim.\n\nLazer İnfüzöre güç vermeyi unutmayın.
 CURRENT,tutorial_radiationselectoverlay,3054,The game has been set to a slower speed for now.\n\nRadiation is emitted in all directions away from the laser infuser.\n\nClick on the radiation overlay to view where your ship is irradiated.,"Oyun şimdilik daha yavaş bir hıza ayarlanmıştır.\n\nRadyasyon, lazer infüzöründen uzaktaki tüm yönlere yayılır.\n\nGeminizin neresinin ışınlandığını görmek için radyasyon kaplamasına tıklayın."
 CURRENT,tutorial_radiationselectoverlay2,3054,"All green areas of your ship are safe for your crew, but the darker areas are dangerous.\n\nSpacesuits will protect your crew from being irradiated.","Geminizin tüm yeşil alanları mürettebatınız için güvenlidir, ancak daha karanlık alanlar tehlikelidir.\n\nUzay Giysileri mürettebatınızı radyasyona maruz kalmaktan koruyacaktır."
 CURRENT,tutorial_radiationinstallblockers,3054,"Radiation spread can be limited by special equipment called radiation blockers.\n\nInstall some blockers close to your laser infuser, leaving a small gap between the infuser and the blocker.\n\nIncrease the game speed when you are ready.","Radyasyon yayılımı, radyasyon engelleyici adı verilen özel ekipmanlarla sınırlandırılabilir.\n\nLazer infüzörünüzün yakınına, infüzör ile engelleyici arasında küçük bir boşluk bırakarak bazı engelleyiciler takın.\n\nHazır olduğunuzda oyun hızını artırın."
@@ -360,9 +171,11 @@ CURRENT,tutorial_radiationsuccess,3054,"Well done, you have now learnt how radia
 CURRENT,tutorial_survey_title,3054,SECTOR SURVEYING,SEKTÖR ARAŞTIRMASI
 CURRENT,tutorial_surveyintro,3054,"We are going to learn how to survey the area around your ship.\n\nThe first step is to scan the local area of the sector surrounding you ship using a <b>SECTOR SCAN</b>.\n\nIn Boldly Go, only the new sector can be surveyed.\n\nHyperspace sensors are required to do this.","Geminizin etrafındaki alanı nasıl tarayacağımızı öğreneceğiz.\n\nİlk adım, bir SEKTÖR TARAMASI <b>kullanarak geminizi</b> çevreleyen sektörün yerel alanını taramaktır.\n\nBoldly Go'da sadece yeni sektör taranabilir.\n\nBunu yapmak için hiperuzay sensörleri gereklidir."
 CURRENT,tutorial_surveyinstallsensors,3054,"Install Hyperspace Sensors or Hyperspace Sensor LRs onto one of your ships.\n\nThis tutorial will resume afterwards.\n\nIf you are playing the Boldly Go game mode, your ship must also be in the new sector.","Hiperuzay Sensörlerini veya Hiperuzay Sensörü LR'lerini gemilerinizden birine yükleyin.\n\nBu eğitim daha sonra devam edecektir.\n\nBoldly Go oyun modunu oynuyorsanız, geminiz de yeni sektörde olmalıdır."
+CURRENT,tutorial_surveystartsectorsurvey,3054,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan.,Sektör taramaları geminizin bulunduğu sistemin etrafındaki sektörde ilgi çeken alanları arar.\n\nTarama tamamlandıktan sonra duracaktır. Bir sistemde sadece bir katman sektör taraması yapabilir.\n\nSektör taramasına başlamak için düğmeye tıklayın.
 CURRENT,tutorial_surveyhighlightsectorsurveysystem,3054,Hovering the mouse over the current system will reveal the radius around the system that is being scanned and the scan's progress toward finding new points of interest.\n\nOpen the <b>SECTOR MAP</b> and click <b>NEXT</b> to speed-up the survey.,Fareyi mevcut sistemin üzerine getirdiğinizde taranmakta olan sistemin etrafındaki yarıçap ve taramanın yeni ilgi noktaları bulma yönündeki ilerleyişi görülecektir.\n\nAraştırmayı hızlandırmak için <b>SEKTÖR HARİTASINI açın</b> ve İLERİ'ye <b>tıklayın</b>.
 CURRENT,tutorial_surveylocalsurveyintro,3054,The next step is to perform a <b>LOCAL SURVEY</b>.\n\nLocal surveys allow points of interest to be accessed via FTL.\n\nShips need to have super computers installed and must be in the same sector to participate in a local survey.,Bir sonraki adım <b>YEREL ANKET</b> gerçekleştirmektir <b>.</b>\n\nYerel anketler ilgi noktalarına FTL aracılığıyla erişilmesini sağlar.\n\nGemilerin yerel bir ankete katılabilmeleri için Süper Bilgisayarlarının kurulu olması ve aynı sektörde bulunmaları gerekir.
 CURRENT,tutorial_surveyinstallcomputers,3054,Install a super-computer on one of your ships.\n\nThis tutorial will resume afterwards.,Gemilerinizden birine bir süper bilgisayar kurun.\n\nBu eğitim daha sonra devam edecektir.
+CURRENT,tutorial_surveystartlocalsurvey,3054,Areas of interest will expire after some time if they are not surveyed. Multiple layers can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,"İlgi alanları, incelenmedikleri takdirde bir süre sonra geçerliliğini yitirecektir. Birden fazla katman yerel bir ankete katkıda bulunabilir.\n\nYerel anketi başlatmak için ilgi noktasına tıklayın."
 CURRENT,tutorial_surveyoutro,3054,Click <b>NEXT</b> to speed-up the survey.,Anketi hızlandırmak <b>için İLERİ'ye</b> tıklayın.
 CURRENT,tutorial_surveysuccess,3054,"A new system on the sector map has appeared for your fleet to explore!\n\nWell done, you have now learnt how to use sector surveying to find and explore new systems.\n\nKeep an eye out for special loot on surveyed derelict ships that can be researched by your science stations.","Filonuzun keşfetmesi için sektör haritasında yeni bir sistem belirdi!\n\nAferin, artık yeni sistemleri bulmak ve keşfetmek için sektör araştırmasını nasıl kullanacağınızı öğrendiniz.\n\nAraştırılan terk edilmiş gemilerdeki Bilim İstasyonlarınız tarafından araştırılabilecek özel ganimetlere dikkat edin."
 CURRENT,bravenewsector_part1_x1,3054,Captain? Are you there?,Kaptan? Orada mısınız?
@@ -373,6 +186,8 @@ CURRENT,bravenewsector_part2_title,3054,"Brave New Sector, Part 2","Cesur Yeni S
 CURRENT,bravenewsector_part2_summary,3054,Uncover the history of the new sector.,Yeni sektörün tarihini ortaya çıkarın.
 CURRENT,bravenewsector_part2_x1,3054,"Hello again Captain, the Andromeda Project is very impressed with the samples you've sent them. They want your work on the Stargate to continue.","Tekrar merhaba Kaptan, Andromeda Projesi onlara gönderdiğiniz örneklerden çok etkilendi. Yıldız Geçidi üzerindeki çalışmalarınızın devam etmesini istiyorlar."
 CURRENT,bravenewsector_part2_x3,3054,"I must warn you, there are rumours that their plan is to take the Stargate fully under their control. They will charge anyone who wants to use it a fortune, preventing any competition and harvesting all the resources in the new galaxy for themselves. They will become more powerful than any entity we have seen before.","Sizi uyarmalıyım, planlarının Yıldız Geçidini tamamen kontrolleri altına almak olduğuna dair söylentiler var. Onu kullanmak isteyen herkesten bir servet talep edecekler, herhangi bir rekabeti önleyecekler ve yeni galaksideki tüm kaynakları kendileri için toplayacaklar. Daha önce gördüğümüz tüm varlıklardan daha güçlü olacaklar."
+CURRENT,bravenewsector_part2_x4,3054,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. The Stargate is too important and valuable for our species to be under their control.","Lütfen bunun olmasına izin verme Kaptan. Hayatımın büyük bir kısmı ve projelerimin çoğu sadece kâr amacıyla yapıldı, bunun da onlardan biri olmasına izin veremem. Yıldız Geçidi türümüz için onların kontrolü altında olamayacak kadar önemli ve değerli."
+CURRENT,bravenewsector_part2_x5,3054,I have installed a back-door that will cause the Stargate to self-destruct if you command it to. You must trigger it if the rumours are true.,Eğer komut verirseniz Yıldız Geçidi'nin kendini imha etmesine neden olacak bir arka kapı yerleştirdim. Eğer söylentiler doğruysa bunu tetiklemelisiniz.
 CURRENT,bravenewsector_part2_x6,3054,"Unfortunately, I've been given some bad news, and I won't be around for much longer. I would like to give you full ownership of the foundry as a thank you for helping me finish this final project.","Ne yazık ki, bazı kötü haberler aldım ve daha uzun süre buralarda olamayacağım. Bu son projeyi tamamlamama yardım ettiğiniz için bir teşekkür olarak dökümhanenin tüm mülkiyetini size vermek istiyorum."
 CURRENT,bravenewsector_part2_x7,3054,It seems we have completed it just in time.,Görünüşe göre tam zamanında tamamladık.
 CURRENT,bravenewsector_part2_x8,3054,"This is our final call, Captain. I wish you the best of luck. Thank you again, and goodbye.","Bu bizim son çağrımız, Kaptan. Size iyi şanslar dilerim. Tekrar teşekkürler ve hoşça kalın."
@@ -1006,6 +821,7 @@ CURRENT,wolf_part2_rescued,2803,Rescued *X/*Y crew,Kurtarılan *X/*Y Mürettebat
 CURRENT,blackhole_part1_intro3,2803,"An accident with our equipment has left my brother in dire need of a rescue, and I need your help.",Ekipmanlarımızla geçirdiğimiz bir kaza sonucu kardeşimin kurtarılmaya ihtiyacı var ve yardımınıza ihtiyacım var.
 CURRENT,blackhole_part1_setup3,2803,"The Stargate project funded our research from the beginning.  They buy all the data we can collect, and the closer we travel to the event horizon, the more data our sensors receive. Every mission, we'd push ourselves to go closer.","Yıldız Geçidi projesi araştırmamızı başından beri finanse etti.  Toplayabildiğimiz tüm verileri satın alıyorlar ve olay ufkuna ne kadar yaklaşırsak sensörlerimiz o kadar çok veri alıyor. Her görevde, daha yakına gitmek için kendimizi zorlardık."
 CURRENT,blackhole_part1_setup6b,2803,"Using a modified FTL Drive you'll do one hyperspace hop toward the black hole, rescue my brother Marcus, then turn around and hop right out.  It will be dangerous, but it's the only way to avoid being dragged in ourselves.","Değiştirilmiş bir FTL Sürücüsü kullanarak kara deliğe doğru bir hiperuzay sıçraması yapacak, kardeşim Marcus'u kurtaracak, sonra geri dönüp hemen dışarı sıçrayacaksınız.  Tehlikeli olacak ama kendimizi içine çekmekten kaçınmanın tek yolu bu."
+CURRENT,blackhole_part1_setup7,2803,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop first.","İhtiyacımız olan kaynakları sentezlemek için malzemelere ihtiyacım var.  Ben hesaplamalar üzerinde çalışırken sen de bana bu konuda yardımcı olabilirsin. Hiperuzay İzotoplarına ihtiyacım var - bunları kolayca toplayabilirsin, ama önce bir Hyperspace Scoop edinmen gerekecek."
 CURRENT,blackhole_part1_setup7b,2803,You'll then need to use a Loader to start unloading the isotopes into containers.,Daha sonra izotopları konteynerlere boşaltmaya başlamak için bir Yükleyici kullanmanız gerekecek.
 CURRENT,blackhole_part1_setup8,2803,I'm building the Hyperspace FTL drive that will allow you to perform the hop.  It's going to need some modifications.  I'll need you to manufacture some parts for me. I know you have manufacturing facilities near the Stargate project.  You should be able to make these parts for me without too much trouble.,Atlamayı gerçekleştirmenizi sağlayacak Hiperuzay FTL Sürücüsünü yapıyorum.  Bazı modifikasyonlara ihtiyacı olacak.  Benim için bazı parçalar üretmeni istiyorum. Yıldız Geçidi projesinin yakınında üretim tesisleriniz olduğunu biliyorum.  Bu parçaları benim için çok fazla sorun çıkarmadan yapabilmelisiniz.
 CURRENT,blackhole_objective_scoop,2803,Acquire a Hyperspace Scoop,Bir Hyperspace Scoop Edin
@@ -1612,11 +1428,10 @@ CURRENT,hud_endcreativemodewarning,2803,LEAVING CREATIVE MODE,YARATICI MODDAN Ç
 CURRENT,hud_endcreativemodefull,2803,Creative Mode will end when you jump to hyperspace,"Yaratıcı Mod, hiperuzaya atladığınızda sona erecektir"
 CURRENT,hud_hyperspace,2803,HYPERSPACE,HİPERSPACE
 CURRENT,hud_deselectlayer,2803,DESELECT SHIP,GEMİ SEÇİN
-CURRENT,hud_gun_port,3205,Port *X,İskele *X
-CURRENT,hud_gun_forward,3205,Forward *X,Baş *X
-CURRENT,hud_gun_starboard,3205,Starboard *X,Sancak *X
-CURRENT,hud_gun_aft,3205,Aft *X,Kıç *X
-CURRENT,hud_gun_gattling,3205,PDC,YSS
+CURRENT,hud_direction_up,2803,Port,Liman
+CURRENT,hud_direction_right,2803,Forward,İleri
+CURRENT,hud_direction_down,2803,Starboard,Sancak
+CURRENT,hud_direction_left,2803,Aft,Kıç
 CURRENT,hud_enabled,2803,Enabled,Etkin
 CURRENT,hud_disabled,2803,Disabled,Engelli
 CURRENT,hud_window_construction,2803,CONSTRUCTION,İNŞAAT
@@ -2508,6 +2323,7 @@ CURRENT,recipe_duration,2803,Duration: *X seconds,Süre: *X saniye
 CURRENT,recipe_quantity_required,2803,*X x *Y,*X x *Y
 CURRENT,stargate_energy_required,2803,REQUIRED: *X MW,GEREKLİ: *X MW
 CURRENT,stargate_energy_received,2803,RECEIVED: *X MW,ALINDI: *X MW
+CURRENT,stargate_power_fraction,2803,SUPPLIED:\n*X MW / *Y MW,SAĞLANAN:\n*X MW / *Y MW
 CURRENT,stargate_power_button,2803,START,BAŞLA
 CURRENT,stargate_powered_off,2803,POWERED OFF,GÜÇ KAPALI
 CURRENT,stargate_warming_up,2803,WARMING UP,ISINMA
@@ -2930,6 +2746,7 @@ CURRENT,tutorial_dsidismantletitle,2803,DISMANTLING,SÖKÜM
 CURRENT,tutorial_dsismelterrecipes,2803,RECIPES,TARİFLER
 CURRENT,tutorial_stargatewindowopenwindow,2803,Select the Stargate button in your toolbar to open the Stargate screen.,Yıldız Geçidi ekranını açmak için araç çubuğunuzdaki Yıldız Geçidi düğmesini seçin.
 CURRENT,tutorial_stargatewindowintro,2803,The Stargate screen displays everything you need to manufacture to complete the current phase.,"Yıldız Geçidi ekranı, mevcut aşamayı tamamlamak için üretmeniz gereken her şeyi görüntüler."
+CURRENT,tutorial_stargatewindowhighlightcomponent,2803,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,"Üretmeniz gereken her bir bileşen sol tarafta yer almaktadır.\nFarenizi bir bileşenin simgesinin üzerine getirdiğinizde, o bileşenin nasıl üretileceği gösterilir."
 CURRENT,tutorial_stargatewindowhighlightphases,2803,"The Stargate's construction is split into phases, with each phase requiring more and more resources.\nYou have just completed Phase 1.",Yıldız Geçidi'nin inşası aşamalara bölünmüştür ve her aşama daha fazla kaynak gerektirir.\n1. Aşamayı henüz tamamladınız.
 CURRENT,tutorial_stargatewindowhighlightphase2,2803,Select Phase 2 to see what you need to manufacture for this phase.,Bu aşama için ne üretmeniz gerektiğini görmek için Aşama 2'yi seçin.
 CURRENT,tutorial_stargatewindowclosewindow,2803,You can now close the Stargate screen.,Artık Yıldız Geçidi ekranını kapatabilirsiniz.
@@ -3017,37 +2834,6 @@ CURRENT,dsi_part2_scene_z4,2803,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2803,THERE WILL BE NO FURTHER WARNING.,BAŞKA BIR UYARI YAPILMAYACAKTIR.
 CURRENT,dsi_part2_scene_y7,2803,You've left me no choice.,Bana başka seçenek bırakmadın.
 CURRENT,dsi_part2_scene_y8,2803,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Senin için geleceğim Alexander, ve bu sefer %10 istemiyorum. Hepsini istiyorum."
-OBSOLETE,thefinalstand_harken2,3239,"My scientists and officers have analysed the blueprints of the Stargate project, provided to us by the late Alexander James Elistar.",Bilim insanları ve subaylarım merhum Alexander James Elistar tarafından bize sağlanan Yıldız Geçidi projesinin planlarını incelediler.
-OBSOLETE,thefinalstand_harken3,3239,"The Andromeda Project has moved their HQ and all key personell into an unknown location in the new sector, where we believe they are controlling the Stargate.","Andromeda Projesi, merkezini ve tüm kilit personelini yeni sektörde bilinmeyen bir yere taşıdı ve Yıldız Geçidi'ni kontrol ettiklerini düşünüyoruz."
-OBSOLETE,thefinalstand_harken4,3239,"Elistar has left you with a backdoor into the Stargate's security systems, compromising all devices controlling it and providing us with direct access to the Andromeda Project's systems.","Elistar size Yıldız Geçidi'nin güvenlik sistemlerine bir arka kapı bıraktı, onu kontrol eden tüm cihazları tehlikeye attı ve bize Andromeda Projesi'nin sistemlerine doğrudan erişim sağladı."
-OBSOLETE,thefinalstand_harken5,3239,"Any and all damage to the HQ should be avoided. Many innocent lives are on-board that HQ, the loss of life from destroying it would be far too great. You will upload a virus to their command centre and disable the station's offensive capabilities.","Karargâha zarar vermekten kaçınılmalıdır. Karargâhta pek çok masum hayat var, onu yok etmenin yol açacağı can kaybı çok büyük olacaktır. Komuta merkezlerine bir virüs yükleyecek ve istasyonun saldırı yeteneklerini devre dışı bırakacaksınız."
-OBSOLETE,thefinalstand_harken6,3239,"While you are doing this, my fleet will fight off the Andromeda Project navy. Once the battle is over, I will take control of the HQ and arrest everyone involved. Their conglomerate will be dismantled.","Siz bunu yaparken, filom Andromeda Projesi donanmasıyla savaşacak. Savaş bittiğinde, karargahın kontrolünü ele geçireceğim ve ilgili herkesi tutuklayacağım. Holdingleri dağıtılacak."
-OBSOLETE,thefinalstand_boss_harken2,3239,"The previous ships were private security, this one is the Andromeda Navy's flagship! You should have access to its command centre from the HQ.","Önceki gemiler özel güvenlikti, bu ise Andromeda Donanması'nın amiral gemisi! Karargahtan komuta merkezine erişiminiz olmalı."
-OBSOLETE,industryend_message,3239,"After capturing the Andromeda HQ, Harken and the Intergalactic Security Council dismantled the Andromeda Project conglomerate.  The control of the Stargate was left in the hands of the Captain that built it.  Humanity's journey across the universe has only just begun...","Andromeda Karargahını ele geçirdikten sonra, Harken ve Galaksilerarası Güvenlik Konseyi Andromeda Projesi holdingini dağıttı.  Yıldız Geçidi'nin kontrolü, onu inşa eden Kaptan'ın ellerine bırakıldı.  İnsanlığın evrendeki yolculuğu daha yeni başlamıştı..."
-OBSOLETE,bravenewsector_part4_rep9,3239,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy the Andromeda.,Merhaba Kaptan. Yeni tamamlanan Yıldız Geçidi Andromeda Projesi'ni bu galaksi ile Andromeda arasındaki kaynak ve insan akışını kontrol edebilecek güçlü bir konuma getirdi.
-OBSOLETE,thefinalstand_battleprep_1,3239,"Hello Captain, it's good to see you. This is all of the ships I control in this sector, the rest are on the other side of the Stargate, unable to reach us.","Merhaba Kaptan, sizi görmek güzel. Bu sektörde kontrol ettiğim tüm gemiler bunlar, geri kalanlar Yıldız Geçidi'nin diğer tarafında, bize ulaşamıyorlar."
-OBSOLETE,thefinalstand_battle_rep1,3239,Commander Harken! I see that my first fleet failed to deal you. I suppose if I want something done properly I should do it myself.,Komutan Harken! İlk filomun sizinle anlaşamadığını görüyorum. Sanırım bir şeyin düzgün yapılmasını istiyorsam kendim yapmalıyım.
-OBSOLETE,hud_consumingperhour,3149,Consuming *X per hour,Saatte *X tüketmek
-OBSOLETE,survey_captionmultiple,3054,*X layers surveying,*X katmanlar ölçümü
-OBSOLETE,tutorial_radiationinstallinfuser,3054,A laser infuser has been delivered to your ship.\n\nLaser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area.,Geminize bir lazer infüzörü teslim edildi.\n\nLazer infüzörleri boş kristalleri Zeleon Gaz ile şarj etmek için kullanılır ve güç verildiğinde çevreye radyasyon yayar.\n\nLazer infüzörünü açık bir alana kurun.
-OBSOLETE,tutorial_radiationsetupinfuser,3054,An empty crystal and some zeleon energy cells have been delivered to your ship too.\n\nLet's set the laser infuser to use them to produce charged crystals.,Geminize boş bir kristal ve bazı Zeleon Enerji Hücreleri de teslim edildi.\n\nLazer infüzörünü bunları kullanarak yüklü kristaller üretecek şekilde ayarlayalım.
-OBSOLETE,tutorial_radiationwaitforinputs,3054,The laser infuser is set to start making charged crystals!\n\nLet's wait for it to begin charging crystals.\n\nDon't forget to power the Laser Infuser.,Lazer infüzör şarjlı kristaller yapmaya başlamak üzere ayarlandı!\n\nKristalleri şarj etmeye başlamasını bekleyelim.\n\nLazer İnfüzöre güç vermeyi unutmayın.
-OBSOLETE,tutorial_surveystartsectorsurvey,3054,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan.,Sektör taramaları geminizin bulunduğu sistemin etrafındaki sektörde ilgi çeken alanları arar.\n\nTarama tamamlandıktan sonra duracaktır. Bir sistemde sadece bir katman sektör taraması yapabilir.\n\nSektör taramasına başlamak için düğmeye tıklayın.
-OBSOLETE,tutorial_surveystartlocalsurvey,3054,Areas of interest will expire after some time if they are not surveyed. Multiple layers can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,"İlgi alanları, incelenmedikleri takdirde bir süre sonra geçerliliğini yitirecektir. Birden fazla katman yerel bir ankete katkıda bulunabilir.\n\nYerel anketi başlatmak için ilgi noktasına tıklayın."
-OBSOLETE,bravenewsector_part2_x4,3054,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. The Stargate is too important and valuable for our species to be under their control.","Lütfen bunun olmasına izin verme Kaptan. Hayatımın büyük bir kısmı ve projelerimin çoğu sadece kâr amacıyla yapıldı, bunun da onlardan biri olmasına izin veremem. Yıldız Geçidi türümüz için onların kontrolü altında olamayacak kadar önemli ve değerli."
-OBSOLETE,bravenewsector_part2_x5,3054,I have installed a back-door that will cause the Stargate to self-destruct if you command it to. You must trigger it if the rumours are true.,Eğer komut verirseniz Yıldız Geçidi'nin kendini imha etmesine neden olacak bir arka kapı yerleştirdim. Eğer söylentiler doğruysa bunu tetiklemelisiniz.
-OBSOLETE,blackhole_part1_setup7,2803,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop first.","İhtiyacımız olan kaynakları sentezlemek için malzemelere ihtiyacım var.  Ben hesaplamalar üzerinde çalışırken sen de bana bu konuda yardımcı olabilirsin. Hiperuzay İzotoplarına ihtiyacım var - bunları kolayca toplayabilirsin, ama önce bir Hyperspace Scoop edinmen gerekecek."
-OBSOLETE,stargate_power_fraction,2803,SUPPLIED:\n*X MW / *Y MW,SAĞLANAN:\n*X MW / *Y MW
-OBSOLETE,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] Ayırıcıya dönüştür
-OBSOLETE,hud_convertsplittertotrack,3054,[RMB] Convert to track,[RMB] Dönüştürmek için parça
-OBSOLETE,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,Işık Hızından Daha Hızlı yolculuk olmadan bu yolcuları varış yerlerine ulaştıramayız. Ne yazık ki bu gemi kendi <b>FTL</b> sürücüsüne sahip değil.\n\nBir tane satın alıp kurmamız gerekecek.
-OBSOLETE,tutorial_ftlintro,2803,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,Işık Hızından Daha Hızlı yolculuk olmadan bu yolcuları varış yerlerine ulaştıramayız. Ne yazık ki bu gemi kendi FTL sürücüsüne sahip değil.\n\nBir tane satın alıp kurmamız gerekecek.
-OBSOLETE,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,Bir <b>FTL</b> Sürücüsü satın almak için takas ekranını açın.
-OBSOLETE,tutorial_ftltradescreen,2803,Open the trade screen to purchase an FTL drive.,Bir FTL Sürücüsü satın almak için takas ekranını açın.
-OBSOLETE,newmainmenu_includedocked,2803,INCLUDE DOCKED SHIPS IN EXPORT,YANAŞMIŞ GEMILERI IHRACATA DAHIL ETMEK
-OBSOLETE,hud_layer_hostile,2803,HOSTILE,HOSTİL
-OBSOLETE,hud_layer_derelict,2803,DERELICT,DERELICT
-OBSOLETE,hud_layer_forsale,2803,[FOR SALE],[SATILIK]
 OBSOLETE,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,"Dış aşınmaları, en az bir yüzyıldır burada olduklarına inanmamızı sağlıyor. Bu sektör insanoğlunun dış uzayı kolonileştirmek için yaptığı ilk girişimlerden biri olmalı."
 OBSOLETE,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.",Çevirmenlere yardımcı olmak için Alt'ın İngilizceyi ve Ctrl'nin ifade anahtarını göstermesi gibi özellikleri etkinleştirin.
 OBSOLETE,techtree_node_title_robotarmspeed,2803,Robot Arm Speed,Robot Kolu Hızı

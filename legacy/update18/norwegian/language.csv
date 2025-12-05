@@ -1,253 +1,60 @@
 ﻿state,key,svn,english,translation
-UPDATED,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,"Hver komponent du trenger for å produsere, vises til høyre.\nNår du holder musen over ikonet for en komponent, ser du hvordan du produserer den."
-PREVIOUS,tutorial_stargatewindowhighlightcomponent,2803,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,"Hver komponent du trenger for å produsere, er til venstre.\nNår du plasserer musen over ikonet for en komponent, ser du hvordan du produserer den."
-CURRENT,logistics_tooltip_skiporder,3248,Skip currently executing order,Hopp over gjeldende ordre
-CURRENT,logistics_tooltip_loop,3248,Loop execution,Utførelse av løkker
-CURRENT,thefinalstand_artemis1,3248,Hello again Captain!,"Hallo igjen, kaptein!"
-CURRENT,thefinalstand_artemis2,3248,"After some careful analysis of the Stargate's blueprints, I have found the backdoor that the late Alexander James Elistar has left you.",Etter nøye analyse av stjerneportens tegninger har jeg funnet bakdøren som avdøde Alexander James Elistar har etterlatt deg.
-CURRENT,thefinalstand_artemis3,3248,You will use this backdoor to upload a small virus that I have written to their command centre within the HQ. It will disable the station's offensive capabilities and place itself under your command.,Du skal bruke denne bakdøren til å laste opp et lite virus som jeg har skrevet til kommandosenteret i hovedkvarteret. Det vil deaktivere stasjonens offensive evner og plassere seg selv under din kommando.
-CURRENT,thefinalstand_boss_artemis1,3248,"Captain, I can route a signal to their powergrid and overload their generators, tell me when to trigger it!","Kaptein, jeg kan sende et signal til strømnettet og overbelaste generatorene deres. Si når jeg skal utløse det!"
-CURRENT,thefinalstand_end_objective_leave,3248,Leave the HQ,Forlat hovedkvarteret
-CURRENT,thefinalstand_harken2,3248,"The Andromeda Project has moved their HQ and all key personell into an unknown location in the new sector, where we believe they are controlling the Stargate.","Andromeda-prosjektet har flyttet hovedkvarteret og alt nøkkelpersonell til et ukjent sted i den nye sektoren, hvor vi tror de kontrollerer stjerneporten."
-CURRENT,thefinalstand_harken3,3248,"My plan is to use our fleets to take control of the HQ by force. Any and all damage to the HQ should be avoided, many innocent lives are on-board and the loss of life from destroying it would be far too great.\nI have devised a plan with an old friend of yours that should minimise casualties...","Min plan er å bruke flåtene våre til å ta kontroll over hovedkvarteret med makt. All skade på hovedkvarteret bør unngås, det er mange uskyldige liv om bord, og tapet av menneskeliv ved å ødelegge det vil være altfor stort.\nJeg har utarbeidet en plan sammen med en gammel venn av deg som bør minimere tapene..."
-CURRENT,thefinalstand_harken4,3248,"While you neutralise the HQ, my fleet will fight off the Andromeda Project navy. Once the battle is over, I will take control of the HQ and arrest everyone involved. Their conglomerate will be dismantled.","Mens du nøytraliserer hovedkvarteret, vil flåten min kjempe mot Andromeda-prosjektets marine. Når slaget er over, tar jeg kontroll over hovedkvarteret og arresterer alle involverte. Konglomeratet deres vil bli demontert."
-CURRENT,thefinalstand_harken5,3248,The Stargate will fall back into your sole control. I've marked an allied shipyard on your map. I'll hide out there in the mean-time.,Stjerneporten vil falle tilbake under din kontroll. Jeg har markert et alliert skipsverft på kartet ditt. Jeg gjemmer meg der i mellomtiden.
-CURRENT,thefinalstand_harken6,3248,Meet me to discuss the plan further. Goodbye for now.,Møt meg for å diskutere planen videre. Farvel for nå.
-CURRENT,thefinalstand_boss_harken2,3248,This is the Andromeda Navy's flagship! You should have access to its command centre from the HQ!,Dette er Andromeda-flåtens flaggskip! Du bør ha tilgang til kommandosenteret fra hovedkvarteret!
-CURRENT,industryend_message,3248,"Now the Andromeda HQ has been captured, Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind spreads beyond our home galaxy and into the future.","Nå som Andromedas hovedkvarter er tatt til fange, vil Harken og Det intergalaktiske sikkerhetsrådet oppløse Andromeda Project-konglomeratet og gjenvinne kontrollen over stjerneporten, til fordel for hele menneskeheten.  Et nytt kapittel har begynt, mens menneskeheten sprer seg utover vår egen galakse og inn i fremtiden."
-CURRENT,bravenewsector_part4_rep9,3244,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy and the Andromeda galaxy.,"Hallo, kaptein. Den nylig ferdigstilte stjerneporten har gitt Andromeda-prosjektet en mektig posisjon til å kontrollere ressurs- og menneskestrømmen mellom denne galaksen og Andromedagalaksen."
-CURRENT,thefinalstand_battleprep_1,3244,"Hello Captain, it's good to see you. These are all of the ships I control in this sector, the rest are on the other side of the Stargate, unable to reach us.","Hei, kaptein. Godt å se deg. Dette er alle skipene jeg kontrollerer i denne sektoren. Resten er på den andre siden av stjerneporten."
-CURRENT,thefinalstand_battle_rep1,3244,Commander Harken! I see that my first fleet has failed to deal with you. I suppose if I want something done properly I should do it myself.,"Kommandør Harken! Jeg ser at min første flåte ikke har klart å ta seg av deg. Hvis jeg vil ha noe gjort skikkelig, bør jeg vel gjøre det selv."
-CURRENT,newmainmenu_continue,3239,CONTINUE GAME,FORTSETT SPILLET
-CURRENT,hud_ftlshipblockedfromftl,3239,Ship cannot enter hyperspace with your fleet,Skipet kan ikke gå inn i hyperrommet med flåten din
-CURRENT,hud_window_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,INTERSTELLAR LOGISTIKK
-CURRENT,andromeda_travel,3239,ANDROMEDA JOURNEY,ANDROMEDAREISE
-CURRENT,trade_autohireat,3239,HIRE BELOW,LEIE UNDER
-CURRENT,trade_autosackat,3239,SACK ABOVE,SEKK OVER
-CURRENT,trade_autoembarkat,3239,EMBARK BELOW,MERK NEDENFOR
-CURRENT,trade_autodisembarkat,3239,DISEMBARK BELOW,GÅ I LAND NEDENFOR
-CURRENT,trade_tooltip_hire,3239,[LMB] Hire,[LMB] Leie
-CURRENT,trade_tooltip_embark,3239,[LMB] Embark,[LMB] Legg om bord
-CURRENT,trade_tooltip_disembark,3239,[LMB] Disembark,[LMB] Gå i land
-CURRENT,trade_hiring,3239,Hiring *X,Ansettelse *X
-CURRENT,trade_embarking,3239,Embarking *X,Ombordstigning *X
-CURRENT,trade_disembarking,3239,Disembarking *X,Avstigning *X
-CURRENT,trade_order_hire_on_sell_screen,3239,(HIRE *X),(HIRE *X)
-CURRENT,trade_order_embark_on_sell_screen,3239,(EMBARK *X),(EMBARK *X)
-CURRENT,trade_order_disembark_on_buy_screen,3239,(DISEMBARK *X),(DISEMBARK *X)
-CURRENT,trade_hire,3239,HIRE,LEIE
-CURRENT,trade_embark,3239,EMBARK,EMBARK
-CURRENT,trade_disembark,3239,DISEMBARK,DISEMBARK
-CURRENT,techtree_node_title_atmosphericprocessing,3239,Atmospheric Processing,Atmosfærisk prosessering
-CURRENT,techtree_node_caption_atmosphericprocessing,3239,Unlocks schematics for hardware required to maintain a breathable atmosphere,Låser opp skjemaer for maskinvare som kreves for å opprettholde en pustende atmosfære
-CURRENT,techtree_node_title_atmosphericprocessing2,3239,Atmospheric Processing 2,Atmosfærisk prosessering 2
-CURRENT,techtree_node_caption_atmosphericprocessing2,3239,Unlocks more schematics for hardware required to maintain a breathable atmosphere,Låser opp flere skjemaer for maskinvare som kreves for å opprettholde en pustende atmosfære
-CURRENT,techtree_node_title_wasteprocessing,3239,Waste Processing,Behandling av avfall
-CURRENT,techtree_node_caption_wasteprocessing,3239,Unlocks schematics for hardware to capture and reprocess human waste,Låser opp skjemaer for maskinvare som kan fange opp og behandle menneskelig avfall
-CURRENT,special_advancedlogistics,3239,Interstellar Logistics,Interstellar logistikk
-CURRENT,tactical_dockingassistant,3239,DOCKING ASSIST,DOCKING ASSIST
-CURRENT,tactical_fleetformation,3239,FLEET FORMATION,FLÅTEFORMASJON
-CURRENT,tactical_fleetcombat,3239,FLEET COMBAT AI,FLÅTEKAMP AI
-CURRENT,tactical_on,3239,ON,PÅ
-CURRENT,tactical_off,3239,OFF,AV
-CURRENT,tactical_tooltip_dockingassistant,3239,"When enabled, the Docking Assistant will perform the final maneuovers required to dock your ship with another, once you are close enough.\n\nIt is recommended you disable Fleet Formation when attempting to dock.","Når den er aktivert, vil dokkingsassistenten utføre de siste manøvreringene som kreves for å dokke skipet ditt med et annet når du er nær nok.\n\nDet anbefales at du deaktiverer flåteformasjon når du forsøker å dokke."
-CURRENT,tactical_tooltip_fleetformation,3239,"When enabled, all of the fleet ships within a system will fly together in close formation, following the lead of whichever ship you are directly controlling.","Når denne funksjonen er aktivert, vil alle flåteskipene i et system fly sammen i tett formasjon og følge etter det skipet du kontrollerer direkte."
-CURRENT,tactical_tooltip_fleetcombat,3239,"When enabled, your other fleet ships will take care of themselves during combat, moving to optimal range and engaging as best they can.","Når denne funksjonen er aktivert, vil de andre flåteskipene dine ta vare på seg selv under kamp, bevege seg til optimal rekkevidde og angripe så godt de kan."
-CURRENT,tactical_tooltip_weapon,3239,[LMB] Select weapon\n[SHIFT-LMB] Select multiple weapons\n[RMB] Clear current target,[LMB] Velg våpen\n[SHIFT-LMB] Velg flere våpen\n[RMB] Fjern gjeldende mål
-CURRENT,tactical_tooltip_auto,3239,AUTO-TARGETTING\n[LMB] Enable auto-targetting\n[RMB] Disable auto-targetting,AUTO-TARGETTING\n[LMB] Aktiver automatisk målretting\n[RMB] Deaktiver automatisk målretting
-CURRENT,logistics_tooltip_add,3239,[LMB] Add,[LMB] Legg til
-CURRENT,logistics_tooltip_remove_rmb,3239,[RMB] Remove,[RMB] Fjern
-CURRENT,logistics_tooltip_cancel,3239,[RMB] Cancel,[RMB] Avbryt
-CURRENT,logistics_tooltip_shift,3239,[SHIFT] x5,[SHIFT] x5
-CURRENT,logistics_tooltip_control,3239,[CTRL] x50,[CTRL] x50
-CURRENT,advancedlogisticswindow_title,3239,INTERSTELLAR LOGISTICS,INTERSTELLAR LOGISTIKK
-CURRENT,logistics_system_select,3239,LOCATION,BELIGGENHET
-CURRENT,logistics_create_order,3239,Create Order,Opprett ordre
-CURRENT,logistics_loop,3239,Loop,Sløyfe
-CURRENT,logistics_order_none,3239,Order Type,Bestillingstype
-CURRENT,logistics_order_mine,3239,Mine,Mine
-CURRENT,logistics_order_collect,3239,Collect Gas,Samle opp gass
-CURRENT,logistics_order_buy,3239,Buy,Kjøp
-CURRENT,logistics_order_sell,3239,Sell,Selge
-CURRENT,logistics_order_transferto,3239,Transfer To,Overfør til
-CURRENT,logistics_order_transferfrom,3239,Transfer From,Overføring fra
-CURRENT,logistics_condition_none,3239,Amount,Beløp
-CURRENT,logistics_condition_quantity,3239,Quantity,Antall
-CURRENT,logistics_condition_stacks,3239,Stacks,Stabler
-CURRENT,logistics_condition_containers,3239,Containers,Beholdere
-CURRENT,logistics_condition_allbut,3239,All But,Alle unntatt
-CURRENT,logistics_condition_storagefull,3239,Until Storage Full,Inntil lageret er fullt
-CURRENT,logistics_condition_all,3239,All Available,Alle tilgjengelige
-CURRENT,logistics_condition_time,3239,Minutes,Referat
-CURRENT,logistics_transferto_none,3239,DESTINATION SHIP,DESTINASJONSSKIP
-CURRENT,logistics_transferfrom_none,3239,SOURCE SHIP,KILDE SHIP
-CURRENT,logistics_item_none,3239,Select Item,Velg element
-CURRENT,logistics_stuck_default,3239,Orders stuck,Bestillinger sitter fast
-CURRENT,logistics_stuck_invalidsystem,3239,System S*X does not exist,Systemet S*X finnes ikke
-CURRENT,logistics_stuck_invalidlayer,3239,Ship L*X does not exist,Skipet L*X eksisterer ikke
-CURRENT,logistics_stuck_equipment,3239,L*X does not have a working R*Y,L*X ikke har en fungerende R*Y
-CURRENT,logistics_stuck_resources,3239,L*X does not have any R*Ys,L*X ikke har noen R*Ys
-CURRENT,logistics_stuck_patches,3239,System S*X does not have any R*Y to mine,System S*X har ikke noe R*Y til Mine
-CURRENT,logistics_stuck_gas,3239,System S*X does not have any R*Y to collect,System S*X har ikke noe R*Y for å samle inn
-CURRENT,logistics_stuck_tradingpost,3239,System S*X does not have a trading post,System S*X har ikke en handelspost
-CURRENT,logistics_stuck_resourcestosell,3239,L*X does not have any R*Y to sell,L*X ikke har noen R*Y å selge
-CURRENT,logistics_stuck_stargate,3239,Stargate is not ready for jump,Stargate er ikke klar for hopp
-CURRENT,logistics_status_notrunning,3239,No order currently running,Ingen ordre i gang for øyeblikket
-CURRENT,logistics_status_travelling,3239,Travelling to system S*X,Reiser til systemet S*X
-CURRENT,logistics_status_mining,3239,Mined *X R*Y,Mine *X R*Y
-CURRENT,logistics_status_miningstacks,3239,(*X/*Y stacks),(*X/*Y stabler)
-CURRENT,logistics_status_miningstacks1,3239,(*X stacks),(*X stabler)
-CURRENT,logistics_status_collect,3239,Collected *X R*Y,Samlet *X R*Y
-CURRENT,logistics_status_collectcontainers,3239,(*X/*Y containers),(*X/*Y containere)
-CURRENT,logistics_status_collectcontainers1,3239,(*X containers),(*X containere)
-CURRENT,logistics_status_transferto,3239,Transfering *X R*Y to L*Z,Overføring av *X R*Y til L*Z
-CURRENT,logistics_status_transferfrom,3239,Transfering *X R*Y from L*Z,Overføring av *X R*Y fra L*Z
-CURRENT,logistics_status_buy,3239,Bought *X R*Y for $*Z,Kjøpte *X R*Y for $*Z
-CURRENT,logistics_status_sell,3239,Sold *X R*Y for $*Z,Solgt *X R*Y for $*Z
-CURRENT,logistics_status_notlooping,3239,Finished execution (not looping),Ferdig kjørt (ikke looping)
-CURRENT,logistics_status_time1,3239,in *X:*Y,i *X:*Y
-CURRENT,logistics_status_time2,3239,in *X:0*Y,i *X:0*Y
-CURRENT,logistics_status_time3,3239,in 0*X:*Y,i 0*X:*Y
-CURRENT,logistics_status_time4,3239,in 0*X:0*Y,in 0*X:0*Y
-CURRENT,order_advancedlogistics,3239,Interstellar Logistics,Interstellar logistikk
-CURRENT,mission_objective_done,3239,DONE,FERDIG
-CURRENT,alert_type_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,INTERSTELLAR LOGISTIKK
-CURRENT,alert_type_interstellarlogistics_caption,3239,Orders stuck,Bestillinger sitter fast
-CURRENT,stargate_startandromedajump,3239,TEST ANDROMEDA JUMP,TEST ANDROMEDAHOPP
-CURRENT,stargate_power_tooltip,3239,POWER REQUIRED: *X MW,EFFEKT SOM KREVES: *X MW
-CURRENT,stargate_distance_travelled,3239,*X kly REMAINING,*X kly REMAINING
-CURRENT,stargate_journey_completed,3239,*X% COMPLETED,*X% FULLFØRT
-CURRENT,stargate_sell,3239,SELL ALL (*X FOR *Y),SELG ALT (*X FOR *Y)
-CURRENT,stargate_price_per_unit,3239,*X PER UNIT,*X PER ENHET
-CURRENT,stargate_total_price,3239,*X TOTAL,*X TOTALT
-CURRENT,stargate_award_complete_title,3239,STARGATE COMPLETED,STARGATE FULLFØRT
-CURRENT,stargate_award_complete_subtitle,3239,All phases completed,Alle faser fullført
-CURRENT,tutorial_radiationselectfriendly,3239,"First, select a friendly ship with a laser infuser available.",Velg først et vennligsinnet skip med en laser infuser tilgjengelig.
-CURRENT,blackhole_objective_tank,3239,Acquire a Storage Tank,Skaff deg en lagringstank
-CURRENT,blackhole_objective_storagetank,3239,Connect a tank to the Hyperspace Scoop,Koble en tank til Hyperspace Scoop
-CURRENT,blackhole_objective_loader,3239,Connect a Loader to the tank,Koble en Laster til tanken
-CURRENT,blackhole_objective_unloadloader,3239,Set the Loader to UNLOAD,Sett Laster til UNLOAD
-CURRENT,dsi_part2_dogmavessel1,3239,D.O.G.M.A Spartan,D.O.G.M.A Spartan
-CURRENT,dsi_part2_dogmavessel2,3239,D.O.G.M.A Citadel,D.O.G.M.A Citadel
-CURRENT,dsi_part2_dogmavessel3,3239,D.O.G.M.A Centurion,D.O.G.M.A Centurion
-CURRENT,bravenewsector_part4_title,3239,"Brave New Sector, Part 4","Brave New Sector, del 4"
-CURRENT,bravenewsector_part4_summary,3239,Complete the final test.,Fullfør den avsluttende testen.
-CURRENT,bravenewsector_part4_intro,3239,"Captain, preparations have concluded for the final Stargate test. We are ready to send a ship to the Andromeda Galaxy. Please call us when you are ready.","Kaptein, forberedelsene til den siste Stargate-testen er avsluttet. Vi er klare til å sende et skip til Andromedagalaksen. Vennligst ring oss når dere er klare."
-CURRENT,bravenewsector_part4_call_action,3239,Call the Representative,Ring representanten
-CURRENT,bravenewsector_part4_rep1,3239,The materials you provided to us have been fitted to the Stargate. It is fully functional and ready to test.,"Materialene du ga oss, er montert på stjerneporten. Den er fullt funksjonell og klar til å testes."
-CURRENT,bravenewsector_part4_rep2,3239,This is a monumental moment in the history of our species. If this test is successful the Andromeda Project will be the first entity to send mankind to another galaxy.,"Dette er et monumentalt øyeblikk i vår arts historie. Hvis denne testen er vellykket, vil Andromeda-prosjektet være den første enheten som sender menneskeheten til en annen galakse."
-CURRENT,bravenewsector_part4_rep3,3239,"Captain, you will need to begin the test and provide power for the entire journey so our test ship can reach the Andromeda Galaxy. This will require a significant amount of energy, more than what's needed to travel between sectors.","Kaptein, du må starte testen og sørge for strøm til hele reisen, slik at testskipet vårt kan nå Andromedagalaksen. Dette vil kreve en betydelig mengde energi, mer enn det som trengs for å reise mellom sektorene."
-CURRENT,bravenewsector_part4_rep4,3239,Please begin the test when you are ready.,Vennligst start testen når du er klar.
-CURRENT,bravenewsector_part4_objective_test,3239,Send the test ship to the Andromeda Galaxy,Send testskipet til Andromedagalaksen
-CURRENT,bravenewsector_part4_action_starttest,3239,Start Test,Start test
-CURRENT,bravenewsector_part4_reachandromeda_award,3239,ANDROMEDA REACHED,ANDROMEDA NÅDD
-CURRENT,bravenewsector_part4_reachandromeda_caption,3239,Signal received from test ship,Signal mottatt fra testskip
-CURRENT,bravenewsector_part4_andromeda_bonus,3239,ANDROMEDA BONUS,ANDROMEDA-BONUS
-CURRENT,bravenewsector_part4_andromeda_caption,3239,Payment for sending the test ship,Betaling for å sende testskipet
-CURRENT,bravenewsector_part4_rep5,3239,"Captain, the Stargate has received a signal from the Andromeda Galaxy.","Kaptein, Stargate har mottatt et signal fra Andromedagalaksen."
-CURRENT,bravenewsector_part4_rep6,3239,The test ship made it. The test was a complete and total success. This is a historic moment for all of mankind.,Testskipet klarte det. Testen var en fullstendig suksess. Dette er et historisk øyeblikk for hele menneskeheten.
-CURRENT,bravenewsector_part4_rep7,3239,It couldn't have been done without you Captain. Your industrial expertise and dedication to the project have been invaluable.,"Det kunne ikke vært gjort uten deg, kaptein. Din industrielle ekspertise og ditt engasjement for prosjektet har vært uvurderlig."
-CURRENT,bravenewsector_part4_rep8,3239,"Thank you Captain, your contribution will not be forgotten. Goodbye for now.","Takk, kaptein. Ditt bidrag vil ikke bli glemt. Farvel for nå."
-CURRENT,bravenewsector_part4_objective_wait,3239,Await further instructions,Avvent ytterligere instruksjoner
-CURRENT,bravenewsector_part4_harken1,3239,"Captain, there are reports that the Andromeda Project are withholding access to the Stargate from any ships that aren't their own.","Kaptein, det rapporteres at Andromeda-prosjektet nekter tilgang til stjerneporten for andre skip enn sine egne."
-CURRENT,bravenewsector_part4_harken2,3239,"My sensors are detecting major fleet movements towards the Stargate, it looks like the Andromeda Project is aiming to secure their control over it.",Sensorene mine oppdager store flåtebevegelser mot stjerneporten. Det ser ut som Andromeda-prosjektet vil sikre seg kontroll over den.
-CURRENT,bravenewsector_part4_harken3,3239,"This is... concerning. Be careful, I don't like the look of this.","Dette er... bekymringsfullt. Vær forsiktig, jeg liker ikke dette."
-CURRENT,bravenewsector_part4_rep10,3239,The next stage of the project has begun. Our fleet has obtained full control over the Stargate and we are currently in the process of moving our workforce into the new galaxy.,"Neste fase av prosjektet har begynt. Flåten vår har fått full kontroll over stjerneporten, og vi er nå i ferd med å flytte arbeidsstyrken vår inn i den nye galaksen."
-CURRENT,bravenewsector_part4_rep11,3239,"We will bring prosperity to all those who work with us. Speak to you soon, Captain. We may have some more work for you in the future.","Vi vil bringe velstand til alle som jobber med oss. Vi snakkes snart, kaptein. Vi har kanskje mer arbeid til deg i fremtiden."
-CURRENT,bravenewsector_part4_testshipname,3239,Andromeda Test Ship MK.1,Andromeda testskip MK.1
-CURRENT,thefinalstand_title,3239,The Final Stand,Det siste oppgjøret
-CURRENT,thefinalstand_summary,3239,Stop the Andromeda Project.,Stopp Andromeda-prosjektet.
-CURRENT,thefinalstand_harken1_intro,3239,"Captain! In direct violation of intergalactic law, the Andromeda Project has permanently closed access to the Stargate outside of their own ships. Billions of colonists have been stranded in the new sector, unable to return home.","Kaptein! I direkte strid med intergalaktisk lov har Andromeda-prosjektet stengt tilgangen til stjerneporten permanent for andre enn sine egne skip. Milliarder av kolonister er strandet i den nye sektoren, ute av stand til å vende hjem."
-CURRENT,thefinalstand_harken2_intro,3239,"You are the only one outside of the Andromeda Project with access codes, please call back as soon as you can. They must be stopped.",Du er den eneste utenfor Andromeda-prosjektet med tilgangskoder. Ring tilbake så snart du kan. De må stoppes.
-CURRENT,thefinalstand_call_action,3239,Call Harken,Ring Harken
-CURRENT,thefinalstand_andromedahq_name,3239,ANDROMEDA HQ,ANDROMEDA HQ
-CURRENT,thefinalstand_andromedaflagship_name,3239,ANDROMEDA FLAGSHIP,ANDROMEDA FLAGGSKIP
-CURRENT,thefinalstand_ai_name,3239,ANDROMEDA SHIP CONTROL,ANDROMEDA SKIPSKONTROLL
-CURRENT,thefinalstand_harken1,3239,"Greetings Captain, I was worried you had taken their side in all of this.","God dag, kaptein. Jeg var redd du hadde tatt deres side i alt dette."
-CURRENT,thefinalstand_objective_traveltoharken,3239,Travel to Harken,Reis til Harken
-CURRENT,thefinalstand_battleprep_2,3239,My officers have pin-pointed the position of their HQ. Upon arrival we expect to be met with heavy resistance from their private security forces.,Mine offiserer har lokalisert hovedkvarteret deres. Ved ankomst forventer vi å bli møtt med kraftig motstand fra deres private sikkerhetsstyrker.
-CURRENT,thefinalstand_battleprep_3,3239,I should be able to grab their attention away from your fleet while you get close and take control of the station.,Jeg bør kunne ta oppmerksomheten deres fra flåten din mens du nærmer deg og tar kontroll over stasjonen.
-CURRENT,thefinalstand_battleprep_4,3239,"Good luck Captain, I'll see you on the battlefield.","Lykke til, kaptein. Vi ses på slagmarken."
-CURRENT,thefinalstand_objective_destroyhq,3239,Take control of the Andromeda Project HQ,Ta kontroll over Andromeda-prosjektets hovedkvarter
-CURRENT,thefinalstand_battleintro_rep1,3239,"I gave you a very clear warning, Captain. You could've had anything in the universe as our business partner.","Jeg ga deg en klar advarsel, kaptein. Du kunne ha fått hva som helst som forretningspartner."
-CURRENT,thefinalstand_battleintro_rep2,3239,Now you must be destroyed.,Nå må du tilintetgjøres.
-CURRENT,thefinalstand_battleintro_rep3,3239,It was a pleasure working with you.,Det var en fornøyelse å jobbe med deg.
-CURRENT,thefinalstand_battleintro_dogma1,3239,"This is DOGMA Private Security force, we are en-route to the disturbance. ETA: imminent.","Dette er DOGMA Private Security, vi er på vei til urolighetene. ETA: nært forestående."
-CURRENT,thefinalstand_battleintro_harken1,3239,There are multiple hostile signatures inbound on our position! You must get in close range of the HQ and upload the virus. I'll do my best to keep their ships off you.,Det er flere fiendtlige signaturer på vei inn mot vår posisjon! Du må komme deg nær hovedkvarteret og laste opp viruset. Jeg skal gjøre mitt beste for å holde skipene deres unna deg.
-CURRENT,thefinalstand_battleintro_harken2,3239,"They're about to arrive, hurry!","De kommer snart, skynd deg!"
-CURRENT,thefinalstand_objective_flytohq,3239,Fly close to the HQ,Fly nær hovedkvarteret
-CURRENT,thefinalstand_objective_destroyhostiles,3239,Destroy remaining hostiles: *X,Ødelegg gjenværende fiender: *X
-CURRENT,thefinalstand_backdoor_action,3239,Trigger Backdoor,Utløser bakdør
-CURRENT,thefinalstand_battle_harken1,3239,Great work Captain! But my sensors are detecting a massive signature headi-,"Bra jobbet, kaptein! Men sensorene mine oppdager et massivt signaturhode.."
-CURRENT,thefinalstand_boss_harken1,3239,I've lost both of my frigates Captain! I don't have enough firepower to win this!,"Jeg har mistet begge fregattene mine, kaptein! Jeg har ikke nok ildkraft til å vinne dette!"
-CURRENT,thefinalstand_objective_destroyboss,3239,Destroy the Andromeda Flagship,Ødelegg Andromeda-flaggskipet
-CURRENT,thefinalstand_boss_overloadcaption,3239,OVERLOAD GENERATOR,OVERBELASTNINGSGENERATOR
-CURRENT,thefinalstand_battleoutro_ship1,3239,DANGER: POWER SYSTEMS DETERIORATING. POWER GRID OVERLOADED.,FARE: KRAFTSYSTEMENE FORRINGES. STRØMNETTET OVERBELASTET.
-CURRENT,thefinalstand_battleoutro_rep1,3239,"I don't understand, how is that possible!?","Jeg forstår ikke, hvordan er det mulig!?"
-CURRENT,thefinalstand_battleoutro_ship2,3239,DANGER: GENERATOR STATUS CRITICAL.,FARE: GENERATORENS STATUS ER KRITISK.
-CURRENT,thefinalstand_battleoutro_rep2,3239,"Send all available power to railguns, set target to-","Send all tilgjengelig kraft til Railguns, sett målet til-"
-CURRENT,thefinalstand_battleoutro_harken1,3239,"This is a message for Andromeda HQ. I am Commander Harken, Chief of Private Security for this sector, and I command you to stand down.","Dette er en melding til Andromedas hovedkvarter. Jeg er kommandør Harken, sjef for privat sikkerhet i denne sektoren, og jeg beordrer deg til å trekke deg tilbake."
-CURRENT,thefinalstand_battleoutro_harken2,3239,"The Andromeda Navy in this sector has been destroyed, you are now blockaded, there is nothing left to fight for.","Andromedas marine i denne sektoren er ødelagt, dere er nå blokkert, det er ingenting igjen å kjempe for."
-CURRENT,thefinalstand_battleoutro_harken3,3239,"It's over, Captain. The Andromeda HQ will be placed under the jurisdiction of the Intergalactic Security Council while I make the necessary arrests. The access codes for the Stargate are back under your control.","Det er over, kaptein. Andromeda-hovedkvarteret blir underlagt det intergalaktiske sikkerhetsrådet mens jeg foretar arrestasjonene. Adgangskodene til stjerneporten er tilbake under din kontroll."
-CURRENT,thefinalstand_battleoutro_harken4,3239,The current leadership of the Andromeda Project will be dismantled and the new galaxy will be freed from their control.,"Den nåværende ledelsen av Andromeda-prosjektet vil bli avviklet, og den nye galaksen vil bli frigjort fra deres kontroll."
-CURRENT,thefinalstand_battleoutro_harken5,3239,"You've proven that you can be trusted with control of the Stargate, so I'll leave it in your hands.","Du har bevist at du kan ha kontroll over stjerneporten, så jeg overlater den til deg."
-CURRENT,thefinalstand_battleoutro_harken6,3239,"Goodbye Captain, and good luck with your new place in the galaxy.","Farvel, kaptein, og lykke til med din nye plass i galaksen."
-CURRENT,hud_consumingperhour,3239,Consuming *X per day,Forbruker *X per dag
-CURRENT,survey_captionmultiple,3239,*X ships surveying,*X skipsoppmåling
-CURRENT,tutorial_radiationinstallinfuser,3239,Laser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area and power it.,Laser Infusere brukes til å lade tomme krystaller med Zeleon Gas og vil avgi stråling til omgivelsene mens de er strømførende.\n\nInstaller Laser Infuseren i et fritt område og slå den på.
-CURRENT,tutorial_radiationsetupinfuser,3239,Let's set the laser infuser to use them to produce charged crystals.,La oss sette Laser Infuser til å bruke dem til å produsere ladde krystaller.
-CURRENT,tutorial_radiationwaitforinputs,3239,The laser infuser is set to start making charged crystals! Laser infusers use Zeleon Energy Cells to charge the crystals.\n\nLet's wait for it to begin charging crystals.,Laser Infuser er klar til å begynne å lage ladede krystaller! Laser Infusers bruker Zeleon Energy Cells til å lade krystallene.\n\nLa oss vente på at den skal begynne å lade krystaller.
-CURRENT,tutorial_surveystartsectorsurvey,3239,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one ship in a system can do a sector scan.\n\nClick the button to begin a sector scan.,Sektorskanninger søker etter interessante områder i sektoren rundt systemet skipet ditt befinner seg i.\n\nSkanningen stopper etter at den er fullført. Bare ett skip i et system kan utføre en sektorskanning.\n\nKlikk på knappen for å starte en sektorskanning.
-CURRENT,tutorial_surveystartlocalsurvey,3239,Areas of interest will expire after some time if they are not surveyed. Multiple ships can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,Interesseområder vil utløpe etter en viss tid hvis de ikke undersøkes. Flere skip kan bidra til en lokal undersøkelse.\n\nKlikk på interessepunktet for å starte den lokale undersøkelsen.
-CURRENT,bravenewsector_part2_x4,3239,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. As a safeguard against the Andromeda Project, I have installed a back-door that allows you to take control of the Stargate and any devices commanding it.","Ikke la det skje, kaptein. Så mye av livet mitt og så mange av prosjektene mine har vært gjort for profitt. Som en sikkerhet mot Andromeda-prosjektet har jeg installert en bakdør som lar deg ta kontroll over stjerneporten og alle enheter som styrer den."
-CURRENT,bravenewsector_part2_x5,3239,Please use it if they restrict the use of the Stargate for their own gain.,Bruk den hvis de begrenser bruken av stjerneporten for egen vinning.
-CURRENT,blackhole_part1_setup7,3239,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop and a tank to store the isotopes in first.","Jeg trenger materialer for å syntetisere ressursene vi trenger.  Du kan hjelpe meg med dette, mens jeg jobber med utregningene. Jeg trenger Hyperspace Isotopes - du bør kunne samle dem enkelt nok, men du må først skaffe deg en Hyperspace Scoop og en tank til å lagre isotopene i."
-CURRENT,stargate_power_fraction,3239,*X / *Y MW,*X / *Y MW
-CURRENT,settings_credits,3149,CREDITS,KREDITTER
-CURRENT,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,Spillet lagres i Steam Cloud når dette er aktivert. En advarsel vises hvis lagringen mislykkes.
-CURRENT,newmainmenu_saveoptions,3149,Save Options,Lagre alternativer
-CURRENT,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] Bytt gulvbelegg
-CURRENT,hud_tooltip_currentflooring,3149,Current style: *X,Nåværende stil: *X
-CURRENT,hud_tooltip_gratedflooring,3149,Grated,Rivet
-CURRENT,hud_tooltip_normalflooring,3149,Normal,Normal
-CURRENT,hud_hull_integrity,3149,HULL,HULL
-CURRENT,hud_power_battery,3149,BATTERY,BATTERI
-CURRENT,hud_power_powershortage,3149,POWER SHORTAGE,STRØMMEMANGEL
-CURRENT,hud_idlecrew,3149,Idle Crew,Mannskap på tomgang
-CURRENT,hud_dehydrationperperson,3149,Dehydration *X per person,Dehydrering *X per person
-CURRENT,hud_hungerperperson,3149,Hunger *X per person,Hunger *X per person
-CURRENT,hud_byauthor,3149,BY *X,BY *X
-CURRENT,communicator_newobjective,3149,NEW OBJECTIVE,NYTT MÅL
-CURRENT,galaxymap_stargate,3149,STARGATE,STARGATE
-CURRENT,trade_canceltrade,3149,CANCEL TRADE AND REFUND,KANSELLERE HANDELEN OG REFUNDERE
-CURRENT,trade_refundvalue,3149,REFUND VALUE,TILBAKEBETALINGSVERDI
-CURRENT,trade_cancellationcost,3149,CANCELLATION COST,AVBESTILLINGSKOSTNAD
-CURRENT,trade_partiallyfilled,3149,PARTIALLY FILLED,DELVIS FYLT
-CURRENT,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,UFULLSTENDIG KOMPONENT
-CURRENT,trade_removeincomplete,3149,REMOVE INCOMPLETE,FJERNE UFULLSTENDIG
-CURRENT,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,FJERN DELVIS FYLT
-CURRENT,trade_order_normal,3149,(*X),(*X)
-CURRENT,trade_order_buy_on_sell_screen,3149,(BUY *X),(KJØP *X)
-CURRENT,trade_order_sell_on_buy_screen,3149,(SELL *X),(SELG *X)
-CURRENT,trade_order_sack_on_buy_screen,3149,(SACK *X),(SACK *X)
-CURRENT,techtree_researchpercent,3149,*X% Complete,*X% fullført
-CURRENT,tooltip_efficiency,3149,Efficiency +*X%,Effektivitet +*X%
-CURRENT,tooltip_activating,3149,Activating +*X%,Aktivering +*X%
-CURRENT,alert_type_lowdeuterium,3149,LOW DEUTERIUM,LAVT DEUTERIUM
-CURRENT,stargate_unknowncomponent,3149,Unknown Component,Ukjent komponent
-CURRENT,stargate_unknowncomponent_description,3149,Unlock this component through research!,Lås opp denne komponenten gjennom forskning!
-CURRENT,creditstitle_builders,3149,Ship Builders,Skipsbyggere
-CURRENT,creditstitle_testers,3149,Early Play Testing,Tidlig leketesting
-CURRENT,creditstitle_translators,3149,Translation,Oversettelse
-CURRENT,engine_thrust,3149,THRUST *X%,THRUST *X% %
-CURRENT,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + RMB] Konverter til Splitter
-CURRENT,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + RMB] Konverter til spor
-CURRENT,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,Vi kan ikke frakte passasjerene til bestemmelsesstedet uten en FTL-reise. Dessverre er ikke dette skipet utstyrt med egen <b>FTL-drift</b>.\n\nVi må kjøpe en og sette den opp.
-CURRENT,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,Åpne handelsskjermen for å kjøpe en <b>FTL-drift</b> og noen <b>FTL-ladninger</b>.
-CURRENT,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,INKLUDERER SKIP SOM LIGGER TIL KAI
-CURRENT,hud_layer_hostile,3149,HOSTILE *X,HOSTILE *X
-CURRENT,hud_layer_derelict,3149,DERELICT *X,DERELICT *X
-CURRENT,hud_layer_forsale,3149,[FOR SALE] *X,[TIL SALGS] *X
+NEW,settings_credits,3149,CREDITS,KREDITTER
+NEW,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,Spillet lagres i Steam Cloud når dette er aktivert. En advarsel vises hvis lagringen mislykkes.
+NEW,newmainmenu_saveoptions,3149,Save Options,Lagre alternativer
+NEW,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] Bytt gulvbelegg
+NEW,hud_tooltip_currentflooring,3149,Current style: *X,Nåværende stil: *X
+NEW,hud_tooltip_gratedflooring,3149,Grated,Rivet
+NEW,hud_tooltip_normalflooring,3149,Normal,Normal
+NEW,hud_hull_integrity,3149,HULL,HULL
+NEW,hud_power_battery,3149,BATTERY,BATTERI
+NEW,hud_power_powershortage,3149,POWER SHORTAGE,STRØMMEMANGEL
+NEW,hud_idlecrew,3149,Idle Crew,Mannskap på tomgang
+NEW,hud_consumingperhour,3149,Consuming *X per hour,Forbruker *X per time
+NEW,hud_dehydrationperperson,3149,Dehydration *X per person,Dehydrering *X per person
+NEW,hud_hungerperperson,3149,Hunger *X per person,Hunger *X per person
+NEW,hud_byauthor,3149,BY *X,BY *X
+NEW,communicator_newobjective,3149,NEW OBJECTIVE,NYTT MÅL
+NEW,galaxymap_stargate,3149,STARGATE,STARGATE
+NEW,trade_canceltrade,3149,CANCEL TRADE AND REFUND,KANSELLERE HANDELEN OG REFUNDERE
+NEW,trade_refundvalue,3149,REFUND VALUE,TILBAKEBETALINGSVERDI
+NEW,trade_cancellationcost,3149,CANCELLATION COST,AVBESTILLINGSKOSTNAD
+NEW,trade_partiallyfilled,3149,PARTIALLY FILLED,DELVIS FYLT
+NEW,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,UFULLSTENDIG KOMPONENT
+NEW,trade_removeincomplete,3149,REMOVE INCOMPLETE,FJERNE UFULLSTENDIG
+NEW,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,FJERN DELVIS FYLT
+NEW,trade_order_normal,3149,(*X),(*X)
+NEW,trade_order_buy_on_sell_screen,3149,(BUY *X),(KJØP *X)
+NEW,trade_order_sell_on_buy_screen,3149,(SELL *X),(SELG *X)
+NEW,trade_order_sack_on_buy_screen,3149,(SACK *X),(SACK *X)
+NEW,techtree_researchpercent,3149,*X% Complete,*X% fullført
+NEW,tooltip_efficiency,3149,Efficiency +*X%,Effektivitet +*X%
+NEW,tooltip_activating,3149,Activating +*X%,Aktivering +*X%
+NEW,alert_type_lowdeuterium,3149,LOW DEUTERIUM,LAVT DEUTERIUM
+NEW,stargate_unknowncomponent,3149,Unknown Component,Ukjent komponent
+NEW,stargate_unknowncomponent_description,3149,Unlock this component through research!,Lås opp denne komponenten gjennom forskning!
+NEW,creditstitle_builders,3149,Ship Builders,Skipsbyggere
+NEW,creditstitle_testers,3149,Early Play Testing,Tidlig leketesting
+NEW,creditstitle_translators,3149,Translation,Oversettelse
+NEW,engine_thrust,3149,THRUST *X%,THRUST *X% %
+UPDATED,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + RMB] Konverter til Splitter
+PREVIOUS,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] Konverter til splitter
+UPDATED,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + RMB] Konverter til spor
+PREVIOUS,hud_convertsplittertotrack,3054,[RMB] Convert to track,[RMB] Konverter til spor
+UPDATED,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,Vi kan ikke frakte passasjerene til bestemmelsesstedet uten en FTL-reise. Dessverre er ikke dette skipet utstyrt med egen <b>FTL-drift</b>.\n\nVi må kjøpe en og sette den opp.
+PREVIOUS,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,Vi kan ikke frakte passasjerene til bestemmelsesstedet uten en FTL-reise. Dessverre er ikke dette skipet utstyrt med egen <b>FTL</b>-drift.\n\nVi må kjøpe en og sette den opp.
+PREVIOUS,tutorial_ftlintro,2803,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,Vi kan ikke frakte passasjerene til bestemmelsesstedet uten en FTL-reise. Dessverre er ikke dette skipet utstyrt med egen FTL-drift.\n\nVi må kjøpe en og sette den opp.
+UPDATED,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,Åpne handelsskjermen for å kjøpe en <b>FTL-drift</b> og noen <b>FTL-ladninger</b>.
+PREVIOUS,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,Åpne handelsskjermen for å kjøpe en <b>FTL</b>-drift.
+PREVIOUS,tutorial_ftltradescreen,2803,Open the trade screen to purchase an FTL drive.,Åpne handelsskjermen for å kjøpe en FTL-drift.
+UPDATED,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,INKLUDERER SKIP SOM LIGGER TIL KAI
+PREVIOUS,newmainmenu_includedocked,2803,INCLUDE DOCKED SHIPS IN EXPORT,INKLUDERE SKIP I DOKK I EKSPORTEN
+UPDATED,hud_layer_hostile,3149,HOSTILE *X,HOSTILE *X
+PREVIOUS,hud_layer_hostile,2803,HOSTILE,HOSTILE
+UPDATED,hud_layer_derelict,3149,DERELICT *X,DERELICT *X
+PREVIOUS,hud_layer_derelict,2803,DERELICT,DERELICT
+UPDATED,hud_layer_forsale,3149,[FOR SALE] *X,[TIL SALGS] *X
+PREVIOUS,hud_layer_forsale,2803,[FOR SALE],[TIL SALGS]
 CURRENT,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,Den ytre slitasjen får oss til å tro at de har vært her i minst et århundre. Denne sektoren må ha vært et av menneskehetens første forsøk på å kolonisere det ytre rom.
 CURRENT,techtree_node_caption_metallurgyrepeatable,3054,Spend research credits to continually increase our smelting efficiency.,Bruk forskningskreditter på å kontinuerlig øke smelteeffektiviteten vår.
 CURRENT,mainmenu_gamemode_arena,3054,Arena,Arena
@@ -293,6 +100,7 @@ CURRENT,survey_type_colony,3054,Colony,Koloni
 CURRENT,survey_title,3054,UNSURVEYED *X,USURVEYED *X
 CURRENT,survey_captionnone,3054,No survey in progress,Ingen undersøkelse pågår
 CURRENT,survey_captionsingle,3054,Surveyed by *X,Undersøkt av *X
+CURRENT,survey_captionmultiple,3054,*X layers surveying,*X lagoppmåling
 CURRENT,survey_local_noequipment,3054,NO SUPERCOMPUTERS INSTALLED,INGEN SUPERDATAMASKINER INSTALLERT
 CURRENT,survey_sector_title,3054,SECTOR SCAN,SECTOR SCAN
 CURRENT,survey_sector_nothingtoscan,3054,REGION FULLY SCANNED,REGION FULLSTENDIG SKANNET
@@ -351,6 +159,9 @@ CURRENT,alert_type_emp_caption,3054,*X piece(s) disabled,*X stykke(r) deaktivert
 CURRENT,alert_type_emp_tooltip,3054,"Your ship has been struck by lightning, temporarily disabling some of your equipment.","Skipet ditt har blitt truffet av lynet, noe som midlertidig har satt deler av utstyret ditt ut av spill."
 CURRENT,tutorial_radiation_title,3054,RADIATION,STRÅLING
 CURRENT,tutorial_radiationintro,3054,We are going to learn about radiation.,Vi skal lære om stråling.
+CURRENT,tutorial_radiationinstallinfuser,3054,A laser infuser has been delivered to your ship.\n\nLaser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area.,En laserinfuser har blitt levert til skipet ditt.\n\nLaserinfusere brukes til å lade tomme krystaller med Zeleon Gas og vil avgi stråling til omgivelsene mens de er strømførende.\n\nInstaller laserinfuseren på et fritt område.
+CURRENT,tutorial_radiationsetupinfuser,3054,An empty crystal and some zeleon energy cells have been delivered to your ship too.\n\nLet's set the laser infuser to use them to produce charged crystals.,En tom krystall og noen Zeleon Energy Cells har også blitt levert til skipet ditt.\n\nLa oss stille inn laserinfuseren til å bruke dem til å produsere ladede krystaller.
+CURRENT,tutorial_radiationwaitforinputs,3054,The laser infuser is set to start making charged crystals!\n\nLet's wait for it to begin charging crystals.\n\nDon't forget to power the Laser Infuser.,Laserinfusoren er klar til å begynne å lage ladede krystaller!\n\nLa oss vente på at den begynner å lade krystaller.\n\nIkke glem å slå på strømmen til laserinfusoren.
 CURRENT,tutorial_radiationselectoverlay,3054,The game has been set to a slower speed for now.\n\nRadiation is emitted in all directions away from the laser infuser.\n\nClick on the radiation overlay to view where your ship is irradiated.,Spillet er satt til en lavere hastighet inntil videre.\n\nStråling sendes ut i alle retninger bort fra laserinfusoren.\n\nKlikk på strålingsoverlegget for å se hvor skipet ditt er bestrålt.
 CURRENT,tutorial_radiationselectoverlay2,3054,"All green areas of your ship are safe for your crew, but the darker areas are dangerous.\n\nSpacesuits will protect your crew from being irradiated.","Alle grønne områder på skipet er trygge for mannskapet, men de mørkere områdene er farlige.\n\nRomdraktene beskytter mannskapet mot å bli bestrålt."
 CURRENT,tutorial_radiationinstallblockers,3054,"Radiation spread can be limited by special equipment called radiation blockers.\n\nInstall some blockers close to your laser infuser, leaving a small gap between the infuser and the blocker.\n\nIncrease the game speed when you are ready.","Strålingsspredningen kan begrenses ved hjelp av spesialutstyr som kalles strålingsblokkere.\n\nInstaller noen blokkere i nærheten av laserinfuseren, og la det være et lite mellomrom mellom infuseren og blokkeringen.\n\nØk spillhastigheten når du er klar."
@@ -360,9 +171,11 @@ CURRENT,tutorial_radiationsuccess,3054,"Well done, you have now learnt how radia
 CURRENT,tutorial_survey_title,3054,SECTOR SURVEYING,SEKTOROPPMÅLING
 CURRENT,tutorial_surveyintro,3054,"We are going to learn how to survey the area around your ship.\n\nThe first step is to scan the local area of the sector surrounding you ship using a <b>SECTOR SCAN</b>.\n\nIn Boldly Go, only the new sector can be surveyed.\n\nHyperspace sensors are required to do this.",Vi skal lære hvordan du kartlegger området rundt skipet ditt.\n\nDet første trinnet er å skanne det lokale området i sektoren rundt skipet ditt ved hjelp av en <b>SECTOR SCAN</b>.\n\nI Boldly Go er det bare den nye sektoren som kan kartlegges.\n\nHyperrom-sensorer er nødvendige for å gjøre dette.
 CURRENT,tutorial_surveyinstallsensors,3054,"Install Hyperspace Sensors or Hyperspace Sensor LRs onto one of your ships.\n\nThis tutorial will resume afterwards.\n\nIf you are playing the Boldly Go game mode, your ship must also be in the new sector.","Installer Hyperrom-sensorer eller Hyperrom-sensor LR på et av skipene dine.\n\nDenne opplæringen fortsetter etterpå.\n\nHvis du spiller spillmodusen Boldly Go, må skipet ditt også være i den nye sektoren."
+CURRENT,tutorial_surveystartsectorsurvey,3054,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan.,Sektorskanninger søker etter interessante områder i sektoren rundt systemet skipet ditt befinner seg i.\n\nSkanningen stopper etter at den er fullført. Bare ett lag i et system kan utføre en sektorskanning.\n\nKlikk på knappen for å starte en sektorskanning.
 CURRENT,tutorial_surveyhighlightsectorsurveysystem,3054,Hovering the mouse over the current system will reveal the radius around the system that is being scanned and the scan's progress toward finding new points of interest.\n\nOpen the <b>SECTOR MAP</b> and click <b>NEXT</b> to speed-up the survey.,"Hvis du holder musepekeren over det aktuelle systemet, vises radiusen rundt systemet som skannes, og skanningens fremdrift mot å finne nye interessepunkter.\n\nÅpne <b>SECTOR MAP</b> og klikk på <b>NEXT</b> for å øke hastigheten på undersøkelsen."
 CURRENT,tutorial_surveylocalsurveyintro,3054,The next step is to perform a <b>LOCAL SURVEY</b>.\n\nLocal surveys allow points of interest to be accessed via FTL.\n\nShips need to have super computers installed and must be in the same sector to participate in a local survey.,Neste trinn er å utføre en <b>LOKAL UNDERSØKELSE</b>.\n\nLokale undersøkelser gjør det mulig å få tilgang til interessante steder via FTL.\n\nSkip må ha Super Computer installert og må befinne seg i samme sektor for å kunne delta i en lokal undersøkelse.
 CURRENT,tutorial_surveyinstallcomputers,3054,Install a super-computer on one of your ships.\n\nThis tutorial will resume afterwards.,Installer en Super Computer på et av skipene dine.\n\nDenne veiledningen fortsetter etterpå.
+CURRENT,tutorial_surveystartlocalsurvey,3054,Areas of interest will expire after some time if they are not surveyed. Multiple layers can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,Interesseområder vil utløpe etter en tid hvis de ikke blir kartlagt. Flere lag kan bidra til en lokal undersøkelse.\n\nKlikk på interessepunktet for å starte den lokale undersøkelsen.
 CURRENT,tutorial_surveyoutro,3054,Click <b>NEXT</b> to speed-up the survey.,Klikk på <b>NESTE</b> for å øke hastigheten på undersøkelsen.
 CURRENT,tutorial_surveysuccess,3054,"A new system on the sector map has appeared for your fleet to explore!\n\nWell done, you have now learnt how to use sector surveying to find and explore new systems.\n\nKeep an eye out for special loot on surveyed derelict ships that can be researched by your science stations.","Et nytt system på sektorkartet har dukket opp som flåten din kan utforske!\n\nGodt gjort, du har nå lært hvordan du bruker sektoroppmåling til å finne og utforske nye systemer.\n\nHold utkikk etter spesialbytte på oppmålte forlatte skip som kan undersøkes av Vitenskapsstasjonene dine."
 CURRENT,bravenewsector_part1_x1,3054,Captain? Are you there?,Kaptein? Er du der?
@@ -373,6 +186,8 @@ CURRENT,bravenewsector_part2_title,3054,"Brave New Sector, Part 2","Brave New Se
 CURRENT,bravenewsector_part2_summary,3054,Uncover the history of the new sector.,Avdekk historien til den nye sektoren.
 CURRENT,bravenewsector_part2_x1,3054,"Hello again Captain, the Andromeda Project is very impressed with the samples you've sent them. They want your work on the Stargate to continue.","Hei igjen, kaptein. Andromeda-prosjektet er imponert over prøvene du har sendt dem. De vil at du skal fortsette arbeidet med stjerneporten."
 CURRENT,bravenewsector_part2_x3,3054,"I must warn you, there are rumours that their plan is to take the Stargate fully under their control. They will charge anyone who wants to use it a fortune, preventing any competition and harvesting all the resources in the new galaxy for themselves. They will become more powerful than any entity we have seen before.","Jeg må advare deg. Det går rykter om at planen deres er å ta full kontroll over stjerneporten. De vil kreve en formue av alle som ønsker å bruke den, forhindre enhver konkurranse og høste alle ressursene i den nye galaksen for seg selv. De vil bli mektigere enn noen annen enhet vi har sett før."
+CURRENT,bravenewsector_part2_x4,3054,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. The Stargate is too important and valuable for our species to be under their control.","Ikke la det skje, kaptein. Så mye av livet mitt og så mange av prosjektene mine har vært gjort for profitt. Stjerneporten er for viktig og verdifull til at vår art skal være under deres kontroll."
+CURRENT,bravenewsector_part2_x5,3054,I have installed a back-door that will cause the Stargate to self-destruct if you command it to. You must trigger it if the rumours are true.,Jeg har installert en bakdør som vil få stjerneporten til å ødelegge seg selv hvis du beordrer det. Du må utløse den hvis ryktene er sanne.
 CURRENT,bravenewsector_part2_x6,3054,"Unfortunately, I've been given some bad news, and I won't be around for much longer. I would like to give you full ownership of the foundry as a thank you for helping me finish this final project.","Dessverre har jeg fått dårlige nyheter, og jeg kommer ikke til å være her så mye lenger. Jeg vil gjerne gi deg fullt eierskap til støperiet som takk for at du hjalp meg med å fullføre dette siste prosjektet."
 CURRENT,bravenewsector_part2_x7,3054,It seems we have completed it just in time.,Det ser ut til at vi har fullført den akkurat i tide.
 CURRENT,bravenewsector_part2_x8,3054,"This is our final call, Captain. I wish you the best of luck. Thank you again, and goodbye.","Dette er vår siste samtale, kaptein. Jeg ønsker deg lykke til. Takk igjen, og farvel."
@@ -1006,6 +821,7 @@ CURRENT,wolf_part2_rescued,2803,Rescued *X/*Y crew,Reddet *X/*Y Mannskap
 CURRENT,blackhole_part1_intro3,2803,"An accident with our equipment has left my brother in dire need of a rescue, and I need your help.","En ulykke med utstyret vårt har ført til at broren min trenger hjelp, og jeg trenger din hjelp."
 CURRENT,blackhole_part1_setup3,2803,"The Stargate project funded our research from the beginning.  They buy all the data we can collect, and the closer we travel to the event horizon, the more data our sensors receive. Every mission, we'd push ourselves to go closer.","Stargate-prosjektet finansierte forskningen vår fra begynnelsen.  De kjøper alle data vi kan samle inn, og jo nærmere vi reiser til hendelseshorisonten, desto mer data får sensorene våre. For hvert oppdrag presset vi oss selv til å komme nærmere."
 CURRENT,blackhole_part1_setup6b,2803,"Using a modified FTL Drive you'll do one hyperspace hop toward the black hole, rescue my brother Marcus, then turn around and hop right out.  It will be dangerous, but it's the only way to avoid being dragged in ourselves.","Ved hjelp av en modifisert FTL-drift gjør dere ett hyperromhopp mot det svarte hullet, redder min bror Marcus, snur og hopper rett ut.  Det blir farlig, men det er den eneste måten å unngå å bli dratt inn selv."
+CURRENT,blackhole_part1_setup7,2803,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop first.","Jeg trenger materialer for å syntetisere ressursene vi trenger.  Du kan hjelpe meg med dette, mens jeg jobber med utregningene. Jeg trenger Hyperspace Isotopes - du burde kunne samle dem lett nok, men du må skaffe deg en Hyperspace Scoop først."
 CURRENT,blackhole_part1_setup7b,2803,You'll then need to use a Loader to start unloading the isotopes into containers.,Deretter må du bruke en Laster for å begynne å losse isotopene i beholdere.
 CURRENT,blackhole_part1_setup8,2803,I'm building the Hyperspace FTL drive that will allow you to perform the hop.  It's going to need some modifications.  I'll need you to manufacture some parts for me. I know you have manufacturing facilities near the Stargate project.  You should be able to make these parts for me without too much trouble.,Jeg bygger Hyperspace FTL-driften som lar deg utføre hoppet.  Den trenger noen modifikasjoner.  Du må produsere noen deler for meg. Jeg vet du har produksjonsanlegg i nærheten av Stargate-prosjektet.  Du burde kunne lage disse delene for meg uten for mye problemer.
 CURRENT,blackhole_objective_scoop,2803,Acquire a Hyperspace Scoop,Skaff deg en Hyperspace Scoop
@@ -1612,11 +1428,10 @@ CURRENT,hud_endcreativemodewarning,2803,LEAVING CREATIVE MODE,FORLATER KREATIV M
 CURRENT,hud_endcreativemodefull,2803,Creative Mode will end when you jump to hyperspace,Kreativ modus avsluttes når du hopper til hyperrommet
 CURRENT,hud_hyperspace,2803,HYPERSPACE,HYPERSPACE
 CURRENT,hud_deselectlayer,2803,DESELECT SHIP,DESELECT SHIP
-CURRENT,hud_gun_port,3205,Port *X,*X på babord side
-CURRENT,hud_gun_forward,3205,Forward *X,*X forut
-CURRENT,hud_gun_starboard,3205,Starboard *X,*X på styrbord side
-CURRENT,hud_gun_aft,3205,Aft *X,*X akterut
-CURRENT,hud_gun_gattling,3205,PDC,PDS
+CURRENT,hud_direction_up,2803,Port,Havn
+CURRENT,hud_direction_right,2803,Forward,Fremover
+CURRENT,hud_direction_down,2803,Starboard,Styrbord
+CURRENT,hud_direction_left,2803,Aft,Akter
 CURRENT,hud_enabled,2803,Enabled,Aktivert
 CURRENT,hud_disabled,2803,Disabled,Deaktivert
 CURRENT,hud_window_construction,2803,CONSTRUCTION,KONSTRUKSJON
@@ -2508,6 +2323,7 @@ CURRENT,recipe_duration,2803,Duration: *X seconds,Varighet: *X sekunder
 CURRENT,recipe_quantity_required,2803,*X x *Y,*X x *Y
 CURRENT,stargate_energy_required,2803,REQUIRED: *X MW,NØDVENDIG: *X MW
 CURRENT,stargate_energy_received,2803,RECEIVED: *X MW,MOTTATT: *X MW
+CURRENT,stargate_power_fraction,2803,SUPPLIED:\n*X MW / *Y MW,LEVERES:\n*X MW / *Y MW
 CURRENT,stargate_power_button,2803,START,START
 CURRENT,stargate_powered_off,2803,POWERED OFF,SLÅTT AV
 CURRENT,stargate_warming_up,2803,WARMING UP,OPPVARMING
@@ -2930,6 +2746,7 @@ CURRENT,tutorial_dsidismantletitle,2803,DISMANTLING,AVMONTERING
 CURRENT,tutorial_dsismelterrecipes,2803,RECIPES,OPPSKRIFTER
 CURRENT,tutorial_stargatewindowopenwindow,2803,Select the Stargate button in your toolbar to open the Stargate screen.,Velg Stjerneport-knappen i verktøylinjen for å åpne Stjerneport-skjermbildet.
 CURRENT,tutorial_stargatewindowintro,2803,The Stargate screen displays everything you need to manufacture to complete the current phase.,Stargate-skjermen viser alt du trenger å produsere for å fullføre den aktuelle fasen.
+CURRENT,tutorial_stargatewindowhighlightcomponent,2803,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,"Hver komponent du trenger for å produsere, er til venstre.\nNår du plasserer musen over ikonet for en komponent, ser du hvordan du produserer den."
 CURRENT,tutorial_stargatewindowhighlightphases,2803,"The Stargate's construction is split into phases, with each phase requiring more and more resources.\nYou have just completed Phase 1.","Stjerneportens konstruksjon er delt inn i faser, og hver fase krever mer og mer ressurser.\nDu har nettopp fullført fase 1."
 CURRENT,tutorial_stargatewindowhighlightphase2,2803,Select Phase 2 to see what you need to manufacture for this phase.,Velg Fase 2 for å se hva du trenger å produsere for denne fasen.
 CURRENT,tutorial_stargatewindowclosewindow,2803,You can now close the Stargate screen.,Du kan nå lukke Stargate-skjermen.
@@ -3017,37 +2834,6 @@ CURRENT,dsi_part2_scene_z4,2803,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2803,THERE WILL BE NO FURTHER WARNING.,VIL DET IKKE KOMME FLERE ADVARSLER.
 CURRENT,dsi_part2_scene_y7,2803,You've left me no choice.,Du har ikke gitt meg noe valg.
 CURRENT,dsi_part2_scene_y8,2803,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Jeg kommer etter deg, Alexander, og denne gangen ber jeg ikke om 10 %. Jeg vil ha alt."
-OBSOLETE,thefinalstand_harken2,3239,"My scientists and officers have analysed the blueprints of the Stargate project, provided to us by the late Alexander James Elistar.","Mine forskere og offiserer har analysert tegningene til Stargate-prosjektet, som vi fikk av avdøde Alexander James Elistar."
-OBSOLETE,thefinalstand_harken3,3239,"The Andromeda Project has moved their HQ and all key personell into an unknown location in the new sector, where we believe they are controlling the Stargate.","Andromeda-prosjektet har flyttet hovedkvarteret og alt nøkkelpersonell til et ukjent sted i den nye sektoren, hvor vi tror de kontrollerer stjerneporten."
-OBSOLETE,thefinalstand_harken4,3239,"Elistar has left you with a backdoor into the Stargate's security systems, compromising all devices controlling it and providing us with direct access to the Andromeda Project's systems.","Elistar har gitt deg en bakdør inn i Stargates sikkerhetssystemer, kompromittert alle enheter som kontrollerer den og gitt oss direkte tilgang til Andromeda-prosjektets systemer."
-OBSOLETE,thefinalstand_harken5,3239,"Any and all damage to the HQ should be avoided. Many innocent lives are on-board that HQ, the loss of life from destroying it would be far too great. You will upload a virus to their command centre and disable the station's offensive capabilities.","All skade på hovedkvarteret bør unngås. Mange uskyldige liv er om bord i hovedkvarteret, og tapet av liv ved å ødelegge det vil være altfor stort. Du vil laste opp et virus til kommandosenteret deres og deaktivere stasjonens offensive evner."
-OBSOLETE,thefinalstand_harken6,3239,"While you are doing this, my fleet will fight off the Andromeda Project navy. Once the battle is over, I will take control of the HQ and arrest everyone involved. Their conglomerate will be dismantled.","Mens du gjør dette, vil flåten min kjempe mot Andromeda-prosjektets marine. Når slaget er over, tar jeg kontroll over hovedkvarteret og arresterer alle involverte. Konglomeratet deres vil bli demontert."
-OBSOLETE,thefinalstand_boss_harken2,3239,"The previous ships were private security, this one is the Andromeda Navy's flagship! You should have access to its command centre from the HQ.","De forrige skipene var private sikkerhetsstyrker, dette er Andromeda-flåtens flaggskip! Du bør ha tilgang til kommandosenteret fra hovedkvarteret."
-OBSOLETE,industryend_message,3239,"After capturing the Andromeda HQ, Harken and the Intergalactic Security Council dismantled the Andromeda Project conglomerate.  The control of the Stargate was left in the hands of the Captain that built it.  Humanity's journey across the universe has only just begun...","Etter å ha erobret Andromedas hovedkvarter, oppløste Harken og Det intergalaktiske sikkerhetsrådet Andromeda-prosjektets konglomerat.  Kontrollen over stjerneporten ble overlatt til kapteinen som hadde bygget den.  Menneskehetens reise gjennom universet har bare så vidt begynt..."
-OBSOLETE,bravenewsector_part4_rep9,3239,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy the Andromeda.,"Hallo, kaptein. Den nylig fullførte stjerneporten har gitt Andromeda-prosjektet makt til å kontrollere ressurs- og menneskestrømmen mellom denne galaksen og Andromeda."
-OBSOLETE,thefinalstand_battleprep_1,3239,"Hello Captain, it's good to see you. This is all of the ships I control in this sector, the rest are on the other side of the Stargate, unable to reach us.","Hei, kaptein. Godt å se deg. Dette er alle skipene jeg kontrollerer i denne sektoren. Resten er på den andre siden av stjerneporten."
-OBSOLETE,thefinalstand_battle_rep1,3239,Commander Harken! I see that my first fleet failed to deal you. I suppose if I want something done properly I should do it myself.,"Kommandør Harken! Jeg ser at min første flåte ikke klarte å ta deg. Hvis jeg vil ha noe gjort skikkelig, bør jeg vel gjøre det selv."
-OBSOLETE,hud_consumingperhour,3149,Consuming *X per hour,Forbruker *X per time
-OBSOLETE,survey_captionmultiple,3054,*X layers surveying,*X lagoppmåling
-OBSOLETE,tutorial_radiationinstallinfuser,3054,A laser infuser has been delivered to your ship.\n\nLaser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area.,En laserinfuser har blitt levert til skipet ditt.\n\nLaserinfusere brukes til å lade tomme krystaller med Zeleon Gas og vil avgi stråling til omgivelsene mens de er strømførende.\n\nInstaller laserinfuseren på et fritt område.
-OBSOLETE,tutorial_radiationsetupinfuser,3054,An empty crystal and some zeleon energy cells have been delivered to your ship too.\n\nLet's set the laser infuser to use them to produce charged crystals.,En tom krystall og noen Zeleon Energy Cells har også blitt levert til skipet ditt.\n\nLa oss stille inn laserinfuseren til å bruke dem til å produsere ladede krystaller.
-OBSOLETE,tutorial_radiationwaitforinputs,3054,The laser infuser is set to start making charged crystals!\n\nLet's wait for it to begin charging crystals.\n\nDon't forget to power the Laser Infuser.,Laserinfusoren er klar til å begynne å lage ladede krystaller!\n\nLa oss vente på at den begynner å lade krystaller.\n\nIkke glem å slå på strømmen til laserinfusoren.
-OBSOLETE,tutorial_surveystartsectorsurvey,3054,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan.,Sektorskanninger søker etter interessante områder i sektoren rundt systemet skipet ditt befinner seg i.\n\nSkanningen stopper etter at den er fullført. Bare ett lag i et system kan utføre en sektorskanning.\n\nKlikk på knappen for å starte en sektorskanning.
-OBSOLETE,tutorial_surveystartlocalsurvey,3054,Areas of interest will expire after some time if they are not surveyed. Multiple layers can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,Interesseområder vil utløpe etter en tid hvis de ikke blir kartlagt. Flere lag kan bidra til en lokal undersøkelse.\n\nKlikk på interessepunktet for å starte den lokale undersøkelsen.
-OBSOLETE,bravenewsector_part2_x4,3054,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. The Stargate is too important and valuable for our species to be under their control.","Ikke la det skje, kaptein. Så mye av livet mitt og så mange av prosjektene mine har vært gjort for profitt. Stjerneporten er for viktig og verdifull til at vår art skal være under deres kontroll."
-OBSOLETE,bravenewsector_part2_x5,3054,I have installed a back-door that will cause the Stargate to self-destruct if you command it to. You must trigger it if the rumours are true.,Jeg har installert en bakdør som vil få stjerneporten til å ødelegge seg selv hvis du beordrer det. Du må utløse den hvis ryktene er sanne.
-OBSOLETE,blackhole_part1_setup7,2803,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop first.","Jeg trenger materialer for å syntetisere ressursene vi trenger.  Du kan hjelpe meg med dette, mens jeg jobber med utregningene. Jeg trenger Hyperspace Isotopes - du burde kunne samle dem lett nok, men du må skaffe deg en Hyperspace Scoop først."
-OBSOLETE,stargate_power_fraction,2803,SUPPLIED:\n*X MW / *Y MW,LEVERES:\n*X MW / *Y MW
-OBSOLETE,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] Konverter til splitter
-OBSOLETE,hud_convertsplittertotrack,3054,[RMB] Convert to track,[RMB] Konverter til spor
-OBSOLETE,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,Vi kan ikke frakte passasjerene til bestemmelsesstedet uten en FTL-reise. Dessverre er ikke dette skipet utstyrt med egen <b>FTL</b>-drift.\n\nVi må kjøpe en og sette den opp.
-OBSOLETE,tutorial_ftlintro,2803,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,Vi kan ikke frakte passasjerene til bestemmelsesstedet uten en FTL-reise. Dessverre er ikke dette skipet utstyrt med egen FTL-drift.\n\nVi må kjøpe en og sette den opp.
-OBSOLETE,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,Åpne handelsskjermen for å kjøpe en <b>FTL</b>-drift.
-OBSOLETE,tutorial_ftltradescreen,2803,Open the trade screen to purchase an FTL drive.,Åpne handelsskjermen for å kjøpe en FTL-drift.
-OBSOLETE,newmainmenu_includedocked,2803,INCLUDE DOCKED SHIPS IN EXPORT,INKLUDERE SKIP I DOKK I EKSPORTEN
-OBSOLETE,hud_layer_hostile,2803,HOSTILE,HOSTILE
-OBSOLETE,hud_layer_derelict,2803,DERELICT,DERELICT
-OBSOLETE,hud_layer_forsale,2803,[FOR SALE],[TIL SALGS]
 OBSOLETE,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,Den ytre slitasjen får oss til å tro at de har vært her i minst et århundre. Denne sektoren må ha vært et av menneskehetens første forsøk på å kolonisere det ytre rom.
 OBSOLETE,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.","Aktiver funksjoner som hjelper oversettere, for eksempel Alt for å vise engelsk og Ctrl for å vise frasenøkkelen."
 OBSOLETE,techtree_node_title_robotarmspeed,2803,Robot Arm Speed,Robotarmens hastighet

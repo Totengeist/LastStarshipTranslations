@@ -1,253 +1,60 @@
 ﻿state,key,svn,english,translation
-UPDATED,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,"Elk onderdeel dat je moet maken staat aan de rechterkant.\nAls je met de muis op het pictogram van een onderdeel gaat staan, zie je hoe je het moet maken."
-PREVIOUS,tutorial_stargatewindowhighlightcomponent,2593,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,"Elk onderdeel dat je moet maken staat aan de linkerkant.\nAls je met de muis op het pictogram van een onderdeel gaat staan, zie je hoe je het moet maken."
-CURRENT,logistics_tooltip_skiporder,3248,Skip currently executing order,Huidige order overslaan
-CURRENT,logistics_tooltip_loop,3248,Loop execution,Lusuitvoering
-CURRENT,thefinalstand_artemis1,3248,Hello again Captain!,Nogmaals hallo kapitein!
-CURRENT,thefinalstand_artemis2,3248,"After some careful analysis of the Stargate's blueprints, I have found the backdoor that the late Alexander James Elistar has left you.",Na zorgvuldige analyse van de blauwdrukken van de Sterrenpoort heb ik de achterdeur gevonden die wijlen Alexander James Elistar jullie heeft nagelaten.
-CURRENT,thefinalstand_artemis3,3248,You will use this backdoor to upload a small virus that I have written to their command centre within the HQ. It will disable the station's offensive capabilities and place itself under your command.,Je gebruikt deze achterdeur om een klein virus dat ik heb geschreven te uploaden naar hun commandocentrum in het hoofdkwartier. Het zal de offensieve capaciteiten van het station uitschakelen en zichzelf onder jouw commando plaatsen.
-CURRENT,thefinalstand_boss_artemis1,3248,"Captain, I can route a signal to their powergrid and overload their generators, tell me when to trigger it!","Kapitein, ik kan een signaal naar hun elektriciteitsnet sturen en hun generatoren overbelasten, vertel me wanneer ik het signaal moet afgeven!"
-CURRENT,thefinalstand_end_objective_leave,3248,Leave the HQ,Verlaat het hoofdkwartier
-CURRENT,thefinalstand_harken2,3248,"The Andromeda Project has moved their HQ and all key personell into an unknown location in the new sector, where we believe they are controlling the Stargate.","Het Andromeda Project heeft zijn hoofdkwartier en al het belangrijke personeel verplaatst naar een onbekende locatie in de nieuwe sector, waar we denken dat ze de Sterrenpoort controleren."
-CURRENT,thefinalstand_harken3,3248,"My plan is to use our fleets to take control of the HQ by force. Any and all damage to the HQ should be avoided, many innocent lives are on-board and the loss of life from destroying it would be far too great.\nI have devised a plan with an old friend of yours that should minimise casualties...","Mijn plan is om onze vloten te gebruiken om het hoofdkwartier met geweld over te nemen. Alle schade aan het hoofdkwartier moet worden vermeden, er zijn veel onschuldige levens aan boord en het verlies aan levens door het te vernietigen zou veel te groot zijn.\nIk heb samen met een oude vriend van je een plan bedacht dat het aantal slachtoffers zou moeten minimaliseren..."
-CURRENT,thefinalstand_harken4,3248,"While you neutralise the HQ, my fleet will fight off the Andromeda Project navy. Once the battle is over, I will take control of the HQ and arrest everyone involved. Their conglomerate will be dismantled.","Terwijl jij het hoofdkwartier neutraliseert, vecht mijn vloot tegen de marine van het Andromeda Project. Als de strijd voorbij is, neem ik de controle over het hoofdkwartier over en arresteer ik alle betrokkenen. Hun conglomeraat zal worden ontmanteld."
-CURRENT,thefinalstand_harken5,3248,The Stargate will fall back into your sole control. I've marked an allied shipyard on your map. I'll hide out there in the mean-time.,De Sterrenpoort valt weer onder jullie exclusieve controle. Ik heb een geallieerde scheepswerf op jullie kaart gemarkeerd. Ik zal me daar ondertussen verstoppen.
-CURRENT,thefinalstand_harken6,3248,Meet me to discuss the plan further. Goodbye for now.,Ontmoet me om het plan verder te bespreken. Tot ziens voor nu.
-CURRENT,thefinalstand_boss_harken2,3248,This is the Andromeda Navy's flagship! You should have access to its command centre from the HQ!,Dit is het vlaggenschip van de Andromeda marine! Je zou toegang moeten hebben tot het commandocentrum vanuit het hoofdkwartier!
-CURRENT,industryend_message,3248,"Now the Andromeda HQ has been captured, Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind spreads beyond our home galaxy and into the future.","Nu het hoofdkwartier van Andromeda is veroverd, zullen Harken en de Intergalactische Veiligheidsraad het Andromeda Project conglomeraat ontmantelen en de controle over de Sterrenpoort terugwinnen, ten voordele van de hele mensheid.  Een nieuw hoofdstuk is begonnen, terwijl de mensheid zich uitbreidt tot buiten ons eigen sterrenstelsel en in de toekomst."
-CURRENT,bravenewsector_part4_rep9,3244,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy and the Andromeda galaxy.,Hallo Kapitein. De pas voltooide Sterrenpoort heeft het Andromeda Project in een machtige positie gebracht om de stroom van grondstoffen en mensen tussen dit sterrenstelsel en het Andromeda sterrenstelsel te controleren.
-CURRENT,thefinalstand_battleprep_1,3244,"Hello Captain, it's good to see you. These are all of the ships I control in this sector, the rest are on the other side of the Stargate, unable to reach us.","Hallo kapitein, goed je te zien. Dit zijn alle schepen die ik controleer in deze sector, de rest is aan de andere kant van de Sterrenpoort en kan ons niet bereiken."
-CURRENT,thefinalstand_battle_rep1,3244,Commander Harken! I see that my first fleet has failed to deal with you. I suppose if I want something done properly I should do it myself.,"Commandant Harken! Ik zie dat mijn eerste vloot er niet in is geslaagd om met u af te rekenen. Ik neem aan dat als ik iets goed wil doen, ik het zelf moet doen."
-CURRENT,newmainmenu_continue,3239,CONTINUE GAME,SPEL VOORTZETTEN
-CURRENT,hud_ftlshipblockedfromftl,3239,Ship cannot enter hyperspace with your fleet,Schip kan niet de hyperruimte in met je vloot
-CURRENT,hud_window_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,INTERSTELLAIRE LOGISTIEK
-CURRENT,andromeda_travel,3239,ANDROMEDA JOURNEY,ANDROMEDAREIS
-CURRENT,trade_autohireat,3239,HIRE BELOW,AAN HUUR
-CURRENT,trade_autosackat,3239,SACK ABOVE,ZAK BOVEN
-CURRENT,trade_autoembarkat,3239,EMBARK BELOW,ONTDEKKEN
-CURRENT,trade_autodisembarkat,3239,DISEMBARK BELOW,HIERONDER VAN BOORD GAAN
-CURRENT,trade_tooltip_hire,3239,[LMB] Hire,[LMB] Huren
-CURRENT,trade_tooltip_embark,3239,[LMB] Embark,[LMB] Inschepen
-CURRENT,trade_tooltip_disembark,3239,[LMB] Disembark,[LMB] Van boord gaan
-CURRENT,trade_hiring,3239,Hiring *X,Inhuren *X
-CURRENT,trade_embarking,3239,Embarking *X,Inschepen *X
-CURRENT,trade_disembarking,3239,Disembarking *X,Uitstappen *X
-CURRENT,trade_order_hire_on_sell_screen,3239,(HIRE *X),(AANHUUR *X)
-CURRENT,trade_order_embark_on_sell_screen,3239,(EMBARK *X),(EMBARK *X)
-CURRENT,trade_order_disembark_on_buy_screen,3239,(DISEMBARK *X),(VERWIJDER *X)
-CURRENT,trade_hire,3239,HIRE,INHUREN
-CURRENT,trade_embark,3239,EMBARK,EMBARK
-CURRENT,trade_disembark,3239,DISEMBARK,VERWIJDER
-CURRENT,techtree_node_title_atmosphericprocessing,3239,Atmospheric Processing,Atmosferische verwerking
-CURRENT,techtree_node_caption_atmosphericprocessing,3239,Unlocks schematics for hardware required to maintain a breathable atmosphere,Ontgrendelt schema's voor hardware die nodig is om een ademende atmosfeer te handhaven
-CURRENT,techtree_node_title_atmosphericprocessing2,3239,Atmospheric Processing 2,Atmosferische verwerking 2
-CURRENT,techtree_node_caption_atmosphericprocessing2,3239,Unlocks more schematics for hardware required to maintain a breathable atmosphere,Ontgrendelt meer schema's voor hardware die nodig is om een ademende atmosfeer te handhaven
-CURRENT,techtree_node_title_wasteprocessing,3239,Waste Processing,Afvalverwerking
-CURRENT,techtree_node_caption_wasteprocessing,3239,Unlocks schematics for hardware to capture and reprocess human waste,Ontgrendelt schema's voor hardware om menselijk afval op te vangen en te verwerken
-CURRENT,special_advancedlogistics,3239,Interstellar Logistics,Interstellaire logistiek
-CURRENT,tactical_dockingassistant,3239,DOCKING ASSIST,DOKHULP
-CURRENT,tactical_fleetformation,3239,FLEET FORMATION,VLOOTFORMATIE
-CURRENT,tactical_fleetcombat,3239,FLEET COMBAT AI,VLOOTGEVECHT AI
-CURRENT,tactical_on,3239,ON,OP
-CURRENT,tactical_off,3239,OFF,UIT
-CURRENT,tactical_tooltip_dockingassistant,3239,"When enabled, the Docking Assistant will perform the final maneuovers required to dock your ship with another, once you are close enough.\n\nIt is recommended you disable Fleet Formation when attempting to dock.","Als dit is ingeschakeld, zal de Docking Assistant de laatste manoeuvres uitvoeren die nodig zijn om je schip aan een ander schip te koppelen, zodra je dicht genoeg in de buurt bent.\n\nHet wordt aanbevolen om Vlootvorming uit te schakelen als je probeert te koppelen."
-CURRENT,tactical_tooltip_fleetformation,3239,"When enabled, all of the fleet ships within a system will fly together in close formation, following the lead of whichever ship you are directly controlling.","Als dit is ingeschakeld, vliegen alle vlootschepen binnen een systeem samen in een hechte formatie, waarbij ze de leiding volgen van het schip dat je rechtstreeks bestuurt."
-CURRENT,tactical_tooltip_fleetcombat,3239,"When enabled, your other fleet ships will take care of themselves during combat, moving to optimal range and engaging as best they can.","Als dit is ingeschakeld, zorgen je andere vlootschepen voor zichzelf tijdens gevechten, gaan ze naar een optimaal bereik en vallen ze zo goed mogelijk aan."
-CURRENT,tactical_tooltip_weapon,3239,[LMB] Select weapon\n[SHIFT-LMB] Select multiple weapons\n[RMB] Clear current target,[LMB] Selecteer wapen\n[SHIFT-LMB] Selecteer meerdere wapens\n[RMB] Wis huidig doelwit
-CURRENT,tactical_tooltip_auto,3239,AUTO-TARGETTING\n[LMB] Enable auto-targetting\n[RMB] Disable auto-targetting,AUTO-TARGETTING\n[LMB] Automatisch richten inschakelen\n[RMB] Automatisch richten uitschakelen
-CURRENT,logistics_tooltip_add,3239,[LMB] Add,[LMB] Toevoegen
-CURRENT,logistics_tooltip_remove_rmb,3239,[RMB] Remove,[RMB] Verwijderen
-CURRENT,logistics_tooltip_cancel,3239,[RMB] Cancel,[RMB] Annuleren
-CURRENT,logistics_tooltip_shift,3239,[SHIFT] x5,[SHIFT] x5
-CURRENT,logistics_tooltip_control,3239,[CTRL] x50,[CTRL] x50
-CURRENT,advancedlogisticswindow_title,3239,INTERSTELLAR LOGISTICS,INTERSTELLAIRE LOGISTIEK
-CURRENT,logistics_system_select,3239,LOCATION,LOCATIE
-CURRENT,logistics_create_order,3239,Create Order,Bestel maken
-CURRENT,logistics_loop,3239,Loop,Lus
-CURRENT,logistics_order_none,3239,Order Type,Type bestelling
-CURRENT,logistics_order_mine,3239,Mine,Mijn
-CURRENT,logistics_order_collect,3239,Collect Gas,Gas verzamelen
-CURRENT,logistics_order_buy,3239,Buy,Kopen
-CURRENT,logistics_order_sell,3239,Sell,Verkoop
-CURRENT,logistics_order_transferto,3239,Transfer To,Overbrengen naar
-CURRENT,logistics_order_transferfrom,3239,Transfer From,Overschrijving Van
-CURRENT,logistics_condition_none,3239,Amount,Bedrag
-CURRENT,logistics_condition_quantity,3239,Quantity,Hoeveelheid
-CURRENT,logistics_condition_stacks,3239,Stacks,Stapels
-CURRENT,logistics_condition_containers,3239,Containers,Containers
-CURRENT,logistics_condition_allbut,3239,All But,Alles behalve
-CURRENT,logistics_condition_storagefull,3239,Until Storage Full,Tot opslag vol
-CURRENT,logistics_condition_all,3239,All Available,Alle beschikbare
-CURRENT,logistics_condition_time,3239,Minutes,Notulen
-CURRENT,logistics_transferto_none,3239,DESTINATION SHIP,BESTEMMINGSSCHIP
-CURRENT,logistics_transferfrom_none,3239,SOURCE SHIP,BRON SCHIP
-CURRENT,logistics_item_none,3239,Select Item,Item Kiezen
-CURRENT,logistics_stuck_default,3239,Orders stuck,Bestellingen blijven steken
-CURRENT,logistics_stuck_invalidsystem,3239,System S*X does not exist,Systeem S*X bestaat niet
-CURRENT,logistics_stuck_invalidlayer,3239,Ship L*X does not exist,Schip L*X bestaat niet
-CURRENT,logistics_stuck_equipment,3239,L*X does not have a working R*Y,L*X heeft geen werkende R*Y
-CURRENT,logistics_stuck_resources,3239,L*X does not have any R*Ys,L*X heeft geen R*Ys
-CURRENT,logistics_stuck_patches,3239,System S*X does not have any R*Y to mine,Systeem S*X heeft geen R*Y naar Mijn
-CURRENT,logistics_stuck_gas,3239,System S*X does not have any R*Y to collect,Systeem S*X heeft geen R*Y om te verzamelen
-CURRENT,logistics_stuck_tradingpost,3239,System S*X does not have a trading post,Systeem S*X heeft geen handelspost
-CURRENT,logistics_stuck_resourcestosell,3239,L*X does not have any R*Y to sell,L*X heeft geen R*Y om te verkopen
-CURRENT,logistics_stuck_stargate,3239,Stargate is not ready for jump,Sterrenpoort is niet klaar voor sprong
-CURRENT,logistics_status_notrunning,3239,No order currently running,Momenteel loopt er geen bestelling
-CURRENT,logistics_status_travelling,3239,Travelling to system S*X,Reizen naar systeem S*X
-CURRENT,logistics_status_mining,3239,Mined *X R*Y,Mijn *X R*Y
-CURRENT,logistics_status_miningstacks,3239,(*X/*Y stacks),(*X/*Y stapels)
-CURRENT,logistics_status_miningstacks1,3239,(*X stacks),(*X stapels)
-CURRENT,logistics_status_collect,3239,Collected *X R*Y,Verzameld *X R*Y
-CURRENT,logistics_status_collectcontainers,3239,(*X/*Y containers),(*X/*Y containers)
-CURRENT,logistics_status_collectcontainers1,3239,(*X containers),(*X containers)
-CURRENT,logistics_status_transferto,3239,Transfering *X R*Y to L*Z,*X R*Y overbrengen naar L*Z
-CURRENT,logistics_status_transferfrom,3239,Transfering *X R*Y from L*Z,*X R*Y overbrengen van L*Z
-CURRENT,logistics_status_buy,3239,Bought *X R*Y for $*Z,Ik heb *X R*Y gekocht voor $*Z
-CURRENT,logistics_status_sell,3239,Sold *X R*Y for $*Z,Verkocht *X R*Y voor $*Z
-CURRENT,logistics_status_notlooping,3239,Finished execution (not looping),Voltooide uitvoering (niet in lus)
-CURRENT,logistics_status_time1,3239,in *X:*Y,in *X:*Y
-CURRENT,logistics_status_time2,3239,in *X:0*Y,in *X:0*Y
-CURRENT,logistics_status_time3,3239,in 0*X:*Y,in 0*X:*Y
-CURRENT,logistics_status_time4,3239,in 0*X:0*Y,in 0*X:0*Y
-CURRENT,order_advancedlogistics,3239,Interstellar Logistics,Interstellaire logistiek
-CURRENT,mission_objective_done,3239,DONE,GEDAAN
-CURRENT,alert_type_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,INTERSTELLAIRE LOGISTIEK
-CURRENT,alert_type_interstellarlogistics_caption,3239,Orders stuck,Bestellingen blijven steken
-CURRENT,stargate_startandromedajump,3239,TEST ANDROMEDA JUMP,TEST ANDROMEDA SPRONG
-CURRENT,stargate_power_tooltip,3239,POWER REQUIRED: *X MW,BENODIGD VERMOGEN: *X MW
-CURRENT,stargate_distance_travelled,3239,*X kly REMAINING,*X kly resterend
-CURRENT,stargate_journey_completed,3239,*X% COMPLETED,*X% VOLTOOID
-CURRENT,stargate_sell,3239,SELL ALL (*X FOR *Y),ALLES VERKOPEN (*X VOOR *Y)
-CURRENT,stargate_price_per_unit,3239,*X PER UNIT,*X PER EENHEID
-CURRENT,stargate_total_price,3239,*X TOTAL,*X TOTAAL
-CURRENT,stargate_award_complete_title,3239,STARGATE COMPLETED,STERRENPOORT VOLTOOID
-CURRENT,stargate_award_complete_subtitle,3239,All phases completed,Alle fasen voltooid
-CURRENT,tutorial_radiationselectfriendly,3239,"First, select a friendly ship with a laser infuser available.",Selecteer eerst een vriendelijk schip met een beschikbare Laser.
-CURRENT,blackhole_objective_tank,3239,Acquire a Storage Tank,Een opslagtank verwerven
-CURRENT,blackhole_objective_storagetank,3239,Connect a tank to the Hyperspace Scoop,Sluit een tank aan op de Hyperspace Schep
-CURRENT,blackhole_objective_loader,3239,Connect a Loader to the tank,Sluit een Lader aan op de tank
-CURRENT,blackhole_objective_unloadloader,3239,Set the Loader to UNLOAD,Zet de Lader op UNLOAD
-CURRENT,dsi_part2_dogmavessel1,3239,D.O.G.M.A Spartan,D.O.G.M.A Spartaan
-CURRENT,dsi_part2_dogmavessel2,3239,D.O.G.M.A Citadel,D.O.G.M.A Citadel
-CURRENT,dsi_part2_dogmavessel3,3239,D.O.G.M.A Centurion,D.O.G.M.A Centurion
-CURRENT,bravenewsector_part4_title,3239,"Brave New Sector, Part 4","Brave New Sector, deel 4"
-CURRENT,bravenewsector_part4_summary,3239,Complete the final test.,Voltooi de eindtest.
-CURRENT,bravenewsector_part4_intro,3239,"Captain, preparations have concluded for the final Stargate test. We are ready to send a ship to the Andromeda Galaxy. Please call us when you are ready.","Kapitein, de voorbereidingen voor de laatste Stargate-test zijn afgerond. We zijn klaar om een schip naar het Andromedastelsel te sturen. Roep ons als je klaar bent."
-CURRENT,bravenewsector_part4_call_action,3239,Call the Representative,Bel de vertegenwoordiger
-CURRENT,bravenewsector_part4_rep1,3239,The materials you provided to us have been fitted to the Stargate. It is fully functional and ready to test.,De materialen die je ons hebt gegeven zijn in de Sterrenpoort geplaatst. Hij is volledig functioneel en klaar om te testen.
-CURRENT,bravenewsector_part4_rep2,3239,This is a monumental moment in the history of our species. If this test is successful the Andromeda Project will be the first entity to send mankind to another galaxy.,"Dit is een monumentaal moment in de geschiedenis van onze soort. Als deze test slaagt, zal het Andromeda Project de eerste entiteit zijn die de mensheid naar een ander sterrenstelsel stuurt."
-CURRENT,bravenewsector_part4_rep3,3239,"Captain, you will need to begin the test and provide power for the entire journey so our test ship can reach the Andromeda Galaxy. This will require a significant amount of energy, more than what's needed to travel between sectors.","Kapitein, u moet met de test beginnen en de hele reis energie leveren zodat ons testschip het Andromedastelsel kan bereiken. Hiervoor is een aanzienlijke hoeveelheid energie nodig, meer dan nodig is om tussen sectoren te reizen."
-CURRENT,bravenewsector_part4_rep4,3239,Please begin the test when you are ready.,Begin met de test als je er klaar voor bent.
-CURRENT,bravenewsector_part4_objective_test,3239,Send the test ship to the Andromeda Galaxy,Stuur het testschip naar het Andromedastelsel
-CURRENT,bravenewsector_part4_action_starttest,3239,Start Test,Test starten
-CURRENT,bravenewsector_part4_reachandromeda_award,3239,ANDROMEDA REACHED,ANDROMEDA BEREIKT
-CURRENT,bravenewsector_part4_reachandromeda_caption,3239,Signal received from test ship,Signaal ontvangen van testschip
-CURRENT,bravenewsector_part4_andromeda_bonus,3239,ANDROMEDA BONUS,ANDROMEDA BONUS
-CURRENT,bravenewsector_part4_andromeda_caption,3239,Payment for sending the test ship,Betaling voor het verzenden van het testschip
-CURRENT,bravenewsector_part4_rep5,3239,"Captain, the Stargate has received a signal from the Andromeda Galaxy.","Kapitein, de Sterrenpoort heeft een signaal ontvangen uit het Andromedastelsel."
-CURRENT,bravenewsector_part4_rep6,3239,The test ship made it. The test was a complete and total success. This is a historic moment for all of mankind.,Het testschip heeft het gehaald. De test was een compleet en totaal succes. Dit is een historisch moment voor de hele mensheid.
-CURRENT,bravenewsector_part4_rep7,3239,It couldn't have been done without you Captain. Your industrial expertise and dedication to the project have been invaluable.,Zonder jou was het niet gelukt Captain. Je industriële expertise en toewijding aan het project zijn van onschatbare waarde geweest.
-CURRENT,bravenewsector_part4_rep8,3239,"Thank you Captain, your contribution will not be forgotten. Goodbye for now.","Bedankt kapitein, je bijdrage zal niet vergeten worden. Tot ziens voor nu."
-CURRENT,bravenewsector_part4_objective_wait,3239,Await further instructions,Wacht op verdere instructies
-CURRENT,bravenewsector_part4_harken1,3239,"Captain, there are reports that the Andromeda Project are withholding access to the Stargate from any ships that aren't their own.","Kapitein, er zijn berichten dat het Andromeda Project schepen die niet van hen zijn de toegang tot de Sterrenpoort ontzegt."
-CURRENT,bravenewsector_part4_harken2,3239,"My sensors are detecting major fleet movements towards the Stargate, it looks like the Andromeda Project is aiming to secure their control over it.",Mijn sensoren nemen grote vlootbewegingen waar in de richting van de Sterrenpoort. Het lijkt erop dat het Andromeda Project de controle over de Sterrenpoort veilig wil stellen.
-CURRENT,bravenewsector_part4_harken3,3239,"This is... concerning. Be careful, I don't like the look of this.","Dit is... verontrustend. Wees voorzichtig, ik vind dit er niet goed uitzien."
-CURRENT,bravenewsector_part4_rep10,3239,The next stage of the project has begun. Our fleet has obtained full control over the Stargate and we are currently in the process of moving our workforce into the new galaxy.,De volgende fase van het project is begonnen. Onze vloot heeft de volledige controle over de Sterrenpoort gekregen en we zijn momenteel bezig met het verplaatsen van onze mensen naar het nieuwe sterrenstelsel.
-CURRENT,bravenewsector_part4_rep11,3239,"We will bring prosperity to all those who work with us. Speak to you soon, Captain. We may have some more work for you in the future.","We zullen voorspoed brengen aan iedereen die met ons samenwerkt. Spreek je snel weer, kapitein. Misschien hebben we in de toekomst nog meer werk voor je."
-CURRENT,bravenewsector_part4_testshipname,3239,Andromeda Test Ship MK.1,Andromeda-testschip MK.1
-CURRENT,thefinalstand_title,3239,The Final Stand,De laatste stand
-CURRENT,thefinalstand_summary,3239,Stop the Andromeda Project.,Stop het Andromeda Project.
-CURRENT,thefinalstand_harken1_intro,3239,"Captain! In direct violation of intergalactic law, the Andromeda Project has permanently closed access to the Stargate outside of their own ships. Billions of colonists have been stranded in the new sector, unable to return home.","Kapitein! In strijd met de intergalactische wet heeft het Andromeda Project de toegang tot de Sterrenpoort buiten hun eigen schepen voorgoed afgesloten. Miljarden kolonisten zijn gestrand in de nieuwe sector, niet in staat om naar huis terug te keren."
-CURRENT,thefinalstand_harken2_intro,3239,"You are the only one outside of the Andromeda Project with access codes, please call back as soon as you can. They must be stopped.","Jij bent de enige buiten het Andromeda Project met toegangscodes, bel alsjeblieft zo snel mogelijk terug. Ze moeten gestopt worden."
-CURRENT,thefinalstand_call_action,3239,Call Harken,Bel Harken
-CURRENT,thefinalstand_andromedahq_name,3239,ANDROMEDA HQ,ANDROMEDA HOOFDKANTOOR
-CURRENT,thefinalstand_andromedaflagship_name,3239,ANDROMEDA FLAGSHIP,VLAGGENSCHIP VAN ANDROMEDA
-CURRENT,thefinalstand_ai_name,3239,ANDROMEDA SHIP CONTROL,ANDROMEDA SCHEEPSBESTURING
-CURRENT,thefinalstand_harken1,3239,"Greetings Captain, I was worried you had taken their side in all of this.","Gegroet kapitein, ik was al bang dat je hun kant had gekozen in dit alles."
-CURRENT,thefinalstand_objective_traveltoharken,3239,Travel to Harken,Reis naar Harken
-CURRENT,thefinalstand_battleprep_2,3239,My officers have pin-pointed the position of their HQ. Upon arrival we expect to be met with heavy resistance from their private security forces.,Mijn officieren hebben de positie van hun hoofdkwartier bepaald. Bij aankomst verwachten we hevige weerstand van hun privébeveiligingstroepen.
-CURRENT,thefinalstand_battleprep_3,3239,I should be able to grab their attention away from your fleet while you get close and take control of the station.,Ik zou hun aandacht moeten kunnen afleiden van jullie vloot terwijl jullie dichterbij komen en het station overnemen.
-CURRENT,thefinalstand_battleprep_4,3239,"Good luck Captain, I'll see you on the battlefield.","Veel succes kapitein, ik zie je op het slagveld."
-CURRENT,thefinalstand_objective_destroyhq,3239,Take control of the Andromeda Project HQ,Neem controle over het hoofdkwartier van het Andromeda Project
-CURRENT,thefinalstand_battleintro_rep1,3239,"I gave you a very clear warning, Captain. You could've had anything in the universe as our business partner.","Ik heb je heel duidelijk gewaarschuwd, kapitein. Je had alles in het universum kunnen hebben als onze zakenpartner."
-CURRENT,thefinalstand_battleintro_rep2,3239,Now you must be destroyed.,Nu moet je vernietigd worden.
-CURRENT,thefinalstand_battleintro_rep3,3239,It was a pleasure working with you.,Het was een genoegen om met je samen te werken.
-CURRENT,thefinalstand_battleintro_dogma1,3239,"This is DOGMA Private Security force, we are en-route to the disturbance. ETA: imminent.","Dit is DOGMA Privébeveiliging, we zijn onderweg naar de verstoring. ETA: op handen."
-CURRENT,thefinalstand_battleintro_harken1,3239,There are multiple hostile signatures inbound on our position! You must get in close range of the HQ and upload the virus. I'll do my best to keep their ships off you.,Er komen meerdere vijandige signaturen op onze positie af! Je moet binnen het bereik van het hoofdkwartier komen en het virus uploaden. Ik zal mijn best doen om hun schepen bij je weg te houden.
-CURRENT,thefinalstand_battleintro_harken2,3239,"They're about to arrive, hurry!","Ze komen eraan, haast je!"
-CURRENT,thefinalstand_objective_flytohq,3239,Fly close to the HQ,Vlieg dicht langs het hoofdkwartier
-CURRENT,thefinalstand_objective_destroyhostiles,3239,Destroy remaining hostiles: *X,Vernietig de resterende vijanden: *X
-CURRENT,thefinalstand_backdoor_action,3239,Trigger Backdoor,Trigger Achterdeur
-CURRENT,thefinalstand_battle_harken1,3239,Great work Captain! But my sensors are detecting a massive signature headi-,Goed werk kapitein! Maar mijn sensoren detecteren een enorme handtekening..
-CURRENT,thefinalstand_boss_harken1,3239,I've lost both of my frigates Captain! I don't have enough firepower to win this!,Ik ben mijn beide fregatten kwijt kapitein! Ik heb niet genoeg vuurkracht om dit te winnen!
-CURRENT,thefinalstand_objective_destroyboss,3239,Destroy the Andromeda Flagship,Vernietig het vlaggenschip van Andromeda
-CURRENT,thefinalstand_boss_overloadcaption,3239,OVERLOAD GENERATOR,OVERBELASTINGSGENERATOR
-CURRENT,thefinalstand_battleoutro_ship1,3239,DANGER: POWER SYSTEMS DETERIORATING. POWER GRID OVERLOADED.,GEVAAR: STROOMSYSTEMEN VERSLECHTEREN. ELEKTRICITEITSNET OVERBELAST.
-CURRENT,thefinalstand_battleoutro_rep1,3239,"I don't understand, how is that possible!?","Ik begrijp het niet, hoe is dat mogelijk!?"
-CURRENT,thefinalstand_battleoutro_ship2,3239,DANGER: GENERATOR STATUS CRITICAL.,GEVAAR: STATUS GENERATOR KRITIEK.
-CURRENT,thefinalstand_battleoutro_rep2,3239,"Send all available power to railguns, set target to-","Stuur al het beschikbare vermogen naar Railguns, stel doel in op -"
-CURRENT,thefinalstand_battleoutro_harken1,3239,"This is a message for Andromeda HQ. I am Commander Harken, Chief of Private Security for this sector, and I command you to stand down.","Dit is een bericht voor Andromeda HQ. Ik ben commandant Harken, hoofd particuliere beveiliging van deze sector, en ik beveel u zich terug te trekken."
-CURRENT,thefinalstand_battleoutro_harken2,3239,"The Andromeda Navy in this sector has been destroyed, you are now blockaded, there is nothing left to fight for.","De Andromeda marine in deze sector is vernietigd, jullie zijn nu geblokkeerd, er is niets meer om voor te vechten."
-CURRENT,thefinalstand_battleoutro_harken3,3239,"It's over, Captain. The Andromeda HQ will be placed under the jurisdiction of the Intergalactic Security Council while I make the necessary arrests. The access codes for the Stargate are back under your control.","Het is voorbij, kapitein. Het Andromeda-hoofdkwartier valt onder de jurisdictie van de Intergalactische Veiligheidsraad terwijl ik de nodige arrestaties verricht. De toegangscodes voor de Sterrenpoort zijn weer onder jouw controle."
-CURRENT,thefinalstand_battleoutro_harken4,3239,The current leadership of the Andromeda Project will be dismantled and the new galaxy will be freed from their control.,De huidige leiding van het Andromeda Project zal worden ontmanteld en het nieuwe sterrenstelsel zal worden bevrijd van hun controle.
-CURRENT,thefinalstand_battleoutro_harken5,3239,"You've proven that you can be trusted with control of the Stargate, so I'll leave it in your hands.","Je hebt bewezen dat de controle over de Sterrenpoort aan jou toevertrouwd kan worden, dus laat ik hem aan jou over."
-CURRENT,thefinalstand_battleoutro_harken6,3239,"Goodbye Captain, and good luck with your new place in the galaxy.",Vaarwel kapitein en veel geluk met je nieuwe plek in het heelal.
-CURRENT,hud_consumingperhour,3239,Consuming *X per day,*X per dag consumeren
-CURRENT,survey_captionmultiple,3239,*X ships surveying,*X scheepsmetingen
-CURRENT,tutorial_radiationinstallinfuser,3239,Laser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area and power it.,Laser infusers worden gebruikt om lege kristallen op te laden met zeleon gas en zenden straling uit naar de omgeving terwijl ze van stroom worden voorzien.\n\nInstalleer de laser infuser in een vrije ruimte en zet hem aan.
-CURRENT,tutorial_radiationsetupinfuser,3239,Let's set the laser infuser to use them to produce charged crystals.,Laten we de Laser instellen om ze te gebruiken om Opgeladen kristallen te produceren.
-CURRENT,tutorial_radiationwaitforinputs,3239,The laser infuser is set to start making charged crystals! Laser infusers use Zeleon Energy Cells to charge the crystals.\n\nLet's wait for it to begin charging crystals.,De Laser is klaar om te beginnen met het maken van Opgeladen kristallen! Laser infusers gebruiken Zeleon Energiecellen om de kristallen op te laden.\n\nLaten we wachten tot het begint met het opladen van kristallen.
-CURRENT,tutorial_surveystartsectorsurvey,3239,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one ship in a system can do a sector scan.\n\nClick the button to begin a sector scan.,Sectorscans zoeken naar interessante gebieden in de sector rond het systeem waarin je schip zich bevindt.\n\nDe scan stopt nadat hij is voltooid. Slechts één schip in een systeem kan een sectorscan doen.\n\nKlik op de knop om een sectorscan te beginnen.
-CURRENT,tutorial_surveystartlocalsurvey,3239,Areas of interest will expire after some time if they are not surveyed. Multiple ships can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,Aandachtspunten vervallen na enige tijd als ze niet worden onderzocht. Meerdere schepen kunnen bijdragen aan een lokale enquête.\n\nKlik op het interessante punt om de lokale enquête te starten.
-CURRENT,bravenewsector_part2_x4,3239,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. As a safeguard against the Andromeda Project, I have installed a back-door that allows you to take control of the Stargate and any devices commanding it.",Laat dat alsjeblieft niet gebeuren Captain. Zoveel van mijn leven en zoveel van mijn projecten zijn puur uit winstbejag gedaan. Als bescherming tegen het Andromeda Project heb ik een achterdeur geïnstalleerd waarmee je de controle kunt overnemen over de Sterrenpoort en alle apparaten die het commando voeren.
-CURRENT,bravenewsector_part2_x5,3239,Please use it if they restrict the use of the Stargate for their own gain.,Gebruik het alsjeblieft als ze het gebruik van de Sterrenpoort beperken voor hun eigen gewin.
-CURRENT,stargate_power_fraction,3239,*X / *Y MW,*X / *Y MW
-CURRENT,blackhole_part1_setup7,3239,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop and a tank to store the isotopes in first.","Ik heb materialen nodig om de grondstoffen die we nodig hebben te synthetiseren.  U kunt me hiermee helpen, terwijl ik aan de berekeningen werk. Ik heb Hyperspace-isotopen nodig - u moet ze gemakkelijk kunnen verzamelen, maar u moet eerst een Hyperspace Schep en een tank om de isotopen in op te slaan aanschaffen."
-CURRENT,settings_credits,3149,CREDITS,KREDIETEN
-CURRENT,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,Het spel wordt opgeslagen op Steam Cloud als dit is ingeschakeld. Er wordt een waarschuwing weergegeven als het opslaan mislukt.
-CURRENT,newmainmenu_saveoptions,3149,Save Options,Opties opslaan
-CURRENT,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] Verander van stijl
-CURRENT,hud_tooltip_currentflooring,3149,Current style: *X,Huidige stijl: *X
-CURRENT,hud_tooltip_gratedflooring,3149,Grated,Geraspte
-CURRENT,hud_tooltip_normalflooring,3149,Normal,Normaal
-CURRENT,hud_hull_integrity,3149,HULL,HULL
-CURRENT,hud_power_battery,3149,BATTERY,BATTERIJ
-CURRENT,hud_power_powershortage,3149,POWER SHORTAGE,STROOMTEKORT
-CURRENT,hud_idlecrew,3149,Idle Crew,Inactieve Bemanning
-CURRENT,hud_dehydrationperperson,3149,Dehydration *X per person,Uitdroging *X per persoon
-CURRENT,hud_hungerperperson,3149,Hunger *X per person,Honger *X per persoon
-CURRENT,hud_byauthor,3149,BY *X,DOOR *X
-CURRENT,communicator_newobjective,3149,NEW OBJECTIVE,NIEUWE DOELSTELLING
-CURRENT,galaxymap_stargate,3149,STARGATE,STARGATE
-CURRENT,trade_canceltrade,3149,CANCEL TRADE AND REFUND,HANDEL ANNULEREN EN TERUGBETALEN
-CURRENT,trade_refundvalue,3149,REFUND VALUE,TERUGBETALING
-CURRENT,trade_cancellationcost,3149,CANCELLATION COST,ANNULERINGSKOSTEN
-CURRENT,trade_partiallyfilled,3149,PARTIALLY FILLED,GEDEELTELIJK GEVULD
-CURRENT,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,ONVOLLEDIG ONDERDEEL
-CURRENT,trade_removeincomplete,3149,REMOVE INCOMPLETE,INCOMPLEET VERWIJDEREN
-CURRENT,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,GEDEELTELIJK GEVULD VERWIJDEREN
-CURRENT,trade_order_normal,3149,(*X),(*X)
-CURRENT,trade_order_buy_on_sell_screen,3149,(BUY *X),(KOP *X)
-CURRENT,trade_order_sell_on_buy_screen,3149,(SELL *X),(VERKOOP *X)
-CURRENT,trade_order_sack_on_buy_screen,3149,(SACK *X),(SACK *X)
-CURRENT,techtree_researchpercent,3149,*X% Complete,*X% Voltooid
-CURRENT,tooltip_efficiency,3149,Efficiency +*X%,Rendement +*X%
-CURRENT,tooltip_activating,3149,Activating +*X%,Activeren +*X%
-CURRENT,alert_type_lowdeuterium,3149,LOW DEUTERIUM,LAAG DEUTERIUM
-CURRENT,stargate_unknowncomponent,3149,Unknown Component,Onbekend onderdeel
-CURRENT,stargate_unknowncomponent_description,3149,Unlock this component through research!,Ontgrendel dit onderdeel door onderzoek!
-CURRENT,creditstitle_builders,3149,Ship Builders,Scheepsbouwers
-CURRENT,creditstitle_testers,3149,Early Play Testing,Vroege speltests
-CURRENT,creditstitle_translators,3149,Translation,Vertaling
-CURRENT,engine_thrust,3149,THRUST *X%,THRUST *X%
-CURRENT,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + RMB] Converteren naar splitter
-CURRENT,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + RMB] Converteren naar track
-CURRENT,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,We kunnen die passagiers niet op hun bestemming afleveren zonder sneller dan licht te reizen. Helaas is dit schip niet uitgerust met een eigen <b>FTL-aandrijving</b>.\n\nWe moeten er een kopen en installeren.
-CURRENT,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,Open het handelsscherm om een <b>FTL-aandrijving</b> en wat <b>FTL opladen</b> te kopen.
-CURRENT,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,OMVATTEN AANGEMEERDE SCHEPEN
-CURRENT,hud_layer_hostile,3149,HOSTILE *X,HOSTILE *X
-CURRENT,hud_layer_derelict,3149,DERELICT *X,DERELICT *X
-CURRENT,hud_layer_forsale,3149,[FOR SALE] *X,[TE KOOP] *X
+NEW,settings_credits,3149,CREDITS,KREDIETEN
+NEW,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,Het spel wordt opgeslagen op Steam Cloud als dit is ingeschakeld. Er wordt een waarschuwing weergegeven als het opslaan mislukt.
+NEW,newmainmenu_saveoptions,3149,Save Options,Opties opslaan
+NEW,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] Verander van stijl
+NEW,hud_tooltip_currentflooring,3149,Current style: *X,Huidige stijl: *X
+NEW,hud_tooltip_gratedflooring,3149,Grated,Geraspte
+NEW,hud_tooltip_normalflooring,3149,Normal,Normaal
+NEW,hud_hull_integrity,3149,HULL,HULL
+NEW,hud_power_battery,3149,BATTERY,BATTERIJ
+NEW,hud_power_powershortage,3149,POWER SHORTAGE,STROOMTEKORT
+NEW,hud_idlecrew,3149,Idle Crew,Inactieve Bemanning
+NEW,hud_consumingperhour,3149,Consuming *X per hour,Verbruik *X per uur
+NEW,hud_dehydrationperperson,3149,Dehydration *X per person,Uitdroging *X per persoon
+NEW,hud_hungerperperson,3149,Hunger *X per person,Honger *X per persoon
+NEW,hud_byauthor,3149,BY *X,DOOR *X
+NEW,communicator_newobjective,3149,NEW OBJECTIVE,NIEUWE DOELSTELLING
+NEW,galaxymap_stargate,3149,STARGATE,STARGATE
+NEW,trade_canceltrade,3149,CANCEL TRADE AND REFUND,HANDEL ANNULEREN EN TERUGBETALEN
+NEW,trade_refundvalue,3149,REFUND VALUE,TERUGBETALING
+NEW,trade_cancellationcost,3149,CANCELLATION COST,ANNULERINGSKOSTEN
+NEW,trade_partiallyfilled,3149,PARTIALLY FILLED,GEDEELTELIJK GEVULD
+NEW,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,ONVOLLEDIG ONDERDEEL
+NEW,trade_removeincomplete,3149,REMOVE INCOMPLETE,INCOMPLEET VERWIJDEREN
+NEW,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,GEDEELTELIJK GEVULD VERWIJDEREN
+NEW,trade_order_normal,3149,(*X),(*X)
+NEW,trade_order_buy_on_sell_screen,3149,(BUY *X),(KOP *X)
+NEW,trade_order_sell_on_buy_screen,3149,(SELL *X),(VERKOOP *X)
+NEW,trade_order_sack_on_buy_screen,3149,(SACK *X),(SACK *X)
+NEW,techtree_researchpercent,3149,*X% Complete,*X% Voltooid
+NEW,tooltip_efficiency,3149,Efficiency +*X%,Rendement +*X%
+NEW,tooltip_activating,3149,Activating +*X%,Activeren +*X%
+NEW,alert_type_lowdeuterium,3149,LOW DEUTERIUM,LAAG DEUTERIUM
+NEW,stargate_unknowncomponent,3149,Unknown Component,Onbekend onderdeel
+NEW,stargate_unknowncomponent_description,3149,Unlock this component through research!,Ontgrendel dit onderdeel door onderzoek!
+NEW,creditstitle_builders,3149,Ship Builders,Scheepsbouwers
+NEW,creditstitle_testers,3149,Early Play Testing,Vroege speltests
+NEW,creditstitle_translators,3149,Translation,Vertaling
+NEW,engine_thrust,3149,THRUST *X%,THRUST *X%
+UPDATED,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + RMB] Converteren naar splitter
+PREVIOUS,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] Omzetten naar splitter
+UPDATED,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + RMB] Converteren naar track
+PREVIOUS,hud_convertsplittertotrack,3054,[RMB] Convert to track,[RMB] Converteren naar track
+UPDATED,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,We kunnen die passagiers niet op hun bestemming afleveren zonder sneller dan licht te reizen. Helaas is dit schip niet uitgerust met een eigen <b>FTL-aandrijving</b>.\n\nWe moeten er een kopen en installeren.
+PREVIOUS,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,We kunnen deze passagiers niet op hun bestemming afleveren zonder sneller dan licht te reizen. Helaas is dit schip niet uitgerust met een eigen <b>FTL</b> aandrijving.\n\nWe moeten er een kopen en installeren.
+PREVIOUS,tutorial_ftlintro,2593,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,We kunnen deze passagiers niet op hun bestemming afleveren zonder sneller dan licht te reizen. Helaas is dit schip niet uitgerust met een eigen FTL aandrijving.\n\nWe moeten er een kopen en installeren.
+UPDATED,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,Open het handelsscherm om een <b>FTL-aandrijving</b> en wat <b>FTL opladen</b> te kopen.
+PREVIOUS,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,Open het handelsscherm om een <b>FTL</b>-station te kopen.
+PREVIOUS,tutorial_ftltradescreen,2593,Open the trade screen to purchase an FTL drive.,Open het handelsscherm om een FTL-station te kopen.
+UPDATED,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,OMVATTEN AANGEMEERDE SCHEPEN
+PREVIOUS,newmainmenu_includedocked,2593,INCLUDE DOCKED SHIPS IN EXPORT,AANGEMEERDE SCHEPEN OPNEMEN IN EXPORT
+UPDATED,hud_layer_hostile,3149,HOSTILE *X,HOSTILE *X
+PREVIOUS,hud_layer_hostile,2593,HOSTILE,HOSTILE
+UPDATED,hud_layer_derelict,3149,DERELICT *X,DERELICT *X
+PREVIOUS,hud_layer_derelict,2593,DERELICT,DERELICT
+UPDATED,hud_layer_forsale,3149,[FOR SALE] *X,[TE KOOP] *X
+PREVIOUS,hud_layer_forsale,2593,[FOR SALE],[TE KOOP]
 CURRENT,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,Hun uiterlijke slijtage doet ons geloven dat ze hier al minstens een eeuw zijn. Deze sector moet een van de eerste pogingen van de mensheid zijn geweest om de ruimte te koloniseren.
 CURRENT,techtree_node_caption_metallurgyrepeatable,3054,Spend research credits to continually increase our smelting efficiency.,Besteed onderzoekskredieten om onze smeltefficiëntie voortdurend te verhogen.
 CURRENT,mainmenu_gamemode_arena,3054,Arena,Arena
@@ -293,6 +100,7 @@ CURRENT,survey_type_colony,3054,Colony,Kolonie
 CURRENT,survey_title,3054,UNSURVEYED *X,ONGESCHIKT *X
 CURRENT,survey_captionnone,3054,No survey in progress,Geen onderzoek aan de gang
 CURRENT,survey_captionsingle,3054,Surveyed by *X,Onderzocht door *X
+CURRENT,survey_captionmultiple,3054,*X layers surveying,*X lagen landmeetkunde
 CURRENT,survey_local_noequipment,3054,NO SUPERCOMPUTERS INSTALLED,GEEN SUPERCOMPUTERS GEÏNSTALLEERD
 CURRENT,survey_sector_title,3054,SECTOR SCAN,SECTOR SCAN
 CURRENT,survey_sector_nothingtoscan,3054,REGION FULLY SCANNED,REGIO VOLLEDIG GESCAND
@@ -351,6 +159,9 @@ CURRENT,alert_type_emp_caption,3054,*X piece(s) disabled,*X stuk(s) uitgeschakel
 CURRENT,alert_type_emp_tooltip,3054,"Your ship has been struck by lightning, temporarily disabling some of your equipment.","Je schip is getroffen door de bliksem, waardoor een deel van je uitrusting tijdelijk buiten werking is."
 CURRENT,tutorial_radiation_title,3054,RADIATION,STRALING
 CURRENT,tutorial_radiationintro,3054,We are going to learn about radiation.,We gaan leren over straling.
+CURRENT,tutorial_radiationinstallinfuser,3054,A laser infuser has been delivered to your ship.\n\nLaser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area.,Er is een laserinfuus afgeleverd op je schip.\n\nLaserinfuusers worden gebruikt om lege kristallen op te laden met Zeleon Gas en zenden straling uit naar de omgeving als ze van stroom worden voorzien.\n\nInstalleer de laserinfuus in een vrije ruimte.
+CURRENT,tutorial_radiationsetupinfuser,3054,An empty crystal and some zeleon energy cells have been delivered to your ship too.\n\nLet's set the laser infuser to use them to produce charged crystals.,Er zijn ook een leeg kristal en wat Zeleon Energiecellen op je schip afgeleverd.\n\nLaten we de laserinfuser instellen om ze te gebruiken om geladen kristallen te produceren.
+CURRENT,tutorial_radiationwaitforinputs,3054,The laser infuser is set to start making charged crystals!\n\nLet's wait for it to begin charging crystals.\n\nDon't forget to power the Laser Infuser.,Het laserapparaat is klaar om geladen kristallen te maken!\n\nLaten we wachten tot het begint met het laden van kristallen.\n\nVergeet niet om het laserapparaat van stroom te voorzien.
 CURRENT,tutorial_radiationselectoverlay,3054,The game has been set to a slower speed for now.\n\nRadiation is emitted in all directions away from the laser infuser.\n\nClick on the radiation overlay to view where your ship is irradiated.,"Het spel is nu ingesteld op een lagere snelheid.\n\nStraling wordt in alle richtingen uitgezonden, weg van het laserinfuus.\n\nKlik op de stralingsoverlay om te zien waar je schip wordt bestraald."
 CURRENT,tutorial_radiationselectoverlay2,3054,"All green areas of your ship are safe for your crew, but the darker areas are dangerous.\n\nSpacesuits will protect your crew from being irradiated.","Alle groene gebieden van je schip zijn veilig voor je bemanning, maar de donkere gebieden zijn gevaarlijk.\n\nRuimtepakken beschermen je bemanning tegen bestraling."
 CURRENT,tutorial_radiationinstallblockers,3054,"Radiation spread can be limited by special equipment called radiation blockers.\n\nInstall some blockers close to your laser infuser, leaving a small gap between the infuser and the blocker.\n\nIncrease the game speed when you are ready.","Stralingsverspreiding kan worden beperkt met speciale apparatuur die Stralingsblokker wordt genoemd.\n\nInstalleer een aantal blokkeringen dicht bij je laserinfuser, en laat een kleine ruimte tussen de infuser en de blokker.\n\nVerhoog de spelsnelheid als je er klaar voor bent."
@@ -360,9 +171,11 @@ CURRENT,tutorial_radiationsuccess,3054,"Well done, you have now learnt how radia
 CURRENT,tutorial_survey_title,3054,SECTOR SURVEYING,SECTORONDERZOEK
 CURRENT,tutorial_surveyintro,3054,"We are going to learn how to survey the area around your ship.\n\nThe first step is to scan the local area of the sector surrounding you ship using a <b>SECTOR SCAN</b>.\n\nIn Boldly Go, only the new sector can be surveyed.\n\nHyperspace sensors are required to do this.",We gaan leren hoe je het gebied rond je schip in kaart kunt brengen.\n\nDe eerste stap is om het lokale gebied van de sector rond je schip te scannen met een <b>SECTOR SCAN</b>.\n\nIn Boldly Go kan alleen de nieuwe sector in kaart worden gebracht.\n\nHyperspace sensoren zijn hiervoor nodig.
 CURRENT,tutorial_surveyinstallsensors,3054,"Install Hyperspace Sensors or Hyperspace Sensor LRs onto one of your ships.\n\nThis tutorial will resume afterwards.\n\nIf you are playing the Boldly Go game mode, your ship must also be in the new sector.","Installeer Hyperspace Sensors of Hyperspace Sensor LR's op een van je schepen.\n\nDeze tutorial wordt daarna hervat.\n\nAls je het speltype Boldly Go speelt, moet je schip ook in de nieuwe sector zijn."
+CURRENT,tutorial_surveystartsectorsurvey,3054,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan.,Sectorscans zoeken naar interessante gebieden in de sector rond het systeem waarin je schip zich bevindt.\n\nDe scan stopt nadat hij is voltooid. Slechts één laag in een systeem kan een sectorscan doen.\n\nKlik op de knop om een sectorscan te beginnen.
 CURRENT,tutorial_surveyhighlightsectorsurveysystem,3054,Hovering the mouse over the current system will reveal the radius around the system that is being scanned and the scan's progress toward finding new points of interest.\n\nOpen the <b>SECTOR MAP</b> and click <b>NEXT</b> to speed-up the survey.,"Als je de muis boven het huidige systeem houdt, zie je de straal rond het systeem dat wordt gescand en de voortgang van de scan om nieuwe interessante punten te vinden.\n\nOpen de <b>SECTORKAART</b> en klik op <b>VOLGENDE</b> om het onderzoek te versnellen."
 CURRENT,tutorial_surveylocalsurveyintro,3054,The next step is to perform a <b>LOCAL SURVEY</b>.\n\nLocal surveys allow points of interest to be accessed via FTL.\n\nShips need to have super computers installed and must be in the same sector to participate in a local survey.,De volgende stap is het uitvoeren van een <b>LOKALE ONDERZOEK</b>.\n\nLokale onderzoeken maken het mogelijk om interessante punten te bereiken via FTL.\n\nSchepen moeten supercomputers geïnstalleerd hebben en moeten in dezelfde sector zijn om deel te kunnen nemen aan een lokale enquête.
 CURRENT,tutorial_surveyinstallcomputers,3054,Install a super-computer on one of your ships.\n\nThis tutorial will resume afterwards.,Installeer een supercomputer op een van je schepen.\n\nDeze tutorial wordt daarna hervat.
+CURRENT,tutorial_surveystartlocalsurvey,3054,Areas of interest will expire after some time if they are not surveyed. Multiple layers can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,Nuttige gebieden vervallen na enige tijd als ze niet worden onderzocht. Meerdere lagen kunnen bijdragen aan een lokale enquête.\n\nKlik op het interessante punt om de lokale enquête te starten.
 CURRENT,tutorial_surveyoutro,3054,Click <b>NEXT</b> to speed-up the survey.,Klik op <b>VOLGENDE</b> om de enquête te versnellen.
 CURRENT,tutorial_surveysuccess,3054,"A new system on the sector map has appeared for your fleet to explore!\n\nWell done, you have now learnt how to use sector surveying to find and explore new systems.\n\nKeep an eye out for special loot on surveyed derelict ships that can be researched by your science stations.","Er is een nieuw systeem op de sectorkaart verschenen dat je vloot kan verkennen!\n\nGoed gedaan, je hebt nu geleerd hoe je sectorverkenning kunt gebruiken om nieuwe systemen te vinden en te verkennen.\n\nKijk uit naar speciale buit op onderzochte verlaten schepen die door je wetenschapsstations kunnen worden onderzocht."
 CURRENT,bravenewsector_part1_x1,3054,Captain? Are you there?,Kapitein? Bent u daar?
@@ -373,6 +186,8 @@ CURRENT,bravenewsector_part2_title,3054,"Brave New Sector, Part 2","Brave New Se
 CURRENT,bravenewsector_part2_summary,3054,Uncover the history of the new sector.,Ontdek de geschiedenis van de nieuwe sector.
 CURRENT,bravenewsector_part2_x1,3054,"Hello again Captain, the Andromeda Project is very impressed with the samples you've sent them. They want your work on the Stargate to continue.","Nogmaals hallo kapitein, het Andromeda Project is erg onder de indruk van de monsters die u hen heeft gestuurd. Ze willen dat je doorgaat met je werk aan de Sterrenpoort."
 CURRENT,bravenewsector_part2_x3,3054,"I must warn you, there are rumours that their plan is to take the Stargate fully under their control. They will charge anyone who wants to use it a fortune, preventing any competition and harvesting all the resources in the new galaxy for themselves. They will become more powerful than any entity we have seen before.","Ik moet je waarschuwen, er gaan geruchten dat ze van plan zijn om de Sterrenpoort volledig onder hun controle te brengen. Ze zullen iedereen die er gebruik van wil maken een fortuin laten betalen, elke concurrentie verhinderen en alle grondstoffen in het nieuwe sterrenstelsel voor zichzelf oogsten. Ze zullen machtiger worden dan welke entiteit dan ook."
+CURRENT,bravenewsector_part2_x4,3054,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. The Stargate is too important and valuable for our species to be under their control.",Laat dat alsjeblieft niet gebeuren Captain. Zoveel van mijn leven en zoveel van mijn projecten zijn puur uit winstbejag gedaan. De Sterrenpoort is te belangrijk en waardevol voor onze soort om onder hun controle te staan.
+CURRENT,bravenewsector_part2_x5,3054,I have installed a back-door that will cause the Stargate to self-destruct if you command it to. You must trigger it if the rumours are true.,Ik heb een achterdeur geïnstalleerd waardoor de Sterrenpoort zichzelf vernietigt als je het bevel geeft. Je moet het activeren als de geruchten waar zijn.
 CURRENT,bravenewsector_part2_x6,3054,"Unfortunately, I've been given some bad news, and I won't be around for much longer. I would like to give you full ownership of the foundry as a thank you for helping me finish this final project.",Helaas heb ik slecht nieuws gekregen en zal ik er niet lang meer zijn. Ik wil je graag het volledige eigendom van de gieterij geven als dank voor je hulp bij het afmaken van dit laatste project.
 CURRENT,bravenewsector_part2_x7,3054,It seems we have completed it just in time.,Het lijkt erop dat we het net op tijd hebben afgerond.
 CURRENT,bravenewsector_part2_x8,3054,"This is our final call, Captain. I wish you the best of luck. Thank you again, and goodbye.","Dit is onze laatste oproep, kapitein. Ik wens je veel geluk. Nogmaals bedankt en tot ziens."
@@ -805,6 +620,7 @@ CURRENT,object_neubidiumcapacitor,2624,Neubidium Capacitor,Neubidium Condensator
 CURRENT,alert_type_stargatelosingpower,2624,STARGATE LOSING POWER,STERRENPOORT VERLIEST VERMOGEN
 CURRENT,alert_type_stargatelosingpower_caption,2624,*X MW / *Y MW Supplied,*X MW / *Y MW Geleverd
 CURRENT,alert_type_stargatelosingpower_tooltip,2624,The stargate isn't being supplied with enough power. Use energy transmitters to supply the Stargate with power.,De sterrenpoort krijgt niet genoeg stroom. Gebruik energiezenders om de sterrenpoort van stroom te voorzien.
+CURRENT,stargate_power_fraction,2624,SUPPLIED:\n*X MW / *Y MW,TOEGEVOEGD:\n*X MW / *Y MW
 CURRENT,stargate_powering_on,2624,STARTING UP,OPSTARTEN
 CURRENT,stargate_available_subtitle,2624,Phase *X Available,Fase *X Beschikbaar
 CURRENT,techtree_node_caption_stargatepart3,2624,Unlocks Phases 4 and 5 of the Andromeda Project.,Speelt fase 4 en 5 van het Andromeda Project vrij.
@@ -1145,11 +961,10 @@ CURRENT,hud_endcreativemodewarning,2593,LEAVING CREATIVE MODE,CREATIEVE MODUS VE
 CURRENT,hud_endcreativemodefull,2593,Creative Mode will end when you jump to hyperspace,De Creative Mode eindigt als je naar de hyperruimte springt
 CURRENT,hud_hyperspace,2593,HYPERSPACE,HYPERSPACE
 CURRENT,hud_deselectlayer,2593,DESELECT SHIP,SCHIP VERWIJDEREN
-CURRENT,hud_gun_port,3205,Port *X,*X van Bakboord
-CURRENT,hud_gun_forward,3205,Forward *X,*X van Voor
-CURRENT,hud_gun_starboard,3205,Starboard *X,*X van Stuurboord
-CURRENT,hud_gun_aft,3205,Aft *X,*X van Achter
-CURRENT,hud_gun_gattling,3205,PDC,PD Systeem
+CURRENT,hud_direction_up,2593,Port,Haven
+CURRENT,hud_direction_right,2593,Forward,Vooruit
+CURRENT,hud_direction_down,2593,Starboard,Stuurboord
+CURRENT,hud_direction_left,2593,Aft,Achter
 CURRENT,hud_camerattracking,2593,Camera Tracking,Camera volgen
 CURRENT,hud_enabled,2593,Enabled,Ingeschakeld
 CURRENT,hud_disabled,2593,Disabled,Uitgeschakeld
@@ -2436,6 +2251,7 @@ CURRENT,blackhole_part1_setup4,2593,"The last time, we pushed it too far.  My br
 CURRENT,blackhole_part1_setup5,2593,"I've lost all contact, and he's been down there for a long time now.  He's still showing on the sensors, and his ship is still intact.  The gravitational forces and time dilation will be extreme.  But with your help, we're going to rescue him.",Ik heb alle contact verloren en hij is al een hele tijd daar beneden.  Hij is nog steeds te zien op de sensoren en zijn schip is nog intact.  De zwaartekracht en tijddilatatie zullen extreem zijn.  Maar met jullie hulp gaan we hem redden.
 CURRENT,blackhole_part1_setup6,2593,There's only one way to get to him without falling into the black hole ourselves.  We're going to have to do an extremely short range HYPERSPACE HOP.,Er is maar één manier om bij hem te komen zonder zelf in het zwarte gat te vallen.  We moeten een extreem korte afstand HYPERSPACE HOP doen.
 CURRENT,blackhole_part1_setup6b,2593,"Using a modified FTL Drive you'll do one hyperspace hop toward the black hole, rescue my brother Marcus, then turn around and hop right out.  It will be dangerous, but it's the only way to avoid being dragged in ourselves.","Met behulp van een gemodificeerde FTL-drive maken jullie één sprong in de hyperruimte naar het zwarte gat, redden mijn broer Marcus, keren dan om en springen er meteen weer uit.  Het zal gevaarlijk zijn, maar het is de enige manier om te voorkomen dat we er zelf in meegesleurd worden."
+CURRENT,blackhole_part1_setup7,2593,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop first.","Ik heb materialen nodig om de grondstoffen die we nodig hebben te synthetiseren.  U kunt me hiermee helpen, terwijl ik aan de berekeningen werk. Ik heb Hyperspace Isotopes nodig - u zou ze gemakkelijk moeten kunnen verzamelen, maar u zult eerst een Hyperspace Scoop moeten aanschaffen."
 CURRENT,blackhole_part1_setup7b,2593,You'll then need to use a Loader to start unloading the isotopes into containers.,Vervolgens moet u een Loader gebruiken om de isotopen in containers te lossen.
 CURRENT,blackhole_part1_setup8,2593,I'm building the Hyperspace FTL drive that will allow you to perform the hop.  It's going to need some modifications.  I'll need you to manufacture some parts for me. I know you have manufacturing facilities near the Stargate project.  You should be able to make these parts for me without too much trouble.,Ik bouw de Hyperspace FTL aandrijving waarmee u de sprong kunt maken.  Er zijn wat aanpassingen nodig.  U moet wat onderdelen voor me maken. Ik weet dat u productiefaciliteiten hebt in de buurt van het Sterrenpoortproject.  U zou deze onderdelen zonder al te veel moeite voor me moeten kunnen maken.
 CURRENT,blackhole_part1_setup9,2593,"Bring those materials back to me, and we can move onto phase 2.","Breng deze materialen terug naar mij, dan kunnen we verder gaan met fase 2."
@@ -2860,6 +2676,7 @@ CURRENT,tutorial_dsisetrecipe,2593,Right-clicking on equipment allows you to set
 CURRENT,tutorial_dsisetupdone,2593,The smelter will now start producing metal ingots after it has finished heating up.,De smelter zal nu metaalstaven gaan produceren nadat hij klaar is met opwarmen.
 CURRENT,tutorial_stargatewindowopenwindow,2593,Select the Stargate button in your toolbar to open the Stargate screen.,Selecteer de Sterrenpoortknop in je werkbalk om het Sterrenpoortscherm te openen.
 CURRENT,tutorial_stargatewindowintro,2593,The Stargate screen displays everything you need to manufacture to complete the current phase.,Het Stargate-scherm toont alles wat je moet maken om de huidige fase te voltooien.
+CURRENT,tutorial_stargatewindowhighlightcomponent,2593,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,"Elk onderdeel dat je moet maken staat aan de linkerkant.\nAls je met de muis op het pictogram van een onderdeel gaat staan, zie je hoe je het moet maken."
 CURRENT,tutorial_stargatewindowhighlightphases,2593,"The Stargate's construction is split into phases, with each phase requiring more and more resources.\nYou have just completed Phase 1.","De bouw van de Sterrenpoort is opgedeeld in fasen, waarbij elke fase steeds meer middelen vereist.\nJe hebt zojuist fase 1 voltooid."
 CURRENT,tutorial_stargatewindowhighlightphase2,2593,Select Phase 2 to see what you need to manufacture for this phase.,Selecteer Fase 2 om te zien wat je voor deze fase moet maken.
 CURRENT,tutorial_stargatewindowhighlightframes1,2593,"To complete Phase 2, we need to continue manufacturing Stargate Frames.\n\nInstead of 10, we now need 200!","Om Fase 2 af te ronden, moeten we doorgaan met het maken van Stargate Frames.\n\nIn plaats van 10, hebben we er nu 200 nodig!"
@@ -3017,37 +2834,6 @@ CURRENT,dsi_part2_scene_z4,2593,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2593,THERE WILL BE NO FURTHER WARNING.,ZAL ER GEEN VERDERE WAARSCHUWING VOLGEN.
 CURRENT,dsi_part2_scene_y7,2593,You've left me no choice.,Je hebt me geen keus gelaten.
 CURRENT,dsi_part2_scene_y8,2593,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Ik kom voor jou Alexander, en deze keer vraag ik niet om 10%. Ik wil alles."
-OBSOLETE,thefinalstand_harken2,3239,"My scientists and officers have analysed the blueprints of the Stargate project, provided to us by the late Alexander James Elistar.",Mijn Wetenschappers en officieren hebben de blauwdrukken van het Sterrenpoortproject geanalyseerd die wij van wijlen Alexander James Elistar hebben gekregen.
-OBSOLETE,thefinalstand_harken3,3239,"The Andromeda Project has moved their HQ and all key personell into an unknown location in the new sector, where we believe they are controlling the Stargate.","Het Andromeda Project heeft zijn hoofdkwartier en al het belangrijke personeel verplaatst naar een onbekende locatie in de nieuwe sector, waar we denken dat ze de Sterrenpoort controleren."
-OBSOLETE,thefinalstand_harken4,3239,"Elistar has left you with a backdoor into the Stargate's security systems, compromising all devices controlling it and providing us with direct access to the Andromeda Project's systems.","Elistar heeft een achterdeur achtergelaten in de beveiligingssystemen van de Sterrenpoort, waardoor alle apparaten die de poort besturen gecompromitteerd zijn en wij direct toegang hebben tot de systemen van het Andromeda Project."
-OBSOLETE,thefinalstand_harken5,3239,"Any and all damage to the HQ should be avoided. Many innocent lives are on-board that HQ, the loss of life from destroying it would be far too great. You will upload a virus to their command centre and disable the station's offensive capabilities.","Alle schade aan het hoofdkwartier moet worden vermeden. Er zijn veel onschuldige levens aan boord van dat hoofdkwartier, het verlies van levens door het te vernietigen zou veel te groot zijn. Je uploadt een virus naar hun commandocentrum en schakelt de offensieve mogelijkheden van het station uit."
-OBSOLETE,thefinalstand_harken6,3239,"While you are doing this, my fleet will fight off the Andromeda Project navy. Once the battle is over, I will take control of the HQ and arrest everyone involved. Their conglomerate will be dismantled.","Terwijl je dit doet, zal mijn vloot vechten tegen de marine van het Andromeda Project. Als de strijd voorbij is, neem ik de controle over het hoofdkwartier over en arresteer ik alle betrokkenen. Hun conglomeraat zal worden ontmanteld."
-OBSOLETE,thefinalstand_boss_harken2,3239,"The previous ships were private security, this one is the Andromeda Navy's flagship! You should have access to its command centre from the HQ.","De vorige schepen waren privébeveiliging, dit is het vlaggenschip van de Andromeda Navy! Je zou toegang moeten hebben tot het commandocentrum vanuit het hoofdkwartier."
-OBSOLETE,industryend_message,3239,"After capturing the Andromeda HQ, Harken and the Intergalactic Security Council dismantled the Andromeda Project conglomerate.  The control of the Stargate was left in the hands of the Captain that built it.  Humanity's journey across the universe has only just begun...",Na de inname van het Andromeda hoofdkwartier ontmantelden Harken en de Intergalactische Veiligheidsraad het Andromeda Project conglomeraat.  De controle over de Sterrenpoort bleef in handen van de kapitein die hem had gebouwd.  De reis van de mensheid door het universum is nog maar net begonnen...
-OBSOLETE,bravenewsector_part4_rep9,3239,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy the Andromeda.,Hallo Kapitein. De pas voltooide Sterrenpoort heeft het Andromeda Project in een machtige positie gebracht om de stroom van grondstoffen en mensen tussen dit sterrenstelsel en Andromeda te controleren.
-OBSOLETE,thefinalstand_battleprep_1,3239,"Hello Captain, it's good to see you. This is all of the ships I control in this sector, the rest are on the other side of the Stargate, unable to reach us.","Hallo Kapitein, goed je te zien. Dit zijn alle schepen die ik controleer in deze sector, de rest is aan de andere kant van de Sterrenpoort en kan ons niet bereiken."
-OBSOLETE,thefinalstand_battle_rep1,3239,Commander Harken! I see that my first fleet failed to deal you. I suppose if I want something done properly I should do it myself.,"Commandant Harken! Ik zie dat mijn eerste vloot er niet in is geslaagd u te pakken. Ik neem aan dat als ik iets goed wil doen, ik het zelf moet doen."
-OBSOLETE,hud_consumingperhour,3149,Consuming *X per hour,Verbruik *X per uur
-OBSOLETE,survey_captionmultiple,3054,*X layers surveying,*X lagen landmeetkunde
-OBSOLETE,tutorial_radiationinstallinfuser,3054,A laser infuser has been delivered to your ship.\n\nLaser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area.,Er is een laserinfuus afgeleverd op je schip.\n\nLaserinfuusers worden gebruikt om lege kristallen op te laden met Zeleon Gas en zenden straling uit naar de omgeving als ze van stroom worden voorzien.\n\nInstalleer de laserinfuus in een vrije ruimte.
-OBSOLETE,tutorial_radiationsetupinfuser,3054,An empty crystal and some zeleon energy cells have been delivered to your ship too.\n\nLet's set the laser infuser to use them to produce charged crystals.,Er zijn ook een leeg kristal en wat Zeleon Energiecellen op je schip afgeleverd.\n\nLaten we de laserinfuser instellen om ze te gebruiken om geladen kristallen te produceren.
-OBSOLETE,tutorial_radiationwaitforinputs,3054,The laser infuser is set to start making charged crystals!\n\nLet's wait for it to begin charging crystals.\n\nDon't forget to power the Laser Infuser.,Het laserapparaat is klaar om geladen kristallen te maken!\n\nLaten we wachten tot het begint met het laden van kristallen.\n\nVergeet niet om het laserapparaat van stroom te voorzien.
-OBSOLETE,tutorial_surveystartsectorsurvey,3054,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan.,Sectorscans zoeken naar interessante gebieden in de sector rond het systeem waarin je schip zich bevindt.\n\nDe scan stopt nadat hij is voltooid. Slechts één laag in een systeem kan een sectorscan doen.\n\nKlik op de knop om een sectorscan te beginnen.
-OBSOLETE,tutorial_surveystartlocalsurvey,3054,Areas of interest will expire after some time if they are not surveyed. Multiple layers can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,Nuttige gebieden vervallen na enige tijd als ze niet worden onderzocht. Meerdere lagen kunnen bijdragen aan een lokale enquête.\n\nKlik op het interessante punt om de lokale enquête te starten.
-OBSOLETE,bravenewsector_part2_x4,3054,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. The Stargate is too important and valuable for our species to be under their control.",Laat dat alsjeblieft niet gebeuren Captain. Zoveel van mijn leven en zoveel van mijn projecten zijn puur uit winstbejag gedaan. De Sterrenpoort is te belangrijk en waardevol voor onze soort om onder hun controle te staan.
-OBSOLETE,bravenewsector_part2_x5,3054,I have installed a back-door that will cause the Stargate to self-destruct if you command it to. You must trigger it if the rumours are true.,Ik heb een achterdeur geïnstalleerd waardoor de Sterrenpoort zichzelf vernietigt als je het bevel geeft. Je moet het activeren als de geruchten waar zijn.
-OBSOLETE,stargate_power_fraction,2624,SUPPLIED:\n*X MW / *Y MW,TOEGEVOEGD:\n*X MW / *Y MW
-OBSOLETE,blackhole_part1_setup7,2593,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop first.","Ik heb materialen nodig om de grondstoffen die we nodig hebben te synthetiseren.  U kunt me hiermee helpen, terwijl ik aan de berekeningen werk. Ik heb Hyperspace Isotopes nodig - u zou ze gemakkelijk moeten kunnen verzamelen, maar u zult eerst een Hyperspace Scoop moeten aanschaffen."
-OBSOLETE,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] Omzetten naar splitter
-OBSOLETE,hud_convertsplittertotrack,3054,[RMB] Convert to track,[RMB] Converteren naar track
-OBSOLETE,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,We kunnen deze passagiers niet op hun bestemming afleveren zonder sneller dan licht te reizen. Helaas is dit schip niet uitgerust met een eigen <b>FTL</b> aandrijving.\n\nWe moeten er een kopen en installeren.
-OBSOLETE,tutorial_ftlintro,2593,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,We kunnen deze passagiers niet op hun bestemming afleveren zonder sneller dan licht te reizen. Helaas is dit schip niet uitgerust met een eigen FTL aandrijving.\n\nWe moeten er een kopen en installeren.
-OBSOLETE,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,Open het handelsscherm om een <b>FTL</b>-station te kopen.
-OBSOLETE,tutorial_ftltradescreen,2593,Open the trade screen to purchase an FTL drive.,Open het handelsscherm om een FTL-station te kopen.
-OBSOLETE,newmainmenu_includedocked,2593,INCLUDE DOCKED SHIPS IN EXPORT,AANGEMEERDE SCHEPEN OPNEMEN IN EXPORT
-OBSOLETE,hud_layer_hostile,2593,HOSTILE,HOSTILE
-OBSOLETE,hud_layer_derelict,2593,DERELICT,DERELICT
-OBSOLETE,hud_layer_forsale,2593,[FOR SALE],[TE KOOP]
 OBSOLETE,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,Hun uiterlijke slijtage doet ons geloven dat ze hier al minstens een eeuw zijn. Deze sector moet een van de eerste pogingen van de mensheid zijn geweest om de ruimte te koloniseren.
 OBSOLETE,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.","Schakel functies in om vertalers te helpen, zoals Alt om Engels te onthullen en Ctrl om de zinsnede te onthullen."
 OBSOLETE,shipeditor_tooltip_eyedropper,2793,"Lets you select a paint from the exterior of your ship (can also be used by pressing the ""Shift"" key)","Hiermee kun je een verf van de buitenkant van je schip selecteren (kan ook worden gebruikt door op de ""Shift""-toets te drukken)"

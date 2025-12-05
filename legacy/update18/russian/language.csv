@@ -1,5 +1,6 @@
 ﻿state,key,svn,english,translation
-CURRENT,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,"Каждый компонент, который вам нужно изготовить, находится справа.\nНаведите курсор на иконку компонента, чтобы увидеть, как его изготовить."
+UPDATED,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,"Каждый компонент, который вам нужно изготовить, находится справа.\nНаведите курсор на иконку компонента, чтобы увидеть, как его изготовить."
+PREVIOUS,tutorial_stargatewindowhighlightcomponent,2448,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,"Каждый компонент, который вам нужно произвести, находится слева.\nНаведя мышь на значок компонента, вы увидите, как его произвести."
 CURRENT,logistics_tooltip_skiporder,3248,Skip currently executing order,Пропустить текущий заказ
 CURRENT,logistics_tooltip_loop,3248,Loop execution,Зациклить выполнение
 CURRENT,thefinalstand_artemis1,3248,Hello again Captain!,"И снова здравствуй, капитан!"
@@ -3016,7 +3017,6 @@ CURRENT,dsi_part2_scene_z4,2448,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2448,THERE WILL BE NO FURTHER WARNING.,БОЛЬШЕ ПРЕДУПРЕЖДЕНИЙ НЕ БУДЕТ.
 CURRENT,dsi_part2_scene_y7,2448,You've left me no choice.,Ты не оставил мне выбора.
 CURRENT,dsi_part2_scene_y8,2448,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Я приду за тобой, Александр, и на этот раз я не прошу 10%. Я хочу все."
-OBSOLETE,tutorial_stargatewindowhighlightcomponent,2448,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,"Каждый компонент, который вам нужно произвести, находится слева.\nНаведя мышь на значок компонента, вы увидите, как его произвести."
 OBSOLETE,thefinalstand_harken2,3239,"My scientists and officers have analysed the blueprints of the Stargate project, provided to us by the late Alexander James Elistar.","Мои ученые и офицеры проанализировали чертежи проекта Звездных врат, предоставленные нам покойным Александром Джеймсом Элистаром."
 OBSOLETE,thefinalstand_harken3,3239,"The Andromeda Project has moved their HQ and all key personell into an unknown location in the new sector, where we believe they are controlling the Stargate.","Проект ""Андромеда"" переместил свою штаб-квартиру и всех ключевых сотрудников в неизвестное место в новом секторе, где, как мы полагаем, они контролируют Звездные врата."
 OBSOLETE,thefinalstand_harken4,3239,"Elistar has left you with a backdoor into the Stargate's security systems, compromising all devices controlling it and providing us with direct access to the Andromeda Project's systems.","Элистар оставил тебе бэкдор в системах безопасности Звездных врат, скомпрометировав все устройства, контролирующие их, и предоставив нам прямой доступ к системам проекта ""Андромеда""."

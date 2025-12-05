@@ -1,4 +1,253 @@
 ﻿state,key,svn,english,translation
+UPDATED,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,"Chaque composant que tu dois fabriquer se trouve à droite.\nEn plaçant ta souris sur l'icône d'un composant, tu verras comment le produire."
+PREVIOUS,tutorial_stargatewindowhighlightcomponent,2448,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,Chaque composant que vous devez fabriquer se trouve sur la gauche.\nPlacer votre souris sur l'icône d'un composant montre comment le produire.
+CURRENT,logistics_tooltip_skiporder,3248,Skip currently executing order,Sauter l'ordre en cours d'exécution
+CURRENT,logistics_tooltip_loop,3248,Loop execution,Exécution de la boucle
+CURRENT,thefinalstand_artemis1,3248,Hello again Captain!,Re-bonjour Capitaine !
+CURRENT,thefinalstand_artemis2,3248,"After some careful analysis of the Stargate's blueprints, I have found the backdoor that the late Alexander James Elistar has left you.","Après une analyse minutieuse des plans de la porte des étoiles, j'ai trouvé la porte dérobée que feu Alexander James Elistar vous a laissée."
+CURRENT,thefinalstand_artemis3,3248,You will use this backdoor to upload a small virus that I have written to their command centre within the HQ. It will disable the station's offensive capabilities and place itself under your command.,Tu utiliseras cette porte dérobée pour télécharger un petit virus que j'ai écrit dans leur centre de commandement au sein du QG. Il désactivera les capacités offensives de la station et se placera sous ton commandement.
+CURRENT,thefinalstand_boss_artemis1,3248,"Captain, I can route a signal to their powergrid and overload their generators, tell me when to trigger it!","Capitaine, je peux acheminer un signal vers leur réseau électrique et surcharger leurs générateurs, dis-moi quand le déclencher !"
+CURRENT,thefinalstand_end_objective_leave,3248,Leave the HQ,Quitte le QG
+CURRENT,thefinalstand_harken2,3248,"The Andromeda Project has moved their HQ and all key personell into an unknown location in the new sector, where we believe they are controlling the Stargate.","Le projet Andromède a déplacé son QG et tout le personnel clé dans un endroit inconnu du nouveau secteur, où nous pensons qu'ils contrôlent la Porte des étoiles."
+CURRENT,thefinalstand_harken3,3248,"My plan is to use our fleets to take control of the HQ by force. Any and all damage to the HQ should be avoided, many innocent lives are on-board and the loss of life from destroying it would be far too great.\nI have devised a plan with an old friend of yours that should minimise casualties...","Mon plan consiste à utiliser nos flottes pour prendre le contrôle du QG par la force. Il faut éviter d'endommager le QG, car de nombreux innocents sont à bord et les pertes humaines liées à sa destruction seraient bien trop importantes.\nJ'ai élaboré un plan avec un vieil ami à vous qui devrait minimiser les pertes..."
+CURRENT,thefinalstand_harken4,3248,"While you neutralise the HQ, my fleet will fight off the Andromeda Project navy. Once the battle is over, I will take control of the HQ and arrest everyone involved. Their conglomerate will be dismantled.","Pendant que tu neutraliseras le QG, ma flotte combattra la marine du Projet Andromède. Une fois la bataille terminée, je prendrai le contrôle du QG et j'arrêterai toutes les personnes impliquées. Leur conglomérat sera démantelé."
+CURRENT,thefinalstand_harken5,3248,The Stargate will fall back into your sole control. I've marked an allied shipyard on your map. I'll hide out there in the mean-time.,La Porte des étoiles vous reviendra sous votre seul contrôle. J'ai marqué un chantier naval allié sur ta carte. Je m'y cacherai en attendant.
+CURRENT,thefinalstand_harken6,3248,Meet me to discuss the plan further. Goodbye for now.,Rejoins-moi pour discuter plus en détail du plan. Au revoir pour l'instant.
+CURRENT,thefinalstand_boss_harken2,3248,This is the Andromeda Navy's flagship! You should have access to its command centre from the HQ!,C'est le vaisseau amiral de la marine d'Andromède ! Tu devrais avoir accès à son centre de commandement depuis le QG !
+CURRENT,industryend_message,3248,"Now the Andromeda HQ has been captured, Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind spreads beyond our home galaxy and into the future.","Maintenant que le QG d'Andromède a été capturé, Harken et le Conseil de sécurité intergalactique vont démanteler le conglomérat du Projet Andromède et reprendre le contrôle de la Porte des étoiles, pour le bien de toute l'humanité.  Un nouveau chapitre a commencé, alors que l'humanité s'étend au-delà de notre galaxie d'origine et vers l'avenir."
+CURRENT,bravenewsector_part4_rep9,3244,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy and the Andromeda galaxy.,Bonjour Capitaine. La porte des étoiles récemment achevée a placé le projet Andromède en position de force pour contrôler le flux de ressources et de personnes entre cette galaxie et la galaxie d'Andromède.
+CURRENT,thefinalstand_battleprep_1,3244,"Hello Captain, it's good to see you. These are all of the ships I control in this sector, the rest are on the other side of the Stargate, unable to reach us.","Bonjour Capitaine, c'est un plaisir de vous voir. Voici tous les vaisseaux que je contrôle dans ce secteur, les autres sont de l'autre côté de la porte des étoiles, incapables de nous rejoindre."
+CURRENT,thefinalstand_battle_rep1,3244,Commander Harken! I see that my first fleet has failed to deal with you. I suppose if I want something done properly I should do it myself.,"Commandant Harken ! Je vois que ma première flotte n'a pas réussi à s'occuper de vous. Je suppose que si je veux que quelque chose soit fait correctement, je dois le faire moi-même."
+CURRENT,settings_credits,3239,CREDITS,CRÉDITS
+CURRENT,newmainmenu_continue,3239,CONTINUE GAME,CONTINUER LE JEU
+CURRENT,newmainmenu_savetosteamcloud_tooltip,3239,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,Le jeu sera sauvegardé sur Steam Cloud lorsque l'option est activée. Un avertissement s'affichera si la sauvegarde échoue.
+CURRENT,newmainmenu_saveoptions,3239,Save Options,Sauvegarder les options
+CURRENT,hud_ftlshipblockedfromftl,3239,Ship cannot enter hyperspace with your fleet,Le navire ne peut pas entrer dans l'hyperespace avec ta flotte
+CURRENT,hud_window_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,LOGISTIQUE INTERSTELLAIRE
+CURRENT,hud_tooltip_switchflooring,3239,[{RotateObject}] Switch flooring style,[{RotateObject}] Change de style de plancher
+CURRENT,hud_tooltip_currentflooring,3239,Current style: *X,Style actuel : *X
+CURRENT,hud_tooltip_gratedflooring,3239,Grated,Râpé
+CURRENT,hud_tooltip_normalflooring,3239,Normal,Normal
+CURRENT,hud_hull_integrity,3239,HULL,HULL
+CURRENT,hud_power_battery,3239,BATTERY,BATTERIE
+CURRENT,hud_power_powershortage,3239,POWER SHORTAGE,MANQUE D'ÉLECTRICITÉ
+CURRENT,hud_idlecrew,3239,Idle Crew,Équipage oisif
+CURRENT,hud_consumingperhour,3239,Consuming *X per day,Consomme *X par jour
+CURRENT,hud_dehydrationperperson,3239,Dehydration *X per person,Déshydratation *X par personne
+CURRENT,hud_hungerperperson,3239,Hunger *X per person,Faim *X par personne
+CURRENT,hud_byauthor,3239,BY *X,BY *X
+CURRENT,communicator_newobjective,3239,NEW OBJECTIVE,NOUVEL OBJECTIF
+CURRENT,andromeda_travel,3239,ANDROMEDA JOURNEY,VOYAGE DANS L'ANDROMÈDE
+CURRENT,galaxymap_stargate,3239,STARGATE,STARGATE
+CURRENT,trade_autohireat,3239,HIRE BELOW,EMBAUCHE CI-DESSOUS
+CURRENT,trade_autosackat,3239,SACK ABOVE,SAC AU-DESSUS
+CURRENT,trade_autoembarkat,3239,EMBARK BELOW,EMBARQUE CI-DESSOUS
+CURRENT,trade_autodisembarkat,3239,DISEMBARK BELOW,DÉBARQUE EN BAS
+CURRENT,trade_canceltrade,3239,CANCEL TRADE AND REFUND,ANNULER L'ÉCHANGE ET REMBOURSER
+CURRENT,trade_refundvalue,3239,REFUND VALUE,VALEUR DU REMBOURSEMENT
+CURRENT,trade_cancellationcost,3239,CANCELLATION COST,FRAIS D'ANNULATION
+CURRENT,trade_partiallyfilled,3239,PARTIALLY FILLED,PARTIELLEMENT REMPLI
+CURRENT,trade_incompletecomponent,3239,INCOMPLETE COMPONENT,COMPOSANT INCOMPLET
+CURRENT,trade_removeincomplete,3239,REMOVE INCOMPLETE,SUPPRIME LES DOCUMENTS INCOMPLETS
+CURRENT,trade_removepartiallyfilled,3239,REMOVE PARTIALLY FILLED,ENLÈVE LA PARTIE PARTIELLEMENT REMPLIE
+CURRENT,trade_tooltip_hire,3239,[LMB] Hire,[LMB] Embauche
+CURRENT,trade_tooltip_embark,3239,[LMB] Embark,[LMB] Embarquement
+CURRENT,trade_tooltip_disembark,3239,[LMB] Disembark,[LMB] Débarquement
+CURRENT,trade_hiring,3239,Hiring *X,Embauche *X
+CURRENT,trade_embarking,3239,Embarking *X,Embarquement *X
+CURRENT,trade_disembarking,3239,Disembarking *X,Débarquement *X
+CURRENT,trade_order_normal,3239,(*X),(*X)
+CURRENT,trade_order_buy_on_sell_screen,3239,(BUY *X),(ACHETER *X)
+CURRENT,trade_order_hire_on_sell_screen,3239,(HIRE *X),(HIRE *X)
+CURRENT,trade_order_embark_on_sell_screen,3239,(EMBARK *X),(EMBARK *X)
+CURRENT,trade_order_sell_on_buy_screen,3239,(SELL *X),(VENDRE *X)
+CURRENT,trade_order_sack_on_buy_screen,3239,(SACK *X),(SACK *X)
+CURRENT,trade_order_disembark_on_buy_screen,3239,(DISEMBARK *X),(DISEMBARK *X)
+CURRENT,trade_hire,3239,HIRE,EMBAUCHER
+CURRENT,trade_embark,3239,EMBARK,EMBARQUE
+CURRENT,trade_disembark,3239,DISEMBARK,DÉBARQUER
+CURRENT,techtree_researchpercent,3239,*X% Complete,*X% Complet
+CURRENT,techtree_node_title_atmosphericprocessing,3239,Atmospheric Processing,Traitement de l'atmosphère
+CURRENT,techtree_node_caption_atmosphericprocessing,3239,Unlocks schematics for hardware required to maintain a breathable atmosphere,Débloque les schémas du matériel nécessaire au maintien d'une atmosphère respirable
+CURRENT,techtree_node_title_atmosphericprocessing2,3239,Atmospheric Processing 2,Traitement de l'atmosphère 2
+CURRENT,techtree_node_caption_atmosphericprocessing2,3239,Unlocks more schematics for hardware required to maintain a breathable atmosphere,Débloque plus de schémas pour le matériel nécessaire au maintien d'une atmosphère respirable
+CURRENT,techtree_node_title_wasteprocessing,3239,Waste Processing,Traitement des déchets
+CURRENT,techtree_node_caption_wasteprocessing,3239,Unlocks schematics for hardware to capture and reprocess human waste,Débloque les schémas du matériel permettant de capturer et de retraiter les déchets humains
+CURRENT,tooltip_efficiency,3239,Efficiency +*X%,Efficacité +*X%
+CURRENT,tooltip_activating,3239,Activating +*X%,Activation +*X%
+CURRENT,special_advancedlogistics,3239,Interstellar Logistics,Logistique interstellaire
+CURRENT,tactical_dockingassistant,3239,DOCKING ASSIST,ASSISTANCE AU DÉMARRAGE
+CURRENT,tactical_fleetformation,3239,FLEET FORMATION,FORMATION DE LA FLOTTE
+CURRENT,tactical_fleetcombat,3239,FLEET COMBAT AI,COMBAT DE FLOTTE AI
+CURRENT,tactical_on,3239,ON,ON
+CURRENT,tactical_off,3239,OFF,OFF
+CURRENT,tactical_tooltip_dockingassistant,3239,"When enabled, the Docking Assistant will perform the final maneuovers required to dock your ship with another, once you are close enough.\n\nIt is recommended you disable Fleet Formation when attempting to dock.","Lorsqu'il est activé, l'assistant d'amarrage effectue les dernières manœuvres nécessaires pour amarrer ton vaisseau à un autre, une fois que tu es suffisamment proche.\n\nIl est recommandé de désactiver la formation de la flotte lorsque tu essaies de t'amarrer."
+CURRENT,tactical_tooltip_fleetformation,3239,"When enabled, all of the fleet ships within a system will fly together in close formation, following the lead of whichever ship you are directly controlling.","Lorsque cette option est activée, tous les vaisseaux de la flotte d'un système volent ensemble en formation serrée, en suivant l'exemple du vaisseau que tu contrôles directement."
+CURRENT,tactical_tooltip_fleetcombat,3239,"When enabled, your other fleet ships will take care of themselves during combat, moving to optimal range and engaging as best they can.","Lorsque cette option est activée, les autres vaisseaux de ta flotte s'occuperont d'eux-mêmes pendant le combat, en se déplaçant à une distance optimale et en s'engageant du mieux qu'ils peuvent."
+CURRENT,tactical_tooltip_weapon,3239,[LMB] Select weapon\n[SHIFT-LMB] Select multiple weapons\n[RMB] Clear current target,[LMB] Sélectionne une arme\n[SHIFT-LMB] Sélectionne plusieurs armes\n[RMB] Efface la cible actuelle
+CURRENT,tactical_tooltip_auto,3239,AUTO-TARGETTING\n[LMB] Enable auto-targetting\n[RMB] Disable auto-targetting,AUTO-TARGETTING\n[LMB] Activer l'auto-targeting\n[RMB] Désactiver l'auto-targeting
+CURRENT,logistics_tooltip_add,3239,[LMB] Add,[LMB] Ajouter
+CURRENT,logistics_tooltip_remove_rmb,3239,[RMB] Remove,[RMB] Enlever
+CURRENT,logistics_tooltip_cancel,3239,[RMB] Cancel,[RMB] Annuler
+CURRENT,logistics_tooltip_shift,3239,[SHIFT] x5,[MAJ] x5
+CURRENT,logistics_tooltip_control,3239,[CTRL] x50,[CTRL] x50
+CURRENT,advancedlogisticswindow_title,3239,INTERSTELLAR LOGISTICS,LOGISTIQUE INTERSTELLAIRE
+CURRENT,logistics_system_select,3239,LOCATION,LOCATION
+CURRENT,logistics_create_order,3239,Create Order,Créer une commande
+CURRENT,logistics_loop,3239,Loop,Boucle
+CURRENT,logistics_order_none,3239,Order Type,Type de commande
+CURRENT,logistics_order_mine,3239,Mine,Le mien
+CURRENT,logistics_order_collect,3239,Collect Gas,Collecter le gaz
+CURRENT,logistics_order_buy,3239,Buy,Acheter
+CURRENT,logistics_order_sell,3239,Sell,Vendre
+CURRENT,logistics_order_transferto,3239,Transfer To,Transférer à
+CURRENT,logistics_order_transferfrom,3239,Transfer From,Transfert de
+CURRENT,logistics_condition_none,3239,Amount,Montant
+CURRENT,logistics_condition_quantity,3239,Quantity,Quantité
+CURRENT,logistics_condition_stacks,3239,Stacks,Piles
+CURRENT,logistics_condition_containers,3239,Containers,Conteneurs
+CURRENT,logistics_condition_allbut,3239,All But,Tous Mais
+CURRENT,logistics_condition_storagefull,3239,Until Storage Full,Jusqu'à ce que la réserve soit pleine
+CURRENT,logistics_condition_all,3239,All Available,Tous disponibles
+CURRENT,logistics_condition_time,3239,Minutes,Procès-verbal
+CURRENT,logistics_transferto_none,3239,DESTINATION SHIP,NAVIRE DE DESTINATION
+CURRENT,logistics_transferfrom_none,3239,SOURCE SHIP,SOURCE SHIP
+CURRENT,logistics_item_none,3239,Select Item,Sélectionner l'article
+CURRENT,logistics_stuck_default,3239,Orders stuck,Commandes bloquées
+CURRENT,logistics_stuck_invalidsystem,3239,System S*X does not exist,Le système S*X n'existe pas
+CURRENT,logistics_stuck_invalidlayer,3239,Ship L*X does not exist,Le navire L*X n'existe pas
+CURRENT,logistics_stuck_equipment,3239,L*X does not have a working R*Y,L*X ne dispose pas d'un R*Y
+CURRENT,logistics_stuck_resources,3239,L*X does not have any R*Ys,L*X n'a pas de R*Ys
+CURRENT,logistics_stuck_patches,3239,System S*X does not have any R*Y to mine,Le système S*X n'a pas de R*Y à mien
+CURRENT,logistics_stuck_gas,3239,System S*X does not have any R*Y to collect,Le système S*X n'a pas de R*Y à collecter
+CURRENT,logistics_stuck_tradingpost,3239,System S*X does not have a trading post,Le système S*X n'a pas de comptoir commercial
+CURRENT,logistics_stuck_resourcestosell,3239,L*X does not have any R*Y to sell,L*X n'a pas de R*Y à vendre
+CURRENT,logistics_stuck_stargate,3239,Stargate is not ready for jump,La porte des étoiles n'est pas prête à sauter
+CURRENT,logistics_status_notrunning,3239,No order currently running,Aucune commande en cours
+CURRENT,logistics_status_travelling,3239,Travelling to system S*X,Voyager vers le système S*X
+CURRENT,logistics_status_mining,3239,Mined *X R*Y,Le mien *X R*Y
+CURRENT,logistics_status_miningstacks,3239,(*X/*Y stacks),(*X/*Y piles)
+CURRENT,logistics_status_miningstacks1,3239,(*X stacks),(*X stacks)
+CURRENT,logistics_status_collect,3239,Collected *X R*Y,Recueil *X R*Y
+CURRENT,logistics_status_collectcontainers,3239,(*X/*Y containers),(*X/*Y conteneurs)
+CURRENT,logistics_status_collectcontainers1,3239,(*X containers),(*X conteneurs)
+CURRENT,logistics_status_transferto,3239,Transfering *X R*Y to L*Z,Transfert *X R*Y vers L*Z
+CURRENT,logistics_status_transferfrom,3239,Transfering *X R*Y from L*Z,Transfert *X R*Y de L*Z
+CURRENT,logistics_status_buy,3239,Bought *X R*Y for $*Z,Acheté *X R*Y pour $*Z
+CURRENT,logistics_status_sell,3239,Sold *X R*Y for $*Z,Vendu *X R*Y pour $*Z
+CURRENT,logistics_status_notlooping,3239,Finished execution (not looping),Exécution terminée (pas de boucle)
+CURRENT,logistics_status_time1,3239,in *X:*Y,sur *X:*Y
+CURRENT,logistics_status_time2,3239,in *X:0*Y,sur *X:0*Y
+CURRENT,logistics_status_time3,3239,in 0*X:*Y,dans 0*X:*Y
+CURRENT,logistics_status_time4,3239,in 0*X:0*Y,en 0*X:0*Y
+CURRENT,order_advancedlogistics,3239,Interstellar Logistics,Logistique interstellaire
+CURRENT,mission_objective_done,3239,DONE,FAIT
+CURRENT,alert_type_lowdeuterium,3239,LOW DEUTERIUM,BAS DEUTÉRIUM
+CURRENT,alert_type_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,LOGISTIQUE INTERSTELLAIRE
+CURRENT,alert_type_interstellarlogistics_caption,3239,Orders stuck,Commandes bloquées
+CURRENT,stargate_startandromedajump,3239,TEST ANDROMEDA JUMP,TEST DU SAUT DANS L'ANDROMÈDE
+CURRENT,stargate_power_tooltip,3239,POWER REQUIRED: *X MW,PUISSANCE REQUISE : *X MW
+CURRENT,stargate_distance_travelled,3239,*X kly REMAINING,*X kly restant
+CURRENT,stargate_journey_completed,3239,*X% COMPLETED,*X% COMPLÉTÉ
+CURRENT,stargate_sell,3239,SELL ALL (*X FOR *Y),VENDRE TOUT (*X POUR *Y)
+CURRENT,stargate_price_per_unit,3239,*X PER UNIT,*X PAR UNITÉ
+CURRENT,stargate_total_price,3239,*X TOTAL,*X TOTAL
+CURRENT,stargate_award_complete_title,3239,STARGATE COMPLETED,LA PORTE DES ÉTOILES EST TERMINÉE
+CURRENT,stargate_award_complete_subtitle,3239,All phases completed,Toutes les phases sont terminées
+CURRENT,stargate_unknowncomponent,3239,Unknown Component,Composant inconnu
+CURRENT,stargate_unknowncomponent_description,3239,Unlock this component through research!,Débloque ce composant grâce à la recherche !
+CURRENT,tutorial_radiationselectfriendly,3239,"First, select a friendly ship with a laser infuser available.","Tout d'abord, sélectionne un vaisseau ami avec un infuseur laser disponible."
+CURRENT,blackhole_objective_tank,3239,Acquire a Storage Tank,Acquérir un réservoir de stockage
+CURRENT,blackhole_objective_storagetank,3239,Connect a tank to the Hyperspace Scoop,Connecter un tank au Scoop hyperespace
+CURRENT,blackhole_objective_loader,3239,Connect a Loader to the tank,Connecter un Chargeur au réservoir
+CURRENT,blackhole_objective_unloadloader,3239,Set the Loader to UNLOAD,Réglez le Chargeur sur DÉCHARGER
+CURRENT,dsi_part2_dogmavessel1,3239,D.O.G.M.A Spartan,D.O.G.M.A Spartan
+CURRENT,dsi_part2_dogmavessel2,3239,D.O.G.M.A Citadel,Citadelle D.O.G.M.A
+CURRENT,dsi_part2_dogmavessel3,3239,D.O.G.M.A Centurion,D.O.G.M.A Centurion
+CURRENT,bravenewsector_part4_title,3239,"Brave New Sector, Part 4","Brave New Sector, partie 4"
+CURRENT,bravenewsector_part4_summary,3239,Complete the final test.,Effectue le test final.
+CURRENT,bravenewsector_part4_intro,3239,"Captain, preparations have concluded for the final Stargate test. We are ready to send a ship to the Andromeda Galaxy. Please call us when you are ready.","Capitaine, les préparatifs sont terminés pour le dernier test de la porte des étoiles. Nous sommes prêts à envoyer un vaisseau dans la galaxie d'Andromède. Appelez-nous quand vous serez prêts."
+CURRENT,bravenewsector_part4_call_action,3239,Call the Representative,Appelle le représentant
+CURRENT,bravenewsector_part4_rep1,3239,The materials you provided to us have been fitted to the Stargate. It is fully functional and ready to test.,Les matériaux que tu nous as fournis ont été installés sur la porte des étoiles. Elle est entièrement fonctionnelle et prête à être testée.
+CURRENT,bravenewsector_part4_rep2,3239,This is a monumental moment in the history of our species. If this test is successful the Andromeda Project will be the first entity to send mankind to another galaxy.,"C'est un moment monumental dans l'histoire de notre espèce. Si ce test est concluant, le projet Andromède sera la première Entité à envoyer l'humanité dans une autre galaxie."
+CURRENT,bravenewsector_part4_rep3,3239,"Captain, you will need to begin the test and provide power for the entire journey so our test ship can reach the Andromeda Galaxy. This will require a significant amount of energy, more than what's needed to travel between sectors.","Capitaine, vous devrez commencer le test et fournir de l'énergie pour tout le voyage afin que notre vaisseau test puisse atteindre la galaxie d'Andromède. Cela nécessitera une quantité importante d'énergie, plus que ce qui est nécessaire pour voyager entre les secteurs."
+CURRENT,bravenewsector_part4_rep4,3239,Please begin the test when you are ready.,Commence le test lorsque tu es prêt(e).
+CURRENT,bravenewsector_part4_objective_test,3239,Send the test ship to the Andromeda Galaxy,Envoie le vaisseau test vers la galaxie d'Andromède
+CURRENT,bravenewsector_part4_action_starttest,3239,Start Test,Démarrer le test
+CURRENT,bravenewsector_part4_reachandromeda_award,3239,ANDROMEDA REACHED,ANDROMÈDE ATTEINT
+CURRENT,bravenewsector_part4_reachandromeda_caption,3239,Signal received from test ship,Signal reçu du navire test
+CURRENT,bravenewsector_part4_andromeda_bonus,3239,ANDROMEDA BONUS,BONUS ANDROMÉDA
+CURRENT,bravenewsector_part4_andromeda_caption,3239,Payment for sending the test ship,Paiement pour l'envoi du bateau test
+CURRENT,bravenewsector_part4_rep5,3239,"Captain, the Stargate has received a signal from the Andromeda Galaxy.","Capitaine, la porte des étoiles a reçu un signal en provenance de la galaxie d'Andromède."
+CURRENT,bravenewsector_part4_rep6,3239,The test ship made it. The test was a complete and total success. This is a historic moment for all of mankind.,Le vaisseau test a réussi. Le test a été un succès total et complet. C'est un moment historique pour toute l'humanité.
+CURRENT,bravenewsector_part4_rep7,3239,It couldn't have been done without you Captain. Your industrial expertise and dedication to the project have been invaluable.,"Tout cela n'aurait pas pu se faire sans toi, capitaine. Ton expertise industrielle et ton dévouement au projet ont été inestimables."
+CURRENT,bravenewsector_part4_rep8,3239,"Thank you Captain, your contribution will not be forgotten. Goodbye for now.","Merci capitaine, votre contribution ne sera pas oubliée. Au revoir pour l'instant."
+CURRENT,bravenewsector_part4_objective_wait,3239,Await further instructions,Attends d'autres instructions
+CURRENT,bravenewsector_part4_harken1,3239,"Captain, there are reports that the Andromeda Project are withholding access to the Stargate from any ships that aren't their own.","Capitaine, il semblerait que le projet Andromède interdise l'accès à la porte des étoiles à tous les vaisseaux qui ne sont pas les leurs."
+CURRENT,bravenewsector_part4_harken2,3239,"My sensors are detecting major fleet movements towards the Stargate, it looks like the Andromeda Project is aiming to secure their control over it.","Mes capteurs détectent d'importants mouvements de flotte en direction de la porte des étoiles, on dirait que le projet Andromède vise à en assurer le contrôle."
+CURRENT,bravenewsector_part4_harken3,3239,"This is... concerning. Be careful, I don't like the look of this.","C'est... inquiétant. Fais attention, je n'aime pas ce que tu vois."
+CURRENT,bravenewsector_part4_rep10,3239,The next stage of the project has begun. Our fleet has obtained full control over the Stargate and we are currently in the process of moving our workforce into the new galaxy.,La prochaine étape du projet a commencé. Notre flotte a obtenu le contrôle total de la porte des étoiles et nous sommes actuellement en train de déplacer notre main-d'œuvre dans la nouvelle galaxie.
+CURRENT,bravenewsector_part4_rep11,3239,"We will bring prosperity to all those who work with us. Speak to you soon, Captain. We may have some more work for you in the future.","Nous apporterons la prospérité à tous ceux qui travaillent avec nous. À bientôt, capitaine. Nous aurons peut-être d'autres tâches à vous confier à l'avenir."
+CURRENT,bravenewsector_part4_testshipname,3239,Andromeda Test Ship MK.1,Vaisseau test Andromède MK.1
+CURRENT,thefinalstand_title,3239,The Final Stand,L'affrontement final
+CURRENT,thefinalstand_summary,3239,Stop the Andromeda Project.,Arrête le projet Andromède.
+CURRENT,thefinalstand_harken1_intro,3239,"Captain! In direct violation of intergalactic law, the Andromeda Project has permanently closed access to the Stargate outside of their own ships. Billions of colonists have been stranded in the new sector, unable to return home.","Capitaine ! En violation directe de la loi intergalactique, le Projet Andromède a définitivement fermé l'accès à la Porte des étoiles en dehors de leurs propres vaisseaux. Des milliards de colons ont été bloqués dans le nouveau secteur, incapables de rentrer chez eux."
+CURRENT,thefinalstand_harken2_intro,3239,"You are the only one outside of the Andromeda Project with access codes, please call back as soon as you can. They must be stopped.","Vous êtes la seule personne extérieure au projet Andromède à posséder des codes d'accès, veuillez rappeler dès que possible. Il faut les arrêter."
+CURRENT,thefinalstand_call_action,3239,Call Harken,Appeler Harken
+CURRENT,thefinalstand_andromedahq_name,3239,ANDROMEDA HQ,SIÈGE D'ANDROMEDA
+CURRENT,thefinalstand_andromedaflagship_name,3239,ANDROMEDA FLAGSHIP,VAISSEAU AMIRAL D'ANDROMÈDE
+CURRENT,thefinalstand_ai_name,3239,ANDROMEDA SHIP CONTROL,CONTRÔLE DU VAISSEAU ANDROMÉDA
+CURRENT,thefinalstand_harken1,3239,"Greetings Captain, I was worried you had taken their side in all of this.","Salutations Capitaine, je craignais que vous n'ayez pris leur parti dans toute cette histoire."
+CURRENT,thefinalstand_objective_traveltoharken,3239,Travel to Harken,Voyage vers Harken
+CURRENT,thefinalstand_battleprep_2,3239,My officers have pin-pointed the position of their HQ. Upon arrival we expect to be met with heavy resistance from their private security forces.,"Mes officiers ont localisé la position de leur QG. À notre arrivée, nous nous attendons à rencontrer une forte résistance de la part de leurs forces de sécurité privées."
+CURRENT,thefinalstand_battleprep_3,3239,I should be able to grab their attention away from your fleet while you get close and take control of the station.,Je devrais pouvoir détourner leur attention de votre flotte pendant que vous vous rapprochez et prenez le contrôle de la station.
+CURRENT,thefinalstand_battleprep_4,3239,"Good luck Captain, I'll see you on the battlefield.","Bonne chance capitaine, je vous verrai sur le champ de bataille."
+CURRENT,thefinalstand_objective_destroyhq,3239,Take control of the Andromeda Project HQ,Prends le contrôle du QG du projet Andromède
+CURRENT,thefinalstand_battleintro_rep1,3239,"I gave you a very clear warning, Captain. You could've had anything in the universe as our business partner.","Je vous ai donné un avertissement très clair, capitaine. Vous auriez pu avoir n'importe quoi dans l'univers comme partenaire commercial."
+CURRENT,thefinalstand_battleintro_rep2,3239,Now you must be destroyed.,"Maintenant, tu dois être détruite."
+CURRENT,thefinalstand_battleintro_rep3,3239,It was a pleasure working with you.,Ce fut un plaisir de travailler avec toi.
+CURRENT,thefinalstand_battleintro_dogma1,3239,"This is DOGMA Private Security force, we are en-route to the disturbance. ETA: imminent.","Ici DOGMA Private Security force, nous sommes en route pour la perturbation. ETA : imminent."
+CURRENT,thefinalstand_battleintro_harken1,3239,There are multiple hostile signatures inbound on our position! You must get in close range of the HQ and upload the virus. I'll do my best to keep their ships off you.,Il y a plusieurs signatures hostiles qui arrivent sur notre position ! Vous devez vous rapprocher du QG et télécharger le virus. Je ferai de mon mieux pour que leurs vaisseaux ne vous touchent pas.
+CURRENT,thefinalstand_battleintro_harken2,3239,"They're about to arrive, hurry!","Ils sont sur le point d'arriver, dépêche-toi !"
+CURRENT,thefinalstand_objective_flytohq,3239,Fly close to the HQ,Vole près du QG
+CURRENT,thefinalstand_objective_destroyhostiles,3239,Destroy remaining hostiles: *X,Détruis les hostiles restants : *X
+CURRENT,thefinalstand_backdoor_action,3239,Trigger Backdoor,Déclencher la porte dérobée
+CURRENT,thefinalstand_battle_harken1,3239,Great work Captain! But my sensors are detecting a massive signature headi-,Beau travail Capitaine ! Mais mes capteurs détectent une signature massive headi-
+CURRENT,thefinalstand_boss_harken1,3239,I've lost both of my frigates Captain! I don't have enough firepower to win this!,"J'ai perdu mes deux frégates, capitaine ! Je n'ai pas assez de puissance de feu pour gagner !"
+CURRENT,thefinalstand_objective_destroyboss,3239,Destroy the Andromeda Flagship,Détruire le vaisseau amiral d'Andromède
+CURRENT,thefinalstand_boss_overloadcaption,3239,OVERLOAD GENERATOR,GÉNÉRATEUR DE SURCHARGE
+CURRENT,thefinalstand_battleoutro_ship1,3239,DANGER: POWER SYSTEMS DETERIORATING. POWER GRID OVERLOADED.,DANGER : LES SYSTÈMES ÉLECTRIQUES SE DÉTÉRIORENT. RÉSEAU ÉLECTRIQUE SURCHARGÉ.
+CURRENT,thefinalstand_battleoutro_rep1,3239,"I don't understand, how is that possible!?","Je ne comprends pas, comment est-ce possible ! ?"
+CURRENT,thefinalstand_battleoutro_ship2,3239,DANGER: GENERATOR STATUS CRITICAL.,DANGER : L'ÉTAT DU GÉNÉRATEUR EST CRITIQUE.
+CURRENT,thefinalstand_battleoutro_rep2,3239,"Send all available power to railguns, set target to-","Envoie toute la puissance disponible aux canons électromagnétiques, fixe la cible à-"
+CURRENT,thefinalstand_battleoutro_harken1,3239,"This is a message for Andromeda HQ. I am Commander Harken, Chief of Private Security for this sector, and I command you to stand down.","Ceci est un message pour le QG d'Andromède. Je suis le commandant Harken, chef de la sécurité privée de ce secteur, et je vous ordonne de vous retirer."
+CURRENT,thefinalstand_battleoutro_harken2,3239,"The Andromeda Navy in this sector has been destroyed, you are now blockaded, there is nothing left to fight for.","La marine d'Andromède dans ce secteur a été détruite, vous êtes maintenant bloqués, il n'y a plus rien à combattre."
+CURRENT,thefinalstand_battleoutro_harken3,3239,"It's over, Captain. The Andromeda HQ will be placed under the jurisdiction of the Intergalactic Security Council while I make the necessary arrests. The access codes for the Stargate are back under your control.","C'est terminé, Capitaine. Le QG d'Andromède sera placé sous la juridiction du Conseil de sécurité intergalactique pendant que je procède aux arrestations nécessaires. Les codes d'accès à la Porte des étoiles sont de nouveau sous votre contrôle."
+CURRENT,thefinalstand_battleoutro_harken4,3239,The current leadership of the Andromeda Project will be dismantled and the new galaxy will be freed from their control.,Les dirigeants actuels du projet Andromède seront démantelés et la nouvelle galaxie sera libérée de leur contrôle.
+CURRENT,thefinalstand_battleoutro_harken5,3239,"You've proven that you can be trusted with control of the Stargate, so I'll leave it in your hands.","Tu as prouvé qu'on pouvait te confier le contrôle de la Porte des étoiles, alors je le laisse entre tes mains."
+CURRENT,thefinalstand_battleoutro_harken6,3239,"Goodbye Captain, and good luck with your new place in the galaxy.","Au revoir capitaine, et bonne chance pour ta nouvelle place dans la galaxie."
+CURRENT,creditstitle_builders,3239,Ship Builders,Constructeurs de navires
+CURRENT,creditstitle_testers,3239,Early Play Testing,Test de jeu précoce
+CURRENT,creditstitle_translators,3239,Translation,Traduction
+CURRENT,engine_thrust,3239,THRUST *X%,FOULE *X%
+CURRENT,hud_converttracktosplitter,3239,[CTRL + RMB] Convert to splitter,[CTRL + RMB] Convertir en Séparateur
+CURRENT,hud_convertsplittertotrack,3239,[CTRL + RMB] Convert to track,[CTRL + RMB] Convertir en Piste
+CURRENT,survey_captionmultiple,3239,*X ships surveying,*X l'arpentage des navires
+CURRENT,tutorial_radiationinstallinfuser,3239,Laser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area and power it.,Les infuseurs laser sont utilisés pour charger les cristaux vides en gaz Zeleon Gas et émettront des radiations dans la zone environnante lorsqu'ils sont alimentés.\n\nInstalle l'infuseur laser dans une zone dégagée et alimente-le.
+CURRENT,tutorial_radiationsetupinfuser,3239,Let's set the laser infuser to use them to produce charged crystals.,Réglons l'Infuseur laser pour qu'il les utilise afin de produire des cristaux chargés.
+CURRENT,tutorial_radiationwaitforinputs,3239,The laser infuser is set to start making charged crystals! Laser infusers use Zeleon Energy Cells to charge the crystals.\n\nLet's wait for it to begin charging crystals.,L'infuseur laser est prêt à commencer à fabriquer des cristaux chargés ! Les infuseurs laser utilisent des Cellules énergétiques Zeleon pour charger les cristaux.\n\nAttendons qu'il commence à charger des cristaux.
+CURRENT,tutorial_surveystartsectorsurvey,3239,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one ship in a system can do a sector scan.\n\nClick the button to begin a sector scan.,Les balayages sectoriels recherchent des zones d'intérêt dans le secteur autour du système dans lequel se trouve ton vaisseau.\n\nLe balayage s'arrête une fois qu'il est terminé. Un seul vaisseau dans un système peut effectuer un balayage de secteur.\n\nClique sur le bouton pour commencer un balayage de secteur.
+CURRENT,tutorial_surveystartlocalsurvey,3239,Areas of interest will expire after some time if they are not surveyed. Multiple ships can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,Les zones d'intérêt expireront au bout d'un certain temps si elles ne sont pas étudiées. Plusieurs navires peuvent contribuer à une enquête locale.\n\nClique sur le point d'intérêt pour commencer l'enquête locale.
+CURRENT,bravenewsector_part2_x4,3239,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. As a safeguard against the Andromeda Project, I have installed a back-door that allows you to take control of the Stargate and any devices commanding it.","S'il te plaît, ne laisse pas cela se produire, capitaine. Une si grande partie de ma vie et de mes projets ont été réalisés dans un but purement lucratif, je ne peux pas laisser ce projet devenir l'un d'entre eux. Pour me prémunir contre le projet Andromède, j'ai installé une porte dérobée qui vous permet de prendre le contrôle de la Porte des étoiles et de tous les appareils qui la commandent."
+CURRENT,bravenewsector_part2_x5,3239,Please use it if they restrict the use of the Stargate for their own gain.,"S'il te plaît, utilise-le s'ils restreignent l'utilisation de la porte des étoiles à leur propre profit."
+CURRENT,tutorial_ftlintro,3239,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,"Nous ne pouvons pas amener ces passagers à leur destination sans voyage plus rapide que la lumière. Malheureusement, ce vaisseau n'est pas équipé de son propre <b>Moteur FTL</b>.\n\nNous devrons en acheter un et l'installer."
+CURRENT,tutorial_ftltradescreen,3239,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,Ouvre l'écran de commerce pour acheter un <b>moteur FTL</b> et quelques <b>charges FTL</b>.
+CURRENT,stargate_power_fraction,3239,*X / *Y MW,*X / *Y MW
+CURRENT,newmainmenu_includedocked,3239,INCLUDE DOCKED SHIPS,INCLURE LES NAVIRES AMARRÉS
+CURRENT,hud_layer_hostile,3239,HOSTILE *X,HOSTILE *X
+CURRENT,hud_layer_derelict,3239,DERELICT *X,DERELICT *X
+CURRENT,hud_layer_forsale,3239,[FOR SALE] *X,[A VENDRE] *X
+CURRENT,blackhole_part1_setup7,3239,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop and a tank to store the isotopes in first.","J'ai besoin de matériel pour synthétiser les ressources dont nous avons besoin.  Vous pouvez m'aider pendant que je travaille sur les calculs. J'ai besoin d'Isotopes de l'hyperespace - vous devriez pouvoir les collecter assez facilement, mais il vous faudra d'abord acquérir un Scoop de l'hyperespace et un réservoir pour stocker les isotopes."
 CURRENT,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,Leur usure extérieure nous laisse penser qu'ils sont là depuis au moins un siècle. Ce secteur a dû être l'une des premières tentatives de l'humanité pour coloniser l'espace.
 CURRENT,techtree_node_caption_metallurgyrepeatable,3054,Spend research credits to continually increase our smelting efficiency.,Dépense des crédits de recherche pour augmenter continuellement l'efficacité de notre fusion.
 CURRENT,mainmenu_gamemode_arena,3054,Arena,Arène
@@ -19,8 +268,6 @@ CURRENT,newmainmenu_multisectorsim,3054,Multi-System Simulation,Simulation multi
 CURRENT,newmainmenu_multisectorsimtooltip,3054,"Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.","Permet la simulation multi-systèmes, ce qui te permet de répartir ta flotte entre plusieurs systèmes/secteurs simultanément."
 CURRENT,hud_shipmaximumoccupancy,3054,Ship Maximum Occupancy: *X/*Y,Occupation maximale du navire : *X/*Y
 CURRENT,hud_surveyinprogress,3054,WARNING - SURVEY WILL BE CANCELLED,AVERTISSEMENT - L'ENQUÊTE SERA ANNULÉE
-CURRENT,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] Convertir en séparateur
-CURRENT,hud_convertsplittertotrack,3054,[RMB] Convert to track,[RMB] Convertir en Piste
 CURRENT,shipeditor_tooltip_painthull,3054,Toggle painting the exterior panels of the hull of your ship,Bascule la peinture des panneaux extérieurs de la coque de ton navire
 CURRENT,shipeditor_tooltip_painthabitation,3054,Toggle painting the exterior panels of the habitation quarters of your ship,Bascule la peinture des panneaux extérieurs des quartiers d'habitation de ton vaisseau
 CURRENT,shipeditor_tooltip_paintscaffold,3054,Toggle painting the scaffolding on your ship,Toggle la peinture des échafaudages sur ton bateau
@@ -46,7 +293,6 @@ CURRENT,survey_type_colony,3054,Colony,Colonie
 CURRENT,survey_title,3054,UNSURVEYED *X,NON ANALYSE *X
 CURRENT,survey_captionnone,3054,No survey in progress,Pas d'enquête en cours
 CURRENT,survey_captionsingle,3054,Surveyed by *X,Enquêté par *X
-CURRENT,survey_captionmultiple,3054,*X layers surveying,*X couches d'arpentage
 CURRENT,survey_local_noequipment,3054,NO SUPERCOMPUTERS INSTALLED,AUCUN SUPERORDINATEUR INSTALLÉ
 CURRENT,survey_sector_title,3054,SECTOR SCAN,ANALYSE DU SECTEUR
 CURRENT,survey_sector_nothingtoscan,3054,REGION FULLY SCANNED,RÉGION ENTIÈREMENT NUMÉRISÉE
@@ -105,9 +351,6 @@ CURRENT,alert_type_emp_caption,3054,*X piece(s) disabled,*X pièce(s) désactiv�
 CURRENT,alert_type_emp_tooltip,3054,"Your ship has been struck by lightning, temporarily disabling some of your equipment.","Votre vaisseau a été frappé par la foudre, ce qui a temporairement mis hors service certains de tes équipements."
 CURRENT,tutorial_radiation_title,3054,RADIATION,RADIATION
 CURRENT,tutorial_radiationintro,3054,We are going to learn about radiation.,Nous allons apprendre ce que sont les radiations.
-CURRENT,tutorial_radiationinstallinfuser,3054,A laser infuser has been delivered to your ship.\n\nLaser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area.,Un infuseur laser a été livré à ton vaisseau.\n\nLes infuseurs laser sont utilisés pour charger des cristaux vides avec du gaz Zeleon et émettront des radiations dans les environs lorsqu'ils seront alimentés.\n\nInstalle l'infuseur laser dans une zone dégagée.
-CURRENT,tutorial_radiationsetupinfuser,3054,An empty crystal and some zeleon energy cells have been delivered to your ship too.\n\nLet's set the laser infuser to use them to produce charged crystals.,Un cristal vide et quelques cellules énergétiques Zeleon ont également été livrés à ton vaisseau.\n\nRéglons l'infuseur laser pour qu'il les utilise afin de produire des cristaux chargés.
-CURRENT,tutorial_radiationwaitforinputs,3054,The laser infuser is set to start making charged crystals!\n\nLet's wait for it to begin charging crystals.\n\nDon't forget to power the Laser Infuser.,L'infuseur laser est prêt à fabriquer des cristaux chargés !\n\nAttendons qu'il commence à charger les cristaux.\n\nN'oublie pas d'alimenter l'infuseur laser.
 CURRENT,tutorial_radiationselectoverlay,3054,The game has been set to a slower speed for now.\n\nRadiation is emitted in all directions away from the laser infuser.\n\nClick on the radiation overlay to view where your ship is irradiated.,Le jeu a été réglé sur une vitesse plus lente pour l'instant.\n\nLes radiations sont émises dans toutes les directions à partir de l'infuseur laser.\n\nClique sur la superposition des radiations pour voir où ton vaisseau est irradié.
 CURRENT,tutorial_radiationselectoverlay2,3054,"All green areas of your ship are safe for your crew, but the darker areas are dangerous.\n\nSpacesuits will protect your crew from being irradiated.","Toutes les zones vertes de ton vaisseau sont sûres pour ton équipage, mais les zones plus sombres sont dangereuses.\n\nLes combinaisons spatiales protégeront ton équipage contre les irradiations."
 CURRENT,tutorial_radiationinstallblockers,3054,"Radiation spread can be limited by special equipment called radiation blockers.\n\nInstall some blockers close to your laser infuser, leaving a small gap between the infuser and the blocker.\n\nIncrease the game speed when you are ready.","La propagation des radiations peut être limitée par des équipements spéciaux appelés bloqueurs de radiations.\n\nInstalle quelques bloqueurs près de ton infuseur laser, en laissant un petit espace entre l'infuseur et le bloqueur.\n\nAugmente la vitesse du jeu lorsque tu es prêt."
@@ -117,11 +360,9 @@ CURRENT,tutorial_radiationsuccess,3054,"Well done, you have now learnt how radia
 CURRENT,tutorial_survey_title,3054,SECTOR SURVEYING,ENQUÊTE SECTORIELLE
 CURRENT,tutorial_surveyintro,3054,"We are going to learn how to survey the area around your ship.\n\nThe first step is to scan the local area of the sector surrounding you ship using a <b>SECTOR SCAN</b>.\n\nIn Boldly Go, only the new sector can be surveyed.\n\nHyperspace sensors are required to do this.","Nous allons apprendre à faire le relevé de la zone autour de ton vaisseau.\n\nLa première étape consiste à scanner la zone locale du secteur entourant ton vaisseau à l'aide d'un <b>SECTOR SCAN</b>.\n\nDans Le Grand Saut, seul le nouveau secteur peut être relevé.\n\nDes capteurs hyperespace sont nécessaires pour ce faire."
 CURRENT,tutorial_surveyinstallsensors,3054,"Install Hyperspace Sensors or Hyperspace Sensor LRs onto one of your ships.\n\nThis tutorial will resume afterwards.\n\nIf you are playing the Boldly Go game mode, your ship must also be in the new sector.","Installe des Capteurs d'hyperespace ou des Capteurs d'hyperespace LR sur l'un de tes vaisseaux.\n\nCe tutoriel reprendra ensuite.\n\nSi tu joues au mode de jeu Audace, ton vaisseau doit également se trouver dans le nouveau secteur."
-CURRENT,tutorial_surveystartsectorsurvey,3054,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan.,Les balayages sectoriels recherchent des zones d'intérêt dans le secteur autour du système dans lequel se trouve votre vaisseau.\n\nLe balayage s'arrêtera une fois qu'il sera terminé. Seule une couche dans un système peut effectuer un balayage de secteur.\n\nClique sur le bouton pour commencer un balayage de secteur.
 CURRENT,tutorial_surveyhighlightsectorsurveysystem,3054,Hovering the mouse over the current system will reveal the radius around the system that is being scanned and the scan's progress toward finding new points of interest.\n\nOpen the <b>SECTOR MAP</b> and click <b>NEXT</b> to speed-up the survey.,"En passant la souris sur le système actuel, vous verrez le rayon autour du système qui est en train d'être scanné et la progression du scan pour trouver de nouveaux points d'intérêt.\n\nOuvrez la <b>carte du SECTEUR</b> et cliquez sur <b>SUIVANT</b> pour accélérer l'enquête."
 CURRENT,tutorial_surveylocalsurveyintro,3054,The next step is to perform a <b>LOCAL SURVEY</b>.\n\nLocal surveys allow points of interest to be accessed via FTL.\n\nShips need to have super computers installed and must be in the same sector to participate in a local survey.,L'étape suivante consiste à effectuer un <b>SONDAGE LOCAL</b>.\n\nLes sondages locaux permettent d'accéder à des points d'intérêt via le FTL.\n\nLes navires doivent avoir installé des super ordinateurs et doivent se trouver dans le même secteur pour participer à un sondage local.
 CURRENT,tutorial_surveyinstallcomputers,3054,Install a super-computer on one of your ships.\n\nThis tutorial will resume afterwards.,Installe un super ordinateur sur l'un de tes vaisseaux.\n\nCe tutoriel reprendra ensuite.
-CURRENT,tutorial_surveystartlocalsurvey,3054,Areas of interest will expire after some time if they are not surveyed. Multiple layers can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,Les zones d'intérêt expireront au bout d'un certain temps si elles ne font pas l'objet d'une enquête. Plusieurs couches peuvent contribuer à une enquête locale.\n\nClique sur le point d'intérêt pour commencer l'enquête locale.
 CURRENT,tutorial_surveyoutro,3054,Click <b>NEXT</b> to speed-up the survey.,Clique sur <b>SUIVANT</b> pour accélérer l'enquête.
 CURRENT,tutorial_surveysuccess,3054,"A new system on the sector map has appeared for your fleet to explore!\n\nWell done, you have now learnt how to use sector surveying to find and explore new systems.\n\nKeep an eye out for special loot on surveyed derelict ships that can be researched by your science stations.","Un nouveau système sur la carte du secteur est apparu pour que ta flotte l'explore !\n\nBravo, tu as maintenant appris à utiliser l'arpentage du secteur pour trouver et explorer de nouveaux systèmes.\n\nGarde un œil sur les vaisseaux abandonnés arpentés pour y trouver des butins spéciaux qui peuvent être recherchés par tes stations scientifiques."
 CURRENT,bravenewsector_part1_x1,3054,Captain? Are you there?,Capitaine ? Tu es là ?
@@ -132,8 +373,6 @@ CURRENT,bravenewsector_part2_title,3054,"Brave New Sector, Part 2","Brave New Se
 CURRENT,bravenewsector_part2_summary,3054,Uncover the history of the new sector.,Découvre l'histoire du nouveau secteur.
 CURRENT,bravenewsector_part2_x1,3054,"Hello again Captain, the Andromeda Project is very impressed with the samples you've sent them. They want your work on the Stargate to continue.","Bonjour à nouveau Capitaine, le projet Andromède est très impressionné par les échantillons que vous leur avez envoyés. Ils veulent que votre travail sur la porte des étoiles se poursuive."
 CURRENT,bravenewsector_part2_x3,3054,"I must warn you, there are rumours that their plan is to take the Stargate fully under their control. They will charge anyone who wants to use it a fortune, preventing any competition and harvesting all the resources in the new galaxy for themselves. They will become more powerful than any entity we have seen before.","Je dois te prévenir, il y a des rumeurs selon lesquelles leur plan est de prendre la Porte des étoiles entièrement sous leur contrôle. Ils feront payer une fortune à tous ceux qui voudront l'utiliser, empêchant toute concurrence et récoltant pour eux-mêmes toutes les ressources de la nouvelle galaxie. Ils deviendront plus puissants que toutes les entités que nous avons vues auparavant."
-CURRENT,bravenewsector_part2_x4,3054,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. The Stargate is too important and valuable for our species to be under their control.","S'il te plaît, ne laisse pas cela se produire, capitaine. Une si grande partie de ma vie et de mes projets ont été réalisés dans un but purement lucratif, je ne peux pas laisser ce projet devenir l'un d'entre eux. La Porte des étoiles est trop importante et trop précieuse pour que notre espèce soit sous leur contrôle."
-CURRENT,bravenewsector_part2_x5,3054,I have installed a back-door that will cause the Stargate to self-destruct if you command it to. You must trigger it if the rumours are true.,J'ai installé une porte dérobée qui provoquera l'autodestruction de la Porte si tu l'ordonnes. Tu dois la déclencher si les rumeurs sont vraies.
 CURRENT,bravenewsector_part2_x6,3054,"Unfortunately, I've been given some bad news, and I won't be around for much longer. I would like to give you full ownership of the foundry as a thank you for helping me finish this final project.","Malheureusement, j'ai reçu de mauvaises nouvelles et je ne serai plus là très longtemps. J'aimerais te donner la pleine propriété de la fonderie pour te remercier de m'avoir aidé à terminer ce dernier projet."
 CURRENT,bravenewsector_part2_x7,3054,It seems we have completed it just in time.,Il semble que nous l'ayons achevé juste à temps.
 CURRENT,bravenewsector_part2_x8,3054,"This is our final call, Captain. I wish you the best of luck. Thank you again, and goodbye.","C'est notre dernier appel, capitaine. Je vous souhaite bonne chance. Merci encore, et au revoir."
@@ -309,7 +548,7 @@ CURRENT,tutorial_powerreactoractive,2886,The <b>REACTOR</b> is activated! We are
 CURRENT,tutorial_stargatescreen1,2886,Let's turn our attention to the <b>STARGATE PROJECT</b>.\n\nWe can view our progress from the Stargate screen.\n\nOpen the <b>STARGATE</b> screen.,Intéressons-nous maintenant au <b>PROJET STARGATE</b>.\n\nNous pouvons voir notre progression à partir de l'écran de la porte des étoiles.\n\nOuvre l'écran <b>STARGATE</b>.
 CURRENT,tutorial_smelterssalvage,2886,Click on the nearby <b>RUINED EQUIPMENT</b> to instruct your crew to dismantle it into <b>SCRAP METAL</b>.,Clique sur l'<b>ÉQUIPEMENT RUINÉ</b> qui se trouve à proximité pour demander à ton équipe de le démanteler et de le transformer en <b>FERRAILLE</b>.
 CURRENT,tutorial_fleettrade,2886,The ship is fitted with engines and an <b>FTL</b> drive for Interstellar Travel! But it does need a crew.\n\nOpen the <b>TRADE</b> screen.,Le vaisseau est équipé de moteurs et d'un moteur <b>FTL</b> pour les voyages interstellaires ! Mais il a besoin d'un équipage.\n\nOuvre l'écran <b>COMMERCE</b>.
-CURRENT,tutorial_dsiclosedismantle,2886,We can stop dismantling by clicking the dismantle button again or by closing the construction menu.\n\nClose the menu by clicking the <b>CONSTRUCTION</b> button or by pressing <b>ESC</b>.,Nous pouvons arrêter le démontage en cliquant à nouveau sur le bouton Démanteler ou en fermant le menu de construction.
+CURRENT,tutorial_dsiclosedismantle,2886,We can stop dismantling by clicking the dismantle button again or by closing the construction menu.\n\nClose the menu by clicking the <b>CONSTRUCTION</b> button or by pressing <b>ESC</b>.,Nous pouvons arrêter le démontage en cliquant à nouveau sur le bouton Démanteler ou en fermant le menu de construction.\n\nFermez le menu en cliquant sur le bouton <b>CONSTRUCTION</b> ou en appuyant sur <b>ÉCHAP</b>.
 CURRENT,tutorial_cameracontrols,2886,"Use <b>{PanUp1}{PanLeft1}{PanDown1}{PanRight1}</b> or the <b>ARROW KEYS</b> to move the view around.\n\nZoom the view using the <b>MOUSE WHEEL</b>, or <b>{ZoomIn}</b>/<b>{ZoomOut}</b> on the keyboard.\n\nDrag the view by holding the <b>MIDDLE MOUSE BUTTON</b>.",Utilisez <b>{PanUp1}{PanLeft1}{PanDown1}{PanRight1}</b> ou les <b>TOUCHES FLÉCHÉES</b> pour déplacer la vue.\n\nZoomez sur la vue à l'aide de la <b>MOLETTE DE LA SOURIS</b> ou de <b>{ZoomIn}</b>/<b>{ZoomOut}</b> sur le clavier.\n\nFaites glisser la vue en maintenant enfoncé le <b>BOUTON DU MILIEU DE LA SOURIS</b>.
 CURRENT,tutorial_flighttactical,2886,"We should give our engines a small test flight.  To maneuver our ship, switch into <b>TACTICAL</b> mode by clicking the highlighted button, or pressing <b>{ToggleTactical}</b>.","Nous devrions faire un petit vol d’essai à nos moteurs. Pour manœuvrer notre vaisseau, passez en mode <b>TACTIQUE</b> en cliquant sur le bouton en surbrillance ou en appuyant sur <b>{ToggleTactical}</b>."
 CURRENT,tutorial_flightexittactical,2886,"Exit <b>TACTICAL</b> mode by clicking the button again, or pressing <b>{ToggleTactical}</b>.",Quittez le mode <b>TACTIQUE</b> en cliquant à nouveau sur le bouton ou en appuyant sur <b>{ToggleTactical}</b>.
@@ -336,8 +575,6 @@ CURRENT,tutorial_airpipetoairduct,2886,"Drag a <b>PIPE</b> from the <b>OXYGEN LO
 CURRENT,tutorial_airdone,2886,The <b>AIRDUCT</b> is activated and is pressurising the cabin! The atmosphere will soon be breathable.,Le <b>CONDUIT D'AIR</b> s'active et met la cabine sous pression ! L'atmosphère sera bientôt respirable.
 CURRENT,tutorial_enginesinformation,2886,Engines require both <b>POWER</b> and <b>FUEL</b> to operate. We must connect both engines to fuel and power.,Les moteurs ont besoin à la fois de <b>COURANT</b> et de <b>CARBURANT</b> pour fonctionner. Nous devons connecter les deux moteurs au carburant et à l’électricité.
 CURRENT,tutorial_enginesconnectpower,2886,"Now use the <b>CABLES</b> menu to power up the engine, by connecting it to your existing red power lines.","Utilisez maintenant le menu <b>CÂBLES</b> pour alimenter le moteur, en le connectant à vos lignes électriques rouges existantes."
-CURRENT,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,"Nous ne pouvons pas amener ces passagers à leur destination sans un voyage plus rapide que la lumière. Malheureusement, ce vaisseau n'est pas équipé de son propre moteur <b>FTL</b>.\n\nNous devrons en acheter un et l'installer."
-CURRENT,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,Ouvrez l'écran de commerce pour acheter un lecteur <b>FTL</b>.
 CURRENT,tutorial_ftlselectpropulsion,2886,The items we need are listed under <b>PROPULSION</b>. Select that category.,Les éléments dont nous avons besoin sont répertoriés sous <b>PROPULSION</b>. Sélectionnez cette catégorie.
 CURRENT,tutorial_ftladdftldrive,2886,Add one <b>FTL</b> drive to our order by clicking on the entry in the list.,Ajoutez un moteur <b>FTL</b> à notre commande en cliquant sur l'entrée dans la liste.
 CURRENT,tutorial_ftladdftlfuel,2886,<b>FTL</b> drives consume one fuel charge per jump. Add 5 <b>FTL</b> Charges to the order as well.,Les sauts <b>FTL</b> consomment une charge de carburant par saut. Ajoutez également 5 recharges <b>FTL</b> à la commande.
@@ -611,7 +848,6 @@ CURRENT,object_neubidiumcapacitor,2624,Neubidium Capacitor,Condensateur de Neubi
 CURRENT,alert_type_stargatelosingpower,2624,STARGATE LOSING POWER,LA PORTE DES ÉTOILES PERD DE L'ÉNERGIE
 CURRENT,alert_type_stargatelosingpower_caption,2624,*X MW / *Y MW Supplied,*X MW / *Y MW fournis
 CURRENT,alert_type_stargatelosingpower_tooltip,2624,The stargate isn't being supplied with enough power. Use energy transmitters to supply the Stargate with power.,La porte des étoiles n'est pas suffisamment alimentée en énergie. Utilise des transmetteurs d'énergie pour alimenter la porte des étoiles.
-CURRENT,stargate_power_fraction,2624,SUPPLIED:\n*X MW / *Y MW,FOURNI :\n*X MW / *Y MW
 CURRENT,stargate_power_button,2624,START,START
 CURRENT,stargate_powered_off,2624,POWERED OFF,MISE HORS TENSION
 CURRENT,stargate_warming_up,2624,WARMING UP,RÉCHAUFFE-TOI
@@ -997,7 +1233,6 @@ CURRENT,newmainmenu_loadgamedev,2448,LOAD GAME (DEV),CHARGER PARTIE (DEV)
 CURRENT,newmainmenu_createship,2448,CREATE NEW SHIP,CRÉER UN NOUVEAU NAVIRE
 CURRENT,newmainmenu_createnewsave,2448,CREATE NEW SAVE,CRÉER UNE NOUVELLE SAUVEGARDE
 CURRENT,newmainmenu_exportship,2448,EXPORT SHIP,NAVIRE D'EXPORTATION
-CURRENT,newmainmenu_includedocked,2448,INCLUDE DOCKED SHIPS IN EXPORT,INCLURE LES NAVIRES À QUAI DANS L'EXPORTATION
 CURRENT,newmainmenu_uploadship,2448,UPLOAD TO STEAM,TÉLÉCHARGER SUR STEAM
 CURRENT,newmainmenu_setshipname,2448,SET SHIP NAME,DÉFINIR LE NOM DU NAVIRE
 CURRENT,newmainmenu_importhostile,2448,IMPORT HOSTILE,IMPORTER HOSTILE
@@ -1091,10 +1326,11 @@ CURRENT,hud_endcreativemodewarning,2448,LEAVING CREATIVE MODE,QUITTER LE MODE CR
 CURRENT,hud_endcreativemodefull,2448,Creative Mode will end when you jump to hyperspace,Le mode créatif se terminera lorsque vous passerez en hyperespace
 CURRENT,hud_hyperspace,2448,HYPERSPACE,HYPERESPACE
 CURRENT,hud_deselectlayer,2448,DESELECT SHIP,DÉSÉLECTIONNEZ LE NAVIRE
-CURRENT,hud_direction_up,2448,Port,Babord
-CURRENT,hud_direction_right,2448,Forward,Proue
-CURRENT,hud_direction_down,2448,Starboard,Tribord
-CURRENT,hud_direction_left,2448,Aft,Poupe
+CURRENT,hud_gun_port,3205,Port *X,*X Babord
+CURRENT,hud_gun_forward,3205,Forward *X,*X de Proue
+CURRENT,hud_gun_starboard,3205,Starboard *X,*X Tribord
+CURRENT,hud_gun_aft,3205,Aft *X,*X de Poupe
+CURRENT,hud_gun_gattling,3205,PDC,PDC
 CURRENT,hud_camerattracking,2448,Camera Tracking,Suivi de la caméra
 CURRENT,hud_enabled,2448,Enabled,Activé
 CURRENT,hud_disabled,2448,Disabled,Désactivé
@@ -1188,9 +1424,6 @@ CURRENT,hud_storagecrate_tooltip_storing,2448,Storing *X,Stockage de *X
 CURRENT,hud_storagecrate_tooltip_quantity,2448,Quantity: *X,Quantité : *X
 CURRENT,hud_storagecrate_tooltip_capacity,2448,Capacity: *X,Capacité : *X
 CURRENT,hud_mission_collection,2448,WARNING - MISSION COLLECTION UNDERWAY,AVERTISSEMENT - COLLECTE DE MISSIONS EN COURS
-CURRENT,hud_layer_hostile,2448,HOSTILE,HOSTILE
-CURRENT,hud_layer_derelict,2448,DERELICT,ABANDONNÉ
-CURRENT,hud_layer_forsale,2448,[FOR SALE],[À VENDRE]
 CURRENT,hud_layer_unnaned_system,2448,UNNAMED,ANONYME
 CURRENT,hud_trade_incoming,2448,WARNING - TRADE INCOMING,AVERTISSEMENT - COMMERCE ENTRANT
 CURRENT,hud_trade_owed,2448,WARNING - TRADE OWED,AVERTISSEMENT - COMMERCE DÛ
@@ -1748,8 +1981,8 @@ CURRENT,object_battery_description,2448,"Stores any excess power available in th
 CURRENT,object_box,2448,Box,Boîte
 CURRENT,object_bullets,2448,Bullets,Balles
 CURRENT,object_bullets_description,2448,A box of ammo for a Gatling Gun (PDC).,Une boîte de munitions pour une mitrailleuse Gatling (PDC).
-CURRENT,object_railgunshell,2448,Railgun Slugs,Balles pour un railgun
-CURRENT,object_railgunshell_description,2448,A box of ammo for a Railgun.,Une boîte de munitions pour un Railgun.
+CURRENT,object_railgunshell,2448,Railgun Slugs,Obus électromagnétique
+CURRENT,object_railgunshell_description,2448,A box of ammo for a Railgun.,Une boîte de munitions pour un Canon électromagnétique
 CURRENT,object_cargo,2448,Cargo,Cargaison
 CURRENT,object_civilian,2448,Civilian,Civil
 CURRENT,object_refugee,2448,Refugee,Réfugié
@@ -1816,7 +2049,7 @@ CURRENT,object_oxygen,2448,Oxygen,Oxygène
 CURRENT,object_powercoil,2448,Power Coil,Bobine de puissance
 CURRENT,object_powercoilcharged,2448,Charged Power Coil,Bobine de puissance chargée
 CURRENT,object_powerinjector,2448,Power Injector,Injecteur de puissance
-CURRENT,object_railgun,2448,Railgun,Railgun
+CURRENT,object_railgun,2448,Railgun,Canon électromagnétique
 CURRENT,object_railgun_description,2448,"An extremely accurate and long range weapon system that fires a solid slug of metal. The Railgun is a precise weapon that can penetrate through hull armour and destroy equipment inside the target ship. However, the weapon draws a huge amount of energy to recharge after each shot.","Un système d'arme extrêmement précis et à longue portée qui tire une solide balle de métal. Le Railgun est une arme précise qui peut pénétrer à travers le blindage de la coque et détruire l'équipement à l'intérieur du navire cible. Cependant, l’arme consomme une énorme quantité d’énergie pour se recharger après chaque tir."
 CURRENT,object_reactor,2448,Reactor,Réacteur
 CURRENT,object_reactor_description,2448,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW.,Brûle du carburant à haute énergie pour produire de l'électricité. Doit être alimenté en carburant (via un tuyau). Utilisez ensuite des câbles pour vous connecter à d'autres équipements alimentés.\nGénère une puissance de sortie maximale de 100 MW.
@@ -2280,7 +2513,6 @@ CURRENT,blackhole_part1_setup4,2448,"The last time, we pushed it too far.  My br
 CURRENT,blackhole_part1_setup5,2448,"I've lost all contact, and he's been down there for a long time now.  He's still showing on the sensors, and his ship is still intact.  The gravitational forces and time dilation will be extreme.  But with your help, we're going to rescue him.","J'ai perdu tout contact et il est là-bas depuis longtemps maintenant.  Il est toujours visible sur les capteurs et son vaisseau est toujours intact.  Les forces gravitationnelles et la dilatation du temps seront extrêmes.  Mais avec votre aide, nous allons le sauver."
 CURRENT,blackhole_part1_setup6,2448,There's only one way to get to him without falling into the black hole ourselves.  We're going to have to do an extremely short range HYPERSPACE HOP.,Il n'y a qu'un seul moyen de l'atteindre sans tomber nous-mêmes dans le trou noir.  Nous allons devoir faire un SAUT HYPERSPATIAL à très courte portée.
 CURRENT,blackhole_part1_setup6b,2448,"Using a modified FTL Drive you'll do one hyperspace hop toward the black hole, rescue my brother Marcus, then turn around and hop right out.  It will be dangerous, but it's the only way to avoid being dragged in ourselves.","En utilisant un moteur FTL modifié, vous ferez un saut hyperspatial vers le trou noir, sauverez mon frère Marcus, puis vous retournerez et sauterez directement.  Ce sera dangereux, mais c'est le seul moyen d'éviter de se laisser nous-mêmes entraîner."
-CURRENT,blackhole_part1_setup7,2448,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop first.","J’ai besoin de matériel pour synthétiser les ressources dont nous avons besoin.  Vous pouvez m'aider pendant que je travaille sur les calculs. J’aurai besoin d’isotopes de l’hyperespace – vous devriez pouvoir les collecter assez facilement, mais vous devrez d’abord acquérir un scoop d’hyperespace."
 CURRENT,blackhole_part1_setup7b,2448,You'll then need to use a Loader to start unloading the isotopes into containers.,Vous devrez ensuite utiliser un chargeur pour commencer à décharger les isotopes dans des conteneurs.
 CURRENT,blackhole_part1_setup8,2448,I'm building the Hyperspace FTL drive that will allow you to perform the hop.  It's going to need some modifications.  I'll need you to manufacture some parts for me. I know you have manufacturing facilities near the Stargate project.  You should be able to make these parts for me without too much trouble.,Je construis le lecteur Hyperspace FTL qui vous permettra d'effectuer le saut.  Cela va nécessiter quelques modifications.  J'aurai besoin que vous fabriquiez quelques pièces pour moi. Je sais que vous avez des installations de fabrication à proximité du projet Stargate.  Vous devriez pouvoir me fabriquer ces pièces sans trop de problèmes.
 CURRENT,blackhole_part1_setup9,2448,"Bring those materials back to me, and we can move onto phase 2.",Rapportez-moi ces ressources et nous pourrons passer à la phase 2.
@@ -2644,7 +2876,6 @@ CURRENT,tutorial_dsisetrecipe,2448,Right-clicking on equipment allows you to set
 CURRENT,tutorial_dsisetupdone,2448,The smelter will now start producing metal ingots after it has finished heating up.,La fonderie commencera désormais à produire des lingots de métal une fois son chauffage terminé.
 CURRENT,tutorial_stargatewindowopenwindow,2448,Select the Stargate button in your toolbar to open the Stargate screen.,Sélectionnez le bouton Stargate dans votre barre d’outils pour ouvrir l’écran Stargate.
 CURRENT,tutorial_stargatewindowintro,2448,The Stargate screen displays everything you need to manufacture to complete the current phase.,L'écran Stargate affiche tout ce que vous devez fabriquer pour terminer la phase en cours.
-CURRENT,tutorial_stargatewindowhighlightcomponent,2448,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,Chaque composant que vous devez fabriquer se trouve sur la gauche.\nPlacer votre souris sur l'icône d'un composant montre comment le produire.
 CURRENT,tutorial_stargatewindowhighlightphases,2448,"The Stargate's construction is split into phases, with each phase requiring more and more resources.\nYou have just completed Phase 1.","La construction de la Porte des étoiles est divisée en phases, chaque phase nécessitant de plus en plus de ressources.\nVous venez de terminer la phase 1."
 CURRENT,tutorial_stargatewindowhighlightphase2,2448,Select Phase 2 to see what you need to manufacture for this phase.,Sélectionnez Phase 2 pour voir ce que vous devez fabriquer pour cette phase.
 CURRENT,tutorial_stargatewindowhighlightframes1,2448,"To complete Phase 2, we need to continue manufacturing Stargate Frames.\n\nInstead of 10, we now need 200!","Pour terminer la phase 2, nous devons continuer à fabriquer des cadres Stargate.\n\nAu lieu de 10, nous en avons maintenant besoin de 200 !"
@@ -2786,6 +3017,36 @@ CURRENT,dsi_part2_scene_z4,2448,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2448,THERE WILL BE NO FURTHER WARNING.,IL N'Y AURA AUCUN AUTRE AVERTISSEMENT.
 CURRENT,dsi_part2_scene_y7,2448,You've left me no choice.,Vous ne m'avez pas laissé le choix.
 CURRENT,dsi_part2_scene_y8,2448,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Je viendrai te chercher Alexandre, et cette fois je ne demande pas 10 %. Je veux tout."
+OBSOLETE,thefinalstand_harken2,3239,"My scientists and officers have analysed the blueprints of the Stargate project, provided to us by the late Alexander James Elistar.","Mes scientifiques et mes officiers ont analysé les plans du projet de porte des étoiles, qui nous ont été fournis par feu Alexander James Elistar."
+OBSOLETE,thefinalstand_harken3,3239,"The Andromeda Project has moved their HQ and all key personell into an unknown location in the new sector, where we believe they are controlling the Stargate.","Le projet Andromède a déplacé son QG et tout le personnel clé dans un endroit inconnu du nouveau secteur, où nous pensons qu'ils contrôlent la Porte des étoiles."
+OBSOLETE,thefinalstand_harken4,3239,"Elistar has left you with a backdoor into the Stargate's security systems, compromising all devices controlling it and providing us with direct access to the Andromeda Project's systems.","Elistar vous a laissé une porte dérobée dans les systèmes de sécurité de la Porte des étoiles, compromettant tous les dispositifs qui la contrôlent et nous donnant un accès direct aux systèmes du projet Andromède."
+OBSOLETE,thefinalstand_harken5,3239,"Any and all damage to the HQ should be avoided. Many innocent lives are on-board that HQ, the loss of life from destroying it would be far too great. You will upload a virus to their command centre and disable the station's offensive capabilities.","Il faut éviter d'endommager le QG. De nombreuses vies innocentes se trouvent à bord de ce QG, les pertes en vies humaines liées à sa destruction seraient bien trop importantes. Tu vas télécharger un virus dans leur centre de commandement et désactiver les capacités offensives de la station."
+OBSOLETE,thefinalstand_harken6,3239,"While you are doing this, my fleet will fight off the Andromeda Project navy. Once the battle is over, I will take control of the HQ and arrest everyone involved. Their conglomerate will be dismantled.","Pendant que vous ferez cela, ma flotte combattra la marine du Projet Andromède. Une fois la bataille terminée, je prendrai le contrôle du QG et j'arrêterai toutes les personnes impliquées. Leur conglomérat sera démantelé."
+OBSOLETE,thefinalstand_boss_harken2,3239,"The previous ships were private security, this one is the Andromeda Navy's flagship! You should have access to its command centre from the HQ.","Les vaisseaux précédents étaient de la sécurité privée, celui-ci est le vaisseau amiral de la marine d'Andromède ! Tu devrais avoir accès à son centre de commandement depuis le QG."
+OBSOLETE,industryend_message,3239,"After capturing the Andromeda HQ, Harken and the Intergalactic Security Council dismantled the Andromeda Project conglomerate.  The control of the Stargate was left in the hands of the Captain that built it.  Humanity's journey across the universe has only just begun...","Après avoir capturé le QG d'Andromède, Harken et le Conseil de sécurité intergalactique ont démantelé le conglomérat du projet Andromède.  Le contrôle de la porte des étoiles a été laissé entre les mains du capitaine qui l'a construite.  Le voyage de l'humanité à travers l'univers ne fait que commencer..."
+OBSOLETE,bravenewsector_part4_rep9,3239,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy the Andromeda.,Bonjour Capitaine. La nouvelle porte des étoiles a placé le projet Andromède en position de force pour contrôler le flux de ressources et de personnes entre cette galaxie et Andromède.
+OBSOLETE,thefinalstand_battleprep_1,3239,"Hello Captain, it's good to see you. This is all of the ships I control in this sector, the rest are on the other side of the Stargate, unable to reach us.","Bonjour Capitaine, c'est un plaisir de vous voir. Voici tous les vaisseaux que je contrôle dans ce secteur, les autres sont de l'autre côté de la porte des étoiles, incapables de nous rejoindre."
+OBSOLETE,thefinalstand_battle_rep1,3239,Commander Harken! I see that my first fleet failed to deal you. I suppose if I want something done properly I should do it myself.,"Commandant Harken ! Je vois que ma première flotte n'a pas réussi à s'occuper de vous. Je suppose que si je veux que quelque chose soit fait correctement, je dois le faire moi-même."
+OBSOLETE,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] Convertir en séparateur
+OBSOLETE,hud_convertsplittertotrack,3054,[RMB] Convert to track,[RMB] Convertir en Piste
+OBSOLETE,survey_captionmultiple,3054,*X layers surveying,*X couches d'arpentage
+OBSOLETE,tutorial_radiationinstallinfuser,3054,A laser infuser has been delivered to your ship.\n\nLaser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area.,Un infuseur laser a été livré à ton vaisseau.\n\nLes infuseurs laser sont utilisés pour charger des cristaux vides avec du gaz Zeleon et émettront des radiations dans les environs lorsqu'ils seront alimentés.\n\nInstalle l'infuseur laser dans une zone dégagée.
+OBSOLETE,tutorial_radiationsetupinfuser,3054,An empty crystal and some zeleon energy cells have been delivered to your ship too.\n\nLet's set the laser infuser to use them to produce charged crystals.,Un cristal vide et quelques cellules énergétiques Zeleon ont également été livrés à ton vaisseau.\n\nRéglons l'infuseur laser pour qu'il les utilise afin de produire des cristaux chargés.
+OBSOLETE,tutorial_radiationwaitforinputs,3054,The laser infuser is set to start making charged crystals!\n\nLet's wait for it to begin charging crystals.\n\nDon't forget to power the Laser Infuser.,L'infuseur laser est prêt à fabriquer des cristaux chargés !\n\nAttendons qu'il commence à charger les cristaux.\n\nN'oublie pas d'alimenter l'infuseur laser.
+OBSOLETE,tutorial_surveystartsectorsurvey,3054,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan.,Les balayages sectoriels recherchent des zones d'intérêt dans le secteur autour du système dans lequel se trouve votre vaisseau.\n\nLe balayage s'arrêtera une fois qu'il sera terminé. Seule une couche dans un système peut effectuer un balayage de secteur.\n\nClique sur le bouton pour commencer un balayage de secteur.
+OBSOLETE,tutorial_surveystartlocalsurvey,3054,Areas of interest will expire after some time if they are not surveyed. Multiple layers can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,Les zones d'intérêt expireront au bout d'un certain temps si elles ne font pas l'objet d'une enquête. Plusieurs couches peuvent contribuer à une enquête locale.\n\nClique sur le point d'intérêt pour commencer l'enquête locale.
+OBSOLETE,bravenewsector_part2_x4,3054,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. The Stargate is too important and valuable for our species to be under their control.","S'il te plaît, ne laisse pas cela se produire, capitaine. Une si grande partie de ma vie et de mes projets ont été réalisés dans un but purement lucratif, je ne peux pas laisser ce projet devenir l'un d'entre eux. La Porte des étoiles est trop importante et trop précieuse pour que notre espèce soit sous leur contrôle."
+OBSOLETE,bravenewsector_part2_x5,3054,I have installed a back-door that will cause the Stargate to self-destruct if you command it to. You must trigger it if the rumours are true.,J'ai installé une porte dérobée qui provoquera l'autodestruction de la Porte si tu l'ordonnes. Tu dois la déclencher si les rumeurs sont vraies.
+OBSOLETE,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,"Nous ne pouvons pas amener ces passagers à leur destination sans un voyage plus rapide que la lumière. Malheureusement, ce vaisseau n'est pas équipé de son propre moteur <b>FTL</b>.\n\nNous devrons en acheter un et l'installer."
+OBSOLETE,tutorial_ftlintro,2448,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,"Nous ne pouvons pas amener ces passagers à leur destination sans un voyage plus rapide que la lumière. Malheureusement, ce vaisseau n'est pas équipé de son propre lecteur FTL.\n\nNous devrons en acheter un et l'installer."
+OBSOLETE,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,Ouvrez l'écran de commerce pour acheter un lecteur <b>FTL</b>.
+OBSOLETE,tutorial_ftltradescreen,2448,Open the trade screen to purchase an FTL drive.,Ouvrez l'écran d'échange pour acheter un lecteur FTL.
+OBSOLETE,stargate_power_fraction,2624,SUPPLIED:\n*X MW / *Y MW,FOURNI :\n*X MW / *Y MW
+OBSOLETE,newmainmenu_includedocked,2448,INCLUDE DOCKED SHIPS IN EXPORT,INCLURE LES NAVIRES À QUAI DANS L'EXPORTATION
+OBSOLETE,hud_layer_hostile,2448,HOSTILE,HOSTILE
+OBSOLETE,hud_layer_derelict,2448,DERELICT,ABANDONNÉ
+OBSOLETE,hud_layer_forsale,2448,[FOR SALE],[À VENDRE]
+OBSOLETE,blackhole_part1_setup7,2448,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop first.","J’ai besoin de matériel pour synthétiser les ressources dont nous avons besoin.  Vous pouvez m'aider pendant que je travaille sur les calculs. J’aurai besoin d’isotopes de l’hyperespace – vous devriez pouvoir les collecter assez facilement, mais vous devrez d’abord acquérir un scoop d’hyperespace."
 OBSOLETE,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,Leur usure extérieure nous laisse penser qu'ils sont là depuis au moins un siècle. Ce secteur a dû être l'une des premières tentatives de l'humanité pour coloniser l'espace.
 OBSOLETE,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.","Active des fonctions pour aider les traducteurs, comme Alt pour révéler l'anglais et Ctrl pour révéler la clé de l'expression."
 OBSOLETE,shipeditor_tooltip_eyedropper,2793,"Lets you select a paint from the exterior of your ship (can also be used by pressing the ""Shift"" key)","Permet de sélectionner une peinture à l'extérieur de ton vaisseau (peut également être utilisé en appuyant sur la touche ""Shift"")"
@@ -2841,8 +3102,6 @@ OBSOLETE,tutorial_airpipetoairduct,2448,"Drag a PIPE from the OXYGEN LOADER to t
 OBSOLETE,tutorial_airdone,2448,The AIRDUCT is activated and is pressurising the cabin! The atmosphere will soon be breathable.,L'AIRDUCT s'active et met la cabine sous pression ! L'atmosphère sera bientôt respirable.
 OBSOLETE,tutorial_enginesinformation,2448,Engines require both POWER and FUEL to operate. We must connect both engines to fuel and power.,Les moteurs ont besoin à la fois de PUISSANCE et de CARBURANT pour fonctionner. Nous devons connecter les deux moteurs au carburant et à l’électricité.
 OBSOLETE,tutorial_enginesconnectpower,2448,"Now use the CABLES menu to power up the engine, by connecting it to your existing red power lines.","Utilisez maintenant le menu CÂBLES pour alimenter le moteur, en le connectant à vos lignes électriques rouges existantes."
-OBSOLETE,tutorial_ftlintro,2448,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,"Nous ne pouvons pas amener ces passagers à leur destination sans un voyage plus rapide que la lumière. Malheureusement, ce vaisseau n'est pas équipé de son propre lecteur FTL.\n\nNous devrons en acheter un et l'installer."
-OBSOLETE,tutorial_ftltradescreen,2448,Open the trade screen to purchase an FTL drive.,Ouvrez l'écran d'échange pour acheter un lecteur FTL.
 OBSOLETE,tutorial_ftlselectpropulsion,2448,The items we need are listed under PROPULSION. Select that category.,Les éléments dont nous avons besoin sont répertoriés sous PROPULSION. Sélectionnez cette catégorie.
 OBSOLETE,tutorial_ftladdftldrive,2448,Add one FTL drive to our order by clicking on the entry in the list.,Ajoutez un lecteur FTL à notre commande en cliquant sur l'entrée dans la liste.
 OBSOLETE,tutorial_ftladdftlfuel,2448,FTL drives consume one fuel charge per jump. Add 5 FTL Charges to the order as well.,Les entraînements FTL consomment une charge de carburant par saut. Ajoutez également 5 frais FTL à la commande.
