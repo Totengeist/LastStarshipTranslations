@@ -1,6 +1,5 @@
-﻿state,key,svn,english,translation
-UPDATED,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,"Ogni componente che devi produrre è sulla destra.\nPosizionando il mouse sull'icona di un componente, viene mostrato come produrlo."
-PREVIOUS,tutorial_stargatewindowhighlightcomponent,2639,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,"Ogni componente che devi produrre si trova sulla sinistra.\nPosizionando il mouse sull'icona di un componente, viene mostrato come produrlo."
+state,key,svn,english,translation
+CURRENT,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,"Ogni componente che devi produrre è sulla destra.\nPosizionando il mouse sull'icona di un componente, viene mostrato come produrlo."
 CURRENT,logistics_tooltip_skiporder,3248,Skip currently executing order,Salta l'ordine in corso di esecuzione
 CURRENT,logistics_tooltip_loop,3248,Loop execution,Esecuzione del loop
 CURRENT,thefinalstand_artemis1,3248,Hello again Captain!,Ciao di nuovo Capitano!
@@ -67,7 +66,7 @@ CURRENT,logistics_system_select,3239,LOCATION,POSIZIONE
 CURRENT,logistics_create_order,3239,Create Order,Crea ordine
 CURRENT,logistics_loop,3239,Loop,Anello
 CURRENT,logistics_order_none,3239,Order Type,Tipo di ordine
-CURRENT,logistics_order_mine,3239,Mine,La mia
+CURRENT,logistics_order_mine,3239,Mine,Estrai
 CURRENT,logistics_order_collect,3239,Collect Gas,Raccogli il gas
 CURRENT,logistics_order_buy,3239,Buy,Acquista
 CURRENT,logistics_order_sell,3239,Sell,Vendere
@@ -126,7 +125,7 @@ CURRENT,stargate_award_complete_title,3239,STARGATE COMPLETED,STARGATE COMPLETAT
 CURRENT,stargate_award_complete_subtitle,3239,All phases completed,Tutte le fasi sono state completate
 CURRENT,tutorial_radiationselectfriendly,3239,"First, select a friendly ship with a laser infuser available.","Per prima cosa, seleziona una nave amica con un Infusore Laser disponibile."
 CURRENT,blackhole_objective_tank,3239,Acquire a Storage Tank,Acquisire un serbatoio di stoccaggio
-CURRENT,blackhole_objective_storagetank,3239,Connect a tank to the Hyperspace Scoop,Collegare un carro armato allo Scoop iperspaziale
+CURRENT,blackhole_objective_storagetank,3239,Connect a tank to the Hyperspace Scoop,Collegare un serbatoio allo Scoop iperspaziale
 CURRENT,blackhole_objective_loader,3239,Connect a Loader to the tank,Collegare un Caricatore al serbatoio
 CURRENT,blackhole_objective_unloadloader,3239,Set the Loader to UNLOAD,Impostare il Caricatore su SCARICARE
 CURRENT,dsi_part2_dogmavessel1,3239,D.O.G.M.A Spartan,D.O.G.M.A Spartan
@@ -3017,6 +3016,7 @@ CURRENT,dsi_part2_scene_z4,2639,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2639,THERE WILL BE NO FURTHER WARNING.,NON CI SARANNO ULTERIORI AVVISI.
 CURRENT,dsi_part2_scene_y7,2639,You've left me no choice.,Non mi hai lasciato altra scelta.
 CURRENT,dsi_part2_scene_y8,2639,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.",Verrò a prenderti Alexander e questa volta non ti chiederò il 10%. Voglio tutto.
+OBSOLETE,tutorial_stargatewindowhighlightcomponent,2639,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,"Ogni componente che devi produrre si trova sulla sinistra.\nPosizionando il mouse sull'icona di un componente, viene mostrato come produrlo."
 OBSOLETE,thefinalstand_harken2,3239,"My scientists and officers have analysed the blueprints of the Stargate project, provided to us by the late Alexander James Elistar.","I miei scienziati e i miei ufficiali hanno analizzato le cianografie del progetto Stargate, forniteci dal defunto Alexander James Elistar."
 OBSOLETE,thefinalstand_harken3,3239,"The Andromeda Project has moved their HQ and all key personell into an unknown location in the new sector, where we believe they are controlling the Stargate.","Il Progetto Andromeda ha spostato il suo quartier generale e tutte le persone chiave in una località sconosciuta del nuovo settore, dove crediamo che stiano controllando lo Stargate."
 OBSOLETE,thefinalstand_harken4,3239,"Elistar has left you with a backdoor into the Stargate's security systems, compromising all devices controlling it and providing us with direct access to the Andromeda Project's systems.","Elistar ti ha lasciato una backdoor nei sistemi di sicurezza dello Stargate, compromettendo tutti i dispositivi che lo controllano e fornendoci un accesso diretto ai sistemi del Progetto Andromeda."
