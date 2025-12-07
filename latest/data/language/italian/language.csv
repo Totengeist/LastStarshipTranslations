@@ -252,14 +252,14 @@ CURRENT,techtree_node_caption_metallurgyrepeatable,3054,Spend research credits t
 CURRENT,mainmenu_gamemode_arena,3054,Arena,Arena
 CURRENT,mainmenu_gamemode_arena_tooltip,3054,Create epic space battles between fleets of ships and watch the carnage unfold.,Crea epiche battaglie spaziali tra flotte di navi e guarda la carneficina che si scatena.
 CURRENT,mainmenu_arena_caption,3054,Create epic space battles between fleets of ships and watch the carnage unfold.,Crea epiche battaglie spaziali tra flotte di navi e guarda la carneficina che si scatena.
-CURRENT,settings_autosaves,3054,AUTOSAVES,AUTOVETTURE
+CURRENT,settings_autosaves,3054,AUTOSAVES,SALVATAGGI AUTOMATICI
 CURRENT,settings_autosaveonftl,3054,Auto-save when leaving FTL,Salvataggio automatico quando si esce da FTL
 CURRENT,settings_autosaveontimeinterval,3054,Auto-save on time interval,Salvataggio automatico su intervallo di tempo
 CURRENT,settings_autosaveinterval,3054,Auto-save Interval,Intervallo di salvataggio automatico
 CURRENT,settings_minutes_shortened,3054,Mins.,Minuti.
 CURRENT,newmainmenu_returntomainmenu,3054,RETURN TO MAIN MENU,TORNA AL MENU PRINCIPALE
 CURRENT,newmainmenu_mainmenu,3054,MAIN MENU,MENU PRINCIPALE
-CURRENT,newmainmenu_showautosaves,3054,AUTOSAVES,AUTOVETTURE
+CURRENT,newmainmenu_showautosaves,3054,AUTOSAVES,SALVATAGGI AUTOMATICI
 CURRENT,newmainmenu_newgameoptions,3054,Game Options,Opzioni di gioco
 CURRENT,newmainmenu_defensiveenemies,3054,Defensive Enemies,Nemici difensivi
 CURRENT,newmainmenu_defensiveenemiestooltip,3054,Hostile ships will only target you once you have targeted them first.,Le navi ostili ti bersaglieranno solo dopo che tu le avrai bersagliate per primo.
@@ -676,7 +676,7 @@ CURRENT,settings_accentinsensitivesearch,2803,Accent Insensitive Search,Ricerca 
 CURRENT,settings_accentinsensitivesearch_description,2803,"When searching in lists, ignore accented characters, e.g. ""é"" will match ""e""","Quando cerchi negli elenchi, ignora i caratteri accentati, ad esempio ""é"" corrisponderà a ""e"""
 CURRENT,settings_translatorassist,2803,"Translator Assist (Ctrl, Alt)","Assistenza al traduttore (Ctrl, Alt)"
 CURRENT,settings_sound,2793,SOUND,SUONO
-CURRENT,settings_appearance,2793,APPEARANCE,APPARIZIONE
+CURRENT,settings_appearance,2793,APPEARANCE,ASPETTO
 CURRENT,settings_keybindings,2793,KEYBOARD,TASTIERA
 CURRENT,settings_other,2793,OTHER,ALTRO
 CURRENT,keybinding_title_action,2793,Action,Azione
