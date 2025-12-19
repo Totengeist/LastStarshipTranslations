@@ -1,296 +1,60 @@
 ﻿state,key,svn,english,translation
-NEW,logistics_log_skipped,3339,Skipped order,スキップされたオーダー
-CURRENT,hud_ftlshipcontrolledbylogistics,3331,Ship is controlled by interstellar logistics,船は恒星間物流によって管理されている
-CURRENT,newmainmenu_continue,3329,CONTINUE GAME,ゲームを続ける
-CURRENT,newmainmenu_invalidsavename,3329,Invalid Save Name,無効なセーブ名
-CURRENT,newmainmenu_invalidcharacters_caption,3329,Save name contains invalid characters.,保存名に無効な文字が含まれている。
-CURRENT,newmainmenu_autosavenameinvalid_caption,3329,Save name reserved for autosaves.,オートセーブ用に予約されたセーブ名。
-CURRENT,hud_ftlshipblockedfromftl,3329,Ship cannot enter hyperspace with your fleet,あなたの艦隊と一緒にハイパースペースに入ることはできない。
-CURRENT,hud_window_interstellarlogistics,3329,INTERSTELLAR LOGISTICS,星間物流
-CURRENT,andromeda_travel,3329,ANDROMEDA JOURNEY,アンドロメダの旅
-CURRENT,galaxymap_darkmode,3329,Dark Mode,ダークモード
-CURRENT,galaxymap_lightmode,3329,Light Mode,ライトモード
-CURRENT,trade_autohireat,3329,HIRE BELOW,以下から採用する
-CURRENT,trade_autosackat,3329,SACK ABOVE,上のサック
-CURRENT,trade_autoembarkat,3329,EMBARK BELOW,下のエンバーク
-CURRENT,trade_autodisembarkat,3329,DISEMBARK ABOVE,上に降りる
-CURRENT,trade_tooltip_hire,3329,[LMB] Hire,[LMB] ハイヤー
-CURRENT,trade_tooltip_embark,3329,[LMB] Embark,[LMB] エンバーク
-CURRENT,trade_tooltip_disembark,3329,[LMB] Disembark,[LMB] 下船する
-CURRENT,trade_hiring,3329,Hiring *X,雇用*X
-CURRENT,trade_embarking,3329,Embarking *X,乗船*X
-CURRENT,trade_disembarking,3329,Disembarking *X,下船する*X
-CURRENT,trade_order_hire_on_sell_screen,3329,(HIRE *X),(HIRE*X)
-CURRENT,trade_order_embark_on_sell_screen,3329,(EMBARK *X),(EMBARK*X)
-CURRENT,trade_order_disembark_on_buy_screen,3329,(DISEMBARK *X),(DISEMBARK*X)
-CURRENT,trade_hire,3329,HIRE,ハイアー
-CURRENT,trade_embark,3329,EMBARK,エンバーク
-CURRENT,trade_disembark,3329,DISEMBARK,デセンバーク
-CURRENT,techtree_queue,3329,Queue Research,キュー・リサーチ
-CURRENT,techtree_node_title_atmosphericprocessing,3329,Atmospheric Processing,大気処理
-CURRENT,techtree_node_caption_atmosphericprocessing,3329,Unlocks schematics for hardware required to maintain a breathable atmosphere,呼吸可能な大気を維持するために必要なハードウェアの回路図を解錠する。
-CURRENT,techtree_node_title_atmosphericprocessing2,3329,Atmospheric Processing 2,大気処理 2
-CURRENT,techtree_node_caption_atmosphericprocessing2,3329,Unlocks more schematics for hardware required to maintain a breathable atmosphere,呼吸可能な大気を維持するために必要なハードウェアの回路図をより多くアンロックする。
-CURRENT,techtree_node_title_wasteprocessing,3329,Waste Processing,廃棄物処理
-CURRENT,techtree_node_caption_wasteprocessing,3329,Unlocks schematics for hardware to capture and reprocess human waste,人間の排泄物を捕獲して再処理するハードウェアの回路図を公開
-CURRENT,special_advancedlogistics,3329,Interstellar Logistics,星間物流
-CURRENT,tactical_dockingassistant,3329,DOCKING ASSIST,ドッキング・アシスト
-CURRENT,tactical_fleetformation,3329,FLEET FORMATION,艦隊形成
-CURRENT,tactical_fleetcombat,3329,FLEET COMBAT AI,艦隊戦闘AI
-CURRENT,tactical_on,3329,ON,オン
-CURRENT,tactical_off,3329,OFF,オフ
-CURRENT,tactical_tooltip_dockingassistant,3329,"When enabled, the Docking Assistant will perform the final maneuovers required to dock your ship with another, once you are close enough.\n\nIt is recommended you disable Fleet Formation when attempting to dock.",ドッキングアシスタントを有効にすると、十分な距離まで近づくと、ドッキングに必要な最終操作を行う。\n\nドッキングを試みる際は、フリートフォーメーションを無効にすることを推奨する。
-CURRENT,tactical_tooltip_fleetformation,3329,"When enabled, all of the fleet ships within a system will fly together in close formation, following the lead of whichever ship you are directly controlling.",有効にすると、システム内の全艦隊が、あなたが直接操縦している艦の先頭を追って、密集した編隊を組んで飛行する。
-CURRENT,tactical_tooltip_fleetcombat,3329,"When enabled, your other fleet ships will take care of themselves during combat, moving to optimal range and engaging as best they can.",有効にすると、戦闘中、他の艦隊の艦船が自分たちの面倒を見てくれ、最適な距離まで移動し、できる限り交戦する。
-CURRENT,tactical_tooltip_weapon,3329,[LMB] Select weapon\n[SHIFT-LMB] Select multiple weapons\n[RMB] Clear current target,[LMB] 武器を選択する\n[SHIFT-LMB] 複数の武器を選択する\n[RMB] 現在のターゲットをクリアする
-CURRENT,tactical_tooltip_auto,3329,AUTO-TARGETTING\n[LMB] Enable auto-targetting\n[RMB] Disable auto-targetting,オートターゲッティング\n[LMB] オートターゲッティングを有効にする\n[RMB] オートターゲッティングを無効にする
-CURRENT,logistics_tooltip_add,3329,[LMB] Add,[LMB] 追加
-CURRENT,logistics_tooltip_remove_rmb,3329,[RMB] Remove,[RMB] 削除する
-CURRENT,logistics_tooltip_cancel,3329,[RMB] Cancel,[人民元] キャンセル
-CURRENT,logistics_tooltip_shift,3329,[SHIFT] x5,[SHIFT] x5
-CURRENT,logistics_tooltip_control,3329,[CTRL] x50,[CTRL] x50
-CURRENT,advancedlogisticswindow_title,3329,INTERSTELLAR LOGISTICS,星間物流
-CURRENT,logistics_system_select,3329,LOCATION,ロケーション
-CURRENT,logistics_create_order,3329,Create Order,オーダーを作成する
-CURRENT,logistics_loop,3329,Loop,ループ
-CURRENT,logistics_showlog,3329,SHOW LOG,ログを表示する
-CURRENT,logistics_hidelog,3329,HIDE LOG,ログを隠す
-CURRENT,logistics_order_none,3329,Order Type,注文タイプ
-CURRENT,logistics_order_mine,3329,Mine,採掘
-CURRENT,logistics_order_collect,3329,Collect Gas,ガスを集める
-CURRENT,logistics_order_buy,3329,Buy,購入する
-CURRENT,logistics_order_sell,3329,Sell,売却する
-CURRENT,logistics_order_transferto,3329,Transfer To,譲渡先
-CURRENT,logistics_order_transferfrom,3329,Transfer From,移籍元
-CURRENT,logistics_order_goandwait,3329,Go and Wait,行って待つ
-CURRENT,logistics_condition_none,3329,Amount,金額
-CURRENT,logistics_condition_quantity,3329,Quantity,数量
-CURRENT,logistics_condition_stacks,3329,Stacks,スタックス
-CURRENT,logistics_condition_containers,3329,Containers,容器
-CURRENT,logistics_condition_allbut,3329,All But,すべて
-CURRENT,logistics_condition_storagefull,3329,Until Storage Full,ストレージが一杯になるまで
-CURRENT,logistics_condition_all,3329,All Available,すべて利用可能
-CURRENT,logistics_condition_time,3329,Minutes,議事録
-CURRENT,logistics_transferto_none,3329,DESTINATION SHIP,目的船
-CURRENT,logistics_transferfrom_none,3329,SOURCE SHIP,ソースシップ
-CURRENT,logistics_item_none,3329,Select Item,項目を選択する
-CURRENT,logistics_stuck_default,3329,Orders stuck,注文が詰まっている
-CURRENT,logistics_stuck_invalidsystem,3329,System S*X does not exist,システムS*X が存在しない
-CURRENT,logistics_stuck_invalidlayer,3329,Ship L*X does not exist,船L*X 存在しない
-CURRENT,logistics_stuck_equipment,3329,L*X does not have a working R*Y,L*X は機能していない。R*Y
-CURRENT,logistics_stuck_resources,3329,L*X does not have any R*Ys,L*X にはR*Yがない。
-CURRENT,logistics_stuck_patches,3329,System S*X does not have any R*Y to mine,システムS*X は採掘に対してR*Y を持っていない。
-CURRENT,logistics_stuck_gas,3329,System S*X does not have any R*Y to collect,システムS*X は、R*Y を収集していない。
-CURRENT,logistics_stuck_tradingpost,3329,System S*X does not have a trading post,システムS*X トレーディングポストがない
-CURRENT,logistics_stuck_resourcestosell,3329,L*X does not have any R*Y to sell,L*X R*Y 売るものはない。
-CURRENT,logistics_stuck_stargate,3329,Stargate is not ready for jump,スターゲイトはジャンプの準備ができていない
-CURRENT,logistics_status_notrunning,3329,No order currently running,現在実行中の注文はない
-CURRENT,logistics_status_travelling,3329,Travelling to system S*X,システムへ移動するS*X
-CURRENT,logistics_status_mining,3329,Mined *X R*Y,採掘*X R*Y
-CURRENT,logistics_status_miningstacks,3329,(*X/*Y stacks),(*X/*Y スタック)
-CURRENT,logistics_status_miningstacks1,3329,(*X stacks),(*X スタック)
-CURRENT,logistics_status_miningstacksnostorage,3329,"(*X/*Y stacks, storage full)","(*X/*Y stacks, storage full)"
-CURRENT,logistics_status_miningstacksnostorage1,3329,"(*X stacks, storage full)","(*X stacks, storage full)"
-CURRENT,logistics_status_collect,3329,Collected *X R*Y,コレクション*X R*Y
-CURRENT,logistics_status_collectcontainers,3329,(*X/*Y containers),(*X/*Y コンテナ)
-CURRENT,logistics_status_collectcontainers1,3329,(*X containers),(*X コンテナ)
-CURRENT,logistics_status_collectcontainersnostorage,3329,"(*X/*Y containers, storage full)",(*X/*Y コンテナ、ストレージ満杯)
-CURRENT,logistics_status_collectcontainersnostorage1,3329,"(*X containers, storage full)",(*X コンテナ、ストレージ満杯)
-CURRENT,logistics_status_transferto,3329,Transferring *X R*Y to L*Z,*X R*Y に転送する。L*Z
-CURRENT,logistics_status_transferfrom,3329,Transferring *X R*Y from L*Z,*X R*Y から転送する。L*Z
-CURRENT,logistics_status_transfernosupply,3329,out of the *X ordered (not enough available),注文した*X のうち、十分な数がなかった。
-CURRENT,logistics_status_buy,3329,Bought *X R*Y for $*Z,*X R*Y を購入した。$*Z
-CURRENT,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),注文した*X のうち、金額が足りなかった。
-CURRENT,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),注文した*X のうち、十分な数がなかった。
-CURRENT,logistics_status_sell,3329,Sold *X R*Y for $*Z,*X R*Y で販売された。$*Z
-CURRENT,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),注文した*X のうち、十分な数がなかった。
-CURRENT,logistics_status_notlooping,3329,Finished execution (not looping),実行終了（ループしない）
-CURRENT,logistics_status_waiting,3329,Waiting T*X,ウェイティングT*X
-CURRENT,logistics_status_time,3329,in T*X,T*X
-CURRENT,logistics_status_warning,3329,Warning,警告
-CURRENT,logistics_status_alert,3329,Alert,アラート
-CURRENT,logistics_log_jumped,3329,Travelled to system S*X,システムへ移動したS*X
-CURRENT,logistics_log_jumpedstargate,3329,Travelled to system S*X through Stargate,スターゲートを通り、S*X 。
-CURRENT,logistics_log_transferto,3329,Transferred *X R*Y to L*Z,*X R*Y に移管した。L*Z
-CURRENT,logistics_log_transferfrom,3329,Transferred *X R*Y from L*Z,移籍先*X R*Y L*Z
-CURRENT,logistics_log_transferstoragefull,3329,(destination storage full),(保存先ストレージがいっぱい）
-CURRENT,logistics_log_transferstoragefull1,3329,out of the *X ordered (destination storage full),*X 、注文したものから外れた（デスティネーション・ストレージが満杯）。
-CURRENT,logistics_log_waited,3329,Waited for T*X,を待ったT*X
-CURRENT,logistics_tooltip_skiporder,3329,Skip currently executing order,現在実行中の注文をスキップする
-CURRENT,logistics_tooltip_loop,3329,Loop execution,ループ実行
-CURRENT,order_advancedlogistics,3329,Interstellar Logistics,星間物流
-CURRENT,mission_objective_done,3329,DONE,完了
-CURRENT,alert_type_interstellarlogistics,3329,INTERSTELLAR LOGISTICS,星間物流
-CURRENT,alert_type_interstellarlogistics_caption,3329,Orders stuck,注文が詰まっている
-CURRENT,rating_trade,3329,Trade,貿易
-CURRENT,stargate_startandromedajump,3329,TEST ANDROMEDA JUMP,テスト・アンドロメダ・ジャンプ
-CURRENT,stargate_power_tooltip,3329,POWER REQUIRED: *X MW,必要電力 *X MW
-CURRENT,stargate_distance_travelled,3329,*X kly REMAINING,*X 残りわずか
-CURRENT,stargate_journey_completed,3329,*X% COMPLETED,*X完了
-CURRENT,stargate_sell,3329,SELL ALL (*X FOR *Y),すべて売る (*X for*Y)
-CURRENT,stargate_price_per_unit,3329,*X PER UNIT,*X ユニットあたり
-CURRENT,stargate_total_price,3329,*X TOTAL,*X 合計
-CURRENT,stargate_award_complete_title,3329,STARGATE COMPLETED,スターゲイト完成
-CURRENT,stargate_award_complete_subtitle,3329,All phases completed,全フェーズ完了
-CURRENT,tutorial_radiationselectfriendly,3329,"First, select a friendly ship with a laser infuser available.",まず、レーザーインフューザーが使える味方艦を選ぶ。
-CURRENT,blackhole_objective_tank,3329,Acquire a Storage Tank,貯蔵タンクの獲得
-CURRENT,blackhole_objective_storagetank,3329,Connect a tank to the Hyperspace Scoop,タンクを超空間スクープに接続
-CURRENT,blackhole_objective_loader,3329,Connect a Loader to the tank,ローダーをタンクに接続
-CURRENT,blackhole_objective_unloadloader,3329,Set the Loader to UNLOAD,ローダーをUNLOADに設定
-CURRENT,dsi_action_confirmcancel,3329,Confirm cancellation,キャンセルを確認する
-CURRENT,dsi_x_confirmcancel1,3329,How dare you! I still have the access keys. You will no longer be a part of this enterprise.,よくも言ってくれたな！私はまだアクセスキーを持っている。君はもうこの企業の一員ではない。
-CURRENT,dsi_x_confirmcancel2,3329,You will regret this.,後悔することになる。
-CURRENT,dsi_x_confirmcancel3,3329,"Goodbye, Captain.",さようなら、キャプテン。
-CURRENT,dsi_part2_dogmavessel1,3329,D.O.G.M.A Spartan,D.O.G.M.Aスパルタン
-CURRENT,dsi_part2_dogmavessel2,3329,D.O.G.M.A Citadel,D.O.G.M.Aシタデル
-CURRENT,dsi_part2_dogmavessel3,3329,D.O.G.M.A Centurion,D.O.G.M.Aセンチュリオン
-CURRENT,bravenewsector_part4_title,3329,"Brave New Sector, Part 4",ブレイブ・ニュー・セクター その4
-CURRENT,bravenewsector_part4_summary,3329,Complete the final test.,最終テストを終える。
-CURRENT,bravenewsector_part4_intro,3329,"Captain, preparations have concluded for the final Stargate test. We are ready to send a ship to the Andromeda Galaxy. Please call us when you are ready.",船長、最後のスターゲイト・テストの準備が完了した。アンドロメダ銀河に船を送る準備が整った。準備ができたら連絡をくれ。
-CURRENT,bravenewsector_part4_call_action,3329,Call the Representative,代表に電話する
-CURRENT,bravenewsector_part4_rep1,3329,The materials you provided to us have been fitted to the Stargate. It is fully functional and ready to test.,提供された材料がスターゲートに装着された。それは完全に機能し、テストする準備ができている。
-CURRENT,bravenewsector_part4_rep2,3329,This is a monumental moment in the history of our species. If this test is successful the Andromeda Project will be the first entity to send mankind to another galaxy.,これは我々の種の歴史における記念碑的瞬間である。もしこのテストが成功すれば、アンドロメダ計画は人類を他の銀河系に送った最初の存在となる。
-CURRENT,bravenewsector_part4_rep3,3329,"Captain, you will need to begin the test and provide power for the entire journey so our test ship can reach the Andromeda Galaxy. This will require a significant amount of energy, more than what's needed to travel between sectors.",船長、テストを開始し、我々のテスト船がアンドロメダ銀河に到達できるよう、全行程のパワーを供給してほしい。これにはかなりのエネルギーが必要で、セクター間の移動に必要なエネルギーよりも多い。
-CURRENT,bravenewsector_part4_rep4,3329,Please begin the test when you are ready.,準備ができたらテストを始めてほしい。
-CURRENT,bravenewsector_part4_objective_test,3329,Send the test ship to the Andromeda Galaxy,アンドロメダ銀河にテスト船を送る
-CURRENT,bravenewsector_part4_action_starttest,3329,Start Test,テスト開始
-CURRENT,bravenewsector_part4_reachandromeda_award,3329,ANDROMEDA REACHED,アンドロメダに到達
-CURRENT,bravenewsector_part4_reachandromeda_caption,3329,Signal received from test ship,テスト船から受信した信号
-CURRENT,bravenewsector_part4_andromeda_bonus,3329,ANDROMEDA BONUS,アンドロメダ・ボーナス
-CURRENT,bravenewsector_part4_andromeda_caption,3329,Payment for sending the test ship,テスト船送付のための支払い
-CURRENT,bravenewsector_part4_rep5,3329,"Captain, the Stargate has received a signal from the Andromeda Galaxy.",船長、スターゲートがアンドロメダ銀河からの信号を受信した。
-CURRENT,bravenewsector_part4_rep6,3329,The test ship made it. The test was a complete and total success. This is a historic moment for all of mankind.,テスト船は成功した。テストは完全に成功した。これは全人類にとって歴史的瞬間である。
-CURRENT,bravenewsector_part4_rep7,3329,It couldn't have been done without you Captain. Your industrial expertise and dedication to the project have been invaluable.,君たちなしでは成し遂げられなかった。君の産業に関する専門知識とプロジェクトへの献身は、かけがえのないものだった。
-CURRENT,bravenewsector_part4_rep8,3329,"Thank you Captain, your contribution will not be forgotten. Goodbye for now.",ありがとう、キャプテン。あなたの貢献は決して忘れ去られることはない。さようなら。
-CURRENT,bravenewsector_part4_objective_wait,3329,Await further instructions,さらなる指示を待つ
-CURRENT,bravenewsector_part4_harken1,3329,"Captain, there are reports that the Andromeda Project are withholding access to the Stargate from any ships that aren't their own.",艦長、アンドロメダ計画では、自分たちの船以外のスターゲイトへのアクセスを控えているという報告がある。
-CURRENT,bravenewsector_part4_harken2,3329,"My sensors are detecting major fleet movements towards the Stargate, it looks like the Andromeda Project is aiming to secure their control over it.",私のセンサーがスターゲイトに向かう大規模な艦隊の動きを感知している。アンドロメダ計画がスターゲイトの支配権を確保しようとしているようだ。
-CURRENT,bravenewsector_part4_harken3,3329,"This is... concerning. Be careful, I don't like the look of this.",これは...気になる。気をつけろ、この見た目は好きじゃない。
-CURRENT,bravenewsector_part4_rep9,3329,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy and the Andromeda galaxy.,こんにちは、船長。新しく完成したスターゲートのおかげで、アンドロメダ計画はこの銀河とアンドロメダ銀河の間の資源と人の流れをコントロールできる強力な立場になった。
-CURRENT,bravenewsector_part4_rep10,3329,The next stage of the project has begun. Our fleet has obtained full control over the Stargate and we are currently in the process of moving our workforce into the new galaxy.,プロジェクトの次の段階が始まった。我々の艦隊はスターゲートを完全に制御できるようになり、現在、新しい銀河系に労働力を移動させているところだ。
-CURRENT,bravenewsector_part4_rep11,3329,"We will bring prosperity to all those who work with us. Speak to you soon, Captain. We may have some more work for you in the future.",我々とともに働くすべての人々に繁栄をもたらすだろう。また会おう、大尉。将来、また仕事があるかもしれない。
-CURRENT,bravenewsector_part4_testshipname,3329,Andromeda Test Ship MK.1,アンドロメダ・テストシップ MK.1
-CURRENT,thefinalstand_title,3329,The Final Stand,ファイナル・スタンド
-CURRENT,thefinalstand_summary,3329,Stop the Andromeda Project.,アンドロメダ計画を阻止せよ
-CURRENT,thefinalstand_harken1_intro,3329,"Captain! In direct violation of intergalactic law, the Andromeda Project has permanently closed access to the Stargate outside of their own ships. Colonists are stranded in the new sector, unable to return home.",船長銀河法に違反し アンドロメダ計画では スターゲートへの アクセスを制限した入植者は帰還できず 新セクターに取り残された
-CURRENT,thefinalstand_harken2_intro,3329,"You are the only one outside of the Andromeda Project with access codes, please call back as soon as you can. They must be stopped.",アンドロメダ計画の外部でアクセスコードを持っているのはあなただけだ。彼らを止めなければならない。
-CURRENT,thefinalstand_call_action,3329,Call Harken,ハーケンに電話する
-CURRENT,thefinalstand_andromedahq_name,3329,ANDROMEDA HQ,アンドロメダ本社
-CURRENT,thefinalstand_andromedaflagship_name,3329,ANDROMEDA FLAGSHIP,アンドロメダ旗艦
-CURRENT,thefinalstand_ai_name,3329,ANDROMEDA SHIP CONTROL,アンドロメダ船コントロール
-CURRENT,thefinalstand_harken1,3329,"Greetings Captain, I was worried you had taken their side in all of this.",船長、私は君が彼らの味方をしたのかと心配していたよ。
-CURRENT,thefinalstand_harken2,3329,"The Andromeda Project has moved their HQ and all key personell into an unknown location in the new sector, where we believe they are controlling the Stargate.",アンドロメダ・プロジェクトは本部と主要人物を新しいセクターの未知の場所に移し、そこでスターゲートをコントロールしていると思われる。
-CURRENT,thefinalstand_harken3,3329,"My plan is to use our fleets to take control of the HQ by force. Any and all damage to the HQ should be avoided, many innocent lives are on-board and the loss of life from destroying it would be far too great.\nI have devised a plan with an old friend of yours that should minimise casualties...",私の計画は、我々の艦隊を使って本部を武力で制圧することだ。本部へのいかなる損害も避けるべきだ。多くの罪のない人命が乗船しており、本部を破壊することによる損失はあまりにも大きい。\nあなたの旧友と、犠牲者を最小限に抑える計画を練ったのだが...。
-CURRENT,thefinalstand_artemis1,3329,Hello again Captain!,また会ったね、キャプテン！
-CURRENT,thefinalstand_artemis2,3329,"After some careful analysis of the Stargate's blueprints, I have found the backdoor that the late Alexander James Elistar has left you.",スターゲートの設計図を注意深く分析した結果、故アレクサンダー・ジェームズ・エリスターが残した裏口を見つけた。
-CURRENT,thefinalstand_artemis3,3329,You will use this backdoor to upload a small virus that I have written to their command centre within the HQ. It will disable the station's offensive capabilities and place itself under your command.,君はこのバックドアを使って、私が書いた小さなウイルスを本部内の司令部にアップロードする。ステーションの攻撃能力を無効にし、あなたの指揮下に置く。
-CURRENT,thefinalstand_harken4,3329,"While you neutralise the HQ, my fleet will fight off the Andromeda Project navy. Once the battle is over, I will take control of the HQ and arrest everyone involved. Their conglomerate will be dismantled.",君が本部を無力化している間、私の艦隊がアンドロメダ計画の海軍を撃退する。戦闘が終われば、私が本部を掌握し、関係者全員を逮捕する。彼らのコングロマリットは解体する。
-CURRENT,thefinalstand_harken5,3329,The Stargate will fall back into our control. I've marked an allied shipyard on your map. I'll hide out there in the mean-time.,スターゲートは我々の支配下に戻るだろう。地図に同盟軍の造船所をマークしておいた。その間、そこに隠れている。
-CURRENT,thefinalstand_harken6,3329,Meet me to discuss the plan further. Goodbye for now.,プランについてさらに話し合うために私に会ってくれ。それではまた。
-CURRENT,thefinalstand_objective_traveltoharken,3329,Travel to Harken,ハーケンへ行く
-CURRENT,thefinalstand_battleprep_1,3329,"Hello Captain, it's good to see you. These are all of the ships I control in this sector, the rest are on the other side of the Stargate, unable to reach us.",やあ船長、会えて嬉しいよ。これがこのセクターで私がコントロールする全ての船だ。残りはスターゲートの反対側にいて、我々には到達できない。
-CURRENT,thefinalstand_battleprep_2,3329,My officers have pin-pointed the position of their HQ. Upon arrival we expect to be met with heavy resistance from their private security forces.,私の将校が彼らの本部の位置を突き止めた。到着後、彼らの私設警備部隊の激しい抵抗にあうことが予想される。
-CURRENT,thefinalstand_battleprep_3,3329,I should be able to grab their attention away from your fleet while you get close and take control of the station.,あなたがステーションに近づき、制圧する間に、私は彼らの注意をあなたの艦隊から引き離すことができるはずだ。
-CURRENT,thefinalstand_battleprep_4,3329,"Good luck Captain, I'll see you on the battlefield.",幸運を祈る。
-CURRENT,thefinalstand_objective_destroyhq,3329,Take control of the Andromeda Project HQ,アンドロメダ計画本部を制圧せよ
-CURRENT,thefinalstand_battleintro_rep1,3329,"I gave you a very clear warning, Captain. You could've had anything in the universe as our business partner.",はっきりと警告したはずだ、キャプテン。ビジネス・パートナーとしてなら、宇宙中どんなものでも手に入れることができたはずだ。
-CURRENT,thefinalstand_battleintro_rep2,3329,Now you must be destroyed.,今、あなたたちは滅ぼされなければならない。
-CURRENT,thefinalstand_battleintro_rep3,3329,It was a pleasure working with you.,あなたと一緒に仕事ができてよかった。
-CURRENT,thefinalstand_battleintro_dogma1,3329,"This is DOGMA Private Security force, we are en-route to the disturbance. ETA: imminent.",こちらDOGMAプライベート・セキュリティー・フォース、騒ぎに向かう。ETA：間もなくだ。
-CURRENT,thefinalstand_battleintro_harken1,3329,There are multiple hostile signatures inbound on our position! You must get in close range of the HQ and upload the virus. I'll do my best to keep their ships off you.,我々の位置に複数の敵対的なシグネチャーが来ている！本部に接近し、ウイルスをアップロードしろ。奴らの船を近づけないよう全力を尽くす。
-CURRENT,thefinalstand_battleintro_harken2,3329,"They're about to arrive, hurry!",もうすぐ到着する！
-CURRENT,thefinalstand_objective_flytohq,3329,Fly close to the HQ,本部の近くを飛ぶ
-CURRENT,thefinalstand_objective_destroyhostiles,3329,Destroy remaining hostiles: *X,残っている敵を破壊する：*X
-CURRENT,thefinalstand_backdoor_action,3329,Trigger Backdoor,トリガー・バックドア
-CURRENT,thefinalstand_battle_harken1,3329,Great work Captain! But my sensors are detecting a massive signature headi-,大尉、よくやった！しかし、私のセンサーは巨大なシグネチャーを検知している...
-CURRENT,thefinalstand_battle_rep1,3329,Commander Harken! I see that my first fleet has failed to deal with you. I suppose if I want something done properly I should do it myself.,ハーケン中佐私の第一艦隊は君への対処に失敗したようだな。私が望むなら自分でやるべきだ
-CURRENT,thefinalstand_boss_harken1,3329,I've lost both of my frigates Captain! I don't have enough firepower to win this!,フリゲートを2隻とも失った！勝てるだけの火力がない！
-CURRENT,thefinalstand_boss_harken2,3329,This is the Andromeda Navy's flagship! You should have access to its command centre from the HQ!,アンドロメダ海軍の旗艦だ！本部から司令部にアクセスできるはずだ！
-CURRENT,thefinalstand_boss_artemis1,3329,"Captain, I can route a signal to their powergrid and overload their generators, tell me when to trigger it!",船長、私は彼らのパワーグリッドに信号を送り、発電機をオーバーロードさせることができる！
-CURRENT,thefinalstand_objective_destroyboss,3329,Destroy the Andromeda Flagship,アンドロメダ旗艦を破壊する
-CURRENT,thefinalstand_boss_overloadcaption,3329,OVERLOAD GENERATOR,過負荷発電機
-CURRENT,thefinalstand_battleoutro_ship1,3329,DANGER: POWER SYSTEMS DETERIORATING. POWER GRID OVERLOADED.\nNO POWER TO WEAPONS AND ENGINES.,危険：電力系統が悪化している。\n武器やエンジンに電力が供給されない。
-CURRENT,thefinalstand_battleoutro_rep1,3329,"I don't understand, how is that possible!?",理解できない。そんなことが可能なのか？
-CURRENT,thefinalstand_boss_hint,3329,"Captain! The ship's weapons and engines are disabled, hit it with everything you've got!",船長だ船の武器とエンジンは無効だ、全力でぶつかれ！
-CURRENT,thefinalstand_battleoutro_ship2,3329,DANGER: GENERATOR STATUS CRITICAL.,危険：発電機が危険な状態にある。
-CURRENT,thefinalstand_battleoutro_rep2,3329,"Send all available power to railguns, set target to-",利用可能なパワーをすべてレールガンに送り、目標を設定する。
-CURRENT,thefinalstand_battleoutro_harken1,3329,"This is a message for Andromeda HQ. I am Commander Harken, Chief of Private Security for this sector, and I command you to stand down.",これはアンドロメダ本部へのメッセージだ。私はハーケン司令官 このセクターの警備主任だ 君たちに撤退を命じる
-CURRENT,thefinalstand_battleoutro_harken2,3329,"The Andromeda Navy in this sector has been destroyed, you are now blockaded, there is nothing left to fight for.",このセクターのアンドロメダ海軍は壊滅し、君たちは封鎖された。
-CURRENT,thefinalstand_battleoutro_harken3,3329,"It's over, Captain. The Andromeda HQ will be placed under the jurisdiction of the Intergalactic Security Council while I make the necessary arrests. The access codes for the Stargate are back under our control.",終わりだ、船長必要な逮捕をする間 アンドロメダ本部は 銀河間安全保障理事会の管轄下に置かれるスターゲートのアクセスコードは 我々の管理下に戻る
-CURRENT,thefinalstand_battleoutro_harken4,3329,The current leadership of the Andromeda Project will be dismantled and the new galaxy will be freed from their control.,アンドロメダ計画の現指導部は解体され、新しい銀河系は彼らの支配から解放される。
-CURRENT,thefinalstand_battleoutro_harken5,3329,"You've proven that you can be trusted with control of the Stargate, so I'll leave it in your hands.",君はスターゲートの制御を任せられることを証明した。
-CURRENT,thefinalstand_battleoutro_harken6,3329,"Goodbye Captain, and good luck with your new place in the galaxy.",さようならキャプテン、そして銀河系での新しい場所での幸運を祈る。
-CURRENT,thefinalstand_end_objective_leave,3329,Leave the HQ,本部を離れる
-CURRENT,industryend_message,3329,"With Andromeda HQ captured, Cmdr Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind expands beyond our home galaxy and into the future.",アンドロメダ本部の捕獲により、ハーケン中佐と銀河安全保障理事会はアンドロメダ計画のコングロマリットを解体し、全人類のためにスターゲートのコントロールを取り戻す。  人類が母なる銀河系を超え、未来へと拡大する新たな章が始まった。
-CURRENT,hud_consumingperhour,3329,Consuming *X per day,*X /日を消費する
-CURRENT,survey_captionmultiple,3329,*X ships surveying,*X 船舶測量
-CURRENT,tutorial_radiationinstallinfuser,3329,Laser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area and power it.,レーザーインフューザーは空のクリスタルにゼレオンガスをチャージするためのもので、通電中は周囲に放射線を放出する。\n\nレーザーインフューザーを見通しの良い場所に設置し、通電する。
-CURRENT,tutorial_radiationsetupinfuser,3329,Let's set the laser infuser to use them to produce charged crystals.,レーザーインフューザーを使って、チャージ・クリスタルを生成するように設定しよう。
-CURRENT,tutorial_radiationwaitforinputs,3329,The laser infuser is set to start making charged crystals! Laser infusers use Zeleon Energy Cells to charge the crystals.\n\nLet's wait for it to begin charging crystals.,レーザーインフューザーがチャージ・クリスタルを作り始める！レーザーインフューザーはゼレオンエネルギーセルでクリスタルをチャージする。\n\nクリスタルのチャージが始まるのを待とう。
-CURRENT,tutorial_surveystartsectorsurvey,3329,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one ship in a system can do a sector scan.\n\nClick the button to begin a sector scan.,\n\nスキャンは終了すると停止する。\n\nボタンをクリックしてセクタースキャンを開始する。
-CURRENT,tutorial_surveystartlocalsurvey,3329,Areas of interest will expire after some time if they are not surveyed. Multiple ships can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,関心のある地域は、調査が行われないと、しばらくして失効する。\n\n興味のある地点をクリックし、ローカルサーベイを開始する。
-CURRENT,bravenewsector_part2_x4,3329,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. As a safeguard against the Andromeda Project, I have installed a back-door that allows you to take control of the Stargate and any devices commanding it.",頼むからそうさせないでくれ、キャプテン。私の人生とプロジェクトの多くは 純粋に利益のために行われてきた これをその1つにさせるわけにはいかないアンドロメダ計画に対する 安全装置として- 君がスターゲートを 制御できるようにした
-CURRENT,bravenewsector_part2_x5,3329,Please use it if they restrict the use of the Stargate for their own gain.,自分たちの利益のためにスターゲートの使用を制限するなら、ぜひ使ってほしい。
-CURRENT,tutorial_ftladdftldrive,3329,Add one <b>FTL drive</b> to our order by clicking on the entry in the list.,リストの項目をクリックして、<b>FTLドライブを</b>1台追加する。
-CURRENT,tutorial_ftladdftlfuel,3329,<b>FTL drives</b> consume one fuel charge per jump.\n\nAdd 5 <b>FTL charges</b> to the order as well.,\n\n<b>FTLチャージも</b>5回分追加する。
-CURRENT,tutorial_ftlinstallftl,3329,Install the <b>FTL drive</b> anywhere in your ship.,<b>FTLドライブを</b>船内の任意の場所に設置する。
-CURRENT,tutorial_ftlpowerftl,3329,Connect the <b>FTL drive</b> to your power network.,<b>FTLドライブを</b>電源ネットワークに接続する。
-CURRENT,tutorial_ftlstoragetoolbar,3329,"We can make things more efficient for our crew by telling them to store <b>FTL charges</b> near the <b>FTL drive</b>.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>FTL charges</b> from the list.",<b>FTLチャージを</b> <b>FTLドライブの</b>近くに保管するように指示することで、乗組員の作業効率を上げることができる。\n\n<b>CONSTRUCTION</b>ツールバーから<b>STORAGEを</b>選択し、リストから<b>FTLチャージを</b>選択する。
-CURRENT,tutorial_ftlstorageworld,3329,Now drag out a storage zone near to the <b>FTL drive</b>.,<b>FTLドライブの</b>近くに保管ゾーンを作る。
-CURRENT,tutorial_ftlstoragedone,3329,The crew will move all the <b>FTL charges</b> into this zone.,乗組員はすべての<b>FTLチャージを</b>このゾーンに移動させる。
-CURRENT,tutorial_financesectormap,3329,"All passengers have been delivered to the <b>PROCYON</b>, and our <b>FTL drive</b> is operational. We must now plot an <b>FTL jump</b> to their destination.\n\nOpen the <b>SECTOR MAP</b>.",乗客はすべて<b>プロキオンに</b>引き渡され、<b>FTLドライブも</b>稼動している。目的地までの<b>FTLジャンプを</b>計画しなければならない。\n\n<b>セクターマップを</b>開く。
-CURRENT,tutorial_financeftlwindow,3329,Open the <b>FTL screen</b> to order the <b>FTL jump</b>.,<b>FTL画面を</b>開き、<b>FTLジャンプを</b>指示する。
-CURRENT,tutorial_financepreparingjump,3329,"The <b>PROCYON</b> will align for hyperspace, and prepare the <b>FTL drive</b> to make the jump.",<b>プロキオンは</b>ハイパースペースに整列し、<b>FTLドライブを</b>準備してジャンプする。
-CURRENT,tutorial_logisticscrewselectship,3329,Select the <b>UMC Astral Temptress</b>. \n\n As you can see it has no crew.,<b>UMC Astral Temptressを</b>選択する。 \n\n 見ての通り乗組員はいない。
-CURRENT,stargate_power_fraction,3329,*X / *Y MW,*X /*Y MW
-CURRENT,blackhole_part1_setup7,3329,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop and a tank to store the isotopes in first.",必要な資源を合成するための材料が必要なんです。  私が計算をする間、あなたはこれを手伝ってください。超空間同位体が必要です。あなたなら簡単に集められるはずですが、その前に超空間スクープと同位体を保管するタンクを手に入れる必要があります。
-CURRENT,tutorial_stargatewindowhighlightcomponent,3329,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,\nコンポーネントのアイコンの上にマウスを置くと、そのコンポーネントの製造方法が表示される。
-CURRENT,dsi_x_canceldeal2,3329,"You will lose access to all the ships I've provided, are you sure you want to do this?",私が提供したすべての船へのアクセスを失うことになるが、本当にそれでいいのか？
-CURRENT,settings_credits,3149,CREDITS,クレジット
-CURRENT,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,有効にするとゲームがSteam Cloudに保存される。保存に失敗すると警告が表示される。
-CURRENT,newmainmenu_saveoptions,3149,Save Options,保存オプション
-CURRENT,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] フローリングのスタイルを切り替える
-CURRENT,hud_tooltip_currentflooring,3149,Current style: *X,現在のスタイルだ：*X
-CURRENT,hud_tooltip_gratedflooring,3149,Grated,すりおろした
-CURRENT,hud_tooltip_normalflooring,3149,Normal,ノーマル
-CURRENT,hud_hull_integrity,3149,HULL,ハル
-CURRENT,hud_power_battery,3149,BATTERY,バッテリー
-CURRENT,hud_power_powershortage,3149,POWER SHORTAGE,電力不足
-CURRENT,hud_idlecrew,3149,Idle Crew,アイドル乗組員
-CURRENT,hud_dehydrationperperson,3149,Dehydration *X per person,脱水*X 1人当たり
-CURRENT,hud_hungerperperson,3149,Hunger *X per person,ハンガー*X 一人当たり
-CURRENT,hud_byauthor,3149,BY *X,バイ*X
-CURRENT,communicator_newobjective,3149,NEW OBJECTIVE,新しい目標
-CURRENT,galaxymap_stargate,3149,STARGATE,スターゲイト
-CURRENT,trade_canceltrade,3149,CANCEL TRADE AND REFUND,取引をキャンセルして返金する
-CURRENT,trade_refundvalue,3149,REFUND VALUE,返金額
-CURRENT,trade_cancellationcost,3149,CANCELLATION COST,キャンセル料
-CURRENT,trade_partiallyfilled,3149,PARTIALLY FILLED,一部充填
-CURRENT,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,不完全コンポーネント
-CURRENT,trade_removeincomplete,3149,REMOVE INCOMPLETE,不完全なものを取り除く
-CURRENT,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,部分的に充填されたものを取り除く
-CURRENT,trade_order_normal,3149,(*X),(*X)
-CURRENT,trade_order_buy_on_sell_screen,3149,(BUY *X),(BUY*X)
-CURRENT,trade_order_sell_on_buy_screen,3149,(SELL *X),(SELL *X)
-CURRENT,trade_order_sack_on_buy_screen,3149,(SACK *X),(SACK*X)
-CURRENT,techtree_researchpercent,3149,*X% Complete,*X完全
-CURRENT,tooltip_efficiency,3149,Efficiency +*X%,効率 +*X%.
-CURRENT,tooltip_activating,3149,Activating +*X%,アクティブ化 +*X%.
-CURRENT,alert_type_lowdeuterium,3149,LOW DEUTERIUM,低重水素
-CURRENT,stargate_unknowncomponent,3149,Unknown Component,未知のコンポーネント
-CURRENT,stargate_unknowncomponent_description,3149,Unlock this component through research!,研究を通じてこの要素を解き明かす！
-CURRENT,creditstitle_builders,3149,Ship Builders,船大工
-CURRENT,creditstitle_testers,3149,Early Play Testing,初期のプレーテスト
-CURRENT,creditstitle_translators,3149,Translation,翻訳
-CURRENT,engine_thrust,3149,THRUST *X%,THRUST *X%.
-CURRENT,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + RMB] スプリッターに変換する
-CURRENT,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + RMB] トラックに変換する
-CURRENT,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,光速航行でなければ、乗客を目的地まで送り届けることはできない。残念ながら、この船には<b>FTLドライブが</b>装備されていない。\n\n購入してセットアップする必要がある。
-CURRENT,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,トレード画面を開き、<b>FTLドライブと</b> <b>FTLチャージを</b>購入する。
-CURRENT,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,停泊中の船舶を含む
-CURRENT,hud_layer_hostile,3149,HOSTILE *X,ホスティル*X
-CURRENT,hud_layer_derelict,3149,DERELICT *X,DERELICT *X
-CURRENT,hud_layer_forsale,3149,[FOR SALE] *X,[販売中］*X
+NEW,settings_credits,3149,CREDITS,クレジット
+NEW,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,有効にするとゲームがSteam Cloudに保存される。保存に失敗すると警告が表示される。
+NEW,newmainmenu_saveoptions,3149,Save Options,保存オプション
+NEW,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] フローリングのスタイルを切り替える
+NEW,hud_tooltip_currentflooring,3149,Current style: *X,現在のスタイルだ：*X
+NEW,hud_tooltip_gratedflooring,3149,Grated,すりおろした
+NEW,hud_tooltip_normalflooring,3149,Normal,ノーマル
+NEW,hud_hull_integrity,3149,HULL,ハル
+NEW,hud_power_battery,3149,BATTERY,バッテリー
+NEW,hud_power_powershortage,3149,POWER SHORTAGE,電力不足
+NEW,hud_idlecrew,3149,Idle Crew,アイドル乗組員
+NEW,hud_consumingperhour,3149,Consuming *X per hour,1時間あたり*X 
+NEW,hud_dehydrationperperson,3149,Dehydration *X per person,脱水*X 1人当たり
+NEW,hud_hungerperperson,3149,Hunger *X per person,ハンガー*X 一人当たり
+NEW,hud_byauthor,3149,BY *X,バイ*X
+NEW,communicator_newobjective,3149,NEW OBJECTIVE,新しい目標
+NEW,galaxymap_stargate,3149,STARGATE,スターゲイト
+NEW,trade_canceltrade,3149,CANCEL TRADE AND REFUND,取引をキャンセルして返金する
+NEW,trade_refundvalue,3149,REFUND VALUE,返金額
+NEW,trade_cancellationcost,3149,CANCELLATION COST,キャンセル料
+NEW,trade_partiallyfilled,3149,PARTIALLY FILLED,一部充填
+NEW,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,不完全コンポーネント
+NEW,trade_removeincomplete,3149,REMOVE INCOMPLETE,不完全なものを取り除く
+NEW,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,部分的に充填されたものを取り除く
+NEW,trade_order_normal,3149,(*X),(*X)
+NEW,trade_order_buy_on_sell_screen,3149,(BUY *X),(BUY*X)
+NEW,trade_order_sell_on_buy_screen,3149,(SELL *X),(SELL*X)
+NEW,trade_order_sack_on_buy_screen,3149,(SACK *X),(SACK*X)
+NEW,techtree_researchpercent,3149,*X% Complete,*X完全
+NEW,tooltip_efficiency,3149,Efficiency +*X%,効率 +*X%.
+NEW,tooltip_activating,3149,Activating +*X%,アクティブ化 +*X%.
+NEW,alert_type_lowdeuterium,3149,LOW DEUTERIUM,低重水素
+NEW,stargate_unknowncomponent,3149,Unknown Component,未知のコンポーネント
+NEW,stargate_unknowncomponent_description,3149,Unlock this component through research!,研究を通じてこの要素を解き明かす！
+NEW,creditstitle_builders,3149,Ship Builders,船大工
+NEW,creditstitle_testers,3149,Early Play Testing,初期のプレーテスト
+NEW,creditstitle_translators,3149,Translation,翻訳
+NEW,engine_thrust,3149,THRUST *X%,THRUST*X%.
+UPDATED,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + RMB] スプリッターに変換する
+PREVIOUS,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] スプリッターに変換する
+UPDATED,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + RMB] トラックに変換する
+PREVIOUS,hud_convertsplittertotrack,3054,[RMB] Convert to track,[人民元] トラックに変換する
+UPDATED,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,光速航行でなければ、乗客を目的地まで送り届けることはできない。残念ながら、この船には<b>FTLドライブが</b>装備されていない。\n\n購入してセットアップする必要がある。
+PREVIOUS,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,光速航行でなければ、乗客を目的地まで送り届けることはできない。残念ながら、この船には<b>FTL</b>ドライブが搭載されていない。\n\n購入してセットアップする必要がある。
+PREVIOUS,tutorial_ftlintro,2448,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,目的地への乗客を輸送するには、光速を超える航行が必要です。残念ながら、この船には独自のFTLドライブが搭載されていません。\n\n購入して設定する必要があります。
+UPDATED,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,トレード画面を開き、<b>FTLドライブと</b> <b>FTLチャージを</b>購入する。
+PREVIOUS,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,トレード画面を開き、<b>FTL</b>ドライブを購入する。
+PREVIOUS,tutorial_ftltradescreen,2448,Open the trade screen to purchase an FTL drive.,FTLドライブを購入するためにトレード画面を開いてください。
+UPDATED,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,停泊中の船舶を含む
+PREVIOUS,newmainmenu_includedocked,2448,INCLUDE DOCKED SHIPS IN EXPORT,エクスポートにドッキングした船を含める
+UPDATED,hud_layer_hostile,3149,HOSTILE *X,ホスティル*X
+PREVIOUS,hud_layer_hostile,2448,HOSTILE,敵対
+UPDATED,hud_layer_derelict,3149,DERELICT *X,DERELICT*X
+PREVIOUS,hud_layer_derelict,2448,DERELICT,漂流船
+UPDATED,hud_layer_forsale,3149,[FOR SALE] *X,[販売中］*X
+PREVIOUS,hud_layer_forsale,2448,[FOR SALE],[販売中]
 CURRENT,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,外装が摩耗していることから、少なくとも1世紀はここにあったものと思われる。このセクターは、人類が外宇宙を植民地化しようとした最初の試みのひとつだったに違いない。
 CURRENT,techtree_node_caption_metallurgyrepeatable,3054,Spend research credits to continually increase our smelting efficiency.,製錬効率を継続的に高めるために研究クレジットを使う。
 CURRENT,mainmenu_gamemode_arena,3054,Arena,アリーナ
@@ -336,6 +100,7 @@ CURRENT,survey_type_colony,3054,Colony,コロニー
 CURRENT,survey_title,3054,UNSURVEYED *X,未発表*X
 CURRENT,survey_captionnone,3054,No survey in progress,調査中なし
 CURRENT,survey_captionsingle,3054,Surveyed by *X,調査対象*X
+CURRENT,survey_captionmultiple,3054,*X layers surveying,*X レイヤー測量
 CURRENT,survey_local_noequipment,3054,NO SUPERCOMPUTERS INSTALLED,スーパーコンピューターは設置されていない
 CURRENT,survey_sector_title,3054,SECTOR SCAN,セクター・スキャン
 CURRENT,survey_sector_nothingtoscan,3054,REGION FULLY SCANNED,フルスキャン領域
@@ -381,6 +146,9 @@ CURRENT,alert_type_emp_caption,3054,*X piece(s) disabled,*X ピース使用不�
 CURRENT,alert_type_emp_tooltip,3054,"Your ship has been struck by lightning, temporarily disabling some of your equipment.",あなたの船が雷に打たれ、装備の一部が一時的に使用不能になった。
 CURRENT,tutorial_radiation_title,3054,RADIATION,放射線
 CURRENT,tutorial_radiationintro,3054,We are going to learn about radiation.,これから放射線について学ぶ。
+CURRENT,tutorial_radiationinstallinfuser,3054,A laser infuser has been delivered to your ship.\n\nLaser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area.,\n\nレーザーインフューザーは空のクリスタルにゼレオンガスをチャージするためのもので、電源が入っている間は周囲に放射線を放出する。\n\nレーザーインフューザーを見通しの良い場所に設置する。
+CURRENT,tutorial_radiationsetupinfuser,3054,An empty crystal and some zeleon energy cells have been delivered to your ship too.\n\nLet's set the laser infuser to use them to produce charged crystals.,空のクリスタルとゼレオンエネルギーセルがあなたの船にも届いている。\n\nレーザーインフューザーをセットして、それらを使ってチャージされたクリスタルを生成しよう。
+CURRENT,tutorial_radiationwaitforinputs,3054,The laser infuser is set to start making charged crystals!\n\nLet's wait for it to begin charging crystals.\n\nDon't forget to power the Laser Infuser.,レーザーインフューザーがチャージ・クリスタルを作り始めるようセットされた！\n\nクリスタルのチャージが始まるのを待とう！\n\nレーザーインフューザーの電源を入れるのを忘れずに。
 CURRENT,tutorial_radiationselectoverlay,3054,The game has been set to a slower speed for now.\n\nRadiation is emitted in all directions away from the laser infuser.\n\nClick on the radiation overlay to view where your ship is irradiated.,\n\n放射線はレーザーインフューザーから離れた全方向に放出される。\n\n放射線オーバーレイをクリックすると、自機が照射されている場所が表示される。
 CURRENT,tutorial_radiationselectoverlay2,3054,"All green areas of your ship are safe for your crew, but the darker areas are dangerous.\n\nSpacesuits will protect your crew from being irradiated.",\n\n宇宙服は乗組員を放射線被曝から守ってくれる。
 CURRENT,tutorial_radiationinstallblockers,3054,"Radiation spread can be limited by special equipment called radiation blockers.\n\nInstall some blockers close to your laser infuser, leaving a small gap between the infuser and the blocker.\n\nIncrease the game speed when you are ready.",\n\nレーザーインフューザーとブロッカーの間に少し隙間を空けて、ブロッカーをレーザーインフューザーの近くに設置する。\n\n準備ができたらゲームスピードを上げる。
@@ -390,9 +158,11 @@ CURRENT,tutorial_radiationsuccess,3054,"Well done, you have now learnt how radia
 CURRENT,tutorial_survey_title,3054,SECTOR SURVEYING,セクター測量
 CURRENT,tutorial_surveyintro,3054,"We are going to learn how to survey the area around your ship.\n\nThe first step is to scan the local area of the sector surrounding you ship using a <b>SECTOR SCAN</b>.\n\nIn Boldly Go, only the new sector can be surveyed.\n\nHyperspace sensors are required to do this.",\n\n最初のステップは、<b>SECTOR SCAN を使って</b>船を囲むセクターのローカルエリアをスキャンすることである。\n\nBoldly Go では、新しいセクターしか調査できない。\n\nこれを行うには超空間センサーが必要である。
 CURRENT,tutorial_surveyinstallsensors,3054,"Install Hyperspace Sensors or Hyperspace Sensor LRs onto one of your ships.\n\nThis tutorial will resume afterwards.\n\nIf you are playing the Boldly Go game mode, your ship must also be in the new sector.",\n\nこのチュートリアルはこの後再開される。\n\n「Boldly Go」ゲームモードをプレイしている場合、あなたの船も新しいセクターにいなければならない。
+CURRENT,tutorial_surveystartsectorsurvey,3054,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan.,\n\nスキャンが完了すると停止する。\n\nボタンをクリックしてセクタースキャンを開始する。
 CURRENT,tutorial_surveyhighlightsectorsurveysystem,3054,Hovering the mouse over the current system will reveal the radius around the system that is being scanned and the scan's progress toward finding new points of interest.\n\nOpen the <b>SECTOR MAP</b> and click <b>NEXT</b> to speed-up the survey.,\n\n<b>SECTOR MAPを</b>開き、<b>NEXTを</b>クリックすると調査がスピードアップする。
 CURRENT,tutorial_surveylocalsurveyintro,3054,The next step is to perform a <b>LOCAL SURVEY</b>.\n\nLocal surveys allow points of interest to be accessed via FTL.\n\nShips need to have super computers installed and must be in the same sector to participate in a local survey.,\n\nローカル<b>サーベイでは</b>、興味のあるポイントに FTL 経由でアクセスすることができる。\n\nローカルサーベイに参加するには、シップにスーパーコンピューターがインストールされている必要があり、同じセクターにいる必要がある。
 CURRENT,tutorial_surveyinstallcomputers,3054,Install a super-computer on one of your ships.\n\nThis tutorial will resume afterwards.,\n\nこのチュートリアルはこの後再開する。
+CURRENT,tutorial_surveystartlocalsurvey,3054,Areas of interest will expire after some time if they are not surveyed. Multiple layers can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,関心領域は、調査されないとしばらくして失効する。\n\nローカル・サーベイを開始するには、関心のある地点をクリックする。
 CURRENT,tutorial_surveyoutro,3054,Click <b>NEXT</b> to speed-up the survey.,<b>NEXTを</b>クリックして、調査をスピードアップする。
 CURRENT,tutorial_surveysuccess,3054,"A new system on the sector map has appeared for your fleet to explore!\n\nWell done, you have now learnt how to use sector surveying to find and explore new systems.\n\nKeep an eye out for special loot on surveyed derelict ships that can be researched by your science stations.",あなたの艦隊が探検できる新しい星系が、セクターマップ上に出現した！\n\nよくやった！これであなたは、新しい星系を見つけて探検するための、セクター測量の使い方を学んだことになる。\n\n調査された廃船には、科学ステーションで調査できる特別な戦利品があるので、目を光らせておこう。
 CURRENT,bravenewsector_part1_x1,3054,Captain? Are you there?,キャプテン？そこにいるのか？
@@ -403,6 +173,8 @@ CURRENT,bravenewsector_part2_title,3054,"Brave New Sector, Part 2",ブレイブ�
 CURRENT,bravenewsector_part2_summary,3054,Uncover the history of the new sector.,新セクターの歴史を紐解く。
 CURRENT,bravenewsector_part2_x1,3054,"Hello again Captain, the Andromeda Project is very impressed with the samples you've sent them. They want your work on the Stargate to continue.",また会ったなキャプテン、アンドロメダ計画は君が送ったサンプルに非常に感銘を受けている。スターゲイトの研究を 続けて欲しいそうだ
 CURRENT,bravenewsector_part2_x3,3054,"I must warn you, there are rumours that their plan is to take the Stargate fully under their control. They will charge anyone who wants to use it a fortune, preventing any competition and harvesting all the resources in the new galaxy for themselves. They will become more powerful than any entity we have seen before.",警告しておくが、彼らの計画はスターゲートを完全に支配下に置くという噂がある。彼らはスターゲートを利用しようとする者に大金を請求し、いかなる競争も阻止し、新しい銀河のすべての資源を自分たちのために収穫する。彼らはこれまで我々が見てきたどの存在よりも強力になるだろう。
+CURRENT,bravenewsector_part2_x4,3054,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. The Stargate is too important and valuable for our species to be under their control.",頼むからそうさせないでくれ、キャプテン。私の人生とプロジェクトの多くは、純粋に利益のために行われてきた。スターゲートは我々の種族にとって、彼らの支配下に置くにはあまりにも重要で価値がある。
+CURRENT,bravenewsector_part2_x5,3054,I have installed a back-door that will cause the Stargate to self-destruct if you command it to. You must trigger it if the rumours are true.,あなたが命令すればスターゲートを自爆させるバックドアを設置した。噂が本当なら、それを起動させなければならない。
 CURRENT,bravenewsector_part2_x6,3054,"Unfortunately, I've been given some bad news, and I won't be around for much longer. I would like to give you full ownership of the foundry as a thank you for helping me finish this final project.",残念なことに、悪い知らせを受けた。この最後のプロジェクトの完成を手助けしてくれたお礼として、君に鋳物工場の完全な所有権を与えたいと思う。
 CURRENT,bravenewsector_part2_x7,3054,It seems we have completed it just in time.,どうやらギリギリ間に合ったようだ。
 CURRENT,bravenewsector_part2_x8,3054,"This is our final call, Captain. I wish you the best of luck. Thank you again, and goodbye.",船長、これが最後の電話だ。幸運を祈る。ありがとう、そしてさようなら。
@@ -567,6 +339,13 @@ CURRENT,tutorial_airdone,2886,The <b>AIRDUCT</b> is activated and is pressurisin
 CURRENT,tutorial_enginesinformation,2886,Engines require both <b>POWER</b> and <b>FUEL</b> to operate. We must connect both engines to fuel and power.,エンジンが作動するには、<b>パワー</b>と<b>燃料</b>の両方が必要だ。エンジンは燃料と動力の両方を必要とする。
 CURRENT,tutorial_enginesconnectpower,2886,"Now use the <b>CABLES</b> menu to power up the engine, by connecting it to your existing red power lines.",次に、<b>CABLES</b>メニューを使い、既存の赤い電源ラインに接続してエンジンをパワーアップさせる。
 CURRENT,tutorial_ftlselectpropulsion,2886,The items we need are listed under <b>PROPULSION</b>. Select that category.,必要なアイテムは「<b>PROPULSION</b>」にリストアップされている。そのカテゴリーを選択する。
+CURRENT,tutorial_ftladdftldrive,2886,Add one <b>FTL</b> drive to our order by clicking on the entry in the list.,リストの項目をクリックして、<b>FTL</b>ドライブを1台追加する。
+CURRENT,tutorial_ftladdftlfuel,2886,<b>FTL</b> drives consume one fuel charge per jump. Add 5 <b>FTL</b> Charges to the order as well.,<b>FTL</b>ドライブはジャンプ1回につき燃料を1チャージ消費する。5<b>FTL</b>チャージもオーダーに追加する。
+CURRENT,tutorial_ftlinstallftl,2886,Install the <b>FTL</b> drive anywhere in your ship.,<b>FTL</b>ドライブを船内の任意の場所に設置する。
+CURRENT,tutorial_ftlpowerftl,2886,Connect the <b>FTL</b> drive to your power network.,<b>FTL</b>ドライブを電源ネットワークに接続する。
+CURRENT,tutorial_ftlstoragetoolbar,2886,"We can make things more efficient for our crew by telling them to store <b>FTL</b> Charges near the <b>FTL</b> drive.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>FTL</b> Charges from the list.",FTLチャージを<b>FTL</b>ドライブの近くに保管するように指示することで、クルーの作業効率を上げることができる。\n\n<b>CONSTRUCTION</b>ツールバーから<b>STORAGE</b>を選択し、リストから<b>FTL</b>チャージを選択する。
+CURRENT,tutorial_ftlstorageworld,2886,Now drag out a storage zone near to the <b>FTL</b> drive.,今度は<b>FTL</b>ドライブの近くに保管ゾーンを引きずり出す。
+CURRENT,tutorial_ftlstoragedone,2886,The crew will move all the <b>FTL</b> Charges into this zone.,クルーはすべての<b>FTL</b>チャージをこのゾーンに移動させる。
 CURRENT,tutorial_stargatescreen2,2886,This screen shows the phases that require construction in order to complete the <b>STARGATE</b>.\n\nWe are in <b>PHASE</b> 1. Work has only just begun.,この画面は、<b>STARGATE</b>を完成させるために工事が必要なフェーズを示している。\n\n現在<b>フェーズ</b>1。工事はまだ始まったばかりである。
 CURRENT,tutorial_stargatescreen3,2886,On the left of the screen you can see the requirements to complete <b>PHASE</b> 1.\n\nWe need to manufacture:\n- 100 <b>STARGATE FRAMES</b>\n- 10 <b>STARGATE RESIN</b>,画面の左側に、<b>PHASE</b> 1を完了するための必要条件が表示されている。\n\n製造する必要があるのは、\n- 100 <b>STARGATE FRAMES</b>\n- 10 <b>STARGATE RESIN</b>である。
 CURRENT,tutorial_stargatescreen4,2886,"These <b>PHASE</b> 1 components are easy to manufacture, and we already have what we need onboard.\n\nBut we can sell them to the <b>STARGATE PROJECT</b> for a small fortune.",これらの<b>PHASE</b> 1の部品は製造が簡単で、必要なものはすでに船内にある。\n\nしかし、<b>STARGATE PROJECT</b>にわずかな金額で売ることができる。
@@ -613,9 +392,12 @@ CURRENT,tutorial_financeselectship,2886,"Contracts are assigned to the ship you 
 CURRENT,tutorial_financeselecttransport,2886,"Here we have a <b>TRANSPORT PASSENGER</b> contract, click it to see more details.",ここに<b>TRANSPORT PASSENGER</b>の契約書があるので、クリックして詳細を見る。
 CURRENT,tutorial_financeassigntransport,2886,This mission requires us to transport a group of people from here to another location in the sector.\n\nClick the accept button to assign this contract to the <b>PROCYON</b>.,このミッションでは、ここからセクター内の別の場所まで人々を輸送する必要がある。\n\n受諾ボタンをクリックし、この契約を<b>PROCYON</b>に割り当てる。
 CURRENT,tutorial_financepassengersinbound,2886,The passengers will be delivered to the <b>PROCYON</b> by shuttle.,乗客はシャトルで<b>プロキオン</b>に運ばれる。
+CURRENT,tutorial_financesectormap,2886,"All passengers have been delivered to the <b>PROCYON</b>, and our <b>FTL</b> drive is operational. We must now plot an <b>FTL</b> jump to their destination.\n\nOpen the <b>SECTOR MAP</b>.",乗客はすべて<b>プロキオン</b>に引き渡され、<b>FTL</b>ドライブも稼動している。目的地までの<b>FTL</b>ジャンプを計画しなければならない。\n\n<b>セクターマップ</b>を開く。
 CURRENT,tutorial_financesetdestination,2886,"This is a map of all the systems in this sector.\n\nOur ship and our space station are located in the middle, where the map is marked <b>YOU-ARE-HERE</b>.\n\nSet a course to the destination (labelled <b>TRANSPORT</b> PASSENGERS) by clicking on it.",これはこのセクター内の全システムの地図である。\n\n我々の船と宇宙ステーションは中央の「<b>YOU-ARE-HERE</b>」と書かれた場所にある。\n\n目的地（「<b>TRANSPORT</b> PASSENGERS」と書かれた）をクリックしてコースを設定する。
 CURRENT,tutorial_financeclosesectormap,2886,"Close the <b>SECTOR MAP</b> by clicking the X in the top right corner, or by pressing <b>ESC</b>.",右上の×印をクリックするか、<b>ESC</b>キーを押して<b>セクターマップ</b>を閉じる。
+CURRENT,tutorial_financeftlwindow,2886,Open the <b>FTL</b> screen to order the <b>FTL</b> jump.,<b>FTL</b>画面を開き、<b>FTL</b>ジャンプを指示する。
 CURRENT,tutorial_financepreparejump,2886,Click on <b>PREPARE JUMP</b> to align the ship and prepare for hyperspace.,<b>PREPARE JUMP</b>をクリックし、船を整列させ、ハイパースペースに備える。
+CURRENT,tutorial_financepreparingjump,2886,"The <b>PROCYON</b> will align for hyperspace, and prepare the <b>FTL</b> drive to make the jump.",<b>プロキオン</b>はハイパースペースに整列し、ジャンプするための<b>FTL</b>ドライブを準備する。
 CURRENT,tutorial_financejump,2886,Click the <b>JUMP</b> button to jump to hyperspace.,<b>JUMP</b>ボタンをクリックするとハイパースペースにジャンプする。
 CURRENT,tutorial_financeselectmission,2886,We now need to turn in our completed passenger contract.\n\nOpen the <b>CONTRACTS</b> screen and select the passenger mission.,完成した旅客契約を提出する必要がある。\n\n<b>「CONTRACTS」</b>画面を開き、旅客ミッションを選択する。
 CURRENT,tutorial_financeturnin,2886,Click the <b>DELIVER</b> button to drop off the passengers and receive payment,<b>DELIVER</b>ボタンをクリックして乗客を降ろし、支払いを受ける。
@@ -636,6 +418,7 @@ CURRENT,tutorial_dockingcheckthrusters,2886,"In order to be able to dock success
 CURRENT,tutorial_dockingzoomin,2886,Zoom in so that you can see the docking guides more clearly. They are <b>RED</b> diamonds extending from the docking ports.,ドッキングガイドがもっとはっきり見えるようにズームインする。<b>赤い</b>菱形がドッキングポートから伸びている。
 CURRENT,tutorial_dockingopenmaneuver,2886,Open the <b>MANEUVERING THRUSTER</b> controls.,<b>MANEUVERING THRUSTER</b> コントロールを開く。
 CURRENT,tutorial_dockingmaneuver,2886,"Use your <b>THRUSTERS</b> to maneuver your ship so that <b>RED</b> diamonds of your docking ports align with the docking port of the *X.\n\nWhen aligned correctly, they will both turn <b>YELLOW</b>.\n\nKeep the ships aligned until the docking bridge is fully extended.",<b>スラスター</b>を使って船を操縦し、ドッキング・ポートの<b>赤い</b>ダイヤと*X のドッキング・ポートが一直線になるようにする。\n\n正しく一直線になると、両者は<b>黄色</b>に変わる。\n\nドッキング・ブリッジが完全に伸びるまで、船を一直線に保つ。
+CURRENT,tutorial_logisticscrewselectship,2886,Select the <b>UMC</b> Astral Temptress. \n\n As you can see it has no crew.,<b>UMC</b> Astral Temptressを選択する。 \n\n 見ての通りクルーはいない。
 CURRENT,tutorial_logisticscrewselectfrom,2886,Select the <b>SOURCE</b> ship that the crew will come <b>FROM</b>.,クルーがどこ<b>から</b><b>来るかを選択する</b>。
 CURRENT,tutorial_logisticscrewclicktarget,2886,Click in the <b>CREW</b> cell of the <b>DESTINATION</b> ship to request 5 crew to transfer.,<b>DESTINATION</b>船の<b>CREW</b>セルをクリックし、5人のクルーの移籍を要請する。
 CURRENT,tutorial_logisticscrewclicktarget_shiftclick,2886,<b>NOTE</b>: You can <b>SHIFT CLICK</b> to request transfer in multiples of 5.,<b>注</b>：<b>SHIFTクリック</b>で5の倍数で転送をリクエストできる。
@@ -828,6 +611,7 @@ CURRENT,object_neubidiumcapacitor,2624,Neubidium Capacitor,ノウビジウムコ
 CURRENT,alert_type_stargatelosingpower,2624,STARGATE LOSING POWER,スターゲートが電力不足
 CURRENT,alert_type_stargatelosingpower_caption,2624,*X MW / *Y MW Supplied,*X MW / *Y MW 供給中
 CURRENT,alert_type_stargatelosingpower_tooltip,2624,The stargate isn't being supplied with enough power. Use energy transmitters to supply the Stargate with power.,スターゲートは十分な電力が供給されていません。エネルギー送信機を使用して、スターゲートに電力を供給してください。
+CURRENT,stargate_power_fraction,2624,SUPPLIED:\n*X MW / *Y MW,供給量：\n*X MW / *Y MW
 CURRENT,stargate_power_button,2624,START,開始
 CURRENT,stargate_powered_off,2624,POWERED OFF,電源オフ
 CURRENT,stargate_warming_up,2624,WARMING UP,ウォーミングアップ中
@@ -2490,6 +2274,7 @@ CURRENT,blackhole_part1_setup4,2448,"The last time, we pushed it too far.  My br
 CURRENT,blackhole_part1_setup5,2448,"I've lost all contact, and he's been down there for a long time now.  He's still showing on the sensors, and his ship is still intact.  The gravitational forces and time dilation will be extreme.  But with your help, we're going to rescue him.",私は彼との連絡をすべて失ってしまい、彼はもう長い間そこにいることになります。彼はまだセンサーに表示されており、彼の船は無事です。重力と時間の遅れは非常に大きくなるでしょう。しかし、あなたの助けがあれば、彼を救出することができます。
 CURRENT,blackhole_part1_setup6,2448,There's only one way to get to him without falling into the black hole ourselves.  We're going to have to do an extremely short range HYPERSPACE HOP.,彼に近づく方法はたった一つしかありません。私たちがブラックホールに飲み込まれることなく、非常に短距離のハイパースペース・ホップを行う必要があります。
 CURRENT,blackhole_part1_setup6b,2448,"Using a modified FTL Drive you'll do one hyperspace hop toward the black hole, rescue my brother Marcus, then turn around and hop right out.  It will be dangerous, but it's the only way to avoid being dragged in ourselves.",改修されたFTLドライブを使用して、ブラックホールの方向に一度ハイパースペース・ホップを行い、私の兄弟マーカスを救出し、その後、向きを変えてすぐに飛び出す必要があります。 危険ですが、私たち自身が引き込まれるのを避ける唯一の方法です。
+CURRENT,blackhole_part1_setup7,2448,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop first.",必要な資源を合成するための材料が必要です。計算に取り掛けている間に、あなたがそれを手伝ってくれます。私が超空間同位体を必要としています。あなたはそれらを簡単に収集できるはずですが、超空間スクープを最初に調達する必要があります。
 CURRENT,blackhole_part1_setup7b,2448,You'll then need to use a Loader to start unloading the isotopes into containers.,次に、ローダーを使用して同位体をコンテナに積み込みを開始する必要があります。
 CURRENT,blackhole_part1_setup8,2448,I'm building the Hyperspace FTL drive that will allow you to perform the hop.  It's going to need some modifications.  I'll need you to manufacture some parts for me. I know you have manufacturing facilities near the Stargate project.  You should be able to make these parts for me without too much trouble.,私は、あなたがホップを実行できるようにする超空間FTLドライブを構築しています。いくつかの修正が必要になります。私があなたにいくつかの部品を製造してもらう必要があります。私はあなたがストーンゲート計画の近くに製造施設を持っていることを知っています。これらの部品を問題なく作成できるはずです。
 CURRENT,blackhole_part1_setup9,2448,"Bring those materials back to me, and we can move onto phase 2.",その材料を私に戻して、フェーズ2に進むことができます。
@@ -2853,6 +2638,7 @@ CURRENT,tutorial_dsisetrecipe,2448,Right-clicking on equipment allows you to set
 CURRENT,tutorial_dsisetupdone,2448,The smelter will now start producing metal ingots after it has finished heating up.,スモルターは、加熱が完了すると金属インゴットの生産を開始します。
 CURRENT,tutorial_stargatewindowopenwindow,2448,Select the Stargate button in your toolbar to open the Stargate screen.,ツールバーのStargateボタンを選択して、Stargate画面を開きます。
 CURRENT,tutorial_stargatewindowintro,2448,The Stargate screen displays everything you need to manufacture to complete the current phase.,Stargate画面には、現在の段階を完了するために製造する必要があるものがすべて表示されます。
+CURRENT,tutorial_stargatewindowhighlightcomponent,2448,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,製造する必要がある各コンポーネントは左側にあります。\nコンポーネントのアイコンにマウスを合わせると、その製造方法が表示されます。
 CURRENT,tutorial_stargatewindowhighlightphases,2448,"The Stargate's construction is split into phases, with each phase requiring more and more resources.\nYou have just completed Phase 1.",Stargateの建設は段階に分けられており、各段階でより多くの資源が必要になります。\nあなたはちょうどフェーズ1を完了しました。
 CURRENT,tutorial_stargatewindowhighlightphase2,2448,Select Phase 2 to see what you need to manufacture for this phase.,この段階に必要な製造物を見るために、フェーズ2を選択してください。
 CURRENT,tutorial_stargatewindowhighlightframes1,2448,"To complete Phase 2, we need to continue manufacturing Stargate Frames.\n\nInstead of 10, we now need 200!",フェーズ2を完了するには、Stargateフレームの製造を継続する必要があります。\n\n10ではなく、今度は200個必要です！
@@ -2872,6 +2658,8 @@ CURRENT,dsi_xwarning2_part1,2448,"Captain, I was sure I'd made our agreement cle
 CURRENT,dsi_xwarning2_part2,2448,"I thought I could trust you.  Pay me the money you owe, immediately, or I will be forced to escalate.",あなたを信用できるとばかり思っていました。あなたが負っているお金をすぐに支払ってください、さもなければ私は事態を深刻化させるしかありません。
 CURRENT,dsi_xwarning3,2448,"Captain, this is your final warning.  You are now willfully withholding sales revenue that is legally mine.  If you don't pay what you owe immediately I will have no choice but to terminate our agreement, seize control of my station, and recover any financial losses directly from you.",船長、これはあなたの最後の警告です。あなたは今、法的に私の所有物である売上高を意図的に差し押さえようとしています。あなたがすぐに負っている金額を支払わない場合、私は我々の合意を解除し、私のステーションの支配権を奪い、あなたから直接経済的損失を回収せざるを得ません。
 CURRENT,dsi_x_canceldeal1,2448,"I'm disappointed, Captain. You're backing out after all the investment I've put into this project?",船長、残念です。このプロジェクトに投資した全ての後、あなたは撤退するのですか？
+CURRENT,dsi_x_canceldeal2,2448,You will regret this.,あなたはこれを後悔するでしょう。
+CURRENT,dsi_x_canceldeal3,2448,"Goodbye, Captain.",さようなら、船長。
 CURRENT,dsi_part1_stationname,2448,A.J.E Foundry,A.J.E. 鋳造所
 CURRENT,dsi_part1_title,2448,Deep Space Industrialists,深宇宙産業家
 CURRENT,dsi_part1_advert1,2448,"My name is Alexander James Elistar, and I'm the chairman and founder of A.J.E Industries.  I have a business proposition for you.  If you would be interested in setting up a production facility for me, I believe with some luck and a good deal of hard work we can both make substantial returns.",私の名前はアレクサンダー・ジェームズ・エリスターです。私はA.J.E.インダストリーズの議長兼創業者です。あなたにビジネスの提案があります。私のために生産施設を設置することに興味があれば、幸運と多大な努力があれば、私たち両方にとって大きな利益をもたらすことができると信じています。
@@ -3047,51 +2835,6 @@ CURRENT,bravenewsector_part1_dophase6,2872,Complete Phase 6 of the Stargate Proj
 CURRENT,trade_equipment_size,2872,- Size *X x *Y,- サイズ*X x*Y
 CURRENT,trade_equipment_rotatable,2872,- Rotatable,- 回転式
 CURRENT,trade_equipment_powered,2872,- Powered,- パワード
-OBSOLETE,hud_consumingperhour,3149,Consuming *X per hour,1時間あたり*X 
-OBSOLETE,survey_captionmultiple,3054,*X layers surveying,*X レイヤー測量
-OBSOLETE,tutorial_radiationinstallinfuser,3054,A laser infuser has been delivered to your ship.\n\nLaser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area.,\n\nレーザーインフューザーは空のクリスタルにゼレオンガスをチャージするためのもので、電源が入っている間は周囲に放射線を放出する。\n\nレーザーインフューザーを見通しの良い場所に設置する。
-OBSOLETE,tutorial_radiationsetupinfuser,3054,An empty crystal and some zeleon energy cells have been delivered to your ship too.\n\nLet's set the laser infuser to use them to produce charged crystals.,空のクリスタルとゼレオンエネルギーセルがあなたの船にも届いている。\n\nレーザーインフューザーをセットして、それらを使ってチャージされたクリスタルを生成しよう。
-OBSOLETE,tutorial_radiationwaitforinputs,3054,The laser infuser is set to start making charged crystals!\n\nLet's wait for it to begin charging crystals.\n\nDon't forget to power the Laser Infuser.,レーザーインフューザーがチャージ・クリスタルを作り始めるようセットされた！\n\nクリスタルのチャージが始まるのを待とう！\n\nレーザーインフューザーの電源を入れるのを忘れずに。
-OBSOLETE,tutorial_surveystartsectorsurvey,3054,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan.,\n\nスキャンが完了すると停止する。\n\nボタンをクリックしてセクタースキャンを開始する。
-OBSOLETE,tutorial_surveystartlocalsurvey,3054,Areas of interest will expire after some time if they are not surveyed. Multiple layers can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,関心領域は、調査されないとしばらくして失効する。\n\nローカル・サーベイを開始するには、関心のある地点をクリックする。
-OBSOLETE,bravenewsector_part2_x4,3054,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. The Stargate is too important and valuable for our species to be under their control.",頼むからそうさせないでくれ、キャプテン。私の人生とプロジェクトの多くは、純粋に利益のために行われてきた。スターゲートは我々の種族にとって、彼らの支配下に置くにはあまりにも重要で価値がある。
-OBSOLETE,bravenewsector_part2_x5,3054,I have installed a back-door that will cause the Stargate to self-destruct if you command it to. You must trigger it if the rumours are true.,あなたが命令すればスターゲートを自爆させるバックドアを設置した。噂が本当なら、それを起動させなければならない。
-OBSOLETE,tutorial_ftladdftldrive,2886,Add one <b>FTL</b> drive to our order by clicking on the entry in the list.,リストの項目をクリックして、<b>FTL</b>ドライブを1台追加する。
-OBSOLETE,tutorial_ftladdftldrive,2448,Add one FTL drive to our order by clicking on the entry in the list.,リストのエントリをクリックして、FTLドライブを1つ注文に追加してください。
-OBSOLETE,tutorial_ftladdftlfuel,2886,<b>FTL</b> drives consume one fuel charge per jump. Add 5 <b>FTL</b> Charges to the order as well.,<b>FTL</b>ドライブはジャンプ1回につき燃料を1チャージ消費する。5<b>FTL</b>チャージもオーダーに追加する。
-OBSOLETE,tutorial_ftladdftlfuel,2448,FTL drives consume one fuel charge per jump. Add 5 FTL Charges to the order as well.,FTLドライブはジャンプごとに1つの燃料チャージを消費します。注文にFTLチャージを5つ追加してください。
-OBSOLETE,tutorial_ftlinstallftl,2886,Install the <b>FTL</b> drive anywhere in your ship.,<b>FTL</b>ドライブを船内の任意の場所に設置する。
-OBSOLETE,tutorial_ftlinstallftl,2448,Install the FTL drive anywhere in your ship.,船内のどこかにFTLドライブを設置してください。
-OBSOLETE,tutorial_ftlpowerftl,2886,Connect the <b>FTL</b> drive to your power network.,<b>FTL</b>ドライブを電源ネットワークに接続する。
-OBSOLETE,tutorial_ftlpowerftl,2448,Connect the FTL drive to your power network.,FTLドライブを電力ネットワークに接続してください。
-OBSOLETE,tutorial_ftlstoragetoolbar,2886,"We can make things more efficient for our crew by telling them to store <b>FTL</b> Charges near the <b>FTL</b> drive.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>FTL</b> Charges from the list.",FTLチャージを<b>FTL</b>ドライブの近くに保管するように指示することで、クルーの作業効率を上げることができる。\n\n<b>CONSTRUCTION</b>ツールバーから<b>STORAGE</b>を選択し、リストから<b>FTL</b>チャージを選択する。
-OBSOLETE,tutorial_ftlstoragetoolbar,2448,"We can make things more efficient for our crew by telling them to store FTL Charges near the FTL drive.\n\nSelect STORAGE from the CONSTRUCTION toolbar, then select FTL Charges from the list.",乗組員がFTLドライブの近くにFTLチャージを保管するように指示することで、より効率的にすることができます。\n\n建設ツールバーからSTORAGEを選択し、リストからFTLチャージを選択してください。
-OBSOLETE,tutorial_ftlstorageworld,2886,Now drag out a storage zone near to the <b>FTL</b> drive.,今度は<b>FTL</b>ドライブの近くに保管ゾーンを引きずり出す。
-OBSOLETE,tutorial_ftlstorageworld,2448,Now drag out a storage zone near to the FTL drive.,FTLドライブの近くに保管エリアをドラッグアウトしてください。
-OBSOLETE,tutorial_ftlstoragedone,2886,The crew will move all the <b>FTL</b> Charges into this zone.,クルーはすべての<b>FTL</b>チャージをこのゾーンに移動させる。
-OBSOLETE,tutorial_ftlstoragedone,2448,The crew will move all the FTL Charges into this zone.,乗組員がすべてのFTLチャージをこのエリアに移動します。
-OBSOLETE,tutorial_financesectormap,2886,"All passengers have been delivered to the <b>PROCYON</b>, and our <b>FTL</b> drive is operational. We must now plot an <b>FTL</b> jump to their destination.\n\nOpen the <b>SECTOR MAP</b>.",乗客はすべて<b>プロキオン</b>に引き渡され、<b>FTL</b>ドライブも稼動している。目的地までの<b>FTL</b>ジャンプを計画しなければならない。\n\n<b>セクターマップ</b>を開く。
-OBSOLETE,tutorial_financesectormap,2448,"All passengers have been delivered to the PROCYON, and our FTL drive is operational. We must now plot an FTL jump to their destination.\n\nOpen the SECTOR MAP.",乗客はすべてPROCYONに届けられ、FTLドライブも稼働しています。目的地へのFTLジャンプを計画する必要があります。\n\nSECTOR MAPを開きます。
-OBSOLETE,tutorial_financeftlwindow,2886,Open the <b>FTL</b> screen to order the <b>FTL</b> jump.,<b>FTL</b>画面を開き、<b>FTL</b>ジャンプを指示する。
-OBSOLETE,tutorial_financeftlwindow,2448,Open the FTL screen to order the FTL jump.,FTLジャンプの発注には、FTL画面を開きます。
-OBSOLETE,tutorial_financepreparingjump,2886,"The <b>PROCYON</b> will align for hyperspace, and prepare the <b>FTL</b> drive to make the jump.",<b>プロキオン</b>はハイパースペースに整列し、ジャンプするための<b>FTL</b>ドライブを準備する。
-OBSOLETE,tutorial_financepreparingjump,2448,"The PROCYON will align for hyperspace, and prepare the FTL drive to make the jump.",PROCYONはハイパースペースに合わせて調整し、FTLドライブがジャンプの準備をします。
-OBSOLETE,tutorial_logisticscrewselectship,2886,Select the <b>UMC</b> Astral Temptress. \n\n As you can see it has no crew.,<b>UMC</b> Astral Temptressを選択する。 \n\n 見ての通りクルーはいない。
-OBSOLETE,tutorial_logisticscrewselectship,2448,Select the UMC Astral Temptress. \n\n As you can see it has no crew.,UMC アストラル・テンプテスを選択します。\n\nクルーがいないことがわかります。
-OBSOLETE,stargate_power_fraction,2624,SUPPLIED:\n*X MW / *Y MW,供給量：\n*X MW / *Y MW
-OBSOLETE,blackhole_part1_setup7,2448,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop first.",必要な資源を合成するための材料が必要です。計算に取り掛けている間に、あなたがそれを手伝ってくれます。私が超空間同位体を必要としています。あなたはそれらを簡単に収集できるはずですが、超空間スクープを最初に調達する必要があります。
-OBSOLETE,tutorial_stargatewindowhighlightcomponent,2448,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,製造する必要がある各コンポーネントは左側にあります。\nコンポーネントのアイコンにマウスを合わせると、その製造方法が表示されます。
-OBSOLETE,dsi_x_canceldeal2,2448,You will regret this.,あなたはこれを後悔するでしょう。
-OBSOLETE,hud_converttracktosplitter,3054,[RMB] Convert to splitter,[RMB] スプリッターに変換する
-OBSOLETE,hud_convertsplittertotrack,3054,[RMB] Convert to track,[人民元] トラックに変換する
-OBSOLETE,tutorial_ftlintro,2886,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up.,光速航行でなければ、乗客を目的地まで送り届けることはできない。残念ながら、この船には<b>FTL</b>ドライブが搭載されていない。\n\n購入してセットアップする必要がある。
-OBSOLETE,tutorial_ftlintro,2448,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own FTL drive.\n\nWe'll need to buy one and set it up.,目的地への乗客を輸送するには、光速を超える航行が必要です。残念ながら、この船には独自のFTLドライブが搭載されていません。\n\n購入して設定する必要があります。
-OBSOLETE,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,トレード画面を開き、<b>FTL</b>ドライブを購入する。
-OBSOLETE,tutorial_ftltradescreen,2448,Open the trade screen to purchase an FTL drive.,FTLドライブを購入するためにトレード画面を開いてください。
-OBSOLETE,newmainmenu_includedocked,2448,INCLUDE DOCKED SHIPS IN EXPORT,エクスポートにドッキングした船を含める
-OBSOLETE,hud_layer_hostile,2448,HOSTILE,敵対
-OBSOLETE,hud_layer_derelict,2448,DERELICT,漂流船
-OBSOLETE,hud_layer_forsale,2448,[FOR SALE],[販売中]
 OBSOLETE,bravenewsector_part2_harken_2,3054,Their exterior wear leads us to believe that have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,外装が摩耗していることから、少なくとも1世紀はここにあったと考えられる。このセクターは、人類が宇宙を植民地化しようとした最初の試みのひとつだったに違いない。
 OBSOLETE,bravenewsector_part3_artemis_3b,2903,A lot has changed since the tiddlet farm explosion. They are a protected species now and harming them is strictly prohibited.,ティドレット農場の爆発物以来、多くのことが変わった。今では保護種であり、危害を加えることは固く禁じられている。
 OBSOLETE,bravenewsector_part3_artemis_4a,2903,"One moment Captain, I've sent a shuttle to receive the resources from you.",少々お待ちください、船長、シャトルを送って資源を受け取ってもらう。
@@ -3140,6 +2883,13 @@ OBSOLETE,tutorial_airdone,2448,The AIRDUCT is activated and is pressurising the 
 OBSOLETE,tutorial_enginesinformation,2448,Engines require both POWER and FUEL to operate. We must connect both engines to fuel and power.,エンジンは動作するために電力と燃料の両方を必要とします。両方のエンジンを燃料と電力に接続する必要があります。
 OBSOLETE,tutorial_enginesconnectpower,2448,"Now use the CABLES menu to power up the engine, by connecting it to your existing red power lines.",次に、ケーブルメニューを使用して、既存の赤い電力ラインに接続することでエンジンを作動させてください。
 OBSOLETE,tutorial_ftlselectpropulsion,2448,The items we need are listed under PROPULSION. Select that category.,必要なアイテムはPROPULSIONの下にリストされています。そのカテゴリを選択してください。
+OBSOLETE,tutorial_ftladdftldrive,2448,Add one FTL drive to our order by clicking on the entry in the list.,リストのエントリをクリックして、FTLドライブを1つ注文に追加してください。
+OBSOLETE,tutorial_ftladdftlfuel,2448,FTL drives consume one fuel charge per jump. Add 5 FTL Charges to the order as well.,FTLドライブはジャンプごとに1つの燃料チャージを消費します。注文にFTLチャージを5つ追加してください。
+OBSOLETE,tutorial_ftlinstallftl,2448,Install the FTL drive anywhere in your ship.,船内のどこかにFTLドライブを設置してください。
+OBSOLETE,tutorial_ftlpowerftl,2448,Connect the FTL drive to your power network.,FTLドライブを電力ネットワークに接続してください。
+OBSOLETE,tutorial_ftlstoragetoolbar,2448,"We can make things more efficient for our crew by telling them to store FTL Charges near the FTL drive.\n\nSelect STORAGE from the CONSTRUCTION toolbar, then select FTL Charges from the list.",乗組員がFTLドライブの近くにFTLチャージを保管するように指示することで、より効率的にすることができます。\n\n建設ツールバーからSTORAGEを選択し、リストからFTLチャージを選択してください。
+OBSOLETE,tutorial_ftlstorageworld,2448,Now drag out a storage zone near to the FTL drive.,FTLドライブの近くに保管エリアをドラッグアウトしてください。
+OBSOLETE,tutorial_ftlstoragedone,2448,The crew will move all the FTL Charges into this zone.,乗組員がすべてのFTLチャージをこのエリアに移動します。
 OBSOLETE,tutorial_stargatescreen2,2448,This screen shows the phases that require construction in order to complete the STARGATE.\n\nWe are in PHASE 1. Work has only just begun.,この画面は、STARGATEを完成させるために建設が必要なフェーズを示しています。\n\nフェーズ1です。作業は始まったばかりです。
 OBSOLETE,tutorial_stargatescreen3,2448,On the left of the screen you can see the requirements to complete PHASE 1.\n\nWe need to manufacture:\n- 100 STARGATE FRAMES\n- 10 STARGATE RESIN,画面の左側には、フェーズ1を完了させるための要件が表示されています。\n\n製造する必要があるもの：\n- 100 スターゲートフレーム\n- 10 スターゲートレジン
 OBSOLETE,tutorial_stargatescreen4,2448,"These PHASE 1 components are easy to manufacture, and we already have what we need onboard.\n\nBut we can sell them to the STARGATE PROJECT for a small fortune.",これらのフェーズ1コンポーネントは製造しやすく、すでに船内に必要なものがあります。\n\nしかし、スターゲートプロジェクトに販売して、大金を稼ぐことができます。
@@ -3186,9 +2936,12 @@ OBSOLETE,tutorial_financeselectship,2448,"Contracts are assigned to the ship you
 OBSOLETE,tutorial_financeselecttransport,2448,"Here we have a TRANSPORT PASSENGER contract, click it to see more details.",ここにTRANSPORT PASSENGER契約があります。詳細を表示するにはクリックしてください。
 OBSOLETE,tutorial_financeassigntransport,2448,This mission requires us to transport a group of people from here to another location in the sector.\n\nClick the accept button to assign this contract to the PROCYON.,このミッションは、この場所からセクター内の別の場所に人々を輸送することを必要とします。\n\n契約をPROCYONに割り当てるには、acceptボタンをクリックしてください。
 OBSOLETE,tutorial_financepassengersinbound,2448,The passengers will be delivered to the PROCYON by shuttle.,乗客はシャトルでPROCYONに届けられます。
+OBSOLETE,tutorial_financesectormap,2448,"All passengers have been delivered to the PROCYON, and our FTL drive is operational. We must now plot an FTL jump to their destination.\n\nOpen the SECTOR MAP.",乗客はすべてPROCYONに届けられ、FTLドライブも稼働しています。目的地へのFTLジャンプを計画する必要があります。\n\nSECTOR MAPを開きます。
 OBSOLETE,tutorial_financesetdestination,2448,"This is a map of all the systems in this sector.\n\nOur ship and our space station are located in the middle, where the map is marked YOU-ARE-HERE.\n\nSet a course to the destination (labelled TRANSPORT PASSENGERS) by clicking on it.",これは、このセクター内のすべてのシステムを表示する地図です。\n\n私たちの船と宇宙ステーションは、地図に示されているYOU-ARE-HEREの中央にあります。\n\nTRANSPORT PASSENGERSとラベル付けされた目的地をクリックして、コースを設定します。
 OBSOLETE,tutorial_financeclosesectormap,2448,"Close the SECTOR MAP by clicking the X in the top right corner, or by pressing ESC.",右上隅のXをクリックするか、ESCキーを押してSECTOR MAPを閉じます。
+OBSOLETE,tutorial_financeftlwindow,2448,Open the FTL screen to order the FTL jump.,FTLジャンプの発注には、FTL画面を開きます。
 OBSOLETE,tutorial_financepreparejump,2448,Click on PREPARE JUMP to align the ship and prepare for hyperspace.,船を調整してハイパースペースに備えるには、PREPARE JUMPをクリックします。
+OBSOLETE,tutorial_financepreparingjump,2448,"The PROCYON will align for hyperspace, and prepare the FTL drive to make the jump.",PROCYONはハイパースペースに合わせて調整し、FTLドライブがジャンプの準備をします。
 OBSOLETE,tutorial_financejump,2448,Click the JUMP button to jump to hyperspace.,ハイパースペースにジャンプするには、JUMPボタンをクリックしてください。
 OBSOLETE,tutorial_financeselectmission,2448,We now need to turn in our completed passenger contract.\n\nOpen the CONTRACTS screen and select the passenger mission.,乗客契約を完了する必要があります。\n\nCONTRACTS画面を開き、乗客ミッションを選択します。
 OBSOLETE,tutorial_financeturnin,2448,Click the DELIVER button to drop off the passengers and receive payment,乗客を降ろし、支払いを受けるには、DELIVERボタンをクリックしてください。
@@ -3209,6 +2962,7 @@ OBSOLETE,tutorial_dockingcheckthrusters,2448,"In order to be able to dock succes
 OBSOLETE,tutorial_dockingzoomin,2448,Zoom in so that you can see the docking guides more clearly. They are RED diamonds extending from the docking ports.,ドッキングガイドをより明確に表示するためにズームインします。ドッキングポートから伸びる赤いひし形です。
 OBSOLETE,tutorial_dockingopenmaneuver,2448,Open the MANEUVERING THRUSTER controls.,操縦スラスタのコントロールを開きます。
 OBSOLETE,tutorial_dockingmaneuver,2448,"Use your THRUSTERS to maneuver your ship so that RED diamonds of your docking ports align with the docking port of the *X.\n\nWhen aligned correctly, they will both turn YELLOW.\n\nKeep the ships aligned until the docking bridge is fully extended.",スラスタを使って船を操縦し、船のドッキングポートの赤いひし形を*Xのドッキングポートのドッキングポートの赤いひし形に合わせます。\n\n正しく整列すると、どちらも黄色に変わります。\n\nドッキングブリッジが完全に拡張されるまで、船を整列したままにします。
+OBSOLETE,tutorial_logisticscrewselectship,2448,Select the UMC Astral Temptress. \n\n As you can see it has no crew.,UMC アストラル・テンプテスを選択します。\n\nクルーがいないことがわかります。
 OBSOLETE,tutorial_logisticscrewselectfrom,2448,Select the SOURCE ship that the crew will come FROM.,クルーが来る元のSOURCE船を選択します。
 OBSOLETE,tutorial_logisticscrewclicktarget,2448,Click in the CREW cell of the DESTINATION ship to request 5 crew to transfer.,DESTINATION船のCREWセルをクリックして、5人のクルーを移動させます。
 OBSOLETE,tutorial_logisticscrewclicktarget_shiftclick,2448,NOTE: You can SHIFT CLICK to request transfer in multiples of 5.,注意：シフトクリックすると、5人ずつ移動を要求できます。

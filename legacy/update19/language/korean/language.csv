@@ -1,61 +1,6 @@
 ﻿state,key,svn,english,translation
-NEW,logistics_log_skipped,3339,Skipped order,순서 건너뛰기
-CURRENT,hud_ftlshipcontrolledbylogistics,3331,Ship is controlled by interstellar logistics,성간 물류에 의해 선박이 제어됩니다
-CURRENT,newmainmenu_invalidsavename,3329,Invalid Save Name,잘못된 저장 이름
-CURRENT,newmainmenu_invalidcharacters_caption,3329,Save name contains invalid characters.,저장 이름에 잘못된 문자가 포함되어 있습니다.
-CURRENT,newmainmenu_autosavenameinvalid_caption,3329,Save name reserved for autosaves.,자동 저장을 위해 예약된 저장 이름입니다.
-CURRENT,galaxymap_darkmode,3329,Dark Mode,다크 모드
-CURRENT,galaxymap_lightmode,3329,Light Mode,조명 모드
-CURRENT,techtree_queue,3329,Queue Research,대기열 연구
-CURRENT,logistics_showlog,3329,SHOW LOG,로그 표시
-CURRENT,logistics_hidelog,3329,HIDE LOG,로그 숨기기
-CURRENT,logistics_order_goandwait,3329,Go and Wait,이동 및 대기
-CURRENT,logistics_status_miningstacksnostorage,3329,"(*X/*Y stacks, storage full)","(*X/*Y 스택, 스토리지 가득 찼음)"
-CURRENT,logistics_status_miningstacksnostorage1,3329,"(*X stacks, storage full)","(*X 스택, 스토리지 가득 찼음)"
-CURRENT,logistics_status_collectcontainersnostorage,3329,"(*X/*Y containers, storage full)","(*X/*Y 컨테이너, 스토리지 가득 찼음)"
-CURRENT,logistics_status_collectcontainersnostorage1,3329,"(*X containers, storage full)","(*X 컨테이너, 스토리지 가득 찼음)"
-CURRENT,logistics_status_transfernosupply,3329,out of the *X ordered (not enough available),주문한 *X 중 (사용 가능한 수량 부족)
-CURRENT,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),주문한 *X 중 (금액 부족)
-CURRENT,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),주문한 *X 중 (사용 가능한 수량 부족)
-CURRENT,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),주문한 *X 중 (사용 가능한 수량 부족)
-CURRENT,logistics_status_waiting,3329,Waiting T*X,대기 중 T*X
-CURRENT,logistics_status_time,3329,in T*X,in T*X
-CURRENT,logistics_status_warning,3329,Warning,경고
-CURRENT,logistics_status_alert,3329,Alert,알림
-CURRENT,logistics_log_jumped,3329,Travelled to system S*X,시스템으로 이동 S*X
-CURRENT,logistics_log_jumpedstargate,3329,Travelled to system S*X through Stargate,스타게이트를 통해 S*X 시스템으로 이동
-CURRENT,logistics_log_transferto,3329,Transferred *X R*Y to L*Z,*X R*Y 으로 이전 L*Z
-CURRENT,logistics_log_transferfrom,3329,Transferred *X R*Y from L*Z,에서 전송된 *X R*Y L*Z
-CURRENT,logistics_log_transferstoragefull,3329,(destination storage full),(대상 스토리지 가득 찼음)
-CURRENT,logistics_log_transferstoragefull1,3329,out of the *X ordered (destination storage full),주문한 *X 중 (대상 저장소 가득 찼음)
-CURRENT,logistics_log_waited,3329,Waited for T*X,를 기다렸습니다 T*X
-CURRENT,rating_trade,3329,Trade,거래
-CURRENT,dsi_action_confirmcancel,3329,Confirm cancellation,취소 확인
-CURRENT,dsi_x_confirmcancel1,3329,How dare you! I still have the access keys. You will no longer be a part of this enterprise.,어떻게 감히! 난 아직 액세스 키를 가지고 있어요. 당신은 더 이상 이 기업의 일원이 될 수 없습니다.
-CURRENT,dsi_x_confirmcancel2,3329,You will regret this.,후회하게 될 것입니다.
-CURRENT,dsi_x_confirmcancel3,3329,"Goodbye, Captain.","안녕히 계세요, 캡틴."
-CURRENT,thefinalstand_boss_hint,3329,"Captain! The ship's weapons and engines are disabled, hit it with everything you've got!",선장님! 함선의 무기와 엔진이 무력화되었으니 모든 힘을 다해 공격하세요!
-CURRENT,thefinalstand_harken5,3329,The Stargate will fall back into our control. I've marked an allied shipyard on your map. I'll hide out there in the mean-time.,스타게이트가 다시 우리의 통제하에 들어올 겁니다. 지도에 연합군 조선소를 표시해놨어. 그 동안 난 저기 숨어 있을게요.
-CURRENT,industryend_message,3329,"With Andromeda HQ captured, Cmdr Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind expands beyond our home galaxy and into the future.",안드로메다 본부를 점령한 하켄 소령과 은하계 안보 위원회는 모든 인류의 이익을 위해 안드로메다 프로젝트 대기업을 해체하고 스타게이트의 통제권을 되찾을 것입니다.  인류가 우리 은하계를 넘어 미래로 확장하는 새로운 장이 시작되었습니다.
-CURRENT,trade_autodisembarkat,3329,DISEMBARK ABOVE,위의 하선
-CURRENT,logistics_status_transferto,3329,Transferring *X R*Y to L*Z,*X R*Y 으로 전송 L*Z
-CURRENT,logistics_status_transferfrom,3329,Transferring *X R*Y from L*Z,*X R*Y 에서 전송 L*Z
-CURRENT,thefinalstand_harken1_intro,3329,"Captain! In direct violation of intergalactic law, the Andromeda Project has permanently closed access to the Stargate outside of their own ships. Colonists are stranded in the new sector, unable to return home.",함장님! 안드로메다 프로젝트는 은하계 법을 정면으로 위반하여 우주선 외부의 스타게이트로의 접근을 영구적으로 폐쇄했습니다. 식민지 주민들은 새로운 구역에 발이 묶여 집으로 돌아갈 수 없게 되었습니다.
-CURRENT,thefinalstand_battleoutro_ship1,3329,DANGER: POWER SYSTEMS DETERIORATING. POWER GRID OVERLOADED.\nNO POWER TO WEAPONS AND ENGINES.,위험: 전력 시스템 악화. 전력망 과부하.\n무기와 엔진에 전원이 공급되지 않습니다.
-CURRENT,thefinalstand_battleoutro_harken3,3329,"It's over, Captain. The Andromeda HQ will be placed under the jurisdiction of the Intergalactic Security Council while I make the necessary arrests. The access codes for the Stargate are back under our control.","끝났습니다, 함장님 안드로메다 본부는 내가 체포하는 동안 은하 안전보장이사회의 관할하에 놓이게 될 겁니다. 스타게이트의 액세스 코드가 다시 우리 통제하에 들어왔어요."
-CURRENT,tutorial_ftladdftldrive,3329,Add one <b>FTL drive</b> to our order by clicking on the entry in the list.,목록에서 항목을 클릭하여 주문에 <b>FTL 드라이브를</b> 하나 추가하세요.
-CURRENT,tutorial_ftladdftlfuel,3329,<b>FTL drives</b> consume one fuel charge per jump.\n\nAdd 5 <b>FTL charges</b> to the order as well.,<b>FTL 드라이브는</b> 점프할 때마다 한 번의 연료 충전이 소모됩니다.\n\n주문에 5개의 <b>FTL 충전도</b> 추가할 수 있습니다.
-CURRENT,tutorial_ftlinstallftl,3329,Install the <b>FTL drive</b> anywhere in your ship.,선박의 어느 곳에나 <b>FTL 드라이브를</b> 설치하세요.
-CURRENT,tutorial_ftlpowerftl,3329,Connect the <b>FTL drive</b> to your power network.,<b>FTL 드라이브를</b> 전원 네트워크에 연결합니다.
-CURRENT,tutorial_ftlstoragetoolbar,3329,"We can make things more efficient for our crew by telling them to store <b>FTL charges</b> near the <b>FTL drive</b>.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>FTL charges</b> from the list.",\n\n<b>구성</b> 도구 모음에서 <b>스토리지를</b> 선택한 다음 목록에서 <b>FTL</b> 충전을 선택하면 승무원에게 <b>FTL</b> <b>드라이브</b> 근처에 저장하도록 지시하여 작업을 더 효율적으로 수행할 수 있습니다.
-CURRENT,tutorial_ftlstorageworld,3329,Now drag out a storage zone near to the <b>FTL drive</b>.,이제 <b>FTL 드라이브</b> 근처로 스토리지 영역을 끌어다 놓습니다.
-CURRENT,tutorial_ftlstoragedone,3329,The crew will move all the <b>FTL charges</b> into this zone.,승무원은 모든 <b>FTL 충전을</b> 이 구역으로 옮깁니다.
-CURRENT,tutorial_financesectormap,3329,"All passengers have been delivered to the <b>PROCYON</b>, and our <b>FTL drive</b> is operational. We must now plot an <b>FTL jump</b> to their destination.\n\nOpen the <b>SECTOR MAP</b>.",모든 승객이 <b>프로시온에</b> 도착했고 <b>FTL 드라이브가</b> 작동합니다. 이제 목적지까지 <b>FTL 점프를</b> 계획해야 합니다.\n\n<b>섹터 맵을</b> 엽니다.
-CURRENT,tutorial_financeftlwindow,3329,Open the <b>FTL screen</b> to order the <b>FTL jump</b>.,<b>FTL 화면을</b> 열어 <b>FTL 점프를</b> 주문합니다.
-CURRENT,tutorial_financepreparingjump,3329,"The <b>PROCYON</b> will align for hyperspace, and prepare the <b>FTL drive</b> to make the jump.",<b>프로사이언은</b> 하이퍼스페이스에 맞춰 정렬하고 <b>FTL 드라이브가</b> 점프할 수 있도록 준비합니다.
-CURRENT,tutorial_logisticscrewselectship,3329,Select the <b>UMC Astral Temptress</b>. \n\n As you can see it has no crew.,<b>UMC 아스트랄 템프트리스를</b> 선택합니다. \n\n 보시다시피 승무원이 없습니다.
-CURRENT,dsi_x_canceldeal2,3329,"You will lose access to all the ships I've provided, are you sure you want to do this?","내가 제공한 모든 선박에 대한 액세스 권한을 잃게 될 텐데, 정말 이렇게 하시겠습니까?"
-CURRENT,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,제작에 필요한 각 컴포넌트는 오른쪽에 있습니다.\n컴포넌트의 아이콘 위에 마우스를 올려놓으면 제작 방법이 표시됩니다.
+UPDATED,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,제작에 필요한 각 컴포넌트는 오른쪽에 있습니다.\n컴포넌트의 아이콘 위에 마우스를 올려놓으면 제작 방법이 표시됩니다.
+PREVIOUS,tutorial_stargatewindowhighlightcomponent,2448,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,필요한 각 부품은 왼쪽에 있습니다.\n부품 아이콘 위에 마우스를 올리면 생산 방법이 표시됩니다.  
 CURRENT,logistics_tooltip_skiporder,3248,Skip currently executing order,현재 실행 중인 주문 건너뛰기
 CURRENT,logistics_tooltip_loop,3248,Loop execution,루프 실행
 CURRENT,thefinalstand_artemis1,3248,Hello again Captain!,"안녕하세요, 캡틴!"
@@ -66,8 +11,10 @@ CURRENT,thefinalstand_end_objective_leave,3248,Leave the HQ,본부를 떠나기
 CURRENT,thefinalstand_harken2,3248,"The Andromeda Project has moved their HQ and all key personell into an unknown location in the new sector, where we believe they are controlling the Stargate.","안드로메다 프로젝트는 본부와 모든 핵심 인력을 새로운 섹터의 알려지지 않은 장소로 이동시켰으며, 그곳에서 스타게이트를 통제하고 있는 것으로 추정됩니다."
 CURRENT,thefinalstand_harken3,3248,"My plan is to use our fleets to take control of the HQ by force. Any and all damage to the HQ should be avoided, many innocent lives are on-board and the loss of life from destroying it would be far too great.\nI have devised a plan with an old friend of yours that should minimise casualties...",내 계획은 우리 함대를 이용해 무력으로 본부를 장악하는 것입니다. 본부에 대한 모든 피해는 피해야 합니다. 많은 무고한 생명들이 탑승하고 있고 파괴로 인한 인명 손실은 너무 클 것입니다.\n나는 당신의 오랜 친구와 함께 사상자를 최소화 할 계획을 고안했습니다...
 CURRENT,thefinalstand_harken4,3248,"While you neutralise the HQ, my fleet will fight off the Andromeda Project navy. Once the battle is over, I will take control of the HQ and arrest everyone involved. Their conglomerate will be dismantled.",당신이 본부를 무력화하는 동안 내 함대는 안드로메다 프로젝트 해군과 싸울 것입니다. 전투가 끝나면 본부를 장악하고 관련자를 모두 체포할 것입니다. 그들의 대기업은 해체될 것입니다.
+CURRENT,thefinalstand_harken5,3248,The Stargate will fall back into your sole control. I've marked an allied shipyard on your map. I'll hide out there in the mean-time.,스타게이트는 다시 당신의 단독 통제하에 놓이게 됩니다. 지도에 연합군 조선소를 표시해뒀어. 그 동안 난 저기 숨어 있을게요.
 CURRENT,thefinalstand_harken6,3248,Meet me to discuss the plan further. Goodbye for now.,계획에 대해 더 자세히 논의하려면 저를 만나주세요. 이만 끊겠습니다.
 CURRENT,thefinalstand_boss_harken2,3248,This is the Andromeda Navy's flagship! You should have access to its command centre from the HQ!,안드로메다 해군의 기함입니다! 본부에서 지휘 센터에 접속할 수 있습니다!
+CURRENT,industryend_message,3248,"Now the Andromeda HQ has been captured, Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind spreads beyond our home galaxy and into the future.",이제 안드로메다 본부를 점령한 하켄과 은하계 보안 위원회는 모든 인류를 위해 안드로메다 프로젝트 대기업을 해체하고 스타게이트의 통제권을 되찾을 것입니다.  인류가 우리 은하계를 넘어 미래로 뻗어나가는 새로운 장이 시작되었습니다.
 CURRENT,bravenewsector_part4_rep9,3244,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy and the Andromeda galaxy.,"안녕하세요, 함장님. 새로 완공된 스타게이트 덕분에 안드로메다 프로젝트는 이 은하와 안드로메다 은하 사이의 자원과 사람의 흐름을 통제할 수 있는 강력한 위치에 서게 되었습니다."
 CURRENT,thefinalstand_battleprep_1,3244,"Hello Captain, it's good to see you. These are all of the ships I control in this sector, the rest are on the other side of the Stargate, unable to reach us.","안녕하세요, 함장님, 반갑습니다. 이 구역의 함선들은 제가 관리하는 모든 함선이고, 나머지는 스타게이트 반대편에 있어 연락이 안 됩니다."
 CURRENT,thefinalstand_battle_rep1,3244,Commander Harken! I see that my first fleet has failed to deal with you. I suppose if I want something done properly I should do it myself.,하켄 사령관! 내 첫 번째 함대가 당신을 처리하는 데 실패한 것 같군. 제대로 처리하려면 내가 직접 해야겠군.
@@ -78,6 +25,7 @@ CURRENT,andromeda_travel,3239,ANDROMEDA JOURNEY,안드로메다 여정
 CURRENT,trade_autohireat,3239,HIRE BELOW,아래에서 채용하기
 CURRENT,trade_autosackat,3239,SACK ABOVE,위의 자루
 CURRENT,trade_autoembarkat,3239,EMBARK BELOW,아래 표시
+CURRENT,trade_autodisembarkat,3239,DISEMBARK BELOW,아래에서 하선
 CURRENT,trade_tooltip_hire,3239,[LMB] Hire,[LMB] 채용
 CURRENT,trade_tooltip_embark,3239,[LMB] Embark,[LMB] 출발
 CURRENT,trade_tooltip_disembark,3239,[LMB] Disembark,[LMB] 하선
@@ -152,9 +100,15 @@ CURRENT,logistics_status_miningstacks1,3239,(*X stacks),(*X 스택)
 CURRENT,logistics_status_collect,3239,Collected *X R*Y,수집됨 *X R*Y
 CURRENT,logistics_status_collectcontainers,3239,(*X/*Y containers),(*X/*Y 컨테이너)
 CURRENT,logistics_status_collectcontainers1,3239,(*X containers),(*X 컨테이너)
+CURRENT,logistics_status_transferto,3239,Transfering *X R*Y to L*Z,*X R*Y 으로 전송 L*Z
+CURRENT,logistics_status_transferfrom,3239,Transfering *X R*Y from L*Z,*X R*Y 에서 전송 L*Z
 CURRENT,logistics_status_buy,3239,Bought *X R*Y for $*Z,구입 *X R*Y $*Z
 CURRENT,logistics_status_sell,3239,Sold *X R*Y for $*Z,판매 *X R*Y $*Z
 CURRENT,logistics_status_notlooping,3239,Finished execution (not looping),실행 완료(루핑되지 않음)
+CURRENT,logistics_status_time1,3239,in *X:*Y,에서 *X:*Y
+CURRENT,logistics_status_time2,3239,in *X:0*Y,in *X:0*Y
+CURRENT,logistics_status_time3,3239,in 0*X:*Y,0에서*X:*Y
+CURRENT,logistics_status_time4,3239,in 0*X:0*Y,in 0*X:0*Y
 CURRENT,order_advancedlogistics,3239,Interstellar Logistics,인터스텔라 물류
 CURRENT,mission_objective_done,3239,DONE,완료
 CURRENT,alert_type_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,인터스텔라 물류
@@ -203,6 +157,7 @@ CURRENT,bravenewsector_part4_rep11,3239,"We will bring prosperity to all those w
 CURRENT,bravenewsector_part4_testshipname,3239,Andromeda Test Ship MK.1,안드로메다 시험선 MK.1
 CURRENT,thefinalstand_title,3239,The Final Stand,파이널 스탠드
 CURRENT,thefinalstand_summary,3239,Stop the Andromeda Project.,안드로메다 프로젝트를 중지합니다.
+CURRENT,thefinalstand_harken1_intro,3239,"Captain! In direct violation of intergalactic law, the Andromeda Project has permanently closed access to the Stargate outside of their own ships. Billions of colonists have been stranded in the new sector, unable to return home.",함장님! 안드로메다 프로젝트는 은하계 법을 정면으로 위반하여 우주선 외부에서 스타게이트로의 접근을 영구적으로 폐쇄했습니다. 수십억 명의 식민지 주민들이 고향으로 돌아가지 못한 채 새로운 구역에 발이 묶였습니다.
 CURRENT,thefinalstand_harken2_intro,3239,"You are the only one outside of the Andromeda Project with access codes, please call back as soon as you can. They must be stopped.",안드로메다 프로젝트 외부에서 액세스 코드를 가진 사람은 회원님이 유일하니 가능한 한 빨리 전화해 주세요. 그들은 반드시 막아야 합니다.
 CURRENT,thefinalstand_call_action,3239,Call Harken,하켄에게 전화하기
 CURRENT,thefinalstand_andromedahq_name,3239,ANDROMEDA HQ,안드로메다 본사
@@ -227,11 +182,13 @@ CURRENT,thefinalstand_battle_harken1,3239,Great work Captain! But my sensors are
 CURRENT,thefinalstand_boss_harken1,3239,I've lost both of my frigates Captain! I don't have enough firepower to win this!,"두 호위함을 모두 잃었습니다, 함장님! 화력이 부족해서 이길 수 없습니다!"
 CURRENT,thefinalstand_objective_destroyboss,3239,Destroy the Andromeda Flagship,안드로메다 기함 파괴하기
 CURRENT,thefinalstand_boss_overloadcaption,3239,OVERLOAD GENERATOR,과부하 발전기
+CURRENT,thefinalstand_battleoutro_ship1,3239,DANGER: POWER SYSTEMS DETERIORATING. POWER GRID OVERLOADED.,위험: 전력 시스템 성능 저하. 전력망 과부하.
 CURRENT,thefinalstand_battleoutro_rep1,3239,"I don't understand, how is that possible!?","이해가 안 돼요, 어떻게 그럴 수 있죠?"
 CURRENT,thefinalstand_battleoutro_ship2,3239,DANGER: GENERATOR STATUS CRITICAL.,위험: 발전기 상태 위험.
 CURRENT,thefinalstand_battleoutro_rep2,3239,"Send all available power to railguns, set target to-","레일건에 사용 가능한 모든 전력을 보내고, 대상을 다음과 같이 설정합니다"
 CURRENT,thefinalstand_battleoutro_harken1,3239,"This is a message for Andromeda HQ. I am Commander Harken, Chief of Private Security for this sector, and I command you to stand down.","안드로메다 본부로 보내는 메시지입니다. 나는 이 구역의 민간 보안 책임자 하켄 중령이며, 당신에게 물러날 것을 명령합니다."
 CURRENT,thefinalstand_battleoutro_harken2,3239,"The Andromeda Navy in this sector has been destroyed, you are now blockaded, there is nothing left to fight for.","이 구역의 안드로메다 해군은 파괴되었고, 이제 봉쇄되어 싸울 것이 아무것도 남지 않았습니다."
+CURRENT,thefinalstand_battleoutro_harken3,3239,"It's over, Captain. The Andromeda HQ will be placed under the jurisdiction of the Intergalactic Security Council while I make the necessary arrests. The access codes for the Stargate are back under your control.","끝났습니다, 함장님 안드로메다 본부는 내가 체포하는 동안 은하 간 안전보장이사회의 관할하에 놓이게 될 거야. 스타게이트의 액세스 코드가 다시 당신 통제하에 있습니다."
 CURRENT,thefinalstand_battleoutro_harken4,3239,The current leadership of the Andromeda Project will be dismantled and the new galaxy will be freed from their control.,안드로메다 프로젝트의 현 지도부는 해체되고 새로운 은하계는 그들의 통제에서 벗어나게 될 것입니다.
 CURRENT,thefinalstand_battleoutro_harken5,3239,"You've proven that you can be trusted with control of the Stargate, so I'll leave it in your hands.",스타게이트의 통제권을 맡길 수 있다는 걸 증명했으니 자네에게 맡기겠네.
 CURRENT,thefinalstand_battleoutro_harken6,3239,"Goodbye Captain, and good luck with your new place in the galaxy.","안녕히 계시고, 새로운 은하계에서 행운을 빕니다."
@@ -608,6 +565,13 @@ CURRENT,tutorial_airdone,2886,The <b>AIRDUCT</b> is activated and is pressurisin
 CURRENT,tutorial_enginesinformation,2886,Engines require both <b>POWER</b> and <b>FUEL</b> to operate. We must connect both engines to fuel and power.,엔진이 작동하려면 <b>전원</b>과 <b>연료</b>가 모두 필요합니다. 두 엔진을 모두 연료와 동력에 연결해야 합니다.
 CURRENT,tutorial_enginesconnectpower,2886,"Now use the <b>CABLES</b> menu to power up the engine, by connecting it to your existing red power lines.",이제 <b>케이블</b> 메뉴를 사용하여 기존의 빨간색 전원선에 연결하여 엔진에 전원을 공급합니다.
 CURRENT,tutorial_ftlselectpropulsion,2886,The items we need are listed under <b>PROPULSION</b>. Select that category.,필요한 항목은 <b>인기도</b> 아래에 나열되어 있습니다. 해당 카테고리를 선택합니다.
+CURRENT,tutorial_ftladdftldrive,2886,Add one <b>FTL</b> drive to our order by clicking on the entry in the list.,목록에서 항목을 클릭하여 주문에 <b>FTL</b> 드라이브 하나를 추가합니다.
+CURRENT,tutorial_ftladdftlfuel,2886,<b>FTL</b> drives consume one fuel charge per jump. Add 5 <b>FTL</b> Charges to the order as well.,<b>FTL</b> 드라이브는 점프할 때마다 한 번의 연료 충전을 소모합니다. 주문에 <b>FTL</b> 충전 5회도 추가합니다.
+CURRENT,tutorial_ftlinstallftl,2886,Install the <b>FTL</b> drive anywhere in your ship.,선박의 어느 곳에나 <b>FTL</b> 드라이브를 설치하세요.
+CURRENT,tutorial_ftlpowerftl,2886,Connect the <b>FTL</b> drive to your power network.,<b>FTL</b> 드라이브를 전원 네트워크에 연결합니다.
+CURRENT,tutorial_ftlstoragetoolbar,2886,"We can make things more efficient for our crew by telling them to store <b>FTL</b> Charges near the <b>FTL</b> drive.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>FTL</b> Charges from the list.",승무원에게 <b>FTL</b> 드라이브 근처에 <b>FTL</b> 충전 장치를 보관하도록 지시하여 작업을 더 효율적으로 수행할 수 있습니다.\n\n<b>건설</b> 도구 모음에서 <b>보관</b>을 선택한 다음 목록에서 <b>FTL</b> 충전 장치를 선택합니다.
+CURRENT,tutorial_ftlstorageworld,2886,Now drag out a storage zone near to the <b>FTL</b> drive.,이제 <b>FTL</b> 드라이브 근처로 스토리지 영역을 끌어다 놓습니다.
+CURRENT,tutorial_ftlstoragedone,2886,The crew will move all the <b>FTL</b> Charges into this zone.,승무원은 모든 <b>FTL</b> 충전을 이 구역으로 이동합니다.
 CURRENT,tutorial_stargatescreen2,2886,This screen shows the phases that require construction in order to complete the <b>STARGATE</b>.\n\nWe are in <b>PHASE</b> 1. Work has only just begun.,이 화면은 <b>스타게이트</b>를 완성하기 위해 공사가 필요한 단계를 보여줍니다.\n\n현재 <b>1단계</b>에 있습니다. 이제 막 공사가 시작되었습니다.
 CURRENT,tutorial_stargatescreen3,2886,On the left of the screen you can see the requirements to complete <b>PHASE</b> 1.\n\nWe need to manufacture:\n- 100 <b>STARGATE FRAMES</b>\n- 10 <b>STARGATE RESIN</b>,화면 왼쪽에서 1단계 완료를 위한 요구 사항을 확인할 수 있습니다.\n\n\n - <b>스타게이트 프레임</b> 100개\n- <b>스타게이트 수지</b> 10개
 CURRENT,tutorial_stargatescreen4,2886,"These <b>PHASE</b> 1 components are easy to manufacture, and we already have what we need onboard.\n\nBut we can sell them to the <b>STARGATE PROJECT</b> for a small fortune.",이 <b>1단계</b> 구성 요소는 제조하기 쉽고 이미 필요한 것을 갖추고 있습니다.\n\n하지만 <b>스타게이트 프로젝트</b>에 약간의 돈을 받고 판매할 수 있습니다.
@@ -654,9 +618,12 @@ CURRENT,tutorial_financeselectship,2886,"Contracts are assigned to the ship you 
 CURRENT,tutorial_financeselecttransport,2886,"Here we have a <b>TRANSPORT PASSENGER</b> contract, click it to see more details.","여기에는 <b>운송 승객</b> 계약이 있으며, 자세한 내용을 보려면 클릭하세요."
 CURRENT,tutorial_financeassigntransport,2886,This mission requires us to transport a group of people from here to another location in the sector.\n\nClick the accept button to assign this contract to the <b>PROCYON</b>.,이 임무를 수행하려면 이곳에서 섹터 내 다른 장소로 사람들을 수송해야 합니다.\n\n수락 버튼을 클릭하여 이 계약을 <b>프로시온</b>에 할당합니다.
 CURRENT,tutorial_financepassengersinbound,2886,The passengers will be delivered to the <b>PROCYON</b> by shuttle.,승객은 셔틀을 통해 <b>프로시온</b>으로 이동합니다.
+CURRENT,tutorial_financesectormap,2886,"All passengers have been delivered to the <b>PROCYON</b>, and our <b>FTL</b> drive is operational. We must now plot an <b>FTL</b> jump to their destination.\n\nOpen the <b>SECTOR MAP</b>.","모든 승객이 <b>프로시온</b>에 도착했고, <b>FTL</b> 드라이브가 작동합니다. 이제 목적지까지 <b>FTL</b> 점프를 계획해야 합니다.\n\n<b>섹터 맵</b>을 엽니다."
 CURRENT,tutorial_financesetdestination,2886,"This is a map of all the systems in this sector.\n\nOur ship and our space station are located in the middle, where the map is marked <b>YOU-ARE-HERE</b>.\n\nSet a course to the destination (labelled <b>TRANSPORT</b> PASSENGERS) by clicking on it.","이것은 이 구역에 있는 모든 시스템의 지도입니다.\n\n\n우리 우주선과 우주 정거장이 가운데에 있으며, 지도에는 <b>'여기 있습니다'</b>라고 표시되어 있습니다.\n\n\n목적지(<b>운송</b> 승객이라고 표시되어 있음)를 클릭하여 목적지까지의 경로를 설정하세요."
 CURRENT,tutorial_financeclosesectormap,2886,"Close the <b>SECTOR MAP</b> by clicking the X in the top right corner, or by pressing <b>ESC</b>.",오른쪽 상단 모서리에 있는 X를 클릭하거나 <b>ESC</b> 키를 눌러 <b>섹터 맵</b>을 닫습니다.
+CURRENT,tutorial_financeftlwindow,2886,Open the <b>FTL</b> screen to order the <b>FTL</b> jump.,<b>FTL</b> 화면을 열어 <b>FTL</b> 점프를 주문합니다.
 CURRENT,tutorial_financepreparejump,2886,Click on <b>PREPARE JUMP</b> to align the ship and prepare for hyperspace.,<b>점프 준비</b>를 클릭하여 우주선을 정렬하고 하이퍼스페이스를 준비합니다.
+CURRENT,tutorial_financepreparingjump,2886,"The <b>PROCYON</b> will align for hyperspace, and prepare the <b>FTL</b> drive to make the jump.",<b>프로사이언</b>은 하이퍼스페이스에 맞춰 정렬하고 <b>FTL</b> 드라이브가 점프할 수 있도록 준비합니다.
 CURRENT,tutorial_financejump,2886,Click the <b>JUMP</b> button to jump to hyperspace.,하이퍼스페이스로 이동하려면 <b>점프</b> 버튼을 클릭합니다.
 CURRENT,tutorial_financeselectmission,2886,We now need to turn in our completed passenger contract.\n\nOpen the <b>CONTRACTS</b> screen and select the passenger mission.,이제 작성한 승객 계약서를 제출해야 합니다.\n\n<b>계약</b> 화면을 열고 승객 미션을 선택합니다.
 CURRENT,tutorial_financeturnin,2886,Click the <b>DELIVER</b> button to drop off the passengers and receive payment,승객을 내려주고 대금을 받으려면 <b>배달</b> 버튼을 클릭합니다
@@ -677,6 +644,7 @@ CURRENT,tutorial_dockingcheckthrusters,2886,"In order to be able to dock success
 CURRENT,tutorial_dockingzoomin,2886,Zoom in so that you can see the docking guides more clearly. They are <b>RED</b> diamonds extending from the docking ports.,확대하면 도킹 가이드가 더 선명하게 보입니다. 도킹 포트에서 뻗어 있는 <b>빨간색</b> 다이아몬드입니다.
 CURRENT,tutorial_dockingopenmaneuver,2886,Open the <b>MANEUVERING THRUSTER</b> controls.,<b>기동 쓰러스터</b> 컨트롤을 엽니다.
 CURRENT,tutorial_dockingmaneuver,2886,"Use your <b>THRUSTERS</b> to maneuver your ship so that <b>RED</b> diamonds of your docking ports align with the docking port of the *X.\n\nWhen aligned correctly, they will both turn <b>YELLOW</b>.\n\nKeep the ships aligned until the docking bridge is fully extended.",추진기를 사용하여 <b>도킹 포트의 빨간색</b> 다이아몬드가 *X 의 도킹 포트와 정렬되도록 함선을 조종하세요.\n\n올바르게 정렬되면 둘 다 <b>노란색으로</b> 바뀝니다.\n\n도킹 브리지가 완전히 확장될 때까지 함선을 정렬된 상태로 유지하세요.
+CURRENT,tutorial_logisticscrewselectship,2886,Select the <b>UMC</b> Astral Temptress. \n\n As you can see it has no crew.,<b>UMC</b> 아스트랄 템프트리스를 선택합니다. \n\n 보시다시피 승무원이 없습니다.
 CURRENT,tutorial_logisticscrewselectfrom,2886,Select the <b>SOURCE</b> ship that the crew will come <b>FROM</b>.,승무원이 올 <b>출발지</b> 선박을 선택합니다<b></b>.
 CURRENT,tutorial_logisticscrewclicktarget,2886,Click in the <b>CREW</b> cell of the <b>DESTINATION</b> ship to request 5 crew to transfer.,<b>목적지</b> 선박의 <b>승무원</b> 셀을 클릭하여 승무원 5명의 이동을 요청합니다.
 CURRENT,tutorial_logisticscrewclicktarget_shiftclick,2886,<b>NOTE</b>: You can <b>SHIFT CLICK</b> to request transfer in multiples of 5.,<b>참고</b>: <b>Shift 키를 클릭</b>하여 5의 배수로 전송을 요청할 수 있습니다.
@@ -2520,6 +2488,8 @@ CURRENT,dsi_xwarning2_part1,2448,"Captain, I was sure I'd made our agreement cle
 CURRENT,dsi_xwarning2_part2,2448,"I thought I could trust you.  Pay me the money you owe, immediately, or I will be forced to escalate.","신뢰할 수 있다고 생각했는데, 즉시 미지급금을 지급하세요. 그렇지 않으면 강경 조치를 취할 수밖에 없습니다.  "
 CURRENT,dsi_xwarning3,2448,"Captain, this is your final warning.  You are now willfully withholding sales revenue that is legally mine.  If you don't pay what you owe immediately I will have no choice but to terminate our agreement, seize control of my station, and recover any financial losses directly from you.","선장님, 이것이 마지막 경고입니다. 법적으로 제 소유인 판매 수익을 고의로 미지급하고 있습니다. 즉시 지급하지 않으면 계약을 해지하고, 기지를 압수하며, 재정 손실을 직접 청구하겠습니다.  "
 CURRENT,dsi_x_canceldeal1,2448,"I'm disappointed, Captain. You're backing out after all the investment I've put into this project?","실망스럽군요, 선장님. 제가 이 프로젝트에 투자한 모든 것을 무시하고 철회하시다니요?  "
+CURRENT,dsi_x_canceldeal2,2448,You will regret this.,후회하게 될 겁니다.  
+CURRENT,dsi_x_canceldeal3,2448,"Goodbye, Captain.","안녕히 가십시오, 선장님.  "
 CURRENT,dsi_part1_stationname,2448,A.J.E Foundry,A.J.E Foundry
 CURRENT,dsi_part1_title,2448,Deep Space Industrialists,심우주 산업가들  
 CURRENT,dsi_part1_advert1,2448,"My name is Alexander James Elistar, and I'm the chairman and founder of A.J.E Industries.  I have a business proposition for you.  If you would be interested in setting up a production facility for me, I believe with some luck and a good deal of hard work we can both make substantial returns.","제 이름은 알렉산더 제임스 엘리스타이며, A.J.E 산업의 회장이자 설립자입니다. 사업 제안을 하나 드리고 싶습니다. 생산 시설을 설치해 주신다면, 운과 노력만 따라준다면 양쪽 모두 큰 수익을 올릴 수 있을 것입니다.  "
@@ -3047,45 +3017,13 @@ CURRENT,calltoarms_harkenrailroad_3,2448,We've recieved reports of a shipwreck n
 CURRENT,calltoarms_harkenrailroad_4,2448,Travel to the shipwreck and look for a Black Box Flight Recorder in the wreckage.  This device will contain a log of their final moments.,잔해를 찾아가 블랙박스 비행기록 장치를 확보하세요. 이 장치에는 마지막 순간의 로그가 기록되어 있습니다.  
 CURRENT,calltoarms_harkenrailroad_5,2448,To collect the flight recorder you'll need to install a DRONE BAY and at least one LOGISTICS DRONE. You can buy them from any Shipyard or Colony.,비행기록 장치를 수거하려면 드론 베이와 최소 1대 이상의 물류 드론이 필요합니다. 이는 조선소나 식민지에서 구매할 수 있습니다.  
 CURRENT,dsi_part1_callfromrep1,2448,"This is a message for A.J.E FOUNDRY.  We've received your samples and can report that they have passed comfortably within our engineering tolerances.  You are formally approved as licensed industry partners, and may now manufacture all items in our design manifest.","이 메시지는 A.J.E 주조소에 전하는 것입니다. 귀사에서 보낸 샘플은 당사의 공학 허용 오차 기준을 무난히 통과했습니다. 귀사는 정식으로 라이선스를 획득한 산업 파트너로 승인되었으며, 설계 목록에 포함된 모든 항목을 생산할 수 있습니다."
-OBSOLETE,thefinalstand_harken5,3248,The Stargate will fall back into your sole control. I've marked an allied shipyard on your map. I'll hide out there in the mean-time.,스타게이트는 다시 당신의 단독 통제하에 놓이게 됩니다. 지도에 연합군 조선소를 표시해뒀어. 그 동안 난 저기 숨어 있을게요.
-OBSOLETE,thefinalstand_harken5,3239,"Any and all damage to the HQ should be avoided. Many innocent lives are on-board that HQ, the loss of life from destroying it would be far too great. You will upload a virus to their command centre and disable the station's offensive capabilities.","본부에 대한 모든 피해는 피해야 합니다. 본부에는 많은 무고한 생명들이 탑승하고 있으며, 본부를 파괴할 경우 인명 손실이 너무 클 것입니다. 지휘 센터에 바이러스를 업로드하여 정거장의 공격 능력을 무력화시켜야 합니다."
-OBSOLETE,industryend_message,3248,"Now the Andromeda HQ has been captured, Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind spreads beyond our home galaxy and into the future.",이제 안드로메다 본부를 점령한 하켄과 은하계 보안 위원회는 모든 인류를 위해 안드로메다 프로젝트 대기업을 해체하고 스타게이트의 통제권을 되찾을 것입니다.  인류가 우리 은하계를 넘어 미래로 뻗어나가는 새로운 장이 시작되었습니다.
-OBSOLETE,industryend_message,3239,"After capturing the Andromeda HQ, Harken and the Intergalactic Security Council dismantled the Andromeda Project conglomerate.  The control of the Stargate was left in the hands of the Captain that built it.  Humanity's journey across the universe has only just begun...","안드로메다 본부를 점령한 후, 하켄과 은하계 안전 보장 이사회는 안드로메다 프로젝트 대기업을 해체했습니다.  스타게이트의 통제권은 스타게이트를 건설한 캡틴의 손에 남겨졌습니다.  우주를 가로지르는 인류의 여정은 이제 막 시작되었습니다..."
-OBSOLETE,trade_autodisembarkat,3239,DISEMBARK BELOW,아래에서 하선
-OBSOLETE,logistics_status_transferto,3239,Transfering *X R*Y to L*Z,*X R*Y 으로 전송 L*Z
-OBSOLETE,logistics_status_transferfrom,3239,Transfering *X R*Y from L*Z,*X R*Y 에서 전송 L*Z
-OBSOLETE,thefinalstand_harken1_intro,3239,"Captain! In direct violation of intergalactic law, the Andromeda Project has permanently closed access to the Stargate outside of their own ships. Billions of colonists have been stranded in the new sector, unable to return home.",함장님! 안드로메다 프로젝트는 은하계 법을 정면으로 위반하여 우주선 외부에서 스타게이트로의 접근을 영구적으로 폐쇄했습니다. 수십억 명의 식민지 주민들이 고향으로 돌아가지 못한 채 새로운 구역에 발이 묶였습니다.
-OBSOLETE,thefinalstand_battleoutro_ship1,3239,DANGER: POWER SYSTEMS DETERIORATING. POWER GRID OVERLOADED.,위험: 전력 시스템 성능 저하. 전력망 과부하.
-OBSOLETE,thefinalstand_battleoutro_harken3,3239,"It's over, Captain. The Andromeda HQ will be placed under the jurisdiction of the Intergalactic Security Council while I make the necessary arrests. The access codes for the Stargate are back under your control.","끝났습니다, 함장님 안드로메다 본부는 내가 체포하는 동안 은하 간 안전보장이사회의 관할하에 놓이게 될 거야. 스타게이트의 액세스 코드가 다시 당신 통제하에 있습니다."
-OBSOLETE,tutorial_ftladdftldrive,2886,Add one <b>FTL</b> drive to our order by clicking on the entry in the list.,목록에서 항목을 클릭하여 주문에 <b>FTL</b> 드라이브 하나를 추가합니다.
-OBSOLETE,tutorial_ftladdftldrive,2448,Add one FTL drive to our order by clicking on the entry in the list.,목록에서 클릭하여 FTL 드라이브 하나를 주문에 추가하세요.
-OBSOLETE,tutorial_ftladdftlfuel,2886,<b>FTL</b> drives consume one fuel charge per jump. Add 5 <b>FTL</b> Charges to the order as well.,<b>FTL</b> 드라이브는 점프할 때마다 한 번의 연료 충전을 소모합니다. 주문에 <b>FTL</b> 충전 5회도 추가합니다.
-OBSOLETE,tutorial_ftladdftlfuel,2448,FTL drives consume one fuel charge per jump. Add 5 FTL Charges to the order as well.,FTL 드라이브는 점프당 연료 충전 1개를 소모합니다. FTL 충전 5개도 함께 주문에 추가하세요.
-OBSOLETE,tutorial_ftlinstallftl,2886,Install the <b>FTL</b> drive anywhere in your ship.,선박의 어느 곳에나 <b>FTL</b> 드라이브를 설치하세요.
-OBSOLETE,tutorial_ftlinstallftl,2448,Install the FTL drive anywhere in your ship.,FTL 드라이브를 함선 내 원하는 위치에 설치하세요.
-OBSOLETE,tutorial_ftlpowerftl,2886,Connect the <b>FTL</b> drive to your power network.,<b>FTL</b> 드라이브를 전원 네트워크에 연결합니다.
-OBSOLETE,tutorial_ftlpowerftl,2448,Connect the FTL drive to your power network.,FTL 드라이브를 전력망에 연결하세요.
-OBSOLETE,tutorial_ftlstoragetoolbar,2886,"We can make things more efficient for our crew by telling them to store <b>FTL</b> Charges near the <b>FTL</b> drive.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>FTL</b> Charges from the list.",승무원에게 <b>FTL</b> 드라이브 근처에 <b>FTL</b> 충전 장치를 보관하도록 지시하여 작업을 더 효율적으로 수행할 수 있습니다.\n\n<b>건설</b> 도구 모음에서 <b>보관</b>을 선택한 다음 목록에서 <b>FTL</b> 충전 장치를 선택합니다.
-OBSOLETE,tutorial_ftlstoragetoolbar,2448,"We can make things more efficient for our crew by telling them to store FTL Charges near the FTL drive.\n\nSelect STORAGE from the CONSTRUCTION toolbar, then select FTL Charges from the list.","FTL 충전을 FTL 드라이브 근처에 보관하라고 지시하면, 승무원의 작업 효율을 높일 수 있습니다.\n\n건설 툴바에서 저장소(STORAGE)를 선택한 다음, 목록에서 FTL 충전을 선택하세요."
-OBSOLETE,tutorial_ftlstorageworld,2886,Now drag out a storage zone near to the <b>FTL</b> drive.,이제 <b>FTL</b> 드라이브 근처로 스토리지 영역을 끌어다 놓습니다.
-OBSOLETE,tutorial_ftlstorageworld,2448,Now drag out a storage zone near to the FTL drive.,이제 FTL 드라이브 근처에 저장 구역을 설정하세요.
-OBSOLETE,tutorial_ftlstoragedone,2886,The crew will move all the <b>FTL</b> Charges into this zone.,승무원은 모든 <b>FTL</b> 충전을 이 구역으로 이동합니다.
-OBSOLETE,tutorial_ftlstoragedone,2448,The crew will move all the FTL Charges into this zone.,승무원들이 모든 FTL 충전을 해당 구역으로 옮길 것입니다.
-OBSOLETE,tutorial_financesectormap,2886,"All passengers have been delivered to the <b>PROCYON</b>, and our <b>FTL</b> drive is operational. We must now plot an <b>FTL</b> jump to their destination.\n\nOpen the <b>SECTOR MAP</b>.","모든 승객이 <b>프로시온</b>에 도착했고, <b>FTL</b> 드라이브가 작동합니다. 이제 목적지까지 <b>FTL</b> 점프를 계획해야 합니다.\n\n<b>섹터 맵</b>을 엽니다."
-OBSOLETE,tutorial_financesectormap,2448,"All passengers have been delivered to the PROCYON, and our FTL drive is operational. We must now plot an FTL jump to their destination.\n\nOpen the SECTOR MAP.","모든 승객이 PROCYON에 탑승했고, FTL 드라이브도 작동 중입니다. 이제 목적지로 FTL 점프 경로를 설정해야 합니다.\n\n성계 지도를 여세요."
-OBSOLETE,tutorial_financeftlwindow,2886,Open the <b>FTL</b> screen to order the <b>FTL</b> jump.,<b>FTL</b> 화면을 열어 <b>FTL</b> 점프를 주문합니다.
-OBSOLETE,tutorial_financeftlwindow,2448,Open the FTL screen to order the FTL jump.,FTL 화면을 열어 점프 명령을 내리세요.
-OBSOLETE,tutorial_financepreparingjump,2886,"The <b>PROCYON</b> will align for hyperspace, and prepare the <b>FTL</b> drive to make the jump.",<b>프로사이언</b>은 하이퍼스페이스에 맞춰 정렬하고 <b>FTL</b> 드라이브가 점프할 수 있도록 준비합니다.
-OBSOLETE,tutorial_financepreparingjump,2448,"The PROCYON will align for hyperspace, and prepare the FTL drive to make the jump.","PROCYON은 초광속 정렬을 진행하며, 점프를 위해 FTL 드라이브를 준비할 것입니다."
-OBSOLETE,tutorial_logisticscrewselectship,2886,Select the <b>UMC</b> Astral Temptress. \n\n As you can see it has no crew.,<b>UMC</b> 아스트랄 템프트리스를 선택합니다. \n\n 보시다시피 승무원이 없습니다.
-OBSOLETE,tutorial_logisticscrewselectship,2448,Select the UMC Astral Temptress. \n\n As you can see it has no crew.,"UMC Astral Temptress를 선택하세요.\n\n보시다시피, 이 함선에는 승무원이 없습니다."
-OBSOLETE,dsi_x_canceldeal2,2448,You will regret this.,후회하게 될 겁니다.  
-OBSOLETE,tutorial_stargatewindowhighlightcomponent,2448,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,필요한 각 부품은 왼쪽에 있습니다.\n부품 아이콘 위에 마우스를 올리면 생산 방법이 표시됩니다.  
 OBSOLETE,thefinalstand_harken2,3239,"My scientists and officers have analysed the blueprints of the Stargate project, provided to us by the late Alexander James Elistar.",제 과학자들과 장교들이 고 알렉산더 제임스 엘리스타가 제공한 스타게이트 프로젝트의 청사진을 분석했습니다.
 OBSOLETE,thefinalstand_harken3,3239,"The Andromeda Project has moved their HQ and all key personell into an unknown location in the new sector, where we believe they are controlling the Stargate.","안드로메다 프로젝트는 본부와 모든 핵심 인력을 새로운 섹터의 알려지지 않은 장소로 이동시켰으며, 그곳에서 스타게이트를 통제하고 있는 것으로 추정됩니다."
 OBSOLETE,thefinalstand_harken4,3239,"Elistar has left you with a backdoor into the Stargate's security systems, compromising all devices controlling it and providing us with direct access to the Andromeda Project's systems.",엘리스타는 스타게이트의 보안 시스템에 백도어를 남겨 스타게이트를 제어하는 모든 장치를 손상시키고 안드로메다 프로젝트의 시스템에 직접 액세스할 수 있는 권한을 부여했습니다.
+OBSOLETE,thefinalstand_harken5,3239,"Any and all damage to the HQ should be avoided. Many innocent lives are on-board that HQ, the loss of life from destroying it would be far too great. You will upload a virus to their command centre and disable the station's offensive capabilities.","본부에 대한 모든 피해는 피해야 합니다. 본부에는 많은 무고한 생명들이 탑승하고 있으며, 본부를 파괴할 경우 인명 손실이 너무 클 것입니다. 지휘 센터에 바이러스를 업로드하여 정거장의 공격 능력을 무력화시켜야 합니다."
 OBSOLETE,thefinalstand_harken6,3239,"While you are doing this, my fleet will fight off the Andromeda Project navy. Once the battle is over, I will take control of the HQ and arrest everyone involved. Their conglomerate will be dismantled.",당신이 이 일을 하는 동안 내 함대는 안드로메다 프로젝트 해군과 싸울 것입니다. 전투가 끝나면 내가 본부를 장악하고 관련자들을 모두 체포할 것이다. 그들의 대기업은 해체될 것이다.
 OBSOLETE,thefinalstand_boss_harken2,3239,"The previous ships were private security, this one is the Andromeda Navy's flagship! You should have access to its command centre from the HQ.","이전 함선은 개인 경비함이었다면, 이 함선은 안드로메다 해군의 기함입니다! 본부에서 지휘 센터에 접속할 수 있습니다."
+OBSOLETE,industryend_message,3239,"After capturing the Andromeda HQ, Harken and the Intergalactic Security Council dismantled the Andromeda Project conglomerate.  The control of the Stargate was left in the hands of the Captain that built it.  Humanity's journey across the universe has only just begun...","안드로메다 본부를 점령한 후, 하켄과 은하계 안전 보장 이사회는 안드로메다 프로젝트 대기업을 해체했습니다.  스타게이트의 통제권은 스타게이트를 건설한 캡틴의 손에 남겨졌습니다.  우주를 가로지르는 인류의 여정은 이제 막 시작되었습니다..."
 OBSOLETE,bravenewsector_part4_rep9,3239,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy the Andromeda.,"안녕하세요, 함장님. 새로 완공된 스타게이트로 인해 안드로메다 프로젝트는 이 은하계 안드로메다 사이의 자원과 사람의 흐름을 통제할 수 있는 강력한 위치에 서게 되었습니다."
 OBSOLETE,thefinalstand_battleprep_1,3239,"Hello Captain, it's good to see you. This is all of the ships I control in this sector, the rest are on the other side of the Stargate, unable to reach us.","안녕하세요, 함장님, 반갑습니다. 이 구역의 모든 함선은 제가 통제하고 있으며, 나머지는 스타게이트 반대편에 있어 연락이 안 됩니다."
 OBSOLETE,thefinalstand_battle_rep1,3239,Commander Harken! I see that my first fleet failed to deal you. I suppose if I want something done properly I should do it myself.,하켄 사령관! 내 첫 번째 함대가 당신을 처리하지 못한 것 같군. 제대로 된 일을 하려면 내가 직접 해야겠군.
@@ -3144,6 +3082,13 @@ OBSOLETE,tutorial_airdone,2448,The AIRDUCT is activated and is pressurising the 
 OBSOLETE,tutorial_enginesinformation,2448,Engines require both POWER and FUEL to operate. We must connect both engines to fuel and power.,엔진은 작동을 위해 전력과 연료가 모두 필요합니다. 두 엔진 모두에 연료와 전력을 연결해야 합니다.
 OBSOLETE,tutorial_enginesconnectpower,2448,"Now use the CABLES menu to power up the engine, by connecting it to your existing red power lines.",이제 전선 메뉴를 사용하여 엔진에 전력을 공급하세요. 기존의 빨간 전력 라인에 연결하면 됩니다.
 OBSOLETE,tutorial_ftlselectpropulsion,2448,The items we need are listed under PROPULSION. Select that category.,우리가 필요한 항목은 추진(PROPULSION) 카테고리에 있습니다. 해당 항목을 선택하세요.
+OBSOLETE,tutorial_ftladdftldrive,2448,Add one FTL drive to our order by clicking on the entry in the list.,목록에서 클릭하여 FTL 드라이브 하나를 주문에 추가하세요.
+OBSOLETE,tutorial_ftladdftlfuel,2448,FTL drives consume one fuel charge per jump. Add 5 FTL Charges to the order as well.,FTL 드라이브는 점프당 연료 충전 1개를 소모합니다. FTL 충전 5개도 함께 주문에 추가하세요.
+OBSOLETE,tutorial_ftlinstallftl,2448,Install the FTL drive anywhere in your ship.,FTL 드라이브를 함선 내 원하는 위치에 설치하세요.
+OBSOLETE,tutorial_ftlpowerftl,2448,Connect the FTL drive to your power network.,FTL 드라이브를 전력망에 연결하세요.
+OBSOLETE,tutorial_ftlstoragetoolbar,2448,"We can make things more efficient for our crew by telling them to store FTL Charges near the FTL drive.\n\nSelect STORAGE from the CONSTRUCTION toolbar, then select FTL Charges from the list.","FTL 충전을 FTL 드라이브 근처에 보관하라고 지시하면, 승무원의 작업 효율을 높일 수 있습니다.\n\n건설 툴바에서 저장소(STORAGE)를 선택한 다음, 목록에서 FTL 충전을 선택하세요."
+OBSOLETE,tutorial_ftlstorageworld,2448,Now drag out a storage zone near to the FTL drive.,이제 FTL 드라이브 근처에 저장 구역을 설정하세요.
+OBSOLETE,tutorial_ftlstoragedone,2448,The crew will move all the FTL Charges into this zone.,승무원들이 모든 FTL 충전을 해당 구역으로 옮길 것입니다.
 OBSOLETE,tutorial_stargatescreen2,2448,This screen shows the phases that require construction in order to complete the STARGATE.\n\nWe are in PHASE 1. Work has only just begun.,"이 화면은 스타게이트 완공을 위해 건설이 필요한 각 단계를 보여줍니다.\n\n우리는 현재 1단계(PHASE 1)에 있으며, 작업은 이제 막 시작되었습니다."
 OBSOLETE,tutorial_stargatescreen3,2448,On the left of the screen you can see the requirements to complete PHASE 1.\n\nWe need to manufacture:\n- 100 STARGATE FRAMES\n- 10 STARGATE RESIN,화면 왼쪽에는 1단계를 완료하기 위한 요구 사항이 표시됩니다.\n\n제작해야 할 항목은 다음과 같습니다:\n- 스타게이트 프레임 100개\n- 스타게이트 수지 10개
 OBSOLETE,tutorial_stargatescreen4,2448,"These PHASE 1 components are easy to manufacture, and we already have what we need onboard.\n\nBut we can sell them to the STARGATE PROJECT for a small fortune.","이 1단계 구성품은 제작이 매우 쉬우며, 우리는 이미 필요한 자재를 함선에 보유하고 있습니다.\n\n하지만 이것들을 스타게이트 프로젝트에 판매하면 적지 않은 수익을 올릴 수 있습니다."
@@ -3190,9 +3135,12 @@ OBSOLETE,tutorial_financeselectship,2448,"Contracts are assigned to the ship you
 OBSOLETE,tutorial_financeselecttransport,2448,"Here we have a TRANSPORT PASSENGER contract, click it to see more details.",여기 TRANSPORT PASSENGER 계약이 있습니다. 클릭하면 자세한 내용을 볼 수 있습니다.
 OBSOLETE,tutorial_financeassigntransport,2448,This mission requires us to transport a group of people from here to another location in the sector.\n\nClick the accept button to assign this contract to the PROCYON.,이번 임무는 사람들을 이곳에서 성계 내 다른 장소로 수송하는 것입니다.\n\n수락 버튼을 눌러 이 계약을 PROCYON에 할당하세요.
 OBSOLETE,tutorial_financepassengersinbound,2448,The passengers will be delivered to the PROCYON by shuttle.,승객들은 셔틀을 통해 PROCYON에 탑승할 것입니다.
+OBSOLETE,tutorial_financesectormap,2448,"All passengers have been delivered to the PROCYON, and our FTL drive is operational. We must now plot an FTL jump to their destination.\n\nOpen the SECTOR MAP.","모든 승객이 PROCYON에 탑승했고, FTL 드라이브도 작동 중입니다. 이제 목적지로 FTL 점프 경로를 설정해야 합니다.\n\n성계 지도를 여세요."
 OBSOLETE,tutorial_financesetdestination,2448,"This is a map of all the systems in this sector.\n\nOur ship and our space station are located in the middle, where the map is marked YOU-ARE-HERE.\n\nSet a course to the destination (labelled TRANSPORT PASSENGERS) by clicking on it.","이것은 현재 성계 내 모든 성계를 보여주는 지도입니다.\n\n함선과 우주 정거장은 중앙에 위치해 있으며, YOU-ARE-HERE로 표시되어 있습니다.\n\n[승객 수송] 으로 라벨된 목적지를 클릭해 경로를 설정하세요."
 OBSOLETE,tutorial_financeclosesectormap,2448,"Close the SECTOR MAP by clicking the X in the top right corner, or by pressing ESC.",지도 오른쪽 상단의 X를 누르거나 ESC를 눌러 성계 지도를 닫으세요.
+OBSOLETE,tutorial_financeftlwindow,2448,Open the FTL screen to order the FTL jump.,FTL 화면을 열어 점프 명령을 내리세요.
 OBSOLETE,tutorial_financepreparejump,2448,Click on PREPARE JUMP to align the ship and prepare for hyperspace.,PREPARE JUMP를 클릭하면 함선이 정렬되고 FTL 드라이브가 점프를 준비합니다.
+OBSOLETE,tutorial_financepreparingjump,2448,"The PROCYON will align for hyperspace, and prepare the FTL drive to make the jump.","PROCYON은 초광속 정렬을 진행하며, 점프를 위해 FTL 드라이브를 준비할 것입니다."
 OBSOLETE,tutorial_financejump,2448,Click the JUMP button to jump to hyperspace.,JUMP 버튼을 클릭해 초광속 점프를 수행하세요.
 OBSOLETE,tutorial_financeselectmission,2448,We now need to turn in our completed passenger contract.\n\nOpen the CONTRACTS screen and select the passenger mission.,이제 완료된 승객 수송 계약을 제출해야 합니다.\n\n계약 화면을 열고 승객 임무를 선택하세요.
 OBSOLETE,tutorial_financeturnin,2448,Click the DELIVER button to drop off the passengers and receive payment,DELIVER 버튼을 클릭해 승객을 하선시키고 보수를 받으세요.
@@ -3213,6 +3161,7 @@ OBSOLETE,tutorial_dockingcheckthrusters,2448,"In order to be able to dock succes
 OBSOLETE,tutorial_dockingzoomin,2448,Zoom in so that you can see the docking guides more clearly. They are RED diamonds extending from the docking ports.,확대해서 도킹 가이드를 더 잘 보이게 하세요. 도킹 포트에서 뻗어나오는 빨간색 다이아몬드가 가이드입니다.
 OBSOLETE,tutorial_dockingopenmaneuver,2448,Open the MANEUVERING THRUSTER controls.,기동 추진기 조작창을 여세요.
 OBSOLETE,tutorial_dockingmaneuver,2448,"Use your THRUSTERS to maneuver your ship so that RED diamonds of your docking ports align with the docking port of the *X.\n\nWhen aligned correctly, they will both turn YELLOW.\n\nKeep the ships aligned until the docking bridge is fully extended.",추진기를 사용해 도킹 포트의 빨간 다이아몬드가 *X의 도킹 포트와 정렬되도록 조종하세요.\n\n정확히 정렬되면 두 포트 모두 노란색으로 변합니다.\n\n도킹 브리지가 완전히 연결될 때까지 함선을 정렬 상태로 유지하세요.
+OBSOLETE,tutorial_logisticscrewselectship,2448,Select the UMC Astral Temptress. \n\n As you can see it has no crew.,"UMC Astral Temptress를 선택하세요.\n\n보시다시피, 이 함선에는 승무원이 없습니다."
 OBSOLETE,tutorial_logisticscrewselectfrom,2448,Select the SOURCE ship that the crew will come FROM.,승무원을 보낼 출발 함선을 선택하세요.
 OBSOLETE,tutorial_logisticscrewclicktarget,2448,Click in the CREW cell of the DESTINATION ship to request 5 crew to transfer.,도착지 함선의 승무원 칸을 클릭해 5명의 승무원 전송을 요청하세요.
 OBSOLETE,tutorial_logisticscrewclicktarget_shiftclick,2448,NOTE: You can SHIFT CLICK to request transfer in multiples of 5.,참고: Shift 클릭으로 5명 단위로 요청할 수 있습니다.

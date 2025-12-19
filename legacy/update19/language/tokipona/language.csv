@@ -329,6 +329,7 @@ NEW,andromeda_travel,3239,ANDROMEDA JOURNEY,
 NEW,trade_autohireat,3239,HIRE BELOW,
 NEW,trade_autosackat,3239,SACK ABOVE,
 NEW,trade_autoembarkat,3239,EMBARK BELOW,
+NEW,trade_autodisembarkat,3239,DISEMBARK BELOW,
 NEW,trade_tooltip_hire,3239,[LMB] Hire,
 NEW,trade_tooltip_embark,3239,[LMB] Embark,
 NEW,trade_tooltip_disembark,3239,[LMB] Disembark,
@@ -403,9 +404,15 @@ NEW,logistics_status_miningstacks1,3239,(*X stacks),
 NEW,logistics_status_collect,3239,Collected *X R*Y,
 NEW,logistics_status_collectcontainers,3239,(*X/*Y containers),
 NEW,logistics_status_collectcontainers1,3239,(*X containers),
+NEW,logistics_status_transferto,3239,Transfering *X R*Y to L*Z,
+NEW,logistics_status_transferfrom,3239,Transfering *X R*Y from L*Z,
 NEW,logistics_status_buy,3239,Bought *X R*Y for $*Z,
 NEW,logistics_status_sell,3239,Sold *X R*Y for $*Z,
 NEW,logistics_status_notlooping,3239,Finished execution (not looping),
+NEW,logistics_status_time1,3239,in *X:*Y,
+NEW,logistics_status_time2,3239,in *X:0*Y,
+NEW,logistics_status_time3,3239,in 0*X:*Y,
+NEW,logistics_status_time4,3239,in 0*X:0*Y,
 NEW,order_advancedlogistics,3239,Interstellar Logistics,
 NEW,mission_objective_done,3239,DONE,
 NEW,alert_type_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,
@@ -454,6 +461,7 @@ NEW,bravenewsector_part4_rep11,3239,"We will bring prosperity to all those who w
 NEW,bravenewsector_part4_testshipname,3239,Andromeda Test Ship MK.1,
 NEW,thefinalstand_title,3239,The Final Stand,
 NEW,thefinalstand_summary,3239,Stop the Andromeda Project.,
+NEW,thefinalstand_harken1_intro,3239,"Captain! In direct violation of intergalactic law, the Andromeda Project has permanently closed access to the Stargate outside of their own ships. Billions of colonists have been stranded in the new sector, unable to return home.",
 NEW,thefinalstand_harken2_intro,3239,"You are the only one outside of the Andromeda Project with access codes, please call back as soon as you can. They must be stopped.",
 NEW,thefinalstand_call_action,3239,Call Harken,
 NEW,thefinalstand_andromedahq_name,3239,ANDROMEDA HQ,
@@ -478,11 +486,13 @@ NEW,thefinalstand_battle_harken1,3239,Great work Captain! But my sensors are det
 NEW,thefinalstand_boss_harken1,3239,I've lost both of my frigates Captain! I don't have enough firepower to win this!,
 NEW,thefinalstand_objective_destroyboss,3239,Destroy the Andromeda Flagship,
 NEW,thefinalstand_boss_overloadcaption,3239,OVERLOAD GENERATOR,
+NEW,thefinalstand_battleoutro_ship1,3239,DANGER: POWER SYSTEMS DETERIORATING. POWER GRID OVERLOADED.,
 NEW,thefinalstand_battleoutro_rep1,3239,"I don't understand, how is that possible!?",
 NEW,thefinalstand_battleoutro_ship2,3239,DANGER: GENERATOR STATUS CRITICAL.,
 NEW,thefinalstand_battleoutro_rep2,3239,"Send all available power to railguns, set target to-",
 NEW,thefinalstand_battleoutro_harken1,3239,"This is a message for Andromeda HQ. I am Commander Harken, Chief of Private Security for this sector, and I command you to stand down.",
 NEW,thefinalstand_battleoutro_harken2,3239,"The Andromeda Navy in this sector has been destroyed, you are now blockaded, there is nothing left to fight for.",
+NEW,thefinalstand_battleoutro_harken3,3239,"It's over, Captain. The Andromeda HQ will be placed under the jurisdiction of the Intergalactic Security Council while I make the necessary arrests. The access codes for the Stargate are back under your control.",
 NEW,thefinalstand_battleoutro_harken4,3239,The current leadership of the Andromeda Project will be dismantled and the new galaxy will be freed from their control.,
 NEW,thefinalstand_battleoutro_harken5,3239,"You've proven that you can be trusted with control of the Stargate, so I'll leave it in your hands.",
 NEW,thefinalstand_battleoutro_harken6,3239,"Goodbye Captain, and good luck with your new place in the galaxy.",
@@ -493,69 +503,19 @@ NEW,thefinalstand_artemis2,3248,"After some careful analysis of the Stargate's b
 NEW,thefinalstand_artemis3,3248,You will use this backdoor to upload a small virus that I have written to their command centre within the HQ. It will disable the station's offensive capabilities and place itself under your command.,
 NEW,thefinalstand_boss_artemis1,3248,"Captain, I can route a signal to their powergrid and overload their generators, tell me when to trigger it!",
 NEW,thefinalstand_end_objective_leave,3248,Leave the HQ,
-NEW,newmainmenu_invalidsavename,3329,Invalid Save Name,
-NEW,newmainmenu_invalidcharacters_caption,3329,Save name contains invalid characters.,
-NEW,newmainmenu_autosavenameinvalid_caption,3329,Save name reserved for autosaves.,
-NEW,galaxymap_darkmode,3329,Dark Mode,
-NEW,galaxymap_lightmode,3329,Light Mode,
-NEW,techtree_queue,3329,Queue Research,
-NEW,logistics_showlog,3329,SHOW LOG,
-NEW,logistics_hidelog,3329,HIDE LOG,
-NEW,logistics_order_goandwait,3329,Go and Wait,
-NEW,logistics_status_miningstacksnostorage,3329,"(*X/*Y stacks, storage full)",
-NEW,logistics_status_miningstacksnostorage1,3329,"(*X stacks, storage full)",
-NEW,logistics_status_collectcontainersnostorage,3329,"(*X/*Y containers, storage full)",
-NEW,logistics_status_collectcontainersnostorage1,3329,"(*X containers, storage full)",
-NEW,logistics_status_transfernosupply,3329,out of the *X ordered (not enough available),
-NEW,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),
-NEW,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),
-NEW,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),
-NEW,logistics_status_waiting,3329,Waiting T*X,
-NEW,logistics_status_time,3329,in T*X,
-NEW,logistics_status_warning,3329,Warning,
-NEW,logistics_status_alert,3329,Alert,
-NEW,logistics_log_jumped,3329,Travelled to system S*X,
-NEW,logistics_log_jumpedstargate,3329,Travelled to system S*X through Stargate,
-NEW,logistics_log_transferto,3329,Transferred *X R*Y to L*Z,
-NEW,logistics_log_transferfrom,3329,Transferred *X R*Y from L*Z,
-NEW,logistics_log_transferstoragefull,3329,(destination storage full),
-NEW,logistics_log_transferstoragefull1,3329,out of the *X ordered (destination storage full),
-NEW,logistics_log_waited,3329,Waited for T*X,
-NEW,rating_trade,3329,Trade,
-NEW,dsi_action_confirmcancel,3329,Confirm cancellation,
-NEW,dsi_x_confirmcancel1,3329,How dare you! I still have the access keys. You will no longer be a part of this enterprise.,
-NEW,dsi_x_confirmcancel2,3329,You will regret this.,
-NEW,dsi_x_confirmcancel3,3329,"Goodbye, Captain.",
-NEW,thefinalstand_boss_hint,3329,"Captain! The ship's weapons and engines are disabled, hit it with everything you've got!",
-NEW,hud_ftlshipcontrolledbylogistics,3331,Ship is controlled by interstellar logistics,
-NEW,logistics_log_skipped,3339,Skipped order,
-UPDATED,trade_autodisembarkat,3329,DISEMBARK ABOVE,
-PREVIOUS,trade_autodisembarkat,3239,DISEMBARK BELOW,
-UPDATED,logistics_status_transferto,3329,Transferring *X R*Y to L*Z,
-PREVIOUS,logistics_status_transferto,3239,Transfering *X R*Y to L*Z,
-UPDATED,logistics_status_transferfrom,3329,Transferring *X R*Y from L*Z,
-PREVIOUS,logistics_status_transferfrom,3239,Transfering *X R*Y from L*Z,
-UPDATED,thefinalstand_harken1_intro,3329,"Captain! In direct violation of intergalactic law, the Andromeda Project has permanently closed access to the Stargate outside of their own ships. Colonists are stranded in the new sector, unable to return home.",
-PREVIOUS,thefinalstand_harken1_intro,3239,"Captain! In direct violation of intergalactic law, the Andromeda Project has permanently closed access to the Stargate outside of their own ships. Billions of colonists have been stranded in the new sector, unable to return home.",
-UPDATED,thefinalstand_battleoutro_ship1,3329,DANGER: POWER SYSTEMS DETERIORATING. POWER GRID OVERLOADED.\nNO POWER TO WEAPONS AND ENGINES.,
-PREVIOUS,thefinalstand_battleoutro_ship1,3239,DANGER: POWER SYSTEMS DETERIORATING. POWER GRID OVERLOADED.,
-UPDATED,thefinalstand_battleoutro_harken3,3329,"It's over, Captain. The Andromeda HQ will be placed under the jurisdiction of the Intergalactic Security Council while I make the necessary arrests. The access codes for the Stargate are back under our control.",
-PREVIOUS,thefinalstand_battleoutro_harken3,3239,"It's over, Captain. The Andromeda HQ will be placed under the jurisdiction of the Intergalactic Security Council while I make the necessary arrests. The access codes for the Stargate are back under your control.",
 UPDATED,thefinalstand_harken2,3248,"The Andromeda Project has moved their HQ and all key personell into an unknown location in the new sector, where we believe they are controlling the Stargate.",
 PREVIOUS,thefinalstand_harken2,3239,"My scientists and officers have analysed the blueprints of the Stargate project, provided to us by the late Alexander James Elistar.",
 UPDATED,thefinalstand_harken3,3248,"My plan is to use our fleets to take control of the HQ by force. Any and all damage to the HQ should be avoided, many innocent lives are on-board and the loss of life from destroying it would be far too great.\nI have devised a plan with an old friend of yours that should minimise casualties...",
 PREVIOUS,thefinalstand_harken3,3239,"The Andromeda Project has moved their HQ and all key personell into an unknown location in the new sector, where we believe they are controlling the Stargate.",
 UPDATED,thefinalstand_harken4,3248,"While you neutralise the HQ, my fleet will fight off the Andromeda Project navy. Once the battle is over, I will take control of the HQ and arrest everyone involved. Their conglomerate will be dismantled.",
 PREVIOUS,thefinalstand_harken4,3239,"Elistar has left you with a backdoor into the Stargate's security systems, compromising all devices controlling it and providing us with direct access to the Andromeda Project's systems.",
-UPDATED,thefinalstand_harken5,3329,The Stargate will fall back into our control. I've marked an allied shipyard on your map. I'll hide out there in the mean-time.,
-PREVIOUS,thefinalstand_harken5,3248,The Stargate will fall back into your sole control. I've marked an allied shipyard on your map. I'll hide out there in the mean-time.,
+UPDATED,thefinalstand_harken5,3248,The Stargate will fall back into your sole control. I've marked an allied shipyard on your map. I'll hide out there in the mean-time.,
 PREVIOUS,thefinalstand_harken5,3239,"Any and all damage to the HQ should be avoided. Many innocent lives are on-board that HQ, the loss of life from destroying it would be far too great. You will upload a virus to their command centre and disable the station's offensive capabilities.",
 UPDATED,thefinalstand_harken6,3248,Meet me to discuss the plan further. Goodbye for now.,
 PREVIOUS,thefinalstand_harken6,3239,"While you are doing this, my fleet will fight off the Andromeda Project navy. Once the battle is over, I will take control of the HQ and arrest everyone involved. Their conglomerate will be dismantled.",
 UPDATED,thefinalstand_boss_harken2,3248,This is the Andromeda Navy's flagship! You should have access to its command centre from the HQ!,
 PREVIOUS,thefinalstand_boss_harken2,3239,"The previous ships were private security, this one is the Andromeda Navy's flagship! You should have access to its command centre from the HQ.",
-UPDATED,industryend_message,3329,"With Andromeda HQ captured, Cmdr Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind expands beyond our home galaxy and into the future.",
-PREVIOUS,industryend_message,3248,"Now the Andromeda HQ has been captured, Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind spreads beyond our home galaxy and into the future.",
+UPDATED,industryend_message,3248,"Now the Andromeda HQ has been captured, Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind spreads beyond our home galaxy and into the future.",
 PREVIOUS,industryend_message,3239,"After capturing the Andromeda HQ, Harken and the Intergalactic Security Council dismantled the Andromeda Project conglomerate.  The control of the Stargate was left in the hands of the Captain that built it.  Humanity's journey across the universe has only just begun...",
 UPDATED,bravenewsector_part4_rep9,3244,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy and the Andromeda galaxy.,
 PREVIOUS,bravenewsector_part4_rep9,3239,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy the Andromeda.,
@@ -625,41 +585,6 @@ UPDATED,blackhole_part1_setup7,3239,"I need materials to synthesise the resource
 PREVIOUS,blackhole_part1_setup7,2448,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop first.",mi wile pali e ijo wile pi pali ni.  ni la mi wile e ijo.  sina ken pona e ni lon tenpo mi pi pali sona nanpa.  mi wile e lili pi tawa suli.  alasa ona li pona la sina wile e ilo alasa kiwen uta.
 UPDATED,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,
 PREVIOUS,tutorial_stargatewindowhighlightcomponent,2448,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,ijo pali wile li lon poka.\nsina tawa e luka sina lon poka ijo la ona li pana lukin e nasin pali.
-UPDATED,tutorial_ftladdftldrive,3329,Add one <b>FTL drive</b> to our order by clicking on the entry in the list.,
-PREVIOUS,tutorial_ftladdftldrive,2886,Add one <b>FTL</b> drive to our order by clicking on the entry in the list.,o open esun e ilo wan pi <b>tawa suli</b>: o luka e ona lon kulupu nimi.
-PREVIOUS,tutorial_ftladdftldrive,2448,Add one FTL drive to our order by clicking on the entry in the list.,o open esun e ilo wan pi tawa suli: o luka e ona lon kulupu nimi.
-UPDATED,tutorial_ftladdftlfuel,3329,<b>FTL drives</b> consume one fuel charge per jump.\n\nAdd 5 <b>FTL charges</b> to the order as well.,
-PREVIOUS,tutorial_ftladdftlfuel,2886,<b>FTL</b> drives consume one fuel charge per jump. Add 5 <b>FTL</b> Charges to the order as well.,<b>tawa suli</b> wan li kepeken poki wawa wan pi tawa suli. o esun kin e poki 5 <b>pi tawa suli</b>.
-PREVIOUS,tutorial_ftladdftlfuel,2448,FTL drives consume one fuel charge per jump. Add 5 FTL Charges to the order as well.,tawa suli wan li kepeken poki wawa wan pi tawa suli. o esun kin e poki 5.
-UPDATED,tutorial_ftlinstallftl,3329,Install the <b>FTL drive</b> anywhere in your ship.,
-PREVIOUS,tutorial_ftlinstallftl,2886,Install the <b>FTL</b> drive anywhere in your ship.,o pana e ilo pi tawa <b>suli</b> lon tomo tawa sina lon ma pi pilin sina.
-PREVIOUS,tutorial_ftlinstallftl,2448,Install the FTL drive anywhere in your ship.,o pana e ilo pi tawa suli lon tomo tawa sina lon ma pi pilin sina.
-UPDATED,tutorial_ftlpowerftl,3329,Connect the <b>FTL drive</b> to your power network.,
-PREVIOUS,tutorial_ftlpowerftl,2886,Connect the <b>FTL</b> drive to your power network.,o wan e <b>ilo pi tawa suli</b> e wawa pi ilo tawa sina.
-PREVIOUS,tutorial_ftlpowerftl,2448,Connect the FTL drive to your power network.,o wan e ilo pi tawa suli e wawa pi ilo tawa sina.
-UPDATED,tutorial_ftlstoragetoolbar,3329,"We can make things more efficient for our crew by telling them to store <b>FTL charges</b> near the <b>FTL drive</b>.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>FTL charges</b> from the list.",
-PREVIOUS,tutorial_ftlstoragetoolbar,2886,"We can make things more efficient for our crew by telling them to store <b>FTL</b> Charges near the <b>FTL</b> drive.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>FTL</b> Charges from the list.",poki wawa li awen lon poka ilo pi tawa suli la ni li pona e pali jan. \n\no wile e <b>MA AWEN</b> tan sitelen ilo <b>PALI</b>. o wile e <b>poki wawa pi tawa suli</b> tan kulupu nimi.
-PREVIOUS,tutorial_ftlstoragetoolbar,2448,"We can make things more efficient for our crew by telling them to store FTL Charges near the FTL drive.\n\nSelect STORAGE from the CONSTRUCTION toolbar, then select FTL Charges from the list.",poki wawa li awen lon poka ilo pi tawa suli la ni li pona e pali jan.\n\no wile e MA AWEN tan sitelen ilo PALI. o wile e poki wawa pi tawa suli tan kulupu nimi.
-UPDATED,tutorial_ftlstorageworld,3329,Now drag out a storage zone near to the <b>FTL drive</b>.,
-PREVIOUS,tutorial_ftlstorageworld,2886,Now drag out a storage zone near to the <b>FTL</b> drive.,o sitelen e ma awen lon poka ilo pi tawa <b>suli</b>.
-PREVIOUS,tutorial_ftlstorageworld,2448,Now drag out a storage zone near to the FTL drive.,o sitelen e ma awen lon poka ilo pi tawa suli.
-UPDATED,tutorial_ftlstoragedone,3329,The crew will move all the <b>FTL charges</b> into this zone.,
-PREVIOUS,tutorial_ftlstoragedone,2886,The crew will move all the <b>FTL</b> Charges into this zone.,jan li kama tawa e poki wawa ale pi tawa <b>suli</b> tawa ma awen ni.
-PREVIOUS,tutorial_ftlstoragedone,2448,The crew will move all the FTL Charges into this zone.,jan li kama tawa e poki wawa ale pi tawa suli tawa ma awen ni.
-UPDATED,tutorial_financesectormap,3329,"All passengers have been delivered to the <b>PROCYON</b>, and our <b>FTL drive</b> is operational. We must now plot an <b>FTL jump</b> to their destination.\n\nOpen the <b>SECTOR MAP</b>.",
-PREVIOUS,tutorial_financesectormap,2886,"All passengers have been delivered to the <b>PROCYON</b>, and our <b>FTL</b> drive is operational. We must now plot an <b>FTL</b> jump to their destination.\n\nOpen the <b>SECTOR MAP</b>.",jan tawa ale li lon tomo <b>PROCYON</b>. ilo pi <b>tawa suli</b> li ken. tenpo ni la o wile e nasin pi <b>tawa suli</b>.\n\no open e <b>SITELEN MA</b>.
-PREVIOUS,tutorial_financesectormap,2448,"All passengers have been delivered to the PROCYON, and our FTL drive is operational. We must now plot an FTL jump to their destination.\n\nOpen the SECTOR MAP.",jan tawa ale li lon tomo PROCYON. ilo pi tawa suli li ken. tenpo ni la o wile e nasin pi tawa suli.\n\no open e SITELEN MA.
-UPDATED,tutorial_financeftlwindow,3329,Open the <b>FTL screen</b> to order the <b>FTL jump</b>.,
-PREVIOUS,tutorial_financeftlwindow,2886,Open the <b>FTL</b> screen to order the <b>FTL</b> jump.,wile tawa suli la o open e <b>lipu pi tawa suli</b> pi tawa suli.
-PREVIOUS,tutorial_financeftlwindow,2448,Open the FTL screen to order the FTL jump.,wile tawa suli la o open e lipu pi tawa suli.
-UPDATED,tutorial_financepreparingjump,3329,"The <b>PROCYON</b> will align for hyperspace, and prepare the <b>FTL drive</b> to make the jump.",
-PREVIOUS,tutorial_financepreparingjump,2886,"The <b>PROCYON</b> will align for hyperspace, and prepare the <b>FTL</b> drive to make the jump.",ilo <b>PROCYON</b> li tawa sike tawa nasin pona pi tawa suli. ona li ken e ilo pi <b>tawa suli</b>.
-PREVIOUS,tutorial_financepreparingjump,2448,"The PROCYON will align for hyperspace, and prepare the FTL drive to make the jump.",ilo PROCYON li tawa sike tawa nasin pona pi tawa suli. ona li ken e ilo pi tawa suli.
-UPDATED,tutorial_logisticscrewselectship,3329,Select the <b>UMC Astral Temptress</b>. \n\n As you can see it has no crew.,
-PREVIOUS,tutorial_logisticscrewselectship,2886,Select the <b>UMC</b> Astral Temptress. \n\n As you can see it has no crew.,o wile e ilo <b>UMC</b> Astral Temptress. \n\n sina ken lukin e ni: jan li weka.
-PREVIOUS,tutorial_logisticscrewselectship,2448,Select the UMC Astral Temptress. \n\n As you can see it has no crew.,o wile e ilo UMC Astral Temptress. \n\n sina ken lukin e ni: jan li weka.
-UPDATED,dsi_x_canceldeal2,3329,"You will lose access to all the ships I've provided, are you sure you want to do this?",
-PREVIOUS,dsi_x_canceldeal2,2448,You will regret this.,sina kama pilin ike tan ni.
 CURRENT,tutorial_battlestationsactivate,2886,<b>BATTLE STATIONS</b> must be activated before your weapons can be used.\n\nThis will tell your crew to prepare for battle!,sina wile kepeken ilo utala la jan li wile lon <b>POKI JAN UTALA</b>.\n\nni li toki e ni tawa jan: o ken utala!
 CURRENT,tutorial_stargatejumpintro,2886,The Stargate enables travel between different sectors.\n\nThe jump costs a single <b>FTL</b> charge and the Stargate will use more power while a jump is in progress.,"lupa mun la jan li ken tawa kipisi ante pi ma mun.\n\ntawa suli li wile e poki wawa pi <b>tawa suli</b>. tenpo pi tawa suli la, lupa mun li kepeken wawa mute."
 CURRENT,tutorial_stargatejumpopenftl,2886,"First, let's open the <b>FTL</b> window.","nanpa wan la, o open e <b>lipu pi tawa suli</b>."
@@ -695,6 +620,13 @@ CURRENT,tutorial_airdone,2886,The <b>AIRDUCT</b> is activated and is pressurisin
 CURRENT,tutorial_enginesinformation,2886,Engines require both <b>POWER</b> and <b>FUEL</b> to operate. We must connect both engines to fuel and power.,ilo pi wawa tawa la pali li wile e <b>WAWA</b> e <b>TELO WAWA</b>. o wan e ilo e telo wawa e wawa.
 CURRENT,tutorial_enginesconnectpower,2886,"Now use the <b>CABLES</b> menu to power up the engine, by connecting it to your existing red power lines.",tenpo ni la o kepeken lipu sitelen pi <b>LINJA WAWA</b>. o wawa e ilo pi wawa tawa: o wan e ona e linja wawa loje lon.
 CURRENT,tutorial_ftlselectpropulsion,2886,The items we need are listed under <b>PROPULSION</b>. Select that category.,kulupu nimi pi ilo wile li lon anpa pi nimi <b>WAWA TAWA</b>.
+CURRENT,tutorial_ftladdftldrive,2886,Add one <b>FTL</b> drive to our order by clicking on the entry in the list.,o open esun e ilo wan pi <b>tawa suli</b>: o luka e ona lon kulupu nimi.
+CURRENT,tutorial_ftladdftlfuel,2886,<b>FTL</b> drives consume one fuel charge per jump. Add 5 <b>FTL</b> Charges to the order as well.,<b>tawa suli</b> wan li kepeken poki wawa wan pi tawa suli. o esun kin e poki 5 <b>pi tawa suli</b>.
+CURRENT,tutorial_ftlinstallftl,2886,Install the <b>FTL</b> drive anywhere in your ship.,o pana e ilo pi tawa <b>suli</b> lon tomo tawa sina lon ma pi pilin sina.
+CURRENT,tutorial_ftlpowerftl,2886,Connect the <b>FTL</b> drive to your power network.,o wan e <b>ilo pi tawa suli</b> e wawa pi ilo tawa sina.
+CURRENT,tutorial_ftlstoragetoolbar,2886,"We can make things more efficient for our crew by telling them to store <b>FTL</b> Charges near the <b>FTL</b> drive.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>FTL</b> Charges from the list.",poki wawa li awen lon poka ilo pi tawa suli la ni li pona e pali jan. \n\no wile e <b>MA AWEN</b> tan sitelen ilo <b>PALI</b>. o wile e <b>poki wawa pi tawa suli</b> tan kulupu nimi.
+CURRENT,tutorial_ftlstorageworld,2886,Now drag out a storage zone near to the <b>FTL</b> drive.,o sitelen e ma awen lon poka ilo pi tawa <b>suli</b>.
+CURRENT,tutorial_ftlstoragedone,2886,The crew will move all the <b>FTL</b> Charges into this zone.,jan li kama tawa e poki wawa ale pi tawa <b>suli</b> tawa ma awen ni.
 CURRENT,tutorial_stargatescreen2,2886,This screen shows the phases that require construction in order to complete the <b>STARGATE</b>.\n\nWe are in <b>PHASE</b> 1. Work has only just begun.,lipu ni li pana lukin e tenpo pali pi LUPA MUN. pini ona li wile e ni ale.\n\nsina lon <b>TENPO</b> 1. pali li open taso lon tenpo pini poka.
 CURRENT,tutorial_stargatescreen3,2886,On the left of the screen you can see the requirements to complete <b>PHASE</b> 1.\n\nWe need to manufacture:\n- 100 <b>STARGATE FRAMES</b>\n- 10 <b>STARGATE RESIN</b>,poka wan pi lupu ni sina lukin e wile ale tawa pini pi <b>TENPO</b> 1.\n\nsina wile pali e:\n- SIJELO 100 PI <b>LUPA MUN</b>\n- KO 10 PI <b>LUPA MUN</b>
 CURRENT,tutorial_stargatescreen4,2886,"These <b>PHASE</b> 1 components are easy to manufacture, and we already have what we need onboard.\n\nBut we can sell them to the <b>STARGATE PROJECT</b> for a small fortune.",TENPO 1 la pali pi ijo wile li pona. ijo wile ale pi pali ni li lon tomo lon tenpo ni.\n\ntaso sina ken pana esun e ona tawa <b>PALI PI LUPA MUN</b>. mani mute li kama tawa sina tan ni.
@@ -741,9 +673,12 @@ CURRENT,tutorial_financeselectship,2886,"Contracts are assigned to the ship you 
 CURRENT,tutorial_financeselecttransport,2886,"Here we have a <b>TRANSPORT PASSENGER</b> contract, click it to see more details.",ni li pali esun pi <b>TAWA JAN</b>. wile lukin e toki ale ona la o luka e ona.
 CURRENT,tutorial_financeassigntransport,2886,This mission requires us to transport a group of people from here to another location in the sector.\n\nClick the accept button to assign this contract to the <b>PROCYON</b>.,pali esun ni li wile e ni: sina tawa e kulupu jan tawa ma ante lon kipisi ma mun ni. \n\no luka e nena pona. ni li pana e pali esun ni tawa ilo <b>PROCYON</b>.
 CURRENT,tutorial_financepassengersinbound,2886,The passengers will be delivered to the <b>PROCYON</b> by shuttle.,jan tawa li kama tawa tomo <b>PROCYON</b> kepeken tomo tawa lili.
+CURRENT,tutorial_financesectormap,2886,"All passengers have been delivered to the <b>PROCYON</b>, and our <b>FTL</b> drive is operational. We must now plot an <b>FTL</b> jump to their destination.\n\nOpen the <b>SECTOR MAP</b>.",jan tawa ale li lon tomo <b>PROCYON</b>. ilo pi <b>tawa suli</b> li ken. tenpo ni la o wile e nasin pi <b>tawa suli</b>.\n\no open e <b>SITELEN MA</b>.
 CURRENT,tutorial_financesetdestination,2886,"This is a map of all the systems in this sector.\n\nOur ship and our space station are located in the middle, where the map is marked <b>YOU-ARE-HERE</b>.\n\nSet a course to the destination (labelled <b>TRANSPORT</b> PASSENGERS) by clicking on it.","ni li sitelen ma pi kulupu sike ale lon kipisi ma mun ni.\n\nilo tawa en tomo mun sina li lon insa, lon sitelen pi toki <b>SINA LON</b>.\n\no pana e nasin tawa ma wile (li jo e nimi O <b>TAWA</b> E JAN) kepeken luka."
 CURRENT,tutorial_financeclosesectormap,2886,"Close the <b>SECTOR MAP</b> by clicking the X in the top right corner, or by pressing <b>ESC</b>.",o pini e <b>SITELEN MA</b> kepeken sitelen X lon sewi.
+CURRENT,tutorial_financeftlwindow,2886,Open the <b>FTL</b> screen to order the <b>FTL</b> jump.,wile tawa suli la o open e <b>lipu pi tawa suli</b> pi tawa suli.
 CURRENT,tutorial_financepreparejump,2886,Click on <b>PREPARE JUMP</b> to align the ship and prepare for hyperspace.,"o luka e nena pi <b>O OPEN E TAWA SULI</b> la, o pana e tomo tawa insa pi nasin tawa suli."
+CURRENT,tutorial_financepreparingjump,2886,"The <b>PROCYON</b> will align for hyperspace, and prepare the <b>FTL</b> drive to make the jump.",ilo <b>PROCYON</b> li tawa sike tawa nasin pona pi tawa suli. ona li ken e ilo pi <b>tawa suli</b>.
 CURRENT,tutorial_financejump,2886,Click the <b>JUMP</b> button to jump to hyperspace.,wile open pi tawa suli la o luka e nena pi <b>TAWA SULI</b>
 CURRENT,tutorial_financeselectmission,2886,We now need to turn in our completed passenger contract.\n\nOpen the <b>CONTRACTS</b> screen and select the passenger mission.,tenpo ni la sina wile pini e pali esun pi tawa jan.\n\no open e lipu pi <b>PALI ESUN</b>. o wile e pali esun pi tawa jan.
 CURRENT,tutorial_financeturnin,2886,Click the <b>DELIVER</b> button to drop off the passengers and receive payment,o luka e nena <b>PANA</b>. ni li pana e jan tawa li kama e mani.
@@ -764,6 +699,7 @@ CURRENT,tutorial_dockingcheckthrusters,2886,"In order to be able to dock success
 CURRENT,tutorial_dockingzoomin,2886,Zoom in so that you can see the docking guides more clearly. They are <b>RED</b> diamonds extending from the docking ports.,wile lukin pona pi nasin poka lupa la o suli e sitelen lukin sina. nasin li leko <b>LOJE</b> (pi tawa sike) lon poka lupa.
 CURRENT,tutorial_dockingopenmaneuver,2886,Open the <b>MANEUVERING THRUSTER</b> controls.,o open e ilo lawa ni: <b>ILO LILI PI WAWA TAWA</b>.
 CURRENT,tutorial_dockingmaneuver,2886,"Use your <b>THRUSTERS</b> to maneuver your ship so that <b>RED</b> diamonds of your docking ports align with the docking port of the *X.\n\nWhen aligned correctly, they will both turn <b>YELLOW</b>.\n\nKeep the ships aligned until the docking bridge is fully extended.",o kepeken <b>ILO LILI PI WAWA TAWA</b>. o tawa e ilo tawa sina kepeken nasin ni: leko <b>LOJE</b> pi lupa sina li lon sama lupa *X.\n\nlon pona la leko tu li kama <b>JELO</b>.\n\nlupa tu li poka pona la nasin lupa li wan e tu. pini ni ala la o awen pona e lon pi ilo tawa sina.
+CURRENT,tutorial_logisticscrewselectship,2886,Select the <b>UMC</b> Astral Temptress. \n\n As you can see it has no crew.,o wile e ilo <b>UMC</b> Astral Temptress. \n\n sina ken lukin e ni: jan li weka.
 CURRENT,tutorial_logisticscrewselectfrom,2886,Select the <b>SOURCE</b> ship that the crew will come <b>FROM</b>.,o wile e tomo <b>KAMA</b> pi jan tawa.
 CURRENT,tutorial_logisticscrewclicktarget,2886,Click in the <b>CREW</b> cell of the <b>DESTINATION</b> ship to request 5 crew to transfer.,o luka e POKI <b>JAN</b> lon tomo <b>TAWA</b>. ni li pana e lawa ni: o tawa e jan 5.
 CURRENT,tutorial_logisticscrewclicktarget_shiftclick,2886,<b>NOTE</b>: You can <b>SHIFT CLICK</b> to request transfer in multiples of 5.,<b>O SONA</b>: wile tawa pi jan 5 lon tenpo la o <b>LUKA SHIFT</b>.
@@ -3000,6 +2936,8 @@ CURRENT,dsi_xwarning2_part1,2448,"Captain, I was sure I'd made our agreement cle
 CURRENT,dsi_xwarning2_part2,2448,"I thought I could trust you.  Pay me the money you owe, immediately, or I will be forced to escalate.",tenpo pini la mi pilin e ni: sina toki pona.  o pana e mani wile tawa mi lon tenpo ni. ala la mi suli e ike utala.
 CURRENT,dsi_xwarning3,2448,"Captain, this is your final warning.  You are now willfully withholding sales revenue that is legally mine.  If you don't pay what you owe immediately I will have no choice but to terminate our agreement, seize control of my station, and recover any financial losses directly from you.","jan lawa o, ni li toki pini pi weka pakala.  tenpo ni la, sona sina la, sina jo e mani mi tan esun.  sina pana ala e mani mi tawa mi lon tenpo ni taso la, mi ken taso e ni: mi pini e nasin esun, li lanpan e lawa pi tomo mi, li lanpan e mani tan sina."
 CURRENT,dsi_x_canceldeal1,2448,"I'm disappointed, Captain. You're backing out after all the investment I've put into this project?","mi pilin ike, jan lawa o.  mi pana e mani mute tawa nasin esun pi mi tu la sina tawa weka?"
+CURRENT,dsi_x_canceldeal2,2448,You will regret this.,sina kama pilin ike tan ni.
+CURRENT,dsi_x_canceldeal3,2448,"Goodbye, Captain.","tawa pona, jan lawa o."
 CURRENT,dsi_part1_stationname,2448,A.J.E Foundry,tomo pali wawa A.J.E.
 CURRENT,dsi_part1_title,2448,Deep Space Industrialists,kulupu pali wawa mun
 CURRENT,dsi_part1_advert1,2448,"My name is Alexander James Elistar, and I'm the chairman and founder of A.J.E Industries.  I have a business proposition for you.  If you would be interested in setting up a production facility for me, I believe with some luck and a good deal of hard work we can both make substantial returns.",mi jan Alesantejemelisa.  mi jan lawa tawa kulupu pali A.J.E.  mi wile toki esun tawa sina.  o pali e tomo pali tan wile mi.  pona li kama en pali pona mute la mani mute li kama tawa mi tu.
@@ -3159,6 +3097,13 @@ OBSOLETE,tutorial_airdone,2448,The AIRDUCT is activated and is pressurising the 
 OBSOLETE,tutorial_enginesinformation,2448,Engines require both POWER and FUEL to operate. We must connect both engines to fuel and power.,ilo pi wawa tawa la pali li wile e WAWA e TELO WAWA. o wan e ilo e telo wawa e wawa.
 OBSOLETE,tutorial_enginesconnectpower,2448,"Now use the CABLES menu to power up the engine, by connecting it to your existing red power lines.",tenpo ni la o kepeken lipu sitelen pi LINJA WAWA. o wawa e ilo pi wawa tawa: o wan e ona e linja wawa loje lon.
 OBSOLETE,tutorial_ftlselectpropulsion,2448,The items we need are listed under PROPULSION. Select that category.,kulupu nimi pi ilo wile li lon anpa pi nimi WAWA TAWA.
+OBSOLETE,tutorial_ftladdftldrive,2448,Add one FTL drive to our order by clicking on the entry in the list.,o open esun e ilo wan pi tawa suli: o luka e ona lon kulupu nimi.
+OBSOLETE,tutorial_ftladdftlfuel,2448,FTL drives consume one fuel charge per jump. Add 5 FTL Charges to the order as well.,tawa suli wan li kepeken poki wawa wan pi tawa suli. o esun kin e poki 5.
+OBSOLETE,tutorial_ftlinstallftl,2448,Install the FTL drive anywhere in your ship.,o pana e ilo pi tawa suli lon tomo tawa sina lon ma pi pilin sina.
+OBSOLETE,tutorial_ftlpowerftl,2448,Connect the FTL drive to your power network.,o wan e ilo pi tawa suli e wawa pi ilo tawa sina.
+OBSOLETE,tutorial_ftlstoragetoolbar,2448,"We can make things more efficient for our crew by telling them to store FTL Charges near the FTL drive.\n\nSelect STORAGE from the CONSTRUCTION toolbar, then select FTL Charges from the list.",poki wawa li awen lon poka ilo pi tawa suli la ni li pona e pali jan.\n\no wile e MA AWEN tan sitelen ilo PALI. o wile e poki wawa pi tawa suli tan kulupu nimi.
+OBSOLETE,tutorial_ftlstorageworld,2448,Now drag out a storage zone near to the FTL drive.,o sitelen e ma awen lon poka ilo pi tawa suli.
+OBSOLETE,tutorial_ftlstoragedone,2448,The crew will move all the FTL Charges into this zone.,jan li kama tawa e poki wawa ale pi tawa suli tawa ma awen ni.
 OBSOLETE,tutorial_stargatescreen2,2448,This screen shows the phases that require construction in order to complete the STARGATE.\n\nWe are in PHASE 1. Work has only just begun.,lipu ni li pana lukin e tenpo pali pi LUPA MUN. pini ona li wile e ni ale.\n\nsina lon TENPO 1. pali li open taso lon tenpo pini poka.
 OBSOLETE,tutorial_stargatescreen3,2448,On the left of the screen you can see the requirements to complete PHASE 1.\n\nWe need to manufacture:\n- 100 STARGATE FRAMES\n- 10 STARGATE RESIN,poka wan pi lupu ni sina lukin e wile ale tawa pini pi TENPO 1.\n\nsina wile pali e:\n- SIJELO 100 PI LUPA MUN\n- KO 10 PI LUPA MUN
 OBSOLETE,tutorial_stargatescreen4,2448,"These PHASE 1 components are easy to manufacture, and we already have what we need onboard.\n\nBut we can sell them to the STARGATE PROJECT for a small fortune.",TENPO 1 la pali pi ijo wile li pona. ijo wile ale pi pali ni li lon tomo lon tenpo ni.\n\ntaso sina ken pana esun e ona tawa PALI PI LUPA MUN. mani mute li kama tawa sina tan ni.
@@ -3205,9 +3150,12 @@ OBSOLETE,tutorial_financeselectship,2448,"Contracts are assigned to the ship you
 OBSOLETE,tutorial_financeselecttransport,2448,"Here we have a TRANSPORT PASSENGER contract, click it to see more details.",ni li pali esun pi TAWA JAN. wile lukin e toki ale ona la o luka e ona.
 OBSOLETE,tutorial_financeassigntransport,2448,This mission requires us to transport a group of people from here to another location in the sector.\n\nClick the accept button to assign this contract to the PROCYON.,pali esun ni li wile e ni: sina tawa e kulupu jan tawa ma ante lon kipisi ma mun ni.\n\no luka e nena pona. ni li pana e pali esun ni tawa ilo PROCYON.
 OBSOLETE,tutorial_financepassengersinbound,2448,The passengers will be delivered to the PROCYON by shuttle.,jan tawa li kama tawa tomo PROCYON kepeken tomo tawa lili.
+OBSOLETE,tutorial_financesectormap,2448,"All passengers have been delivered to the PROCYON, and our FTL drive is operational. We must now plot an FTL jump to their destination.\n\nOpen the SECTOR MAP.",jan tawa ale li lon tomo PROCYON. ilo pi tawa suli li ken. tenpo ni la o wile e nasin pi tawa suli.\n\no open e SITELEN MA.
 OBSOLETE,tutorial_financesetdestination,2448,"This is a map of all the systems in this sector.\n\nOur ship and our space station are located in the middle, where the map is marked YOU-ARE-HERE.\n\nSet a course to the destination (labelled TRANSPORT PASSENGERS) by clicking on it.","ni li sitelen ma pi kulupu sike ale lon kipisi ma mun ni.\n\nilo tawa en tomo mun sina li lon insa, lon sitelen pi toki SINA LON.\n\no pana e nasin tawa ma wile (li jo e nimi O TAWA E JAN) kepeken luka."
 OBSOLETE,tutorial_financeclosesectormap,2448,"Close the SECTOR MAP by clicking the X in the top right corner, or by pressing ESC.",o pini e SITELEN MA kepeken sitelen X lon sewi.
+OBSOLETE,tutorial_financeftlwindow,2448,Open the FTL screen to order the FTL jump.,wile tawa suli la o open e lipu pi tawa suli.
 OBSOLETE,tutorial_financepreparejump,2448,Click on PREPARE JUMP to align the ship and prepare for hyperspace.,wile open pi tawa suli la o luka e nena pi O OPEN E TAWA SULI.
+OBSOLETE,tutorial_financepreparingjump,2448,"The PROCYON will align for hyperspace, and prepare the FTL drive to make the jump.",ilo PROCYON li tawa sike tawa nasin pona pi tawa suli. ona li ken e ilo pi tawa suli.
 OBSOLETE,tutorial_financejump,2448,Click the JUMP button to jump to hyperspace.,wile open pi tawa suli la o luka e nena pi TAWA SULI
 OBSOLETE,tutorial_financeselectmission,2448,We now need to turn in our completed passenger contract.\n\nOpen the CONTRACTS screen and select the passenger mission.,tenpo ni la sina wile pini e pali esun pi tawa jan.\n\no open e lipu pi PALI ESUN. o wile e pali esun pi tawa jan.
 OBSOLETE,tutorial_financeturnin,2448,Click the DELIVER button to drop off the passengers and receive payment,o luka e nena PANA. ni li pana e jan tawa li kama e mani.
@@ -3228,6 +3176,7 @@ OBSOLETE,tutorial_dockingcheckthrusters,2448,"In order to be able to dock succes
 OBSOLETE,tutorial_dockingzoomin,2448,Zoom in so that you can see the docking guides more clearly. They are RED diamonds extending from the docking ports.,wile lukin pona pi nasin poka lupa la o suli e sitelen lukin sina. nasin li leko LOJE (pi tawa sike) lon poka lupa.
 OBSOLETE,tutorial_dockingopenmaneuver,2448,Open the MANEUVERING THRUSTER controls.,o open e ilo lawa ni: ILO LILI PI WAWA TAWA.
 OBSOLETE,tutorial_dockingmaneuver,2448,"Use your THRUSTERS to maneuver your ship so that RED diamonds of your docking ports align with the docking port of the *X.\n\nWhen aligned correctly, they will both turn YELLOW.\n\nKeep the ships aligned until the docking bridge is fully extended.",o kepeken ILO LILI PI WAWA TAWA. o tawa e ilo tawa sina kepeken nasin ni: leko LOJE pi lupa sina li lon sama lupa *X.\n\nlon pona la leko tu li kama JELO.\n\nlupa tu li poka pona la nasin lupa li wan e tu. pini ni ala la o awen pona e lon pi ilo tawa sina.
+OBSOLETE,tutorial_logisticscrewselectship,2448,Select the UMC Astral Temptress. \n\n As you can see it has no crew.,o wile e ilo UMC Astral Temptress. \n\n sina ken lukin e ni: jan li weka.
 OBSOLETE,tutorial_logisticscrewselectfrom,2448,Select the SOURCE ship that the crew will come FROM.,o wile e tomo KAMA pi jan tawa.
 OBSOLETE,tutorial_logisticscrewclicktarget,2448,Click in the CREW cell of the DESTINATION ship to request 5 crew to transfer.,o luka e POKI JAN lon tomo TAWA. ni li pana e lawa ni: o tawa e jan 5.
 OBSOLETE,tutorial_logisticscrewclicktarget_shiftclick,2448,NOTE: You can SHIFT CLICK to request transfer in multiples of 5.,O SONA: wile tawa pi jan 5 lon tenpo la o LUKA SHIFT.
