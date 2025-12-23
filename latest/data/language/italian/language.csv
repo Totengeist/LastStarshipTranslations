@@ -129,10 +129,10 @@ CURRENT,logistics_condition_none,3239,Amount,Importo
 CURRENT,logistics_condition_quantity,3239,Quantity,Quantità
 CURRENT,logistics_condition_stacks,3239,Stacks,Pile
 CURRENT,logistics_condition_containers,3239,Containers,Contenitori
-CURRENT,logistics_condition_allbut,3239,All But,Tutti ma
+CURRENT,logistics_condition_allbut,3239,All But,Tutti tranne
 CURRENT,logistics_condition_storagefull,3239,Until Storage Full,Fino a quando il magazzino non è pieno
 CURRENT,logistics_condition_all,3239,All Available,Tutti disponibili
-CURRENT,logistics_condition_time,3239,Minutes,Verbale
+CURRENT,logistics_condition_time,3239,Minutes,Minuti
 CURRENT,logistics_transferto_none,3239,DESTINATION SHIP,DESTINAZIONE NAVE
 CURRENT,logistics_transferfrom_none,3239,SOURCE SHIP,FONTE SPEDIZIONE
 CURRENT,logistics_item_none,3239,Select Item,Seleziona l'articolo
@@ -780,7 +780,7 @@ CURRENT,shipeditor_palettelibrary_export,2793,EXPORT,ESPORTAZIONE
 CURRENT,shipeditor_palettelibrary_upload,2793,UPLOAD,CARICARE
 CURRENT,trade_autotradedisabled,2793,DISABLED IN ORDER MENU,DISABILITATO NEL MENU DEGLI ORDINI
 CURRENT,order_autotradeactive,2793,Auto Trade,Autotrade
-CURRENT,object_table,2793,Table,Tabella
+CURRENT,object_table,2793,Table,Tavolo
 CURRENT,object_smalltable,2793,Small Table,Tavolo piccolo
 CURRENT,object_chair,2793,Chair,Sedia
 CURRENT,object_sofa,2793,Sofa,Divano
@@ -1466,7 +1466,7 @@ CURRENT,techtree_computationpoints,2639,Computation Points:,Punti di calcolo:
 CURRENT,techtree_rewards,2639,Rewards:,Ricompense:
 CURRENT,techtree_unlocks,2639,Unlocks:,Sblocca:
 CURRENT,techtree_boosts,2639,Performance Boosts:,Incremento delle prestazioni:
-CURRENT,techtree_blueprint,2639,Blueprint,Impronta blu
+CURRENT,techtree_blueprint,2639,Blueprint,Progetto
 CURRENT,techtree_refining,2639,Refining,Raffinazione
 CURRENT,techtree_collection,2639,Collection,Collezione
 CURRENT,techtree_smelting,2639,Smelting,Fusione
