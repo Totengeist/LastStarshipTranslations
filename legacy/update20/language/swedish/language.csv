@@ -1,58 +1,5 @@
 ﻿state,key,svn,english,translation
-NEW,settings_motionsicknessmode,3400,Motion Sickness Mode,Motion Sickness-läge
-NEW,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.","Bakgrundsrotationen är borttagen, vilket bör hjälpa dig om du upplever rörelsesjuka i spelet."
-NEW,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition","När du byter mellan fartyg, hoppa över övergången"
-NEW,newmainmenu_tests,3400,TESTS,TESTS
-NEW,newmainmenu_instantshipswitch,3400,Switch instantly between ships,Växla direkt mellan fartyg
-NEW,newmainmenu_vsync,3400,V-Sync,V-synkronisering
-NEW,hud_layer_neutralexpand,3400,*X NEUTRAL SHIPS,*X NEUTRALA FARTYG
-NEW,hud_layer_neutralexpandtooltip,3400,Show neutral ships,Visa neutrala fartyg
-NEW,power_unit,3400,*X MW,*X MW
-NEW,tactical_focuslayer,3400,FOCUS LAYER,FOKUSLAGER
-NEW,tactical_tooltip_focuslayer,3400,"When enabled, the camera's rotation and position track the currently selected layer.",När den är aktiverad följer kamerans rotation och position det för tillfället valda lagret.
-NEW,logistics_condition_untilstorage,3400,Quantity on board,Antal på tavlan
-NEW,logistics_quantity_all,3400,ALL,ALLA
-NEW,logistics_quantity_full,3400,FULL,FULL
-NEW,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,ANVÄNDA NÅGON LASTFÖRVARING
-NEW,logistics_stuck_layernotours,3400,Ship L*X is not friendly,Fartyget L*X är inte vänligt
-NEW,logistics_tooltip_controlall,3400,[CTRL] ALL,[CTRL] ALL
-NEW,logistics_tooltip_controlfull,3400,[CTRL] FULL,[CTRL] FULL
-NEW,logistics_tooltip_noitemrequired,3400,This order does not require an item,Denna order kräver inte en artikel
-NEW,logistics_tooltip_extrastoggleshow,3400,Show extra options for this order,Visa extra alternativ för denna order
-NEW,logistics_tooltip_extrastogglehide,3400,Hide extra options for this order,Dölj extra tillval för denna order
-NEW,logistics_tooltip_extrastogglenone,3400,No extra options available,Inga extra tillval tillgängliga
-NEW,alert_type_failedtofindsuit,3400,SPACESUITS REQUIRED,RYMDDRÄKTER KRÄVS
-NEW,alert_type_failedtofindsuit_caption,3400,*X crew members need spacesuits.,*X besättningsmedlemmarna behöver Rymddräkter.
-NEW,objective_travel_to_location,3400,Travel to S*X,Resa till S*X
-UPDATED,logistics_status_transfernosupply,3400,out of the *X desired (not enough available),ur *X önskad (inte tillräckligt tillgänglig)
-PREVIOUS,logistics_status_transfernosupply,3329,out of the *X ordered (not enough available),av *X beställda (inte tillräckligt många tillgängliga)
-UPDATED,logistics_status_buynomoney,3400,out of the *X desired (not enough money),ut ur *X önskad (inte tillräckligt med pengar)
-PREVIOUS,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),ut ur *X beställt (inte tillräckligt med pengar)
-UPDATED,logistics_status_buynosupply,3400,out of the *X desired (not enough available),ur *X önskad (inte tillräckligt tillgänglig)
-PREVIOUS,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),av *X beställda (inte tillräckligt många tillgängliga)
-UPDATED,logistics_status_sellnosupply,3400,out of the *X desired (not enough available),ur *X önskad (inte tillräckligt tillgänglig)
-PREVIOUS,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),av *X beställda (inte tillräckligt många tillgängliga)
-UPDATED,logistics_log_transferstoragefull1,3400,out of the *X desired (destination storage full),ut ur *X önskad (destinationslagret fullt)
-PREVIOUS,logistics_log_transferstoragefull1,3329,out of the *X ordered (destination storage full),ur *X beställd (destinationslagret fullt)
-UPDATED,logistics_item_none,3400,SELECT ITEM,VÄLJ ITEM
-PREVIOUS,logistics_item_none,3239,Select Item,Välj artikel
-UPDATED,powergrid_demand,3400,DEMAND: *X MW,EFTERFRÅGAN: *X MW
-PREVIOUS,powergrid_demand,2624,DEMAND *X Mw,DEMAND *X Mw
-UPDATED,powergrid_output,3400,OUTPUT: *X MW,UTGÅNG: *X MW
-PREVIOUS,powergrid_output,2624,OUTPUT *X Mw,UTGÅNG *X Mw
-UPDATED,powergrid_stored,3400,STORED: *X MJ,FÖRVARAS: *X MJ
-PREVIOUS,powergrid_stored,2624,STORED *X Mw,Lagrad *X Mw
-UPDATED,object_battery_description,3400,"Stores any excess power available in the powergrid, up to 1000MJ. The battery will supply power whenever there is a shortage.","Lagrar all överskottsström som finns tillgänglig i elnätet, upp till 1000 MJ. Batteriet kommer att leverera ström när det råder brist."
-PREVIOUS,object_battery_description,2624,"Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage.","Lagrar all överskottsström som finns tillgänglig i elnätet, upp till 1000 MW. Batteriet levererar ström när det råder brist på ström."
-UPDATED,object_reactor_description,3400,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\n\nGenerates a maximum power output of 100MW.,Förbränner energirikt bränsle för att producera kraft. Måste förses med bränsle (via ett rör). Använd sedan kablar för att ansluta till annan strömförsörjd Utrustning.\n\nGenererar en maximal effekt på 100MW.
-PREVIOUS,object_reactor_description,2624,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW.,Förbränner högenergibränsle för att producera kraft. Måste förses med bränsle (via ett rör). Använd sedan kablar för att ansluta till annan strömförsörjd utrustning.\nGenererar en maximal uteffekt på 100 MW.
-UPDATED,wolf_part1_objective_drones,3400,Install a Drone Bay and have at least one Logistics Drone,Installera en Drone Bay och ha minst en Drone för logistik
-PREVIOUS,wolf_part1_objective_drones,2624,Install a Drone Bay and at least one Logistics Drone,Installera en drönarstation och minst en logistikdrönare
-UPDATED,tutorial_stargatewindowhighlightframes2,3400,The button underneath each component can be clicked to quickly sell all your stock and submit it to the Andromeda Project.\n\nThey can also be sold from the trade screen.,Knappen under varje komponent kan klickas på för att snabbt sälja hela ditt lager och skicka det till Andromeda-projektet.\n\nDe kan också säljas från handelsskärmen.
-PREVIOUS,tutorial_stargatewindowhighlightframes2,2624,Sell your frames at a trading post to submit them to the Andromeda Project.,Sälj dina ramar på en handelsplats för att skicka in dem till Andromedaprojektet.
-UPDATED,dsi_part2_thirdpartcomplete2,3400,"I'm going to take a short break from the project, I trust you'll be able to do the next couple of stages on your own.","Jag ska ta en kort paus från projektet, jag litar på att du kommer att kunna göra de kommande stegen på egen hand."
-PREVIOUS,dsi_part2_thirdpartcomplete2,2624,Let's take another break and I'll contact you when the Andromeda Project releases the manifest for their next phase.,Vi tar en paus till och jag kontaktar dig när Andromedaprojektet släpper manifestet för nästa fas.
-CURRENT,logistics_log_skipped,3339,Skipped order,Överhoppad order
+NEW,logistics_log_skipped,3339,Skipped order,Överhoppad order
 CURRENT,hud_ftlshipcontrolledbylogistics,3331,Ship is controlled by interstellar logistics,Fartyget styrs av interstellär logistik
 CURRENT,newmainmenu_invalidsavename,3329,Invalid Save Name,Ogiltigt sparnamn
 CURRENT,newmainmenu_invalidcharacters_caption,3329,Save name contains invalid characters.,Spara namn innehåller ogiltiga tecken.
@@ -67,6 +14,10 @@ CURRENT,logistics_status_miningstacksnostorage,3329,"(*X/*Y stacks, storage full
 CURRENT,logistics_status_miningstacksnostorage1,3329,"(*X stacks, storage full)","(*X staplar, förråd fullt)"
 CURRENT,logistics_status_collectcontainersnostorage,3329,"(*X/*Y containers, storage full)","(*X/*Y behållare, förvaring full)"
 CURRENT,logistics_status_collectcontainersnostorage1,3329,"(*X containers, storage full)","(*X behållare, förråd fullt)"
+CURRENT,logistics_status_transfernosupply,3329,out of the *X ordered (not enough available),av *X beställda (inte tillräckligt många tillgängliga)
+CURRENT,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),ut ur *X beställt (inte tillräckligt med pengar)
+CURRENT,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),av *X beställda (inte tillräckligt många tillgängliga)
+CURRENT,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),av *X beställda (inte tillräckligt många tillgängliga)
 CURRENT,logistics_status_waiting,3329,Waiting T*X,Väntande T*X
 CURRENT,logistics_status_time,3329,in T*X,i T*X
 CURRENT,logistics_status_warning,3329,Warning,Varning
@@ -76,6 +27,7 @@ CURRENT,logistics_log_jumpedstargate,3329,Travelled to system S*X through Starga
 CURRENT,logistics_log_transferto,3329,Transferred *X R*Y to L*Z,Överförd *X R*Y till L*Z
 CURRENT,logistics_log_transferfrom,3329,Transferred *X R*Y from L*Z,Överförd *X R*Y från L*Z
 CURRENT,logistics_log_transferstoragefull,3329,(destination storage full),(destinationslagret fullt)
+CURRENT,logistics_log_transferstoragefull1,3329,out of the *X ordered (destination storage full),ur *X beställd (destinationslagret fullt)
 CURRENT,logistics_log_waited,3329,Waited for T*X,Väntade på T*X
 CURRENT,rating_trade,3329,Trade,Handel
 CURRENT,dsi_action_confirmcancel,3329,Confirm cancellation,Bekräfta avbokning
@@ -176,10 +128,12 @@ CURRENT,logistics_condition_quantity,3239,Quantity,Kvantitet
 CURRENT,logistics_condition_stacks,3239,Stacks,Staplar
 CURRENT,logistics_condition_containers,3239,Containers,Behållare
 CURRENT,logistics_condition_allbut,3239,All But,Alla utom
+CURRENT,logistics_condition_storagefull,3239,Until Storage Full,Tills lagret är fullt
 CURRENT,logistics_condition_all,3239,All Available,Alla tillgängliga
 CURRENT,logistics_condition_time,3239,Minutes,Protokoll
 CURRENT,logistics_transferto_none,3239,DESTINATION SHIP,DESTINATIONSFARTYG
 CURRENT,logistics_transferfrom_none,3239,SOURCE SHIP,KÄLLA SHIP
+CURRENT,logistics_item_none,3239,Select Item,Välj artikel
 CURRENT,logistics_stuck_default,3239,Orders stuck,Beställningar har fastnat
 CURRENT,logistics_stuck_invalidsystem,3239,System S*X does not exist,Systemet S*X finns inte
 CURRENT,logistics_stuck_invalidlayer,3239,Ship L*X does not exist,Fartyget L*X finns inte
@@ -1421,6 +1375,9 @@ CURRENT,powergrid_category_logistics,2624,LOGISTICS,LOGISTIK
 CURRENT,powergrid_category_science,2624,SCIENCE,VETENSKAP
 CURRENT,powergrid_category_stargate,2624,STARGATE,STARGATE
 CURRENT,powergrid_category_other,2624,OTHER,ÖVRIGT
+CURRENT,powergrid_demand,2624,DEMAND *X Mw,DEMAND *X Mw
+CURRENT,powergrid_output,2624,OUTPUT *X Mw,UTGÅNG *X Mw
+CURRENT,powergrid_stored,2624,STORED *X Mw,Lagrad *X Mw
 CURRENT,powergrid_batteryhint,2624,Install some Batteries to store reserve power from your Reactor.,Installera några batterier för att lagra reservkraft från din reaktor.
 CURRENT,powergrid_powershortagehint,2624,Your ship cannot generate enough power. Consider installing more Reactors.,Ditt skepp kan inte generera tillräckligt med kraft. Överväg att installera fler reaktorer.
 CURRENT,trade_title,2624,TRADE,HANDEL
@@ -1935,6 +1892,7 @@ CURRENT,nomadobjective_success,2624,*X fleet residents,*X flottans invånare
 CURRENT,object_airduct,2624,Airduct,Luftledning
 CURRENT,object_airduct_description,2624,Pumps oxygen into the surrounding cabin until a breathable atmosphere is achieved. Must be supplied with Oxygen through a pipe.,Pumpar in syrgas i den omgivande kabinen tills en andningsbar atmosfär har uppnåtts. Måste förses med syrgas genom ett rör.
 CURRENT,object_battery,2624,Battery,Batteri
+CURRENT,object_battery_description,2624,"Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage.","Lagrar all överskottsström som finns tillgänglig i elnätet, upp till 1000 MW. Batteriet levererar ström när det råder brist på ström."
 CURRENT,object_box,2624,Box,Låda
 CURRENT,object_bullets,2624,Bullets,Kulor
 CURRENT,object_bullets_description,2624,A box of ammo for a Gatling Gun (PDC).,En låda med ammunition till en Gatling Gun (PDC).
@@ -2011,6 +1969,7 @@ CURRENT,object_powerinjector,2624,Power Injector,Injektor för strömförsörjni
 CURRENT,object_railgun,2624,Railgun,Railgun
 CURRENT,object_railgun_description,2624,"An extremely accurate and long range weapon system that fires a solid slug of metal. The Railgun is a precise weapon that can penetrate through hull armour and destroy equipment inside the target ship. However, the weapon draws a huge amount of energy to recharge after each shot.",Ett extremt träffsäkert vapensystem med lång räckvidd som avfyrar en solid metallkula. Railgun är ett exakt vapen som kan tränga igenom skrovets pansar och förstöra utrustning inuti målskeppet. Vapnet drar dock en enorm mängd energi för att laddas upp efter varje skott.
 CURRENT,object_reactor,2624,Reactor,Reaktor
+CURRENT,object_reactor_description,2624,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW.,Förbränner högenergibränsle för att producera kraft. Måste förses med bränsle (via ett rör). Använd sedan kablar för att ansluta till annan strömförsörjd utrustning.\nGenererar en maximal uteffekt på 100 MW.
 CURRENT,object_sciencestation,2624,Science Station,Vetenskapsstationen
 CURRENT,object_sciencestation_description,2624,A workstation for a scientist to conduct valuable research.,En arbetsstation för en forskare som ska bedriva värdefull forskning.
 CURRENT,object_supercomputer,2624,Super Computer,Superdator
@@ -2425,6 +2384,7 @@ CURRENT,wolf_part1_setupcall5,2624,"The fourth vessel to be targeted managed to 
 CURRENT,wolf_part1_setupcall5b,2624,"This is the only image they managed to send, before their transmission went dead.",Det här är den enda bild de lyckades skicka innan sändningen bröts.
 CURRENT,wolf_part1_setupcall6,2624,"The wreckage - which is the forensic evidence of their fate - was collected and taken back to System S*X, where it's currently sitting in storage.  We need you to send a ship to collect the wreckage, and bring it to us along with the recovered black box modules.","Vraket - som är det kriminaltekniska beviset på deras öde - samlades in och fördes tillbaka till System S*X, där det för närvarande förvaras.  Vi vill att du skickar ett skepp för att samla in vraket och ta det till oss tillsammans med de återfunna svarta lådmodulerna."
 CURRENT,wolf_part1_setupcall7,2624,"Bring all the recovered wreckage and the black box flight recorders back to me for analysis on board my ship The Vanguard, to complete the contract.","Ta med alla återfunna vrakdelar och den svarta lådans färdskrivare tillbaka till mig för analys ombord på mitt fartyg Vanguard, för att slutföra kontraktet."
+CURRENT,wolf_part1_objective_drones,2624,Install a Drone Bay and at least one Logistics Drone,Installera en drönarstation och minst en logistikdrönare
 CURRENT,wolf_part1_objective_recoverbox1,2624,Recover Flight Recorder from UMC Interstellar Prospector,Återställ Flight Recorder från UMC Interstellar Prospector
 CURRENT,wolf_part1_objective_recoverbox2,2624,Recover Flight Recorder from UMC Infinite Horizon,Återställ Flight Recorder från UMC Infinite Horizon
 CURRENT,wolf_part1_objective_recoverbox3,2624,Recover Flight Recorder from UMC Celestial Hauler,Återställ Flight Recorder från UMC Celestial Hauler
@@ -2935,6 +2895,7 @@ CURRENT,tutorial_stargatewindowintro,2624,The Stargate screen displays everythin
 CURRENT,tutorial_stargatewindowhighlightphases,2624,"The Stargate's construction is split into phases, with each phase requiring more and more resources.\nYou have just completed Phase 1.","Stjärnportens konstruktion är indelad i faser, där varje fas kräver mer och mer resurser. \nDu har just avslutat fas 1."
 CURRENT,tutorial_stargatewindowhighlightphase2,2624,Select Phase 2 to see what you need to manufacture for this phase.,Välj Fas 2 för att se vad du behöver tillverka för denna fas.
 CURRENT,tutorial_stargatewindowhighlightframes1,2624,"To complete Phase 2, we need to continue manufacturing Stargate Frames.\n\nInstead of 10, we now need 200!",För att slutföra fas 2 måste vi fortsätta att tillverka Stargate-ramar.\n\nIstället för 10 behöver vi nu 200!
+CURRENT,tutorial_stargatewindowhighlightframes2,2624,Sell your frames at a trading post to submit them to the Andromeda Project.,Sälj dina ramar på en handelsplats för att skicka in dem till Andromedaprojektet.
 CURRENT,tutorial_stargatewindowclosewindow,2624,You can now close the Stargate screen.,Du kan nu stänga Stargate-skärmen.
 CURRENT,dsi_character_x,2624,Alexander James Elistar,Alexander James Elistar
 CURRENT,dsi_character_y,2624,Raymond Darnell,Raymond Darnell
@@ -3066,6 +3027,7 @@ CURRENT,dsi_part2_secondpartcomplete1,2624,"I'm sure you've noticed, we're makin
 CURRENT,dsi_part2_secondpartcomplete2,2624,"I've been around quite a few years.  I've had my share of success, built my empire, my fortune.  I live a comfortable life.  But I find myself thinking more and more about what I want to do with the time I have left.","Jag har varit med ganska många år.  Jag har haft min del av framgång, byggt mitt imperium, min förmögenhet.  Jag lever ett bekvämt liv.  Men jag funderar mer och mer på vad jag vill göra med den tid jag har kvar."
 CURRENT,dsi_part2_secondpartcomplete3,2624,I just want to be the first at something huge.  The first person to visit another galaxy.  Alexander James Elistar.  That's a name that people would remember.,Jag vill bara vara först med något stort.  Den första personen att besöka en annan galax.  Alexander James Elistar.  Det är ett namn som folk skulle komma ihåg.
 CURRENT,dsi_part2_thirdpartcomplete1,2624,"We are all done, Captain.  That was an incredible display of industrialised power.  There's nobody even close to us in the Marketplace, and we basically are the Andromeda Project.  They need us now.","Vi är klara, kapten.  Det var en otrolig uppvisning av industrialiserad makt.  Det finns ingen i närheten av oss på marknaden, och vi är i princip Andromedaprojektet.  De behöver oss nu."
+CURRENT,dsi_part2_thirdpartcomplete2,2624,Let's take another break and I'll contact you when the Andromeda Project releases the manifest for their next phase.,Vi tar en paus till och jag kontaktar dig när Andromedaprojektet släpper manifestet för nästa fas.
 CURRENT,dsi_part2_thirdpartcomplete3,2624,"You should know that my Doctors continue to bring me bad news.  Each time I talk to them... well, I don't know how long I have left.  This will be my final project.  I just hope I have time to finish it.",Du borde veta att mina läkare fortsätter att ge mig dåliga nyheter.  Varje gång jag pratar med dem... Jag vet inte hur lång tid jag har kvar.  Det här blir mitt sista projekt.  Jag hoppas bara att jag hinner avsluta det.
 CURRENT,dsi_part2_scene_x1,2624,There's a situation brewing at our factory in the asteroid belt.  You'd better take a look.,Det är en situation under uppsegling på vår fabrik i asteroidbältet.  Det är bäst att du tar en titt.
 CURRENT,dsi_part2_scene_y1,2624,Is he in there?  Alexander?  Where is he?,Är han där inne?  Alexander?  Var är han?

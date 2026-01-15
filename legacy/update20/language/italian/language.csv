@@ -1,58 +1,5 @@
 ﻿state,key,svn,english,translation
-NEW,settings_motionsicknessmode,3400,Motion Sickness Mode,Modalità Cinetosi
-NEW,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.","La rotazione dello sfondo è stata rimossa, il che dovrebbe aiutare chi soffre di motion sickness durante il gioco."
-NEW,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition","Quando passi da una nave all'altra, salta la transizione"
-NEW,newmainmenu_tests,3400,TESTS,TEST
-NEW,newmainmenu_instantshipswitch,3400,Switch instantly between ships,Passa istantaneamente da una nave all'altra
-NEW,newmainmenu_vsync,3400,V-Sync,V-Sync
-NEW,hud_layer_neutralexpand,3400,*X NEUTRAL SHIPS,*X NAVI NEUTRE
-NEW,hud_layer_neutralexpandtooltip,3400,Show neutral ships,Mostra le navi neutrali
-NEW,power_unit,3400,*X MW,*X MW
-NEW,tactical_focuslayer,3400,FOCUS LAYER,STRATO DI FUOCO
-NEW,tactical_tooltip_focuslayer,3400,"When enabled, the camera's rotation and position track the currently selected layer.","Quando è abilitata, la rotazione e la posizione della telecamera tracciano il livello attualmente selezionato."
-NEW,logistics_condition_untilstorage,3400,Quantity on board,Quantità a bordo
-NEW,logistics_quantity_all,3400,ALL,TUTTI
-NEW,logistics_quantity_full,3400,FULL,COMPLETO
-NEW,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,UTILIZZARE QUALSIASI DEPOSITO DI CARGO
-NEW,logistics_stuck_layernotours,3400,Ship L*X is not friendly,La nave L*X non è amichevole
-NEW,logistics_tooltip_controlall,3400,[CTRL] ALL,[CTRL] TUTTO
-NEW,logistics_tooltip_controlfull,3400,[CTRL] FULL,[CTRL] COMPLETO
-NEW,logistics_tooltip_noitemrequired,3400,This order does not require an item,Questo ordine non richiede un articolo
-NEW,logistics_tooltip_extrastoggleshow,3400,Show extra options for this order,Mostra le opzioni extra per questo ordine
-NEW,logistics_tooltip_extrastogglehide,3400,Hide extra options for this order,Nascondi le opzioni extra per questo ordine
-NEW,logistics_tooltip_extrastogglenone,3400,No extra options available,Non sono disponibili opzioni aggiuntive
-NEW,alert_type_failedtofindsuit,3400,SPACESUITS REQUIRED,TUTA SPAZIALE NECESSARIA
-NEW,alert_type_failedtofindsuit_caption,3400,*X crew members need spacesuits.,*X i membri dell'equipaggio hanno bisogno di tute spaziali.
-NEW,objective_travel_to_location,3400,Travel to S*X,Viaggia verso S*X
-UPDATED,logistics_status_transfernosupply,3400,out of the *X desired (not enough available),su *X desiderato (non abbastanza disponibile)
-PREVIOUS,logistics_status_transfernosupply,3329,out of the *X ordered (not enough available),su *X ordinati (non abbastanza disponibili)
-UPDATED,logistics_status_buynomoney,3400,out of the *X desired (not enough money),fuori dal sito *X desiderato (non abbastanza soldi)
-PREVIOUS,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),su *X ordinati (non abbastanza soldi)
-UPDATED,logistics_status_buynosupply,3400,out of the *X desired (not enough available),su *X desiderato (non abbastanza disponibile)
-PREVIOUS,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),su *X ordinati (non abbastanza disponibili)
-UPDATED,logistics_status_sellnosupply,3400,out of the *X desired (not enough available),su *X desiderato (non abbastanza disponibile)
-PREVIOUS,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),su *X ordinati (non abbastanza disponibili)
-UPDATED,logistics_log_transferstoragefull1,3400,out of the *X desired (destination storage full),fuori dal sito *X desiderato (la memoria di destinazione è piena)
-PREVIOUS,logistics_log_transferstoragefull1,3329,out of the *X ordered (destination storage full),fuori dal sito *X ordinato (la memoria di destinazione è piena)
-UPDATED,logistics_item_none,3400,SELECT ITEM,SELEZIONA L'ARTICOLO
-PREVIOUS,logistics_item_none,3239,Select Item,Seleziona l'articolo
-UPDATED,powergrid_demand,3400,DEMAND: *X MW,DOMANDA: *X MW
-PREVIOUS,powergrid_demand,2639,DEMAND *X Mw,DOMANDA *X Mw
-UPDATED,powergrid_output,3400,OUTPUT: *X MW,USCITA: *X MW
-PREVIOUS,powergrid_output,2639,OUTPUT *X Mw,USCITA *X Mw
-UPDATED,powergrid_stored,3400,STORED: *X MJ,IMMAGAZZINATO: *X MJ
-PREVIOUS,powergrid_stored,2639,STORED *X Mw,Immagazzinato *X Mw
-UPDATED,object_battery_description,3400,"Stores any excess power available in the powergrid, up to 1000MJ. The battery will supply power whenever there is a shortage.","Immagazzina l'energia in eccesso disponibile nella rete elettrica, fino a 1000MJ. La batteria fornirà energia in caso di carenza."
-PREVIOUS,object_battery_description,2639,"Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage.","Immagazzina l'energia in eccesso disponibile nella rete elettrica, fino a 1000Mw. La batteria fornirà energia in caso di carenza."
-UPDATED,object_reactor_description,3400,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\n\nGenerates a maximum power output of 100MW.,Brucia Carburante ad alta energia per produrre energia. Deve essere rifornito di Carburante (tramite un tubo). Poi utilizza dei cavi per collegarsi ad altre apparecchiature alimentate.\n\nGenera una potenza massima di 100MW.
-PREVIOUS,object_reactor_description,2639,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW.,Brucia carburante ad alta energia per produrre energia. Deve essere rifornito di carburante (tramite un tubo). Poi si usano i cavi per collegarsi ad altre apparecchiature alimentate.\nGenera una potenza massima di 100MW.
-UPDATED,wolf_part1_objective_drones,3400,Install a Drone Bay and have at least one Logistics Drone,Installare una Baia dei droni e avere almeno un Drone per la logistica
-PREVIOUS,wolf_part1_objective_drones,2639,Install a Drone Bay and at least one Logistics Drone,Installa una baia per i droni e almeno un drone logistico
-UPDATED,tutorial_stargatewindowhighlightframes2,3400,The button underneath each component can be clicked to quickly sell all your stock and submit it to the Andromeda Project.\n\nThey can also be sold from the trade screen.,Il pulsante sotto ogni componente può essere cliccato per vendere rapidamente tutte le tue scorte e inviarle al Progetto Andromeda.\n\nPossono essere venduti anche dalla schermata del commercio.
-PREVIOUS,tutorial_stargatewindowhighlightframes2,2639,Sell your frames at a trading post to submit them to the Andromeda Project.,Vendi le tue cornici in un punto di scambio per inviarle al Progetto Andromeda.
-UPDATED,dsi_part2_thirdpartcomplete2,3400,"I'm going to take a short break from the project, I trust you'll be able to do the next couple of stages on your own.","Mi prendo una breve pausa dal progetto, confido che sarai in grado di svolgere le prossime due fasi da solo."
-PREVIOUS,dsi_part2_thirdpartcomplete2,2639,Let's take another break and I'll contact you when the Andromeda Project releases the manifest for their next phase.,Facciamo una pausa e ti contatterò quando il Progetto Andromeda rilascerà il manifesto per la prossima fase.
-CURRENT,logistics_log_skipped,3339,Skipped order,Ordine saltato
+NEW,logistics_log_skipped,3339,Skipped order,Ordine saltato
 CURRENT,hud_ftlshipcontrolledbylogistics,3331,Ship is controlled by interstellar logistics,La nave è controllata dalla logistica interstellare
 CURRENT,newmainmenu_invalidsavename,3329,Invalid Save Name,Nome di salvataggio non valido
 CURRENT,newmainmenu_invalidcharacters_caption,3329,Save name contains invalid characters.,Il nome del salvataggio contiene caratteri non validi.
@@ -67,6 +14,10 @@ CURRENT,logistics_status_miningstacksnostorage,3329,"(*X/*Y stacks, storage full
 CURRENT,logistics_status_miningstacksnostorage1,3329,"(*X stacks, storage full)","(*X pile, magazzino pieno)"
 CURRENT,logistics_status_collectcontainersnostorage,3329,"(*X/*Y containers, storage full)","(*X/*Y contenitori, magazzini pieni)"
 CURRENT,logistics_status_collectcontainersnostorage1,3329,"(*X containers, storage full)","(*X contenitori, magazzini pieni)"
+CURRENT,logistics_status_transfernosupply,3329,out of the *X ordered (not enough available),su *X ordinati (non abbastanza disponibili)
+CURRENT,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),su *X ordinati (non abbastanza soldi)
+CURRENT,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),su *X ordinati (non abbastanza disponibili)
+CURRENT,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),su *X ordinati (non abbastanza disponibili)
 CURRENT,logistics_status_waiting,3329,Waiting T*X,In attesa T*X
 CURRENT,logistics_status_time,3329,in T*X,in T*X
 CURRENT,logistics_status_warning,3329,Warning,Avvertenze
@@ -76,6 +27,7 @@ CURRENT,logistics_log_jumpedstargate,3329,Travelled to system S*X through Starga
 CURRENT,logistics_log_transferto,3329,Transferred *X R*Y to L*Z,Trasferito *X R*Y a L*Z
 CURRENT,logistics_log_transferfrom,3329,Transferred *X R*Y from L*Z,Trasferito *X R*Y da L*Z
 CURRENT,logistics_log_transferstoragefull,3329,(destination storage full),(memoria di destinazione piena)
+CURRENT,logistics_log_transferstoragefull1,3329,out of the *X ordered (destination storage full),fuori dal sito *X ordinato (la memoria di destinazione è piena)
 CURRENT,logistics_log_waited,3329,Waited for T*X,Attesa per T*X
 CURRENT,rating_trade,3329,Trade,Commercio
 CURRENT,dsi_action_confirmcancel,3329,Confirm cancellation,Conferma la cancellazione
@@ -178,10 +130,12 @@ CURRENT,logistics_condition_quantity,3239,Quantity,Quantità
 CURRENT,logistics_condition_stacks,3239,Stacks,Pile
 CURRENT,logistics_condition_containers,3239,Containers,Contenitori
 CURRENT,logistics_condition_allbut,3239,All But,Tutti tranne
+CURRENT,logistics_condition_storagefull,3239,Until Storage Full,Fino a quando il magazzino non è pieno
 CURRENT,logistics_condition_all,3239,All Available,Tutti disponibili
 CURRENT,logistics_condition_time,3239,Minutes,Minuti
 CURRENT,logistics_transferto_none,3239,DESTINATION SHIP,DESTINAZIONE NAVE
 CURRENT,logistics_transferfrom_none,3239,SOURCE SHIP,FONTE SPEDIZIONE
+CURRENT,logistics_item_none,3239,Select Item,Seleziona l'articolo
 CURRENT,logistics_stuck_default,3239,Orders stuck,Ordini bloccati
 CURRENT,logistics_stuck_invalidsystem,3239,System S*X does not exist,Il sistema S*X non esiste
 CURRENT,logistics_stuck_invalidlayer,3239,Ship L*X does not exist,La nave L*X non esiste
@@ -1421,6 +1375,9 @@ CURRENT,powergrid_category_logistics,2639,LOGISTICS,LOGISTICA
 CURRENT,powergrid_category_science,2639,SCIENCE,SCIENZA
 CURRENT,powergrid_category_stargate,2639,STARGATE,STARGATE
 CURRENT,powergrid_category_other,2639,OTHER,ALTRO
+CURRENT,powergrid_demand,2639,DEMAND *X Mw,DOMANDA *X Mw
+CURRENT,powergrid_output,2639,OUTPUT *X Mw,USCITA *X Mw
+CURRENT,powergrid_stored,2639,STORED *X Mw,Immagazzinato *X Mw
 CURRENT,powergrid_batteryhint,2639,Install some Batteries to store reserve power from your Reactor.,Installa delle batterie per immagazzinare l'energia di riserva del tuo Reattore.
 CURRENT,powergrid_powershortagehint,2639,Your ship cannot generate enough power. Consider installing more Reactors.,La tua nave non riesce a generare abbastanza energia. Prendi in considerazione l'installazione di altri reattori.
 CURRENT,trade_title,2639,TRADE,COMMERCIO
@@ -1935,6 +1892,7 @@ CURRENT,nomadobjective_success,2639,*X fleet residents,*X residenti della flotta
 CURRENT,object_airduct,2639,Airduct,Condotto d'aria
 CURRENT,object_airduct_description,2639,Pumps oxygen into the surrounding cabin until a breathable atmosphere is achieved. Must be supplied with Oxygen through a pipe.,Pompa ossigeno nella cabina circostante fino a raggiungere un'atmosfera respirabile. Deve essere alimentato con ossigeno attraverso un tubo.
 CURRENT,object_battery,2639,Battery,Batteria
+CURRENT,object_battery_description,2639,"Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage.","Immagazzina l'energia in eccesso disponibile nella rete elettrica, fino a 1000Mw. La batteria fornirà energia in caso di carenza."
 CURRENT,object_box,2639,Box,Scatola
 CURRENT,object_bullets,2639,Bullets,Proiettili
 CURRENT,object_bullets_description,2639,A box of ammo for a Gatling Gun (PDC).,Una scatola di munizioni per una pistola Gatling (PDC).
@@ -2011,6 +1969,7 @@ CURRENT,object_powerinjector,2639,Power Injector,Iniettore di potenza
 CURRENT,object_railgun,2639,Railgun,Fucile a rotaia
 CURRENT,object_railgun_description,2639,"An extremely accurate and long range weapon system that fires a solid slug of metal. The Railgun is a precise weapon that can penetrate through hull armour and destroy equipment inside the target ship. However, the weapon draws a huge amount of energy to recharge after each shot.","Un sistema d'arma estremamente preciso e a lungo raggio che spara un solido proiettile di metallo. Il Railgun è un'arma precisa che può penetrare attraverso la corazza dello scafo e distruggere le attrezzature all'interno della nave bersaglio. Tuttavia, l'arma richiede un'enorme quantità di energia da ricaricare dopo ogni colpo."
 CURRENT,object_reactor,2639,Reactor,Reattore
+CURRENT,object_reactor_description,2639,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW.,Brucia carburante ad alta energia per produrre energia. Deve essere rifornito di carburante (tramite un tubo). Poi si usano i cavi per collegarsi ad altre apparecchiature alimentate.\nGenera una potenza massima di 100MW.
 CURRENT,object_sciencestation,2639,Science Station,Stazione scientifica
 CURRENT,object_sciencestation_description,2639,A workstation for a scientist to conduct valuable research.,Una postazione di lavoro per uno scienziato per condurre ricerche preziose.
 CURRENT,object_supercomputer,2639,Super Computer,Super Computer
@@ -2425,6 +2384,7 @@ CURRENT,wolf_part1_setupcall5,2639,"The fourth vessel to be targeted managed to 
 CURRENT,wolf_part1_setupcall5b,2639,"This is the only image they managed to send, before their transmission went dead.","Questa è l'unica immagine che sono riusciti a inviare, prima che la trasmissione si interrompesse."
 CURRENT,wolf_part1_setupcall6,2639,"The wreckage - which is the forensic evidence of their fate - was collected and taken back to System S*X, where it's currently sitting in storage.  We need you to send a ship to collect the wreckage, and bring it to us along with the recovered black box modules.","Il relitto, che è la prova forense del loro destino, è stato raccolto e riportato nel Sistema S*X, dove è attualmente conservato.  Abbiamo bisogno che tu invii una nave per raccogliere il relitto e portarcelo insieme ai moduli della scatola nera recuperati."
 CURRENT,wolf_part1_setupcall7,2639,"Bring all the recovered wreckage and the black box flight recorders back to me for analysis on board my ship The Vanguard, to complete the contract.","Riportami tutti i rottami recuperati e i registratori di volo della scatola nera per analizzarli a bordo della mia nave The Vanguard, per completare il contratto."
+CURRENT,wolf_part1_objective_drones,2639,Install a Drone Bay and at least one Logistics Drone,Installa una baia per i droni e almeno un drone logistico
 CURRENT,wolf_part1_objective_recoverbox1,2639,Recover Flight Recorder from UMC Interstellar Prospector,Recupera il registratore di volo da UMC Interstellar Prospector
 CURRENT,wolf_part1_objective_recoverbox2,2639,Recover Flight Recorder from UMC Infinite Horizon,Recuperare il registratore di volo da UMC Infinite Horizon
 CURRENT,wolf_part1_objective_recoverbox3,2639,Recover Flight Recorder from UMC Celestial Hauler,Recupera il registratore di volo dall'UMC Celestial Hauler
@@ -2935,6 +2895,7 @@ CURRENT,tutorial_stargatewindowintro,2639,The Stargate screen displays everythin
 CURRENT,tutorial_stargatewindowhighlightphases,2639,"The Stargate's construction is split into phases, with each phase requiring more and more resources.\nYou have just completed Phase 1.",La costruzione dello Stargate è suddivisa in fasi e ogni fase richiede sempre più risorse.\nHai appena completato la Fase 1.
 CURRENT,tutorial_stargatewindowhighlightphase2,2639,Select Phase 2 to see what you need to manufacture for this phase.,Seleziona la Fase 2 per vedere cosa devi produrre per questa fase.
 CURRENT,tutorial_stargatewindowhighlightframes1,2639,"To complete Phase 2, we need to continue manufacturing Stargate Frames.\n\nInstead of 10, we now need 200!","Per completare la Fase 2, dobbiamo continuare a produrre i telai Stargate.\n\nInvece di 10, ora ne servono 200!"
+CURRENT,tutorial_stargatewindowhighlightframes2,2639,Sell your frames at a trading post to submit them to the Andromeda Project.,Vendi le tue cornici in un punto di scambio per inviarle al Progetto Andromeda.
 CURRENT,tutorial_stargatewindowclosewindow,2639,You can now close the Stargate screen.,Ora puoi chiudere la schermata dello Stargate.
 CURRENT,dsi_character_x,2639,Alexander James Elistar,Alexander James Elistar
 CURRENT,dsi_character_y,2639,Raymond Darnell,Raymond Darnell
@@ -3066,6 +3027,7 @@ CURRENT,dsi_part2_secondpartcomplete1,2639,"I'm sure you've noticed, we're makin
 CURRENT,dsi_part2_secondpartcomplete2,2639,"I've been around quite a few years.  I've had my share of success, built my empire, my fortune.  I live a comfortable life.  But I find myself thinking more and more about what I want to do with the time I have left.","Sono in giro da un bel po' di anni.  Ho avuto la mia parte di successo, ho costruito il mio impero, la mia fortuna.  Vivo una vita confortevole.  Ma mi ritrovo sempre più spesso a pensare a cosa voglio fare con il tempo che mi rimane."
 CURRENT,dsi_part2_secondpartcomplete3,2639,I just want to be the first at something huge.  The first person to visit another galaxy.  Alexander James Elistar.  That's a name that people would remember.,Voglio solo essere il primo a fare qualcosa di enorme.  La prima persona a visitare un'altra galassia.  Alexander James Elistar.  È un nome che la gente ricorderebbe.
 CURRENT,dsi_part2_thirdpartcomplete1,2639,"We are all done, Captain.  That was an incredible display of industrialised power.  There's nobody even close to us in the Marketplace, and we basically are the Andromeda Project.  They need us now.","Abbiamo finito, Capitano.  È stata un'incredibile dimostrazione di potenza industriale.  Non c'è nessuno che si avvicini a noi nel Mercato, e noi siamo praticamente il Progetto Andromeda.  Ora hanno bisogno di noi."
+CURRENT,dsi_part2_thirdpartcomplete2,2639,Let's take another break and I'll contact you when the Andromeda Project releases the manifest for their next phase.,Facciamo una pausa e ti contatterò quando il Progetto Andromeda rilascerà il manifesto per la prossima fase.
 CURRENT,dsi_part2_thirdpartcomplete3,2639,"You should know that my Doctors continue to bring me bad news.  Each time I talk to them... well, I don't know how long I have left.  This will be my final project.  I just hope I have time to finish it.","Devi sapere che i miei medici continuano a darmi cattive notizie.  Ogni volta che parlo con loro... beh, non so quanto tempo mi rimanga.  Questo sarà il mio ultimo progetto.  Spero solo di avere il tempo di finirlo."
 CURRENT,dsi_part2_scene_x1,2639,There's a situation brewing at our factory in the asteroid belt.  You'd better take a look.,C'è un problema nella nostra fabbrica nella fascia degli asteroidi.  È meglio che tu dia un'occhiata.
 CURRENT,dsi_part2_scene_y1,2639,Is he in there?  Alexander?  Where is he?,È lì dentro?  Alexander?  Dov'è?

@@ -1,58 +1,5 @@
 ﻿state,key,svn,english,translation
-NEW,settings_motionsicknessmode,3400,Motion Sickness Mode,Modus bewegingsziekte
-NEW,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.","Achtergrondrotatie is verwijderd, wat zou moeten helpen als je last hebt van bewegingsziekte in het spel."
-NEW,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition",Sla de overgang over bij het wisselen tussen schepen
-NEW,newmainmenu_tests,3400,TESTS,TESTS
-NEW,newmainmenu_instantshipswitch,3400,Switch instantly between ships,Schakel onmiddellijk tussen schepen
-NEW,newmainmenu_vsync,3400,V-Sync,V-Sync
-NEW,hud_layer_neutralexpand,3400,*X NEUTRAL SHIPS,*X NEUTRALE SCHEPEN
-NEW,hud_layer_neutralexpandtooltip,3400,Show neutral ships,Toon neutrale schepen
-NEW,power_unit,3400,*X MW,*X MW
-NEW,tactical_focuslayer,3400,FOCUS LAYER,FOCUSLAAG
-NEW,tactical_tooltip_focuslayer,3400,"When enabled, the camera's rotation and position track the currently selected layer.","Indien ingeschakeld, volgen de rotatie en positie van de camera de huidig geselecteerde laag."
-NEW,logistics_condition_untilstorage,3400,Quantity on board,Hoeveelheid aan boord
-NEW,logistics_quantity_all,3400,ALL,ALLE
-NEW,logistics_quantity_full,3400,FULL,VOLLEDIG
-NEW,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,EEN WILLEKEURIGE OPSLAGRUIMTE VOOR VRACHT GEBRUIKEN
-NEW,logistics_stuck_layernotours,3400,Ship L*X is not friendly,Schip L*X is niet vriendelijk
-NEW,logistics_tooltip_controlall,3400,[CTRL] ALL,[ALLES
-NEW,logistics_tooltip_controlfull,3400,[CTRL] FULL,[VOLLEDIG
-NEW,logistics_tooltip_noitemrequired,3400,This order does not require an item,Deze bestelling vereist geen item
-NEW,logistics_tooltip_extrastoggleshow,3400,Show extra options for this order,Toon extra opties voor deze bestelling
-NEW,logistics_tooltip_extrastogglehide,3400,Hide extra options for this order,Verberg extra opties voor deze bestelling
-NEW,logistics_tooltip_extrastogglenone,3400,No extra options available,Geen extra opties beschikbaar
-NEW,alert_type_failedtofindsuit,3400,SPACESUITS REQUIRED,RUIMTEPAKKEN VEREIST
-NEW,alert_type_failedtofindsuit_caption,3400,*X crew members need spacesuits.,*X bemanningsleden hebben ruimtepakken nodig.
-NEW,objective_travel_to_location,3400,Travel to S*X,Reis naar S*X
-UPDATED,logistics_status_transfernosupply,3400,out of the *X desired (not enough available),uit de *X gewenst (niet genoeg beschikbaar)
-PREVIOUS,logistics_status_transfernosupply,3329,out of the *X ordered (not enough available),van de *X besteld (niet genoeg beschikbaar)
-UPDATED,logistics_status_buynomoney,3400,out of the *X desired (not enough money),uit de *X gewenst (niet genoeg geld)
-PREVIOUS,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),uit de *X besteld (niet genoeg geld)
-UPDATED,logistics_status_buynosupply,3400,out of the *X desired (not enough available),uit de *X gewenst (niet genoeg beschikbaar)
-PREVIOUS,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),van de *X besteld (niet genoeg beschikbaar)
-UPDATED,logistics_status_sellnosupply,3400,out of the *X desired (not enough available),uit de *X gewenst (niet genoeg beschikbaar)
-PREVIOUS,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),van de *X besteld (niet genoeg beschikbaar)
-UPDATED,logistics_log_transferstoragefull1,3400,out of the *X desired (destination storage full),uit de *X gewenst (bestemmingsopslag vol)
-PREVIOUS,logistics_log_transferstoragefull1,3329,out of the *X ordered (destination storage full),uit de *X besteld (bestemmingsopslag vol)
-UPDATED,logistics_item_none,3400,SELECT ITEM,SELECTEER ITEM
-PREVIOUS,logistics_item_none,3239,Select Item,Item Kiezen
-UPDATED,powergrid_demand,3400,DEMAND: *X MW,VRAAG: *X MW
-PREVIOUS,powergrid_demand,2593,DEMAND *X Mw,VRAAG *X Mw
-UPDATED,powergrid_output,3400,OUTPUT: *X MW,UITGANG: *X MW
-PREVIOUS,powergrid_output,2593,OUTPUT *X Mw,UITGANG *X Mw
-UPDATED,powergrid_stored,3400,STORED: *X MJ,OPGESLAGEN: *X MJ
-PREVIOUS,powergrid_stored,2593,STORED *X Mw,Opgeslagen *X Mw
-UPDATED,object_battery_description,3400,"Stores any excess power available in the powergrid, up to 1000MJ. The battery will supply power whenever there is a shortage.","Slaat overtollige stroom op die beschikbaar is in het elektriciteitsnet, tot 1000MJ. De batterij levert stroom als er een tekort is."
-PREVIOUS,object_battery_description,2593,"Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage.","Slaat overtollige stroom op die beschikbaar is in het elektriciteitsnet, tot 1000Mw. De batterij levert stroom wanneer er een tekort is."
-UPDATED,object_reactor_description,3400,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\n\nGenerates a maximum power output of 100MW.,Verbrandt hoogenergetische Brandstof om energie te produceren. Moet worden voorzien van Brandstof (via een pijp). Gebruik vervolgens kabels om verbinding te maken met andere aangedreven apparatuur.\n\nGenereert een maximaal vermogen van 100MW.
-PREVIOUS,object_reactor_description,2593,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW.,Verbrandt hoogenergetische brandstof om energie te produceren. Moet worden voorzien van brandstof (via een pijp). Gebruik vervolgens kabels om verbinding te maken met andere aangedreven apparatuur.\nProduceert een maximaal vermogen van 100MW.
-UPDATED,wolf_part1_objective_drones,3400,Install a Drone Bay and have at least one Logistics Drone,Installeer een Drone baai en heb minstens één Logistieke drone
-PREVIOUS,wolf_part1_objective_drones,2593,Install a Drone Bay and at least one Logistics Drone,Installeer een Drone Bay en minstens één Logistieke Drone
-UPDATED,tutorial_stargatewindowhighlightframes2,3400,The button underneath each component can be clicked to quickly sell all your stock and submit it to the Andromeda Project.\n\nThey can also be sold from the trade screen.,Je kunt op de knop onder elk onderdeel klikken om snel al je voorraad te verkopen en in te sturen naar het Andromeda Project.\n\nZe kunnen ook worden verkocht vanuit het handelsscherm.
-PREVIOUS,tutorial_stargatewindowhighlightframes2,2593,Sell your frames at a trading post to submit them to the Andromeda Project.,Verkoop je frames bij een handelspost om ze in te leveren voor het Andromeda Project.
-UPDATED,dsi_part2_thirdpartcomplete2,3400,"I'm going to take a short break from the project, I trust you'll be able to do the next couple of stages on your own.","Ik neem even een korte pauze van het project, ik vertrouw erop dat je de volgende fasen alleen kunt doen."
-PREVIOUS,dsi_part2_thirdpartcomplete2,2593,Let's take another break and I'll contact you when the Andromeda Project releases the manifest for their next phase.,Laten we nog een pauze inlassen en ik neem contact met je op als het Andromeda Project het manifest voor hun volgende fase vrijgeeft.
-CURRENT,logistics_log_skipped,3339,Skipped order,Overgeslagen bestelling
+NEW,logistics_log_skipped,3339,Skipped order,Overgeslagen bestelling
 CURRENT,hud_ftlshipcontrolledbylogistics,3331,Ship is controlled by interstellar logistics,Schip wordt bestuurd door interstellaire logistiek
 CURRENT,newmainmenu_invalidsavename,3329,Invalid Save Name,Ongeldige naam opslaan
 CURRENT,newmainmenu_invalidcharacters_caption,3329,Save name contains invalid characters.,Opgeslagen naam bevat ongeldige tekens.
@@ -67,6 +14,10 @@ CURRENT,logistics_status_miningstacksnostorage,3329,"(*X/*Y stacks, storage full
 CURRENT,logistics_status_miningstacksnostorage1,3329,"(*X stacks, storage full)","(*X stapels, opslag vol)"
 CURRENT,logistics_status_collectcontainersnostorage,3329,"(*X/*Y containers, storage full)","(*X/*Y containers, opslag vol)"
 CURRENT,logistics_status_collectcontainersnostorage1,3329,"(*X containers, storage full)","(*X containers, opslag vol)"
+CURRENT,logistics_status_transfernosupply,3329,out of the *X ordered (not enough available),van de *X besteld (niet genoeg beschikbaar)
+CURRENT,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),uit de *X besteld (niet genoeg geld)
+CURRENT,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),van de *X besteld (niet genoeg beschikbaar)
+CURRENT,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),van de *X besteld (niet genoeg beschikbaar)
 CURRENT,logistics_status_waiting,3329,Waiting T*X,Wachten T*X
 CURRENT,logistics_status_time,3329,in T*X,in T*X
 CURRENT,logistics_status_warning,3329,Warning,Waarschuwing
@@ -76,6 +27,7 @@ CURRENT,logistics_log_jumpedstargate,3329,Travelled to system S*X through Starga
 CURRENT,logistics_log_transferto,3329,Transferred *X R*Y to L*Z,*X R*Y overgebracht naar L*Z
 CURRENT,logistics_log_transferfrom,3329,Transferred *X R*Y from L*Z,Overgedragen *X R*Y van L*Z
 CURRENT,logistics_log_transferstoragefull,3329,(destination storage full),(bestemmingsopslag vol)
+CURRENT,logistics_log_transferstoragefull1,3329,out of the *X ordered (destination storage full),uit de *X besteld (bestemmingsopslag vol)
 CURRENT,logistics_log_waited,3329,Waited for T*X,Gewacht op T*X
 CURRENT,rating_trade,3329,Trade,Handel
 CURRENT,dsi_action_confirmcancel,3329,Confirm cancellation,Annulering bevestigen
@@ -176,10 +128,12 @@ CURRENT,logistics_condition_quantity,3239,Quantity,Hoeveelheid
 CURRENT,logistics_condition_stacks,3239,Stacks,Stapels
 CURRENT,logistics_condition_containers,3239,Containers,Containers
 CURRENT,logistics_condition_allbut,3239,All But,Alles behalve
+CURRENT,logistics_condition_storagefull,3239,Until Storage Full,Tot opslag vol
 CURRENT,logistics_condition_all,3239,All Available,Alle beschikbare
 CURRENT,logistics_condition_time,3239,Minutes,Notulen
 CURRENT,logistics_transferto_none,3239,DESTINATION SHIP,BESTEMMINGSSCHIP
 CURRENT,logistics_transferfrom_none,3239,SOURCE SHIP,BRON SCHIP
+CURRENT,logistics_item_none,3239,Select Item,Item Kiezen
 CURRENT,logistics_stuck_default,3239,Orders stuck,Bestellingen blijven steken
 CURRENT,logistics_stuck_invalidsystem,3239,System S*X does not exist,Systeem S*X bestaat niet
 CURRENT,logistics_stuck_invalidlayer,3239,Ship L*X does not exist,Schip L*X bestaat niet
@@ -1445,6 +1399,9 @@ CURRENT,powergrid_category_logistics,2593,LOGISTICS,LOGISTIEK
 CURRENT,powergrid_category_science,2593,SCIENCE,WETENSCHAP
 CURRENT,powergrid_category_stargate,2593,STARGATE,STARGATE
 CURRENT,powergrid_category_other,2593,OTHER,ANDERE
+CURRENT,powergrid_demand,2593,DEMAND *X Mw,VRAAG *X Mw
+CURRENT,powergrid_output,2593,OUTPUT *X Mw,UITGANG *X Mw
+CURRENT,powergrid_stored,2593,STORED *X Mw,Opgeslagen *X Mw
 CURRENT,powergrid_batteryhint,2593,Install some Batteries to store reserve power from your Reactor.,Installeer enkele batterijen om reserve-energie van je Reactor op te slaan.
 CURRENT,powergrid_powershortagehint,2593,Your ship cannot generate enough power. Consider installing more Reactors.,Je schip kan niet genoeg energie opwekken. Overweeg om meer reactoren te installeren.
 CURRENT,trade_title,2593,TRADE,HANDEL
@@ -1946,6 +1903,7 @@ CURRENT,nomadobjective_success,2593,*X fleet residents,*X vlootbewoners
 CURRENT,object_airduct,2593,Airduct,Luchtgeleiding
 CURRENT,object_airduct_description,2593,Pumps oxygen into the surrounding cabin until a breathable atmosphere is achieved. Must be supplied with Oxygen through a pipe.,Pompt zuurstof in de omringende cabine totdat er een ademende atmosfeer is bereikt. Moet via een pijp van zuurstof worden voorzien.
 CURRENT,object_battery,2593,Battery,Batterij
+CURRENT,object_battery_description,2593,"Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage.","Slaat overtollige stroom op die beschikbaar is in het elektriciteitsnet, tot 1000Mw. De batterij levert stroom wanneer er een tekort is."
 CURRENT,object_box,2593,Box,Box
 CURRENT,object_bullets,2593,Bullets,Kogels
 CURRENT,object_bullets_description,2593,A box of ammo for a Gatling Gun (PDC).,Een doos munitie voor een Gatling Gun (PDC).
@@ -2022,6 +1980,7 @@ CURRENT,object_powerinjector,2593,Power Injector,Stroominjector
 CURRENT,object_railgun,2593,Railgun,Railgun
 CURRENT,object_railgun_description,2593,"An extremely accurate and long range weapon system that fires a solid slug of metal. The Railgun is a precise weapon that can penetrate through hull armour and destroy equipment inside the target ship. However, the weapon draws a huge amount of energy to recharge after each shot.",Een extreem nauwkeurig wapensysteem met een groot bereik dat een massieve metalen kogel afvuurt. De Railgun is een nauwkeurig wapen dat door het pantser van de romp kan dringen en apparatuur in het doelschip kan vernietigen. Het wapen verbruikt echter een enorme hoeveelheid energie om na elk schot weer op te laden.
 CURRENT,object_reactor,2593,Reactor,Reactor
+CURRENT,object_reactor_description,2593,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW.,Verbrandt hoogenergetische brandstof om energie te produceren. Moet worden voorzien van brandstof (via een pijp). Gebruik vervolgens kabels om verbinding te maken met andere aangedreven apparatuur.\nProduceert een maximaal vermogen van 100MW.
 CURRENT,object_sciencestation,2593,Science Station,Wetenschapsstation
 CURRENT,object_sciencestation_description,2593,A workstation for a scientist to conduct valuable research.,Een werkplek voor een wetenschapper om waardevol onderzoek te doen.
 CURRENT,object_supercomputer,2593,Super Computer,Supercomputer
@@ -2425,6 +2384,7 @@ CURRENT,wolf_part1_setupcall5,2593,"The fourth vessel to be targeted managed to 
 CURRENT,wolf_part1_setupcall5b,2593,"This is the only image they managed to send, before their transmission went dead.",Dit is het enige beeld dat ze konden versturen voordat hun transmissie doodging.
 CURRENT,wolf_part1_setupcall6,2593,"The wreckage - which is the forensic evidence of their fate - was collected and taken back to System S*X, where it's currently sitting in storage.  We need you to send a ship to collect the wreckage, and bring it to us along with the recovered black box modules.","De wrakstukken - het forensisch bewijs van hun lot - zijn verzameld en teruggebracht naar System S*X, waar ze nu opgeslagen liggen.  Je moet een schip sturen om het wrak op te halen en het samen met de teruggevonden zwarte doos modules naar ons toe te brengen."
 CURRENT,wolf_part1_setupcall7,2593,"Bring all the recovered wreckage and the black box flight recorders back to me for analysis on board my ship The Vanguard, to complete the contract.","Breng alle geborgen wrakstukken en de zwarte doos vluchtrecorders terug naar mij voor analyse aan boord van mijn schip The Vanguard, om het contract af te ronden."
+CURRENT,wolf_part1_objective_drones,2593,Install a Drone Bay and at least one Logistics Drone,Installeer een Drone Bay en minstens één Logistieke Drone
 CURRENT,wolf_part1_objective_recoverbox1,2593,Recover Flight Recorder from UMC Interstellar Prospector,Vluchtrecorder terughalen van UMC Interstellaire Prospector
 CURRENT,wolf_part1_objective_recoverbox2,2593,Recover Flight Recorder from UMC Infinite Horizon,Vluchtrecorder herstellen van UMC Oneindige Horizon
 CURRENT,wolf_part1_objective_recoverbox3,2593,Recover Flight Recorder from UMC Celestial Hauler,Vluchtrecorder terughalen van UMC Celestial Hauler
@@ -2935,6 +2895,7 @@ CURRENT,tutorial_stargatewindowintro,2593,The Stargate screen displays everythin
 CURRENT,tutorial_stargatewindowhighlightphases,2593,"The Stargate's construction is split into phases, with each phase requiring more and more resources.\nYou have just completed Phase 1.","De bouw van de Sterrenpoort is opgedeeld in fasen, waarbij elke fase steeds meer middelen vereist.\nJe hebt zojuist fase 1 voltooid."
 CURRENT,tutorial_stargatewindowhighlightphase2,2593,Select Phase 2 to see what you need to manufacture for this phase.,Selecteer Fase 2 om te zien wat je voor deze fase moet maken.
 CURRENT,tutorial_stargatewindowhighlightframes1,2593,"To complete Phase 2, we need to continue manufacturing Stargate Frames.\n\nInstead of 10, we now need 200!","Om Fase 2 af te ronden, moeten we doorgaan met het maken van Stargate Frames.\n\nIn plaats van 10, hebben we er nu 200 nodig!"
+CURRENT,tutorial_stargatewindowhighlightframes2,2593,Sell your frames at a trading post to submit them to the Andromeda Project.,Verkoop je frames bij een handelspost om ze in te leveren voor het Andromeda Project.
 CURRENT,tutorial_stargatewindowclosewindow,2593,You can now close the Stargate screen.,Je kunt nu het Stargate-scherm sluiten.
 CURRENT,dsi_character_x,2593,Alexander James Elistar,Alexander James Elistar
 CURRENT,dsi_character_y,2593,Raymond Darnell,Raymond Darnell
@@ -3066,6 +3027,7 @@ CURRENT,dsi_part2_secondpartcomplete1,2593,"I'm sure you've noticed, we're makin
 CURRENT,dsi_part2_secondpartcomplete2,2593,"I've been around quite a few years.  I've had my share of success, built my empire, my fortune.  I live a comfortable life.  But I find myself thinking more and more about what I want to do with the time I have left.","Ik loop al heel wat jaren mee.  Ik heb mijn portie succes gehad, mijn imperium opgebouwd, mijn fortuin.  Ik leef een comfortabel leven.  Maar ik merk dat ik steeds meer nadenk over wat ik wil doen met de tijd die ik nog heb."
 CURRENT,dsi_part2_secondpartcomplete3,2593,I just want to be the first at something huge.  The first person to visit another galaxy.  Alexander James Elistar.  That's a name that people would remember.,Ik wil gewoon de eerste zijn bij iets groots.  De eerste persoon die een ander sterrenstelsel bezoekt.  Alexander James Elistar.  Dat is een naam die mensen zich zouden herinneren.
 CURRENT,dsi_part2_thirdpartcomplete1,2593,"We are all done, Captain.  That was an incredible display of industrialised power.  There's nobody even close to us in the Marketplace, and we basically are the Andromeda Project.  They need us now.","We zijn allemaal klaar, kapitein.  Dat was een ongelooflijk vertoon van geïndustrialiseerde kracht.  Er is niemand die ook maar in de buurt komt van ons op de Markt en wij zijn in feite het Andromeda Project.  Ze hebben ons nu nodig."
+CURRENT,dsi_part2_thirdpartcomplete2,2593,Let's take another break and I'll contact you when the Andromeda Project releases the manifest for their next phase.,Laten we nog een pauze inlassen en ik neem contact met je op als het Andromeda Project het manifest voor hun volgende fase vrijgeeft.
 CURRENT,dsi_part2_thirdpartcomplete3,2593,"You should know that my Doctors continue to bring me bad news.  Each time I talk to them... well, I don't know how long I have left.  This will be my final project.  I just hope I have time to finish it.","Je moet weten dat mijn artsen me slecht nieuws blijven brengen.  Elke keer als ik met ze praat... nou, ik weet niet hoe lang ik nog heb.  Dit wordt mijn laatste project.  Ik hoop alleen dat ik tijd heb om het af te maken."
 CURRENT,dsi_part2_scene_x1,2593,There's a situation brewing at our factory in the asteroid belt.  You'd better take a look.,Er is een probleem in onze fabriek in de asteroïdengordel.  Je kunt maar beter een kijkje nemen.
 CURRENT,dsi_part2_scene_y1,2593,Is he in there?  Alexander?  Where is he?,Is hij daar binnen?  Alexander?  Waar is hij?

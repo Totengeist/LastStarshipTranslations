@@ -250,8 +250,6 @@ settings_credit_tooltip                 With thanks to:
 settings_arraytextures                  Use Array Textures
 settings_dynamiclighting                Use Dynamic Lighting
 settings_uibounce                       UI Highlight Bounce
-settings_motionsicknessmode             Motion Sickness Mode
-settings_motionsicknessmode_description Background rotation is removed, which should help if you experience motion sickness in-game.
 settings_accentinsensitivesearch        Accent Insensitive Search
 settings_accentinsensitivesearch_description   When searching in lists, ignore accented characters, e.g. "é" will match "e"
 settings_translatorassist               Translator Assist (Ctrl, Alt)
@@ -260,7 +258,6 @@ settings_autosaveonftl                  Auto-save when leaving FTL
 settings_autosaveontimeinterval         Auto-save on time interval
 settings_autosaveinterval               Auto-save Interval
 settings_minutes_shortened              Mins.
-settings_instantshipswitch_description  When switching between ships, skip the transition
     
 legal_button                            Legal Information
 wishlist_button                         Add to Wishlist
@@ -387,7 +384,6 @@ newmainmenu_savegame                    SAVE GAME
 newmainmenu_confirm                     CONFIRM
 newmainmenu_cancel                      CANCEL
 newmainmenu_settings                    SETTINGS
-newmainmenu_tests                       TESTS
 newmainmenu_quit                        QUIT
 newmainmenu_returntomainmenu            RETURN TO MAIN MENU
 newmainmenu_mainmenu                    MAIN MENU
@@ -438,7 +434,6 @@ newmainmenu_debug_freespace             Enable FreeSpace Debugging
 newmainmenu_darkmode                    Galaxy Map Dark Mode
 newmainmenu_parallax                    Parallax effect
 newmainmenu_slowcombat                  Slow during combat
-newmainmenu_instantshipswitch           Switch instantly between ships                  
 newmainmenu_exitsaves                   Auto-save on exit
 newmainmenu_autosavewarning             Auto-save load warning
 newmainmenu_filter                      SEARCH...
@@ -451,7 +446,6 @@ newmainmenu_multisectorsimtooltip       Enables multi-system simulation, allowin
 newmainmenu_invalidsavename             Invalid Save Name
 newmainmenu_invalidcharacters_caption   Save name contains invalid characters.
 newmainmenu_autosavenameinvalid_caption Save name reserved for autosaves.
-newmainmenu_vsync                       V-Sync
 
 newmainmenu_tooltip_changeship          [LMB] Change ship
 newmainmenu_tooltip_removeship          [RMB] Remove ship
@@ -736,8 +730,6 @@ hud_layer_hostile                       HOSTILE *X
 hud_layer_derelict                      DERELICT *X
 hud_layer_forsale                       [FOR SALE] *X
 hud_layer_unnaned_system                UNNAMED
-hud_layer_neutralexpand                 *X NEUTRAL SHIPS
-hud_layer_neutralexpandtooltip          Show neutral ships
 
 hud_trade_incoming                      WARNING - TRADE INCOMING
 hud_trade_owed                          WARNING - TRADE OWED
@@ -1004,11 +996,9 @@ powergrid_category_science              SCIENCE
 powergrid_category_stargate             STARGATE
 powergrid_category_other                OTHER
 
-powergrid_demand                        DEMAND: *X MW
-powergrid_output                        OUTPUT: *X MW
-powergrid_stored                        STORED: *X MJ
-
-power_unit                              *X MW
+powergrid_demand                        DEMAND *X Mw
+powergrid_output                        OUTPUT *X Mw
+powergrid_stored                        STORED *X Mw
 
 powergrid_batteryhint                   Install some Batteries to store reserve power from your Reactor.
 powergrid_powershortagehint             Your ship cannot generate enough power. Consider installing more Reactors.
@@ -1315,14 +1305,12 @@ tactical_lowpower                       LOW POWER
 tactical_dockingassistant               DOCKING ASSIST
 tactical_fleetformation                 FLEET FORMATION
 tactical_fleetcombat                    FLEET COMBAT AI
-tactical_focuslayer                     FOCUS LAYER
 tactical_on                             ON
 tactical_off                            OFF
 
 tactical_tooltip_dockingassistant       When enabled, the Docking Assistant will perform the final maneuovers required to dock your ship with another, once you are close enough.\n\nIt is recommended you disable Fleet Formation when attempting to dock.
 tactical_tooltip_fleetformation         When enabled, all of the fleet ships within a system will fly together in close formation, following the lead of whichever ship you are directly controlling.
 tactical_tooltip_fleetcombat            When enabled, your other fleet ships will take care of themselves during combat, moving to optimal range and engaging as best they can.
-tactical_tooltip_focuslayer             When enabled, the camera's rotation and position track the currently selected layer.
 
 tactical_tooltip_weapon                 [LMB] Select weapon\n[SHIFT-LMB] Select multiple weapons\n[RMB] Clear current target
 tactical_tooltip_auto                   AUTO-TARGETTING\n[LMB] Enable auto-targetting\n[RMB] Disable auto-targetting
@@ -1371,28 +1359,24 @@ logistics_condition_quantity            Quantity
 logistics_condition_stacks              Stacks
 logistics_condition_containers          Containers
 logistics_condition_allbut              All But
-logistics_condition_untilstorage        Quantity on board
+logistics_condition_storagefull         Until Storage Full
 logistics_condition_all                 All Available
 logistics_condition_time                Minutes
 
-logistics_quantity_all                  ALL
-logistics_quantity_full                 FULL
-
 logistics_transferto_none               DESTINATION SHIP
 logistics_transferfrom_none             SOURCE SHIP
-logistics_item_none                     SELECT ITEM
 
-logistics_extras_anycargo               USE ANY CARGO STORAGE
+logistics_item_none                     Select Item
 
 logistics_stuck_default                 Orders stuck
 logistics_stuck_invalidsystem           System S*X does not exist
 logistics_stuck_invalidlayer            Ship L*X does not exist
-logistics_stuck_layernotours            Ship L*X is not friendly
 logistics_stuck_equipment               L*X does not have a working R*Y
 logistics_stuck_resources               L*X does not have any R*Ys
 logistics_stuck_patches                 System S*X does not have any R*Y to mine
 logistics_stuck_gas                     System S*X does not have any R*Y to collect
 logistics_stuck_tradingpost             System S*X does not have a trading post
+logistics_stuck_resourcestosell         L*X does not have any R*Y to sell
 logistics_stuck_stargate                Stargate is not ready for jump
 
 logistics_status_notrunning             No order currently running
@@ -1409,14 +1393,12 @@ logistics_status_collectcontainersnostorage  (*X/*Y containers, storage full)
 logistics_status_collectcontainersnostorage1 (*X containers, storage full)
 logistics_status_transferto             Transferring *X R*Y to L*Z
 logistics_status_transferfrom           Transferring *X R*Y from L*Z
-logistics_status_transfernosupply       out of the *X desired (not enough on board)
+logistics_status_transfernosupply       out of the *X ordered (not enough available)
 logistics_status_buy                    Bought *X R*Y for $*Z
-logistics_status_buynoprice             Bought *X R*Y
-logistics_status_buynomoney             out of the *X desired (not enough money)
-logistics_status_buynosupply            out of the *X desired (not enough available to buy)
+logistics_status_buynomoney             out of the *X ordered (not enough money)
+logistics_status_buynosupply            out of the *X ordered (not enough available)
 logistics_status_sell                   Sold *X R*Y for $*Z
-logistics_status_sellnoprice            Sold *X R*Y
-logistics_status_sellnosupply           out of the *X desired (not enough on board)
+logistics_status_sellnosupply           out of the *X ordered (not enough available)
 logistics_status_notlooping             Finished execution (not looping)
 logistics_status_waiting                Waiting T*X
 logistics_status_time                   in T*X
@@ -1428,18 +1410,12 @@ logistics_log_jumpedstargate            Travelled to system S*X through Stargate
 logistics_log_transferto                Transferred *X R*Y to L*Z
 logistics_log_transferfrom              Transferred *X R*Y from L*Z
 logistics_log_transferstoragefull       (destination storage full)
-logistics_log_transferstoragefull1      out of the *X desired (destination storage full)
+logistics_log_transferstoragefull1      out of the *X ordered (destination storage full)
 logistics_log_waited                    Waited for T*X
 logistics_log_skipped                   Skipped order
 
 logistics_tooltip_skiporder             Skip currently executing order
 logistics_tooltip_loop                  Loop execution
-logistics_tooltip_controlall            [CTRL] ALL
-logistics_tooltip_controlfull           [CTRL] FULL
-logistics_tooltip_noitemrequired        This order does not require an item
-logistics_tooltip_extrastoggleshow      Show extra options for this order
-logistics_tooltip_extrastogglehide      Hide extra options for this order
-logistics_tooltip_extrastogglenone      No extra options available
 
 
 # =============================================================================
@@ -1812,7 +1788,7 @@ nomadobjective_success                  *X fleet residents
 object_airduct                          Airduct
 object_airduct_description              Pumps oxygen into the surrounding cabin until a breathable atmosphere is achieved. Must be supplied with Oxygen through a pipe.
 object_battery                          Battery
-object_battery_description              Stores any excess power available in the powergrid, up to 1000MJ. The battery will supply power whenever there is a shortage.
+object_battery_description              Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage.
 object_box                              Box
 object_bullets                          Bullets
 object_bullets_description              A box of ammo for a Gatling Gun (PDC).
@@ -1889,7 +1865,7 @@ object_powerinjector                    Power Injector
 object_railgun                          Railgun
 object_railgun_description              An extremely accurate and long range weapon system that fires a solid slug of metal. The Railgun is a precise weapon that can penetrate through hull armour and destroy equipment inside the target ship. However, the weapon draws a huge amount of energy to recharge after each shot.
 object_reactor                          Reactor
-object_reactor_description              Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\n\nGenerates a maximum power output of 100MW.
+object_reactor_description              Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW.
 object_sciencestation                   Science Station
 object_sciencestation_description       A workstation for a scientist to conduct valuable research.
 object_supercomputer                    Super Computer
@@ -2229,8 +2205,6 @@ alert_type_emp_caption                  *X piece(s) disabled
 alert_type_emp_tooltip                  Your ship has been struck by lightning, temporarily disabling some of your equipment.
 alert_type_interstellarlogistics        INTERSTELLAR LOGISTICS
 alert_type_interstellarlogistics_caption Orders stuck
-alert_type_failedtofindsuit             SPACESUITS REQUIRED
-alert_type_failedtofindsuit_caption     *X crew members need spacesuits.
 
 warning_unbreathable                    UNBREATHABLE
 warning_suitsrequired                   SPACESUITS REQUIRED
@@ -2614,8 +2588,6 @@ episode_part5                           PART 5
 episode_episodecompleted             EPISODE COMPLETED
 episode_awardreceived                AWARD RECEIVED
 
-objective_travel_to_location         Travel to S*X
-
 # =============================================================================
 # Intro Text, 2024
 # =============================================================================
@@ -2676,7 +2648,7 @@ wolf_part1_setupcall5b                  This is the only image they managed to s
 wolf_part1_setupcall6                   The wreckage - which is the forensic evidence of their fate - was collected and taken back to System S*X, where it's currently sitting in storage.  We need you to send a ship to collect the wreckage, and bring it to us along with the recovered black box modules.
 wolf_part1_setupcall7                   Bring all the recovered wreckage and the black box flight recorders back to me for analysis on board my ship The Vanguard, to complete the contract.
 
-wolf_part1_objective_drones             Install a Drone Bay and have at least one Logistics Drone
+wolf_part1_objective_drones             Install a Drone Bay and at least one Logistics Drone
 wolf_part1_objective_recoverbox1        Recover Flight Recorder from UMC Interstellar Prospector
 wolf_part1_objective_recoverbox2        Recover Flight Recorder from UMC Infinite Horizon
 wolf_part1_objective_recoverbox3        Recover Flight Recorder from UMC Celestial Hauler
@@ -3425,7 +3397,7 @@ tutorial_stargatewindowhighlightcomponent   Each component you need to manufactu
 tutorial_stargatewindowhighlightphases      The Stargate's construction is split into phases, with each phase requiring more and more resources.\nYou have just completed Phase 1.
 tutorial_stargatewindowhighlightphase2      Select Phase 2 to see what you need to manufacture for this phase.
 tutorial_stargatewindowhighlightframes1     To complete Phase 2, we need to continue manufacturing Stargate Frames.\n\nInstead of 10, we now need 200!
-tutorial_stargatewindowhighlightframes2     The button underneath each component can be clicked to quickly sell all your stock and submit it to the Andromeda Project.\n\nThey can also be sold from the trade screen.
+tutorial_stargatewindowhighlightframes2     Sell your frames at a trading post to submit them to the Andromeda Project.
 tutorial_stargatewindowclosewindow          You can now close the Stargate screen.
 
 #
@@ -3635,7 +3607,7 @@ dsi_part2_secondpartcomplete2               I've been around quite a few years. 
 dsi_part2_secondpartcomplete3               I just want to be the first at something huge.  The first person to visit another galaxy.  Alexander James Elistar.  That's a name that people would remember.
 
 dsi_part2_thirdpartcomplete1                We are all done, Captain.  That was an incredible display of industrialised power.  There's nobody even close to us in the Marketplace, and we basically are the Andromeda Project.  They need us now.
-dsi_part2_thirdpartcomplete2                I'm going to take a short break from the project, I trust you'll be able to do the next couple of stages on your own.
+dsi_part2_thirdpartcomplete2                Let's take another break and I'll contact you when the Andromeda Project releases the manifest for their next phase.
 dsi_part2_thirdpartcomplete3                You should know that my Doctors continue to bring me bad news.  Each time I talk to them... well, I don't know how long I have left.  This will be my final project.  I just hope I have time to finish it.
 
 # DSI 2 Scene
