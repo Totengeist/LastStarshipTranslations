@@ -1,4 +1,4 @@
-﻿state,key,svn,english,translation
+state,key,svn,english,translation
 NEW,settings_motionsicknessmode,3400,Motion Sickness Mode,Modus Bewegungskrankheit
 NEW,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.","Die Hintergrundrotation wurde entfernt, was dir helfen sollte, wenn du im Spiel unter Motion Sickness leidest."
 NEW,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition","Wenn du zwischen Schiffen wechselst, überspringe den Übergang"
@@ -216,7 +216,7 @@ CURRENT,stargate_award_complete_title,3239,STARGATE COMPLETED,STERNENTOR ABGESCH
 CURRENT,stargate_award_complete_subtitle,3239,All phases completed,Alle Phasen abgeschlossen
 CURRENT,tutorial_radiationselectfriendly,3239,"First, select a friendly ship with a laser infuser available.","Wähle zuerst ein Schiff der eigenen Seite aus, das einen Laser Infuser hat."
 CURRENT,blackhole_objective_tank,3239,Acquire a Storage Tank,Erwerben Sie einen Lagertank
-CURRENT,blackhole_objective_storagetank,3239,Connect a tank to the Hyperspace Scoop,Verbinden Sie einen Panzer mit der Hyperraum-Schaufel
+CURRENT,blackhole_objective_storagetank,3239,Connect a tank to the Hyperspace Scoop,Verbinden Sie einen Tank mit der Hyperraum-Schaufel
 CURRENT,blackhole_objective_loader,3239,Connect a Loader to the tank,Schließen Sie einen Belader an den Panzer an
 CURRENT,blackhole_objective_unloadloader,3239,Set the Loader to UNLOAD,Setzen Sie den Belader auf UNLOAD
 CURRENT,dsi_part2_dogmavessel1,3239,D.O.G.M.A Spartan,D.O.G.M.A Spartan
@@ -286,7 +286,7 @@ CURRENT,tutorial_radiationinstallinfuser,3239,Laser infusers are used to charge 
 CURRENT,tutorial_radiationsetupinfuser,3239,Let's set the laser infuser to use them to produce charged crystals.,"Stellen wir den Laser Infuser so ein, dass er geladene Kristalle herstellt."
 CURRENT,tutorial_radiationwaitforinputs,3239,The laser infuser is set to start making charged crystals! Laser infusers use Zeleon Energy Cells to charge the crystals.\n\nLet's wait for it to begin charging crystals.,"Der Laser Infuser ist bereit, aufgeladene Kristalle herzustellen! Laser Infuser verwenden Zeleon Energiezellen, um die Kristalle aufzuladen.\n\nWarte darauf, dass er anfängt, Kristalle aufzuladen."
 CURRENT,tutorial_surveystartsectorsurvey,3239,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one ship in a system can do a sector scan.\n\nClick the button to begin a sector scan.,"Sektorscans suchen nach interessanten Bereichen in dem Sektor um das System, in dem sich dein Schiff befindet.\n\nDer Scan wird nach Abschluss beendet. Nur ein Schiff in einem System kann einen Sektorscan durchführen.\n\nKlicke auf die Schaltfläche, um einen Sektorscan zu starten."
-CURRENT,tutorial_surveystartlocalsurvey,3239,Areas of interest will expire after some time if they are not surveyed. Multiple ships can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,"Gebiete von Interesse verfallen nach einiger Zeit, wenn sie nicht überwacht werden. Mehrere Schiffe können zu einer lokalen Erhebung beitragen.\n\nKlicke auf den Punkt von Interesse, um die lokale Erhebung zu starten."
+CURRENT,tutorial_surveystartlocalsurvey,3239,Areas of interest will expire after some time if they are not surveyed. Multiple ships can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,"Gebiete von Interesse verfallen nach einiger Zeit, wenn sie nicht vermessen werden. Mehrere Schiffe können zu einer lokalen Vermessung beitragen.\n\nKlicke auf den Punkt von Interesse, um die lokale Vermessung zu starten."
 CURRENT,bravenewsector_part2_x4,3239,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. As a safeguard against the Andromeda Project, I have installed a back-door that allows you to take control of the Stargate and any devices commanding it.","Bitte lass nicht zu, dass das passiert, Captain. So viel in meinem Leben und so viele meiner Projekte wurden aus reinem Profitstreben durchgeführt, ich kann nicht zulassen, dass dies eines davon wird. Als Schutz vor dem Andromeda-Projekt habe ich eine Hintertür eingebaut, die es dir ermöglicht, die Kontrolle über das Stargate und alle Geräte zu übernehmen, die es steuern."
 CURRENT,bravenewsector_part2_x5,3239,Please use it if they restrict the use of the Stargate for their own gain.,"Bitte benutze es, wenn sie die Nutzung des Stargates für ihren eigenen Vorteil einschränken."
 CURRENT,survey_captionmultiple,3239,*X ships surveying,*X schiffsvermessung
@@ -396,9 +396,9 @@ CURRENT,tutorial_survey_title,3054,SECTOR SURVEYING,SEKTORENVERMESSUNG
 CURRENT,tutorial_surveyintro,3054,"We are going to learn how to survey the area around your ship.\n\nThe first step is to scan the local area of the sector surrounding you ship using a <b>SECTOR SCAN</b>.\n\nIn Boldly Go, only the new sector can be surveyed.\n\nHyperspace sensors are required to do this.","Wir werden lernen, wie du die Umgebung deines Schiffes untersuchen kannst.\n\nAls Erstes musst du den Bereich des Sektors, der dein Schiff umgibt, mit einem <b>SECTOR SCAN</b> scannen.\n\nIn Boldly Go kann nur der neue Sektor untersucht werden.\n\nDafür werden Hyperraumsensoren benötigt."
 CURRENT,tutorial_surveyinstallsensors,3054,"Install Hyperspace Sensors or Hyperspace Sensor LRs onto one of your ships.\n\nThis tutorial will resume afterwards.\n\nIf you are playing the Boldly Go game mode, your ship must also be in the new sector.","Installiere Hyperraumsensoren oder Hyperraumsensor-LRs auf einem deiner Schiffe.\n\nDieses Tutorial wird danach fortgesetzt.\n\nWenn du den Spielmodus Boldly Go spielst, muss sich dein Schiff auch in dem neuen Sektor befinden."
 CURRENT,tutorial_surveyhighlightsectorsurveysystem,3054,Hovering the mouse over the current system will reveal the radius around the system that is being scanned and the scan's progress toward finding new points of interest.\n\nOpen the <b>SECTOR MAP</b> and click <b>NEXT</b> to speed-up the survey.,"Wenn du mit der Maus über das aktuelle System fährst, siehst du den Radius um das System, das gerade gescannt wird, und den Fortschritt des Scans bei der Suche nach neuen Points of Interest.\n\nÖffne die <b>SEKTORENKARTE</b> und klicke auf <b>WEITER</b>, um die Untersuchung zu beschleunigen."
-CURRENT,tutorial_surveylocalsurveyintro,3054,The next step is to perform a <b>LOCAL SURVEY</b>.\n\nLocal surveys allow points of interest to be accessed via FTL.\n\nShips need to have super computers installed and must be in the same sector to participate in a local survey.,"Der nächste Schritt ist eine <b>LOKALE UMFRAGE</b>.\n\nLokale Umfragen ermöglichen den Zugang zu interessanten Punkten über FTL.\n\nSchiffe müssen Supercomputer installiert haben und sich im selben Sektor befinden, um an einer lokalen Umfrage teilzunehmen."
+CURRENT,tutorial_surveylocalsurveyintro,3054,The next step is to perform a <b>LOCAL SURVEY</b>.\n\nLocal surveys allow points of interest to be accessed via FTL.\n\nShips need to have super computers installed and must be in the same sector to participate in a local survey.,"Der nächste Schritt ist eine <b>LOKALE VERMESSUNG</b>.\n\nLokale Vermessungen ermöglichen den Zugang zu interessanten Punkten über FTL.\n\nSchiffe müssen Supercomputer installiert haben und sich im selben Sektor befinden, um an einer lokalen Vermessung teilzunehmen."
 CURRENT,tutorial_surveyinstallcomputers,3054,Install a super-computer on one of your ships.\n\nThis tutorial will resume afterwards.,Installiere einen Supercomputer auf einem deiner Schiffe.\n\nDieses Tutorial wird danach fortgesetzt.
-CURRENT,tutorial_surveyoutro,3054,Click <b>NEXT</b> to speed-up the survey.,"Klicke auf <b>NEXT</b>, um die Umfrage zu beschleunigen."
+CURRENT,tutorial_surveyoutro,3054,Click <b>NEXT</b> to speed-up the survey.,"Klicke auf <b>WEITER</b>, um die Vermessung zu beschleunigen."
 CURRENT,tutorial_surveysuccess,3054,"A new system on the sector map has appeared for your fleet to explore!\n\nWell done, you have now learnt how to use sector surveying to find and explore new systems.\n\nKeep an eye out for special loot on surveyed derelict ships that can be researched by your science stations.","Ein neues System auf der Sektorkarte ist aufgetaucht, das deine Flotte erkunden kann!\n\nGut gemacht, du hast jetzt gelernt, wie du mit Hilfe der Sektorenvermessung neue Systeme finden und erkunden kannst.\n\nHalte Ausschau nach besonderer Beute auf untersuchten, verlassenen Schiffen, die von deinen Wissenschaftsstationen erforscht werden können."
 CURRENT,bravenewsector_part1_x1,3054,Captain? Are you there?,Kapitän? Bist du da?
 CURRENT,bravenewsector_part1_x2,3054,"I can't believe it, the Stargate worked! This is my greatest project, my greatest achievement, perhaps my final one too. Maybe I'll have the chance to see the new sector for myself one day.","Ich kann es nicht glauben, das Stargate hat funktioniert! Das ist mein größtes Projekt, mein größter Erfolg und vielleicht auch mein letzter. Vielleicht habe ich eines Tages die Chance, den neuen Sektor selbst zu sehen."
@@ -452,23 +452,23 @@ CURRENT,newmainmenu_newgameoptions,2953,Game Options,Spiel Optionen
 CURRENT,newmainmenu_defensiveenemies,2953,Defensive Enemies,Defensive Feinde
 CURRENT,newmainmenu_defensiveenemiestooltip,2953,Hostile ships will only target you once you have targeted them first.,"Feindliche Schiffe greifen dich nur an, wenn du sie zuerst anvisiert hast."
 CURRENT,hud_shipmaximumoccupancy,2953,Ship Maximum Occupancy: *X/*Y,Maximale Belegung des Schiffes: *X/*Y
-CURRENT,hud_surveyinprogress,2953,WARNING - SURVEY WILL BE CANCELLED,WARNUNG - DIE UMFRAGE WIRD ABGEBROCHEN
+CURRENT,hud_surveyinprogress,2953,WARNING - SURVEY WILL BE CANCELLED,WARNUNG - DIE VERMESSUNG WIRD ABGEBROCHEN
 CURRENT,galaxymap_survivalexit,2953,Reach the STARGATE!,Erreiche das STARGATE!
 CURRENT,galaxymap_sectornumber,2953,SECTOR *X,SEKTOR *X
 CURRENT,galaxymap_sectorgone,2953,LOST TO THE ANOMALY,VERLOREN FÜR DIE ANOMALIE
-CURRENT,survey_type_derelict,2953,Derelict,Derelict
+CURRENT,survey_type_derelict,2953,Derelict,Wrack
 CURRENT,survey_type_asteroid,2953,Asteroid belt,Asteroidengürtel
 CURRENT,survey_type_nebula,2953,Nebula,Nebula
 CURRENT,survey_type_storm,2953,Storm,Sturm
 CURRENT,survey_type_colony,2953,Colony,Kolonie
-CURRENT,survey_title,2953,UNSURVEYED *X,UNSURVEYED *X
-CURRENT,survey_captionnone,2953,No survey in progress,Keine Erhebung im Gange
-CURRENT,survey_captionsingle,2953,Surveyed by *X,Erhoben von *X
-CURRENT,survey_sector_title,2953,SECTOR SCAN,SECTOR SCAN
-CURRENT,survey_completed,2953,SURVEY COMPLETED,UMFRAGE ABGESCHLOSSEN
-CURRENT,survey_local_award_caption,2953,*X *Y Unlocked,*X *Y Unlocked
-CURRENT,survey_sector_award_title,2953,SURVEY AVAILABLE,UMFRAGE VERFÜGBAR
-CURRENT,survey_sector_award_caption,2953,*X available to survey,*X verfügbar für die Umfrage
+CURRENT,survey_title,2953,UNSURVEYED *X,UNERFORSCHTES *X
+CURRENT,survey_captionnone,2953,No survey in progress,Keine Vermessung im Gange
+CURRENT,survey_captionsingle,2953,Surveyed by *X,Vermessen von *X
+CURRENT,survey_sector_title,2953,SECTOR SCAN,SEKTORSCAN
+CURRENT,survey_completed,2953,SURVEY COMPLETED,VERMESSUNG ABGESCHLOSSEN
+CURRENT,survey_local_award_caption,2953,*X *Y Unlocked,Freigeschaltet: *X *Y
+CURRENT,survey_sector_award_title,2953,SURVEY AVAILABLE,VERMESSUNG VERFÜGBAR
+CURRENT,survey_sector_award_caption,2953,*X available to survey,*X zur Vermessung verfügbar
 CURRENT,survey_sector_caption,2953,*X scanning region,*X scanbereich
 CURRENT,trade_sack,2953,SACK,SACK
 CURRENT,techtree_node_title_tiddletcrystals,2953,Synthetic Crystals,Synthetische Kristalle
@@ -618,7 +618,7 @@ CURRENT,alert_type_radiation_caption,2886,*X have radiation poisoning,*X eine St
 CURRENT,bravenewsector_title,2886,Brave New Sector,Brave New Sector
 CURRENT,bravenewsector_part1_title,2886,"Brave New Sector, Part 1","Brave New Sector, Teil 1"
 CURRENT,bravenewsector_summary,2886,Explore the new sector,Entdecke den neuen Sektor
-CURRENT,bravenewsector_part1_findneubidium,2886,Sample the new minerals,Probiere die neuen Mineralien
+CURRENT,bravenewsector_part1_findneubidium,2886,Sample the new minerals,Proben der neuen Mineralien sammeln
 CURRENT,bravenewsector_part1_findzeleon,2886,Investigate the severe weather,Untersuche das Unwetter
 CURRENT,bravenewsector_part1_representative1,2886,Greetings Captain. What you've found could prove to be very useful to the Stargate project.,"Sei gegrüßt, Captain. Was du gefunden hast, könnte sich als sehr nützlich für das Stargate-Projekt erweisen."
 CURRENT,bravenewsector_part1_representative2,2886,"Since you've used our Stargate to reach the new sector, we believe it's only fair that you assist us with researching the uses of the new resources.","Da du unser Stargate benutzt hast, um den neuen Sektor zu erreichen, ist es nur fair, dass du uns bei der Erforschung der neuen Ressourcen hilfst."
@@ -694,7 +694,7 @@ CURRENT,tutorial_tradewaitforsellable,2886,Your crew will now use the equipment 
 CURRENT,tutorial_tradeothersupplies,2886,"We can use the <b>TRADE</b> system to buy raw materials to produce more <b>STARGATE FRAMES</b>, as well as resources we will need to survive.\n\nReopen the <b>TRADE</b> screen.","Wir können das <b>HANDEL</b>-System nutzen, um Rohstoffe zu kaufen, um mehr <b>STERNENTOR-RAHMEN</b> zu produzieren, sowie Ressourcen, die wir zum Überleben benötigen.\n\nÖffnen Sie den <b>HANDEL</b>-Bildschirm erneut."
 CURRENT,tutorial_tradebuyminerals,2886,<b>METALLIC MINERALS</b> can be smelted into <b>METAL INGOTS</b> just like <b>SCRAP METAL</b>.\n\nAdd all the <b>METALLIC MINERALS</b> to the trade.,<b>METALLISCHE MINERALIEN</b> können wie <b>METALLSCHROTT</b> zu <b>METALLBARREN</b> geschmolzen werden.\n\nFügen Sie alle <b>METALLISCHEN MINERALIEN</b> zum Handel hinzu.
 CURRENT,tutorial_tradebuysmelter,2886,We will also need another <b>SMELTER</b> to begin processing those <b>METALLIC MINERALS</b>.\n\nFind the <b>SMELTER</b> under the <b>INDUSTRY</b> tab and add one to the order.,"Wir benötigen außerdem einen weiteren <b>SCHMELZOFEN</b>, um mit der Verarbeitung dieser <b>METALLISCHEN MINERALIEN</b> zu beginnen.\n\nSuchen Sie den <b>SCHMELZOFEN</b> auf der Registerkarte <b>INDUSTRIE</b> und fügen Sie einen zur Bestellung hinzu."
-CURRENT,tutorial_tradebuymore,2886,This is a good opportunity to stock up on some other resources that are critical for life support.\n\nWe'd recommend you purchase:\n\n - 2x <b>FUEL</b>\n - 2x <b>OXYGEN</b>\n - 2x <b>WATER</b>\n - 2x <b>FOOD</b>\n\n- <b>HIRE</b> 5 <b>MORE CREW</b>\n\nCONFIRM the order when you are done.,"Dies ist eine gute Gelegenheit, sich mit einigen anderen lebenserhaltenden Ressourcen einzudecken.\n\nWir empfehlen Ihnen den Kauf von:\n\n - 2x <b>KRAFTSTOFF</b>\n - 2x <b>SAUERSTOFF</b>\n - 2x <b>WASSER</b>\n - 2x <b>ESSEN</b>\n\n- <b>STELLEN</b> SIE 5 <b>WEITERE CREW MITGLIEDER EIN</b>\n\nBESTÄTIGEN Sie die Bestellung, wenn Sie fertig sind."
+CURRENT,tutorial_tradebuymore,2886,This is a good opportunity to stock up on some other resources that are critical for life support.\n\nWe'd recommend you purchase:\n\n - 2x <b>FUEL</b>\n - 2x <b>OXYGEN</b>\n - 2x <b>WATER</b>\n - 2x <b>FOOD</b>\n\n- <b>HIRE</b> 5 <b>MORE CREW</b>\n\nCONFIRM the order when you are done.,"Dies ist eine gute Gelegenheit, sich mit einigen anderen lebenserhaltenden Ressourcen einzudecken.\n\nWir empfehlen Ihnen den Kauf von:\n\n - 2x <b>KRAFTSTOFF</b>\n - 2x <b>SAUERSTOFF</b>\n - 2x <b>WASSER</b>\n - 2x <b>NAHRUNG</b>\n\n- <b>STELLEN</b> SIE 5 <b>WEITERE CREW MITGLIEDER EIN</b>\n\nBESTÄTIGEN Sie die Bestellung, wenn Sie fertig sind."
 CURRENT,tutorial_tradeinstallsmelter,2886,"Once those goods have arrived, you should install your second <b>SMELTER</b> somewhere near the first.","Sobald diese Waren eingetroffen sind, sollten Sie Ihren zweiten <b>Schmelzofen</b> irgendwo in der Nähe des ersten installieren."
 CURRENT,tutorial_tradesmeltmetallicminerals,2886,Set the <b>SMELTER</b> to process those <b>METALLIC MINERALS</b> you bought into more <b>METAL INGOTS</b>.,"Stellen Sie den <b>SCHMELZOFEN</b> ein, um die von Ihnen gekauften <b>METALLISCHEN MINERALEN</b> zu weiteren <b>METALLBARREN</b> zu verarbeiten."
 CURRENT,tutorial_productionsuccess,2886,"Well done, you are now all set to produce <b>STARGATE FRAMES</b>.","Gut gemacht, Sie sind jetzt bereit, <b>STERNENTOR-RAHMEN</b> zu produzieren."
@@ -707,8 +707,8 @@ CURRENT,tutorial_flightengines,2886,We can directly control our engine <b>THROTT
 CURRENT,tutorial_flightturning,2886,"We can also turn the ship by left clicking in <b>TACTICAL</b> mode, in the direction we wish to travel.","Wir können das Schiff auch durch einen Linksklick im <b>TAKTISCHEN</b> Modus in die Richtung drehen, in die wir fahren möchten."
 CURRENT,tutorial_flightsetcourse,2886,We can send our ship to a specific location by <b>RIGHT-CLICKING</b>. Try setting a destination by right clicking in the tactical view.,"Per <b>Rechtsklick</b> können wir unser Schiff an einen bestimmten Ort schicken. Versuchen Sie, ein Ziel festzulegen, indem Sie mit der rechten Maustaste in der taktische Ansicht klicken."
 CURRENT,tutorial_flightinformation,2886,"Your crew will continue to operate the ship and keep the engines running as you travel around. Try flying around the system until you have a handle on the controls.\n\nWhen you are ready, bring the ship to a stop by setting the <b>THROTTLE</b> to zero in <b>TACTICAL</b> mode.","Ihre Crew wird das Schiff weiterhin bedienen und die Motoren während Ihrer Reise am Laufen halten. Versuchen Sie, in dem System herumzufliegen, bis Sie die Steuerung beherschen.\n\nWenn Sie bereit sind, bringen Sie das Schiff zum Stillstand, indem Sie im <b>TACTICAL</b>-Modus den <b>SCHUB</b> auf Null stellen."
-CURRENT,tutorial_financemissionscreen,2886,"Now that our ship is up and running, we need to earn our way.  We can complete contracts for financial reward and reputation.\n\nOpen the <b>CONTRACTS</b> screen to see a list of available contracts.","Da unser Schiff nun in Betrieb ist, müssen wir uns unseren Lebensunterhalt verdienen. Wir können Verträge für finanzielle Belohnungen und Reputation abschließen.\n\nÖffnen Sie den Bildschirm „<b>VERTRÄGE</b>“, um eine Liste der verfügbaren Verträge anzuzeigen."
-CURRENT,tutorial_financeselectship,2886,"Contracts are assigned to the ship you currently have selected.\n\nOnly the <b>PROCYON</b> can travel between locations, so select the <b>PROCYON</b>.","Verträge werden dem Schiff zugewiesen, das Sie aktuell ausgewählt haben.\n\nNur die <b>PROCYON</b> kann zwischen Standorten reisen, wählen Sie also die <b>PROCYON</b> aus."
+CURRENT,tutorial_financemissionscreen,2886,"Now that our ship is up and running, we need to earn our way.  We can complete contracts for financial reward and reputation.\n\nOpen the <b>CONTRACTS</b> screen to see a list of available contracts.","Da unser Schiff nun in Betrieb ist, müssen wir uns unseren Lebensunterhalt verdienen. Wir können Aufträge für finanzielle Belohnungen und Reputation abschließen.\n\nÖffnen Sie den Bildschirm „<b>AUFTRÄGE</b>“, um eine Liste der verfügbaren Aufträge anzuzeigen."
+CURRENT,tutorial_financeselectship,2886,"Contracts are assigned to the ship you currently have selected.\n\nOnly the <b>PROCYON</b> can travel between locations, so select the <b>PROCYON</b>.","Aufträge werden dem Schiff zugewiesen, das Sie aktuell ausgewählt haben.\n\nNur die <b>PROCYON</b> kann zwischen Standorten reisen, wählen Sie also die <b>PROCYON</b> aus."
 CURRENT,tutorial_financeselecttransport,2886,"Here we have a <b>TRANSPORT PASSENGER</b> contract, click it to see more details.","Hier haben wir einen <b>PERSONENBEFÖRDERUNGS</b>-Vertrag. Klicken Sie darauf, um weitere Details anzuzeigen."
 CURRENT,tutorial_financeassigntransport,2886,This mission requires us to transport a group of people from here to another location in the sector.\n\nClick the accept button to assign this contract to the <b>PROCYON</b>.,"Für diese Mission müssen wir eine Gruppe von Menschen von hier an einen anderen Ort im Sektor transportieren.\n\nKlicken Sie auf die Schaltfläche „Akzeptieren“, um diesen Auftrag der <b>PROCYON</b> zuzuweisen."
 CURRENT,tutorial_financepassengersinbound,2886,The passengers will be delivered to the <b>PROCYON</b> by shuttle.,Die Passagiere werden per Shuttle zur <b>PROCYON</b> gebracht.
@@ -716,7 +716,7 @@ CURRENT,tutorial_financesetdestination,2886,"This is a map of all the systems in
 CURRENT,tutorial_financeclosesectormap,2886,"Close the <b>SECTOR MAP</b> by clicking the X in the top right corner, or by pressing <b>ESC</b>.","Schließen Sie die <b>SEKTORKARTE</b>, indem Sie auf das X in der oberen rechten Ecke klicken oder <b>ESC</b> drücken."
 CURRENT,tutorial_financepreparejump,2886,Click on <b>PREPARE JUMP</b> to align the ship and prepare for hyperspace.,"Klicken Sie auf <b>SPRUNG VORBEREITEN</b>, um das Schiff auszurichten und für den Hyperraum vorzubereiten."
 CURRENT,tutorial_financejump,2886,Click the <b>JUMP</b> button to jump to hyperspace.,"Klicken Sie auf die Schaltfläche <b>SPRINGEN</b>, um in den Hyperraum zu springen."
-CURRENT,tutorial_financeselectmission,2886,We now need to turn in our completed passenger contract.\n\nOpen the <b>CONTRACTS</b> screen and select the passenger mission.,Jetzt müssen wir unseren abgeschlossenen Passagiervertrag abgeben.\n\nÖffnen Sie den Bildschirm „<b>VERTRÄGE</b>“ und wählen Sie die Passagiermission aus.
+CURRENT,tutorial_financeselectmission,2886,We now need to turn in our completed passenger contract.\n\nOpen the <b>CONTRACTS</b> screen and select the passenger mission.,Jetzt müssen wir unseren abgeschlossenen Passagiervertrag abgeben.\n\nÖffnen Sie den Bildschirm „<b>AUFTRÄGE</b>“ und wählen Sie die Passagiermission aus.
 CURRENT,tutorial_financeturnin,2886,Click the <b>DELIVER</b> button to drop off the passengers and receive payment,"Klicken Sie auf die Schaltfläche <b>LIEFERUNG</b>, um die Passagiere abzusetzen und die Zahlung zu erhalten"
 CURRENT,tutorial_wrapup2,2886,"The career you choose is now up to you.  There are many opportunities to choose from, and you'll learn more as you work.\n\nOpen the <b>CONTRACTS</b> board.","Für welchen Beruf Sie sich entscheiden, liegt nun bei Ihnen. Es gibt viele Möglichkeiten zur Auswahl, und Sie werden im Laufe Ihrer Arbeit mehr erfahren.\n\nÖffnen Sie das <b>VERTRAGS</b>-Board."
 CURRENT,tutorial_resinstart,2886,We are now going to learn how to produce <b>STARGATE RESIN</b>.,"Wir werden jetzt lernen, wie man <b>STERNENTOR HARZ</b> herstellt."
@@ -828,7 +828,7 @@ CURRENT,shipeditor_palettelibrary_export,2793,EXPORT,EXPORTIEREN
 CURRENT,shipeditor_palettelibrary_upload,2793,UPLOAD,HOCHLADEN
 CURRENT,trade_autotradedisabled,2793,DISABLED IN ORDER MENU,IM BESTELLMENÜ DEAKTIVIERT
 CURRENT,order_autotradeactive,2793,Auto Trade,Autohandel
-CURRENT,object_table,2793,Table,Tabelle
+CURRENT,object_table,2793,Table,Tisch
 CURRENT,object_smalltable,2793,Small Table,Kleiner Tisch
 CURRENT,object_chair,2793,Chair,Stuhl
 CURRENT,object_sofa,2793,Sofa,Sofa
@@ -946,7 +946,7 @@ CURRENT,save_stargateresetwarning_body,2624,"Due to new phases or storylines sur
 CURRENT,techtree_node_caption_stargatepart3,2624,Unlocks Phases 4 and 5 of the Andromeda Project.,Schaltet die Phasen 4 und 5 des Andromeda-Projekts frei.
 CURRENT,mission_combat_location,2624,The hostile ships are located at system S*X.,Die feindlichen Schiffe befinden sich im System S*X.
 CURRENT,stargate_testfire_help,2624,"Captain, the Stargate is ready for its first test. If supplied with enough power it should provide us access to a nearby uncharted sector.","Kapitän, das Sternentor ist bereit für seinen ersten Test. Wenn es mit genügend Energie versorgt wird, sollte es uns Zugang zu einem nahegelegenen unerforschten Sektor verschaffen."
-CURRENT,tutorial_wrapup3,2624,"Many different types of contract are now available to you.\n\nHowever, you must stay alert, Captain. There are reports of even more lucrative opportunities that you'll have to find by yourself.","Viele verschiedene Arten von Verträgen stehen Ihnen jetzt zur Verfügung.\n\nDoch Sie müssen wachsam bleiben. Es gibt Berichte über noch lukrativere Möglichkeiten, die Sie selbst finden müssen."
+CURRENT,tutorial_wrapup3,2624,"Many different types of contract are now available to you.\n\nHowever, you must stay alert, Captain. There are reports of even more lucrative opportunities that you'll have to find by yourself.","Viele verschiedene Arten von Aufträgen stehen Ihnen jetzt zur Verfügung.\n\nDoch Sie müssen wachsam bleiben. Es gibt Berichte über noch lukrativere Möglichkeiten, die Sie selbst finden müssen."
 CURRENT,tutorial_miningsuccess,2624,"Well done, you have produced Tilium Cystals.","Gut gemacht, du hast Tilium Kristalle produziert."
 CURRENT,wolf_part1_sendingwreckage,2624,"They're sending the recovered wreckage to your ship The L*X now, Captain. It will arrive soon by Shuttle. You'll need to store it somewhere onboard.","Sie schicken die geborgenen Wrackteile gerade zu deinem Schiff, der L*X, Kapitän. Es wird bald mit dem Shuttle ankommen. Du musst es irgendwo an Bord lagern."
 CURRENT,wolf_part1_sendingshuttle,2624,"Standby while I dock my ship with yours, Captain, to collect the items you've recovered so far. Thank you for your efforts.","Halte dich bereit, während ich mein Schiff an deines andocke, Kapitän, um die Gegenstände einzusammeln, die du bis jetzt geborgen hast. Ich danke dir für deine Bemühungen."
@@ -1417,7 +1417,7 @@ CURRENT,alert_type_famished,2383,CREW FAMISHED,Crew ausgehungert
 CURRENT,alert_type_thirsty,2383,CREW THIRSTY,Crew durstig
 CURRENT,alert_type_dehydrated,2383,CREW DEHYDRATED,Crew dehydriert
 CURRENT,alert_type_severely_dehydrated,2383,CREW SEVERELY DEHYDRATED,Crew stark dehydriert
-CURRENT,alert_type_lowfood,2383,LOW FOOD,WENIG ESSEN
+CURRENT,alert_type_lowfood,2383,LOW FOOD,WENIG NAHRUNG
 CURRENT,alert_type_lowwater,2383,LOW WATER,WENIG WASSER
 CURRENT,rating_hostilesdestroyed,2383,HOSTILES DESTROYED,FEINDE ZERSTÖRT
 CURRENT,stargate_energy_required,2383,REQUIRED: *X MW,ERFORDERLICH: *X MW
@@ -1433,7 +1433,7 @@ CURRENT,opentextcrawlindustry_5,2383,The CEO of one such company - the INTERSTEL
 CURRENT,opentextcrawlindustry_6,2383,Trillions of dollars in funding have been set aside.,Es wurden mehrere Billionen Dollar an Fördermitteln bereitgestellt.
 CURRENT,opentextcrawlindustry_7,2383,The time is perfect for a small entrepreneurial and industrious team of miners to start a new career - and make their fortune in the stars.,"Die Zeit ist perfekt für ein kleines unternehmerisches und fleißiges Team von Bergleuten, eine neue Karriere zu beginnen – und ihr Vermögen in den Sternen zu machen."
 CURRENT,tutorial_introduction_title,2383,TUTORIAL,TUTORIAL
-CURRENT,tutorial_next,2383,NEXT,NÄCHSTE
+CURRENT,tutorial_next,2383,NEXT,WEITER
 CURRENT,tutorial_introduction1,2383,Welcome to our new home.,Willkommen in unserem neuen Zuhause.
 CURRENT,tutorial_camera_title,2383,CAMERA CONTROLS,KAMERASTEUERUNGEN
 CURRENT,tutorial_power_title,2383,INSTALLING POWER,STROM INSTALLIEREN
@@ -1455,7 +1455,7 @@ CURRENT,tutorial_trade_title,2383,TRADE,HANDEL
 CURRENT,tutorial_fleetcrewarrival,2383,Your new crew will arrive by shuttle.,Ihre neue Crew wird per Shuttle anreisen.
 CURRENT,tutorial_fleetwaitforpowerup,2383,Your crew will now power up the ship and bring the engines and life support online.,Ihre Crew wird nun das Schiff einschalten und Motoren und Lebenserhaltungssysteme online schalten.
 CURRENT,tutorial_flight_title,2383,FLIGHT,FLUG
-CURRENT,tutorial_finance_title,2383,CONTRACTS,VERTRÄGE
+CURRENT,tutorial_finance_title,2383,CONTRACTS,AUFTRÄGE
 CURRENT,tutorial_financehyperspace,2383,We are in hyperspace!,Wir sind im Hyperraum!
 CURRENT,tutorial_financearrived,2383,We have arrived at the destination system.,Wir sind im Zielsystem angekommen.
 CURRENT,tutorial_financeturningin,2383,A shuttle will be dispatched to collect the passengers.,Zur Abholung der Passagiere wird ein Shuttle entsandt.
@@ -1873,7 +1873,7 @@ CURRENT,tiddlets_part3_objective_batteryfarm,2383,Battery farm 500 Tiddlets,Züc
 CURRENT,tiddlets_part3_brokenhopdrive1,2383,"It looks like that last jump fried the hop drive.  Not great, given what we paid for it.","Es sieht so aus, als hätte der letzte Sprung den FTL-Antrieb zerstört. Bedauerlich, wenn man bedenkt, was wir dafür bezahlt haben."
 CURRENT,tiddlets_part3_brokenhopdrive2,2383,"No matter.  I'm certain my engineers can repair it.  In any case, I want the hop drive to be installed on the farm ship directly.","Egal. Ich bin sicher, dass meine Ingenieure ihn reparieren können. Ich möchte auf jeden Fall, dass der FTL-Antrieb direkt auf dem Farmschiff installiert wird."
 CURRENT,tiddlets_part3_objective_broken1,2383,Dismantle the Hop Drive,Demontieren Sie den FTL-Antrieb
-CURRENT,tiddlets_part3_objective_broken2,2383,Deliver the Hop Drive,Liefern Sie den FTL-Drive
+CURRENT,tiddlets_part3_objective_broken2,2383,Deliver the Hop Drive,Liefern Sie den FTL-Antrieb
 CURRENT,tiddlets_part3_objective_broken3,2383,Receive FTL Drive,Empfangen Sie den FTL-Antrieb
 CURRENT,tiddlets_part3_objective_broken4,2383,Install the FTL Drive,Installieren Sie den FTL-Antrieb
 CURRENT,tiddlets_part3_deliverdrive,2383,Deliver Drive,Antrieb liefern
@@ -2355,7 +2355,7 @@ CURRENT,hud_window_construction,2383,CONSTRUCTION,KONSTRUKTION
 CURRENT,hud_window_designation,2383,DESIGNATION,BESTIMMUNG
 CURRENT,hud_window_shipyard,2383,SHIPYARD,WERFT
 CURRENT,hud_window_trade,2383,TRADE,HANDEL
-CURRENT,hud_window_missions,2383,CONTRACTS,VERTRÄGE
+CURRENT,hud_window_missions,2383,CONTRACTS,AUFTRÄGE
 CURRENT,hud_window_power,2383,POWERGRID,ENERGIEVERSORGUNGSNETZ
 CURRENT,hud_window_logistics,2383,LOGISTICS,LOGISTIK
 CURRENT,hud_window_ftl,2383,FTL,FTL
@@ -2475,7 +2475,7 @@ CURRENT,galaxymap_shipyard,2383,SHIPYARD,WERFT
 CURRENT,galaxymap_distresscall,2383,DISTRESS CALL,NOTRUF
 CURRENT,galaxymap_derelict,2383,DERELICT,WRACK
 CURRENT,galaxymap_hostile,2383,HOSTILES,GEGNER
-CURRENT,galaxymap_objectives,2383,SECTOR CONTRACTS,SEKTORENVERTRÄGE
+CURRENT,galaxymap_objectives,2383,SECTOR CONTRACTS,SEKTORENAUFTRÄGE
 CURRENT,galaxymap_comet,2383,COMET,KOMET
 CURRENT,sector_start,2383,HOME SECTOR,HEIMATSEKTOR
 CURRENT,galaxymap_endof,2383,END OF,ENDE DER
@@ -2547,7 +2547,7 @@ CURRENT,tactical_evasion,2383,EVASION,AUSWEICHEN
 CURRENT,tactical_weapons,2383,WEAPONS,WAFFEN
 CURRENT,tactical_fire,2383,FIRE,FEUERN
 CURRENT,tactical_hold,2383,HOLD,HALTEN
-CURRENT,tactical_maneuvering,2383,MANEUVERING,MANÖVRIERT
+CURRENT,tactical_maneuvering,2383,MANEUVERING,MANÖVRIEREN
 CURRENT,tactical_damaged,2383,DAMAGED,BESCHÄDIGT
 CURRENT,tactical_reloading,2383,RELOADING,LÄDT NACH
 CURRENT,tactical_lowpower,2383,LOW POWER,ENERGIE GEHT ZUR NEIGE
@@ -2563,7 +2563,7 @@ CURRENT,order_exteriorwork,2383,Exterior Work,Arbeiten im Außenbereich
 CURRENT,order_weaponsactive,2383,Weapons Free,Feuer frei
 CURRENT,order_fleetlogistics,2383,Fleet Logistics,Flottenlogistik
 CURRENT,order_battlestations,2383,Battle Stations,Kampfstationen
-CURRENT,missions_title,2383,CONTRACTS,VERTRÄGE
+CURRENT,missions_title,2383,CONTRACTS,AUFTRÄGE
 CURRENT,mission_accept,2383,Accept,Annehmen
 CURRENT,mission_accepted,2383,Accepted,Angenommen
 CURRENT,mission_acceptonlayer,2383,Accept and assign to *X,Annehmen und zuweisen: *X
@@ -2576,7 +2576,7 @@ CURRENT,mission_completed,2383,COMPLETED,ABGESCHLOSSEN
 CURRENT,mission_missioncompleted,2383,CONTRACT COMPLETED,VERTRAG ABGESCHLOSSEN
 CURRENT,mission_paymenttitle,2383,Payment,Bezahlung
 CURRENT,mission_paymentcash,2383,PAYMENT *X,HONORAR: *X
-CURRENT,mission_payment,2383,Payment will be $*X.,Das wird $*X kosten.
+CURRENT,mission_payment,2383,Payment will be $*X.,Die Vergütung beträgt $*X.
 CURRENT,mission_paymentinflation,2383,(The client is offering *Xx more money than usual),(Der Auftraggeber bietet das *Xfache des üblichen Betrags.)
 CURRENT,mission_paymentinflationpercent,2383,(The client is offering *X% more money than usual),(Der Auftraggeber bietet *X % mehr als sonst.)
 CURRENT,mission_contractcompleted,2383,Contract Completed,Vertrag abgeschlossen
@@ -3009,7 +3009,7 @@ CURRENT,mission_tiddlets_notenough,2383,But we trusted you to look after their s
 CURRENT,mission_tiddlets_failure,2383,What the hell happened? We trusted you with those Tiddlets and you let us down!,Was zum Teufel ist passiert? Wir haben dir die Tiddlets anvertraut und du hast uns zutiefst enttäuscht!
 CURRENT,mission_tiddlets_suppliername,2383,Tiddlet Breeder,Tiddlet-Züchter
 CURRENT,mission_tiddlets_invite1,2383,Greetings! We are looking for a pilot who can help us with an important animal welfare matter.,"Sei gegrüßt! Wir suchen einen Piloten, der uns bei einer wichtigen Tierschutzangelegenheit helfen kann."
-CURRENT,mission_tiddlets_invite2,2383,If you'd like to help (and earn a lot of credits) please find our job in the CONTRACTS list.,"Wenn du helfen und eine Menge Credits verdienen möchtest, findest du unseren Job in der Liste der VERTRÄGE."
+CURRENT,mission_tiddlets_invite2,2383,If you'd like to help (and earn a lot of credits) please find our job in the CONTRACTS list.,"Wenn du helfen und eine Menge Credits verdienen möchtest, findest du unseren Job in der Liste der AUFTRÄGE."
 CURRENT,mission_tiddlets_success,2383,Delivered *X Tiddlets,*X Tiddlets geliefert.
 CURRENT,mission_tiddletssale_title,2383,WANTED: Tiddlets,GESUCHT: Tiddlets
 CURRENT,mission_type_episodetiddletssale,2383,WANTED: Tiddlets,GESUCHT: Tiddlets
