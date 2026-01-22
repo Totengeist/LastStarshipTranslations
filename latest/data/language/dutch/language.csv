@@ -1,64 +1,50 @@
 ﻿state,key,svn,english,translation
-NEW,settings_motionsicknessmode,3400,Motion Sickness Mode,Modus bewegingsziekte
-NEW,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.","Achtergrondrotatie is verwijderd, wat zou moeten helpen als je last hebt van bewegingsziekte in het spel."
-NEW,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition",Sla de overgang over bij het wisselen tussen schepen
-NEW,newmainmenu_tests,3400,TESTS,TESTS
-NEW,newmainmenu_instantshipswitch,3400,Switch instantly between ships,Schakel onmiddellijk tussen schepen
-NEW,newmainmenu_vsync,3400,V-Sync,V-Sync
-NEW,hud_layer_neutralexpand,3400,*X NEUTRAL SHIPS,*X NEUTRALE SCHEPEN
-NEW,hud_layer_neutralexpandtooltip,3400,Show neutral ships,Toon neutrale schepen
-NEW,power_unit,3400,*X MW,*X MW
-NEW,tactical_focuslayer,3400,FOCUS LAYER,FOCUSLAAG
-NEW,tactical_tooltip_focuslayer,3400,"When enabled, the camera's rotation and position track the currently selected layer.","Indien ingeschakeld, volgen de rotatie en positie van de camera de huidig geselecteerde laag."
-NEW,logistics_condition_untilstorage,3400,Quantity on board,Hoeveelheid aan boord
-NEW,logistics_quantity_all,3400,ALL,ALLE
-NEW,logistics_quantity_full,3400,FULL,VOLLEDIG
-NEW,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,EEN WILLEKEURIGE OPSLAGRUIMTE VOOR VRACHT GEBRUIKEN
-NEW,logistics_stuck_layernotours,3400,Ship L*X is not friendly,Schip L*X is niet vriendelijk
-NEW,logistics_tooltip_controlall,3400,[CTRL] ALL,[ALLES
-NEW,logistics_tooltip_controlfull,3400,[CTRL] FULL,[VOLLEDIG
-NEW,logistics_tooltip_noitemrequired,3400,This order does not require an item,Deze bestelling vereist geen item
-NEW,logistics_tooltip_extrastoggleshow,3400,Show extra options for this order,Toon extra opties voor deze bestelling
-NEW,logistics_tooltip_extrastogglehide,3400,Hide extra options for this order,Verberg extra opties voor deze bestelling
-NEW,logistics_tooltip_extrastogglenone,3400,No extra options available,Geen extra opties beschikbaar
-NEW,alert_type_failedtofindsuit,3400,SPACESUITS REQUIRED,RUIMTEPAKKEN VEREIST
-NEW,alert_type_failedtofindsuit_caption,3400,*X crew members need spacesuits.,*X bemanningsleden hebben ruimtepakken nodig.
-NEW,objective_travel_to_location,3400,Travel to S*X,Reis naar S*X
-UPDATED,logistics_status_transfernosupply,3400,out of the *X desired (not enough available),uit de *X gewenst (niet genoeg beschikbaar)
-PREVIOUS,logistics_status_transfernosupply,3329,out of the *X ordered (not enough available),van de *X besteld (niet genoeg beschikbaar)
-UPDATED,logistics_status_buynomoney,3400,out of the *X desired (not enough money),uit de *X gewenst (niet genoeg geld)
-PREVIOUS,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),uit de *X besteld (niet genoeg geld)
-UPDATED,logistics_status_buynosupply,3400,out of the *X desired (not enough available),uit de *X gewenst (niet genoeg beschikbaar)
-PREVIOUS,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),van de *X besteld (niet genoeg beschikbaar)
-UPDATED,logistics_status_sellnosupply,3400,out of the *X desired (not enough available),uit de *X gewenst (niet genoeg beschikbaar)
-PREVIOUS,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),van de *X besteld (niet genoeg beschikbaar)
-UPDATED,logistics_log_transferstoragefull1,3400,out of the *X desired (destination storage full),uit de *X gewenst (bestemmingsopslag vol)
-PREVIOUS,logistics_log_transferstoragefull1,3329,out of the *X ordered (destination storage full),uit de *X besteld (bestemmingsopslag vol)
-UPDATED,logistics_item_none,3400,SELECT ITEM,SELECTEER ITEM
-PREVIOUS,logistics_item_none,3239,Select Item,Item Kiezen
-UPDATED,powergrid_demand,3400,DEMAND: *X MW,VRAAG: *X MW
-PREVIOUS,powergrid_demand,2593,DEMAND *X Mw,VRAAG *X Mw
-UPDATED,powergrid_output,3400,OUTPUT: *X MW,UITGANG: *X MW
-PREVIOUS,powergrid_output,2593,OUTPUT *X Mw,UITGANG *X Mw
-UPDATED,powergrid_stored,3400,STORED: *X MJ,OPGESLAGEN: *X MJ
-PREVIOUS,powergrid_stored,2593,STORED *X Mw,Opgeslagen *X Mw
-UPDATED,object_battery_description,3400,"Stores any excess power available in the powergrid, up to 1000MJ. The battery will supply power whenever there is a shortage.","Slaat overtollige stroom op die beschikbaar is in het elektriciteitsnet, tot 1000MJ. De batterij levert stroom als er een tekort is."
-PREVIOUS,object_battery_description,2593,"Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage.","Slaat overtollige stroom op die beschikbaar is in het elektriciteitsnet, tot 1000Mw. De batterij levert stroom wanneer er een tekort is."
-UPDATED,object_reactor_description,3400,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\n\nGenerates a maximum power output of 100MW.,Verbrandt hoogenergetische Brandstof om energie te produceren. Moet worden voorzien van Brandstof (via een pijp). Gebruik vervolgens kabels om verbinding te maken met andere aangedreven apparatuur.\n\nGenereert een maximaal vermogen van 100MW.
-PREVIOUS,object_reactor_description,2593,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW.,Verbrandt hoogenergetische brandstof om energie te produceren. Moet worden voorzien van brandstof (via een pijp). Gebruik vervolgens kabels om verbinding te maken met andere aangedreven apparatuur.\nProduceert een maximaal vermogen van 100MW.
-UPDATED,wolf_part1_objective_drones,3400,Install a Drone Bay and have at least one Logistics Drone,Installeer een Drone baai en heb minstens één Logistieke drone
-PREVIOUS,wolf_part1_objective_drones,2593,Install a Drone Bay and at least one Logistics Drone,Installeer een Drone Bay en minstens één Logistieke Drone
-UPDATED,tutorial_stargatewindowhighlightframes2,3400,The button underneath each component can be clicked to quickly sell all your stock and submit it to the Andromeda Project.\n\nThey can also be sold from the trade screen.,Je kunt op de knop onder elk onderdeel klikken om snel al je voorraad te verkopen en in te sturen naar het Andromeda Project.\n\nZe kunnen ook worden verkocht vanuit het handelsscherm.
-PREVIOUS,tutorial_stargatewindowhighlightframes2,2593,Sell your frames at a trading post to submit them to the Andromeda Project.,Verkoop je frames bij een handelspost om ze in te leveren voor het Andromeda Project.
-UPDATED,dsi_part2_thirdpartcomplete2,3400,"I'm going to take a short break from the project, I trust you'll be able to do the next couple of stages on your own.","Ik neem even een korte pauze van het project, ik vertrouw erop dat je de volgende fasen alleen kunt doen."
-PREVIOUS,dsi_part2_thirdpartcomplete2,2593,Let's take another break and I'll contact you when the Andromeda Project releases the manifest for their next phase.,Laten we nog een pauze inlassen en ik neem contact met je op als het Andromeda Project het manifest voor hun volgende fase vrijgeeft.
+CURRENT,settings_motionsicknessmode,3400,Motion Sickness Mode,Modus bewegingsziekte
+CURRENT,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.","Achtergrondrotatie is verwijderd, wat zou moeten helpen als je last hebt van bewegingsziekte in het spel."
+CURRENT,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition",Sla de overgang over bij het wisselen tussen schepen
+CURRENT,newmainmenu_tests,3400,TESTS,TESTS
+CURRENT,newmainmenu_instantshipswitch,3400,Switch instantly between ships,Schakel onmiddellijk tussen schepen
+CURRENT,newmainmenu_vsync,3400,V-Sync,V-Sync
+CURRENT,hud_layer_neutralexpand,3400,*X NEUTRAL SHIPS,*X NEUTRALE SCHEPEN
+CURRENT,hud_layer_neutralexpandtooltip,3400,Show neutral ships,Toon neutrale schepen
+CURRENT,power_unit,3400,*X MW,*X MW
+CURRENT,tactical_focuslayer,3400,FOCUS LAYER,FOCUSLAAG
+CURRENT,tactical_tooltip_focuslayer,3400,"When enabled, the camera's rotation and position track the currently selected layer.","Indien ingeschakeld, volgen de rotatie en positie van de camera de huidig geselecteerde laag."
+CURRENT,logistics_condition_untilstorage,3400,Quantity on board,Hoeveelheid aan boord
+CURRENT,logistics_quantity_all,3400,ALL,ALLE
+CURRENT,logistics_quantity_full,3400,FULL,VOLLEDIG
+CURRENT,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,EEN WILLEKEURIGE OPSLAGRUIMTE VOOR VRACHT GEBRUIKEN
+CURRENT,logistics_stuck_layernotours,3400,Ship L*X is not friendly,Schip L*X is niet vriendelijk
+CURRENT,logistics_tooltip_controlall,3400,[CTRL] ALL,[ALLES
+CURRENT,logistics_tooltip_controlfull,3400,[CTRL] FULL,[VOLLEDIG
+CURRENT,logistics_tooltip_noitemrequired,3400,This order does not require an item,Deze bestelling vereist geen item
+CURRENT,logistics_tooltip_extrastoggleshow,3400,Show extra options for this order,Toon extra opties voor deze bestelling
+CURRENT,logistics_tooltip_extrastogglehide,3400,Hide extra options for this order,Verberg extra opties voor deze bestelling
+CURRENT,logistics_tooltip_extrastogglenone,3400,No extra options available,Geen extra opties beschikbaar
+CURRENT,alert_type_failedtofindsuit,3400,SPACESUITS REQUIRED,RUIMTEPAKKEN VEREIST
+CURRENT,alert_type_failedtofindsuit_caption,3400,*X crew members need spacesuits.,*X bemanningsleden hebben ruimtepakken nodig.
+CURRENT,objective_travel_to_location,3400,Travel to S*X,Reis naar S*X
+CURRENT,logistics_status_transfernosupply,3400,out of the *X desired (not enough available),uit de *X gewenst (niet genoeg beschikbaar)
+CURRENT,logistics_status_buynomoney,3400,out of the *X desired (not enough money),uit de *X gewenst (niet genoeg geld)
+CURRENT,logistics_status_buynosupply,3400,out of the *X desired (not enough available),uit de *X gewenst (niet genoeg beschikbaar)
+CURRENT,logistics_status_sellnosupply,3400,out of the *X desired (not enough available),uit de *X gewenst (niet genoeg beschikbaar)
+CURRENT,logistics_log_transferstoragefull1,3400,out of the *X desired (destination storage full),uit de *X gewenst (bestemmingsopslag vol)
+CURRENT,logistics_item_none,3400,SELECT ITEM,SELECTEER ITEM
+CURRENT,powergrid_demand,3400,DEMAND: *X MW,VRAAG: *X MW
+CURRENT,powergrid_output,3400,OUTPUT: *X MW,UITGANG: *X MW
+CURRENT,powergrid_stored,3400,STORED: *X MJ,OPGESLAGEN: *X MJ
+CURRENT,object_battery_description,3400,"Stores any excess power available in the powergrid, up to 1000MJ. The battery will supply power whenever there is a shortage.","Slaat overtollige stroom op die beschikbaar is in het elektriciteitsnet, tot 1000MJ. De batterij levert stroom als er een tekort is."
+CURRENT,object_reactor_description,3400,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\n\nGenerates a maximum power output of 100MW.,Verbrandt hoogenergetische Brandstof om energie te produceren. Moet worden voorzien van Brandstof (via een pijp). Gebruik vervolgens kabels om verbinding te maken met andere aangedreven apparatuur.\n\nGenereert een maximaal vermogen van 100MW.
+CURRENT,wolf_part1_objective_drones,3400,Install a Drone Bay and have at least one Logistics Drone,Installeer een Drone baai en heb minstens één Logistieke drone
+CURRENT,tutorial_stargatewindowhighlightframes2,3400,The button underneath each component can be clicked to quickly sell all your stock and submit it to the Andromeda Project.\n\nThey can also be sold from the trade screen.,U kunt op de knop onder elk onderdeel klikken om snel al je voorraad te verkopen en in te sturen naar het Andromeda Project.\n\nZe kunnen ook worden verkocht vanuit het handelsscherm.
+CURRENT,dsi_part2_thirdpartcomplete2,3400,"I'm going to take a short break from the project, I trust you'll be able to do the next couple of stages on your own.","Ik neem even een korte pauze van het project, ik vertrouw erop dat je de volgende fasen alleen kunt doen."
 CURRENT,logistics_log_skipped,3339,Skipped order,Overgeslagen bestelling
 CURRENT,hud_ftlshipcontrolledbylogistics,3331,Ship is controlled by interstellar logistics,Schip wordt bestuurd door interstellaire logistiek
 CURRENT,newmainmenu_invalidsavename,3329,Invalid Save Name,Ongeldige naam opslaan
 CURRENT,newmainmenu_invalidcharacters_caption,3329,Save name contains invalid characters.,Opgeslagen naam bevat ongeldige tekens.
 CURRENT,newmainmenu_autosavenameinvalid_caption,3329,Save name reserved for autosaves.,Naam gereserveerd voor automatisch opslaan.
 CURRENT,galaxymap_darkmode,3329,Dark Mode,Donkere modus
-CURRENT,galaxymap_lightmode,3329,Light Mode,Lichtmodus
+CURRENT,galaxymap_lightmode,3329,Light Mode,Licht modus
 CURRENT,techtree_queue,3329,Queue Research,Onderzoek naar wachtrijen
 CURRENT,logistics_showlog,3329,SHOW LOG,LOG WEERGEVEN
 CURRENT,logistics_hidelog,3329,HIDE LOG,LOG VERBERGEN
@@ -93,17 +79,17 @@ CURRENT,thefinalstand_battleoutro_ship1,3329,DANGER: POWER SYSTEMS DETERIORATING
 CURRENT,thefinalstand_battleoutro_harken3,3329,"It's over, Captain. The Andromeda HQ will be placed under the jurisdiction of the Intergalactic Security Council while I make the necessary arrests. The access codes for the Stargate are back under our control.","Het is voorbij, kapitein. Het Andromeda-hoofdkwartier valt onder de jurisdictie van de Intergalactische Veiligheidsraad terwijl ik de nodige arrestaties verricht. De toegangscodes voor de Sterrenpoort zijn weer onder onze controle."
 CURRENT,tutorial_ftladdftldrive,3329,Add one <b>FTL drive</b> to our order by clicking on the entry in the list.,Voeg een <b>FTL-aandrijving</b> toe aan onze bestelling door op het item in de lijst te klikken.
 CURRENT,tutorial_ftladdftlfuel,3329,<b>FTL drives</b> consume one fuel charge per jump.\n\nAdd 5 <b>FTL charges</b> to the order as well.,<b>FTL-aandrijvingen</b> verbruiken één brandstoflading per sprong.\n\nVoeg ook 5 <b>FTL-lasten</b> toe aan de bestelling.
-CURRENT,tutorial_ftlinstallftl,3329,Install the <b>FTL drive</b> anywhere in your ship.,Installeer de <b>FTL-aandrijving</b> overal in je schip.
-CURRENT,tutorial_ftlpowerftl,3329,Connect the <b>FTL drive</b> to your power network.,Sluit de <b>FTL-aandrijving</b> aan op je elektriciteitsnetwerk.
-CURRENT,tutorial_ftlstoragetoolbar,3329,"We can make things more efficient for our crew by telling them to store <b>FTL charges</b> near the <b>FTL drive</b>.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>FTL charges</b> from the list.",We kunnen de zaken efficiënter maken voor onze Bemanning door ze te vertellen <b>FTL-laden</b> op te slaan in de buurt van de <b>FTL-aandrijving</b>.\n\nSelecteer <b>STORAGE</b> op de <b>CONSTRUCTION</b> werkbalk en selecteer dan <b>FTL-laden</b> uit de lijst.
+CURRENT,tutorial_ftlinstallftl,3329,Install the <b>FTL drive</b> anywhere in your ship.,Installeer de <b>FTL aandrijving</b> overal in Uw schip.
+CURRENT,tutorial_ftlpowerftl,3329,Connect the <b>FTL drive</b> to your power network.,Sluit de <b>FTL aandrijving</b> aan op Uw elektriciteitsnetwerk.
+CURRENT,tutorial_ftlstoragetoolbar,3329,"We can make things more efficient for our crew by telling them to store <b>FTL charges</b> near the <b>FTL drive</b>.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>FTL charges</b> from the list.",We kunnen de zaken efficiënter maken voor onze Bemanning door ze te vertellen <b>FTL-laden</b> op te slaan in de buurt van de <b>FTL aandrijving</b>.\n\nSelecteer <b>OPSLAG</b> op de <b>CONSTRUCTIE</b> werkbalk en selecteer dan <b>FTL lading</b> uit de lijst.
 CURRENT,tutorial_ftlstorageworld,3329,Now drag out a storage zone near to the <b>FTL drive</b>.,Sleep nu een opslagzone naar de <b>FTL-aandrijving</b>.
-CURRENT,tutorial_ftlstoragedone,3329,The crew will move all the <b>FTL charges</b> into this zone.,De Bemanning zal alle <b>FTL opladen</b> naar deze zone verplaatsen.
-CURRENT,tutorial_financesectormap,3329,"All passengers have been delivered to the <b>PROCYON</b>, and our <b>FTL drive</b> is operational. We must now plot an <b>FTL jump</b> to their destination.\n\nOpen the <b>SECTOR MAP</b>.",Alle passagiers zijn naar de <b>PROCYON</b> gebracht en onze <b>FTL-aandrijving</b> is operationeel. We moeten nu een <b>FTL sprong</b> naar hun bestemming plannen.\n\nOpen de <b>SECTOR KAART</b>.
+CURRENT,tutorial_ftlstoragedone,3329,The crew will move all the <b>FTL charges</b> into this zone.,De Bemanning zal alle <b>FTL lading</b> naar deze zone verplaatsen.
+CURRENT,tutorial_financesectormap,3329,"All passengers have been delivered to the <b>PROCYON</b>, and our <b>FTL drive</b> is operational. We must now plot an <b>FTL jump</b> to their destination.\n\nOpen the <b>SECTOR MAP</b>.",Alle passagiers zijn naar de <b>PROCYON</b> gebracht en onze <b>FTL aandrijving</b> is operationeel. We moeten nu een <b>FTL sprong</b> naar hun bestemming plannen.\n\nOpen de <b>SECTOR KAART</b>.
 CURRENT,tutorial_financeftlwindow,3329,Open the <b>FTL screen</b> to order the <b>FTL jump</b>.,Open het <b>FTL scherm</b> om de <b>FTL sprong</b> te bestellen.
-CURRENT,tutorial_financepreparingjump,3329,"The <b>PROCYON</b> will align for hyperspace, and prepare the <b>FTL drive</b> to make the jump.",De <b>PROCYON</b> stelt zich op voor de hyperruimte en maakt de <b>FTL-aandrijving</b> klaar om de sprong te maken.
+CURRENT,tutorial_financepreparingjump,3329,"The <b>PROCYON</b> will align for hyperspace, and prepare the <b>FTL drive</b> to make the jump.",De <b>PROCYON</b> stelt zich op voor de hyperruimte en maakt de <b>FTL aandrijving</b> klaar om de sprong te maken.
 CURRENT,tutorial_logisticscrewselectship,3329,Select the <b>UMC Astral Temptress</b>. \n\n As you can see it has no crew.,Selecteer de <b>UMC Astral Temptress</b>. \n\n Zoals je kunt zien heeft ze geen bemanning.
 CURRENT,dsi_x_canceldeal2,3329,"You will lose access to all the ships I've provided, are you sure you want to do this?","Je verliest de toegang tot alle schepen die ik heb geleverd, weet je zeker dat je dit wilt doen?"
-CURRENT,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,"Elk onderdeel dat je moet maken staat aan de rechterkant.\nAls je met de muis op het pictogram van een onderdeel gaat staan, zie je hoe je het moet maken."
+CURRENT,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,"Elk onderdeel dat u moet maken staat aan de rechterkant.\nAls u met uw muis op het pictogram van een onderdeel gaat staan, ziet u hoe u het onderdeel moet maken."
 CURRENT,logistics_tooltip_skiporder,3248,Skip currently executing order,Huidige order overslaan
 CURRENT,logistics_tooltip_loop,3248,Loop execution,Lusuitvoering
 CURRENT,thefinalstand_artemis1,3248,Hello again Captain!,Nogmaals hallo kapitein!
@@ -145,10 +131,10 @@ CURRENT,techtree_node_caption_atmosphericprocessing2,3239,Unlocks more schematic
 CURRENT,techtree_node_title_wasteprocessing,3239,Waste Processing,Afvalverwerking
 CURRENT,techtree_node_caption_wasteprocessing,3239,Unlocks schematics for hardware to capture and reprocess human waste,Ontgrendelt schema's voor hardware om menselijk afval op te vangen en te verwerken
 CURRENT,special_advancedlogistics,3239,Interstellar Logistics,Interstellaire logistiek
-CURRENT,tactical_dockingassistant,3239,DOCKING ASSIST,DOKHULP
+CURRENT,tactical_dockingassistant,3239,DOCKING ASSIST,AANLEG ASSISTENTIE
 CURRENT,tactical_fleetformation,3239,FLEET FORMATION,VLOOTFORMATIE
 CURRENT,tactical_fleetcombat,3239,FLEET COMBAT AI,VLOOTGEVECHT AI
-CURRENT,tactical_on,3239,ON,OP
+CURRENT,tactical_on,3239,ON,AAN
 CURRENT,tactical_off,3239,OFF,UIT
 CURRENT,tactical_tooltip_dockingassistant,3239,"When enabled, the Docking Assistant will perform the final maneuovers required to dock your ship with another, once you are close enough.\n\nIt is recommended you disable Fleet Formation when attempting to dock.","Als dit is ingeschakeld, zal de Docking Assistant de laatste manoeuvres uitvoeren die nodig zijn om je schip aan een ander schip te koppelen, zodra je dicht genoeg in de buurt bent.\n\nHet wordt aanbevolen om Vlootvorming uit te schakelen als je probeert te koppelen."
 CURRENT,tactical_tooltip_fleetformation,3239,"When enabled, all of the fleet ships within a system will fly together in close formation, following the lead of whichever ship you are directly controlling.","Als dit is ingeschakeld, vliegen alle vlootschepen binnen een systeem samen in een hechte formatie, waarbij ze de leiding volgen van het schip dat je rechtstreeks bestuurt."
@@ -281,7 +267,7 @@ CURRENT,thefinalstand_battleoutro_harken2,3239,"The Andromeda Navy in this secto
 CURRENT,thefinalstand_battleoutro_harken4,3239,The current leadership of the Andromeda Project will be dismantled and the new galaxy will be freed from their control.,De huidige leiding van het Andromeda Project zal worden ontmanteld en het nieuwe sterrenstelsel zal worden bevrijd van hun controle.
 CURRENT,thefinalstand_battleoutro_harken5,3239,"You've proven that you can be trusted with control of the Stargate, so I'll leave it in your hands.","Je hebt bewezen dat de controle over de Sterrenpoort aan jou toevertrouwd kan worden, dus laat ik hem aan jou over."
 CURRENT,thefinalstand_battleoutro_harken6,3239,"Goodbye Captain, and good luck with your new place in the galaxy.",Vaarwel kapitein en veel geluk met je nieuwe plek in het heelal.
-CURRENT,hud_consumingperhour,3239,Consuming *X per day,*X per dag consumeren
+CURRENT,hud_consumingperhour,3239,Consuming *X per day,Consumptie *X per dag
 CURRENT,survey_captionmultiple,3239,*X ships surveying,*X scheepsmetingen
 CURRENT,tutorial_radiationinstallinfuser,3239,Laser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area and power it.,Laser infusers worden gebruikt om lege kristallen op te laden met zeleon gas en zenden straling uit naar de omgeving terwijl ze van stroom worden voorzien.\n\nInstalleer de laser infuser in een vrije ruimte en zet hem aan.
 CURRENT,tutorial_radiationsetupinfuser,3239,Let's set the laser infuser to use them to produce charged crystals.,Laten we de Laser instellen om ze te gebruiken om Opgeladen kristallen te produceren.
@@ -299,15 +285,15 @@ CURRENT,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[
 CURRENT,hud_tooltip_currentflooring,3149,Current style: *X,Huidige stijl: *X
 CURRENT,hud_tooltip_gratedflooring,3149,Grated,Geraspte
 CURRENT,hud_tooltip_normalflooring,3149,Normal,Normaal
-CURRENT,hud_hull_integrity,3149,HULL,HULL
+CURRENT,hud_hull_integrity,3149,HULL,Romp
 CURRENT,hud_power_battery,3149,BATTERY,BATTERIJ
 CURRENT,hud_power_powershortage,3149,POWER SHORTAGE,STROOMTEKORT
-CURRENT,hud_idlecrew,3149,Idle Crew,Inactieve Bemanning
+CURRENT,hud_idlecrew,3149,Idle Crew,Vrij Bemanning
 CURRENT,hud_dehydrationperperson,3149,Dehydration *X per person,Uitdroging *X per persoon
 CURRENT,hud_hungerperperson,3149,Hunger *X per person,Honger *X per persoon
 CURRENT,hud_byauthor,3149,BY *X,DOOR *X
 CURRENT,communicator_newobjective,3149,NEW OBJECTIVE,NIEUWE DOELSTELLING
-CURRENT,galaxymap_stargate,3149,STARGATE,STARGATE
+CURRENT,galaxymap_stargate,3149,STARGATE,STERRENPOORT
 CURRENT,trade_canceltrade,3149,CANCEL TRADE AND REFUND,HANDEL ANNULEREN EN TERUGBETALEN
 CURRENT,trade_refundvalue,3149,REFUND VALUE,TERUGBETALING
 CURRENT,trade_cancellationcost,3149,CANCELLATION COST,ANNULERINGSKOSTEN
@@ -316,11 +302,11 @@ CURRENT,trade_incompletecomponent,3149,INCOMPLETE COMPONENT,ONVOLLEDIG ONDERDEEL
 CURRENT,trade_removeincomplete,3149,REMOVE INCOMPLETE,INCOMPLEET VERWIJDEREN
 CURRENT,trade_removepartiallyfilled,3149,REMOVE PARTIALLY FILLED,GEDEELTELIJK GEVULD VERWIJDEREN
 CURRENT,trade_order_normal,3149,(*X),(*X)
-CURRENT,trade_order_buy_on_sell_screen,3149,(BUY *X),(KOP *X)
+CURRENT,trade_order_buy_on_sell_screen,3149,(BUY *X),(KOOP *X)
 CURRENT,trade_order_sell_on_buy_screen,3149,(SELL *X),(VERKOOP *X)
 CURRENT,trade_order_sack_on_buy_screen,3149,(SACK *X),(SACK *X)
 CURRENT,techtree_researchpercent,3149,*X% Complete,*X% Voltooid
-CURRENT,tooltip_efficiency,3149,Efficiency +*X%,Rendement +*X%
+CURRENT,tooltip_efficiency,3149,Efficiency +*X%,Efficiëntie +*X%
 CURRENT,tooltip_activating,3149,Activating +*X%,Activeren +*X%
 CURRENT,alert_type_lowdeuterium,3149,LOW DEUTERIUM,LAAG DEUTERIUM
 CURRENT,stargate_unknowncomponent,3149,Unknown Component,Onbekend onderdeel
@@ -332,25 +318,25 @@ CURRENT,engine_thrust,3149,THRUST *X%,THRUST *X%
 CURRENT,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + RMB] Converteren naar splitter
 CURRENT,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + RMB] Converteren naar track
 CURRENT,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,We kunnen die passagiers niet op hun bestemming afleveren zonder sneller dan licht te reizen. Helaas is dit schip niet uitgerust met een eigen <b>FTL-aandrijving</b>.\n\nWe moeten er een kopen en installeren.
-CURRENT,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,Open het handelsscherm om een <b>FTL-aandrijving</b> en wat <b>FTL opladen</b> te kopen.
+CURRENT,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,Open het handelsscherm om een <b>FTL aandrijving</b> en wat <b>FTL lading</b> te kopen.
 CURRENT,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,OMVATTEN AANGEMEERDE SCHEPEN
-CURRENT,hud_layer_hostile,3149,HOSTILE *X,HOSTILE *X
-CURRENT,hud_layer_derelict,3149,DERELICT *X,DERELICT *X
+CURRENT,hud_layer_hostile,3149,HOSTILE *X,VIJANDIG *X
+CURRENT,hud_layer_derelict,3149,DERELICT *X,VERLATEN *X
 CURRENT,hud_layer_forsale,3149,[FOR SALE] *X,[TE KOOP] *X
 CURRENT,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,Hun uiterlijke slijtage doet ons geloven dat ze hier al minstens een eeuw zijn. Deze sector moet een van de eerste pogingen van de mensheid zijn geweest om de ruimte te koloniseren.
 CURRENT,techtree_node_caption_metallurgyrepeatable,3054,Spend research credits to continually increase our smelting efficiency.,Besteed onderzoekskredieten om onze smeltefficiëntie voortdurend te verhogen.
 CURRENT,mainmenu_gamemode_arena,3054,Arena,Arena
 CURRENT,mainmenu_gamemode_arena_tooltip,3054,Create epic space battles between fleets of ships and watch the carnage unfold.,Creëer epische ruimtegevechten tussen vloten van schepen en kijk hoe het bloedbad zich ontvouwt.
 CURRENT,mainmenu_arena_caption,3054,Create epic space battles between fleets of ships and watch the carnage unfold.,Creëer epische ruimtegevechten tussen vloten van schepen en kijk hoe het bloedbad zich ontvouwt.
-CURRENT,settings_autosaves,3054,AUTOSAVES,AUTOSAVES
+CURRENT,settings_autosaves,3054,AUTOSAVES,AUTOMATIECH OPSLAAN
 CURRENT,settings_autosaveonftl,3054,Auto-save when leaving FTL,Automatisch opslaan bij verlaten FTL
 CURRENT,settings_autosaveontimeinterval,3054,Auto-save on time interval,Automatisch opslaan op tijdsinterval
 CURRENT,settings_autosaveinterval,3054,Auto-save Interval,Interval voor automatisch opslaan
-CURRENT,settings_minutes_shortened,3054,Mins.,Mins.
+CURRENT,settings_minutes_shortened,3054,Mins.,Min.
 CURRENT,newmainmenu_returntomainmenu,3054,RETURN TO MAIN MENU,TERUGKEREN NAAR HOOFDMENU
 CURRENT,newmainmenu_mainmenu,3054,MAIN MENU,HOOFDMENU
-CURRENT,newmainmenu_showautosaves,3054,AUTOSAVES,AUTOSAVES
-CURRENT,newmainmenu_newgameoptions,3054,Game Options,Spelopties
+CURRENT,newmainmenu_showautosaves,3054,AUTOSAVES,AUTOMATIECH OPSLAAN
+CURRENT,newmainmenu_newgameoptions,3054,Game Options,Spel Opties
 CURRENT,newmainmenu_defensiveenemies,3054,Defensive Enemies,Verdedigende vijanden
 CURRENT,newmainmenu_defensiveenemiestooltip,3054,Hostile ships will only target you once you have targeted them first.,Vijandige schepen richten zich pas op jou als jij je eerst op hen richt.
 CURRENT,newmainmenu_multisectorsim,3054,Multi-System Simulation,Simulatie met meerdere systemen
@@ -392,9 +378,9 @@ CURRENT,survey_sector_award_caption,3054,*X available to survey,*X beschikbaar v
 CURRENT,survey_sector_caption,3054,*X scanning region,*X scangebied
 CURRENT,powergrid_controls_title,3054,Power Grid Controls,Stroomnetregelingen
 CURRENT,powergrid_controls_increase,3054,[LMB] Increase,[LMB] Verhogen
-CURRENT,powergrid_controls_decrease,3054,[RMB] Decrease,[RMB] Afname
+CURRENT,powergrid_controls_decrease,3054,[RMB] Decrease,[RMB] Verlagen
 CURRENT,powergrid_controls_shift,3054,[Shift] All,[Shift] Alle
-CURRENT,trade_sack,3054,SACK,ZAK
+CURRENT,trade_sack,3054,SACK,ONTSLAAN
 CURRENT,techtree_cannot_afford,3054,CANNOT AFFORD RESEARCH,KUNNEN ZICH GEEN ONDERZOEK VEROORLOVEN
 CURRENT,techtree_creditsrequired,3054,CREDITS REQUIRED: *X/*Y,VEREISTE CREDITS: *X/*Y
 CURRENT,techtree_availablecredits,3054,Available Credits: *X,Beschikbare credits: *X
@@ -433,8 +419,8 @@ CURRENT,object_warpalignmentcomputer,3054,Warp Alignment Computer,Warp Uitlijnin
 CURRENT,object_emptycrystalcomponent,3054,Empty Crystal,Leeg kristal
 CURRENT,object_chargedcrystal,3054,Charged Crystal,Opgeladen kristal
 CURRENT,loader_auto,3054,AUTO,AUTO
-CURRENT,alert_type_abouttoautosave,3054,AUTOSAVE,AUTOSAVE
-CURRENT,alert_type_abouttoautosave_caption,3054,Autosaving in *X...,Automatisch sparen in *X...
+CURRENT,alert_type_abouttoautosave,3054,AUTOSAVE,AUTOMATIECH OPSLAAN
+CURRENT,alert_type_abouttoautosave_caption,3054,Autosaving in *X...,Automatisch opslaan in *X...
 CURRENT,alert_type_emp,3054,EMP,EMP
 CURRENT,alert_type_emp_caption,3054,*X piece(s) disabled,*X stuk(s) uitgeschakeld
 CURRENT,alert_type_emp_tooltip,3054,"Your ship has been struck by lightning, temporarily disabling some of your equipment.","Je schip is getroffen door de bliksem, waardoor een deel van je uitrusting tijdelijk buiten werking is."
@@ -512,18 +498,18 @@ CURRENT,bravenewsector_part3_artemis_results_5,3054,The next step is to research
 CURRENT,bravenewsector_part3_artemis_results_6,3054,"Good luck with your research, Captain.","Veel succes met je onderzoek, kapitein."
 CURRENT,translationeditor_unmodified,3054,Unmodified Phrases,Ongewijzigde zinnen
 CURRENT,translationeditor_modified,3054,Modified Phrases,Gewijzigde zinnen
-CURRENT,translationeditor_reset,3054,Revert,Terugkeren
+CURRENT,translationeditor_reset,3054,Revert,Terugzetten
 CURRENT,translationeditor_reset_tooltip,3054,Resets your modified translation back to the original translation.,Zet je gewijzigde vertaling terug naar de oorspronkelijke vertaling.
 CURRENT,translationeditor_folder,3054,Open Folder,Map openen
 CURRENT,translationeditor_folder_tooltip,3054,"Opens the folder in which your modified translations are saved.\n\n""language.csv"" is the file containing your modified translations.","Opent de map waarin je gewijzigde vertalingen zijn opgeslagen.\n\n""language.csv"" is het bestand met je gewijzigde vertalingen."
-CURRENT,translationeditor_english_tooltip1,3054,Unformatted English phrase,Ongeformatteerde Engelse zin
+CURRENT,translationeditor_english_tooltip1,3054,Unformatted English phrase,Onopgemaakte Engelse zin
 CURRENT,translationeditor_english_tooltip2,3054,Formatted English phrase,Opgemaakte Engelse zin
 CURRENT,translationeditor_english_tooltip3,3054,This is what you are translating.,Dit is wat je vertaalt.
 CURRENT,translationeditor_english_tooltip4,3054,You cannot change the English phrases.,Je kunt de Engelse zinnen niet veranderen.
-CURRENT,translationeditor_original_tooltip1,3054,Unformatted original translation,Ongeformatteerde originele vertaling
+CURRENT,translationeditor_original_tooltip1,3054,Unformatted original translation,Onopgemaakte originele vertaling
 CURRENT,translationeditor_original_tooltip2,3054,Formatted original translation,Opgemaakte originele vertaling
 CURRENT,translationeditor_original_tooltip3,3054,This is what is currently used in the game.,Dit is wat momenteel in het spel wordt gebruikt.
-CURRENT,translationeditor_new_tooltip1,3054,Unformatted new translation,Ongeformatteerde nieuwe vertaling
+CURRENT,translationeditor_new_tooltip1,3054,Unformatted new translation,Onopgemaakte nieuwe vertaling
 CURRENT,translationeditor_new_tooltip2,3054,Formatted new translation,Opgemaakte nieuwe vertaling
 CURRENT,translationeditor_new_tooltip3,3054,"This is where you can change the translation.\n\nThis will affect your game only, unless you submit your updated translations to Introversion.","Hier kun je de vertaling wijzigen.\n\nDit heeft alleen invloed op jouw spel, tenzij je je bijgewerkte vertalingen indient bij Introversion."
 CURRENT,credits_0,3054,The Last Starship,Het laatste ruimteschip
@@ -635,25 +621,25 @@ CURRENT,tutorial_stargatejumpintro,2886,The Stargate enables travel between diff
 CURRENT,tutorial_stargatejumpopenftl,2886,"First, let's open the <b>FTL</b> window.",Laten we eerst het <b>FTL</b>-venster openen.
 CURRENT,tutorial_powerreactoractive,2886,The <b>REACTOR</b> is activated! We are now generating power for our ship.,De <b>REACTOR</b> is geactiveerd! We wekken nu energie op voor ons schip.
 CURRENT,tutorial_buy_shiftclick,2886,<b>NOTE</b>: You can <b>SHIFT CLICK</b> to buy in multiples of 5.,<b>OPMERKING</b>: je kunt <b>SHIFT CLICK</b> om in veelvouden van 5 te kopen.
-CURRENT,tutorial_introduction2,2886,"This vessel is fresh out of the shipyard production line.\n\nIt's just an empty hull right now, without power or a breathable atmosphere. Our first job is to fix that.\n\nClick <b>NEXT</b> to continue.","Dit schip komt net uit de productielijn van de scheepswerf.\n\nHet is op dit moment gewoon een lege romp, zonder stroom of een ademende atmosfeer. Onze eerste taak is om dat te repareren.\n\nKlik op <b>VOLGENDE</b> om verder te gaan."
-CURRENT,tutorial_cameracontrols,2886,"Use <b>{PanUp1}{PanLeft1}{PanDown1}{PanRight1}</b> or the <b>ARROW KEYS</b> to move the view around.\n\nZoom the view using the <b>MOUSE WHEEL</b>, or <b>{ZoomIn}</b>/<b>{ZoomOut}</b> on the keyboard.\n\nDrag the view by holding the <b>MIDDLE MOUSE BUTTON</b>.",Gebruik <b>{PanUp1}{PanLeft1}{PanDown1}{PanRight1}</b> of de <b>PIJLTJESTOETSEN</b> om de weergave te verplaatsen.\n\nZoom het beeld in met het <b>MOUSE WHEEL</b> of <b>{ZoomIn}</b>/<b>{ZoomOut}</b> op het toetsenbord.\n\nVersleep de weergave door de <b>MIDDENMUISKNOP</b> ingedrukt te houden.
+CURRENT,tutorial_introduction2,2886,"This vessel is fresh out of the shipyard production line.\n\nIt's just an empty hull right now, without power or a breathable atmosphere. Our first job is to fix that.\n\nClick <b>NEXT</b> to continue.","Dit schip komt net uit de productielijn van de scheepswerf.\n\nHet is op dit moment gewoon een lege romp, zonder stroom of een adembare atmosfeer. Onze eerste taak is om dat op te verhelpen.\n\nKlik op <b>VOLGENDE</b> om verder te gaan."
+CURRENT,tutorial_cameracontrols,2886,"Use <b>{PanUp1}{PanLeft1}{PanDown1}{PanRight1}</b> or the <b>ARROW KEYS</b> to move the view around.\n\nZoom the view using the <b>MOUSE WHEEL</b>, or <b>{ZoomIn}</b>/<b>{ZoomOut}</b> on the keyboard.\n\nDrag the view by holding the <b>MIDDLE MOUSE BUTTON</b>.",Gebruik <b>{PanUp1}{PanLeft1}{PanDown1}{PanRight1}</b> of de <b>PIJLTJESTOETSEN</b> om de weergave te verplaatsen.\n\nZoom het beeld in met het <b>MUISWIEL</b> of <b>{ZoomIn}</b>/<b>{ZoomOut}</b> op het toetsenbord.\n\nVersleep de weergave door de <b>MIDDENMUISKNOP</b> ingedrukt te houden.
 CURRENT,tutorial_powerinstallmenu,2886,"Let's begin by installing a <b>REACTOR</b>, to generate power for our ship.\n\nClick into the <b>CONSTRUCTION</b> menu, then click <b>INSTALL</b>.","Laten we beginnen met het installeren van een <b>REACTOR</b>, om energie op te wekken voor ons schip.\n\nKlik in het <b>CONSTRUCTIE</b> menu en klik dan op <b>INSTALL</b>."
 CURRENT,tutorial_powerselectreactor,2886,This is all the boxed equipment you have available on-board.\n\nSelect <b>REACTOR</b> from the list.,Dit is alle apparatuur die je aan boord hebt.\n\nSelecteer <b>REACTOR</b> uit de lijst.
 CURRENT,tutorial_powerplacereactor,2886,Stamp the <b>REACTOR</b> down inside your ship.,Stempel de <b>REACTOR</b> neer in je schip.
 CURRENT,tutorial_powerreactorinprogress,2886,Your crew will install the <b>REACTOR</b>.,Je team installeert de <b>REACTOR</b>.
-CURRENT,tutorial_powerselectloader,2886,"The <b>REACTOR</b> needs <b>FUEL</b>, and we use a <b>FUEL LOADER</b> to pump it to the <b>REACTOR</b>.\n\nSelect the <b>FUEL LOADER</b> from the Construction menu.",De <b>REACTOR</b> heeft <b>BRANDSTOF</b> nodig en we gebruiken een <b>BRANDSTOFLADER</b> om het naar de <b>REACTOR</b> te pompen.\n\nSelecteer de <b>FUEL LOADER</b> in het Construction menu.
-CURRENT,tutorial_powerplaceloader,2886,Stamp the <b>FUEL LOADER</b> down somewhere near the <b>REACTOR</b>.,Stamp de <b>FUEL LOADER</b> ergens in de buurt van de <b>REACTOR</b> neer.
-CURRENT,tutorial_powerselectpipes,2886,"We need to connect the <b>FUEL LOADER</b> to the <b>REACTOR</b>, using a Pipe.\n\nSelect <b>PIPES</b> from the Construction Menu.",We moeten de <b>BRANDSTOFLADER</b> verbinden met de <b>REACTOR</b> door middel van een pijpleiding.\n\nKies <b>PIPES</b> in het Construction Menu.
-CURRENT,tutorial_powerpipeconnect,2886,"Drag a pipe from the <b>FUEL LOADER</b> to the <b>REACTOR</b>, connecting the yellow pipe circles.\n\nFUEL <b>PIPES</b> are used to connect the output from one piece of equipment into the input of another.\n\nFUEL <b>PIPES</b> are yellow and must connect the yellow circles on equipment.",Sleep een pijp van de <b>FUEL LOADER</b> naar de <b>REACTOR</b> en verbind de gele pijpcirkels met elkaar.\n\nBRANDSTOF<b>PIJPEN</b> worden gebruikt om de uitvoer van een apparaat te verbinden met de invoer van een ander apparaat.\n\nBRANDSTOF<b>PIJPEN</b> zijn geel en moeten de gele cirkels op de apparatuur verbinden.
+CURRENT,tutorial_powerselectloader,2886,"The <b>REACTOR</b> needs <b>FUEL</b>, and we use a <b>FUEL LOADER</b> to pump it to the <b>REACTOR</b>.\n\nSelect the <b>FUEL LOADER</b> from the Construction menu.",De <b>REACTOR</b> heeft <b>BRANDSTOF</b> nodig en we gebruiken een <b>BRANDSTOF LADER</b> om het naar de <b>REACTOR</b> te pompen.\n\nSelecteer de <b>BRANDSTOF LADER</b> in het Construction menu.
+CURRENT,tutorial_powerplaceloader,2886,Stamp the <b>FUEL LOADER</b> down somewhere near the <b>REACTOR</b>.,Stamp de <b>BRANDSTOF LADER</b> ergens in de buurt van de <b>REACTOR</b> neer.
+CURRENT,tutorial_powerselectpipes,2886,"We need to connect the <b>FUEL LOADER</b> to the <b>REACTOR</b>, using a Pipe.\n\nSelect <b>PIPES</b> from the Construction Menu.",We moeten de <b>BRANDSTOF LADER</b> verbinden met de <b>REACTOR</b> door middel van een pijpleiding.\n\nKies <b>LEIDINGEN</b> in het Construction Menu.
+CURRENT,tutorial_powerpipeconnect,2886,"Drag a pipe from the <b>FUEL LOADER</b> to the <b>REACTOR</b>, connecting the yellow pipe circles.\n\nFUEL <b>PIPES</b> are used to connect the output from one piece of equipment into the input of another.\n\nFUEL <b>PIPES</b> are yellow and must connect the yellow circles on equipment.",Sleep een leiding van de <b>BRANDSTOF LADER</b> naar de <b>REACTOR</b> en verbind de gele leidingcirkels met elkaar.\n\nBRANDSTOF<b>LEIDINGEN</b> worden gebruikt om de uitvoer van een apparaat te verbinden met de invoer van een ander apparaat.\n\nBRANDSTOF<b>LEIDINGEN</b> zijn geel en moeten de gele cirkels op de apparatuur verbinden.
 CURRENT,tutorial_powerreactorpowerup,2886,The <b>REACTOR</b> is starting up.,De <b>REACTOR</b> start op.
-CURRENT,tutorial_airinstallairduct,2886,We now need to provide a breathable atmosphere for our crew. This is done with an <b>AIRDUCT</b>.\n\nInstall an <b>AIRDUCT</b> somewhere near the Reactor.,We moeten nu zorgen voor een ademende atmosfeer voor onze bemanning. Dit wordt gedaan met een <b>AIRDUCT</b>.\n\nInstalleer een <b>AIRDUCT</b> ergens in de buurt van de Reactor.
-CURRENT,tutorial_aircables,2886,The <b>AIRDUCT</b> needs to be powered from the <b>REACTOR</b>.  Select <b>CABLES</b> from the <b>CONSTRUCTION</b> menu.,De <b>AIRDUCT</b> moet worden gevoed vanuit de <b>REACTOR</b>. Selecteer <b>KABELS</b> in het <b>CONSTRUCTIE</b>menu.
-CURRENT,tutorial_aircabletoreactor,2886,"Drag a power cable from the <b>REACTOR</b> to the <b>AIRDUCT</b>, connecting the red circles.\n\nPOWER <b>CABLES</b> are used to connect reactors to any equipment that needs power.\n\nPOWER <b>CABLES</b> are red and must connect red circles on equipment.",Sleep een stroomkabel van de <b>REACTOR</b> naar de <b>AIRDUCT</b> en verbind de rode cirkels.\n\nStroom<b>kabels</b> worden gebruikt om reactoren te verbinden met apparatuur die stroom nodig heeft.\n\nPOWER <b>CABLES</b> zijn rood en moeten rode cirkels op apparatuur verbinden.
-CURRENT,tutorial_airinstallairloader,2886,"The <b>AIRDUCT</b> needs <b>OXYGEN</b>, in the same way as the <b>REACTOR</b> needs <b>FUEL</b>. We can use an <b>OXYGEN LOADER</b> to provide <b>OXYGEN</b>.\n\nInstall an <b>OXYGEN LOADER</b> near the <b>AIRDUCT</b>.","De <b>AIRDUCT</b> heeft <b>OXYGEN</b> nodig, net zoals de <b>REACTOR</b> <b>FUEL</b> nodig heeft. We kunnen een <b>OXYGEN LOADER</b> gebruiken om <b>OXYGEN</b> te leveren.\n\nInstalleer een <b>OXYGEN LOADER</b> in de buurt van de <b>AIRDUCT</b>."
-CURRENT,tutorial_airpipes,2886,We need to connect the <b>OXYGEN LOADER</b> into the <b>AIRDUCT</b> using <b>PIPES</b>.\n\nSelect <b>PIPES</b> from the <b>CONSTRUCTION</b> menu.,We moeten de <b>OXYGEN LOADER</b> aansluiten op de <b>AIRDUCT</b> met behulp van <b>PIPES</b>.\n\nSelecteer <b>PIPES</b> in het <b>CONSTRUCTIE</b>-menu.
-CURRENT,tutorial_airpipetoairduct,2886,"Drag a <b>PIPE</b> from the <b>OXYGEN LOADER</b> to the <b>AIRDUCT</b>, connecting the <b>BLUE</b> circles.",Sleep een <b>PIPE</b> van de <b>OXYGEN LOADER</b> naar de <b>AIRDUCT</b> en verbind de <b>BLAUWE</b> cirkels.
-CURRENT,tutorial_airdone,2886,The <b>AIRDUCT</b> is activated and is pressurising the cabin! The atmosphere will soon be breathable.,De <b>AIRDUCT</b> is geactiveerd en zet de cabine onder druk! De atmosfeer zal snel ademend zijn.
-CURRENT,tutorial_enginesinformation,2886,Engines require both <b>POWER</b> and <b>FUEL</b> to operate. We must connect both engines to fuel and power.,Motoren hebben zowel <b>STROOM</b> als <b>BRANDSTOF</b> nodig om te kunnen werken. We moeten beide motoren verbinden met brandstof en vermogen.
+CURRENT,tutorial_airinstallairduct,2886,We now need to provide a breathable atmosphere for our crew. This is done with an <b>AIRDUCT</b>.\n\nInstall an <b>AIRDUCT</b> somewhere near the Reactor.,We moeten nu zorgen voor een ademende atmosfeer voor onze bemanning. Dit wordt gedaan met een <b>LUCHTKANAAL</b>.\n\nInstalleer een <b>LUCHTKANAAL</b> ergens in de buurt van de Reactor.
+CURRENT,tutorial_aircables,2886,The <b>AIRDUCT</b> needs to be powered from the <b>REACTOR</b>.  Select <b>CABLES</b> from the <b>CONSTRUCTION</b> menu.,De <b>LUCHTKANAAL</b> moet worden gevoed vanuit de <b>REACTOR</b>. Selecteer <b>KABELS</b> in het <b>CONSTRUCTIE</b>menu.
+CURRENT,tutorial_aircabletoreactor,2886,"Drag a power cable from the <b>REACTOR</b> to the <b>AIRDUCT</b>, connecting the red circles.\n\nPOWER <b>CABLES</b> are used to connect reactors to any equipment that needs power.\n\nPOWER <b>CABLES</b> are red and must connect red circles on equipment.",Sleep een stroomkabel van de <b>REACTOR</b> naar de <b>LUCHTKANAAL</b> en verbind de rode cirkels.\n\nStroom<b>kabels</b> worden gebruikt om reactoren te verbinden met apparatuur die stroom nodig heeft.\n\nPOWER <b>CABLES</b> zijn rood en moeten rode cirkels op apparatuur verbinden.
+CURRENT,tutorial_airinstallairloader,2886,"The <b>AIRDUCT</b> needs <b>OXYGEN</b>, in the same way as the <b>REACTOR</b> needs <b>FUEL</b>. We can use an <b>OXYGEN LOADER</b> to provide <b>OXYGEN</b>.\n\nInstall an <b>OXYGEN LOADER</b> near the <b>AIRDUCT</b>.","De <b>LUCHTKANAAL</b> heeft <b>ZUURSTOF</b> nodig, net zoals de <b>REACTOR</b> <b>BRANDSTOF</b> nodig heeft. We kunnen een <b>ZUURSTOF LADER</b> gebruiken om <b>ZUURSTOF</b> te leveren.\n\nInstalleer een <b>ZUURSTOF LADER</b> in de buurt van de <b>LUCHTKANAAL</b>."
+CURRENT,tutorial_airpipes,2886,We need to connect the <b>OXYGEN LOADER</b> into the <b>AIRDUCT</b> using <b>PIPES</b>.\n\nSelect <b>PIPES</b> from the <b>CONSTRUCTION</b> menu.,We moeten de <b>ZUURSTOF LADER</b> aansluiten op de <b>LUCHTKANAAL</b> met behulp van <b>LEIDINGEN</b>.\n\nSelecteer <b>LEIDINGEN</b> in het <b>CONSTRUCTIE</b>-menu.
+CURRENT,tutorial_airpipetoairduct,2886,"Drag a <b>PIPE</b> from the <b>OXYGEN LOADER</b> to the <b>AIRDUCT</b>, connecting the <b>BLUE</b> circles.",Sleep een <b>LEIDINGEN</b> van de <b>ZUURSTOF LADER</b> naar de <b>LUCHTKANAAL</b> en verbind de <b>BLAUWE</b> cirkels.
+CURRENT,tutorial_airdone,2886,The <b>AIRDUCT</b> is activated and is pressurising the cabin! The atmosphere will soon be breathable.,De <b>LUCHTKANAAL</b> is geactiveerd en zet de cabine onder druk! De atmosfeer zal snel adembaar zijn.
+CURRENT,tutorial_enginesinformation,2886,Engines require both <b>POWER</b> and <b>FUEL</b> to operate. We must connect both engines to fuel and power.,Motoren hebben zowel <b>STROOM</b> als <b>BRANDSTOF</b> nodig om te kunnen werken. We moeten beide motoren verbinden met brandstof en stroom.
 CURRENT,tutorial_enginesconnectpower,2886,"Now use the <b>CABLES</b> menu to power up the engine, by connecting it to your existing red power lines.",Gebruik nu het menu <b>CABLES</b> om de motor van stroom te voorzien door hem aan te sluiten op je bestaande rode stroomkabels.
 CURRENT,tutorial_ftlselectpropulsion,2886,The items we need are listed under <b>PROPULSION</b>. Select that category.,De items die we nodig hebben staan onder <b>PROPULSIE</b>. Selecteer die categorie.
 CURRENT,tutorial_stargatescreen1,2886,Let's turn our attention to the <b>STARGATE PROJECT</b>.\n\nWe can view our progress from the Stargate screen.\n\nOpen the <b>STARGATE</b> screen.,Laten we onze aandacht richten op het <b>STARGATE PROJECT</b>.\n\nWe kunnen onze voortgang bekijken op het Stargate scherm.\n\nOpen het scherm <b>STARGATE</b>.
@@ -697,21 +683,21 @@ CURRENT,tutorial_fleetspacesuits,2886,Those crew will also need <b>SPACESUITS</b
 CURRENT,tutorial_fleettradeconfirm,2886,<b>CONFIRM</b> the trade.,<b>BEVESTIG</b> de handel.
 CURRENT,tutorial_fleetresources,2886,We also need resources for the ship to function.\n\nUse the <b>TRADE</b> screen to buy:\n- 5x <b>FUEL</b>\n- 5x <b>OXYGEN</b>\n- 5x <b>FTL CHARGE</b>\n- 2x <b>FOOD</b>\n- 2x <b>WATER</b>.\n\nCONFIRM the trade when you are done.,We hebben ook bronnen nodig om het schip te laten functioneren.\n\nGebruik het <b>HANDELSCHERM</b> om te kopen:\n- 5x <b>BRANDSTOF</b>\n- 5x <b>OXYGEN</b>\n- 5x <b>FTL CHARGE</b>\n- 2x <b>VOEDSEL</b>\n- 2x <b>WATER</b>.\n\nBEVESTIG de ruil als je klaar bent.
 CURRENT,tutorial_flighttactical,2886,"We should give our engines a small test flight.  To maneuver our ship, switch into <b>TACTICAL</b> mode by clicking the highlighted button, or pressing <b>{ToggleTactical}</b>.","We moeten onze motoren een kleine testvlucht geven. Om met ons schip te manoeuvreren, schakel je over naar de <b>TACTISCHE</b> modus door op de gemarkeerde knop te klikken of door op <b>{ToggleTactical}</b> te drukken."
-CURRENT,tutorial_flightengines,2886,We can directly control our engine <b>THROTTLE</b> from here.\n\nTry increasing your engine throttle with this control.,We kunnen onze motor <b>THROTTLE</b> rechtstreeks vanaf hier besturen.\n\nProbeer de gashendel van je motor te verhogen met deze regelaar.
+CURRENT,tutorial_flightengines,2886,We can directly control our engine <b>THROTTLE</b> from here.\n\nTry increasing your engine throttle with this control.,We kunnen onze motor <b>GASHENDEL</b> rechtstreeks vanaf hier besturen.\n\nProbeer de gashendel van uw motor te verhogen met deze regelaar.
 CURRENT,tutorial_flightturning,2886,"We can also turn the ship by left clicking in <b>TACTICAL</b> mode, in the direction we wish to travel.",We kunnen het schip ook draaien door in de <b>TACTISCHE</b> modus met de linkermuisknop te klikken in de richting waarin we willen reizen.
 CURRENT,tutorial_flightsetcourse,2886,We can send our ship to a specific location by <b>RIGHT-CLICKING</b>. Try setting a destination by right clicking in the tactical view.,We kunnen ons schip naar een specifieke locatie sturen door <b>rechts te klikken</b>. Probeer een bestemming in te stellen door rechts te klikken in de tactische weergave.
 CURRENT,tutorial_flightexittactical,2886,"Exit <b>TACTICAL</b> mode by clicking the button again, or pressing <b>{ToggleTactical}</b>.",Verlaat de <b>TACTISCHE</b> modus door nogmaals op de knop te klikken of door op <b>{ToggleTactical}</b> te drukken.
 CURRENT,tutorial_flightinformation,2886,"Your crew will continue to operate the ship and keep the engines running as you travel around. Try flying around the system until you have a handle on the controls.\n\nWhen you are ready, bring the ship to a stop by setting the <b>THROTTLE</b> to zero in <b>TACTICAL</b> mode.","Je bemanning zal het schip blijven bedienen en de motoren draaiende houden terwijl je rondreist. Probeer door het systeem te vliegen tot je de besturing onder de knie hebt.\n\nAls je klaar bent, breng je het schip tot stilstand door de <b>THROTTLE</b> op nul te zetten in de <b>TACTICAL</b> modus."
-CURRENT,tutorial_financemissionscreen,2886,"Now that our ship is up and running, we need to earn our way.  We can complete contracts for financial reward and reputation.\n\nOpen the <b>CONTRACTS</b> screen to see a list of available contracts.","Nu ons schip operationeel is, moeten we onze weg verdienen. We kunnen contracten voltooien voor financiële beloning en reputatie.\n\nOpen het scherm <b>CONTRACTS</b> om een lijst met beschikbare contracten te zien."
+CURRENT,tutorial_financemissionscreen,2886,"Now that our ship is up and running, we need to earn our way.  We can complete contracts for financial reward and reputation.\n\nOpen the <b>CONTRACTS</b> screen to see a list of available contracts.","Nu ons schip operationeel is, moeten we onze weg verdienen. We kunnen contracten voltooien voor financiële beloning en reputatie.\n\nOpen het scherm <b>CONTRACTEN</b> om een lijst met beschikbare contracten te zien."
 CURRENT,tutorial_financeselectship,2886,"Contracts are assigned to the ship you currently have selected.\n\nOnly the <b>PROCYON</b> can travel between locations, so select the <b>PROCYON</b>.","Contracten worden toegewezen aan het schip dat je op dat moment hebt geselecteerd.\n\nAlleen de <b>PROCYON</b> kan tussen locaties reizen, dus selecteer de <b>PROCYON</b>."
-CURRENT,tutorial_financeselecttransport,2886,"Here we have a <b>TRANSPORT PASSENGER</b> contract, click it to see more details.","Hier hebben we een <b>TRANSPORT PASSAGIER</b> contract, klik erop om meer details te zien."
+CURRENT,tutorial_financeselecttransport,2886,"Here we have a <b>TRANSPORT PASSENGER</b> contract, click it to see more details.","Hier hebben we een <b>PASSAGIERSVERVOER</b> contract, klik erop om meer details te zien."
 CURRENT,tutorial_financeassigntransport,2886,This mission requires us to transport a group of people from here to another location in the sector.\n\nClick the accept button to assign this contract to the <b>PROCYON</b>.,Voor deze missie moeten we een groep mensen van hier naar een andere locatie in de sector vervoeren.\n\nKlik op de accepteer knop om dit contract aan de <b>PROCYON</b> toe te wijzen.
 CURRENT,tutorial_financepassengersinbound,2886,The passengers will be delivered to the <b>PROCYON</b> by shuttle.,De passagiers worden met een shuttle naar de <b>PROCYON</b> gebracht.
-CURRENT,tutorial_financesetdestination,2886,"This is a map of all the systems in this sector.\n\nOur ship and our space station are located in the middle, where the map is marked <b>YOU-ARE-HERE</b>.\n\nSet a course to the destination (labelled <b>TRANSPORT</b> PASSENGERS) by clicking on it.","Dit is een kaart van alle systemen in deze sector.\n\nOns schip en ons ruimtestation bevinden zich in het midden, waar op de kaart <b>JIJ-ZIET-HIER</b> staat aangegeven.\n\nZet een koers uit naar de bestemming (met het label <b>TRANSPORT</b> PASSENGERS) door erop te klikken."
+CURRENT,tutorial_financesetdestination,2886,"This is a map of all the systems in this sector.\n\nOur ship and our space station are located in the middle, where the map is marked <b>YOU-ARE-HERE</b>.\n\nSet a course to the destination (labelled <b>TRANSPORT</b> PASSENGERS) by clicking on it.","Dit is een kaart van alle systemen in deze sector.\n\nOns schip en ons ruimtestation bevinden zich in het midden, waar op de kaart <b>U-BENT-HIER</b> staat aangegeven.\n\nZet een koers uit naar de bestemming (gelabeld <b>PASSAGIERSVERVOER</b>) door erop te klikken."
 CURRENT,tutorial_financeclosesectormap,2886,"Close the <b>SECTOR MAP</b> by clicking the X in the top right corner, or by pressing <b>ESC</b>.",Sluit de <b>SECTOR MAP</b> door op de X in de rechterbovenhoek te klikken of door op <b>ESC</b> te drukken.
-CURRENT,tutorial_financepreparejump,2886,Click on <b>PREPARE JUMP</b> to align the ship and prepare for hyperspace.,Klik op <b>PREPARE JUMP</b> om het schip uit te lijnen en voor te bereiden op de hyperruimte.
-CURRENT,tutorial_financejump,2886,Click the <b>JUMP</b> button to jump to hyperspace.,Klik op de knop <b>JUMP</b> om naar de hyperruimte te springen.
-CURRENT,tutorial_financeselectmission,2886,We now need to turn in our completed passenger contract.\n\nOpen the <b>CONTRACTS</b> screen and select the passenger mission.,We moeten nu ons voltooide passagierscontract inleveren.\n\nOpen het scherm <b>CONTRACTS</b> en selecteer de passagiersmissie.
+CURRENT,tutorial_financepreparejump,2886,Click on <b>PREPARE JUMP</b> to align the ship and prepare for hyperspace.,Klik op <b>SPRONG VOORBEREIDEN</b> om het schip uit te lijnen en voor te bereiden op de hyperruimte.
+CURRENT,tutorial_financejump,2886,Click the <b>JUMP</b> button to jump to hyperspace.,Klik op de knop <b>SPRING</b> om naar hyperruimte te springen.
+CURRENT,tutorial_financeselectmission,2886,We now need to turn in our completed passenger contract.\n\nOpen the <b>CONTRACTS</b> screen and select the passenger mission.,We moeten nu ons voltooide passagierscontract inleveren.\n\nOpen het scherm <b>CONTRACTEN</b> en selecteer de passagiersmissie.
 CURRENT,tutorial_financeturnin,2886,Click the <b>DELIVER</b> button to drop off the passengers and receive payment,Klik op de knop <b>LEVEREN</b> om de passagiers af te leveren en de betaling te ontvangen
 CURRENT,tutorial_wrapup2,2886,"The career you choose is now up to you.  There are many opportunities to choose from, and you'll learn more as you work.\n\nOpen the <b>CONTRACTS</b> board.",De carrière die je kiest is nu aan jou. Er zijn veel mogelijkheden om uit te kiezen en je zult meer leren terwijl je werkt.\n\nOpen het <b>CONTRACTS</b>-bord.
 CURRENT,tutorial_resinstart,2886,We are now going to learn how to produce <b>STARGATE RESIN</b>.,We gaan nu leren hoe we <b>STARGATE RESIN</b> kunnen produceren.
@@ -726,12 +712,12 @@ CURRENT,tutorial_resinchemicallabrecipe,2886,Right click on the <b>CHEMICAL LAB<
 CURRENT,tutorial_resinconnectgascollector,2886,Connect the <b>GAS COLLECTOR</b> to the <b>REFINERY</b> with a <b>PIPE</b>.,Verbind de <b>GAS COLLECTOR</b> met de <b>REFINERY</b> met een <b>LEIDING</b>.
 CURRENT,tutorial_resinconnectchemicallab,2886,Connect the <b>REFINERY</b> to the <b>CHEMICAL LAB</b> with a <b>PIPE</b>.,Verbind de <b>REFINERY</b> met het <b>CHEMICAL LAB</b> met een <b>LEIDING</b>.
 CURRENT,tutorial_resinsuccess,2886,"Well done, you have started to produce <b>STARGATE RESIN</b>.\n\nWhen you have produced enough, travel back to any <b>COLONY</b>, <b>SHIP YARD</b> or the <b>STARGATE</b> system to sell it to the <b>STARGATE PROJECT</b>.","Goed gedaan, je bent begonnen met het produceren van <b>STARGATE RESIN</b>.\n\nAls je genoeg hebt geproduceerd, reis dan terug naar een willekeurige <b>COLONY</b>, <b>SHIP YARD</b> of het <b>STARGATE</b> systeem om het te verkopen aan het <b>STARGATE PROJECT</b>."
-CURRENT,tutorial_dockingcheckthrusters,2886,"In order to be able to dock successfully, your ship needs at least four working <b>THRUSTERS</b>.\n\nUse a different ship, or purchase and install four thrusters at a nearby trading post.","Om succesvol te kunnen aanmeren, heeft je schip minstens vier werkende <b>THRUSTERS</b> nodig.\n\nGebruik een ander schip of koop en installeer vier thrusters bij een nabijgelegen handelspost."
-CURRENT,tutorial_dockingswitchtotactical,2886,"To get started, switch to <b>TACTICAL</b> mode by clicking the button or pressing <b>{ToggleTactical}</b>.",Om te beginnen schakel je over naar de modus <b>TACTICAL</b> door op de knop te klikken of op <b>{ToggleTactical}</b> te drukken.
+CURRENT,tutorial_dockingcheckthrusters,2886,"In order to be able to dock successfully, your ship needs at least four working <b>THRUSTERS</b>.\n\nUse a different ship, or purchase and install four thrusters at a nearby trading post.","Om succesvol te kunnen aanmeren, heeft Uw schip minstens vier werkende <b>STUURRAKET</b> nodig.\n\nGebruik een ander schip of koop en installeer vier thrusters bij een nabijgelegen handelspost."
+CURRENT,tutorial_dockingswitchtotactical,2886,"To get started, switch to <b>TACTICAL</b> mode by clicking the button or pressing <b>{ToggleTactical}</b>.",Om te beginnen schakelt u over naar de modus <b>TACTISCH</b> door op de knop te klikken of op <b>{ToggleTactical}</b> te drukken.
 CURRENT,tutorial_dockingzoomin,2886,Zoom in so that you can see the docking guides more clearly. They are <b>RED</b> diamonds extending from the docking ports.,Zoom in zodat je de koppelgeleiders duidelijker kunt zien. Het zijn <b>RODE</b> diamanten die uitsteken vanaf de koppelpoorten.
 CURRENT,tutorial_dockingopenmaneuver,2886,Open the <b>MANEUVERING THRUSTER</b> controls.,Open de <b>MANEUVERINGSTREKKEN</b> bedieningselementen.
 CURRENT,tutorial_dockingmaneuverkeys,2886,"Use the Maneuvering controls to move the ship into position.\n\nYou can also use the keys <b>{ManoeuvreUp}</b>, <b>{ManoeuvreLeft}</b>, <b>{ManoeuvreDown}</b>, <b>{ManoeuvreRight}</b> to move, and <b>{ManoeuvreClockwise}</b> and <b>{ManoeuvreCounterClockwise}</b> to rotate the ship.","Gebruik de manoeuvreerbesturing om het schip in positie te brengen.\n\nJe kunt ook de toetsen <b>{ManoeuvreUp}</b>, <b>{ManoeuvreLeft}</b>, <b>{ManoeuvreDown}</b>, <b>{ManoeuvreRight}</b> gebruiken om te bewegen en <b>{ManoeuvreClockwise}</b> en <b>{ManoeuvreCounterClockwise}</b> om het schip te roteren."
-CURRENT,tutorial_dockingmaneuver,2886,"Use your <b>THRUSTERS</b> to maneuver your ship so that <b>RED</b> diamonds of your docking ports align with the docking port of the *X.\n\nWhen aligned correctly, they will both turn <b>YELLOW</b>.\n\nKeep the ships aligned until the docking bridge is fully extended.","Gebruik je <b>THRUSTERS</b> om je schip zo te manoeuvreren dat de <b>RODE</b> ruiten van je koppelpoorten op één lijn liggen met de koppelpoort van de *X.\n\nAls ze goed zijn uitgelijnd, worden ze allebei <b>GEEL</b>.\n\nHoud de schepen op één lijn totdat de landingsbrug volledig is uitgeschoven."
+CURRENT,tutorial_dockingmaneuver,2886,"Use your <b>THRUSTERS</b> to maneuver your ship so that <b>RED</b> diamonds of your docking ports align with the docking port of the *X.\n\nWhen aligned correctly, they will both turn <b>YELLOW</b>.\n\nKeep the ships aligned until the docking bridge is fully extended.","Gebruikt u <b>STUURRAKET</b> om Uw schip zo te manoeuvreren dat de <b>RODE</b> ruiten van uw koppelpoorten op één lijn liggen met de koppelpoort van de *X.\n\nAls ze goed zijn uitgelijnd, worden ze allebei <b>GEEL</b>.\n\nHoud de schepen op één lijn totdat de landingsbrug volledig is uitgeschoven."
 CURRENT,tutorial_logisticscrewselectfrom,2886,Select the <b>SOURCE</b> ship that the crew will come <b>FROM</b>.,Selecteer het <b>BRON</b>schip waar de bemanning vandaan <b>komt</b>.
 CURRENT,tutorial_logisticscrewclicktarget,2886,Click in the <b>CREW</b> cell of the <b>DESTINATION</b> ship to request 5 crew to transfer.,Klik in de <b>CREW</b>-cel van het <b>BESTEMMINGS</b>schip om 5 bemanningsleden over te laten plaatsen.
 CURRENT,tutorial_logisticscrewclicktarget_shiftclick,2886,<b>NOTE</b>: You can <b>SHIFT CLICK</b> to request transfer in multiples of 5.,<b>OPMERKING</b>: Je kunt <b>SHIFT CLICK</b> gebruiken om een transfer in veelvouden van 5 aan te vragen.
@@ -755,7 +741,7 @@ CURRENT,settings_accentinsensitivesearch,2803,Accent Insensitive Search,Zoeken o
 CURRENT,settings_accentinsensitivesearch_description,2803,"When searching in lists, ignore accented characters, e.g. ""é"" will match ""e""","Negeer bij het zoeken in lijsten tekens met accenten, bijvoorbeeld ""é"" komt overeen met ""e"""
 CURRENT,settings_translatorassist,2803,"Translator Assist (Ctrl, Alt)","Vertalerhulp (Ctrl, Alt)"
 CURRENT,settings_sound,2793,SOUND,GELUID
-CURRENT,settings_appearance,2793,APPEARANCE,APPARAAT
+CURRENT,settings_appearance,2793,APPEARANCE,BEELD
 CURRENT,settings_keybindings,2793,KEYBOARD,TOETSENBORD
 CURRENT,settings_other,2793,OTHER,ANDERE
 CURRENT,settings_uibounce,2793,UI Highlight Bounce,UI Markeerstoot
@@ -832,7 +818,7 @@ CURRENT,object_smalltable,2793,Small Table,Kleine tafel
 CURRENT,object_chair,2793,Chair,Stoel
 CURRENT,object_sofa,2793,Sofa,Sofa
 CURRENT,object_potplant,2793,Pot Plant,Potplant
-CURRENT,tutorial_battlestations_title,2793,BATTLE STATIONS,GEVECHTSSTATIONS
+CURRENT,tutorial_battlestations_title,2793,BATTLE STATIONS,GEVECHTS STATIONS
 CURRENT,tutorial_battlestationsstart,2793,We are now going to learn how to deploy our weapons for combat.\n\nThe game has been paused for now.,We gaan nu leren hoe we onze wapens kunnen inzetten voor gevechten.\n\nHet spel is voorlopig gepauzeerd.
 CURRENT,tutorial_battlestationshighlightcrew,2793,Your crew will run to the weapons to deploy them.\n\nGatling guns don't require any crew to deploy them.,Je bemanning rent naar de wapens om ze in te zetten.\n\nGatlingkanonnen vereisen geen bemanning om ze in te zetten.
 CURRENT,tutorial_battlestationshighlightguns,2793,The gun barrels will begin to extend when they arrive.\n\nWhen the barrels are fully extended they will be ready to fire!,"De lopen van het kanon beginnen uit te schuiven als ze aankomen.\n\nAls de lopen volledig uitgeschoven zijn, zijn ze klaar om te vuren!"
@@ -858,7 +844,7 @@ CURRENT,dsi_part2_objective_installengines,2793,OPTIONAL: Install engines in the
 CURRENT,settings_dynamiclighting,2675,Use Dynamic Lighting,Dynamische verlichting gebruiken
 CURRENT,hud_ftlshipnotviablewarning,2675,Ship needs either hull or scaffolding to be brought into hyperspace,Schip heeft romp of steiger nodig om in hyperspace te komen
 CURRENT,trade_cancelautotrade,2675,CANCEL AUTO-TRADE,AUTOHANDEL ANNULEREN
-CURRENT,hud_collector_tooltip_totalgathered,2675,TOTAL GATHERED,TOTAAL GEDRAGD
+CURRENT,hud_collector_tooltip_totalgathered,2675,TOTAL GATHERED,TOTAAL VERZAMELD
 CURRENT,save_cloudsavefailed_header,2639,WARNING: Cloud Save Failed,WAARSCHUWING: Cloud opslaan mislukt
 CURRENT,save_cloudsavefailed_body,2639,"The game failed to save to the cloud, the game has been saved locally instead.\n\nPlease check that you have enough storage in the Steam Cloud and try again.","Het spel is niet opgeslagen in de cloud, het spel is in plaats daarvan lokaal opgeslagen.\n\nControleer of je genoeg opslagruimte hebt in de Steam Cloud en probeer het opnieuw."
 CURRENT,mission_type_sectorjumpgate,2639,Jumpgate (Sector),Jumpgate (Sector)
@@ -1000,7 +986,7 @@ CURRENT,mainmenu_newgamed,2593,New Game - Shipyard,Nieuw spel - Scheepswerf
 CURRENT,mainmenu_newgamee,2593,New Game - Large Logistics,Nieuw spel - Grote logistiek
 CURRENT,mainmenu_savegame,2593,Save Game,Spel opslaan
 CURRENT,mainmenu_loadgame,2593,Load Game,Spel laden
-CURRENT,mainmenu_abandongame,2593,Abandon Game,Spel opgeven
+CURRENT,mainmenu_abandongame,2593,Abandon Game,Spel verlaten
 CURRENT,mainmenu_steamworkshop,2593,Steam Workshop,Stoom Werkplaats
 CURRENT,mainmenu_legal,2593,Privacy / Legal,Privacy / Juridisch
 CURRENT,mainmenu_gamemode_survival,2593,Survival,Overleven
@@ -1089,7 +1075,7 @@ CURRENT,newmainmenu_confirm,2593,CONFIRM,BEVESTIGEN
 CURRENT,newmainmenu_cancel,2593,CANCEL,ANNULEREN
 CURRENT,newmainmenu_settings,2593,SETTINGS,INSTELLINGEN
 CURRENT,newmainmenu_quit,2593,QUIT,STOP
-CURRENT,newmainmenu_abandon,2593,ABANDON GAME,SPEL OPGEVEN
+CURRENT,newmainmenu_abandon,2593,ABANDON GAME,SPEL VERLATEN
 CURRENT,newmainmenu_resume,2593,RESUME,RESUME
 CURRENT,newmainmenu_chooseship,2593,CHOOSE STARTING SHIP,STARTSCHIP KIEZEN
 CURRENT,newmainmenu_begingame,2593,BEGIN GAME,SPEL BEGINNEN
@@ -1105,7 +1091,7 @@ CURRENT,newmainmenu_arena_tradevalues,2593,SHIP VALUES,SCHEEPSWAARDE
 CURRENT,newmainmenu_arena_expandstats,2593,SHOW INFO,INFORMATIE TONEN
 CURRENT,newmainmenu_arena_collapsestats,2593,HIDE INFO,INFO VERBORGEN
 CURRENT,newmainmenu_arena_generateenemyfleet,2593,GENERATE,GENEREREN
-CURRENT,newmainmenu_editship,2593,EDIT SHIP,EDIT SCHIP
+CURRENT,newmainmenu_editship,2593,EDIT SHIP,SCHIP BEWERKEN
 CURRENT,newmainmenu_deleteship,2593,DELETE SHIP,SCHIP WISSEN
 CURRENT,newmainmenu_loadship,2593,LOAD SHIP,LAD SCHIP
 CURRENT,newmainmenu_loadgamedev,2593,LOAD GAME (DEV),SPEL LADEN (DEV)
@@ -1114,8 +1100,8 @@ CURRENT,newmainmenu_createnewsave,2593,CREATE NEW SAVE,NIEUW OPSLAAN
 CURRENT,newmainmenu_savetosteamcloud,2593,SAVE TO STEAM CLOUD,OPSLAAN IN STOOMCLOUD
 CURRENT,newmainmenu_steamcloud,2593,STEAM CLOUD,STOOMKLOUD
 CURRENT,newmainmenu_cloudquotaremaining,2593,Used: *X / *Y (*Z% remaining),Gebruikt: *X / *Y (*Z% over)
-CURRENT,newmainmenu_exportship,2593,EXPORT SHIP,UITVOERSCHIP
-CURRENT,newmainmenu_uploadship,2593,UPLOAD TO STEAM,UPLOADEN NAAR STOOM
+CURRENT,newmainmenu_exportship,2593,EXPORT SHIP,SCHIP EXPORTEREN
+CURRENT,newmainmenu_uploadship,2593,UPLOAD TO STEAM,UPLOADEN NAAR STEAM
 CURRENT,newmainmenu_setshipname,2593,SET SHIP NAME,NAAM SCHIP INSTELLEN
 CURRENT,newmainmenu_importhostile,2593,IMPORT HOSTILE,IMPORT BESTEMMING
 CURRENT,newmainmenu_importfriendly,2593,IMPORT FRIENDLY,IMPORTVRIENDELIJK
@@ -1195,18 +1181,18 @@ CURRENT,hud_trade,2593,Trade,Handel
 CURRENT,hud_preparejump,2593,Prepare Jump,Sprong voorbereiden
 CURRENT,hud_preparingjump,2593,Preparing Jump,Sprong voorbereiden
 CURRENT,hud_readytojump,2593,Ready to Jump,Klaar om te springen
-CURRENT,hud_abortjump,2593,Abort Jump,Sprong afbreken
-CURRENT,hud_aligning,2593,Aligning...,Afstemmen...
+CURRENT,hud_abortjump,2593,Abort Jump,Springen afbreken
+CURRENT,hud_aligning,2593,Aligning...,Uitlijnen...
 CURRENT,hud_outofalignment,2593,Misaligned...,Verkeerd uitgelijnd...
 CURRENT,hud_idle,2593,Idle,Inactief
 CURRENT,hud_ready,2593,READY,GEREED
-CURRENT,hud_jump,2593,JUMP,JUMP
+CURRENT,hud_jump,2593,JUMP,SPRINGEN
 CURRENT,hud_jumpnextsector,2593,JUMP TO NEXT SECTOR,SPRING NAAR VOLGENDE SECTOR
-CURRENT,hud_jumpthroughstargate,2593,JUMP THROUGH STARGATE,SPRONG DOOR STERRENPOORT
+CURRENT,hud_jumpthroughstargate,2593,JUMP THROUGH STARGATE,SPRING DOOR STERRENPOORT
 CURRENT,hud_ftlloading,2593,Loading...,Aan het laden...
 CURRENT,hud_ftlcharging,2593,Charging...,Opladen...
 CURRENT,hud_ftlcooldown,2593,Cooldown...,Afkoelen...
-CURRENT,hud_ftl,2593,FTL Drive,FTL-aandrijving
+CURRENT,hud_ftl,2593,FTL Drive,FTL aandrijving
 CURRENT,hud_ftlincluded,2593,Jump,Spring
 CURRENT,hud_ftlexcluded,2593,Stay,Blijf
 CURRENT,hud_noships,2593,NO SHIPS SELECTED,GEEN SCHEPEN GESELECTEERD
@@ -1218,9 +1204,9 @@ CURRENT,hud_jumpgaterequires,2593,JUMPGATE UNAVAILABLE,SPRONGPOORT NIET BESCHIKB
 CURRENT,hud_ftlwaiting,2593,Waiting...,Wachten...
 CURRENT,hud_debugbuild,2593,Debug,Debug
 CURRENT,hud_endcreativemode,2593,Creative Mode will end,Creatieve modus zal eindigen
-CURRENT,hud_endcreativemode2,2593,When you jump to hyperspace,Als je naar hyperspace springt
+CURRENT,hud_endcreativemode2,2593,When you jump to hyperspace,Waneer u naar hyperspace springt
 CURRENT,hud_endcreativemodewarning,2593,LEAVING CREATIVE MODE,CREATIEVE MODUS VERLATEN
-CURRENT,hud_endcreativemodefull,2593,Creative Mode will end when you jump to hyperspace,De Creative Mode eindigt als je naar de hyperruimte springt
+CURRENT,hud_endcreativemodefull,2593,Creative Mode will end when you jump to hyperspace,De Creative Mode eindigt waneer u naar de hyperruimte springt
 CURRENT,hud_hyperspace,2593,HYPERSPACE,HYPERSPACE
 CURRENT,hud_deselectlayer,2593,DESELECT SHIP,SCHIP VERWIJDEREN
 CURRENT,hud_gun_port,3205,Port *X,*X van Bakboord
@@ -1236,7 +1222,7 @@ CURRENT,hud_window_designation,2593,DESIGNATION,ONTWERP
 CURRENT,hud_window_shipyard,2593,SHIPYARD,SHIPYARD
 CURRENT,hud_window_trade,2593,TRADE,HANDEL
 CURRENT,hud_window_missions,2593,CONTRACTS,CONTRACTEN
-CURRENT,hud_window_power,2593,POWERGRID,POWERGRID
+CURRENT,hud_window_power,2593,POWERGRID,STROOMNET
 CURRENT,hud_window_logistics,2593,LOGISTICS,LOGISTIEK
 CURRENT,hud_window_ftl,2593,FTL,FTL
 CURRENT,hud_window_sectormap,2593,SECTOR MAP ({ToggleMap}),SECTORKAART ({ToggleMap})
@@ -1247,33 +1233,33 @@ CURRENT,hud_window_techtree,2593,RESEARCH,ONDERZOEK
 CURRENT,hud_window_orders,2593,ORDERS,BESTELLINGEN
 CURRENT,hud_window_storage,2593,STORAGE ZONES,OPSLAG ZONES
 CURRENT,hud_open_tooltip,2593,[LMB] Open Window,[LMB] Venster openen
-CURRENT,hud_ftl_jump_tooltip,2593,[RMB] Jump,[RMB] Sprong
+CURRENT,hud_ftl_jump_tooltip,2593,[RMB] Jump,[RMB] Springen
 CURRENT,hud_techtree_tooltip,2593,Researching:,Onderzoeken:
 CURRENT,hud_scoresystem_population,2593,Population,Bevolking
 CURRENT,hud_scoresystem_sectorjump,2593,Sector Jump,Sector Sprong
 CURRENT,hud_overlays,2593,OVERLAYS,OVERLAYS
 CURRENT,hud_overlay_show,2593,Show,Toon
 CURRENT,hud_overlay_cables,2593,Cables,Kabels
-CURRENT,hud_overlay_pipes,2593,Pipes,Buizen
-CURRENT,hud_overlay_walls,2593,Walls,Muren
-CURRENT,hud_overlay_atmosphere,2593,Atmosphere,Sfeer
+CURRENT,hud_overlay_pipes,2593,Pipes,Leidingen
+CURRENT,hud_overlay_walls,2593,Walls,Murenss
+CURRENT,hud_overlay_atmosphere,2593,Atmosphere,Atmosfeer
 CURRENT,hud_overlay_exterior,2593,Exterior,Buitenkant
-CURRENT,hud_overlay_habitation,2593,Habitation,Woning
-CURRENT,hud_overlay_jobs,2593,Jobs,Banen
+CURRENT,hud_overlay_habitation,2593,Habitation,Woondek
+CURRENT,hud_overlay_jobs,2593,Jobs,Taken
 CURRENT,hud_overlay_structure,2593,Structure,Structuur
-CURRENT,hud_overlay_schematic,2593,Schematic,Schema
+CURRENT,hud_overlay_schematic,2593,Schematic,Schematisch
 CURRENT,hud_overlay_tactical,2593,Tactical,Tactisch
 CURRENT,hud_overlay_creativemode,2593,- Creative Mode -,- Creatieve modus -
 CURRENT,hud_battlestations,2593,BATTLE STATIONS,GEVECHTSSTATIONS
 CURRENT,hud_tactical,2593,TACTICAL ({ToggleTactical}),TACTISCH ({ToggleTactical})
-CURRENT,hud_orders,2593,ORDERS,BESTELLINGEN
+CURRENT,hud_orders,2593,ORDERS,OPDRACHTEN
 CURRENT,hud_install,2593,Install,Installeer
 CURRENT,hud_uninstall,2593,Dismantle,Ontmantelen
 CURRENT,hud_status_allocated,2593,Allocated,Toegewezen
 CURRENT,hud_status_inprogress,2593,In Progress,In uitvoering
 CURRENT,hud_storage,2593,Storage,Opslag
 CURRENT,hud_zones,2593,Zones,Zones
-CURRENT,hud_storage_cargo,2593,ANY CARGO,ELKE LADING
+CURRENT,hud_storage_cargo,2593,ANY CARGO,ELKE VRACHT
 CURRENT,hud_storage_equipment,2593,ANY EQUIPMENT,ELKE UITRUSTING
 CURRENT,hud_storage_component,2593,Any Components,Onderdelen
 CURRENT,hud_editor,2593,EDITOR,EDITOR
@@ -1290,7 +1276,7 @@ CURRENT,hud_shipyard_costofrepairs,2593,Cost of repairs,Kosten van reparaties
 CURRENT,hud_shipyard_buildbuyfromlibrary,2593,Buy ship,Schip kopen
 CURRENT,hud_shipyard_selectship,2593,Select a ship,Selecteer een schip
 CURRENT,hud_shipforsale,2593,SHIP FOR SALE,TE KOOP AANBIEDEN
-CURRENT,hud_buyship,2593,BUY,KOP
+CURRENT,hud_buyship,2593,BUY,KOOP
 CURRENT,hud_sellship,2593,SELL YOUR SHIP,VERKOOP JE SCHIP
 CURRENT,hud_repairship,2593,REPAIR,REPARATIE
 CURRENT,hud_shipyardservices,2593,SHIPYARD SERVICES,WERFDIENSTEN
@@ -1301,24 +1287,24 @@ CURRENT,hud_tooltip_leftclickerase,2593,[LMB] Erase,[LMB] Wissen
 CURRENT,hud_tooltip_leftclickdismantle,2593,[LMB] Dismantle,[LMB] Ontmantelen
 CURRENT,hud_tooltip_leftclickresearch,2593,[LMB] Research,[LMB] Onderzoek
 CURRENT,hud_tooltip_rightclickcancel,2593,[RMB] Cancel,[RMB] Annuleren
-CURRENT,hud_tooltip_rightclickclear,2593,[RMB] Clear,[RMB] Vrij
+CURRENT,hud_tooltip_rightclickclear,2593,[RMB] Clear,[RMB] Weghalen
 CURRENT,hud_tooltip_rightclickdelete,2593,[RMB] Delete,[RMB] Wissen
-CURRENT,hud_tooltip_rightclickpurge,2593,[RMB] Purge,[Zuivering
+CURRENT,hud_tooltip_rightclickpurge,2593,[RMB] Purge,[RMB] Zuivering
 CURRENT,hud_tooltip_leftclickchangerecipe,2593,[LMB] Cycle recipe,[LMB] Cyclusrecept
 CURRENT,hud_tooltip_rightclickconfigure,2593,[RMB] Configure,[RMB] configureren
 CURRENT,hud_tooltip_joinpipes,2593,[LMB] Join Pipes,[LMB] Pijpen samenvoegen
 CURRENT,hud_tooltip_separatepipes,2593,[LMB] Separate Pipes,[LMB] Gescheiden leidingen
-CURRENT,hud_tooltip_rotate,2593,[{RotateObject}] Rotate,{RotateObject}] Draaien
+CURRENT,hud_tooltip_rotate,2593,[{RotateObject}] Rotate,[{RotateObject}] Draaien
 CURRENT,hud_tooltip_boxed,2593,[BOXED],[BOXED]
 CURRENT,hud_tooltip_charge,2593,Charge,Laad
 CURRENT,hud_totalproduction,2593,TOTAL PRODUCTION,TOTALE PRODUCTIE
 CURRENT,hud_totalconsumption,2593,TOTAL CONSUMPTION,TOTAAL VERBRUIK
 CURRENT,hud_panel_storagecrate_leftclick,2593,[LMB] x1 Container,[LMB] x1 Container
 CURRENT,hud_panel_storagecrate_shiftclick,2593,[SHIFT] x5 Containers,[SHIFT] x5 Containers
-CURRENT,hud_panel_storagecrate_ctrlclick,2593,[CTRL] x9999 Containers,[x9999 Containers
+CURRENT,hud_panel_storagecrate_ctrlclick,2593,[CTRL] x9999 Containers,[CTRL] x9999 Containers
 CURRENT,hud_panel_storagecrate_quantity,2593,The number of items or stacks of the chosen type that is being stored.,Het aantal items of stapels van het gekozen type dat wordt opgeslagen.
-CURRENT,hud_panel_storagecrate_permitunload,2593,Allow crew members to unload from this crate.\n\nIf disabled then only robot arms can unload.,"Sta bemanningsleden toe om uit deze krat te laden.\n\nAls deze optie is uitgeschakeld, kunnen alleen robotarmen lossen."
-CURRENT,hud_panel_storagecrate_permitload,2593,Allow crew members to load this crate.\n\nIf disabled then only robot arms can load.,"Sta bemanningsleden toe om deze kist te laden.\n\nAls deze optie is uitgeschakeld, kunnen alleen robotarmen laden."
+CURRENT,hud_panel_storagecrate_permitunload,2593,Allow crew members to unload from this crate.\n\nIf disabled then only robot arms can unload.,"Sta bemanningsleden toe om deze krat uit te laden.\n\nAls deze optie is uitgeschakeld, kunnen alleen robotarmen lossen."
+CURRENT,hud_panel_storagecrate_permitload,2593,Allow crew members to load this crate.\n\nIf disabled then only robot arms can load.,"Sta bemanningsleden toe om deze kist in te laden.\n\nAls deze optie is uitgeschakeld, kunnen alleen robotarmen laden."
 CURRENT,hud_panel_storagecrate_selecttype,2593,The type that the storage crate will be storing.,Het type dat de opslagkrat zal opslaan.
 CURRENT,hud_storagecrate_tooltip_dumping,2593,Dumping *X,Het dumpen van *X
 CURRENT,hud_storagecrate_tooltip_remaining,2593,Quantity Remaining: *X,Resterende hoeveelheid: *X
@@ -1326,8 +1312,8 @@ CURRENT,hud_storagecrate_tooltip_storing,2593,Storing *X,*X opslaan
 CURRENT,hud_storagecrate_tooltip_quantity,2593,Quantity: *X,Hoeveelheid: *X
 CURRENT,hud_storagecrate_tooltip_capacity,2593,Capacity: *X,Capaciteit: *X
 CURRENT,hud_collector_tooltip_gathering,2593,Gathering *X *Y per second,Verzamelen *X *Y per seconde
-CURRENT,hud_mission_collection,2593,WARNING - MISSION COLLECTION UNDERWAY,WAARSCHUWING - MISSIE VERZAMELEN AAN DE GANG
-CURRENT,hud_layer_unnaned_system,2593,UNNAMED,NIET GENOEMD
+CURRENT,hud_mission_collection,2593,WARNING - MISSION COLLECTION UNDERWAY,WAARSCHUWING - MISSIE LEVERING BEZIG
+CURRENT,hud_layer_unnaned_system,2593,UNNAMED,NAAMLOOS
 CURRENT,hud_trade_incoming,2593,WARNING - TRADE INCOMING,WAARSCHUWING - INKOMENDE HANDEL
 CURRENT,hud_trade_owed,2593,WARNING - TRADE OWED,WAARSCHUWING - HANDEL VERSCHULDIGD
 CURRENT,hud_trade_hint,2593,You must travel to a Colony or Shipyard to trade,Je moet naar een kolonie of scheepswerf reizen om handel te drijven
@@ -1340,8 +1326,8 @@ CURRENT,hud_removefromtrack,2593,[RMB] Remove from track,[RMB] Verwijderen van s
 CURRENT,communicator_incomingcall,2593,INCOMING HAIL...,INKOMENDE HAGEL...
 CURRENT,communicator_outgoingcall,2593,CALLING...,OPROEPEN...
 CURRENT,hud_repairyourship,2593,You should repair the damage to your ship at a SHIPYARD.,Je moet de schade aan je schip repareren bij een SHIPYARD.
-CURRENT,speed_paused,2593,PAUSED,PAUSED
-CURRENT,speed_slow,2593,SLOW,LAAG
+CURRENT,speed_paused,2593,PAUSED,GEPAUZEERD
+CURRENT,speed_slow,2593,SLOW,TRAAG
 CURRENT,welfare_overlay_severely_dehydrated,2593,CREW SEVERELY DEHYDRATED,BEMANNING ERNSTIG UITGEDROOGD
 CURRENT,welfare_overlay_dehydrated,2593,CREW DEHYDRATED,BEMANNING UITGEDROOGD
 CURRENT,welfare_overlay_thirsty,2593,CREW THIRSTY,CREW DORDRECHT
@@ -1384,7 +1370,7 @@ CURRENT,shipeditor_mode_walls,2593,Walls,Muren
 CURRENT,shipeditor_tooltip_walls,2593,Build walls inside your spaceship to partition the interior space,Bouw muren in je ruimteschip om de binnenruimte in te delen
 CURRENT,shipeditor_mode_armour,2593,Armour,Pantser
 CURRENT,shipeditor_tooltip_armour,2593,Upgrade your hull with armour panels to absorb damage,Upgrade je romp met pantserpanelen om schade te absorberen
-CURRENT,shipeditor_mode_habitation,2593,Habitation,Woning
+CURRENT,shipeditor_mode_habitation,2593,Habitation,Woondek
 CURRENT,shipeditor_tooltip_habitation,2593,Expand your habitation deck to support more crew and passengers,Breid je verblijfsdek uit om meer bemanning en passagiers te ondersteunen
 CURRENT,shipeditor_mode_scaffold,2593,Scaffold,Steiger
 CURRENT,shipeditor_tooltip_scaffold,2593,Add scaffolding to support equipment on the exterior of your ship,Steigers toevoegen om apparatuur aan de buitenkant van je schip te ondersteunen
@@ -1415,25 +1401,25 @@ CURRENT,galaxymap_title,2593,SECTOR MAP,SECTOR KAART
 CURRENT,galaxymap_entrysystem,2593,Arrival,Aankomst
 CURRENT,galaxymap_exitsystem,2593,To Next Sector,Naar volgende sector
 CURRENT,galaxymap_fleet,2593,YOU ARE HERE,U BENT HIER
-CURRENT,galaxymap_unreachable,2593,UNREACHABLE,UNREACHABLE
+CURRENT,galaxymap_unreachable,2593,UNREACHABLE,ONBEREIKBAAR
 CURRENT,galaxymap_civilians,2593,CIVILIANS,BURGERS
-CURRENT,galaxymap_noescape,2593,NO ESCAPE,GEEN ESCAPE
-CURRENT,galaxymap_colony,2593,COLONY,COLONY
+CURRENT,galaxymap_noescape,2593,NO ESCAPE,GEEN ONTSNAPPEN
+CURRENT,galaxymap_colony,2593,COLONY,KOLONIE
 CURRENT,galaxymap_starbase,2593,STARBASE,STARBASE
-CURRENT,galaxymap_shipyard,2593,SHIPYARD,SHIPYARD
+CURRENT,galaxymap_shipyard,2593,SHIPYARD,SCHEEPSWERF
 CURRENT,galaxymap_distresscall,2593,DISTRESS CALL,NOODOPROEP
-CURRENT,galaxymap_derelict,2593,DERELICT,DERELICT
-CURRENT,galaxymap_hostile,2593,HOSTILES,HOSTILES
+CURRENT,galaxymap_derelict,2593,DERELICT,VERLATEN
+CURRENT,galaxymap_hostile,2593,HOSTILES,VIJANDEN
 CURRENT,galaxymap_fortress,2593,FORTRESS,FORTRESS
-CURRENT,galaxymap_objectives,2593,SECTOR CONTRACTS,SECTORCONTRACTEN
-CURRENT,galaxymap_comet,2593,COMET,COMET
-CURRENT,galaxymap_jumpgate,2593,JUMPGATE,JUMPGATE
+CURRENT,galaxymap_objectives,2593,SECTOR CONTRACTS,SECTOR CONTRACTEN
+CURRENT,galaxymap_comet,2593,COMET,KOMEET
+CURRENT,galaxymap_jumpgate,2593,JUMPGATE,SPRINGPOORT
 CURRENT,sector_start,2593,HOME SECTOR,HUIS SECTOR
 CURRENT,galaxymap_endof,2593,END OF,EINDE VAN
 CURRENT,galaxymap_demo,2593,DEMO,DEMO
 CURRENT,galaxymap_playtest,2593,PLAYTEST,PLAYTEST
 CURRENT,powergrid_title,2593,POWER GRID,STROOMNET
-CURRENT,powergrid_power,2593,POWER,KRACHT
+CURRENT,powergrid_power,2593,POWER,STROOM
 CURRENT,powergrid_category_reactor,2593,REACTOR,REACTOR
 CURRENT,powergrid_category_battery,2593,BATTERY,BATTERIJ
 CURRENT,powergrid_category_engines,2593,ENGINES,MOTOREN
@@ -1477,12 +1463,12 @@ CURRENT,trade_overlay_you,2593,YOU,JIJ
 CURRENT,trade_overlay_boxed,2593,[boxed],[boxed]
 CURRENT,trade_window_energy,2593,Energy,Energie
 CURRENT,trade_window_propulsion,2593,Propulsion,Voortstuwing
-CURRENT,trade_window_habitation,2593,Habitation,Woning
+CURRENT,trade_window_habitation,2593,Habitation,Habitat
 CURRENT,trade_window_defense,2593,Defense,Defensie
 CURRENT,trade_window_industry,2593,Industry,Industrie
 CURRENT,trade_window_logistics,2593,Logistics,Logistiek
 CURRENT,trade_window_science,2593,Science,Wetenschap
-CURRENT,trade_window_resources,2593,Resources,Bronnen
+CURRENT,trade_window_resources,2593,Resources,Middelen
 CURRENT,trade_window_components,2593,Components,Onderdelen
 CURRENT,trade_window_crew,2593,Crew,Bemanning
 CURRENT,trade_equipment_size,2593,- Size *X x *Y,- Afmeting *X x *Y
@@ -1502,7 +1488,7 @@ CURRENT,trade_tooltip_remove_rmb,2593,[RMB] Remove,[RMB] Verwijderen
 CURRENT,trade_tooltip_clear,2593,[RMB] Clear,[RMB] Vrij
 CURRENT,trade_tooltip_cancel,2593,[RMB] Cancel,[RMB] Annuleren
 CURRENT,trade_tooltip_shift,2593,[SHIFT] x5,[SHIFT] x5
-CURRENT,trade_tooltip_control,2593,[CTRL] All,[Alles
+CURRENT,trade_tooltip_control,2593,[CTRL] All,[CTRL] Alles
 CURRENT,trade_tooltip_disableorder,2593,[CTRL + RMB] Disable,[CTRL + RMB] Uitschakelen
 CURRENT,trade_ourstock,2593,You have *X on-board,Je hebt *X aan boord
 CURRENT,trade_buying,2593,Buying *X,Kopen *X
@@ -1582,8 +1568,8 @@ CURRENT,techtree_node_title_deflectorbeams,2593,Deflector Beams,Afbuigbalken
 CURRENT,techtree_node_caption_deflectorbeams,2593,Unlocks schematics to build a defensive system that can deflect incoming cannon shells,Ontgrendelt schema's om een verdedigingssysteem te bouwen dat inkomende kanongranaten kan afketsen
 CURRENT,techtree_node_title_science,2593,Science,Wetenschap
 CURRENT,techtree_node_caption_science,2593,Unlocks improvements in all areas of advanced physics,Ontgrendelt verbeteringen op alle gebieden van geavanceerde natuurkunde
-CURRENT,techtree_node_title_habitation,2593,Habitation,Woning
-CURRENT,techtree_node_caption_habitation,2593,Unlocks efficiency improvements for all areas of life support and crew survival,Maakt efficiëntieverbeteringen mogelijk op alle gebieden van levensondersteuning en overleven van de bemanning
+CURRENT,techtree_node_title_habitation,2593,Habitation,Levensonderhoud
+CURRENT,techtree_node_caption_habitation,2593,Unlocks efficiency improvements for all areas of life support and crew survival,Maakt efficiëntieverbeteringen mogelijk op alle gebieden van levensondersteuning en het overleven van de bemanning
 CURRENT,techtree_node_title_recycling1,2593,Recycling Efficiency 1,Recycling Efficiëntie 1
 CURRENT,techtree_node_caption_recycling1,2593,Improves all life-support recycling to 90% efficiency,Verbetert alle levensinstandhoudingsrecycling tot 90% efficiëntie
 CURRENT,techtree_node_title_recycling2,2593,Recycling Efficiency 2,Recycling Efficiëntie 2
@@ -1610,10 +1596,10 @@ CURRENT,techtree_editor_save,2593,SAVE CHANGES,WIJZIGINGEN OPSLAAN
 CURRENT,techtree_editor_reset,2593,RELOAD TREE,HERLADEN BOOM
 CURRENT,techtree_award_title,2593,RESEARCH COMPLETED,AFGEROND ONDERZOEK
 CURRENT,award_rewards,2593,Rewards,Beloningen
-CURRENT,tactical_docked,2593,--- DOCKED ---,--- GEDOKT
-CURRENT,tactical_undock,2593,UNDOCK,UNDOCK
-CURRENT,tactical_throttle,2593,THROTTLE,DRAAIKNOP
-CURRENT,tactical_detach_all,2593,DETACH ALL,ALLES VERWIJDEREN
+CURRENT,tactical_docked,2593,--- DOCKED ---,--- AANGEKOPPELD ---
+CURRENT,tactical_undock,2593,UNDOCK,ONTKOPPELEN
+CURRENT,tactical_throttle,2593,THROTTLE,GASHENDEL
+CURRENT,tactical_detach_all,2593,DETACH ALL,ALLES ONTKOPELLEN
 CURRENT,tactical_velocity,2593,VELOCITY,VELOCITY
 CURRENT,tactical_evasion,2593,EVASION,EVASIE
 CURRENT,tactical_weapons,2593,WEAPONS,WAPENS
@@ -1621,7 +1607,7 @@ CURRENT,tactical_fire,2593,FIRE,BRAND
 CURRENT,tactical_hold,2593,HOLD,VASTHOUDEN
 CURRENT,tactical_maneuvering,2593,MANEUVERING,MANEUVERING
 CURRENT,tactical_damaged,2593,DAMAGED,BESCHADIGD
-CURRENT,tactical_reloading,2593,RELOADING,RELOADING
+CURRENT,tactical_reloading,2593,RELOADING,HERLADEN
 CURRENT,tactical_lowpower,2593,LOW POWER,LAAG VERMOGEN
 CURRENT,logisticswindow_title,2593,LOGISTICS,LOGISTIEK
 CURRENT,logistics_tooltip_transfer,2593,[LMB] Transfer 1 from *X,[LMB] Overdracht 1 van *X
@@ -1631,7 +1617,7 @@ CURRENT,orders_logistics,2593,LOGISTICS,LOGISTIEK
 CURRENT,orders_crew,2593,CREW,CREW
 CURRENT,orders_doors,2593,DOORS,DEUREN
 CURRENT,order_none,2593,None,Geen
-CURRENT,order_salvage,2593,Gather Salvage,Salvage verzamelen
+CURRENT,order_salvage,2593,Gather Salvage,Bergen
 CURRENT,order_gather,2593,Gather Materials,Materialen verzamelen
 CURRENT,order_repairhull,2593,Repair Hull,Romp repareren
 CURRENT,order_shiftwork,2593,Shift Work,Ploegendienst
@@ -1643,8 +1629,8 @@ CURRENT,order_battlestations,2593,Battle Stations,Gevechtsstations
 CURRENT,order_mining,2593,Mining,Mijnbouw
 CURRENT,action_opendoors,2593,Open All Doors,Open alle deuren
 CURRENT,action_closedoors,2593,Close All Doors,Sluit alle deuren
-CURRENT,action_openvents,2593,Open All Vents,Open alle ventilatieopeningen
-CURRENT,action_closevents,2593,Close All Vents,Sluit alle ventilatieopeningen
+CURRENT,action_openvents,2593,Open All Vents,Open alle ventilatieroosters
+CURRENT,action_closevents,2593,Close All Vents,Sluit alle ventilatieroosters
 CURRENT,missions_title,2593,CONTRACTS,CONTRACTEN
 CURRENT,mission_accept,2593,Accept,Accepteer
 CURRENT,mission_accepted,2593,Accepted,Geaccepteerd
@@ -1652,8 +1638,8 @@ CURRENT,mission_acceptonlayer,2593,Accept and assign to *X,Accepteren en toewijz
 CURRENT,mission_assignedtolayer,2593,Accepted and assigned to L*X,Aanvaard en toegewezen aan L*X
 CURRENT,mission_cannotassigntolayer,2593,Cannot assign to *X,Kan niet toewijzen aan *X
 CURRENT,mission_episode_1,2593,EPISODE 1,EPISODE 1
-CURRENT,mission_deliver,2593,Deliver,Lever
-CURRENT,mission_turnin,2593,Turn in contract,Contract inleveren
+CURRENT,mission_deliver,2593,Deliver,Afleveren
+CURRENT,mission_turnin,2593,Turn in contract,Contract afleveren
 CURRENT,mission_completed,2593,COMPLETED,VOLTOOID
 CURRENT,mission_failed,2593,FAILED,MISLUKT
 CURRENT,mission_bypassed,2593,BYPASSED,GEPASSEERD
@@ -1663,14 +1649,14 @@ CURRENT,mission_paymentcash,2593,PAYMENT *X,BETALING *X
 CURRENT,mission_payment,2593,Payment will be $*X.,De betaling bedraagt $*X.
 CURRENT,mission_paymentinflation,2593,(The client is offering *Xx more money than usual),(De klant biedt *Xx meer geld dan normaal)
 CURRENT,mission_paymentinflationpercent,2593,(The client is offering *X% more money than usual),(De klant biedt *X% meer geld dan normaal)
-CURRENT,mission_contractcompleted,2593,Contract Completed,Contract Voltooid
+CURRENT,mission_contractcompleted,2593,Contract Completed,Contract Afgerond
 CURRENT,mission_cannotaccept,2593,You cannot accept this mission,Je kunt deze missie niet accepteren
 CURRENT,mission_special,2593,Special Mission,Speciale missie
 CURRENT,mission_new,2593,NEW,NIEUW
 CURRENT,mission_illegal,2593,ILLEGAL ACTIVITY,ILLEGALE ACTIVITEIT
 CURRENT,mission_assignedto,2593,(Assigned to *X),(Toegewezen aan *X)
-CURRENT,mission_recovered,2593,RECOVERED,HERSTELD
-CURRENT,mission_delivered,2593,DELIVERED,LEVER
+CURRENT,mission_recovered,2593,RECOVERED,TERUGGEHAALD
+CURRENT,mission_delivered,2593,DELIVERED,AFGELEVERD
 CURRENT,mission_collected,2593,COLLECTED,VERZAMELD
 CURRENT,mission_showonmap,2593,SHOW ON MAP,TONEN OP KAART
 CURRENT,mission_youarehere,2593,YOU ARE HERE,U BENT HIER
@@ -1695,21 +1681,21 @@ CURRENT,mission_show_completed,2593,SHOW COMPLETED,SHOW VOLTOOID
 CURRENT,mission_type_delivery,2593,Delivery,Levering
 CURRENT,mission_delivery_title,2593,Courier mission: Deliver cargo to nearby system,Koeriersmissie: Vracht afleveren bij nabijgelegen systeem
 CURRENT,mission_delivery_titlefurther,2593,Deliver cargo to another sector,Vracht afleveren bij een andere sector
-CURRENT,mission_delivery_description,2593,I've got *X boxes of supplies that need delivering.,Ik heb *X dozen met voorraden die bezorgd moeten worden.
+CURRENT,mission_delivery_description,2593,I've got *X boxes of supplies that need delivering.,Ik heb *X dozen met bevoorrading die bezorgd moeten worden.
 CURRENT,mission_delivery_descriptionfurther,2593,"The destination is *Y Sector Jumps away, in Sector *X.","De bestemming is *Y Sector Sprongen weg, in Sector *X."
 CURRENT,mission_delivery_destination,2593,"The destination is in this Sector, at Star System S*X.","De bestemming is in deze Sector, bij Sterrenstelsel S*X."
-CURRENT,mission_delivery_timed,2593,These goods are required immediately. You'll have just *X minutes. (+50% pay),Deze goederen zijn onmiddellijk nodig. Je hebt maar *X minuten (+50% loon)
+CURRENT,mission_delivery_timed,2593,These goods are required immediately. You'll have just *X minutes. (+50% pay),Deze goederen zijn onmiddellijk nodig. U hebt maar *X minuten (+50% betaling)
 CURRENT,mission_delivery_timeremaining,2593,You have just *X seconds remaining to make the delivery!,Je hebt nog maar *X seconden om de levering te doen!
 CURRENT,mission_delivery_outoftime,2593,It is too late - you will no longer be paid for the remaining cargo.,Het is te laat - je wordt niet meer betaald voor de resterende lading.
-CURRENT,mission_delivery_shuttle,2593,A shuttle is on route to you now with the supplies.,Er is nu een shuttle naar je onderweg met de voorraden.
-CURRENT,mission_delivery_delivery,2593,Supplied *X out of *Y items.,Geleverd *X van de *Y items.
+CURRENT,mission_delivery_shuttle,2593,A shuttle is on route to you now with the supplies.,Er is nu een shuttle naar u onderweg met de vracht.
+CURRENT,mission_delivery_delivery,2593,Supplied *X out of *Y items.,*X van de *Y artikelen aangeleverd.
 CURRENT,mission_delivery_alldelivered,2593,All cargo has been supplied. Good luck.,Alle vracht is geleverd. Veel succes.
 CURRENT,mission_delivery_turnin,2593,A shuttle is on its way to collect the cargo.,Er is een shuttle onderweg om de lading op te halen.
-CURRENT,mission_delivery_received,2593,Received *X out of *Y items. Total payment due $*Z.,Ontvangen *X van *Y items. Totaal verschuldigde betaling $*Z.
+CURRENT,mission_delivery_received,2593,Received *X out of *Y items. Total payment due $*Z.,*X van *Y artikelen Ontvangen. Totaal verschuldigde betaling $*Z.
 CURRENT,mission_delivery_toolate,2593,"Received *X out of *Y items, but the time limit has now expired.","*X van de *Y items ontvangen, maar de tijdslimiet is nu verstreken."
 CURRENT,mission_delivery_lost,2593,The remaining *X items of cargo are unaccounted for.,De resterende *X vrachtstukken zijn vermist.
 CURRENT,mission_delivery_wrongdestination,2593,Some of the cargo has been delivered to the wrong location. You will not be paid.,Een deel van de vracht is op de verkeerde locatie afgeleverd. Je wordt niet betaald.
-CURRENT,mission_delivery_success,2593,Delivered *X out of *Y items,Geleverd *X van de *Y items
+CURRENT,mission_delivery_success,2593,Delivered *X out of *Y items,*X van de *Y artikelen afgeleverd
 CURRENT,mission_delivery_location,2593,Travel to the delivery system,Reis naar het afleversysteem
 CURRENT,mission_type_passengers,2593,Transport passengers,Passagiers vervoeren
 CURRENT,mission_passengers_title,2593,Urgent passenger transport request,Dringend verzoek om personenvervoer
@@ -1824,7 +1810,7 @@ CURRENT,mission_sectordestory_success,2593,HOSTILES ELIMINATED,VIJANDEN UITGESCH
 CURRENT,mission_type_sectorrescue,2593,Rescue (Sector),Redding (Sector)
 CURRENT,mission_sectorrescue_title,2593,SECTOR OBJECTIVE: Rescue civilians from wrecked ship,SECTOR DOELSTELLING: Burgers redden van wrak schip
 CURRENT,mission_sectorrescue_description1,2593,Investigate a distress call in system S*X.,Onderzoek een noodoproep in systeem S*X.
-CURRENT,mission_sectorrescue_thrusters,2593,NB. YOU WILL NEED AT LEAST FOUR THRUSTERS TO MANOEUVRE INTO POSITION.,NB. JE HEBT MINSTENS VIER STUWRAKETTEN NODIG OM IN POSITIE TE MANOEUVREREN.
+CURRENT,mission_sectorrescue_thrusters,2593,NB. YOU WILL NEED AT LEAST FOUR THRUSTERS TO MANOEUVRE INTO POSITION.,NB. U HEBT MINSTENS VIER STUURRAKETTEN NODIG OM IN POSITIE TE MANOEUVREREN.
 CURRENT,mission_sectorrescue_timed,2593,The ship engines will explode very soon. (+25% pay).,De scheepsmotoren zullen snel exploderen. (+25% loon).
 CURRENT,mission_sectorrescue_meteors,2593,There are reports of a meteor shower in the area. (+25% pay).,Er zijn meldingen van een meteorenregen in de omgeving. (+25% loon).
 CURRENT,mission_sectorrescue_thrust,2593,The ship is moving - you will need some skill to dock safely. (+25% pay),Het schip beweegt - je hebt enige vaardigheid nodig om veilig aan te meren. (+25% loon)
@@ -1943,15 +1929,15 @@ CURRENT,nomadobjective_successbonus,2593,Population has reached *X residents. Fu
 CURRENT,nomadobjective_nextbonus,2593,Next bonus when population reaches *X residents - $*Y.,Volgende bonus als de bevolking *X inwoners - $*Y bereikt.
 CURRENT,nomadobjective_award,2593,NOMAD REWARD,NOMAD BELONING
 CURRENT,nomadobjective_success,2593,*X fleet residents,*X vlootbewoners
-CURRENT,object_airduct,2593,Airduct,Luchtgeleiding
-CURRENT,object_airduct_description,2593,Pumps oxygen into the surrounding cabin until a breathable atmosphere is achieved. Must be supplied with Oxygen through a pipe.,Pompt zuurstof in de omringende cabine totdat er een ademende atmosfeer is bereikt. Moet via een pijp van zuurstof worden voorzien.
+CURRENT,object_airduct,2593,Airduct,Luchtkanaal
+CURRENT,object_airduct_description,2593,Pumps oxygen into the surrounding cabin until a breathable atmosphere is achieved. Must be supplied with Oxygen through a pipe.,Pompt zuurstof in de omringende cabine totdat er een adembare atmosfeer is bereikt. Moet via een leiding van zuurstof worden voorzien.
 CURRENT,object_battery,2593,Battery,Batterij
 CURRENT,object_box,2593,Box,Box
 CURRENT,object_bullets,2593,Bullets,Kogels
 CURRENT,object_bullets_description,2593,A box of ammo for a Gatling Gun (PDC).,Een doos munitie voor een Gatling Gun (PDC).
 CURRENT,object_railgunshell,2593,Railgun Slugs,Railgun kogels
 CURRENT,object_railgunshell_description,2593,A box of ammo for a Railgun.,Een doos munitie voor een Railgun.
-CURRENT,object_cargo,2593,Cargo,Lading
+CURRENT,object_cargo,2593,Cargo,Vracht
 CURRENT,object_civilian,2593,Civilian,Burger
 CURRENT,object_refugee,2593,Refugee,Vluchteling
 CURRENT,object_crewmember,2593,Crew,Bemanning
@@ -1977,20 +1963,20 @@ CURRENT,object_energytransmitter,2593,Energy Transmitter,Energiezender
 CURRENT,object_energytransmitter_description,2593,"A large piece of equipment, capable of transmitting up to 200MW to the Stargate.",Een groot apparaat dat tot 200MW naar de Sterrenpoort kan zenden.
 CURRENT,object_engine,2593,Engine,Motor
 CURRENT,object_engine_description,2593,The ship's main source of forward thrust.  Must be supplied with Fuel (via a pipe) and Power (via a cable).,De belangrijkste bron van voorwaartse stuwkracht van het schip.  Moet worden voorzien van brandstof (via een pijp) en stroom (via een kabel).
-CURRENT,object_thruster,2593,Thruster,Boegschroef
-CURRENT,object_thruster_description,2593,Maneuvering thruster. Must be attached to the wall of the ship. Provides thrust to permit lateral and rotational movement.,Manoeuvreerstuwraket. Moet aan de wand van het schip worden bevestigd. Levert stuwkracht om zijdelingse en rotatiebewegingen mogelijk te maken.
+CURRENT,object_thruster,2593,Thruster,Stuurraket
+CURRENT,object_thruster_description,2593,Maneuvering thruster. Must be attached to the wall of the ship. Provides thrust to permit lateral and rotational movement.,Manoeuvreer stuurraket. Moet aan de wand van het schip worden bevestigd. Levert stuwkracht om zijdelingse en rotatiebewegingen mogelijk te maken.
 CURRENT,object_entity,2593,Entity,Entiteit
 CURRENT,object_equipment,2593,Equipment,Uitrusting
 CURRENT,object_fighter,2593,Fighter,Vechter
 CURRENT,object_food,2593,Food,Voedsel
-CURRENT,object_ftlcharge,2593,FTL Charge,FTL opladen
-CURRENT,object_ftldrive,2593,FTL Drive,FTL-aandrijving
+CURRENT,object_ftlcharge,2593,FTL Charge,FTL Lading
+CURRENT,object_ftldrive,2593,FTL Drive,FTL aandrijving
 CURRENT,object_fuel,2593,Fuel,Brandstof
 CURRENT,object_fusionreactor,2593,Fusion Reactor,Fusiereactor
 CURRENT,object_fusionreactor_description,2593,Uses nuclear fusion of Deuterium to generate large amounts of energy. However the fusion reactor must be 'powered up' with a huge amount of energy before it will generate any power itself.\n\nGenerates a maximum power output of 500MW.,Gebruikt kernfusie van Deuterium om grote hoeveelheden energie op te wekken. De fusiereactor moet echter worden 'opgestart' met een enorme hoeveelheid energie voordat hij zelf energie opwekt.\n\nGenereert een maximaal vermogen van 500MW.
 CURRENT,object_weaponsconsole,2593,Weapons Control Centre,Wapencontrolecentrum
 CURRENT,object_weaponsconsole_description,2593,A terminal where a Weapons Officer can control multiple weapons at the same time.,Een terminal waar een wapenofficier meerdere wapens tegelijk kan bedienen.
-CURRENT,object_gatlinggun,2593,Gatling Gun,Katapultgeweer
+CURRENT,object_gatlinggun,2593,Gatling Gun,Gatling gun
 CURRENT,object_gatlinggun_description,2593,"A close range rapid-fire weapon system, primarily designed for defense against incoming fighters and ordnance.  The gatling gun excels at destroying fast-moving targets at close range, but lacks the punch to penetrate armoured targets.","Een snelvuurwapensysteem voor de korte afstand, voornamelijk ontworpen voor verdediging tegen inkomende gevechtsvliegtuigen en munitie.  Het gatlinggeweer blinkt uit in het vernietigen van snel bewegende doelen op korte afstand, maar mist de kracht om gepantserde doelen te doorboren."
 CURRENT,object_cannon,2593,Cannon,Kanon
 CURRENT,object_cannon_description,2593,"A medium range weapon system that launches a barrage of explosive shells at the target. Cannon shells are excellent at dealing area-of-effect damage to an enemy ship, and will shred hull armour.",Een wapensysteem voor middellange afstand dat een spervuur van explosieve granaten op het doelwit afvuurt. Granaten van kanonnen zijn uitstekend geschikt om effectgebiedschade toe te brengen aan een vijandelijk schip en versnipperen het pantser van de romp.
@@ -2042,7 +2028,7 @@ CURRENT,object_missioncargo,2593,Mission Cargo,Missie Vracht
 CURRENT,object_repairstructure,2593,Repair Structural Damage,Structurele schade herstellen
 CURRENT,object_repairstructure_description,2593,"The local shipyard can repair the heavy structural damage on your ship, for a price.",De plaatselijke scheepswerf kan tegen betaling de zware structurele schade aan je schip repareren.
 CURRENT,object_scrapmetal,2593,Scrap Metal,Metaalschroot
-CURRENT,object_metalingot,2593,Metal Ingot,Metaal Ingot
+CURRENT,object_metalingot,2593,Metal Ingot,Metaal staaf
 CURRENT,object_preciousore,2593,Precious Ore,Kostbaar erts
 CURRENT,object_preciousmetals,2593,Precious Metals,Edele metalen
 CURRENT,object_tiliumore,2593,Tilium Ore,Tiliumerts
@@ -2142,7 +2128,7 @@ CURRENT,stations_title,2593,STATIONS,STATIONS
 CURRENT,designation_civilian,2593,Civilian,Burger
 CURRENT,designation_crewquarters,2593,Crew Quarters,Bemanningsverblijf
 CURRENT,loader_mode_stop,2593,Stop,Stop
-CURRENT,loader_mode_load,2593,Load,Laden
+CURRENT,loader_mode_load,2593,Load,Inladen
 CURRENT,loader_mode_unload,2593,Unload,Uitladen
 CURRENT,pressanykey,2593,- continue -,- ga door -
 CURRENT,opentextcrawl_1,2593,It is the 23rd century.  Humanity has colonised the stars.,Het is de 23e eeuw.  De mensheid heeft de sterren gekoloniseerd.
@@ -2256,23 +2242,23 @@ CURRENT,alert_type_dead,2593,DEATHS,STERFGEVALLEN
 CURRENT,alert_type_dead_caption,2593,*X dead,*X dood
 CURRENT,alert_type_lowresource_caption,2593,*X,*X
 CURRENT,alert_type_lowfuel,2593,LOW FUEL,BRANDSTOF BIJNA OP
-CURRENT,alert_type_lowftl,2593,FTL CHARGES,FTL KOSTEN
+CURRENT,alert_type_lowftl,2593,FTL CHARGES,FTL LADING
 CURRENT,alert_type_lowoxygen,2593,LOW OXYGEN,LAGE OXYGEN
 CURRENT,alert_type_lowbattery,2593,BATTERY LOW,BATTERIJ LAAG
 CURRENT,alert_type_lowfood,2593,LOW FOOD,LAAG VOEDSEL
 CURRENT,alert_type_lowwater,2593,LOW WATER,LAAG WATER
 CURRENT,alert_type_lowbattery_caption,2593,*X%,*X%
 CURRENT,alert_type_lowbattery_tooltip,2593,"Your batteries have been drained. It is likely your reactors are not creating enough power to meet the needs of your ship. You will need either more Reactors, or more battery storage, or both.","Je batterijen zijn leeg. Waarschijnlijk maken je reactoren niet genoeg stroom om aan de behoeften van je schip te voldoen. Je hebt meer reactoren nodig, of meer batterijopslag, of allebei."
-CURRENT,alert_type_powercut,2593,POWER CUT,VERMOGENSAFSNIJDING
+CURRENT,alert_type_powercut,2593,POWER CUT,STROOM ONDERBREKING
 CURRENT,alert_type_powercut_nofuel,2593,Fuel supply interrupted,Brandstoftoevoer onderbroken
-CURRENT,alert_type_powercut_tooltip,2593,Your reactor has cut out. It is likely the fuel supply has been interrupted.  Consider using storage tanks to create a permanent store of fuel for your Reactor to draw from.,Je reactor is uitgevallen. Waarschijnlijk is de brandstoftoevoer onderbroken.  Overweeg het gebruik van opslagtanks om een permanente voorraad brandstof aan te leggen waaruit je Reactor kan putten.
+CURRENT,alert_type_powercut_tooltip,2593,Your reactor has cut out. It is likely the fuel supply has been interrupted.  Consider using storage tanks to create a permanent store of fuel for your Reactor to draw from.,Uw reactor is uitgevallen. Waarschijnlijk is de brandstoftoevoer onderbroken.  Overweeg het gebruik van opslagtanks om een buffer brandstof aan te maken wat uw Reactor kan gebuiken.
 CURRENT,alert_type_nostorage,2593,NO STORAGE,GEEN OPSLAG
 CURRENT,alert_type_autotradeinactive,2593,AUTO-TRADE INACTIVE,AUTOHANDEL INACTIEF
 CURRENT,alert_type_autotradeinactive_tooltip,2593,One or more of your auto-orders have been made inactive. This may be because you owe a large payment to X.,Een of meer van je auto-orders zijn inactief gemaakt. Dit kan zijn omdat je een grote betaling verschuldigd bent aan X.
-CURRENT,warning_unbreathable,2593,UNBREATHABLE,UNBREATHABLE
+CURRENT,warning_unbreathable,2593,UNBREATHABLE,ONADEMBAAR
 CURRENT,warning_suitsrequired,2593,SPACESUITS REQUIRED,RUIMTEPAKKEN VEREIST
 CURRENT,warning_deliveryblocked,2593,DELIVERY BLOCKED,LEVERING GEBLOKKEERD
-CURRENT,warning_storagerequired,2593,CREATE STORAGE ZONES,OPSLAGZONES MAKEN
+CURRENT,warning_storagerequired,2593,CREATE STORAGE ZONES,MAAK OPSLAGZONES
 CURRENT,format_currency,2593,$*X,$*X
 CURRENT,format_per_square,2593,*X / sq,*X / sq
 CURRENT,ratings,2593,RATINGS,RATINGS
@@ -2322,7 +2308,7 @@ CURRENT,tutorial_introduction1,2593,Welcome to our new home.,Welkom in ons nieuw
 CURRENT,tutorial_camera_title,2593,CAMERA CONTROLS,CAMERABEDIENING
 CURRENT,tutorial_power_title,2593,INSTALLING POWER,STROOM INSTALLEREN
 CURRENT,tutorial_power_titlecomplete,2593,POWER INSTALLED,STROOM GEÏNSTALLEERD
-CURRENT,tutorial_air_title,2593,OXYGEN,OXYGEN
+CURRENT,tutorial_air_title,2593,OXYGEN,ZUURSTOF
 CURRENT,tutorial_engines_title,2593,ENGINES,MOTOREN
 CURRENT,tutorial_enginesintro,2593,"The ship has two factory fitted engines ready to go, but we need to connect them up.","Het schip heeft twee in de fabriek gemonteerde motoren die klaar zijn voor gebruik, maar we moeten ze nog aansluiten."
 CURRENT,tutorial_enginesconnectpipes,2593,Let's start with the starboard engine. Use the pipes menu to run a pipe from the engine to your existing yellow fuel lines.,Laten we beginnen met de stuurboordmotor. Gebruik het leidingenmenu om een leiding van de motor naar je bestaande gele brandstofleidingen te leggen.
@@ -2355,10 +2341,10 @@ CURRENT,tutorial_tutorialskipyes,2593,SKIP TUTORIAL,TUTORIAL OVERSLAAN
 CURRENT,tutorial_tutorialskipno,2593,RESUME TUTORIAL,CV-HANDLEIDING
 CURRENT,tutorial_resin_title,2593,GAS COLLECTORS,GAS COLLECTOREN
 CURRENT,tutorial_end_title,2593,END OF TUTORIAL,EINDE TUTORIAL
-CURRENT,tutorial_docking_title,2593,DOCKING,KUSSEN
+CURRENT,tutorial_docking_title,2593,DOCKING,AANLEGEN
 CURRENT,tutorial_dockingstart,2593,We are now going to learn how to dock your ship to another ship.,We gaan nu leren hoe je je schip aan een ander schip kunt koppelen.
 CURRENT,tutorial_dockingapproachship_x,2593,Use your main ship engines to get close to the *X.,Gebruik de motoren van je hoofdschip om dicht bij de *X te komen.
-CURRENT,tutorial_dockingsuccess,2593,Well done. You have docked successfully!,Goed gedaan. Je bent succesvol aangemeerd!
+CURRENT,tutorial_dockingsuccess,2593,Well done. You have docked successfully!,Goed gedaan. U bent succesvol aangekopeld!
 CURRENT,tutorial_logistics_crew_title,2593,CREW LOGISTICS,CREW LOGISTIEK
 CURRENT,tutorial_logisticscrewstart,2593,We are now going to learn how to transfer crew from one ship to another.\n\nThe two ships must be docked so that the crew can walk from one ship to another.,We gaan nu leren hoe we bemanning van het ene schip naar het andere kunnen overplaatsen.\n\nDe twee schepen moeten worden aangemeerd zodat de bemanning van het ene schip naar het andere kan lopen.
 CURRENT,tutorial_logisticscrewswitchtonormalview,2593,"First, switch back to normal view by leaving tactical mode.",Schakel eerst terug naar de normale weergave door de tactische modus te verlaten.
@@ -2400,31 +2386,31 @@ CURRENT,opentextcrawlstory_6,2593,"With trillions in funding up for grabs, the s
 CURRENT,opentextcrawlstory_7,2593,"Will you rise to the challenge, and chart your own course among the stars?",Ga jij de uitdaging aan en zet jij je eigen koers uit tussen de sterren?
 CURRENT,calltoarms_harken_1,2593,"Captain, I'm the chief of security for this sector, and I need your help.","Kapitein, ik ben het hoofd van de beveiliging van deze sector en ik heb je hulp nodig."
 CURRENT,calltoarms_harken_2,2593,"All across the sector, there are people in trouble who need our assistance.",Overal in de sector zijn er mensen in de problemen die onze hulp nodig hebben.
-CURRENT,calltoarms_harken_3,2593,"I'm spread too thin. I can't be everywhere. You're more than capable, and I'll be there to offer advice when I can.",Ik ben te dun verspreid. Ik kan niet overal zijn. Je bent meer dan capabel en ik zal er zijn om advies te geven wanneer ik kan.
-CURRENT,calltoarms_harken_4,2593,"If you chose to help, I've marked the locations on your map, as GOLD HIGHLIGHTS.","Als je ervoor kiest om te helpen, heb ik de locaties op je kaart gemarkeerd als GOUDEN HIGHLIGHTS."
-CURRENT,calltoarms_harken_5,2593,"Thank you, Captain.","Dank u, kapitein."
+CURRENT,calltoarms_harken_3,2593,"I'm spread too thin. I can't be everywhere. You're more than capable, and I'll be there to offer advice when I can.",Ik ben te dun verspreid. Ik kan niet overal zijn. U bent meer dan bekwaam en ik zal er zijn om advies te geven wanneer ik kan.
+CURRENT,calltoarms_harken_4,2593,"If you chose to help, I've marked the locations on your map, as GOLD HIGHLIGHTS.","Als u ervoor kiest om te helpen, heb ik de locaties op uw kaart gemarkeerd als GOUDEN HOOGTEPUNTEN."
+CURRENT,calltoarms_harken_5,2593,"Thank you, Captain.","Dank u wel, kapitein."
 CURRENT,calltoarms_harkenrailroad_1,2593,"My name is Commander Harken, and I'm the Chief of Private Security for the sector.",Mijn naam is commandant Harken en ik ben het hoofd particuliere beveiliging van de sector.
 CURRENT,calltoarms_harkenrailroad_2,2593,"There is a crisis underway, Captain.  Commercial vessels are going missing, all across the sector.  I suspect foul play, and I need your help to investigate.","Er is een crisis gaande, kapitein.  Overal in de sector worden commerciële schepen vermist.  Ik vermoed vals spel en ik heb uw hulp nodig bij het onderzoek."
-CURRENT,calltoarms_harkenrailroad_3,2593,We've recieved reports of a shipwreck nearby. I believe it to be the wreckage of THE INTERSTELLAR PROSPECTOR - a large commercial vessel that went missing yesterday.,We hebben meldingen ontvangen van een scheepswrak in de buurt. Ik denk dat het het wrak is van de INTERSTELLAR PROSPECTOR - een groot commercieel schip dat gisteren werd vermist.
-CURRENT,calltoarms_harkenrailroad_4,2593,Travel to the shipwreck and look for a Black Box Flight Recorder in the wreckage.  This device will contain a log of their final moments.,Reis naar het scheepswrak en zoek in het wrak naar een Black Box Flight Recorder.  Dit apparaat bevat een logboek van hun laatste momenten.
-CURRENT,calltoarms_harkenrailroad_5,2593,To collect the flight recorder you'll need to install a DRONE BAY and at least one LOGISTICS DRONE. You can buy them from any Shipyard or Colony.,Om de vluchtrecorder te verzamelen moet je een DRONE BAY en minstens één LOGISTICS DRONE installeren. Je kunt ze kopen bij elke Scheepswerf of Kolonie.
-CURRENT,calltoarms_harkenrailroad_6,2593,"I've marked the location of the shipwreck on your map as a Gold Highlight.  Good luck, Captain.","Ik heb de locatie van het scheepswrak op je kaart gemarkeerd als een gouden hoogtepunt.  Veel succes, kapitein."
-CURRENT,wolf_episode_title,2593,Wolf In Sheep's Clothing,Wolf in schaapskleren
-CURRENT,wolf_part1_title,2593,A Wolf in Sheep's Clothing,Een wolf in schaapskleren
+CURRENT,calltoarms_harkenrailroad_3,2593,We've recieved reports of a shipwreck nearby. I believe it to be the wreckage of THE INTERSTELLAR PROSPECTOR - a large commercial vessel that went missing yesterday.,We hebben meldingen ontvangen van een scheepswrak in de buurt. Ik denk dat het het wrak is van de INTERSTELLAR PROSPECTOR - een groot commercieel schip dat sinds gisteren werd vermist.
+CURRENT,calltoarms_harkenrailroad_4,2593,Travel to the shipwreck and look for a Black Box Flight Recorder in the wreckage.  This device will contain a log of their final moments.,Reis naar het scheepswrak en zoek in het wrak naar een Zwarte Doos Vluchtrecorder.  Dit apparaat bevat een logboek van hun laatste momenten.
+CURRENT,calltoarms_harkenrailroad_5,2593,To collect the flight recorder you'll need to install a DRONE BAY and at least one LOGISTICS DRONE. You can buy them from any Shipyard or Colony.,Om de vluchtrecorder te verzamelen moet u een DRONE BAAI en minstens één LOGISTIEK DRONE installeren. U kunt ze kopen bij elke Scheepswerf of Kolonie.
+CURRENT,calltoarms_harkenrailroad_6,2593,"I've marked the location of the shipwreck on your map as a Gold Highlight.  Good luck, Captain.","Ik heb de locatie van het scheepswrak op uw kaart gemarkeerd als een Gouden Hoogtepunt.  Veel succes, kapitein."
+CURRENT,wolf_episode_title,2593,Wolf In Sheep's Clothing,Wolf in schapenkleren
+CURRENT,wolf_part1_title,2593,A Wolf in Sheep's Clothing,Een wolf in schapenkleren
 CURRENT,wolf_character_harken,2593,Commander Harken,Commandant Harken
 CURRENT,wolf_character_harken_short,2593,CMDR HARKEN,CMDR HARKEN
 CURRENT,wolf_part1_intro1,2593,"My name is Commander Harken, and I'm the Chief of Private Security for the sector.",Mijn naam is commandant Harken en ik ben het hoofd particuliere beveiliging van de sector.
 CURRENT,wolf_part1_intro2,2593,"You have found the remains of the Interstellar Prospector. Please bring its Black Box Flight Recorder to me, and I will explain more.",Je hebt de overblijfselen van de Interstellaire Prospector gevonden. Breng de Black Box vluchtrecorder naar mij toe en ik zal meer uitleggen.
 CURRENT,wolf_part1_intro3,2593,"In order to collect the Flight Recorder you will need Drones, launched from a Drone Bay on your ship.  If you don't already have this equipment, you'll need to buy at least one DRONE BAY, and at least one LOGISTICS DRONE, from any colony or shipyard.","Om de Flight Recorder te verzamelen heb je Drones nodig die je lanceert vanaf een Drone Bay op je schip.  Als je deze uitrusting nog niet hebt, moet je minstens één DRONE BAY en minstens één LOGISTICS DRONE kopen in een kolonie of scheepswerf."
-CURRENT,wolf_part1_setupcall1,2593,"Thank you for returning the flight recorder, Captain.","Bedankt voor het terugbrengen van de vluchtrecorder, kapitein."
-CURRENT,wolf_part1_setupcall1b,2593,"We are in the grip of a major crisis.  Commercial vessels laden with valuable cargo are being targeted and destroyed.  These vessels are under our protection - but often lack any serious defenses, and barely have a chance to send out a distress call before they are plundered.  This is a calculated assault on the free market trade and industry within this sector, and cannot be allowed to continue.","We zijn in de greep van een grote crisis.  Commerciële schepen geladen met waardevolle lading zijn doelwit en worden vernietigd.  Deze schepen staan onder onze bescherming, maar hebben vaak geen serieuze verdediging en hebben nauwelijks de kans om een noodoproep uit te zenden voordat ze worden geplunderd.  Dit is een berekende aanval op de vrije markthandel en -industrie in deze sector en kan niet doorgaan."
-CURRENT,wolf_part1_setupcall2,2593,"I'm sending you the coordinates of two more stricken vessels, pinpointing their last known locations before they went dark.  We need you to travel to the wreckage of each of these ships, and collect whatever evidence you can.","Ik stuur je de coördinaten van nog twee getroffen schepen, met hun laatst bekende locaties voordat ze op zwart gingen.  Je moet naar het wrak van elk van deze schepen reizen en zoveel mogelijk bewijs verzamelen."
-CURRENT,wolf_part1_setupcall3,2593,"The primary objective is the safe recovery of their Black Box Flight Recorders, which will contain a log of their final moments.","Het belangrijkste doel is het veilig bergen van hun Black Box Flight Recorders, die een logboek bevatten van hun laatste momenten."
-CURRENT,wolf_part1_setupcall4,2593,Here are the co-ordinates of the two shipwrecks we need you to visit.,Hier zijn de coördinaten van de twee scheepswrakken die je moet bezoeken.
+CURRENT,wolf_part1_setupcall1,2593,"Thank you for returning the flight recorder, Captain.","Dank u wel voor het terugbrengen van de vluchtrecorder, kapitein."
+CURRENT,wolf_part1_setupcall1b,2593,"We are in the grip of a major crisis.  Commercial vessels laden with valuable cargo are being targeted and destroyed.  These vessels are under our protection - but often lack any serious defenses, and barely have a chance to send out a distress call before they are plundered.  This is a calculated assault on the free market trade and industry within this sector, and cannot be allowed to continue.","We zijn in de greep van een grote crisis.  Commerciële schepen geladen met waardevolle vracht zijn doelwit en worden vernietigd.  Deze schepen staan onder onze bescherming, maar hebben vaak geen serieuze verdediging en hebben nauwelijks de kans om een noodoproep uit te zenden voordat ze worden geplunderd.  Dit is een berekende aanval op de vrije markthandel en industrie in deze sector en kan en mag niet doorgaan."
+CURRENT,wolf_part1_setupcall2,2593,"I'm sending you the coordinates of two more stricken vessels, pinpointing their last known locations before they went dark.  We need you to travel to the wreckage of each of these ships, and collect whatever evidence you can.","Ik stuur u de coördinaten van nog twee getroffen schepen, van hun laatst bekende locaties voordat ze op zwart gingen.  U moet naar het wrak van elk schip reizen en zoveel mogelijk bewijs verzamelen."
+CURRENT,wolf_part1_setupcall3,2593,"The primary objective is the safe recovery of their Black Box Flight Recorders, which will contain a log of their final moments.","Het belangrijkste doel is het veilig bergen van hun Zwarte Doos Vluchtrecorders, die een logboek bevatten van hun laatste momenten."
+CURRENT,wolf_part1_setupcall4,2593,Here are the co-ordinates of the two shipwrecks we need you to visit.,Hier zijn de coördinaten van de twee scheepswrakken die u moet bezoeken.
 CURRENT,wolf_part1_setupcall5,2593,"The fourth vessel to be targeted managed to send out a distress call. Local security forces responded too late, and found nothing but the destroyed fuselage with a presumed loss of all crew.","Het vierde vaartuig dat het doelwit was, slaagde erin een noodoproep uit te zenden. Lokale veiligheidstroepen reageerden te laat en vonden niets anders dan de verwoeste romp met een vermoedelijk verlies van alle bemanningsleden."
 CURRENT,wolf_part1_setupcall5b,2593,"This is the only image they managed to send, before their transmission went dead.",Dit is het enige beeld dat ze konden versturen voordat hun transmissie doodging.
-CURRENT,wolf_part1_setupcall6,2593,"The wreckage - which is the forensic evidence of their fate - was collected and taken back to System S*X, where it's currently sitting in storage.  We need you to send a ship to collect the wreckage, and bring it to us along with the recovered black box modules.","De wrakstukken - het forensisch bewijs van hun lot - zijn verzameld en teruggebracht naar System S*X, waar ze nu opgeslagen liggen.  Je moet een schip sturen om het wrak op te halen en het samen met de teruggevonden zwarte doos modules naar ons toe te brengen."
-CURRENT,wolf_part1_setupcall7,2593,"Bring all the recovered wreckage and the black box flight recorders back to me for analysis on board my ship The Vanguard, to complete the contract.","Breng alle geborgen wrakstukken en de zwarte doos vluchtrecorders terug naar mij voor analyse aan boord van mijn schip The Vanguard, om het contract af te ronden."
+CURRENT,wolf_part1_setupcall6,2593,"The wreckage - which is the forensic evidence of their fate - was collected and taken back to System S*X, where it's currently sitting in storage.  We need you to send a ship to collect the wreckage, and bring it to us along with the recovered black box modules.","De wrakstukken - wat het forensisch bewijs van hun lot is - zijn verzameld en teruggebracht naar System S*X, waar ze nu opgeslagen liggen.  We willen dat u een schip stuurt om het wrak op te halen en het samen met de teruggevonden zwarte doos modules en het naar ons toe te brengt."
+CURRENT,wolf_part1_setupcall7,2593,"Bring all the recovered wreckage and the black box flight recorders back to me for analysis on board my ship The Vanguard, to complete the contract.","Breng alle geborgen wrakstukken en de zwarte doos vluchtrecorders terug naar mij voor analyse aan boord van mijn schip de Voorhoede, om het contract af te ronden."
 CURRENT,wolf_part1_objective_recoverbox1,2593,Recover Flight Recorder from UMC Interstellar Prospector,Vluchtrecorder terughalen van UMC Interstellaire Prospector
 CURRENT,wolf_part1_objective_recoverbox2,2593,Recover Flight Recorder from UMC Infinite Horizon,Vluchtrecorder herstellen van UMC Oneindige Horizon
 CURRENT,wolf_part1_objective_recoverbox3,2593,Recover Flight Recorder from UMC Celestial Hauler,Vluchtrecorder terughalen van UMC Celestial Hauler
@@ -2432,12 +2418,12 @@ CURRENT,wolf_part1_objective_recoverwreckage,2593,Collect the wreckage of UMC St
 CURRENT,wolf_part1_objective_returnfirstrecorder,2593,Return the Flight Recorder to Commander Harken,Geef de vluchtrecorder terug aan commandant Harken
 CURRENT,wolf_part1_objective_returnrecorders,2593,Return the Flight Recorders to Commander Harken [*Y/*Z],Breng de vluchtrecorders terug naar commandant Harken [*Y/*Z]
 CURRENT,wolf_part1_objective_returnwreckage,2593,Return the Wreckage to Commander Harken [*Y/*Z],Breng het wrak terug naar commandant Harken [*Y/*Z]
-CURRENT,wolf_part1_recoverwreckage,2593,WRECKAGE,SCHADE
+CURRENT,wolf_part1_recoverwreckage,2593,WRECKAGE,WRAKSTUKKEN
 CURRENT,wolf_part1_wreckagecount,2593,You've delivered *X/*Y of the Ship Wreckage,Je hebt *X/*Y van het scheepswrak afgeleverd
 CURRENT,wolf_part1_flightrecordercount,2593,You've delivered *X/*Y of the Flight Recorders,Je hebt *X/*Y van de vluchtrecorders afgeleverd
 CURRENT,wolf_part1_action_payscavenger,2593,Pay Scavenger $*X,Betaal aaseter $*X
 CURRENT,wolf_part1_action_collectwreckage,2593,Collect Wreckage,Wrakstukken verzamelen
-CURRENT,wolf_part1_action_deliver,2593,Deliver,Lever
+CURRENT,wolf_part1_action_deliver,2593,Deliver,Afleveren
 CURRENT,wolf_shipname_harken,2593,UMC Vanguard,UMC Voorhoede
 CURRENT,wolf_shipname_wolf1,2593,Interstellar Prospector,Interstellaire goudzoeker
 CURRENT,wolf_shipname_wolf2,2593,Infinite Horizon,Oneindige horizon
@@ -2445,14 +2431,14 @@ CURRENT,wolf_shipname_wolf3,2593,Celestial Hauler,Hemelse vervoerder
 CURRENT,wolf_shipname_scavenger,2593,Scavenger Wraith,Aaseter Wraith
 CURRENT,object_flightrecorder,2593,Flight Recorder,Vluchtrecorder
 CURRENT,object_shipwreckage,2593,Ship Wreckage,Schipbreuk
-CURRENT,wolf_part1_scavenger1,2593,"Got my hands on something you might be looking for.  A recording of the screams and static from the ship's final moments.  You want it, I know it.  Scavengers rights says it's mine.","Ik heb iets in handen waar je misschien naar op zoek bent.  Een opname van het geschreeuw en de ruis van de laatste momenten van het schip.  Jij wilt het, ik weet het.  Scavengers rechten zegt dat het van mij is."
-CURRENT,wolf_part1_scavenger2,2593,"Luckily for you, you can have your precious data, so long as I get my finders fee.  It'll cost you $*X for the secrets.  Cross me and it will be the last mistake you make.","Gelukkig voor jou mag je je kostbare gegevens hebben, zolang ik mijn vindersloon krijg.  Het kost je $*X voor de geheimen.  Verraad me en het zal de laatste fout zijn die je maakt."
-CURRENT,wolf_part1_scavenger3,2593,Funds received. Pleasure doing business.,Ontvangen geld. Prettig zaken doen.
-CURRENT,wolf_part1_scavenger4,2593,We'll drop your Flight Recorder out the cargo hold and be on our way.,We droppen je vluchtrecorder in het vrachtruim en gaan op weg.
+CURRENT,wolf_part1_scavenger1,2593,"Got my hands on something you might be looking for.  A recording of the screams and static from the ship's final moments.  You want it, I know it.  Scavengers rights says it's mine.","Ik heb iets in handen waar u misschien naar op zoek bent.  Een opname van het geschreeuw en de ruis van de laatste momenten van het schip.  U wilt het, ik weet het.  Scavengers rechten zegt dat het van mij is."
+CURRENT,wolf_part1_scavenger2,2593,"Luckily for you, you can have your precious data, so long as I get my finders fee.  It'll cost you $*X for the secrets.  Cross me and it will be the last mistake you make.","Gelukkig voor u mag u uw kostbare gegevens hebben, zolang ik mijn vindersloon krijg.  Het kost u $*X voor de geheimen.  Verraad me en het zal de laatste fout zijn die u maakt."
+CURRENT,wolf_part1_scavenger3,2593,Funds received. Pleasure doing business.,Ik heb geld ontvangen. Prettig zaken doen.
+CURRENT,wolf_part1_scavenger4,2593,We'll drop your Flight Recorder out the cargo hold and be on our way.,We droppen Uw vluchtrecorder in het vrachtruim en we gaan weg.
 CURRENT,wolf_part1_objective_scavenger,2593,Recover the Flight Recorder from Scavenger Vessel,Herstel de vluchtrecorder van het schip van de aaseter
 CURRENT,wolf_part1_sendingwreckage,2593,"They're sending the recovered wreckage to your ship The L*X now, Captain. It will arrive soon by Shuttle. You'll need to store it somewhere onboard.","Ze sturen de geborgen wrakstukken nu naar uw schip De L*X, kapitein. Het komt binnenkort aan met de shuttle. Je moet het ergens aan boord opbergen."
-CURRENT,wolf_part1_firstwreckage,2593,"Once you've collected all the Ship Wreckage, bring it to me along with the Flight Recorders. I'm onboard The Vanguard - sending our location now.","Als je alle scheepswrakken hebt verzameld, breng ze dan samen met de vluchtrecorders naar mij toe. Ik ben aan boord van de Vanguard - stuur nu onze locatie."
-CURRENT,wolf_part1_firstrecorder,2593,You've recovered the flight recorder! Bring it to me. I'm onboard The Vanguard - sending our location now.,Je hebt de vluchtrecorder teruggevonden! Breng het naar mij. Ik ben aan boord van de Vanguard - stuur nu onze locatie.
+CURRENT,wolf_part1_firstwreckage,2593,"Once you've collected all the Ship Wreckage, bring it to me along with the Flight Recorders. I'm onboard The Vanguard - sending our location now.","Als U alle scheepswrakken hebt verzameld, breng ze dan samen met de vluchtrecorders naar mij toe. Ik ben aan boord van de Voorhoede - we versturen nu onze locatie."
+CURRENT,wolf_part1_firstrecorder,2593,You've recovered the flight recorder! Bring it to me. I'm onboard The Vanguard - sending our location now.,U hebt de vluchtrecorder teruggevonden! Breng het naar mij. Ik ben aan boord van de Voorhoede - we versturen nu onze locatie.
 CURRENT,wolf_part1_sendingshuttle,2593,"Standby while I dock my ship with yours, Captain, to collect the items you've recovered so far. Thank you for your efforts.","Stand-by terwijl ik mijn schip aan die van u koppel, kapitein, om de voorwerpen te verzamelen die u tot nu toe hebt teruggevonden. Dank u voor uw inspanningen."
 CURRENT,wolf_part1_recorderhint,2593,The flight recorder should be near the derelict L*X. Move towards it so that your drones can pick it up.,De vluchtrecorder zou in de buurt van de verlaten L*X moeten zijn. Ga erheen zodat je drones hem kunnen oppikken.
 CURRENT,wolf_part1_dronehint,2593,Your ship will need a drone bay and drones to collect the flight recorder.,Je schip heeft een drone baai en drones nodig om de vluchtrecorder te verzamelen.
@@ -2460,12 +2446,12 @@ CURRENT,wolf_part1_completion1,2593,"We've analysed the black box recordings and
 CURRENT,wolf_part1_completion2,2593,Most likely to be sold for vast profits to the Stargate Project - who don't seem keen to ask questions.,Hoogstwaarschijnlijk voor enorme winsten verkocht aan het Stargate Project - die geen vragen lijken te willen stellen.
 CURRENT,wolf_part1_completion3,2593,So far they haven't left a single living witness. But the sensor data tells the full story. We've manged to extract another sensor image of the attacker.,Tot nu toe hebben ze nog geen enkele levende getuige achtergelaten. Maar de sensorgegevens vertellen het hele verhaal. We hebben nog een sensorbeeld van de aanvaller weten te bemachtigen.
 CURRENT,wolf_part1_completion4,2593,"It's another grainy photograph, but it's all we have to go on.  This is without doubt the vessel responsible for all this death and destruction.","Het is nog een korrelige foto, maar meer hebben we niet.  Dit is zonder twijfel het schip dat verantwoordelijk is voor al deze dood en verderf."
-CURRENT,wolf_part1_completion5,2593,"We need to find a way to track them down, and destroy them.  We will be in touch soon, Captain.","We moeten een manier vinden om ze op te sporen en te vernietigen.  We nemen snel contact op, kapitein."
-CURRENT,wolf_part1_completion6,2593,"In the mean time, we suggest you tend to your ships. If you've taken damage, you can repair the hull at any SHIPYARD. Use the funds we've sent to upgrade your defenses.","Ondertussen raden we je aan je schepen te verzorgen. Als je schade hebt opgelopen, kun je de romp repareren bij elke SHIPYARD. Gebruik het geld dat we hebben gestuurd om je verdediging te verbeteren."
+CURRENT,wolf_part1_completion5,2593,"We need to find a way to track them down, and destroy them.  We will be in touch soon, Captain.","We moeten een manier vinden om ze op te sporen en te vernietigen.  We nemen snel contact met u op, kapitein."
+CURRENT,wolf_part1_completion6,2593,"In the mean time, we suggest you tend to your ships. If you've taken damage, you can repair the hull at any SHIPYARD. Use the funds we've sent to upgrade your defenses.","Ondertussen raden we u aan om uw schepen te verzorgen. Als u schade hebt opgelopen, kunt u de romp repareren bij elke SCHEEPSWERF. Gebruik het geld dat we hebben gestuurd om uw verdediging te verbeteren."
 CURRENT,wolf_character_ryker,2593,Captain Amelia Ryker,Kapitein Amelia Ryker
 CURRENT,wolf_shipname_rescue,2593,Orion Sentinel,Orion schildwacht
 CURRENT,wolf_shipname_pirate,2593,Unidentified Pirate,Ongeïdentificeerde piraat
-CURRENT,wolf_part2_title,2593,"A Wolf in Sheep's Clothing, Part 2","Een wolf in schaapskleren, deel 2"
+CURRENT,wolf_part2_title,2593,"A Wolf in Sheep's Clothing, Part 2","Een wolf in schapenkleren, deel 2"
 CURRENT,wolf_part2_advertisement,2593,Captain. We're ready to continue our hunt for the pirate vessel. Please meet me at the marked location.,Kapitein. We zijn klaar om onze jacht op het piratenschip voort te zetten. Kom naar de gemarkeerde locatie.
 CURRENT,wolf_part2_objective_visitharken,2593,Travel to Commander Harken,Reis naar commandant Harken
 CURRENT,wolf_part2_setup1,2593,"Thank you for coming, Captain.","Bedankt voor uw komst, kapitein."
@@ -2923,19 +2909,19 @@ CURRENT,rise_ai_awaken1,2593,MMM...M.N.NNNNN.N.NMMM.AAA.A.A.HH.HHH.HH.H.H.HH,MMM
 CURRENT,rise_ai_awaken2,2593,What was that?,Wat was dat?
 CURRENT,rise_ai_awaken3,2593,EEE.A.A.AAO.O.OUU.UUUM.M.MM.MM.MM,EEE.A.AAO.O.OUU.UUUM.M.MM.MM.MM
 CURRENT,tutorial_dsidismantletitle,2593,DISMANTLING,ONTMANTELING
-CURRENT,tutorial_dsismelterrecipes,2593,RECIPES,RECIPES
-CURRENT,tutorial_dsidismantle,2593,Dismantling equipment removes it from your ship and places it in a box so you can install it later.,Apparatuur ontmantelen verwijdert het van je schip en plaatst het in een doos zodat je het later kunt installeren.
-CURRENT,tutorial_dsihighlightruinedequipment,2593,"This equipment is ruined, so you'll receive scrap metal when you dismantle it.","Deze apparatuur is kapot, dus je krijgt schroot als je het ontmantelt."
+CURRENT,tutorial_dsismelterrecipes,2593,RECIPES,RECEPTEN
+CURRENT,tutorial_dsidismantle,2593,Dismantling equipment removes it from your ship and places it in a box so you can install it later.,Apparatuur ontmantelen verwijdert het van uw schip en plaatst het in een doos zodat u het later kunt installeren.
+CURRENT,tutorial_dsihighlightruinedequipment,2593,"This equipment is ruined, so you'll receive scrap metal when you dismantle it.","Deze apparatuur is kapot, dus u krijgt schroot als u het ontmantelt."
 CURRENT,tutorial_dsiclicktodismantle,2593,Any equipment can be dismantled by left-clicking.,Elk apparaat kan worden ontmanteld door er met de linkermuisknop op te klikken.
 CURRENT,tutorial_dsihighlightsmelter,2593,Let's use the scrap metal to produce metal ingots in the smelter. Right-click on the smelter.,Laten we het metaalafval gebruiken om metaalstaven te maken in de smelterij. Klik met de rechtermuisknop op de smelterij.
-CURRENT,tutorial_dsisetrecipe,2593,Right-clicking on equipment allows you to set recipes. Set the smelter recipe to scrap metal.,"Als je met de rechtermuisknop op uitrusting klikt, kun je recepten instellen. Stel het smelterrecept in op schroot."
-CURRENT,tutorial_dsisetupdone,2593,The smelter will now start producing metal ingots after it has finished heating up.,De smelter zal nu metaalstaven gaan produceren nadat hij klaar is met opwarmen.
-CURRENT,tutorial_stargatewindowopenwindow,2593,Select the Stargate button in your toolbar to open the Stargate screen.,Selecteer de Sterrenpoortknop in je werkbalk om het Sterrenpoortscherm te openen.
-CURRENT,tutorial_stargatewindowintro,2593,The Stargate screen displays everything you need to manufacture to complete the current phase.,Het Stargate-scherm toont alles wat je moet maken om de huidige fase te voltooien.
-CURRENT,tutorial_stargatewindowhighlightphases,2593,"The Stargate's construction is split into phases, with each phase requiring more and more resources.\nYou have just completed Phase 1.","De bouw van de Sterrenpoort is opgedeeld in fasen, waarbij elke fase steeds meer middelen vereist.\nJe hebt zojuist fase 1 voltooid."
-CURRENT,tutorial_stargatewindowhighlightphase2,2593,Select Phase 2 to see what you need to manufacture for this phase.,Selecteer Fase 2 om te zien wat je voor deze fase moet maken.
+CURRENT,tutorial_dsisetrecipe,2593,Right-clicking on equipment allows you to set recipes. Set the smelter recipe to scrap metal.,"Als u met de rechtermuisknop op uitrusting klikt, kunt u recepten instellen. Stel het smelterrecept in op Metaalschroot."
+CURRENT,tutorial_dsisetupdone,2593,The smelter will now start producing metal ingots after it has finished heating up.,De smelter zal nu metaalstaven gaan produceren nadat het klaar is met opwarmen.
+CURRENT,tutorial_stargatewindowopenwindow,2593,Select the Stargate button in your toolbar to open the Stargate screen.,Selecteer de Sterrenpoortknop in uw werkbalk om het Sterrenpoortscherm te openen.
+CURRENT,tutorial_stargatewindowintro,2593,The Stargate screen displays everything you need to manufacture to complete the current phase.,Het Stargate-scherm toont alles wat u moet maken om de huidige fase te voltooien.
+CURRENT,tutorial_stargatewindowhighlightphases,2593,"The Stargate's construction is split into phases, with each phase requiring more and more resources.\nYou have just completed Phase 1.","De bouw van de Sterrenpoort is opgedeeld in fasen, waarbij elke fase steeds meer middelen vereist.\nU hebt zojuist fase 1 voltooid."
+CURRENT,tutorial_stargatewindowhighlightphase2,2593,Select Phase 2 to see what you need to manufacture for this phase.,Selecteer Fase 2 om te zien wat u voor deze fase moet maken.
 CURRENT,tutorial_stargatewindowhighlightframes1,2593,"To complete Phase 2, we need to continue manufacturing Stargate Frames.\n\nInstead of 10, we now need 200!","Om Fase 2 af te ronden, moeten we doorgaan met het maken van Stargate Frames.\n\nIn plaats van 10, hebben we er nu 200 nodig!"
-CURRENT,tutorial_stargatewindowclosewindow,2593,You can now close the Stargate screen.,Je kunt nu het Stargate-scherm sluiten.
+CURRENT,tutorial_stargatewindowclosewindow,2593,You can now close the Stargate screen.,u kunt nu het Stargate-scherm sluiten.
 CURRENT,dsi_character_x,2593,Alexander James Elistar,Alexander James Elistar
 CURRENT,dsi_character_y,2593,Raymond Darnell,Raymond Darnell
 CURRENT,dsi_character_dogma,2593,DOGMA Security,DOGMA Beveiliging
@@ -2955,18 +2941,18 @@ CURRENT,dsi_xthanks2,2593,"Payment received, thank you, Captain.","Betaling ontv
 CURRENT,dsi_xthanks3,2593,"I've received my share.  Excellent work, Captain.","Ik heb mijn deel ontvangen.  Uitstekend werk, kapitein."
 CURRENT,dsi_part1_stationname,2593,A.J.E Foundry,A.J.E Gieterij
 CURRENT,dsi_part1_title,2593,Deep Space Industrialists,Ruimtevaartindustriëlen
-CURRENT,dsi_part1_advert1,2593,"My name is Alexander James Elistar, and I'm the chairman and founder of A.J.E Industries.  I have a business proposition for you.  If you would be interested in setting up a production facility for me, I believe with some luck and a good deal of hard work we can both make substantial returns.","Mijn naam is Alexander James Elistar en ik ben de voorzitter en oprichter van A.J.E Industries.  Ik heb een zakelijk voorstel voor u.  Als je geïnteresseerd zou zijn in het opzetten van een productiefaciliteit voor mij, dan denk ik dat we met wat geluk en een flinke dosis hard werk allebei een aanzienlijk rendement kunnen behalen."
+CURRENT,dsi_part1_advert1,2593,"My name is Alexander James Elistar, and I'm the chairman and founder of A.J.E Industries.  I have a business proposition for you.  If you would be interested in setting up a production facility for me, I believe with some luck and a good deal of hard work we can both make substantial returns.","Mijn naam is Alexander James Elistar en ik ben de voorzitter en oprichter van A.J.E Industries.  Ik heb een zakelijk voorstel voor u.  Als u geïnteresseerd zou zijn in het opzetten van een productiefaciliteit voor mij, dan denk ik dat we met wat geluk en een flinke dosis hard werk allebei een aanzienlijk rendement kunnen behalen."
 CURRENT,dsi_part1_advert2,2593,Please give me a call to discuss the details.,Bel me om de details te bespreken.
 CURRENT,dsi_part1_action_callx,2593,Call X,Bel X
-CURRENT,dsi_part1_call1,2593,"Captain.  Perhaps you are already aware, but there are big plans underway within this sector.  There are designs to build something... incredible, a transportation system with near infinite range, requiring state of the art manufacturing and industry.","Kapitein.  Misschien weet je het al, maar er zijn grootse plannen gaande in deze sector.  Er zijn ontwerpen om iets ongelofelijks te bouwen, een transportsysteem met een bijna oneindige reikwijdte, waarvoor ultramoderne productie en industrie nodig is."
+CURRENT,dsi_part1_call1,2593,"Captain.  Perhaps you are already aware, but there are big plans underway within this sector.  There are designs to build something... incredible, a transportation system with near infinite range, requiring state of the art manufacturing and industry.","Kapitein.  Misschien weet u het al, maar er zijn groote plannen gaande in deze sector.  Er zijn ontwerpen om iets... ongelofelijks te bouwen, een transportsysteem met een bijna oneindige reikwijdte, waarvoor ultramoderne productie en industrie nodig is."
 CURRENT,dsi_part1_call2,2593,"A stargate, big enough for our most massive fleets, shuttling humanity between galaxies as if they were nothing but neighbouring stars.  A new multi-galactic era for humanity.","Een sterrenpoort, groot genoeg voor onze meest massieve vloten, die de mensheid tussen sterrenstelsels pendelt alsof het niets anders is dan naburige sterren.  Een nieuw multi-galactisch tijdperk voor de mensheid."
 CURRENT,dsi_part1_call3,2593,In all my years I've never known so much capital to be allocated to one project.,In al mijn jaren heb ik nog nooit meegemaakt dat er zoveel kapitaal aan één project werd toegewezen.
 CURRENT,dsi_part1_call4,2593,"There is a golden opportunity here for us, but the barriers to entry are high.  I have the assets, the capital, and the facilities that we need to fulfil the Andromeda Project's massive ambitions.","Er ligt hier een gouden kans voor ons, maar de toetredingsdrempels zijn hoog.  Ik heb de middelen, het kapitaal en de faciliteiten die we nodig hebben om de enorme ambities van het Andromeda Project waar te maken."
 CURRENT,dsi_part1_call5,2593,"Sadly, my days of running the shop floor in person are long behind me.  I need a floor manager, somebody who will oversee the day to day operations for me.  And my years of experience have taught me to spot talent when I see it.","Helaas liggen mijn dagen dat ik zelf de werkvloer runde ver achter me.  Ik heb een floormanager nodig, iemand die de dagelijkse gang van zaken voor me overziet.  En mijn jarenlange ervaring heeft me geleerd talent te herkennen als ik het zie."
-CURRENT,dsi_part1_call6,2593,"Here is my proposal.  I'll provide the factory station, and the seed capital so you are fully funded.  You'll set up the production facility for me, and oversee day to day operations, manufacturing parts for the Andromeda Project to their specifications.","Dit is mijn voorstel.  Ik zorg voor het fabrieksstation en het startkapitaal zodat je volledig gefinancierd bent.  Jij zet de productiefaciliteit voor me op en houdt toezicht op de dagelijkse werkzaamheden, waarbij je onderdelen voor het Andromeda Project maakt volgens hun specificaties."
+CURRENT,dsi_part1_call6,2593,"Here is my proposal.  I'll provide the factory station, and the seed capital so you are fully funded.  You'll set up the production facility for me, and oversee day to day operations, manufacturing parts for the Andromeda Project to their specifications.","Dit is mijn voorstel.  Ik zorg voor het fabrieksstation en het startkapitaal zodat u volledig gefinancierd bent.  U zet de productiefaciliteit voor me op en houdt toezicht op de dagelijkse werkzaamheden, waarbij je onderdelen voor het Andromeda Project maakt volgens hun specificaties."
 CURRENT,dsi_part1_call7,2593,We'll split the profits 50/50.,We delen de winst 50/50.
 CURRENT,dsi_part1_call8,2593,"And believe me when I say, there will be plenty to go around.",En geloof me als ik zeg dat er genoeg zal zijn.
-CURRENT,dsi_part1_objective_callx,2593,Call Alexander about the production facility,Bel Alexander over de productiefaciliteit
+CURRENT,dsi_part1_objective_callx,2593,Call Alexander about the production facility,Bel Alexander over de productie faciliteit
 CURRENT,dsi_part1_objective_accept,2593,Accept Alexander's proposal,Accepteer Alexanders voorstel
 CURRENT,dsi_part1_setupcall1,2593,"Wonderful news. I'm very happy you've agreed to partner with me on this. My factory space station is in position nearby, ready for us to use as our base of operations.","Geweldig nieuws. Ik ben erg blij dat je hebt toegestemd om hierin met mij samen te werken. Mijn fabrieksruimtestation staat vlakbij, klaar voor gebruik als uitvalsbasis."
 CURRENT,dsi_part1_setupcall2,2593,"This is the A.J.E Foundry.  A wonderful industrial facility, perfect for our needs.  I'll just need to provide you with some access codes so you can assume control of the facility.","Dit is de A.J.E Gieterij.  Een prachtige industriële faciliteit, perfect voor onze behoeften.  Ik moet je alleen wat toegangscodes geven zodat je de controle over de faciliteit kunt overnemen."
@@ -2974,50 +2960,50 @@ CURRENT,dsi_part1_setupcall3,2593,"Look at that.  For years I manufactured engin
 CURRENT,dsi_part1_setupcall4,2593,"Your first job is to send over a skeleton crew, and establish basic power generation and life support.  I had the previous crew box up some of the usable equipment.  You should find the parts you need are already in storage.",Je eerste taak is om een minimale bemanning te sturen en de basis stroomvoorziening en levensvoorziening op te zetten.  Ik heb de vorige bemanning wat bruikbare apparatuur laten inpakken.  De onderdelen die je nodig hebt zijn al opgeslagen.
 CURRENT,dsi_part1_objective_addcrew,2593,Add Crew to the station,Bemanning toevoegen aan het station
 CURRENT,dsi_part1_objective_installreactor,2593,Install Reactor,Reactor installeren
-CURRENT,dsi_part1_objective_installairduct,2593,Install Airduct,Luchtgeleider installeren
+CURRENT,dsi_part1_objective_installairduct,2593,Install Airduct,Luchtkanaal installeren
 CURRENT,dsi_part1_objective_pressurisefacility,2593,Pressurise Facility [*X%],Breng faciliteit onder druk [*X%]
 CURRENT,dsi_part1_installsmelter1,2593,"We need to tidy up the mess, but nothing needs to be wasted.  We can recycle all of the raw materials found on this station.","We moeten de rommel opruimen, maar er hoeft niets verspild te worden.  We kunnen alle grondstoffen op dit station recyclen."
 CURRENT,dsi_part1_installsmelter2,2593,"There is an industrial smelter among the boxed equipment.  Install it and power it up, then set it to recycling all of the scrap metal.  This will give us an early supply of Metal Ingots.  A critical resource in manufacturing anything.","Er zit een industriële smelter tussen de dozen met apparatuur.  Installeer hem, schakel hem in en zet hem aan om al het schroot te recyclen.  Dit geeft ons een vroege voorraad Metal Ingots.  Een essentiële grondstof voor het maken van wat dan ook."
 CURRENT,dsi_part1_objective_installsmelter,2593,Install Smelter,Smelter installeren
 CURRENT,dsi_part1_objective_setsmelter,2593,Set Smelter to Scrap Metal,Smelter op metaalschroot zetten
-CURRENT,dsi_part1_objective_dismantleequipment,2593,Dismantle ruined equipment,Vernielde uitrusting
+CURRENT,dsi_part1_objective_dismantleequipment,2593,Dismantle ruined equipment,Ontmantel vernielde uitrusting
 CURRENT,dsi_part1_setupstorage1,2593,"Efficiency is going to be the key to this facility turning a profit.  Set up a storage zone for scrap metal near to your Smelter, and another for the Metal Ingots that come out.  Our crew will waste a lot less time carrying goods long distances.",Efficiëntie is de sleutel tot winst in deze faciliteit.  Zet een opslagzone op voor schroot in de buurt van je Smelterij en een andere voor de Metaalblokken die eruit komen.  Onze bemanning zal veel minder tijd verliezen met het vervoeren van goederen over lange afstanden.
 CURRENT,dsi_part1_objective_storescrap,2593,Store scrap metal near Smelter [*X/10],Sla schroot op in de buurt van de Smelter [*X/10]
 CURRENT,dsi_part1_objective_storeingots,2593,Store Metal Ingots near Smelter [*X/10],Sla Metaalstaven op in de buurt van de Smelter [*X/10]
-CURRENT,dsi_part1_manufactureframes1,2593,"If I could draw your attention to this schematic issued by the Andromeda Project.  You can see it's actually quite a simple part.  This is just a structural framework, onto which they'll build everything else.","Als ik jullie aandacht mag vragen voor dit schema van het Andromeda Project.  Je kunt zien dat het eigenlijk een heel eenvoudig onderdeel is.  Dit is slechts een structureel raamwerk, waarop ze al het andere zullen bouwen."
+CURRENT,dsi_part1_manufactureframes1,2593,"If I could draw your attention to this schematic issued by the Andromeda Project.  You can see it's actually quite a simple part.  This is just a structural framework, onto which they'll build everything else.","Als ik uw aandacht mag vragen voor dit schema van het Andromeda Project.  U kunt zien dat het eigenlijk een heel eenvoudig onderdeel is.  Dit is slechts een structureel raamwerk, waarop ze al het andere zullen bouwen."
 CURRENT,dsi_part1_manufactureframes2,2593,"We can manufacture these parts in just two stages out of Metal Ingots.  I've left a boxed Fabricator and an Assembly Table on the station.  Set them up next to each other, ideally near to the Metal Ingots.","We kunnen deze onderdelen in slechts twee stappen maken van Metal Ingots.  Ik heb een Fabricator en een assemblagetafel in een doos op het station achtergelaten.  Zet ze naast elkaar, het liefst in de buurt van de Metal Ingots."
-CURRENT,dsi_part1_manufactureframes3,2593,"Once they're installed, set the Fabricator to manufacture Frames, then set the Assembly Table to specialise them into finished Stargate Frames.  It's simple stuff, but eventually we will need a huge throughput.","Zodra ze geïnstalleerd zijn, stel je de Fabricator in om frames te maken en vervolgens de Assemblagetafel om ze te specialiseren tot afgewerkte Stargate Frames.  Het is eenvoudig, maar uiteindelijk hebben we een enorme verwerkingscapaciteit nodig."
+CURRENT,dsi_part1_manufactureframes3,2593,"Once they're installed, set the Fabricator to manufacture Frames, then set the Assembly Table to specialise them into finished Stargate Frames.  It's simple stuff, but eventually we will need a huge throughput.","Zodra ze geïnstalleerd zijn, stelt u de Fabricator in om frames te maken en vervolgens de Assemblagetafel om ze te specialiseren tot afgewerkte Stargate Frames.  Het is eenvoudig, maar uiteindelijk hebben we een enorme verwerkingscapaciteit nodig."
 CURRENT,dsi_part1_objective_installfabricator,2593,Install Fabricator,Fabriek installeren
 CURRENT,dsi_part1_objective_setfabricator,2593,Set Fabricator to Frames,Zet Fabricator op Frames
-CURRENT,dsi_part1_objective_installassemblytab,2593,Install Assembly Table,Montagetafel installeren
+CURRENT,dsi_part1_objective_installassemblytab,2593,Install Assembly Table,Montage tafel installeren
 CURRENT,dsi_part1_objective_setassemblytab,2593,Set Assembly Table to Stargate Frames,Assemblagetafel instellen op Sterrenpoortframes
 CURRENT,dsi_part1_manufactureframes4,2593,"They want us to provide an initial batch of 10 Stargate Frames, for certification.  They'll inspect our work and we'll be approved as official partners in the Andromeda Project.",Ze willen dat we een eerste serie van 10 Stargate Frames leveren voor certificering.  Ze zullen ons werk inspecteren en we zullen worden goedgekeurd als officiële partners in het Andromeda Project.
-CURRENT,dsi_part1_manufactureframes5,2593,"It shouldn't take too long.  If you run out of metal, remember you can recycle more of the ruined equipment around the facility.","Het zou niet al te lang moeten duren.  Als je metaal op is, onthoud dan dat je nog meer van de vernielde apparatuur in de fabriek kunt recyclen."
+CURRENT,dsi_part1_manufactureframes5,2593,"It shouldn't take too long.  If you run out of metal, remember you can recycle more of the ruined equipment around the facility.","Het zou niet al te lang moeten duren.  Als uw metaal op is, onthoud dan dat u nog meer van de vernielde apparatuur in de fabriek kunt recyclen."
 CURRENT,dsi_part1_objective_manufactureframes,2593,Manufacture Stargate Frames [*X/10],Vervaardiging Sterrenpoortframes [*X/10]
 CURRENT,dsi_part1_action_deliverframes,2593,Deliver 10 Stargate Frames,Lever 10 Sterrenpoort Frames
 CURRENT,dsi_part1_callfromrep1,2593,"This is a message for A.J.E FOUNDRY.  We've received your samples and can report that they have passed comfortably within our engineering tolerances.  You are formally approved as licensed industry partners, and may now manufacture all items in our design manifest.",Dit is een bericht voor A.J.E FOUNDRY.  We hebben jullie monsters ontvangen en kunnen melden dat ze ruimschoots binnen onze engineeringtoleranties zijn geslaagd.  Jullie zijn formeel goedgekeurd als gelicentieerde industriële partners en mogen nu alle artikelen in ons ontwerpmanifest vervaardigen.
 CURRENT,dsi_part1_callfromrep2,2593,Batches of completed parts may now be submitted to the Andromeda Project through the open Marketplace. You will find our buyers ready to release funds for any parts manufactured to specification.,Partijen van voltooide onderdelen kunnen nu worden ingediend bij het Andromeda Project via de open Marktplaats. Onze inkopers staan klaar om geld vrij te maken voor alle onderdelen die volgens specificatie zijn gemaakt.
-CURRENT,dsi_part1_callfromrep3,2593,"Thank you for your endeavours, and good luck.",Bedankt voor je inspanningen en veel succes.
+CURRENT,dsi_part1_callfromrep3,2593,"Thank you for your endeavours, and good luck.",Bedankt voor uw inspanningen en veel succes.
 CURRENT,dsi_part1_openstargatescreen,2593,"Excellent.  Let's have a look at the Manifest that he mentioned, and see what is required next.",Uitstekend.  Laten we eens kijken naar het Manifest dat hij noemde en zien wat er vervolgens nodig is.
 CURRENT,dsi_part1_phase2_xcall1,2593,"It looks like it's just a bulk order of the part we already provided.  We need to make 200 more Stargate Frames.  We're already manufacturing them, but we'll need to scale up production or else this will take forever.","Het lijkt erop dat het gewoon een bulkbestelling is van het onderdeel dat we al hebben geleverd.  We moeten nog 200 Stargate Frames maken.  We zijn ze al aan het maken, maar we moeten de productie opschalen anders duurt het een eeuwigheid."
-CURRENT,dsi_part1_phase2_xcall2,2593,"I'm releasing some of the seed money to you.  $600,000 should be enough for you to buy all the equipment we need to scale up.  Remember this isn't a gift.  I still own this station, and all the equipment onboard.",Ik geef je een deel van het startkapitaal.  $600.000 zou genoeg moeten zijn om alle apparatuur te kopen die we nodig hebben om op te schalen.  Onthoud dat dit geen geschenk is.  Ik ben nog steeds eigenaar van dit station en alle apparatuur aan boord.
-CURRENT,dsi_part1_phase2_xcall3,2593,"I suggest you buy more Smelters, more Fabricators, and more Assembly Tables.  A couple of each at least.  All that equipment will draw more juice, so you'll need to expand the power network with more Reactors and Batteries to cope.  And you'll need more crew to do the work.","Ik stel voor dat je meer Smelters, meer Fabricators en meer Assemblagetafels koopt.  Minstens een paar van elk.  Al die apparatuur zal meer stroom verbruiken, dus je zult het energienetwerk moeten uitbreiden met meer reactoren en batterijen.  En je hebt meer bemanning nodig om het werk te doen."
-CURRENT,dsi_part1_phase2_xcall4,2593,"If you run out of Metal Ingots, you should be able to buy raw materials from the open Marketplace.  You can usually buy more Scrap Metal, but you'll also find Metallic Minerals for sale which can also be smelted into Metal Ingots.","Als je Metal Ingots op zijn, moet je grondstoffen kunnen kopen op de open Marktplaats.  Je kunt meestal meer Metaalschroot kopen, maar je zult ook Metaalmineralen te koop vinden die ook kunnen worden omgesmolten tot Metaalblokken."
+CURRENT,dsi_part1_phase2_xcall2,2593,"I'm releasing some of the seed money to you.  $600,000 should be enough for you to buy all the equipment we need to scale up.  Remember this isn't a gift.  I still own this station, and all the equipment onboard.",Ik geef u een deel van het startkapitaal.  $600.000 zou genoeg moeten zijn om alle apparatuur te kopen die we nodig hebben om op te schalen.  Onthoud dat dit geen geschenk is.  Ik ben nog steeds eigenaar van dit station en alle apparatuur aan boord.
+CURRENT,dsi_part1_phase2_xcall3,2593,"I suggest you buy more Smelters, more Fabricators, and more Assembly Tables.  A couple of each at least.  All that equipment will draw more juice, so you'll need to expand the power network with more Reactors and Batteries to cope.  And you'll need more crew to do the work.","Ik stel voor dat u meer Smelters, meer Fabricators en meer Assemblagetafels koopt.  Minstens een paar van elk.  Al die apparatuur zal meer stroom verbruiken, dus u zult het energienetwerk moeten uitbreiden met meer reactoren en batterijen.  En u hebt meer bemanning nodig om het werk te doen."
+CURRENT,dsi_part1_phase2_xcall4,2593,"If you run out of Metal Ingots, you should be able to buy raw materials from the open Marketplace.  You can usually buy more Scrap Metal, but you'll also find Metallic Minerals for sale which can also be smelted into Metal Ingots.","Als uw Metalen staven op zijn, moet u grondstoffen kunnen kopen op de open Marktplaats.  U kunt meestal meer Metaalschroot kopen, maar u zult ook Metaalmineralen te koop vinden ook die kunnen worden omgesmolten tot Metaal staven."
 CURRENT,dsi_part1_objective_scaleupproduction,2593,Scale up production,Productie opschalen
 CURRENT,dsi_part1_objective_smeltmetallicminerals,2593,Start smelting Metallic Minerals [*X/200],Begin met het smelten van Metalen Mineralen [*X/200]
 CURRENT,dsi_part1_objective_produceframes,2593,Produce 200 Stargate Frames [*X/200],Maak 200 Stargate Frames [*X/200]
 CURRENT,dsi_part1_objective_sellframes,2593,Sell Stargate Frames [*X/200],Sterrenpoortkaders verkopen [*X/200]
 CURRENT,dsi_part1_payx1,2593,I knew this would be a very profitable endeavour for us.  The Andromeda Project are so desperately in need of reliable manufacturing facilities that they're paying a fortune.,Ik wist dat dit een zeer winstgevende onderneming voor ons zou worden.  Het Andromeda Project heeft zo wanhopig behoefte aan betrouwbare productiefaciliteiten dat ze er een fortuin voor betalen.
-CURRENT,dsi_part1_payx2,2593,"Now, the sales revenue is going to flow through you.  But remember our agreement.  50/50.  I've put a lot of capital in to get us to this point, and I need to start seeing a return.",Nu zullen de verkoopinkomsten via jou lopen.  Maar denk aan onze afspraak.  50/50.  Ik heb er veel kapitaal ingestoken om ons op dit punt te krijgen en ik moet een rendement gaan zien.
-CURRENT,dsi_part1_payx3,2593,"Every time you sell a batch of parts to the Andromeda Project, you'll owe me half the revenue.  I'd appreciate it if you'd pay promptly.","Elke keer dat je een partij onderdelen aan het Andromeda Project verkoopt, ben je me de helft van de opbrengst schuldig.  Ik zou het op prijs stellen als je prompt betaalt."
+CURRENT,dsi_part1_payx2,2593,"Now, the sales revenue is going to flow through you.  But remember our agreement.  50/50.  I've put a lot of capital in to get us to this point, and I need to start seeing a return.",De verkoopinkomsten zullen via u lopen.  Maar denk aan onze afspraak.  50/50.  Ik heb er veel kapitaal ingestoken om ons op dit punt te krijgen en ik moet een rendement gaan zien.
+CURRENT,dsi_part1_payx3,2593,"Every time you sell a batch of parts to the Andromeda Project, you'll owe me half the revenue.  I'd appreciate it if you'd pay promptly.","Elke keer dat u een partij onderdelen aan het Andromeda Project verkoopt, bent u me de helft van de opbrengst schuldig.  Ik zou het op prijs stellen als u prompt betaalt."
 CURRENT,dsi_part1_debrief1,2593,"Fantastic work, Captain.  I had high expectations, but the process was even more smooth than I hoped.  We've made ourselves known to the Andromeda Project now, but this is just the beginning.","Fantastisch werk, kapitein.  Ik had hoge verwachtingen, maar het proces verliep nog soepeler dan ik had gehoopt.  We hebben ons nu bekend gemaakt bij het Andromeda Project, maar dit is nog maar het begin."
-CURRENT,dsi_part1_debrief2,2593,The later phases of this project will no doubt be much more involved.  But we are perfectly positioned to capitalise on this opportunity.  And there is a lot of opportunity to be had.,De latere fasen van dit project zullen ongetwijfeld veel meer voeten in de aarde hebben.  Maar we bevinden ons in een perfecte positie om deze kans te benutten.  En er is veel mogelijk.
+CURRENT,dsi_part1_debrief2,2593,The later phases of this project will no doubt be much more involved.  But we are perfectly positioned to capitalise on this opportunity.  And there is a lot of opportunity to be had.,De latere fasen van dit project zullen ongetwijfeld veel meer voeten in aarde hebben.  Maar we bevinden ons in een perfecte positie om deze kans te benutten.  En er is veel mogelijk.
 CURRENT,dsi_part1_debrief3,2593,There are individuals behind this mega-project with wealth and resources far beyond my comprehension.  But their ambitions far exceed the capabilities of the other ships and people in this sector.  They are going to need our help.,Er zitten individuen achter dit megaproject met rijkdom en middelen die mijn begrip ver te boven gaan.  Maar hun ambities gaan de mogelijkheden van de andere schepen en mensen in deze sector ver te boven.  Ze zullen onze hulp nodig hebben.
-CURRENT,dsi_part1_debrief4,2593,"We can take a short break, and I'll give you a call when I'm ready to start work on the next phase of the stargate project. You might want to stop some of your equipment in the meantime, we don't want to waste anything!","We kunnen een korte pauze inlassen en ik bel je als ik klaar ben om aan de volgende fase van het sterrenpoortproject te beginnen. Misschien wil je in de tussentijd wat van je apparatuur stoppen, we willen niets verspillen!"
+CURRENT,dsi_part1_debrief4,2593,"We can take a short break, and I'll give you a call when I'm ready to start work on the next phase of the stargate project. You might want to stop some of your equipment in the meantime, we don't want to waste anything!","We kunnen een korte pauze inlassen en ik bel u als ik klaar ben om aan de volgende fase van het sterrenpoortproject te beginnen. Misschien wil u in de tussentijd wat van uw apparatuur stoppen, we willen niets verspillen!"
 CURRENT,dsi_part1_debrief5,2593,Goodbye for now!,Tot ziens!
 CURRENT,dsi_part2_title,2593,"Deep Space Industrialists, Part 2","Ruimtevaartindustriëlen, deel 2"
 CURRENT,dsi_part2_summary,2593,Resume work on the Stargate with X,Hervat het werk aan de Sterrenpoort met X
-CURRENT,dsi_part2_advertisement,2593,"Captain, I think it's time we resumed work on the Stargate contract.  I've had a look ahead and the next phase is a huge step up.  Give me a call when you're ready to continue work.","Kapitein, ik denk dat het tijd is om het werk aan het Sterrenpoort contract te hervatten.  Ik heb vooruit gekeken en de volgende fase is een grote stap vooruit.  Bel me als je klaar bent om verder te werken."
+CURRENT,dsi_part2_advertisement,2593,"Captain, I think it's time we resumed work on the Stargate contract.  I've had a look ahead and the next phase is a huge step up.  Give me a call when you're ready to continue work.","Kapitein, ik denk dat het tijd is om het werk aan het Sterrenpoort contract te hervatten.  Ik heb vooruit gekeken en de volgende fase is een grote stap vooruit.  Bel me als u klaar bent om verder te werken."
 CURRENT,dsi_part2_action_accept,2593,Call X,Bel X
 CURRENT,dsi_part2_introcall1,2593,"Welcome back, Captain.  I've been taking a look at the schematics published by the Andromeda Project, and the next phase is going to need a huge upgrade to our facilities.","Welkom terug, kapitein.  Ik heb de schema's van het Andromeda Project bekeken en voor de volgende fase is een enorme upgrade van onze faciliteiten nodig."
 CURRENT,dsi_part2_introcall2,2593,"However, nothing they're asking us to produce is impossible, and I have a strong personal interest in seeing this project completed.  The sooner the better.",Niets wat ze ons vragen om te produceren is echter onmogelijk en ik heb er persoonlijk veel belang bij dat dit project wordt voltooid.  Hoe eerder hoe beter.
@@ -3085,6 +3071,20 @@ CURRENT,dsi_part2_scene_z4,2593,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2593,THERE WILL BE NO FURTHER WARNING.,ZAL ER GEEN VERDERE WAARSCHUWING VOLGEN.
 CURRENT,dsi_part2_scene_y7,2593,You've left me no choice.,Je hebt me geen keus gelaten.
 CURRENT,dsi_part2_scene_y8,2593,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Ik kom voor jou Alexander, en deze keer vraag ik niet om 10%. Ik wil alles."
+OBSOLETE,logistics_status_transfernosupply,3329,out of the *X ordered (not enough available),van de *X besteld (niet genoeg beschikbaar)
+OBSOLETE,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),uit de *X besteld (niet genoeg geld)
+OBSOLETE,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),van de *X besteld (niet genoeg beschikbaar)
+OBSOLETE,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),van de *X besteld (niet genoeg beschikbaar)
+OBSOLETE,logistics_log_transferstoragefull1,3329,out of the *X ordered (destination storage full),uit de *X besteld (bestemmingsopslag vol)
+OBSOLETE,logistics_item_none,3239,Select Item,Item Kiezen
+OBSOLETE,powergrid_demand,2593,DEMAND *X Mw,VRAAG *X Mw
+OBSOLETE,powergrid_output,2593,OUTPUT *X Mw,UITVOER *X Mw
+OBSOLETE,powergrid_stored,2593,STORED *X Mw,Opgeslagen *X Mw
+OBSOLETE,object_battery_description,2593,"Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage.","Slaat overtollige stroom op die beschikbaar is in het elektriciteitsnet, tot 1000Mw. De batterij levert stroom wanneer er een tekort is."
+OBSOLETE,object_reactor_description,2593,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW.,Verbrandt hoogenergetische brandstof om energie te produceren. Moet worden voorzien van brandstof (via een pijp). Gebruik vervolgens kabels om verbinding te maken met andere aangedreven apparatuur.\nProduceert een maximaal vermogen van 100MW.
+OBSOLETE,wolf_part1_objective_drones,2593,Install a Drone Bay and at least one Logistics Drone,Installeer een Drone Bay en minstens één Logistieke Drone
+OBSOLETE,tutorial_stargatewindowhighlightframes2,2593,Sell your frames at a trading post to submit them to the Andromeda Project.,Verkoop je frames bij een handelspost om ze in te leveren voor het Andromeda Project.
+OBSOLETE,dsi_part2_thirdpartcomplete2,2593,Let's take another break and I'll contact you when the Andromeda Project releases the manifest for their next phase.,Laten we nog een pauze inlassen en ik neem contact met je op als het Andromeda Project het manifest voor hun volgende fase vrijgeeft.
 OBSOLETE,thefinalstand_harken5,3248,The Stargate will fall back into your sole control. I've marked an allied shipyard on your map. I'll hide out there in the mean-time.,De Sterrenpoort valt weer onder jullie exclusieve controle. Ik heb een geallieerde scheepswerf op jullie kaart gemarkeerd. Ik zal me daar ondertussen verstoppen.
 OBSOLETE,thefinalstand_harken5,3239,"Any and all damage to the HQ should be avoided. Many innocent lives are on-board that HQ, the loss of life from destroying it would be far too great. You will upload a virus to their command centre and disable the station's offensive capabilities.","Alle schade aan het hoofdkwartier moet worden vermeden. Er zijn veel onschuldige levens aan boord van dat hoofdkwartier, het verlies van levens door het te vernietigen zou veel te groot zijn. Je uploadt een virus naar hun commandocentrum en schakelt de offensieve mogelijkheden van het station uit."
 OBSOLETE,industryend_message,3248,"Now the Andromeda HQ has been captured, Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind spreads beyond our home galaxy and into the future.","Nu het hoofdkwartier van Andromeda is veroverd, zullen Harken en de Intergalactische Veiligheidsraad het Andromeda Project conglomeraat ontmantelen en de controle over de Sterrenpoort terugwinnen, ten voordele van de hele mensheid.  Een nieuw hoofdstuk is begonnen, terwijl de mensheid zich uitbreidt tot buiten ons eigen sterrenstelsel en in de toekomst."
