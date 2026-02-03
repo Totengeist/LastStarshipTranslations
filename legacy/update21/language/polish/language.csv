@@ -1,73 +1,57 @@
 ﻿state,key,svn,english,translation
-CURRENT,logistics_log_transfertonosupply,3492,Transferred *X R*Y to L*Z out of the *P desired - insufficient cargo,Przeniesiono *X R*Y do L*Z z żądanego *P - niewystarczający ładunek
-CURRENT,logistics_log_transferfromnosupply,3492,Transferred *X R*Y from L*Z out of the *P desired - insufficient cargo,Przeniesiono *X R*Y z L*Z z pożądanego *P - niewystarczający ładunek
-CURRENT,trade_paymentperjump,3472,*X (+*Y) per sector jump,*X (+*Y) na skok sektorowy
-CURRENT,award_civilianpayment,3472,CIVILIAN PAYMENT,PŁATNOŚĆ CYWILNA
-CURRENT,award_civilianpayment_caption,3472,*X permanent residents in your fleet,*X stali mieszkańcy Twojej floty
-CURRENT,logistics_status_default,3472,Order running,Zamów uruchomienie
-CURRENT,logistics_status_miningstacksfull,3472,Mined *X R*Y (*Z stacks) - storage full,Kopalnia *X R*Y (*Z stosy) - magazyn pełny
-CURRENT,logistics_status_miningstackstime,3472,Mined *X R*Y (*Z stacks) in T*P,Kopalnia *X R*Y (*Z stosy) w T*P
-CURRENT,logistics_status_miningstackstimefull,3472,Mined *X R*Y (*Z stacks) in T*P - storage full,Kopalnia *X R*Y (*Z stosy) w T*P - magazyn pełny
-CURRENT,logistics_status_miningratio,3472,Mined *X R*Y (*Z/*P stacks),Kopalnia *X R*Y (stosy*Z/*P )
-CURRENT,logistics_status_miningratiofull,3472,Mined *X R*Y (*Z/*P stacks) - storage full,Kopalnia *X R*Y (*Z/*P stosy) - magazyn pełny
-CURRENT,logistics_status_miningonboard,3472,"Mined *X R*Y (*Z stacks on board, *P desired) - storage full","Kopalnia *X R*Y (*Z stosy na pokładzie, *P pożądane) - magazyn pełny"
-CURRENT,logistics_status_collectcontainersfull,3472,Collected *X R*Y (*Z containers) - storage full,Zebrane *X R*Y (*Z pojemniki) - magazyn pełny
-CURRENT,logistics_status_collectcontainerstime,3472,Collected *X R*Y (*Z containers) in T*P,Zebrano *X R*Y (*Z pojemniki) w T*P
-CURRENT,logistics_status_collectcontainerstimefull,3472,Collected *X R*Y (*Z containers) in T*P - storage full,Zebrano *X R*Y (pojemniki*Z ) w T*P - magazyn pełny
-CURRENT,logistics_status_collectratio,3472,Collected *X R*Y (*Z/*P containers),Zebrane *X R*Y (*Z/*P pojemniki)
-CURRENT,logistics_status_collectratiofull,3472,Collected *X R*Y (*Z/*P containers) - storage full,Zebrane *X R*Y (*Z/*P pojemniki) - magazyn pełny
-CURRENT,logistics_status_collectonboard,3472,"Collected *X R*Y (*Z containers on board, *P desired) - storage full","Zebrano *X R*Y (*Z pojemniki na pokładzie, *P pożądane) - magazyn pełny"
-CURRENT,logistics_status_transfertonosupply,3472,Transferring *X R*Y to L*Z out of the *P desired - insufficient cargo,Przeniesienie *X R*Y do L*Z z żądanego *P - niewystarczający ładunek
-CURRENT,logistics_status_transferfromnosupply,3472,Transferring *X R*Y from L*Z out of the *P desired - insufficient cargo,Przeniesienie *X R*Y z L*Z z *P pożądane - niewystarczający Ładunek
-CURRENT,logistics_status_buyzero,3472,Bought *X R*Y,Kup *X R*Y
-CURRENT,logistics_status_buyzeronomoney,3472,Bought *X R*Y out of the *Z desired - insufficient funds,Kupiłeś *X R*Y z *Z pożądane - niewystarczające fundusze
-CURRENT,logistics_status_buyzeronosupply,3472,Bought *X R*Y out of the *Z desired - insufficient supply,Kupiłem *X R*Y z *Z pożądane - niewystarczająca podaż
-CURRENT,logistics_status_sellzero,3472,Sold *X R*Y,Sprzedane *X R*Y
-CURRENT,logistics_status_sellzeronosupply,3472,Sold *X R*Y out of the *P desired - insufficient cargo,Sprzedano *X R*Y z pożądanego *P - niewystarczający Ładunek
-CURRENT,logistics_log_transfertofull,3472,Transferred *X R*Y to L*Z - destination storage full,Przesłano *X R*Y do L*Z - magazyn docelowy pełny
-CURRENT,logistics_log_transferfromfull,3472,Transferred *X R*Y from L*Z - destination storage full,Przeniesiono *X R*Y z L*Z - magazyn docelowy pełny
-CURRENT,logistics_log_transfertofull1,3472,Transferred *X R*Y to L*Z out of the *P desired - destination storage full,Przeniesiono *X R*Y do L*Z z żądanego *P - magazyn docelowy pełny
-CURRENT,logistics_log_transferfromfull1,3472,Transferred *X R*Y from L*Z out of the *P desired - destination storage full,Przeniesiono *X R*Y z L*Z z żądanego *P - magazyn docelowy pełny
-CURRENT,logistics_status_buynomoney,3472,Bought *X R*Y for $*Z out of the *P desired - insufficient funds,Kupiono *X R*Y za $*Z z pożądanego *P - niewystarczające środki
-CURRENT,logistics_status_buynosupply,3472,Bought *X R*Y for $*Z out of the *P desired - insufficient supply,Kupiłem *X R*Y dla $*Z z *P pożądane - niewystarczająca podaż
-CURRENT,logistics_status_sellnosupply,3472,Sold *X R*Y for $*Z out of the *P desired - insufficient cargo,Sprzedano *X R*Y za $*Z z pożądanego *P - niewystarczający ładunek
-CURRENT,logistics_status_miningstacks,3472,Mined *X R*Y (*Z stacks),Kopalnia *X R*Y (*Z stosy)
-CURRENT,logistics_status_collectcontainers,3472,Collected *X R*Y (*Z containers),Zebrane *X R*Y (*Z pojemniki)
-CURRENT,wolf_part2_objective_escape,3472,Undock and get to a safe distance before the Orion Sentinel explodes,"Wycofaj się i przejdź na bezpieczną odległość, zanim Orion Sentinel eksploduje"
-CURRENT,settings_motionsicknessmode,3400,Motion Sickness Mode,Tryb choroby lokomocyjnej
-CURRENT,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.","Usunięto rotację tła, co powinno pomóc, jeśli doświadczasz choroby lokomocyjnej w grze."
-CURRENT,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition",Podczas przełączania się między statkami pomiń przejście
-CURRENT,newmainmenu_tests,3400,TESTS,TESTY
-CURRENT,newmainmenu_instantshipswitch,3400,Switch instantly between ships,Przełączaj się błyskawicznie między statkami
-CURRENT,newmainmenu_vsync,3400,V-Sync,V-Sync
-CURRENT,hud_layer_neutralexpand,3400,*X NEUTRAL SHIPS,*X STATKI NEUTRALNE
-CURRENT,hud_layer_neutralexpandtooltip,3400,Show neutral ships,Pokaż statki neutralne
-CURRENT,power_unit,3400,*X MW,*X MW
-CURRENT,tactical_focuslayer,3400,FOCUS LAYER,WARSTWA SKUPIENIA
-CURRENT,tactical_tooltip_focuslayer,3400,"When enabled, the camera's rotation and position track the currently selected layer.","Gdy funkcja ta jest włączona, obrót i położenie kamery są zgodne z aktualnie wybraną warstwą."
-CURRENT,logistics_condition_untilstorage,3400,Quantity on board,Ilość na pokładzie
-CURRENT,logistics_quantity_all,3400,ALL,WSZYSTKO
-CURRENT,logistics_quantity_full,3400,FULL,PEŁNY
-CURRENT,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,UŻYJ DOWOLNEGO SCHOWKA NA ŁADUNEK
-CURRENT,logistics_stuck_layernotours,3400,Ship L*X is not friendly,Statek L*X nie jest przyjazny
-CURRENT,logistics_tooltip_controlall,3400,[CTRL] ALL,[CTRL] ALL
-CURRENT,logistics_tooltip_controlfull,3400,[CTRL] FULL,[CTRL] PEŁNY
-CURRENT,logistics_tooltip_noitemrequired,3400,This order does not require an item,To zamówienie nie wymaga pozycji
-CURRENT,logistics_tooltip_extrastoggleshow,3400,Show extra options for this order,Pokaż dodatkowe opcje dla tego zamówienia
-CURRENT,logistics_tooltip_extrastogglehide,3400,Hide extra options for this order,Ukryj dodatkowe opcje dla tego zamówienia
-CURRENT,logistics_tooltip_extrastogglenone,3400,No extra options available,Brak dostępnych opcji dodatkowych
-CURRENT,alert_type_failedtofindsuit,3400,SPACESUITS REQUIRED,KOMBINEZON KOSMICZNY WYMAGANY
-CURRENT,alert_type_failedtofindsuit_caption,3400,*X crew members need spacesuits.,*X członkowie załogi potrzebują kombinezonów kosmicznych.
-CURRENT,objective_travel_to_location,3400,Travel to S*X,Udaj się do S*X
-CURRENT,logistics_item_none,3400,SELECT ITEM,WYBIERZ ELEMENT
-CURRENT,powergrid_demand,3400,DEMAND: *X MW,ZAPOTRZEBOWANIE: *X MW
-CURRENT,powergrid_output,3400,OUTPUT: *X MW,WYJŚCIE: *X MW
-CURRENT,powergrid_stored,3400,STORED: *X MJ,PRZECHOWYWANE: *X MJ
-CURRENT,object_battery_description,3400,"Stores any excess power available in the powergrid, up to 1000MJ. The battery will supply power whenever there is a shortage.","Przechowuje nadmiar energii dostępnej w sieci energetycznej, do 1000MJ. Bateria będzie dostarczać energię, gdy wystąpi jej niedobór."
-CURRENT,object_reactor_description,3400,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\n\nGenerates a maximum power output of 100MW.,"Spala wysokoenergetyczne Paliwo w celu wytworzenia mocy. Paliwo musi być dostarczane (za pomocą rury). Następnie użyj kabli, aby połączyć się z innym zasilanym Sprzętem.\n\nGeneruje maksymalną moc 100MW."
-CURRENT,wolf_part1_objective_drones,3400,Install a Drone Bay and have at least one Logistics Drone,Zainstaluj Zatokę Dronów i posiadaj co najmniej jednego Drona logistycznego
-CURRENT,tutorial_stargatewindowhighlightframes2,3400,The button underneath each component can be clicked to quickly sell all your stock and submit it to the Andromeda Project.\n\nThey can also be sold from the trade screen.,"Przycisk pod każdym komponentem może zostać kliknięty, aby szybko sprzedać wszystkie twoje zapasy i przesłać je do Projektu Andromeda.\n\nMożna je również sprzedać z ekranu handlu."
-CURRENT,dsi_part2_thirdpartcomplete2,3400,"I'm going to take a short break from the project, I trust you'll be able to do the next couple of stages on your own.","Zamierzam zrobić sobie krótką przerwę od projektu, wierzę, że będziesz w stanie samodzielnie wykonać kilka następnych etapów."
+NEW,settings_motionsicknessmode,3400,Motion Sickness Mode,Tryb choroby lokomocyjnej
+NEW,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.","Usunięto rotację tła, co powinno pomóc, jeśli doświadczasz choroby lokomocyjnej w grze."
+NEW,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition",Podczas przełączania się między statkami pomiń przejście
+NEW,newmainmenu_tests,3400,TESTS,TESTY
+NEW,newmainmenu_instantshipswitch,3400,Switch instantly between ships,Przełączaj się błyskawicznie między statkami
+NEW,newmainmenu_vsync,3400,V-Sync,V-Sync
+NEW,hud_layer_neutralexpand,3400,*X NEUTRAL SHIPS,*X STATKI NEUTRALNE
+NEW,hud_layer_neutralexpandtooltip,3400,Show neutral ships,Pokaż statki neutralne
+NEW,power_unit,3400,*X MW,*X MW
+NEW,tactical_focuslayer,3400,FOCUS LAYER,WARSTWA SKUPIENIA
+NEW,tactical_tooltip_focuslayer,3400,"When enabled, the camera's rotation and position track the currently selected layer.","Gdy funkcja ta jest włączona, obrót i położenie kamery są zgodne z aktualnie wybraną warstwą."
+NEW,logistics_condition_untilstorage,3400,Quantity on board,Ilość na pokładzie
+NEW,logistics_quantity_all,3400,ALL,WSZYSTKO
+NEW,logistics_quantity_full,3400,FULL,PEŁNY
+NEW,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,UŻYJ DOWOLNEGO SCHOWKA NA ŁADUNEK
+NEW,logistics_stuck_layernotours,3400,Ship L*X is not friendly,Statek L*X nie jest przyjazny
+NEW,logistics_tooltip_controlall,3400,[CTRL] ALL,[CTRL] ALL
+NEW,logistics_tooltip_controlfull,3400,[CTRL] FULL,[CTRL] PEŁNY
+NEW,logistics_tooltip_noitemrequired,3400,This order does not require an item,To zamówienie nie wymaga pozycji
+NEW,logistics_tooltip_extrastoggleshow,3400,Show extra options for this order,Pokaż dodatkowe opcje dla tego zamówienia
+NEW,logistics_tooltip_extrastogglehide,3400,Hide extra options for this order,Ukryj dodatkowe opcje dla tego zamówienia
+NEW,logistics_tooltip_extrastogglenone,3400,No extra options available,Brak dostępnych opcji dodatkowych
+NEW,alert_type_failedtofindsuit,3400,SPACESUITS REQUIRED,KOMBINEZON KOSMICZNY WYMAGANY
+NEW,alert_type_failedtofindsuit_caption,3400,*X crew members need spacesuits.,*X członkowie załogi potrzebują kombinezonów kosmicznych.
+NEW,objective_travel_to_location,3400,Travel to S*X,Udaj się do S*X
+UPDATED,logistics_status_transfernosupply,3400,out of the *X desired (not enough available),poza pożądanym adresem *X (niewystarczająca ilość)
+PREVIOUS,logistics_status_transfernosupply,3329,out of the *X ordered (not enough available),z zamówionego *X (niewystarczająca ilość)
+UPDATED,logistics_status_buynomoney,3400,out of the *X desired (not enough money),poza pożądanym *X (za mało pieniędzy)
+PREVIOUS,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),z zamówionego *X (za mało pieniędzy)
+UPDATED,logistics_status_buynosupply,3400,out of the *X desired (not enough available),poza pożądanym adresem *X (niewystarczająca ilość)
+PREVIOUS,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),z zamówionego *X (niewystarczająca ilość)
+UPDATED,logistics_status_sellnosupply,3400,out of the *X desired (not enough available),poza pożądanym adresem *X (niewystarczająca ilość)
+PREVIOUS,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),z zamówionego *X (niewystarczająca ilość)
+UPDATED,logistics_log_transferstoragefull1,3400,out of the *X desired (destination storage full),poza żądanym adresem *X (pamięć docelowa pełna)
+PREVIOUS,logistics_log_transferstoragefull1,3329,out of the *X ordered (destination storage full),poza zamówieniem *X (pamięć docelowa pełna)
+UPDATED,logistics_item_none,3400,SELECT ITEM,WYBIERZ ELEMENT
+PREVIOUS,logistics_item_none,3239,Select Item,Wybierz pozycję
+UPDATED,powergrid_demand,3400,DEMAND: *X MW,ZAPOTRZEBOWANIE: *X MW
+PREVIOUS,powergrid_demand,2594,DEMAND *X Mw,POPYT *X Mw
+UPDATED,powergrid_output,3400,OUTPUT: *X MW,WYJŚCIE: *X MW
+PREVIOUS,powergrid_output,2594,OUTPUT *X Mw,WYJŚCIE *X Mw
+UPDATED,powergrid_stored,3400,STORED: *X MJ,PRZECHOWYWANE: *X MJ
+PREVIOUS,powergrid_stored,2594,STORED *X Mw,PRZECHOWYWANE *X Mw
+UPDATED,object_battery_description,3400,"Stores any excess power available in the powergrid, up to 1000MJ. The battery will supply power whenever there is a shortage.","Przechowuje nadmiar energii dostępnej w sieci energetycznej, do 1000MJ. Bateria będzie dostarczać energię, gdy wystąpi jej niedobór."
+PREVIOUS,object_battery_description,2594,"Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage.","Przechowuje nadmiar energii dostępnej w sieci energetycznej, do 1000 MW. Bateria będzie dostarczać energię, gdy wystąpi jej niedobór."
+UPDATED,object_reactor_description,3400,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\n\nGenerates a maximum power output of 100MW.,"Spala wysokoenergetyczne Paliwo w celu wytworzenia mocy. Paliwo musi być dostarczane (za pomocą rury). Następnie użyj kabli, aby połączyć się z innym zasilanym Sprzętem.\n\nGeneruje maksymalną moc 100MW."
+PREVIOUS,object_reactor_description,2594,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW.,"Spala wysokoenergetyczne paliwo w celu wytworzenia mocy. Musi być zasilany paliwem (przez rurę). Następnie użyj kabli, aby połączyć się z innym zasilanym sprzętem.\nGeneruje maksymalną moc wyjściową 100 MW."
+UPDATED,wolf_part1_objective_drones,3400,Install a Drone Bay and have at least one Logistics Drone,Zainstaluj Zatokę Dronów i posiadaj co najmniej jednego Drona logistycznego
+PREVIOUS,wolf_part1_objective_drones,2594,Install a Drone Bay and at least one Logistics Drone,Zainstaluj wnękę dronów i co najmniej jednego drona logistycznego
+UPDATED,tutorial_stargatewindowhighlightframes2,3400,The button underneath each component can be clicked to quickly sell all your stock and submit it to the Andromeda Project.\n\nThey can also be sold from the trade screen.,"Przycisk pod każdym komponentem może zostać kliknięty, aby szybko sprzedać wszystkie twoje zapasy i przesłać je do Projektu Andromeda.\n\nMożna je również sprzedać z ekranu handlu."
+PREVIOUS,tutorial_stargatewindowhighlightframes2,2594,Sell your frames at a trading post to submit them to the Andromeda Project.,"Sprzedaj swoje ramki w punkcie handlowym, aby przesłać je do Projektu Andromeda."
+UPDATED,dsi_part2_thirdpartcomplete2,3400,"I'm going to take a short break from the project, I trust you'll be able to do the next couple of stages on your own.","Zamierzam zrobić sobie krótką przerwę od projektu, wierzę, że będziesz w stanie samodzielnie wykonać kilka następnych etapów."
+PREVIOUS,dsi_part2_thirdpartcomplete2,2594,Let's take another break and I'll contact you when the Andromeda Project releases the manifest for their next phase.,"Zróbmy sobie jeszcze jedną przerwę, a ja skontaktuję się z tobą, gdy Projekt Andromeda opublikuje manifest kolejnej fazy."
 CURRENT,logistics_log_skipped,3339,Skipped order,Pominięte zamówienie
 CURRENT,hud_ftlshipcontrolledbylogistics,3331,Ship is controlled by interstellar logistics,Statek jest kontrolowany przez logistykę międzygwiezdną
 CURRENT,newmainmenu_invalidsavename,3329,Invalid Save Name,Nieprawidłowa nazwa zapisu
@@ -79,13 +63,19 @@ CURRENT,techtree_queue,3329,Queue Research,Badania kolejki
 CURRENT,logistics_showlog,3329,SHOW LOG,POKAŻ LOG
 CURRENT,logistics_hidelog,3329,HIDE LOG,UKRYJ DZIENNIK
 CURRENT,logistics_order_goandwait,3329,Go and Wait,Idź i czekaj
+CURRENT,logistics_status_miningstacksnostorage,3329,"(*X/*Y stacks, storage full)","(*X/*Y stosy, magazyn pełny)"
+CURRENT,logistics_status_miningstacksnostorage1,3329,"(*X stacks, storage full)","(*X stosy, magazyn pełny)"
+CURRENT,logistics_status_collectcontainersnostorage,3329,"(*X/*Y containers, storage full)","(*X/*Y pojemniki, magazyn pełny)"
+CURRENT,logistics_status_collectcontainersnostorage1,3329,"(*X containers, storage full)","(*X pojemniki, magazyn pełny)"
 CURRENT,logistics_status_waiting,3329,Waiting T*X,Oczekiwanie T*X
+CURRENT,logistics_status_time,3329,in T*X,w T*X
 CURRENT,logistics_status_warning,3329,Warning,Ostrzeżenie
 CURRENT,logistics_status_alert,3329,Alert,Alarm
 CURRENT,logistics_log_jumped,3329,Travelled to system S*X,Podróż do systemu S*X
 CURRENT,logistics_log_jumpedstargate,3329,Travelled to system S*X through Stargate,Podróż do systemu S*X przez Gwiezdne Wrota
 CURRENT,logistics_log_transferto,3329,Transferred *X R*Y to L*Z,Przeniesiono *X R*Y do L*Z
 CURRENT,logistics_log_transferfrom,3329,Transferred *X R*Y from L*Z,Przeniesiono *X R*Y z L*Z
+CURRENT,logistics_log_transferstoragefull,3329,(destination storage full),(pamięć docelowa pełna)
 CURRENT,logistics_log_waited,3329,Waited for T*X,Czekałeś na T*X
 CURRENT,rating_trade,3329,Trade,Handel
 CURRENT,dsi_action_confirmcancel,3329,Confirm cancellation,Potwierdź anulowanie
@@ -198,11 +188,16 @@ CURRENT,logistics_stuck_resources,3239,L*X does not have any R*Ys,L*X nie ma ża
 CURRENT,logistics_stuck_patches,3239,System S*X does not have any R*Y to mine,System S*X nie ma żadnego R*Y do Kopalni
 CURRENT,logistics_stuck_gas,3239,System S*X does not have any R*Y to collect,System S*X nie posiada żadnej strony R*Y do zbierania danych
 CURRENT,logistics_stuck_tradingpost,3239,System S*X does not have a trading post,System S*X nie posiada punktu handlowego
+CURRENT,logistics_stuck_resourcestosell,3239,L*X does not have any R*Y to sell,L*X nie ma żadnych R*Y do sprzedania
 CURRENT,logistics_stuck_stargate,3239,Stargate is not ready for jump,Gwiezdne Wrota nie są gotowe do skoku
 CURRENT,logistics_status_notrunning,3239,No order currently running,Żadne zamówienie nie jest obecnie realizowane
 CURRENT,logistics_status_travelling,3239,Travelling to system S*X,Podróż do systemu S*X
 CURRENT,logistics_status_mining,3239,Mined *X R*Y,Kopalnia *X R*Y
+CURRENT,logistics_status_miningstacks,3239,(*X/*Y stacks),(*X/*Y stosy)
+CURRENT,logistics_status_miningstacks1,3239,(*X stacks),(*X stosy)
 CURRENT,logistics_status_collect,3239,Collected *X R*Y,Zebrane *X R*Y
+CURRENT,logistics_status_collectcontainers,3239,(*X/*Y containers),(*X/*Y kontenery)
+CURRENT,logistics_status_collectcontainers1,3239,(*X containers),(*X kontenery)
 CURRENT,logistics_status_buy,3239,Bought *X R*Y for $*Z,Kup *X R*Y dla $*Z
 CURRENT,logistics_status_sell,3239,Sold *X R*Y for $*Z,Sprzedano *X R*Y za $*Z
 CURRENT,logistics_status_notlooping,3239,Finished execution (not looping),Wykonanie zakończone (bez pętli)
@@ -2490,6 +2485,7 @@ CURRENT,wolf_part2_inperson_distress5,2594,I'll get the crew ready to evacuate. 
 CURRENT,wolf_part2_objective_dock,2594,Dock with the UMC Orion Sentinel,Zadokuj do UMC Orion Sentinel
 CURRENT,wolf_part2_inperson_distress6,2594,"The Reactor is reaching critical levels, Captain.  I can't stop it from overloading.","Reaktor osiąga poziom krytyczny, kapitanie.  Nie mogę go powstrzymać przed przeciążeniem."
 CURRENT,wolf_part2_inperson_distress7,2594,"I'll try and buy you a few more seconds, but it's going to go critical any moment.  Get to a safe distance as soon as you can, Captain.  Save my crew!","Spróbuję kupić wam jeszcze kilka sekund, ale w każdej chwili może dojść do krytycznej sytuacji.  Jak najszybciej oddal się na bezpieczną odległość, kapitanie.  Ratujcie moją załogę!"
+CURRENT,wolf_part2_objective_escape,2594,Get to a safe distance before the Orion Sentinel explodes,"Oddal się na bezpieczną odległość, zanim Orion Sentinel eksploduje"
 CURRENT,wolf_part2_dropoff1,2594,"Well done, Captain.  Your intervention prevented a further loss of life.  And now we know the pirate vessel is crewed by cowards, a fact that we intend to use to our advantage.","Dobra robota, kapitanie.  Twoja interwencja zapobiegła dalszym stratom w ludziach.  Teraz wiemy, że załogę pirackiego statku stanowią tchórze, co zamierzamy wykorzystać na naszą korzyść."
 CURRENT,wolf_part2_dropoff2,2594,"In the mean time, take the survivors to the nearest shipyard or colony and drop them off there to close the contract.","W międzyczasie zabierz ocalałych do najbliższej stoczni lub kolonii i zawieź ich tam, aby sfinalizować umowę."
 CURRENT,wolf_part2_objective_dropoff,2594,Drop off the survivors at any shipyard or colony [*X/*Y],Zrzuć ocalałych w dowolnej stoczni lub kolonii [*X/*Y]
@@ -3089,24 +3085,6 @@ CURRENT,dsi_part2_scene_z4,2594,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2594,THERE WILL BE NO FURTHER WARNING.,NIE BĘDZIE DALSZYCH OSTRZEŻEŃ.
 CURRENT,dsi_part2_scene_y7,2594,You've left me no choice.,Nie pozostawiłeś mi wyboru.
 CURRENT,dsi_part2_scene_y8,2594,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Przyjdę po ciebie, Alexandrze, i tym razem nie poproszę o 10%. Chcę wszystko."
-OBSOLETE,logistics_status_buynomoney,3400,out of the *X desired (not enough money),poza pożądanym *X (za mało pieniędzy)
-OBSOLETE,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),z zamówionego *X (za mało pieniędzy)
-OBSOLETE,logistics_status_buynosupply,3400,out of the *X desired (not enough available),poza pożądanym adresem *X (niewystarczająca ilość)
-OBSOLETE,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),z zamówionego *X (niewystarczająca ilość)
-OBSOLETE,logistics_status_sellnosupply,3400,out of the *X desired (not enough available),poza pożądanym adresem *X (niewystarczająca ilość)
-OBSOLETE,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),z zamówionego *X (niewystarczająca ilość)
-OBSOLETE,logistics_status_miningstacks,3239,(*X/*Y stacks),(*X/*Y stosy)
-OBSOLETE,logistics_status_collectcontainers,3239,(*X/*Y containers),(*X/*Y kontenery)
-OBSOLETE,wolf_part2_objective_escape,2594,Get to a safe distance before the Orion Sentinel explodes,"Oddal się na bezpieczną odległość, zanim Orion Sentinel eksploduje"
-OBSOLETE,logistics_item_none,3239,Select Item,Wybierz pozycję
-OBSOLETE,powergrid_demand,2594,DEMAND *X Mw,POPYT *X Mw
-OBSOLETE,powergrid_output,2594,OUTPUT *X Mw,WYJŚCIE *X Mw
-OBSOLETE,powergrid_stored,2594,STORED *X Mw,PRZECHOWYWANE *X Mw
-OBSOLETE,object_battery_description,2594,"Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage.","Przechowuje nadmiar energii dostępnej w sieci energetycznej, do 1000 MW. Bateria będzie dostarczać energię, gdy wystąpi jej niedobór."
-OBSOLETE,object_reactor_description,2594,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW.,"Spala wysokoenergetyczne paliwo w celu wytworzenia mocy. Musi być zasilany paliwem (przez rurę). Następnie użyj kabli, aby połączyć się z innym zasilanym sprzętem.\nGeneruje maksymalną moc wyjściową 100 MW."
-OBSOLETE,wolf_part1_objective_drones,2594,Install a Drone Bay and at least one Logistics Drone,Zainstaluj wnękę dronów i co najmniej jednego drona logistycznego
-OBSOLETE,tutorial_stargatewindowhighlightframes2,2594,Sell your frames at a trading post to submit them to the Andromeda Project.,"Sprzedaj swoje ramki w punkcie handlowym, aby przesłać je do Projektu Andromeda."
-OBSOLETE,dsi_part2_thirdpartcomplete2,2594,Let's take another break and I'll contact you when the Andromeda Project releases the manifest for their next phase.,"Zróbmy sobie jeszcze jedną przerwę, a ja skontaktuję się z tobą, gdy Projekt Andromeda opublikuje manifest kolejnej fazy."
 OBSOLETE,thefinalstand_harken5,3248,The Stargate will fall back into your sole control. I've marked an allied shipyard on your map. I'll hide out there in the mean-time.,Gwiezdne Wrota wrócą pod twoją wyłączną kontrolę. Zaznaczyłem sojuszniczą stocznię na twojej mapie. Ukryję się tam w międzyczasie.
 OBSOLETE,thefinalstand_harken5,3239,"Any and all damage to the HQ should be avoided. Many innocent lives are on-board that HQ, the loss of life from destroying it would be far too great. You will upload a virus to their command centre and disable the station's offensive capabilities.","Należy unikać wszelkich uszkodzeń kwatery głównej. Na pokładzie kwatery głównej znajduje się wiele niewinnych istnień, a straty w ludziach spowodowane jej zniszczeniem byłyby zbyt duże. Prześlesz wirusa do ich centrum dowodzenia i wyłączysz zdolności ofensywne stacji."
 OBSOLETE,industryend_message,3248,"Now the Andromeda HQ has been captured, Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind spreads beyond our home galaxy and into the future.","Teraz, gdy kwatera główna Andromedy została przejęta, Harken i Międzygalaktyczna Rada Bezpieczeństwa zlikwidują konglomerat Projektu Andromeda i odzyskają kontrolę nad Gwiezdnymi Wrotami dla dobra całej ludzkości.  Rozpoczął się nowy rozdział, w którym ludzkość wykracza poza naszą rodzimą galaktykę i wkracza w przyszłość."

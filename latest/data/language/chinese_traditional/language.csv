@@ -1,57 +1,73 @@
 ﻿state,key,svn,english,translation
-NEW,settings_motionsicknessmode,3400,Motion Sickness Mode,暈車模式
-NEW,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.",移除了背景旋轉，如果您在遊戲中有暈動的感覺，這應該會有所幫助。
-NEW,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition",在船隻之間切換時，跳過轉換
-NEW,newmainmenu_tests,3400,TESTS,測試
-NEW,newmainmenu_instantshipswitch,3400,Switch instantly between ships,在船隻之間即時切換
-NEW,newmainmenu_vsync,3400,V-Sync,V-Sync
-NEW,hud_layer_neutralexpand,3400,*X NEUTRAL SHIPS,*X 靜態船舶
-NEW,hud_layer_neutralexpandtooltip,3400,Show neutral ships,顯示中立船隻
-NEW,power_unit,3400,*X MW,*X MW
-NEW,tactical_focuslayer,3400,FOCUS LAYER,焦點層
-NEW,tactical_tooltip_focuslayer,3400,"When enabled, the camera's rotation and position track the currently selected layer.",啟用時，攝影機的旋轉和位置會追蹤目前選取的圖層。
-NEW,logistics_condition_untilstorage,3400,Quantity on board,船上數量
-NEW,logistics_quantity_all,3400,ALL,所有
-NEW,logistics_quantity_full,3400,FULL,完整
-NEW,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,使用任何貨倉
-NEW,logistics_stuck_layernotours,3400,Ship L*X is not friendly,船舶L*X 不友善
-NEW,logistics_tooltip_controlall,3400,[CTRL] ALL,[CTRL] ALL
-NEW,logistics_tooltip_controlfull,3400,[CTRL] FULL,[CTRL] FULL
-NEW,logistics_tooltip_noitemrequired,3400,This order does not require an item,此訂單不要求項目
-NEW,logistics_tooltip_extrastoggleshow,3400,Show extra options for this order,顯示此訂單的額外選項
-NEW,logistics_tooltip_extrastogglehide,3400,Hide extra options for this order,隱藏此訂單的額外選項
-NEW,logistics_tooltip_extrastogglenone,3400,No extra options available,無額外選項
-NEW,alert_type_failedtofindsuit,3400,SPACESUITS REQUIRED,需要太空服
-NEW,alert_type_failedtofindsuit_caption,3400,*X crew members need spacesuits.,*X 船員需要太空服。
-NEW,objective_travel_to_location,3400,Travel to S*X,前往S*X
-UPDATED,logistics_status_transfernosupply,3400,out of the *X desired (not enough available),超出*X 所需的範圍 (可用資源不足)
-PREVIOUS,logistics_status_transfernosupply,3329,out of the *X ordered (not enough available),不在*X 訂單中 (供應不足)
-UPDATED,logistics_status_buynomoney,3400,out of the *X desired (not enough money),不在*X desired (不夠錢)
-PREVIOUS,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),不在*X 訂單 (錢不夠)
-UPDATED,logistics_status_buynosupply,3400,out of the *X desired (not enough available),超出*X 所需的範圍 (可用資源不足)
-PREVIOUS,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),不在*X 訂單中 (供應不足)
-UPDATED,logistics_status_sellnosupply,3400,out of the *X desired (not enough available),超出*X 所需的範圍 (可用資源不足)
-PREVIOUS,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),不在*X 訂單中 (供應不足)
-UPDATED,logistics_log_transferstoragefull1,3400,out of the *X desired (destination storage full),超出*X 所需的範圍 (目的地儲存已滿)
-PREVIOUS,logistics_log_transferstoragefull1,3329,out of the *X ordered (destination storage full),出*X 訂單（目的地儲存已滿）
-UPDATED,logistics_item_none,3400,SELECT ITEM,選擇項目
-PREVIOUS,logistics_item_none,3239,Select Item,選擇項目
-UPDATED,powergrid_demand,3400,DEMAND: *X MW,需求：*X MW
-PREVIOUS,powergrid_demand,2448,DEMAND *X Mw,需求 *X MW
-UPDATED,powergrid_output,3400,OUTPUT: *X MW,輸出： *X MW
-PREVIOUS,powergrid_output,2448,OUTPUT *X Mw,輸出 *X MW
-UPDATED,powergrid_stored,3400,STORED: *X MJ,儲存： *X MJ
-PREVIOUS,powergrid_stored,2448,STORED *X Mw,存儲 *X MW
-UPDATED,object_battery_description,3400,"Stores any excess power available in the powergrid, up to 1000MJ. The battery will supply power whenever there is a shortage.",儲存電網中任何過剩的可用電力，最高可達 1000MJ。每當電力不足時，電池就會供電。
-PREVIOUS,object_battery_description,2448,"Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage.",可儲存電網中多餘的電力，最高可達 1000 兆瓦。每當電力短缺時，電池就會供電。
-UPDATED,object_reactor_description,3400,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\n\nGenerates a maximum power output of 100MW.,燃燒高能量燃料產生動力。必須提供燃料（通過管道）。然後使用電纜連接其他供電設備。\n\n最大輸出功率為 100MW。
-PREVIOUS,object_reactor_description,2448,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW.,燃燒高能燃料以產生動力。必須通過管道供應燃料。然後使用電纜連接到其他供電設備。\n最大輸出功率爲 100 兆瓦。
-UPDATED,wolf_part1_objective_drones,3400,Install a Drone Bay and have at least one Logistics Drone,安裝一個 Drone Bay，並至少有一架後勤 Drone
-PREVIOUS,wolf_part1_objective_drones,2448,Install a Drone Bay and at least one Logistics Drone,安裝無人機艙和至少一架貨運無人機
-UPDATED,tutorial_stargatewindowhighlightframes2,3400,The button underneath each component can be clicked to quickly sell all your stock and submit it to the Andromeda Project.\n\nThey can also be sold from the trade screen.,點選每個元件下方的按鈕，就能快速賣出所有庫存，並提交給安朵美達計劃。\n\n，它們也可以從交易畫面賣出。
-PREVIOUS,tutorial_stargatewindowhighlightframes2,2448,Sell your frames at a trading post to submit them to the Andromeda Project.,在交易站出售你的畫框，將它們提交給仙女座計劃。
-UPDATED,dsi_part2_thirdpartcomplete2,3400,"I'm going to take a short break from the project, I trust you'll be able to do the next couple of stages on your own.",我要從專案中稍作休息，我相信您能自己完成接下來的幾個階段。
-PREVIOUS,dsi_part2_thirdpartcomplete2,2448,Let's take another break and I'll contact you when the Andromeda Project releases the manifest for their next phase.,我們再休息一下，等仙女座計劃發佈下一階段的清單時，我會聯繫你的。
+CURRENT,logistics_log_transfertonosupply,3492,Transferred *X R*Y to L*Z out of the *P desired - insufficient cargo,將*X R*Y 轉移到L*Z 出所需的*P - 貨物不足
+CURRENT,logistics_log_transferfromnosupply,3492,Transferred *X R*Y from L*Z out of the *P desired - insufficient cargo,將*X R*Y 從L*Z 轉出所需的*P - 貨物不足
+CURRENT,trade_paymentperjump,3472,*X (+*Y) per sector jump,*X (+*Y) 每扇形跳躍
+CURRENT,award_civilianpayment,3472,CIVILIAN PAYMENT,平民付款
+CURRENT,award_civilianpayment_caption,3472,*X permanent residents in your fleet,*X 您車隊中的永久居民
+CURRENT,logistics_status_default,3472,Order running,訂單運行
+CURRENT,logistics_status_miningstacksfull,3472,Mined *X R*Y (*Z stacks) - storage full,已礦化*X R*Y (*Z 堆疊) - 儲存已滿
+CURRENT,logistics_status_miningstackstime,3472,Mined *X R*Y (*Z stacks) in T*P,礦山*X R*Y (*Z 堆疊) 在 T*P
+CURRENT,logistics_status_miningstackstimefull,3472,Mined *X R*Y (*Z stacks) in T*P - storage full,已礦化*X R*Y (*Z 堆疊) 在 T*P - 儲存已滿
+CURRENT,logistics_status_miningratio,3472,Mined *X R*Y (*Z/*P stacks),已礦化*X R*Y (*Z/*P 堆疊)
+CURRENT,logistics_status_miningratiofull,3472,Mined *X R*Y (*Z/*P stacks) - storage full,已礦化*X R*Y (*Z/*P 堆疊) - 儲存已滿
+CURRENT,logistics_status_miningonboard,3472,"Mined *X R*Y (*Z stacks on board, *P desired) - storage full",已礦化*X R*Y (*Z 堆疊在船上，*P 需要) - 儲存已滿
+CURRENT,logistics_status_collectcontainersfull,3472,Collected *X R*Y (*Z containers) - storage full,收集的*X R*Y (*Z 容器) - 儲存已滿
+CURRENT,logistics_status_collectcontainerstime,3472,Collected *X R*Y (*Z containers) in T*P,在 T 收集*X R*Y (*Z 容器) T*P
+CURRENT,logistics_status_collectcontainerstimefull,3472,Collected *X R*Y (*Z containers) in T*P - storage full,收集的*X R*Y (*Z 容器) 在 T*P - 儲存已滿
+CURRENT,logistics_status_collectratio,3472,Collected *X R*Y (*Z/*P containers),收集*X R*Y (*Z/*P 容器)
+CURRENT,logistics_status_collectratiofull,3472,Collected *X R*Y (*Z/*P containers) - storage full,已收集*X R*Y (*Z/*P 容器) - 儲存已滿
+CURRENT,logistics_status_collectonboard,3472,"Collected *X R*Y (*Z containers on board, *P desired) - storage full",已收集*X R*Y (*Z 船上的集裝箱，需要*P ) - 儲存已滿
+CURRENT,logistics_status_transfertonosupply,3472,Transferring *X R*Y to L*Z out of the *P desired - insufficient cargo,將*X R*Y 轉移到L*Z 出所需的*P - 貨物不足
+CURRENT,logistics_status_transferfromnosupply,3472,Transferring *X R*Y from L*Z out of the *P desired - insufficient cargo,將*X R*Y 從L*Z 轉出所需的*P - 貨物不足
+CURRENT,logistics_status_buyzero,3472,Bought *X R*Y,購買*X R*Y
+CURRENT,logistics_status_buyzeronomoney,3472,Bought *X R*Y out of the *Z desired - insufficient funds,購買*X R*Y 出*Z 所需的 - 資金不足
+CURRENT,logistics_status_buyzeronosupply,3472,Bought *X R*Y out of the *Z desired - insufficient supply,從*Z 買到所需的*X R*Y - 供應不足
+CURRENT,logistics_status_sellzero,3472,Sold *X R*Y,已售出*X R*Y
+CURRENT,logistics_status_sellzeronosupply,3472,Sold *X R*Y out of the *P desired - insufficient cargo,出售*X R*Y 出*P 所需的 - 貨物不足
+CURRENT,logistics_log_transfertofull,3472,Transferred *X R*Y to L*Z - destination storage full,已傳送*X R*Y 到L*Z - 目的地儲存已滿
+CURRENT,logistics_log_transferfromfull,3472,Transferred *X R*Y from L*Z - destination storage full,從L*Z 轉移*X R*Y - 目的地儲存已滿
+CURRENT,logistics_log_transfertofull1,3472,Transferred *X R*Y to L*Z out of the *P desired - destination storage full,從*P 所需的*X R*Y 轉移到L*Z - 目的地儲存已滿
+CURRENT,logistics_log_transferfromfull1,3472,Transferred *X R*Y from L*Z out of the *P desired - destination storage full,將*X R*Y 從L*Z 轉出所需的*P - 目的地儲存已滿
+CURRENT,logistics_status_buynomoney,3472,Bought *X R*Y for $*Z out of the *P desired - insufficient funds,為$*Z 買了*X R*Y 出*P 所需的 - 資金不足
+CURRENT,logistics_status_buynosupply,3472,Bought *X R*Y for $*Z out of the *P desired - insufficient supply,為$*Z 買了*X R*Y 出*P 所需的 - 供應不足
+CURRENT,logistics_status_sellnosupply,3472,Sold *X R*Y for $*Z out of the *P desired - insufficient cargo,出售*X R*Y 為$*Z 出所需的*P - 貨量不足
+CURRENT,logistics_status_miningstacks,3472,Mined *X R*Y (*Z stacks),已礦化*X R*Y (*Z 堆疊)
+CURRENT,logistics_status_collectcontainers,3472,Collected *X R*Y (*Z containers),收集*X R*Y (*Z 容器)
+CURRENT,wolf_part2_objective_escape,3472,Undock and get to a safe distance before the Orion Sentinel explodes,在 Orion Sentinel 爆炸前卸載並離開安全距離。
+CURRENT,settings_motionsicknessmode,3400,Motion Sickness Mode,暈車模式
+CURRENT,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.",移除了背景旋轉，如果您在遊戲中有暈動的感覺，這應該會有所幫助。
+CURRENT,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition",在船隻之間切換時，跳過轉換
+CURRENT,newmainmenu_tests,3400,TESTS,測試
+CURRENT,newmainmenu_instantshipswitch,3400,Switch instantly between ships,在船隻之間即時切換
+CURRENT,newmainmenu_vsync,3400,V-Sync,V-Sync
+CURRENT,hud_layer_neutralexpand,3400,*X NEUTRAL SHIPS,*X 靜態船舶
+CURRENT,hud_layer_neutralexpandtooltip,3400,Show neutral ships,顯示中立船隻
+CURRENT,power_unit,3400,*X MW,*X MW
+CURRENT,tactical_focuslayer,3400,FOCUS LAYER,焦點層
+CURRENT,tactical_tooltip_focuslayer,3400,"When enabled, the camera's rotation and position track the currently selected layer.",啟用時，攝影機的旋轉和位置會追蹤目前選取的圖層。
+CURRENT,logistics_condition_untilstorage,3400,Quantity on board,船上數量
+CURRENT,logistics_quantity_all,3400,ALL,所有
+CURRENT,logistics_quantity_full,3400,FULL,完整
+CURRENT,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,使用任何貨倉
+CURRENT,logistics_stuck_layernotours,3400,Ship L*X is not friendly,船舶L*X 不友善
+CURRENT,logistics_tooltip_controlall,3400,[CTRL] ALL,[CTRL] ALL
+CURRENT,logistics_tooltip_controlfull,3400,[CTRL] FULL,[CTRL] FULL
+CURRENT,logistics_tooltip_noitemrequired,3400,This order does not require an item,此訂單不要求項目
+CURRENT,logistics_tooltip_extrastoggleshow,3400,Show extra options for this order,顯示此訂單的額外選項
+CURRENT,logistics_tooltip_extrastogglehide,3400,Hide extra options for this order,隱藏此訂單的額外選項
+CURRENT,logistics_tooltip_extrastogglenone,3400,No extra options available,無額外選項
+CURRENT,alert_type_failedtofindsuit,3400,SPACESUITS REQUIRED,需要太空服
+CURRENT,alert_type_failedtofindsuit_caption,3400,*X crew members need spacesuits.,*X 船員需要太空服。
+CURRENT,objective_travel_to_location,3400,Travel to S*X,前往S*X
+CURRENT,logistics_item_none,3400,SELECT ITEM,選擇項目
+CURRENT,powergrid_demand,3400,DEMAND: *X MW,需求：*X MW
+CURRENT,powergrid_output,3400,OUTPUT: *X MW,輸出： *X MW
+CURRENT,powergrid_stored,3400,STORED: *X MJ,儲存： *X MJ
+CURRENT,object_battery_description,3400,"Stores any excess power available in the powergrid, up to 1000MJ. The battery will supply power whenever there is a shortage.",儲存電網中任何過剩的可用電力，最高可達 1000MJ。每當電力不足時，電池就會供電。
+CURRENT,object_reactor_description,3400,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\n\nGenerates a maximum power output of 100MW.,燃燒高能量燃料產生動力。必須提供燃料（通過管道）。然後使用電纜連接其他供電設備。\n\n最大輸出功率為 100MW。
+CURRENT,wolf_part1_objective_drones,3400,Install a Drone Bay and have at least one Logistics Drone,安裝一個 Drone Bay，並至少有一架後勤 Drone
+CURRENT,tutorial_stargatewindowhighlightframes2,3400,The button underneath each component can be clicked to quickly sell all your stock and submit it to the Andromeda Project.\n\nThey can also be sold from the trade screen.,點選每個元件下方的按鈕，就能快速賣出所有庫存，並提交給安朵美達計劃。\n\n，它們也可以從交易畫面賣出。
+CURRENT,dsi_part2_thirdpartcomplete2,3400,"I'm going to take a short break from the project, I trust you'll be able to do the next couple of stages on your own.",我要從專案中稍作休息，我相信您能自己完成接下來的幾個階段。
 CURRENT,logistics_log_skipped,3339,Skipped order,跳過訂單
 CURRENT,hud_ftlshipcontrolledbylogistics,3331,Ship is controlled by interstellar logistics,船隻由星際物流控制
 CURRENT,newmainmenu_invalidsavename,3329,Invalid Save Name,無效儲存名稱
@@ -63,19 +79,13 @@ CURRENT,techtree_queue,3329,Queue Research,佇列研究
 CURRENT,logistics_showlog,3329,SHOW LOG,顯示記錄
 CURRENT,logistics_hidelog,3329,HIDE LOG,隱藏記錄
 CURRENT,logistics_order_goandwait,3329,Go and Wait,前往並等待
-CURRENT,logistics_status_miningstacksnostorage,3329,"(*X/*Y stacks, storage full)",(*X/*Y 堆疊，儲存已滿)
-CURRENT,logistics_status_miningstacksnostorage1,3329,"(*X stacks, storage full)",(*X 堆疊，儲存已滿)
-CURRENT,logistics_status_collectcontainersnostorage,3329,"(*X/*Y containers, storage full)",(*X/*Y 容器、儲存滿)
-CURRENT,logistics_status_collectcontainersnostorage1,3329,"(*X containers, storage full)",(*X 容器、儲存滿)
 CURRENT,logistics_status_waiting,3329,Waiting T*X,等待 T*X
-CURRENT,logistics_status_time,3329,in T*X,在 T*X
 CURRENT,logistics_status_warning,3329,Warning,警告
 CURRENT,logistics_status_alert,3329,Alert,警報
 CURRENT,logistics_log_jumped,3329,Travelled to system S*X,前往系統S*X
 CURRENT,logistics_log_jumpedstargate,3329,Travelled to system S*X through Stargate,透過星際之門前往S*X 系統
 CURRENT,logistics_log_transferto,3329,Transferred *X R*Y to L*Z,轉移*X R*Y 至L*Z
 CURRENT,logistics_log_transferfrom,3329,Transferred *X R*Y from L*Z,轉自*X R*Y L*Z
-CURRENT,logistics_log_transferstoragefull,3329,(destination storage full),(目的地儲存已滿)
 CURRENT,logistics_log_waited,3329,Waited for T*X,等待 T*X
 CURRENT,rating_trade,3329,Trade,貿易
 CURRENT,dsi_action_confirmcancel,3329,Confirm cancellation,確認取消
@@ -190,16 +200,11 @@ CURRENT,logistics_stuck_resources,3239,L*X does not have any R*Ys,L*X 沒有任�
 CURRENT,logistics_stuck_patches,3239,System S*X does not have any R*Y to mine,星系 S*X 沒有任何 R*Y 可供開採
 CURRENT,logistics_stuck_gas,3239,System S*X does not have any R*Y to collect,星系 S*X 沒有任何 R*Y 可供收集
 CURRENT,logistics_stuck_tradingpost,3239,System S*X does not have a trading post,星系 S*X 沒有貿易站
-CURRENT,logistics_stuck_resourcestosell,3239,L*X does not have any R*Y to sell,L*X 沒有任何 R*Y 可供出售
 CURRENT,logistics_stuck_stargate,3239,Stargate is not ready for jump,星際之門尚未做好跳躍準備
 CURRENT,logistics_status_notrunning,3239,No order currently running,目前沒有訂單
 CURRENT,logistics_status_travelling,3239,Travelling to system S*X,前往星系 S*X
 CURRENT,logistics_status_mining,3239,Mined *X R*Y,已開採 *X R*Y
-CURRENT,logistics_status_miningstacks,3239,(*X/*Y stacks),(*X/*Y 堆疊)
-CURRENT,logistics_status_miningstacks1,3239,(*X stacks),(*X 堆疊)
 CURRENT,logistics_status_collect,3239,Collected *X R*Y,已收集 *X R*Y
-CURRENT,logistics_status_collectcontainers,3239,(*X/*Y containers),(*X/*Y 容器)
-CURRENT,logistics_status_collectcontainers1,3239,(*X containers),(*X 容器)
 CURRENT,logistics_status_buy,3239,Bought *X R*Y for $*Z,以 $*Z 購買了 *X R*Y
 CURRENT,logistics_status_sell,3239,Sold *X R*Y for $*Z,以 $*Z 出售了 *X R*Y
 CURRENT,logistics_status_notlooping,3239,Finished execution (not looping),執行完畢（不循環）
@@ -2512,7 +2517,6 @@ CURRENT,wolf_part2_inperson_distress4,2448,"To rescue my crew you'll need to get
 CURRENT,wolf_part2_inperson_distress5,2448,I'll get the crew ready to evacuate. Please hurry!,我去讓船員準備撤離請抓緊時間
 CURRENT,wolf_part2_objective_dock,2448,Dock with the UMC Orion Sentinel,與聯電獵戶座哨兵對接
 CURRENT,wolf_part2_inperson_distress7,2448,"I'll try and buy you a few more seconds, but it's going to go critical any moment.  Get to a safe distance as soon as you can, Captain.  Save my crew!",我會試着爲你多爭取幾秒鐘 但情況隨時會變得很危急  儘快到達安全距離 艦長  救救我的船員
-CURRENT,wolf_part2_objective_escape,2448,Get to a safe distance before the Orion Sentinel explodes,在獵戶座哨兵爆炸前到達安全距離
 CURRENT,wolf_part2_dropoff2,2448,"In the mean time, take the survivors to the nearest shipyard or colony and drop them off there to close the contract.",與此同時，把倖存者帶到最近的造船廠或殖民地，在那裏放下他們，結束合同。
 CURRENT,wolf_part2_objective_dropoff,2448,Drop off the survivors at any shipyard or colony [*X/*Y],將倖存者送到任何船廠或殖民地 [*X/*Y]。
 CURRENT,wolf_part2_debrief2,2448,Regrettably I must inform you Captain Ryker does not appear to be among the survivors.  Her sacrifice will be remembered.,遺憾的是，我必須告訴你，雷克艦長似乎不在倖存者之列。  她的犧牲將被銘記。
@@ -3085,6 +3089,24 @@ CURRENT,keybinding_alttool,2872,Alt Editor Tool,Alt 編輯工具
 CURRENT,trade_equipment_size,2872,- Size *X x *Y,- 尺寸 *X x *Y
 CURRENT,trade_equipment_rotatable,2872,- Rotatable,- 可旋轉
 CURRENT,trade_equipment_powered,2872,- Powered,- 需要供電
+OBSOLETE,logistics_status_buynomoney,3400,out of the *X desired (not enough money),不在*X desired (不夠錢)
+OBSOLETE,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),不在*X 訂單 (錢不夠)
+OBSOLETE,logistics_status_buynosupply,3400,out of the *X desired (not enough available),超出*X 所需的範圍 (可用資源不足)
+OBSOLETE,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),不在*X 訂單中 (供應不足)
+OBSOLETE,logistics_status_sellnosupply,3400,out of the *X desired (not enough available),超出*X 所需的範圍 (可用資源不足)
+OBSOLETE,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),不在*X 訂單中 (供應不足)
+OBSOLETE,logistics_status_miningstacks,3239,(*X/*Y stacks),(*X/*Y 堆疊)
+OBSOLETE,logistics_status_collectcontainers,3239,(*X/*Y containers),(*X/*Y 容器)
+OBSOLETE,wolf_part2_objective_escape,2448,Get to a safe distance before the Orion Sentinel explodes,在獵戶座哨兵爆炸前到達安全距離
+OBSOLETE,logistics_item_none,3239,Select Item,選擇項目
+OBSOLETE,powergrid_demand,2448,DEMAND *X Mw,需求 *X MW
+OBSOLETE,powergrid_output,2448,OUTPUT *X Mw,輸出 *X MW
+OBSOLETE,powergrid_stored,2448,STORED *X Mw,存儲 *X MW
+OBSOLETE,object_battery_description,2448,"Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage.",可儲存電網中多餘的電力，最高可達 1000 兆瓦。每當電力短缺時，電池就會供電。
+OBSOLETE,object_reactor_description,2448,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW.,燃燒高能燃料以產生動力。必須通過管道供應燃料。然後使用電纜連接到其他供電設備。\n最大輸出功率爲 100 兆瓦。
+OBSOLETE,wolf_part1_objective_drones,2448,Install a Drone Bay and at least one Logistics Drone,安裝無人機艙和至少一架貨運無人機
+OBSOLETE,tutorial_stargatewindowhighlightframes2,2448,Sell your frames at a trading post to submit them to the Andromeda Project.,在交易站出售你的畫框，將它們提交給仙女座計劃。
+OBSOLETE,dsi_part2_thirdpartcomplete2,2448,Let's take another break and I'll contact you when the Andromeda Project releases the manifest for their next phase.,我們再休息一下，等仙女座計劃發佈下一階段的清單時，我會聯繫你的。
 OBSOLETE,thefinalstand_harken5,3248,The Stargate will fall back into your sole control. I've marked an allied shipyard on your map. I'll hide out there in the mean-time.,星際之門將重新歸你控制我在你的地圖上標出了一個盟軍造船廠 I've marked an allied shipyard on your map.這段時間我會躲在那裏 I'll hide out there in the mean time.
 OBSOLETE,thefinalstand_harken5,3239,"Any and all damage to the HQ should be avoided. Many innocent lives are on-board that HQ, the loss of life from destroying it would be far too great. You will upload a virus to their command centre and disable the station's offensive capabilities.",應該避免任何對總部的破壞。總部內有許多無辜的生命，摧毀總部會造成巨大的生命損失。您將上傳病毒到他們的指揮中心，使該站失去攻擊能力。
 OBSOLETE,industryend_message,3248,"Now the Andromeda HQ has been captured, Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind spreads beyond our home galaxy and into the future.",現在，仙女座總部已被佔領，哈肯和星際安全委員會將爲了全人類的利益，摧毀仙女座計劃集團，重新奪回星際之門的控制權。  新的篇章已經開啓，人類將走出銀河系，走向未來。

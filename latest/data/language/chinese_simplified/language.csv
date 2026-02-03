@@ -1,57 +1,73 @@
 ﻿state,key,svn,english,translation
-NEW,settings_motionsicknessmode,3400,Motion Sickness Mode,晕车模式
-NEW,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.",取消了背景旋转，这对在游戏中出现晕动症的用户应该有所帮助。
-NEW,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition",在船只之间切换时，跳过过渡
-NEW,newmainmenu_tests,3400,TESTS,测试
-NEW,newmainmenu_instantshipswitch,3400,Switch instantly between ships,在船只之间即时切换
-NEW,newmainmenu_vsync,3400,V-Sync,V-Sync
-NEW,hud_layer_neutralexpand,3400,*X NEUTRAL SHIPS,*X 静态船舶
-NEW,hud_layer_neutralexpandtooltip,3400,Show neutral ships,显示中立船只
-NEW,power_unit,3400,*X MW,*X MW
-NEW,tactical_focuslayer,3400,FOCUS LAYER,聚焦层
-NEW,tactical_tooltip_focuslayer,3400,"When enabled, the camera's rotation and position track the currently selected layer.",启用后，摄像机的旋转和位置会跟踪当前选定的图层。
-NEW,logistics_condition_untilstorage,3400,Quantity on board,船上数量
-NEW,logistics_quantity_all,3400,ALL,所有
-NEW,logistics_quantity_full,3400,FULL,全部
-NEW,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,使用任何货物存储
-NEW,logistics_stuck_layernotours,3400,Ship L*X is not friendly,船舶L*X 不友好
-NEW,logistics_tooltip_controlall,3400,[CTRL] ALL,[CTRL] ALL
-NEW,logistics_tooltip_controlfull,3400,[CTRL] FULL,[CTRL] 满
-NEW,logistics_tooltip_noitemrequired,3400,This order does not require an item,本订单不要求项目
-NEW,logistics_tooltip_extrastoggleshow,3400,Show extra options for this order,显示此订单的其他选项
-NEW,logistics_tooltip_extrastogglehide,3400,Hide extra options for this order,隐藏此订单的其他选项
-NEW,logistics_tooltip_extrastogglenone,3400,No extra options available,无额外选项
-NEW,alert_type_failedtofindsuit,3400,SPACESUITS REQUIRED,需要宇航服
-NEW,alert_type_failedtofindsuit_caption,3400,*X crew members need spacesuits.,*X 船员需要宇航服
-NEW,objective_travel_to_location,3400,Travel to S*X,前往S*X
-UPDATED,logistics_status_transfernosupply,3400,out of the *X desired (not enough available),*X 。
-PREVIOUS,logistics_status_transfernosupply,3329,out of the *X ordered (not enough available),*X （数量不足）
-UPDATED,logistics_status_buynomoney,3400,out of the *X desired (not enough money),*X desired (钱不够)
-PREVIOUS,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),*X （钱不够）
-UPDATED,logistics_status_buynosupply,3400,out of the *X desired (not enough available),*X 。
-PREVIOUS,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),*X （数量不足）
-UPDATED,logistics_status_sellnosupply,3400,out of the *X desired (not enough available),*X 。
-PREVIOUS,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),*X （数量不足）
-UPDATED,logistics_log_transferstoragefull1,3400,out of the *X desired (destination storage full),*X （目的地存储空间已满）
-PREVIOUS,logistics_log_transferstoragefull1,3329,out of the *X ordered (destination storage full),*X （目的地存储已满）
-UPDATED,logistics_item_none,3400,SELECT ITEM,选择项目
-PREVIOUS,logistics_item_none,3239,Select Item,选择项目
-UPDATED,powergrid_demand,3400,DEMAND: *X MW,需求：*X 兆瓦
-PREVIOUS,powergrid_demand,2448,DEMAND *X Mw,需求 *X MW
-UPDATED,powergrid_output,3400,OUTPUT: *X MW,输出： *X 兆瓦
-PREVIOUS,powergrid_output,2448,OUTPUT *X Mw,输出 *X MW
-UPDATED,powergrid_stored,3400,STORED: *X MJ,存储： *X MJ
-PREVIOUS,powergrid_stored,2448,STORED *X Mw,存储 *X MW
-UPDATED,object_battery_description,3400,"Stores any excess power available in the powergrid, up to 1000MJ. The battery will supply power whenever there is a shortage.",可储存电网中多余的电能，最多可达 1000 兆焦耳。一旦电力短缺，电池就会供电。
-PREVIOUS,object_battery_description,2448,"Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage.",可储存电网中多余的电力，最高可达 1000 兆瓦。每当电力短缺时，电池就会供电。
-UPDATED,object_reactor_description,3400,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\n\nGenerates a maximum power output of 100MW.,燃烧高能燃料产生动力。必须通过管道供应燃料。然后使用电缆连接到其他供电设备。\n\n最大输出功率为 100 兆瓦。
-PREVIOUS,object_reactor_description,2448,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW.,燃烧高能燃料以产生动力。必须通过管道供应燃料。然后使用电缆连接到其他供电设备。\n最大输出功率为 100 兆瓦。
-UPDATED,wolf_part1_objective_drones,3400,Install a Drone Bay and have at least one Logistics Drone,安装无人机舱并拥有至少一架后勤无人机
-PREVIOUS,wolf_part1_objective_drones,2448,Install a Drone Bay and at least one Logistics Drone,安装无人机舱和至少一架货运无人机
-UPDATED,tutorial_stargatewindowhighlightframes2,3400,The button underneath each component can be clicked to quickly sell all your stock and submit it to the Andromeda Project.\n\nThey can also be sold from the trade screen.,点击每个组件下方的按钮，可以快速出售所有库存，并将其提交给仙女座计划。\n\n，它们也可以在交易屏幕上出售。
-PREVIOUS,tutorial_stargatewindowhighlightframes2,2448,Sell your frames at a trading post to submit them to the Andromeda Project.,在交易站出售你的画框，将它们提交给仙女座计划。
-UPDATED,dsi_part2_thirdpartcomplete2,3400,"I'm going to take a short break from the project, I trust you'll be able to do the next couple of stages on your own.",我将从项目中稍作休息，我相信你们能独立完成接下来的几个阶段。
-PREVIOUS,dsi_part2_thirdpartcomplete2,2448,Let's take another break and I'll contact you when the Andromeda Project releases the manifest for their next phase.,我们再休息一下，等仙女座计划发布下一阶段的清单时，我会联系你的。
+CURRENT,logistics_log_transfertonosupply,3492,Transferred *X R*Y to L*Z out of the *P desired - insufficient cargo,将*X R*Y 转至L*Z ，超出*P 所需的范围 - 货物不足
+CURRENT,logistics_log_transferfromnosupply,3492,Transferred *X R*Y from L*Z out of the *P desired - insufficient cargo,将*X R*Y 从L*Z 转出所需的*P - 货物不足
+CURRENT,trade_paymentperjump,3472,*X (+*Y) per sector jump,*X (+*Y) 每个扇形跳跃
+CURRENT,award_civilianpayment,3472,CIVILIAN PAYMENT,平民付款
+CURRENT,award_civilianpayment_caption,3472,*X permanent residents in your fleet,*X 车队中的常驻居民
+CURRENT,logistics_status_default,3472,Order running,订单运行
+CURRENT,logistics_status_miningstacksfull,3472,Mined *X R*Y (*Z stacks) - storage full,已开采的*X R*Y (*Z 堆栈) - 存储满了
+CURRENT,logistics_status_miningstackstime,3472,Mined *X R*Y (*Z stacks) in T*P,已开采的*X R*Y (*Z 堆栈)。T*P
+CURRENT,logistics_status_miningstackstimefull,3472,Mined *X R*Y (*Z stacks) in T*P - storage full,已开采的*X R*Y (*Z 堆栈) 在 T*P - 存储已满
+CURRENT,logistics_status_miningratio,3472,Mined *X R*Y (*Z/*P stacks),已开采*X R*Y (*Z/*P 堆栈)
+CURRENT,logistics_status_miningratiofull,3472,Mined *X R*Y (*Z/*P stacks) - storage full,已开采的*X R*Y (*Z/*P 堆栈) - 储存已满
+CURRENT,logistics_status_miningonboard,3472,"Mined *X R*Y (*Z stacks on board, *P desired) - storage full",已开采的*X R*Y (*Z 堆放在船上，*P 需要) - 储存已满
+CURRENT,logistics_status_collectcontainersfull,3472,Collected *X R*Y (*Z containers) - storage full,收集的*X R*Y (*Z 容器) - 储存已满
+CURRENT,logistics_status_collectcontainerstime,3472,Collected *X R*Y (*Z containers) in T*P,在 T 收集*X R*Y (*Z 容器) T*P
+CURRENT,logistics_status_collectcontainerstimefull,3472,Collected *X R*Y (*Z containers) in T*P - storage full,收集的*X R*Y (*Z 容器) 在 T*P - 存储满了
+CURRENT,logistics_status_collectratio,3472,Collected *X R*Y (*Z/*P containers),收集的*X R*Y (*Z/*P 容器)
+CURRENT,logistics_status_collectratiofull,3472,Collected *X R*Y (*Z/*P containers) - storage full,收集的*X R*Y (*Z/*P 容器) - 储存已满
+CURRENT,logistics_status_collectonboard,3472,"Collected *X R*Y (*Z containers on board, *P desired) - storage full",已收集*X R*Y (*Z 船上有集装箱，*P 需要) - 仓库已满
+CURRENT,logistics_status_transfertonosupply,3472,Transferring *X R*Y to L*Z out of the *P desired - insufficient cargo,将*X R*Y 转移到L*Z 以外所需的*P - 货物不足
+CURRENT,logistics_status_transferfromnosupply,3472,Transferring *X R*Y from L*Z out of the *P desired - insufficient cargo,将*X R*Y 从L*Z 转出所需的*P - 货物不足
+CURRENT,logistics_status_buyzero,3472,Bought *X R*Y,购买*X R*Y
+CURRENT,logistics_status_buyzeronomoney,3472,Bought *X R*Y out of the *Z desired - insufficient funds,从*Z 购买了所需的*X R*Y - 资金不足
+CURRENT,logistics_status_buyzeronosupply,3472,Bought *X R*Y out of the *Z desired - insufficient supply,从*Z 购买了所需的*X R*Y - 供应不足
+CURRENT,logistics_status_sellzero,3472,Sold *X R*Y,*X R*Y
+CURRENT,logistics_status_sellzeronosupply,3472,Sold *X R*Y out of the *P desired - insufficient cargo,出售*X R*Y 出*P 所需的 - 货物不足
+CURRENT,logistics_log_transfertofull,3472,Transferred *X R*Y to L*Z - destination storage full,已将*X R*Y 转至L*Z - 目标存储空间已满
+CURRENT,logistics_log_transferfromfull,3472,Transferred *X R*Y from L*Z - destination storage full,从L*Z 转移*X R*Y - 目标存储空间已满
+CURRENT,logistics_log_transfertofull1,3472,Transferred *X R*Y to L*Z out of the *P desired - destination storage full,将*X R*Y 转至L*Z ，转出所需的*P - 目标存储空间已满
+CURRENT,logistics_log_transferfromfull1,3472,Transferred *X R*Y from L*Z out of the *P desired - destination storage full,将*X R*Y 从L*Z 转出所需的*P - 目标存储空间已满
+CURRENT,logistics_status_buynomoney,3472,Bought *X R*Y for $*Z out of the *P desired - insufficient funds,从所需的*P 中为$*Z 购买了*X R*Y - 资金不足
+CURRENT,logistics_status_buynosupply,3472,Bought *X R*Y for $*Z out of the *P desired - insufficient supply,为$*Z 购买了*X R*Y ，以满足*P 的需要 - 供应不足
+CURRENT,logistics_status_sellnosupply,3472,Sold *X R*Y for $*Z out of the *P desired - insufficient cargo,将*X R*Y 出售给$*Z ，以满足*P 的需求 - 货物不足
+CURRENT,logistics_status_miningstacks,3472,Mined *X R*Y (*Z stacks),已开采的*X R*Y (*Z 堆栈)
+CURRENT,logistics_status_collectcontainers,3472,Collected *X R*Y (*Z containers),收集的*X R*Y (*Z 容器)
+CURRENT,wolf_part2_objective_escape,3472,Undock and get to a safe distance before the Orion Sentinel explodes,在猎户座哨兵爆炸前，脱离船坞并到达安全距离
+CURRENT,settings_motionsicknessmode,3400,Motion Sickness Mode,晕车模式
+CURRENT,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.",取消了背景旋转，这对在游戏中出现晕动症的用户应该有所帮助。
+CURRENT,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition",在船只之间切换时，跳过过渡
+CURRENT,newmainmenu_tests,3400,TESTS,测试
+CURRENT,newmainmenu_instantshipswitch,3400,Switch instantly between ships,在船只之间即时切换
+CURRENT,newmainmenu_vsync,3400,V-Sync,V-Sync
+CURRENT,hud_layer_neutralexpand,3400,*X NEUTRAL SHIPS,*X 静态船舶
+CURRENT,hud_layer_neutralexpandtooltip,3400,Show neutral ships,显示中立船只
+CURRENT,power_unit,3400,*X MW,*X MW
+CURRENT,tactical_focuslayer,3400,FOCUS LAYER,聚焦层
+CURRENT,tactical_tooltip_focuslayer,3400,"When enabled, the camera's rotation and position track the currently selected layer.",启用后，摄像机的旋转和位置会跟踪当前选定的图层。
+CURRENT,logistics_condition_untilstorage,3400,Quantity on board,船上数量
+CURRENT,logistics_quantity_all,3400,ALL,所有
+CURRENT,logistics_quantity_full,3400,FULL,全部
+CURRENT,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,使用任何货物存储
+CURRENT,logistics_stuck_layernotours,3400,Ship L*X is not friendly,船舶L*X 不友好
+CURRENT,logistics_tooltip_controlall,3400,[CTRL] ALL,[CTRL] ALL
+CURRENT,logistics_tooltip_controlfull,3400,[CTRL] FULL,[CTRL] 满
+CURRENT,logistics_tooltip_noitemrequired,3400,This order does not require an item,本订单不要求项目
+CURRENT,logistics_tooltip_extrastoggleshow,3400,Show extra options for this order,显示此订单的其他选项
+CURRENT,logistics_tooltip_extrastogglehide,3400,Hide extra options for this order,隐藏此订单的其他选项
+CURRENT,logistics_tooltip_extrastogglenone,3400,No extra options available,无额外选项
+CURRENT,alert_type_failedtofindsuit,3400,SPACESUITS REQUIRED,需要宇航服
+CURRENT,alert_type_failedtofindsuit_caption,3400,*X crew members need spacesuits.,*X 船员需要宇航服
+CURRENT,objective_travel_to_location,3400,Travel to S*X,前往S*X
+CURRENT,logistics_item_none,3400,SELECT ITEM,选择项目
+CURRENT,powergrid_demand,3400,DEMAND: *X MW,需求：*X 兆瓦
+CURRENT,powergrid_output,3400,OUTPUT: *X MW,输出： *X 兆瓦
+CURRENT,powergrid_stored,3400,STORED: *X MJ,存储： *X MJ
+CURRENT,object_battery_description,3400,"Stores any excess power available in the powergrid, up to 1000MJ. The battery will supply power whenever there is a shortage.",可储存电网中多余的电能，最多可达 1000 兆焦耳。一旦电力短缺，电池就会供电。
+CURRENT,object_reactor_description,3400,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\n\nGenerates a maximum power output of 100MW.,燃烧高能燃料产生动力。必须通过管道供应燃料。然后使用电缆连接到其他供电设备。\n\n最大输出功率为 100 兆瓦。
+CURRENT,wolf_part1_objective_drones,3400,Install a Drone Bay and have at least one Logistics Drone,安装无人机舱并拥有至少一架后勤无人机
+CURRENT,tutorial_stargatewindowhighlightframes2,3400,The button underneath each component can be clicked to quickly sell all your stock and submit it to the Andromeda Project.\n\nThey can also be sold from the trade screen.,点击每个组件下方的按钮，可以快速出售所有库存，并将其提交给仙女座计划。\n\n，它们也可以在交易屏幕上出售。
+CURRENT,dsi_part2_thirdpartcomplete2,3400,"I'm going to take a short break from the project, I trust you'll be able to do the next couple of stages on your own.",我将从项目中稍作休息，我相信你们能独立完成接下来的几个阶段。
 CURRENT,logistics_log_skipped,3339,Skipped order,跳单
 CURRENT,hud_ftlshipcontrolledbylogistics,3331,Ship is controlled by interstellar logistics,飞船由星际物流控制
 CURRENT,newmainmenu_invalidsavename,3329,Invalid Save Name,无效保存名称
@@ -63,19 +79,13 @@ CURRENT,techtree_queue,3329,Queue Research,队列研究
 CURRENT,logistics_showlog,3329,SHOW LOG,显示日志
 CURRENT,logistics_hidelog,3329,HIDE LOG,隐藏日志
 CURRENT,logistics_order_goandwait,3329,Go and Wait,去等待
-CURRENT,logistics_status_miningstacksnostorage,3329,"(*X/*Y stacks, storage full)",(*X/*Y 堆栈，存储满)
-CURRENT,logistics_status_miningstacksnostorage1,3329,"(*X stacks, storage full)",(*X 堆栈，存储已满)
-CURRENT,logistics_status_collectcontainersnostorage,3329,"(*X/*Y containers, storage full)",(*X/*Y 容器，存储满了)
-CURRENT,logistics_status_collectcontainersnostorage1,3329,"(*X containers, storage full)",(*X 容器，存储满了)
 CURRENT,logistics_status_waiting,3329,Waiting T*X,等待 T*X
-CURRENT,logistics_status_time,3329,in T*X,在 T*X
 CURRENT,logistics_status_warning,3329,Warning,警告
 CURRENT,logistics_status_alert,3329,Alert,警报
 CURRENT,logistics_log_jumped,3329,Travelled to system S*X,前往系统S*X
 CURRENT,logistics_log_jumpedstargate,3329,Travelled to system S*X through Stargate,通过星际之门前往S*X 系统
 CURRENT,logistics_log_transferto,3329,Transferred *X R*Y to L*Z,将*X R*Y 转至L*Z
 CURRENT,logistics_log_transferfrom,3329,Transferred *X R*Y from L*Z,转自*X R*Y L*Z
-CURRENT,logistics_log_transferstoragefull,3329,(destination storage full),(目的地存储已满）
 CURRENT,logistics_log_waited,3329,Waited for T*X,等待 T*X
 CURRENT,rating_trade,3329,Trade,贸易
 CURRENT,dsi_action_confirmcancel,3329,Confirm cancellation,确认取消
@@ -190,16 +200,11 @@ CURRENT,logistics_stuck_resources,3239,L*X does not have any R*Ys,L*X 没有任�
 CURRENT,logistics_stuck_patches,3239,System S*X does not have any R*Y to mine,星系 S*X 没有任何 R*Y 可供开采
 CURRENT,logistics_stuck_gas,3239,System S*X does not have any R*Y to collect,星系 S*X 没有任何 R*Y 可供收集
 CURRENT,logistics_stuck_tradingpost,3239,System S*X does not have a trading post,星系 S*X 没有贸易站
-CURRENT,logistics_stuck_resourcestosell,3239,L*X does not have any R*Y to sell,L*X 没有任何 R*Y 可供出售
 CURRENT,logistics_stuck_stargate,3239,Stargate is not ready for jump,星际之门尚未做好跳跃准备
 CURRENT,logistics_status_notrunning,3239,No order currently running,目前没有订单
 CURRENT,logistics_status_travelling,3239,Travelling to system S*X,前往星系 S*X
 CURRENT,logistics_status_mining,3239,Mined *X R*Y,已开采 *X R*Y
-CURRENT,logistics_status_miningstacks,3239,(*X/*Y stacks),(*X/*Y 堆叠)
-CURRENT,logistics_status_miningstacks1,3239,(*X stacks),(*X 堆叠)
 CURRENT,logistics_status_collect,3239,Collected *X R*Y,已收集 *X R*Y
-CURRENT,logistics_status_collectcontainers,3239,(*X/*Y containers),(*X/*Y 容器)
-CURRENT,logistics_status_collectcontainers1,3239,(*X containers),(*X 容器)
 CURRENT,logistics_status_buy,3239,Bought *X R*Y for $*Z,以 $*Z 购买了 *X R*Y
 CURRENT,logistics_status_sell,3239,Sold *X R*Y for $*Z,以 $*Z 出售了 *X R*Y
 CURRENT,logistics_status_notlooping,3239,Finished execution (not looping),执行完毕（不循环）
@@ -2512,7 +2517,6 @@ CURRENT,wolf_part2_inperson_distress4,2448,"To rescue my crew you'll need to get
 CURRENT,wolf_part2_inperson_distress5,2448,I'll get the crew ready to evacuate. Please hurry!,我去让船员准备撤离请抓紧时间
 CURRENT,wolf_part2_objective_dock,2448,Dock with the UMC Orion Sentinel,与联电猎户座哨兵对接
 CURRENT,wolf_part2_inperson_distress7,2448,"I'll try and buy you a few more seconds, but it's going to go critical any moment.  Get to a safe distance as soon as you can, Captain.  Save my crew!",我会试着为你多争取几秒钟 但情况随时会变得很危急  尽快到达安全距离 舰长  救救我的船员
-CURRENT,wolf_part2_objective_escape,2448,Get to a safe distance before the Orion Sentinel explodes,在猎户座哨兵爆炸前到达安全距离
 CURRENT,wolf_part2_dropoff2,2448,"In the mean time, take the survivors to the nearest shipyard or colony and drop them off there to close the contract.",与此同时，把幸存者带到最近的造船厂或殖民地，在那里放下他们，结束合同。
 CURRENT,wolf_part2_objective_dropoff,2448,Drop off the survivors at any shipyard or colony [*X/*Y],将幸存者送到任何船厂或殖民地 [*X/*Y]。
 CURRENT,wolf_part2_debrief2,2448,Regrettably I must inform you Captain Ryker does not appear to be among the survivors.  Her sacrifice will be remembered.,遗憾的是，我必须告诉你，雷克舰长似乎不在幸存者之列。  她的牺牲将被铭记。
@@ -3085,6 +3089,24 @@ CURRENT,bravenewsector_part1_dophase6,2872,Complete Phase 6 of the Stargate Proj
 CURRENT,trade_equipment_size,2872,- Size *X x *Y,- 尺寸 *X x *Y
 CURRENT,trade_equipment_rotatable,2872,- Rotatable,- 可旋转
 CURRENT,trade_equipment_powered,2872,- Powered,- 需要供电
+OBSOLETE,logistics_status_buynomoney,3400,out of the *X desired (not enough money),*X desired (钱不够)
+OBSOLETE,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),*X （钱不够）
+OBSOLETE,logistics_status_buynosupply,3400,out of the *X desired (not enough available),*X 。
+OBSOLETE,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),*X （数量不足）
+OBSOLETE,logistics_status_sellnosupply,3400,out of the *X desired (not enough available),*X 。
+OBSOLETE,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),*X （数量不足）
+OBSOLETE,logistics_status_miningstacks,3239,(*X/*Y stacks),(*X/*Y 堆叠)
+OBSOLETE,logistics_status_collectcontainers,3239,(*X/*Y containers),(*X/*Y 容器)
+OBSOLETE,wolf_part2_objective_escape,2448,Get to a safe distance before the Orion Sentinel explodes,在猎户座哨兵爆炸前到达安全距离
+OBSOLETE,logistics_item_none,3239,Select Item,选择项目
+OBSOLETE,powergrid_demand,2448,DEMAND *X Mw,需求 *X MW
+OBSOLETE,powergrid_output,2448,OUTPUT *X Mw,输出 *X MW
+OBSOLETE,powergrid_stored,2448,STORED *X Mw,存储 *X MW
+OBSOLETE,object_battery_description,2448,"Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage.",可储存电网中多余的电力，最高可达 1000 兆瓦。每当电力短缺时，电池就会供电。
+OBSOLETE,object_reactor_description,2448,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW.,燃烧高能燃料以产生动力。必须通过管道供应燃料。然后使用电缆连接到其他供电设备。\n最大输出功率为 100 兆瓦。
+OBSOLETE,wolf_part1_objective_drones,2448,Install a Drone Bay and at least one Logistics Drone,安装无人机舱和至少一架货运无人机
+OBSOLETE,tutorial_stargatewindowhighlightframes2,2448,Sell your frames at a trading post to submit them to the Andromeda Project.,在交易站出售你的画框，将它们提交给仙女座计划。
+OBSOLETE,dsi_part2_thirdpartcomplete2,2448,Let's take another break and I'll contact you when the Andromeda Project releases the manifest for their next phase.,我们再休息一下，等仙女座计划发布下一阶段的清单时，我会联系你的。
 OBSOLETE,thefinalstand_harken5,3248,The Stargate will fall back into your sole control. I've marked an allied shipyard on your map. I'll hide out there in the mean-time.,星际之门将重新归你控制我在你的地图上标出了一个盟军造船厂 I've marked an allied shipyard on your map.这段时间我会躲在那里 I'll hide out there in the mean time.
 OBSOLETE,thefinalstand_harken5,3239,"Any and all damage to the HQ should be avoided. Many innocent lives are on-board that HQ, the loss of life from destroying it would be far too great. You will upload a virus to their command centre and disable the station's offensive capabilities.",应避免对总部造成任何破坏。总部内有许多无辜的生命，摧毁总部会造成巨大的生命损失。你将向他们的指挥中心上传病毒，使空间站失去攻击能力。
 OBSOLETE,industryend_message,3248,"Now the Andromeda HQ has been captured, Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind spreads beyond our home galaxy and into the future.",现在，仙女座总部已被占领，哈肯和星际安全委员会将为了全人类的利益，摧毁仙女座计划集团，重新夺回星际之门的控制权。  新的篇章已经开启，人类将走出银河系，走向未来。

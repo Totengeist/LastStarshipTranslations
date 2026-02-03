@@ -1,39 +1,4 @@
 ﻿state,key,svn,english,translation
-CURRENT,logistics_log_transfertonosupply,3492,Transferred *X R*Y to L*Z out of the *P desired - insufficient cargo,Overgezet *X R*Y naar L*Z uit de *P gewenst - onvoldoende vracht
-CURRENT,logistics_log_transferfromnosupply,3492,Transferred *X R*Y from L*Z out of the *P desired - insufficient cargo,Overgeboekt *X R*Y van L*Z uit de *P gewenst - onvoldoende vracht
-CURRENT,trade_paymentperjump,3472,*X (+*Y) per sector jump,*X (+*Y) per sectorsprong
-CURRENT,award_civilianpayment,3472,CIVILIAN PAYMENT,CIVIELE BETALING
-CURRENT,award_civilianpayment_caption,3472,*X permanent residents in your fleet,*X permanente bewoners in je wagenpark
-CURRENT,logistics_status_default,3472,Order running,Lopende bestelling
-CURRENT,logistics_status_miningstacksfull,3472,Mined *X R*Y (*Z stacks) - storage full,Mijn *X R*Y (*Z stapels) - opslag vol
-CURRENT,logistics_status_miningstackstime,3472,Mined *X R*Y (*Z stacks) in T*P,Mijn *X R*Y (*Z stacks) in T*P
-CURRENT,logistics_status_miningstackstimefull,3472,Mined *X R*Y (*Z stacks) in T*P - storage full,Gedolven *X R*Y (*Z stapels) in T*P - opslag vol
-CURRENT,logistics_status_miningratio,3472,Mined *X R*Y (*Z/*P stacks),Mijn *X R*Y (*Z/*P stapels)
-CURRENT,logistics_status_miningratiofull,3472,Mined *X R*Y (*Z/*P stacks) - storage full,Gedolven *X R*Y (*Z/*P stapels) - opslag vol
-CURRENT,logistics_status_miningonboard,3472,"Mined *X R*Y (*Z stacks on board, *P desired) - storage full","Mijn *X R*Y (*Z stapels aan boord, *P gewenst) - opslag vol"
-CURRENT,logistics_status_collectcontainersfull,3472,Collected *X R*Y (*Z containers) - storage full,Verzameld *X R*Y (*Z containers) - opslag vol
-CURRENT,logistics_status_collectcontainerstime,3472,Collected *X R*Y (*Z containers) in T*P,Verzameld *X R*Y (*Z containers) in T*P
-CURRENT,logistics_status_collectcontainerstimefull,3472,Collected *X R*Y (*Z containers) in T*P - storage full,Verzameld *X R*Y (*Z containers) in T*P - opslag vol
-CURRENT,logistics_status_collectratio,3472,Collected *X R*Y (*Z/*P containers),Verzameld *X R*Y (*Z/*P containers)
-CURRENT,logistics_status_collectratiofull,3472,Collected *X R*Y (*Z/*P containers) - storage full,Verzameld *X R*Y (*Z/*P containers) - opslag vol
-CURRENT,logistics_status_collectonboard,3472,"Collected *X R*Y (*Z containers on board, *P desired) - storage full","Verzameld *X R*Y (*Z containers aan boord, *P gewenst) - opslag vol"
-CURRENT,logistics_status_transfertonosupply,3472,Transferring *X R*Y to L*Z out of the *P desired - insufficient cargo,Overbrengen van *X R*Y naar L*Z uit de *P gewenst - onvoldoende vracht
-CURRENT,logistics_status_transferfromnosupply,3472,Transferring *X R*Y from L*Z out of the *P desired - insufficient cargo,Overzetten *X R*Y van L*Z uit de *P gewenst - onvoldoende vracht
-CURRENT,logistics_status_buyzero,3472,Bought *X R*Y,Gekocht *X R*Y
-CURRENT,logistics_status_buyzeronomoney,3472,Bought *X R*Y out of the *Z desired - insufficient funds,Gekocht *X R*Y van de *Z gewenst - onvoldoende saldo
-CURRENT,logistics_status_buyzeronosupply,3472,Bought *X R*Y out of the *Z desired - insufficient supply,Gekocht *X R*Y uit de *Z gewenst - onvoldoende voorraad
-CURRENT,logistics_status_sellzero,3472,Sold *X R*Y,Verkocht *X R*Y
-CURRENT,logistics_status_sellzeronosupply,3472,Sold *X R*Y out of the *P desired - insufficient cargo,Verkocht *X R*Y uit de *P gewenst - onvoldoende vracht
-CURRENT,logistics_log_transfertofull,3472,Transferred *X R*Y to L*Z - destination storage full,Overgezet *X R*Y naar L*Z - opslagbestemming vol
-CURRENT,logistics_log_transferfromfull,3472,Transferred *X R*Y from L*Z - destination storage full,Overgezet *X R*Y van L*Z - opslagbestemming vol
-CURRENT,logistics_log_transfertofull1,3472,Transferred *X R*Y to L*Z out of the *P desired - destination storage full,Overgezet *X R*Y naar L*Z uit de *P gewenste - bestemmingsopslag vol
-CURRENT,logistics_log_transferfromfull1,3472,Transferred *X R*Y from L*Z out of the *P desired - destination storage full,Overgezet *X R*Y van L*Z uit de *P gewenste - bestemmingsopslag vol
-CURRENT,logistics_status_buynomoney,3472,Bought *X R*Y for $*Z out of the *P desired - insufficient funds,Gekocht *X R*Y voor $*Z uit de *P gewenst - onvoldoende saldo
-CURRENT,logistics_status_buynosupply,3472,Bought *X R*Y for $*Z out of the *P desired - insufficient supply,Gekocht *X R*Y voor $*Z uit de *P gewenst - onvoldoende voorraad
-CURRENT,logistics_status_sellnosupply,3472,Sold *X R*Y for $*Z out of the *P desired - insufficient cargo,Verkocht *X R*Y voor $*Z uit de *P gewenst - onvoldoende vracht
-CURRENT,logistics_status_miningstacks,3472,Mined *X R*Y (*Z stacks),Mijn *X R*Y (*Z stacks)
-CURRENT,logistics_status_collectcontainers,3472,Collected *X R*Y (*Z containers),Verzameld *X R*Y (*Z containers)
-CURRENT,wolf_part2_objective_escape,3472,Undock and get to a safe distance before the Orion Sentinel explodes,Undock en ga naar een veilige afstand voordat de Orion Sentinel ontploft
 CURRENT,settings_motionsicknessmode,3400,Motion Sickness Mode,Modus bewegingsziekte
 CURRENT,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.","Achtergrondrotatie is verwijderd, wat zou moeten helpen als je last hebt van bewegingsziekte in het spel."
 CURRENT,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition",Sla de overgang over bij het wisselen tussen schepen
@@ -59,6 +24,11 @@ CURRENT,logistics_tooltip_extrastogglenone,3400,No extra options available,Geen 
 CURRENT,alert_type_failedtofindsuit,3400,SPACESUITS REQUIRED,RUIMTEPAKKEN VEREIST
 CURRENT,alert_type_failedtofindsuit_caption,3400,*X crew members need spacesuits.,*X bemanningsleden hebben ruimtepakken nodig.
 CURRENT,objective_travel_to_location,3400,Travel to S*X,Reis naar S*X
+CURRENT,logistics_status_transfernosupply,3400,out of the *X desired (not enough available),uit de *X gewenst (niet genoeg beschikbaar)
+CURRENT,logistics_status_buynomoney,3400,out of the *X desired (not enough money),uit de *X gewenst (niet genoeg geld)
+CURRENT,logistics_status_buynosupply,3400,out of the *X desired (not enough available),uit de *X gewenst (niet genoeg beschikbaar)
+CURRENT,logistics_status_sellnosupply,3400,out of the *X desired (not enough available),uit de *X gewenst (niet genoeg beschikbaar)
+CURRENT,logistics_log_transferstoragefull1,3400,out of the *X desired (destination storage full),uit de *X gewenst (bestemmingsopslag vol)
 CURRENT,logistics_item_none,3400,SELECT ITEM,SELECTEER ITEM
 CURRENT,powergrid_demand,3400,DEMAND: *X MW,VRAAG: *X MW
 CURRENT,powergrid_output,3400,OUTPUT: *X MW,UITGANG: *X MW
@@ -79,13 +49,19 @@ CURRENT,techtree_queue,3329,Queue Research,Onderzoek naar wachtrijen
 CURRENT,logistics_showlog,3329,SHOW LOG,LOG WEERGEVEN
 CURRENT,logistics_hidelog,3329,HIDE LOG,LOG VERBERGEN
 CURRENT,logistics_order_goandwait,3329,Go and Wait,Ga en wacht
+CURRENT,logistics_status_miningstacksnostorage,3329,"(*X/*Y stacks, storage full)","(*X/*Y stapels, opslag vol)"
+CURRENT,logistics_status_miningstacksnostorage1,3329,"(*X stacks, storage full)","(*X stapels, opslag vol)"
+CURRENT,logistics_status_collectcontainersnostorage,3329,"(*X/*Y containers, storage full)","(*X/*Y containers, opslag vol)"
+CURRENT,logistics_status_collectcontainersnostorage1,3329,"(*X containers, storage full)","(*X containers, opslag vol)"
 CURRENT,logistics_status_waiting,3329,Waiting T*X,Wachten T*X
+CURRENT,logistics_status_time,3329,in T*X,in T*X
 CURRENT,logistics_status_warning,3329,Warning,Waarschuwing
 CURRENT,logistics_status_alert,3329,Alert,Waarschuwing
 CURRENT,logistics_log_jumped,3329,Travelled to system S*X,Naar systeem gereisd S*X
 CURRENT,logistics_log_jumpedstargate,3329,Travelled to system S*X through Stargate,Reisde naar systeem S*X via Sterrenpoort
 CURRENT,logistics_log_transferto,3329,Transferred *X R*Y to L*Z,*X R*Y overgebracht naar L*Z
 CURRENT,logistics_log_transferfrom,3329,Transferred *X R*Y from L*Z,Overgedragen *X R*Y van L*Z
+CURRENT,logistics_log_transferstoragefull,3329,(destination storage full),(bestemmingsopslag vol)
 CURRENT,logistics_log_waited,3329,Waited for T*X,Gewacht op T*X
 CURRENT,rating_trade,3329,Trade,Handel
 CURRENT,dsi_action_confirmcancel,3329,Confirm cancellation,Annulering bevestigen
@@ -198,11 +174,16 @@ CURRENT,logistics_stuck_resources,3239,L*X does not have any R*Ys,L*X heeft geen
 CURRENT,logistics_stuck_patches,3239,System S*X does not have any R*Y to mine,Systeem S*X heeft geen R*Y naar Mijn
 CURRENT,logistics_stuck_gas,3239,System S*X does not have any R*Y to collect,Systeem S*X heeft geen R*Y om te verzamelen
 CURRENT,logistics_stuck_tradingpost,3239,System S*X does not have a trading post,Systeem S*X heeft geen handelspost
+CURRENT,logistics_stuck_resourcestosell,3239,L*X does not have any R*Y to sell,L*X heeft geen R*Y om te verkopen
 CURRENT,logistics_stuck_stargate,3239,Stargate is not ready for jump,Sterrenpoort is niet klaar voor sprong
 CURRENT,logistics_status_notrunning,3239,No order currently running,Momenteel loopt er geen bestelling
 CURRENT,logistics_status_travelling,3239,Travelling to system S*X,Reizen naar systeem S*X
 CURRENT,logistics_status_mining,3239,Mined *X R*Y,Mijn *X R*Y
+CURRENT,logistics_status_miningstacks,3239,(*X/*Y stacks),(*X/*Y stapels)
+CURRENT,logistics_status_miningstacks1,3239,(*X stacks),(*X stapels)
 CURRENT,logistics_status_collect,3239,Collected *X R*Y,Verzameld *X R*Y
+CURRENT,logistics_status_collectcontainers,3239,(*X/*Y containers),(*X/*Y containers)
+CURRENT,logistics_status_collectcontainers1,3239,(*X containers),(*X containers)
 CURRENT,logistics_status_buy,3239,Bought *X R*Y for $*Z,Ik heb *X R*Y gekocht voor $*Z
 CURRENT,logistics_status_sell,3239,Sold *X R*Y for $*Z,Verkocht *X R*Y voor $*Z
 CURRENT,logistics_status_notlooping,3239,Finished execution (not looping),Voltooide uitvoering (niet in lus)
@@ -2490,6 +2471,7 @@ CURRENT,wolf_part2_inperson_distress5,2593,I'll get the crew ready to evacuate. 
 CURRENT,wolf_part2_objective_dock,2593,Dock with the UMC Orion Sentinel,Dock met de UMC Orion Sentinel
 CURRENT,wolf_part2_inperson_distress6,2593,"The Reactor is reaching critical levels, Captain.  I can't stop it from overloading.","De reactor bereikt kritieke niveaus, kapitein.  Ik kan niet voorkomen dat hij overbelast raakt."
 CURRENT,wolf_part2_inperson_distress7,2593,"I'll try and buy you a few more seconds, but it's going to go critical any moment.  Get to a safe distance as soon as you can, Captain.  Save my crew!","Ik zal proberen nog een paar seconden te rekken, maar het kan elk moment kritiek worden.  Ga zo snel mogelijk naar een veilige afstand, kapitein.  Red mijn bemanning!"
+CURRENT,wolf_part2_objective_escape,2593,Get to a safe distance before the Orion Sentinel explodes,Ga naar een veilige afstand voordat de Orion Sentinel ontploft
 CURRENT,wolf_part2_dropoff1,2593,"Well done, Captain.  Your intervention prevented a further loss of life.  And now we know the pirate vessel is crewed by cowards, a fact that we intend to use to our advantage.","Goed gedaan, kapitein.  Je interventie heeft verder verlies van levens voorkomen.  En nu weten we dat het piratenschip wordt bemand door lafaards, een feit dat we in ons voordeel willen gebruiken."
 CURRENT,wolf_part2_dropoff2,2593,"In the mean time, take the survivors to the nearest shipyard or colony and drop them off there to close the contract.",Breng de overlevenden ondertussen naar de dichtstbijzijnde scheepswerf of kolonie en zet ze daar af om het contract af te sluiten.
 CURRENT,wolf_part2_objective_dropoff,2593,Drop off the survivors at any shipyard or colony [*X/*Y],Zet de overlevenden af bij een scheepswerf of kolonie [*X/*Y]
@@ -3089,18 +3071,14 @@ CURRENT,dsi_part2_scene_z4,2593,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2593,THERE WILL BE NO FURTHER WARNING.,ZAL ER GEEN VERDERE WAARSCHUWING VOLGEN.
 CURRENT,dsi_part2_scene_y7,2593,You've left me no choice.,Je hebt me geen keus gelaten.
 CURRENT,dsi_part2_scene_y8,2593,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Ik kom voor jou Alexander, en deze keer vraag ik niet om 10%. Ik wil alles."
-OBSOLETE,logistics_status_buynomoney,3400,out of the *X desired (not enough money),uit de *X gewenst (niet genoeg geld)
+OBSOLETE,logistics_status_transfernosupply,3329,out of the *X ordered (not enough available),van de *X besteld (niet genoeg beschikbaar)
 OBSOLETE,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),uit de *X besteld (niet genoeg geld)
-OBSOLETE,logistics_status_buynosupply,3400,out of the *X desired (not enough available),uit de *X gewenst (niet genoeg beschikbaar)
 OBSOLETE,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),van de *X besteld (niet genoeg beschikbaar)
-OBSOLETE,logistics_status_sellnosupply,3400,out of the *X desired (not enough available),uit de *X gewenst (niet genoeg beschikbaar)
 OBSOLETE,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),van de *X besteld (niet genoeg beschikbaar)
-OBSOLETE,logistics_status_miningstacks,3239,(*X/*Y stacks),(*X/*Y stapels)
-OBSOLETE,logistics_status_collectcontainers,3239,(*X/*Y containers),(*X/*Y containers)
-OBSOLETE,wolf_part2_objective_escape,2593,Get to a safe distance before the Orion Sentinel explodes,Ga naar een veilige afstand voordat de Orion Sentinel ontploft
+OBSOLETE,logistics_log_transferstoragefull1,3329,out of the *X ordered (destination storage full),uit de *X besteld (bestemmingsopslag vol)
 OBSOLETE,logistics_item_none,3239,Select Item,Item Kiezen
 OBSOLETE,powergrid_demand,2593,DEMAND *X Mw,VRAAG *X Mw
-OBSOLETE,powergrid_output,2593,OUTPUT *X Mw,UITGANG *X Mw
+OBSOLETE,powergrid_output,2593,OUTPUT *X Mw,UITVOER *X Mw
 OBSOLETE,powergrid_stored,2593,STORED *X Mw,Opgeslagen *X Mw
 OBSOLETE,object_battery_description,2593,"Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage.","Slaat overtollige stroom op die beschikbaar is in het elektriciteitsnet, tot 1000Mw. De batterij levert stroom wanneer er een tekort is."
 OBSOLETE,object_reactor_description,2593,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW.,Verbrandt hoogenergetische brandstof om energie te produceren. Moet worden voorzien van brandstof (via een pijp). Gebruik vervolgens kabels om verbinding te maken met andere aangedreven apparatuur.\nProduceert een maximaal vermogen van 100MW.

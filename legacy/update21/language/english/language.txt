@@ -1133,10 +1133,6 @@ trade_waitingfor                        Waiting for *X x *Y
 trade_dangerproximity                   Shortages of critical resources have made prices higher than normal
 trade_dangerdeflation                   Prices for hardware and crew are lower than normal, due to panic
 trade_dangercivilians                   Civilians are offering larger sums than normal for safe transit out of the sector
-trade_paymentperjump                    *X (+*Y) per sector jump
-
-award_civilianpayment                   CIVILIAN PAYMENT
-award_civilianpayment_caption           *X permanent residents in your fleet
 
 
 # =============================================================================
@@ -1401,45 +1397,29 @@ logistics_stuck_stargate                Stargate is not ready for jump
 
 logistics_status_notrunning             No order currently running
 logistics_status_travelling             Travelling to system S*X
-logistics_status_default                Order running
-
 logistics_status_mining                 Mined *X R*Y
-logistics_status_miningstacks           Mined *X R*Y (*Z stacks)
-logistics_status_miningstacksfull       Mined *X R*Y (*Z stacks) - storage full
-logistics_status_miningstackstime       Mined *X R*Y (*Z stacks) in T*P 
-logistics_status_miningstackstimefull   Mined *X R*Y (*Z stacks) in T*P - storage full
-logistics_status_miningratio            Mined *X R*Y (*Z/*P stacks)
-logistics_status_miningratiofull        Mined *X R*Y (*Z/*P stacks) - storage full
-logistics_status_miningonboard          Mined *X R*Y (*Z stacks on board, *P desired) - storage full
-
+logistics_status_miningstacks           (*X/*Y stacks)
+logistics_status_miningstacks1          (*X stacks)
+logistics_status_miningstacksnostorage  (*X/*Y stacks, storage full) 
+logistics_status_miningstacksnostorage1 (*X stacks, storage full) 
 logistics_status_collect                Collected *X R*Y
-logistics_status_collectcontainers      Collected *X R*Y (*Z containers)
-logistics_status_collectcontainersfull  Collected *X R*Y (*Z containers) - storage full
-logistics_status_collectcontainerstime  Collected *X R*Y (*Z containers) in T*P
-logistics_status_collectcontainerstimefull Collected *X R*Y (*Z containers) in T*P - storage full
-logistics_status_collectratio           Collected *X R*Y (*Z/*P containers)
-logistics_status_collectratiofull       Collected *X R*Y (*Z/*P containers) - storage full
-logistics_status_collectonboard         Collected *X R*Y (*Z containers on board, *P desired) - storage full
-
+logistics_status_collectcontainers      (*X/*Y containers)
+logistics_status_collectcontainers1     (*X containers)
+logistics_status_collectcontainersnostorage  (*X/*Y containers, storage full)
+logistics_status_collectcontainersnostorage1 (*X containers, storage full)
 logistics_status_transferto             Transferring *X R*Y to L*Z
 logistics_status_transferfrom           Transferring *X R*Y from L*Z
-logistics_status_transfertonosupply     Transferring *X R*Y to L*Z out of the *P desired - insufficient cargo
-logistics_status_transferfromnosupply   Transferring *X R*Y from L*Z out of the *P desired - insufficient cargo
-
+logistics_status_transfernosupply       out of the *X desired (not enough on board)
 logistics_status_buy                    Bought *X R*Y for $*Z
-logistics_status_buynomoney             Bought *X R*Y for $*Z out of the *P desired - insufficient funds
-logistics_status_buynosupply            Bought *X R*Y for $*Z out of the *P desired - insufficient supply
-logistics_status_buyzero                Bought *X R*Y
-logistics_status_buyzeronomoney         Bought *X R*Y out of the *Z desired - insufficient funds
-logistics_status_buyzeronosupply        Bought *X R*Y out of the *Z desired - insufficient supply
+logistics_status_buynoprice             Bought *X R*Y
+logistics_status_buynomoney             out of the *X desired (not enough money)
+logistics_status_buynosupply            out of the *X desired (not enough available to buy)
 logistics_status_sell                   Sold *X R*Y for $*Z
-logistics_status_sellnosupply           Sold *X R*Y for $*Z out of the *P desired - insufficient cargo
-logistics_status_sellzero               Sold *X R*Y
-logistics_status_sellzeronosupply       Sold *X R*Y out of the *P desired - insufficient cargo
-
+logistics_status_sellnoprice            Sold *X R*Y
+logistics_status_sellnosupply           out of the *X desired (not enough on board)
 logistics_status_notlooping             Finished execution (not looping)
 logistics_status_waiting                Waiting T*X
-
+logistics_status_time                   in T*X
 logistics_status_warning                Warning
 logistics_status_alert                  Alert
 
@@ -1447,12 +1427,8 @@ logistics_log_jumped                    Travelled to system S*X
 logistics_log_jumpedstargate            Travelled to system S*X through Stargate
 logistics_log_transferto                Transferred *X R*Y to L*Z
 logistics_log_transferfrom              Transferred *X R*Y from L*Z
-logistics_log_transfertonosupply        Transferred *X R*Y to L*Z out of the *P desired - insufficient cargo
-logistics_log_transferfromnosupply      Transferred *X R*Y from L*Z out of the *P desired - insufficient cargo
-logistics_log_transfertofull            Transferred *X R*Y to L*Z - destination storage full
-logistics_log_transferfromfull          Transferred *X R*Y from L*Z - destination storage full
-logistics_log_transfertofull1           Transferred *X R*Y to L*Z out of the *P desired - destination storage full
-logistics_log_transferfromfull1         Transferred *X R*Y from L*Z out of the *P desired - destination storage full
+logistics_log_transferstoragefull       (destination storage full)
+logistics_log_transferstoragefull1      out of the *X desired (destination storage full)
 logistics_log_waited                    Waited for T*X
 logistics_log_skipped                   Skipped order
 
@@ -2787,7 +2763,7 @@ wolf_part2_objective_dock               Dock with the UMC Orion Sentinel
 wolf_part2_inperson_distress6           The Reactor is reaching critical levels, Captain.  I can't stop it from overloading.
 wolf_part2_inperson_distress7           I'll try and buy you a few more seconds, but it's going to go critical any moment.  Get to a safe distance as soon as you can, Captain.  Save my crew!
 
-wolf_part2_objective_escape             Undock and get to a safe distance before the Orion Sentinel explodes
+wolf_part2_objective_escape             Get to a safe distance before the Orion Sentinel explodes
 
 wolf_part2_dropoff1                     Well done, Captain.  Your intervention prevented a further loss of life.  And now we know the pirate vessel is crewed by cowards, a fact that we intend to use to our advantage.
 wolf_part2_dropoff2                     In the mean time, take the survivors to the nearest shipyard or colony and drop them off there to close the contract.

@@ -1,73 +1,57 @@
 ﻿state,key,svn,english,translation
-CURRENT,logistics_log_transfertonosupply,3492,Transferred *X R*Y to L*Z out of the *P desired - insufficient cargo,Aktarılan *X R*Y L*Z istenen *P dışında - yetersiz kargo
-CURRENT,logistics_log_transferfromnosupply,3492,Transferred *X R*Y from L*Z out of the *P desired - insufficient cargo,*X R*Y adresinden L*Z adresine istenen *P adresinin dışına aktarıldı - yetersiz kargo
-CURRENT,trade_paymentperjump,3472,*X (+*Y) per sector jump,*X (+*Y) sektör sıçraması başına
-CURRENT,award_civilianpayment,3472,CIVILIAN PAYMENT,Sivil Ödeme
-CURRENT,award_civilianpayment_caption,3472,*X permanent residents in your fleet,*X filonuzda daimi ikamet edenler
-CURRENT,logistics_status_default,3472,Order running,Çalışan sipariş
-CURRENT,logistics_status_miningstacksfull,3472,Mined *X R*Y (*Z stacks) - storage full,Maden *X R*Y (*Z yığınları) - depo dolu
-CURRENT,logistics_status_miningstackstime,3472,Mined *X R*Y (*Z stacks) in T*P,T'de mayınlı *X R*Y (*Z yığınları) T*P
-CURRENT,logistics_status_miningstackstimefull,3472,Mined *X R*Y (*Z stacks) in T*P - storage full,Maden *X R*Y (*Z yığınları) T*P - depo dolu
-CURRENT,logistics_status_miningratio,3472,Mined *X R*Y (*Z/*P stacks),Maden *X R*Y (*Z/*P yığınları)
-CURRENT,logistics_status_miningratiofull,3472,Mined *X R*Y (*Z/*P stacks) - storage full,Maden *X R*Y (*Z/*P yığınları) - depo dolu
-CURRENT,logistics_status_miningonboard,3472,"Mined *X R*Y (*Z stacks on board, *P desired) - storage full","Maden *X R*Y (*Z gemide yığılı, *P isteniyor) - depo dolu"
-CURRENT,logistics_status_collectcontainersfull,3472,Collected *X R*Y (*Z containers) - storage full,Toplanan *X R*Y (*Z konteynerleri) - depo dolu
-CURRENT,logistics_status_collectcontainerstime,3472,Collected *X R*Y (*Z containers) in T*P,Toplanan *X R*Y (*Z konteynerleri) T*P
-CURRENT,logistics_status_collectcontainerstimefull,3472,Collected *X R*Y (*Z containers) in T*P - storage full,Toplanan *X R*Y (*Z konteynerleri) T*P - depo dolu
-CURRENT,logistics_status_collectratio,3472,Collected *X R*Y (*Z/*P containers),Toplanan *X R*Y (*Z/*P konteynerleri)
-CURRENT,logistics_status_collectratiofull,3472,Collected *X R*Y (*Z/*P containers) - storage full,Toplanan *X R*Y (*Z/*P konteynerleri) - depo dolu
-CURRENT,logistics_status_collectonboard,3472,"Collected *X R*Y (*Z containers on board, *P desired) - storage full","Toplanan *X R*Y (*Z konteynerler gemide, *P isteniyor) - depo dolu"
-CURRENT,logistics_status_transfertonosupply,3472,Transferring *X R*Y to L*Z out of the *P desired - insufficient cargo,*X R*Y adresinden L*Z adresine *P adresinden aktarılıyor - yetersiz kargo
-CURRENT,logistics_status_transferfromnosupply,3472,Transferring *X R*Y from L*Z out of the *P desired - insufficient cargo,*X R*Y adresini L*Z adresinden *P adresinin dışına aktarmak isteniyor - yetersiz kargo
-CURRENT,logistics_status_buyzero,3472,Bought *X R*Y,Satın alındı *X R*Y
-CURRENT,logistics_status_buyzeronomoney,3472,Bought *X R*Y out of the *Z desired - insufficient funds,*X R*Y adresini *Z adresinden satın aldım - yetersiz fon
-CURRENT,logistics_status_buyzeronosupply,3472,Bought *X R*Y out of the *Z desired - insufficient supply,Satın alınan *X R*Y *Z dışında istenen - yetersiz tedarik
-CURRENT,logistics_status_sellzero,3472,Sold *X R*Y,Satıldı *X R*Y
-CURRENT,logistics_status_sellzeronosupply,3472,Sold *X R*Y out of the *P desired - insufficient cargo,Satılan *X R*Y istenen *P dışında - yetersiz kargo
-CURRENT,logistics_log_transfertofull,3472,Transferred *X R*Y to L*Z - destination storage full,*X R*Y adresinden L*Z adresine aktarıldı - hedef depolama alanı dolu
-CURRENT,logistics_log_transferfromfull,3472,Transferred *X R*Y from L*Z - destination storage full,*X R*Y adresinden L*Z adresine aktarıldı - hedef depolama alanı dolu
-CURRENT,logistics_log_transfertofull1,3472,Transferred *X R*Y to L*Z out of the *P desired - destination storage full,*X R*Y adresinden L*Z adresine istenen *P adresinden aktarıldı - hedef depolama alanı dolu
-CURRENT,logistics_log_transferfromfull1,3472,Transferred *X R*Y from L*Z out of the *P desired - destination storage full,*X R*Y adresinden L*Z adresine istenen *P adresinin dışına aktarıldı - hedef depolama alanı dolu
-CURRENT,logistics_status_buynomoney,3472,Bought *X R*Y for $*Z out of the *P desired - insufficient funds,İstenen *P dışında $*Z için *X R*Y satın alındı - yetersiz fon
-CURRENT,logistics_status_buynosupply,3472,Bought *X R*Y for $*Z out of the *P desired - insufficient supply,İstenen *P dışında $*Z için *X R*Y satın alındı - yetersiz tedarik
-CURRENT,logistics_status_sellnosupply,3472,Sold *X R*Y for $*Z out of the *P desired - insufficient cargo,İstenen *P dışında $*Z için *X R*Y satıldı - yetersiz kargo
-CURRENT,logistics_status_miningstacks,3472,Mined *X R*Y (*Z stacks),Maden *X R*Y (*Z yığınları)
-CURRENT,logistics_status_collectcontainers,3472,Collected *X R*Y (*Z containers),Toplanan *X R*Y (*Z konteynerler)
-CURRENT,wolf_part2_objective_escape,3472,Undock and get to a safe distance before the Orion Sentinel explodes,Orion Sentinel patlamadan önce limandan çık ve güvenli bir mesafeye git
-CURRENT,settings_motionsicknessmode,3400,Motion Sickness Mode,Hareket Hastalığı Modu
-CURRENT,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.","Arka plan rotasyonu kaldırıldı, bu da oyun içinde hareket hastalığı yaşıyorsanız yardımcı olacaktır."
-CURRENT,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition","Gemiler arasında geçiş yaparken, geçişi atlayın"
-CURRENT,newmainmenu_tests,3400,TESTS,TESTLER
-CURRENT,newmainmenu_instantshipswitch,3400,Switch instantly between ships,Gemiler arasında anında geçiş yapın
-CURRENT,newmainmenu_vsync,3400,V-Sync,V-Sync
-CURRENT,hud_layer_neutralexpand,3400,*X NEUTRAL SHIPS,*X NÖTR GEMİLER
-CURRENT,hud_layer_neutralexpandtooltip,3400,Show neutral ships,Tarafsız gemileri göster
-CURRENT,power_unit,3400,*X MW,*X MW
-CURRENT,tactical_focuslayer,3400,FOCUS LAYER,ODAK KATMANI
-CURRENT,tactical_tooltip_focuslayer,3400,"When enabled, the camera's rotation and position track the currently selected layer.","Etkinleştirildiğinde, kameranın dönüşü ve konumu o anda seçili olan katmanı izler."
-CURRENT,logistics_condition_untilstorage,3400,Quantity on board,Gemideki miktar
-CURRENT,logistics_quantity_all,3400,ALL,TÜMÜ
-CURRENT,logistics_quantity_full,3400,FULL,TAM
-CURRENT,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,HERHANGI BIR KARGO DEPOSUNU KULLANIN
-CURRENT,logistics_stuck_layernotours,3400,Ship L*X is not friendly,Gemi L*X dostça değil
-CURRENT,logistics_tooltip_controlall,3400,[CTRL] ALL,[CTRL] TÜMÜ
-CURRENT,logistics_tooltip_controlfull,3400,[CTRL] FULL,[CTRL] TAM
-CURRENT,logistics_tooltip_noitemrequired,3400,This order does not require an item,Bu sipariş bir ürün gerektirmez
-CURRENT,logistics_tooltip_extrastoggleshow,3400,Show extra options for this order,Bu sipariş için ekstra seçenekleri göster
-CURRENT,logistics_tooltip_extrastogglehide,3400,Hide extra options for this order,Bu sipariş için ekstra seçenekleri gizle
-CURRENT,logistics_tooltip_extrastogglenone,3400,No extra options available,Ekstra seçenek mevcut değil
-CURRENT,alert_type_failedtofindsuit,3400,SPACESUITS REQUIRED,Uzay Giysileri Gerekli
-CURRENT,alert_type_failedtofindsuit_caption,3400,*X crew members need spacesuits.,*X mürettebat üyelerinin uzay giysilerine ihtiyacı var.
-CURRENT,objective_travel_to_location,3400,Travel to S*X,Seyahat S*X
-CURRENT,logistics_item_none,3400,SELECT ITEM,ÖĞE SEÇİNİZ
-CURRENT,wolf_part1_objective_drones,3400,Install a Drone Bay and have at least one Logistics Drone,Bir Drone Körfezi kurun ve en az bir Lojistik Drone'a sahip olun
-CURRENT,tutorial_stargatewindowhighlightframes2,3400,The button underneath each component can be clicked to quickly sell all your stock and submit it to the Andromeda Project.\n\nThey can also be sold from the trade screen.,Her bileşenin altındaki düğmeye tıklayarak tüm stoğunuzu hızlı bir şekilde satabilir ve Andromeda Projesine gönderebilirsiniz.\n\nTicaret ekranından da satılabilirler.
-CURRENT,powergrid_demand,3400,DEMAND: *X MW,TALEP: *X MW
-CURRENT,powergrid_output,3400,OUTPUT: *X MW,ÇIKIŞ *X MW
-CURRENT,powergrid_stored,3400,STORED: *X MJ,DEPOLANDI: *X MJ
-CURRENT,object_battery_description,3400,"Stores any excess power available in the powergrid, up to 1000MJ. The battery will supply power whenever there is a shortage.",Güç şebekesinde 1000MJ'ye kadar mevcut olan fazla gücü depolar. Kıtlık olduğunda akü güç sağlayacaktır.
-CURRENT,object_reactor_description,3400,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\n\nGenerates a maximum power output of 100MW.,Güç üretmek için yüksek enerjili Yakıt yakar. Yakıt ile beslenmelidir (bir boru aracılığıyla). Daha sonra diğer elektrikli ekipmanlara bağlanmak için kablolar kullanın.\n\nMaksimum 100MW güç çıkışı üretir.
-CURRENT,dsi_part2_thirdpartcomplete2,3400,"I'm going to take a short break from the project, I trust you'll be able to do the next couple of stages on your own.","Projeye kısa bir ara vereceğim, sonraki birkaç aşamayı kendi başınıza yapabileceğinize inanıyorum."
+NEW,settings_motionsicknessmode,3400,Motion Sickness Mode,Hareket Hastalığı Modu
+NEW,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.","Arka plan rotasyonu kaldırıldı, bu da oyun içinde hareket hastalığı yaşıyorsanız yardımcı olacaktır."
+NEW,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition","Gemiler arasında geçiş yaparken, geçişi atlayın"
+NEW,newmainmenu_tests,3400,TESTS,TESTLER
+NEW,newmainmenu_instantshipswitch,3400,Switch instantly between ships,Gemiler arasında anında geçiş yapın
+NEW,newmainmenu_vsync,3400,V-Sync,V-Sync
+NEW,hud_layer_neutralexpand,3400,*X NEUTRAL SHIPS,*X NÖTR GEMİLER
+NEW,hud_layer_neutralexpandtooltip,3400,Show neutral ships,Tarafsız gemileri göster
+NEW,power_unit,3400,*X MW,*X MW
+NEW,tactical_focuslayer,3400,FOCUS LAYER,ODAK KATMANI
+NEW,tactical_tooltip_focuslayer,3400,"When enabled, the camera's rotation and position track the currently selected layer.","Etkinleştirildiğinde, kameranın dönüşü ve konumu o anda seçili olan katmanı izler."
+NEW,logistics_condition_untilstorage,3400,Quantity on board,Gemideki miktar
+NEW,logistics_quantity_all,3400,ALL,TÜMÜ
+NEW,logistics_quantity_full,3400,FULL,TAM
+NEW,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,HERHANGI BIR KARGO DEPOSUNU KULLANIN
+NEW,logistics_stuck_layernotours,3400,Ship L*X is not friendly,Gemi L*X dostça değil
+NEW,logistics_tooltip_controlall,3400,[CTRL] ALL,[CTRL] TÜMÜ
+NEW,logistics_tooltip_controlfull,3400,[CTRL] FULL,[CTRL] TAM
+NEW,logistics_tooltip_noitemrequired,3400,This order does not require an item,Bu sipariş bir ürün gerektirmez
+NEW,logistics_tooltip_extrastoggleshow,3400,Show extra options for this order,Bu sipariş için ekstra seçenekleri göster
+NEW,logistics_tooltip_extrastogglehide,3400,Hide extra options for this order,Bu sipariş için ekstra seçenekleri gizle
+NEW,logistics_tooltip_extrastogglenone,3400,No extra options available,Ekstra seçenek mevcut değil
+NEW,alert_type_failedtofindsuit,3400,SPACESUITS REQUIRED,Uzay Giysileri Gerekli
+NEW,alert_type_failedtofindsuit_caption,3400,*X crew members need spacesuits.,*X mürettebat üyelerinin uzay giysilerine ihtiyacı var.
+NEW,objective_travel_to_location,3400,Travel to S*X,Seyahat S*X
+UPDATED,logistics_status_transfernosupply,3400,out of the *X desired (not enough available),*X dışında istenen (yeterli sayıda mevcut değil)
+PREVIOUS,logistics_status_transfernosupply,3329,out of the *X ordered (not enough available),*X siparişi dışında (yeterli sayıda mevcut değil)
+UPDATED,logistics_status_buynomoney,3400,out of the *X desired (not enough money),*X dışında istenen (yeterli para yok)
+PREVIOUS,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),*X siparişi dışında (yeterli para yok)
+UPDATED,logistics_status_buynosupply,3400,out of the *X desired (not enough available),*X dışında istenen (yeterli sayıda mevcut değil)
+PREVIOUS,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),*X siparişi dışında (yeterli sayıda mevcut değil)
+UPDATED,logistics_status_sellnosupply,3400,out of the *X desired (not enough available),*X dışında istenen (yeterli sayıda mevcut değil)
+PREVIOUS,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),*X siparişi dışında (yeterli sayıda mevcut değil)
+UPDATED,logistics_log_transferstoragefull1,3400,out of the *X desired (destination storage full),*X dışında istenen (hedef depolama alanı dolu)
+PREVIOUS,logistics_log_transferstoragefull1,3329,out of the *X ordered (destination storage full),*X siparişi dışında (hedef depolama alanı dolu)
+UPDATED,logistics_item_none,3400,SELECT ITEM,ÖĞE SEÇİNİZ
+PREVIOUS,logistics_item_none,3239,Select Item,Ürün Seçiniz
+UPDATED,wolf_part1_objective_drones,3400,Install a Drone Bay and have at least one Logistics Drone,Bir Drone Körfezi kurun ve en az bir Lojistik Drone'a sahip olun
+PREVIOUS,wolf_part1_objective_drones,2803,Install a Drone Bay and at least one Logistics Drone,Bir Drone Körfezi ve en az bir Lojistik Drone kurun
+UPDATED,tutorial_stargatewindowhighlightframes2,3400,The button underneath each component can be clicked to quickly sell all your stock and submit it to the Andromeda Project.\n\nThey can also be sold from the trade screen.,Her bileşenin altındaki düğmeye tıklayarak tüm stoğunuzu hızlı bir şekilde satabilir ve Andromeda Projesine gönderebilirsiniz.\n\nTicaret ekranından da satılabilirler.
+PREVIOUS,tutorial_stargatewindowhighlightframes2,2803,Sell your frames at a trading post to submit them to the Andromeda Project.,Çerçevelerinizi Andromeda Projesi'ne göndermek için bir ticaret merkezinde satın.
+UPDATED,powergrid_demand,3400,DEMAND: *X MW,TALEP: *X MW
+PREVIOUS,powergrid_demand,2803,DEMAND *X Mw,TALEP *X Mw
+UPDATED,powergrid_output,3400,OUTPUT: *X MW,ÇIKIŞ *X MW
+PREVIOUS,powergrid_output,2803,OUTPUT *X Mw,ÇIKIŞ *X Mw
+UPDATED,powergrid_stored,3400,STORED: *X MJ,DEPOLANDI: *X MJ
+PREVIOUS,powergrid_stored,2803,STORED *X Mw,DEPOLANAN *X Mw
+UPDATED,object_battery_description,3400,"Stores any excess power available in the powergrid, up to 1000MJ. The battery will supply power whenever there is a shortage.",Güç şebekesinde 1000MJ'ye kadar mevcut olan fazla gücü depolar. Kıtlık olduğunda akü güç sağlayacaktır.
+PREVIOUS,object_battery_description,2803,"Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage.",Güç şebekesinde 1000Mw'a kadar mevcut olan fazla gücü depolar. Kıtlık olduğunda batarya güç sağlayacaktır.
+UPDATED,object_reactor_description,3400,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\n\nGenerates a maximum power output of 100MW.,Güç üretmek için yüksek enerjili Yakıt yakar. Yakıt ile beslenmelidir (bir boru aracılığıyla). Daha sonra diğer elektrikli ekipmanlara bağlanmak için kablolar kullanın.\n\nMaksimum 100MW güç çıkışı üretir.
+PREVIOUS,object_reactor_description,2803,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW.,Güç üretmek için yüksek enerjili Yakıt yakar. Yakıt ile beslenmelidir (bir boru aracılığıyla). Daha sonra diğer elektrikli ekipmanlara bağlanmak için kablolar kullanın.\nMaksimum 100MW güç çıkışı üretir.
+UPDATED,dsi_part2_thirdpartcomplete2,3400,"I'm going to take a short break from the project, I trust you'll be able to do the next couple of stages on your own.","Projeye kısa bir ara vereceğim, sonraki birkaç aşamayı kendi başınıza yapabileceğinize inanıyorum."
+PREVIOUS,dsi_part2_thirdpartcomplete2,2803,Let's take another break and I'll contact you when the Andromeda Project releases the manifest for their next phase.,Bir ara daha verelim ve Andromeda Projesi bir sonraki aşama için manifestoyu yayınladığında sizinle irtibata geçeceğim.
 CURRENT,logistics_log_skipped,3339,Skipped order,Atlanan sipariş
 CURRENT,hud_ftlshipcontrolledbylogistics,3331,Ship is controlled by interstellar logistics,Gemi yıldızlararası lojistik tarafından kontrol ediliyor
 CURRENT,newmainmenu_invalidsavename,3329,Invalid Save Name,Geçersiz Kaydetme Adı
@@ -79,13 +63,19 @@ CURRENT,techtree_queue,3329,Queue Research,Kuyruk Araştırması
 CURRENT,logistics_showlog,3329,SHOW LOG,GÜNLÜĞÜ GÖSTER
 CURRENT,logistics_hidelog,3329,HIDE LOG,GÜNLÜĞÜ GİZLE
 CURRENT,logistics_order_goandwait,3329,Go and Wait,Git ve Bekle
+CURRENT,logistics_status_miningstacksnostorage,3329,"(*X/*Y stacks, storage full)","(*X/*Y yığınlar, depo dolu)"
+CURRENT,logistics_status_miningstacksnostorage1,3329,"(*X stacks, storage full)","(*X yığınlar, depo dolu)"
+CURRENT,logistics_status_collectcontainersnostorage,3329,"(*X/*Y containers, storage full)","(*X/*Y konteynerler, depo dolu)"
+CURRENT,logistics_status_collectcontainersnostorage1,3329,"(*X containers, storage full)","(*X konteynerler, depo dolu)"
 CURRENT,logistics_status_waiting,3329,Waiting T*X,Bekleyen T*X
+CURRENT,logistics_status_time,3329,in T*X,T*X
 CURRENT,logistics_status_warning,3329,Warning,Uyarı
 CURRENT,logistics_status_alert,3329,Alert,Uyarı
 CURRENT,logistics_log_jumped,3329,Travelled to system S*X,Sisteme seyahat edildi S*X
 CURRENT,logistics_log_jumpedstargate,3329,Travelled to system S*X through Stargate,Yıldız Geçidi aracılığıyla S*X sistemine seyahat edildi
 CURRENT,logistics_log_transferto,3329,Transferred *X R*Y to L*Z,*X R*Y adresine aktarıldı L*Z
 CURRENT,logistics_log_transferfrom,3329,Transferred *X R*Y from L*Z,Aktarılan *X R*Y adresinden L*Z
+CURRENT,logistics_log_transferstoragefull,3329,(destination storage full),(hedef depolama alanı dolu)
 CURRENT,logistics_log_waited,3329,Waited for T*X,için bekledi T*X
 CURRENT,rating_trade,3329,Trade,Ticaret
 CURRENT,dsi_action_confirmcancel,3329,Confirm cancellation,İptal işlemini onaylayın
@@ -198,11 +188,16 @@ CURRENT,logistics_stuck_resources,3239,L*X does not have any R*Ys,L*X R*Y s adre
 CURRENT,logistics_stuck_patches,3239,System S*X does not have any R*Y to mine,Sistem S*X madenine R*Y sahip değil
 CURRENT,logistics_stuck_gas,3239,System S*X does not have any R*Y to collect,"Sistem S*X, toplamak için herhangi bir R*Y adresine sahip değildir"
 CURRENT,logistics_stuck_tradingpost,3239,System S*X does not have a trading post,Sistem S*X 'da bir ticaret noktası yok
+CURRENT,logistics_stuck_resourcestosell,3239,L*X does not have any R*Y to sell,L*X satmak için herhangi bir R*Y adresi yok
 CURRENT,logistics_stuck_stargate,3239,Stargate is not ready for jump,Yıldız Geçidi sıçrama için hazır değil
 CURRENT,logistics_status_notrunning,3239,No order currently running,Şu anda devam eden bir sipariş yok
 CURRENT,logistics_status_travelling,3239,Travelling to system S*X,Sisteme seyahat S*X
 CURRENT,logistics_status_mining,3239,Mined *X R*Y,Maden *X R*Y
+CURRENT,logistics_status_miningstacks,3239,(*X/*Y stacks),(*X/*Y yığınları)
+CURRENT,logistics_status_miningstacks1,3239,(*X stacks),(*X stacks)
 CURRENT,logistics_status_collect,3239,Collected *X R*Y,Toplandı *X R*Y
+CURRENT,logistics_status_collectcontainers,3239,(*X/*Y containers),(*X/*Y konteynerler)
+CURRENT,logistics_status_collectcontainers1,3239,(*X containers),(*X konteynerler)
 CURRENT,logistics_status_buy,3239,Bought *X R*Y for $*Z,Için *X R*Y adresini satın aldım $*Z
 CURRENT,logistics_status_sell,3239,Sold *X R*Y for $*Z,*X R*Y için satıldı $*Z
 CURRENT,logistics_status_notlooping,3239,Finished execution (not looping),Yürütme tamamlandı (döngü değil)
@@ -2719,6 +2714,7 @@ CURRENT,wolf_part2_setup5,2803,"Time is running out.  Send a ship to the Orion S
 CURRENT,wolf_part2_inperson_distress1,2803,"Captain, thank goodness you're here! Help us!","Kaptan, Tanrı'ya şükür buradasınız! Bize yardım edin!"
 CURRENT,wolf_part2_inperson_distress2,2803,We won't last much longer.,Daha fazla dayanamayacağız.
 CURRENT,wolf_part2_objective_dock,2803,Dock with the UMC Orion Sentinel,UMC Orion Sentinel ile kenetlen
+CURRENT,wolf_part2_objective_escape,2803,Get to a safe distance before the Orion Sentinel explodes,Orion Sentinel patlamadan önce güvenli bir mesafeye git
 CURRENT,wolf_part2_dropoff2,2803,"In the mean time, take the survivors to the nearest shipyard or colony and drop them off there to close the contract.","Bu arada, hayatta kalanları en yakın tersaneye veya koloniye götürün ve sözleşmeyi kapatmak için onları oraya bırakın."
 CURRENT,wolf_part2_objective_dropoff,2803,Drop off the survivors at any shipyard or colony [*X/*Y],Hayatta kalanları herhangi bir tersaneye veya koloniye bırakın [*X/*Y]
 CURRENT,wolf_part2_debrief2,2803,Regrettably I must inform you Captain Ryker does not appear to be among the survivors.  Her sacrifice will be remembered.,Ne yazık ki Kaptan Ryker'ın kurtulanlar arasında olmadığını bildirmek zorundayım.  Fedakârlığı hatırlanacaktır.
@@ -3089,24 +3085,6 @@ CURRENT,dsi_part2_scene_z4,2803,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2803,THERE WILL BE NO FURTHER WARNING.,BAŞKA BIR UYARI YAPILMAYACAKTIR.
 CURRENT,dsi_part2_scene_y7,2803,You've left me no choice.,Bana başka seçenek bırakmadın.
 CURRENT,dsi_part2_scene_y8,2803,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Senin için geleceğim Alexander, ve bu sefer %10 istemiyorum. Hepsini istiyorum."
-OBSOLETE,logistics_status_buynomoney,3400,out of the *X desired (not enough money),*X dışında istenen (yeterli para yok)
-OBSOLETE,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),*X siparişi dışında (yeterli para yok)
-OBSOLETE,logistics_status_buynosupply,3400,out of the *X desired (not enough available),*X dışında istenen (yeterli sayıda mevcut değil)
-OBSOLETE,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),*X siparişi dışında (yeterli sayıda mevcut değil)
-OBSOLETE,logistics_status_sellnosupply,3400,out of the *X desired (not enough available),*X dışında istenen (yeterli sayıda mevcut değil)
-OBSOLETE,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),*X siparişi dışında (yeterli sayıda mevcut değil)
-OBSOLETE,logistics_status_miningstacks,3239,(*X/*Y stacks),(*X/*Y yığınları)
-OBSOLETE,logistics_status_collectcontainers,3239,(*X/*Y containers),(*X/*Y konteynerler)
-OBSOLETE,wolf_part2_objective_escape,2803,Get to a safe distance before the Orion Sentinel explodes,Orion Sentinel patlamadan önce güvenli bir mesafeye git
-OBSOLETE,logistics_item_none,3239,Select Item,Ürün Seçiniz
-OBSOLETE,wolf_part1_objective_drones,2803,Install a Drone Bay and at least one Logistics Drone,Bir Drone Körfezi ve en az bir Lojistik Drone kurun
-OBSOLETE,tutorial_stargatewindowhighlightframes2,2803,Sell your frames at a trading post to submit them to the Andromeda Project.,Çerçevelerinizi Andromeda Projesi'ne göndermek için bir ticaret merkezinde satın.
-OBSOLETE,powergrid_demand,2803,DEMAND *X Mw,TALEP *X Mw
-OBSOLETE,powergrid_output,2803,OUTPUT *X Mw,ÇIKIŞ *X Mw
-OBSOLETE,powergrid_stored,2803,STORED *X Mw,DEPOLANAN *X Mw
-OBSOLETE,object_battery_description,2803,"Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage.",Güç şebekesinde 1000Mw'a kadar mevcut olan fazla gücü depolar. Kıtlık olduğunda batarya güç sağlayacaktır.
-OBSOLETE,object_reactor_description,2803,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW.,Güç üretmek için yüksek enerjili Yakıt yakar. Yakıt ile beslenmelidir (bir boru aracılığıyla). Daha sonra diğer elektrikli ekipmanlara bağlanmak için kablolar kullanın.\nMaksimum 100MW güç çıkışı üretir.
-OBSOLETE,dsi_part2_thirdpartcomplete2,2803,Let's take another break and I'll contact you when the Andromeda Project releases the manifest for their next phase.,Bir ara daha verelim ve Andromeda Projesi bir sonraki aşama için manifestoyu yayınladığında sizinle irtibata geçeceğim.
 OBSOLETE,thefinalstand_harken5,3248,The Stargate will fall back into your sole control. I've marked an allied shipyard on your map. I'll hide out there in the mean-time.,Yıldız Geçidi tekrar sizin kontrolünüze geçecek. Haritanızda bir müttefik tersanesini işaretledim. Bu süre zarfında orada saklanacağım.
 OBSOLETE,thefinalstand_harken5,3239,"Any and all damage to the HQ should be avoided. Many innocent lives are on-board that HQ, the loss of life from destroying it would be far too great. You will upload a virus to their command centre and disable the station's offensive capabilities.","Karargâha zarar vermekten kaçınılmalıdır. Karargâhta pek çok masum hayat var, onu yok etmenin yol açacağı can kaybı çok büyük olacaktır. Komuta merkezlerine bir virüs yükleyecek ve istasyonun saldırı yeteneklerini devre dışı bırakacaksınız."
 OBSOLETE,industryend_message,3248,"Now the Andromeda HQ has been captured, Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind spreads beyond our home galaxy and into the future.","Andromeda Karargâhı ele geçirildiğine göre, Harken ve Galaksilerarası Güvenlik Konseyi Andromeda Projesi holdingini dağıtacak ve tüm insanlığın yararı için Yıldız Geçidi'nin kontrolünü yeniden ele geçirecek.  İnsanlık kendi galaksimizin ötesine ve geleceğe yayılırken yeni bir bölüm başladı."

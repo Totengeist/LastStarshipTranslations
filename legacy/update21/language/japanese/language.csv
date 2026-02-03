@@ -1,73 +1,57 @@
 ﻿state,key,svn,english,translation
-CURRENT,logistics_log_transfertonosupply,3492,Transferred *X R*Y to L*Z out of the *P desired - insufficient cargo,*X R*Y L*Z *P のうち希望するものを移管 - 貨物不足。
-CURRENT,logistics_log_transferfromnosupply,3492,Transferred *X R*Y from L*Z out of the *P desired - insufficient cargo,*X R*Y をL*Z から*P 希望外の場所に移した - 貨物不足
-CURRENT,trade_paymentperjump,3472,*X (+*Y) per sector jump,*X (+*Y) セクタージャンプあたり
-CURRENT,award_civilianpayment,3472,CIVILIAN PAYMENT,民間人支払い
-CURRENT,award_civilianpayment_caption,3472,*X permanent residents in your fleet,*X 貴艦隊の永住者
-CURRENT,logistics_status_default,3472,Order running,オーダー・ランニング
-CURRENT,logistics_status_miningstacksfull,3472,Mined *X R*Y (*Z stacks) - storage full,採掘*X R*Y (*Z stacks) - ストレージ・フル
-CURRENT,logistics_status_miningstackstime,3472,Mined *X R*Y (*Z stacks) in T*P,採掘された*X R*Y (*Z stacks) in T*P
-CURRENT,logistics_status_miningstackstimefull,3472,Mined *X R*Y (*Z stacks) in T*P - storage full,採掘*X R*Y (*Z スタック) in T*P - ストレージ・フル
-CURRENT,logistics_status_miningratio,3472,Mined *X R*Y (*Z/*P stacks),採掘*X R*Y (*Z/*P スタック)
-CURRENT,logistics_status_miningratiofull,3472,Mined *X R*Y (*Z/*P stacks) - storage full,採掘*X R*Y (*Z/*P スタック) - ストレージ・フル
-CURRENT,logistics_status_miningonboard,3472,"Mined *X R*Y (*Z stacks on board, *P desired) - storage full",採掘*X R*Y (*Z スタック搭載、*P 希望) - ストレージ満杯
-CURRENT,logistics_status_collectcontainersfull,3472,Collected *X R*Y (*Z containers) - storage full,回収品*X R*Y (*Z コンテナ) - 保管庫満杯
-CURRENT,logistics_status_collectcontainerstime,3472,Collected *X R*Y (*Z containers) in T*P,*X R*Y (*Z コンテナ) をTで収集した。T*P
-CURRENT,logistics_status_collectcontainerstimefull,3472,Collected *X R*Y (*Z containers) in T*P - storage full,回収*X R*Y (*Z コンテナ) in T*P - ストレージ・フル
-CURRENT,logistics_status_collectratio,3472,Collected *X R*Y (*Z/*P containers),収集品*X R*Y (*Z/*P コンテナ)
-CURRENT,logistics_status_collectratiofull,3472,Collected *X R*Y (*Z/*P containers) - storage full,回収された*X R*Y (*Z/*P コンテナ) - ストレージ・フル
-CURRENT,logistics_status_collectonboard,3472,"Collected *X R*Y (*Z containers on board, *P desired) - storage full",回収済み*X R*Y (*Z コンテナ搭載、*P 希望) - ストレージ満杯
-CURRENT,logistics_status_transfertonosupply,3472,Transferring *X R*Y to L*Z out of the *P desired - insufficient cargo,*X R*Y L*Z *P のうち希望するものを転送する - 貨物不足
-CURRENT,logistics_status_transferfromnosupply,3472,Transferring *X R*Y from L*Z out of the *P desired - insufficient cargo,*X R*Y をL*Z から*P 希望する外に移す - 貨物不足
-CURRENT,logistics_status_buyzero,3472,Bought *X R*Y,*X を購入した。R*Y
-CURRENT,logistics_status_buyzeronomoney,3472,Bought *X R*Y out of the *Z desired - insufficient funds,*X R*Y *Z を購入した。
-CURRENT,logistics_status_buyzeronosupply,3472,Bought *X R*Y out of the *Z desired - insufficient supply,*X R*Y *Z を買い求めた。
-CURRENT,logistics_status_sellzero,3472,Sold *X R*Y,販売*X R*Y
-CURRENT,logistics_status_sellzeronosupply,3472,Sold *X R*Y out of the *P desired - insufficient cargo,売約済み*X R*Y 希望する*P のうち - 貨物不足
-CURRENT,logistics_log_transfertofull,3472,Transferred *X R*Y to L*Z - destination storage full,*X R*Y をL*Z に転送した。
-CURRENT,logistics_log_transferfromfull,3472,Transferred *X R*Y from L*Z - destination storage full,L*Z から*X R*Y を転送 - 転送先のストレージが一杯になった。
-CURRENT,logistics_log_transfertofull1,3472,Transferred *X R*Y to L*Z out of the *P desired - destination storage full,*P のうち*X R*Y をL*Z に転送した。
-CURRENT,logistics_log_transferfromfull1,3472,Transferred *X R*Y from L*Z out of the *P desired - destination storage full,*X R*Y をL*Z から*P の希望する場所に移した。
-CURRENT,logistics_status_buynomoney,3472,Bought *X R*Y for $*Z out of the *P desired - insufficient funds,*X R*Y を$*Z のために購入*P 希望外 - 資金不足
-CURRENT,logistics_status_buynosupply,3472,Bought *X R*Y for $*Z out of the *P desired - insufficient supply,*X R*Y $*Z のために*P を購入した。
-CURRENT,logistics_status_sellnosupply,3472,Sold *X R*Y for $*Z out of the *P desired - insufficient cargo,*X R*Y を$*Z のために売却*P 希望外 - 貨物不足
-CURRENT,logistics_status_miningstacks,3472,Mined *X R*Y (*Z stacks),採掘*X R*Y (*Z スタック)
-CURRENT,logistics_status_collectcontainers,3472,Collected *X R*Y (*Z containers),収集品*X R*Y (*Z コンテナ)
-CURRENT,wolf_part2_objective_escape,3472,Undock and get to a safe distance before the Orion Sentinel explodes,オリオンセンチネルが爆発する前にドックを外し、安全な距離まで移動する。
-CURRENT,settings_motionsicknessmode,3400,Motion Sickness Mode,乗り物酔いモード
-CURRENT,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.",背景の回転が取り除かれたので、ゲーム中に乗り物酔いをする人は助かるはずだ。
-CURRENT,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition",船を切り替えるときは、トランジションをスキップする
-CURRENT,newmainmenu_tests,3400,TESTS,試験
-CURRENT,newmainmenu_instantshipswitch,3400,Switch instantly between ships,船を瞬時に切り替える
-CURRENT,newmainmenu_vsync,3400,V-Sync,Vシンク
-CURRENT,hud_layer_neutralexpand,3400,*X NEUTRAL SHIPS,*X 中立船
-CURRENT,hud_layer_neutralexpandtooltip,3400,Show neutral ships,中立船を表示する
-CURRENT,power_unit,3400,*X MW,*X MW
-CURRENT,tactical_focuslayer,3400,FOCUS LAYER,フォーカス・レイヤー
-CURRENT,tactical_tooltip_focuslayer,3400,"When enabled, the camera's rotation and position track the currently selected layer.",有効にすると、カメラの回転と位置が現在選択されているレイヤーをトラックする。
-CURRENT,logistics_condition_untilstorage,3400,Quantity on board,搭載量
-CURRENT,logistics_quantity_all,3400,ALL,すべて
-CURRENT,logistics_quantity_full,3400,FULL,フル
-CURRENT,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,任意の貨物保管庫を使用する
-CURRENT,logistics_stuck_layernotours,3400,Ship L*X is not friendly,船L*X 友好的ではない
-CURRENT,logistics_tooltip_controlall,3400,[CTRL] ALL,[CTRL] ALL
-CURRENT,logistics_tooltip_controlfull,3400,[CTRL] FULL,[CTRL] FULL
-CURRENT,logistics_tooltip_noitemrequired,3400,This order does not require an item,この注文では、商品は必要ない。
-CURRENT,logistics_tooltip_extrastoggleshow,3400,Show extra options for this order,この注文の追加オプションを表示する
-CURRENT,logistics_tooltip_extrastogglehide,3400,Hide extra options for this order,この注文の追加オプションを隠す
-CURRENT,logistics_tooltip_extrastogglenone,3400,No extra options available,追加オプションはない
-CURRENT,alert_type_failedtofindsuit,3400,SPACESUITS REQUIRED,宇宙服が必要
-CURRENT,alert_type_failedtofindsuit_caption,3400,*X crew members need spacesuits.,*X 乗組員には宇宙服が必要だ。
-CURRENT,objective_travel_to_location,3400,Travel to S*X,次の場所に移動するS*X
-CURRENT,logistics_item_none,3400,SELECT ITEM,アイテムを選択する
-CURRENT,powergrid_demand,3400,DEMAND: *X MW,需要：*X MW
-CURRENT,powergrid_output,3400,OUTPUT: *X MW,出力： *X MW
-CURRENT,powergrid_stored,3400,STORED: *X MJ,保管されている *X MJ
-CURRENT,object_battery_description,3400,"Stores any excess power available in the powergrid, up to 1000MJ. The battery will supply power whenever there is a shortage.",電力網で利用可能な余剰電力（最大1000MJ）を貯蔵する。バッテリーは、電力が不足するたびに電力を供給する。
-CURRENT,object_reactor_description,3400,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\n\nGenerates a maximum power output of 100MW.,高エネルギーの燃料を燃やして動力を生み出す。燃料を（パイプで）供給する必要がある。\n\n発電機の最大出力は100MW。
-CURRENT,wolf_part1_objective_drones,3400,Install a Drone Bay and have at least one Logistics Drone,ドローンベイを設置し、ロジスティクス・ドローンを最低1機保有する。
-CURRENT,tutorial_stargatewindowhighlightframes2,3400,The button underneath each component can be clicked to quickly sell all your stock and submit it to the Andromeda Project.\n\nThey can also be sold from the trade screen.,各コンポーネントの下にあるボタンをクリックすると、すべての在庫を素早く売却し、アンドロメダ・プロジェクトに提出することができる。\n\nトレード画面からも売却できる。
-CURRENT,dsi_part2_thirdpartcomplete2,3400,"I'm going to take a short break from the project, I trust you'll be able to do the next couple of stages on your own.",私はこのプロジェクトから少し離れるつもりだが、君たちが次の2、3ステージを一人でこなせることを信じている。
+NEW,settings_motionsicknessmode,3400,Motion Sickness Mode,乗り物酔いモード
+NEW,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.",背景の回転が取り除かれたので、ゲーム中に乗り物酔いをする人は助かるはずだ。
+NEW,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition",船を切り替えるときは、トランジションをスキップする
+NEW,newmainmenu_tests,3400,TESTS,試験
+NEW,newmainmenu_instantshipswitch,3400,Switch instantly between ships,船を瞬時に切り替える
+NEW,newmainmenu_vsync,3400,V-Sync,Vシンク
+NEW,hud_layer_neutralexpand,3400,*X NEUTRAL SHIPS,*X 中立船
+NEW,hud_layer_neutralexpandtooltip,3400,Show neutral ships,中立船を表示する
+NEW,power_unit,3400,*X MW,*X MW
+NEW,tactical_focuslayer,3400,FOCUS LAYER,フォーカス・レイヤー
+NEW,tactical_tooltip_focuslayer,3400,"When enabled, the camera's rotation and position track the currently selected layer.",有効にすると、カメラの回転と位置が現在選択されているレイヤーをトラックする。
+NEW,logistics_condition_untilstorage,3400,Quantity on board,搭載量
+NEW,logistics_quantity_all,3400,ALL,すべて
+NEW,logistics_quantity_full,3400,FULL,フル
+NEW,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,任意の貨物保管庫を使用する
+NEW,logistics_stuck_layernotours,3400,Ship L*X is not friendly,船L*X 友好的ではない
+NEW,logistics_tooltip_controlall,3400,[CTRL] ALL,[CTRL] ALL
+NEW,logistics_tooltip_controlfull,3400,[CTRL] FULL,[CTRL] FULL
+NEW,logistics_tooltip_noitemrequired,3400,This order does not require an item,この注文では、商品は必要ない。
+NEW,logistics_tooltip_extrastoggleshow,3400,Show extra options for this order,この注文の追加オプションを表示する
+NEW,logistics_tooltip_extrastogglehide,3400,Hide extra options for this order,この注文の追加オプションを隠す
+NEW,logistics_tooltip_extrastogglenone,3400,No extra options available,追加オプションはない
+NEW,alert_type_failedtofindsuit,3400,SPACESUITS REQUIRED,宇宙服が必要
+NEW,alert_type_failedtofindsuit_caption,3400,*X crew members need spacesuits.,*X 乗組員には宇宙服が必要だ。
+NEW,objective_travel_to_location,3400,Travel to S*X,次の場所に移動するS*X
+UPDATED,logistics_item_none,3400,SELECT ITEM,アイテムを選択する
+PREVIOUS,logistics_item_none,3329,Select Item,項目を選択する
+UPDATED,logistics_status_transfernosupply,3400,out of the *X desired (not enough available),*X （十分な数がない）。
+PREVIOUS,logistics_status_transfernosupply,3329,out of the *X ordered (not enough available),注文した*X のうち、十分な数がなかった。
+UPDATED,logistics_status_buynomoney,3400,out of the *X desired (not enough money),*X 希望外（お金が足りない）
+PREVIOUS,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),注文した*X のうち、金額が足りなかった。
+UPDATED,logistics_status_buynosupply,3400,out of the *X desired (not enough available),*X （十分な数がない）。
+PREVIOUS,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),注文した*X のうち、十分な数がなかった。
+UPDATED,logistics_status_sellnosupply,3400,out of the *X desired (not enough available),*X （十分な数がない）。
+PREVIOUS,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),注文した*X のうち、十分な数がなかった。
+UPDATED,logistics_log_transferstoragefull1,3400,out of the *X desired (destination storage full),*X （デスティネーション・ストレージが一杯）。
+PREVIOUS,logistics_log_transferstoragefull1,3329,out of the *X ordered (destination storage full),*X 、注文したものから外れた（デスティネーション・ストレージが満杯）。
+UPDATED,powergrid_demand,3400,DEMAND: *X MW,需要：*X MW
+PREVIOUS,powergrid_demand,2448,DEMAND *X Mw,需要 *X Mw
+UPDATED,powergrid_output,3400,OUTPUT: *X MW,出力： *X MW
+PREVIOUS,powergrid_output,2448,OUTPUT *X Mw,出力 *X Mw
+UPDATED,powergrid_stored,3400,STORED: *X MJ,保管されている *X MJ
+PREVIOUS,powergrid_stored,2448,STORED *X Mw,蓄積された *X Mw
+UPDATED,object_battery_description,3400,"Stores any excess power available in the powergrid, up to 1000MJ. The battery will supply power whenever there is a shortage.",電力網で利用可能な余剰電力（最大1000MJ）を貯蔵する。バッテリーは、電力が不足するたびに電力を供給する。
+PREVIOUS,object_battery_description,2448,"Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage.",パワーグリッドで利用可能な余剰電力を最大1000Mwまで蓄積する。電力不足が発生すると、バッテリーが電力を供給する。
+UPDATED,object_reactor_description,3400,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\n\nGenerates a maximum power output of 100MW.,高エネルギーの燃料を燃やして動力を生み出す。燃料を（パイプで）供給する必要がある。\n\n発電機の最大出力は100MW。
+PREVIOUS,object_reactor_description,2448,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW.,高エネルギー燃料を燃焼させて電力を生成します。燃料をパイプを通して供給する必要があります。次にケーブルを使用して他の電力機器に接続します。\n最大電力出力を100MW生成します。
+UPDATED,wolf_part1_objective_drones,3400,Install a Drone Bay and have at least one Logistics Drone,ドローンベイを設置し、ロジスティクス・ドローンを最低1機保有する。
+PREVIOUS,wolf_part1_objective_drones,2448,Install a Drone Bay and at least one Logistics Drone,ドローンベイと、少なくとも1つのロジスティクスドローンを設置してください。
+UPDATED,tutorial_stargatewindowhighlightframes2,3400,The button underneath each component can be clicked to quickly sell all your stock and submit it to the Andromeda Project.\n\nThey can also be sold from the trade screen.,各コンポーネントの下にあるボタンをクリックすると、すべての在庫を素早く売却し、アンドロメダ・プロジェクトに提出することができる。\n\nトレード画面からも売却できる。
+PREVIOUS,tutorial_stargatewindowhighlightframes2,2448,Sell your frames at a trading post to submit them to the Andromeda Project.,フレームを取引所に売却して、アンドロメダ計画に提出します。
+UPDATED,dsi_part2_thirdpartcomplete2,3400,"I'm going to take a short break from the project, I trust you'll be able to do the next couple of stages on your own.",私はこのプロジェクトから少し離れるつもりだが、君たちが次の2、3ステージを一人でこなせることを信じている。
+PREVIOUS,dsi_part2_thirdpartcomplete2,2448,Let's take another break and I'll contact you when the Andromeda Project releases the manifest for their next phase.,もう一度休憩しましょう。アンドロメダ計画が次のフェーズの準備書を公開したら、連絡します。
 CURRENT,logistics_log_skipped,3339,Skipped order,スキップされたオーダー
 CURRENT,hud_ftlshipcontrolledbylogistics,3331,Ship is controlled by interstellar logistics,船は恒星間物流によって管理されている
 CURRENT,newmainmenu_continue,3329,CONTINUE GAME,ゲームを続ける
@@ -149,23 +133,34 @@ CURRENT,logistics_stuck_resources,3329,L*X does not have any R*Ys,L*X にはR*Y�
 CURRENT,logistics_stuck_patches,3329,System S*X does not have any R*Y to mine,システムS*X は採掘に対してR*Y を持っていない。
 CURRENT,logistics_stuck_gas,3329,System S*X does not have any R*Y to collect,システムS*X は、R*Y を収集していない。
 CURRENT,logistics_stuck_tradingpost,3329,System S*X does not have a trading post,システムS*X トレーディングポストがない
+CURRENT,logistics_stuck_resourcestosell,3329,L*X does not have any R*Y to sell,L*X R*Y 売るものはない。
 CURRENT,logistics_stuck_stargate,3329,Stargate is not ready for jump,スターゲイトはジャンプの準備ができていない
 CURRENT,logistics_status_notrunning,3329,No order currently running,現在実行中の注文はない
 CURRENT,logistics_status_travelling,3329,Travelling to system S*X,システムへ移動するS*X
 CURRENT,logistics_status_mining,3329,Mined *X R*Y,採掘*X R*Y
+CURRENT,logistics_status_miningstacks,3329,(*X/*Y stacks),(*X/*Y スタック)
+CURRENT,logistics_status_miningstacks1,3329,(*X stacks),(*X スタック)
+CURRENT,logistics_status_miningstacksnostorage,3329,"(*X/*Y stacks, storage full)","(*X/*Y stacks, storage full)"
+CURRENT,logistics_status_miningstacksnostorage1,3329,"(*X stacks, storage full)","(*X stacks, storage full)"
 CURRENT,logistics_status_collect,3329,Collected *X R*Y,コレクション*X R*Y
+CURRENT,logistics_status_collectcontainers,3329,(*X/*Y containers),(*X/*Y コンテナ)
+CURRENT,logistics_status_collectcontainers1,3329,(*X containers),(*X コンテナ)
+CURRENT,logistics_status_collectcontainersnostorage,3329,"(*X/*Y containers, storage full)",(*X/*Y コンテナ、ストレージ満杯)
+CURRENT,logistics_status_collectcontainersnostorage1,3329,"(*X containers, storage full)",(*X コンテナ、ストレージ満杯)
 CURRENT,logistics_status_transferto,3329,Transferring *X R*Y to L*Z,*X R*Y に転送する。L*Z
 CURRENT,logistics_status_transferfrom,3329,Transferring *X R*Y from L*Z,*X R*Y から転送する。L*Z
 CURRENT,logistics_status_buy,3329,Bought *X R*Y for $*Z,*X R*Y を購入した。$*Z
 CURRENT,logistics_status_sell,3329,Sold *X R*Y for $*Z,*X R*Y で販売された。$*Z
 CURRENT,logistics_status_notlooping,3329,Finished execution (not looping),実行終了（ループしない）
 CURRENT,logistics_status_waiting,3329,Waiting T*X,ウェイティングT*X
+CURRENT,logistics_status_time,3329,in T*X,T*X
 CURRENT,logistics_status_warning,3329,Warning,警告
 CURRENT,logistics_status_alert,3329,Alert,アラート
 CURRENT,logistics_log_jumped,3329,Travelled to system S*X,システムへ移動したS*X
 CURRENT,logistics_log_jumpedstargate,3329,Travelled to system S*X through Stargate,スターゲートを通り、S*X 。
 CURRENT,logistics_log_transferto,3329,Transferred *X R*Y to L*Z,*X R*Y に移管した。L*Z
 CURRENT,logistics_log_transferfrom,3329,Transferred *X R*Y from L*Z,移籍先*X R*Y L*Z
+CURRENT,logistics_log_transferstoragefull,3329,(destination storage full),(保存先ストレージがいっぱい）
 CURRENT,logistics_log_waited,3329,Waited for T*X,を待ったT*X
 CURRENT,logistics_tooltip_skiporder,3329,Skip currently executing order,現在実行中の注文をスキップする
 CURRENT,logistics_tooltip_loop,3329,Loop execution,ループ実行
@@ -2517,6 +2512,7 @@ CURRENT,wolf_part2_inperson_distress4,2448,"To rescue my crew you'll need to get
 CURRENT,wolf_part2_inperson_distress5,2448,I'll get the crew ready to evacuate. Please hurry!,乗組員を避難の準備させる。急いでくれ！
 CURRENT,wolf_part2_objective_dock,2448,Dock with the UMC Orion Sentinel,UMCオリオン・センチネルにドッキングする
 CURRENT,wolf_part2_inperson_distress7,2448,"I'll try and buy you a few more seconds, but it's going to go critical any moment.  Get to a safe distance as soon as you can, Captain.  Save my crew!",もう少し時間を稼いでみようが、すぐに臨界状態に達するだろう。すぐに安全な距離を取れ、キャプテン。乗組員を救ってくれ！
+CURRENT,wolf_part2_objective_escape,2448,Get to a safe distance before the Orion Sentinel explodes,オリオン・センチネルが爆発する前に、安全な距離を取れ。
 CURRENT,wolf_part2_dropoff2,2448,"In the mean time, take the survivors to the nearest shipyard or colony and drop them off there to close the contract.",その間、生存者を最寄りの造船所や植民地に連れて行き、契約を完了させる。
 CURRENT,wolf_part2_objective_dropoff,2448,Drop off the survivors at any shipyard or colony [*X/*Y],生存者を任意の造船所や植民地に降ろせ[*X/*Y]
 CURRENT,wolf_part2_debrief2,2448,Regrettably I must inform you Captain Ryker does not appear to be among the survivors.  Her sacrifice will be remembered.,残念ながら、キャプテン・ライカーは生存者の中にいないようだ。彼女の犠牲は記憶されるだろう。
@@ -3089,24 +3085,6 @@ CURRENT,bravenewsector_part1_dophase6,2872,Complete Phase 6 of the Stargate Proj
 CURRENT,trade_equipment_size,2872,- Size *X x *Y,- サイズ*X x*Y
 CURRENT,trade_equipment_rotatable,2872,- Rotatable,- 回転式
 CURRENT,trade_equipment_powered,2872,- Powered,- パワード
-OBSOLETE,logistics_status_buynomoney,3400,out of the *X desired (not enough money),*X 希望外（お金が足りない）
-OBSOLETE,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),注文した*X のうち、金額が足りなかった。
-OBSOLETE,logistics_status_buynosupply,3400,out of the *X desired (not enough available),*X （十分な数がない）。
-OBSOLETE,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),注文した*X のうち、十分な数がなかった。
-OBSOLETE,logistics_status_sellnosupply,3400,out of the *X desired (not enough available),*X （十分な数がない）。
-OBSOLETE,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),注文した*X のうち、十分な数がなかった。
-OBSOLETE,logistics_status_miningstacks,3329,(*X/*Y stacks),(*X/*Y スタック)
-OBSOLETE,logistics_status_collectcontainers,3329,(*X/*Y containers),(*X/*Y コンテナ)
-OBSOLETE,wolf_part2_objective_escape,2448,Get to a safe distance before the Orion Sentinel explodes,オリオン・センチネルが爆発する前に、安全な距離を取れ。
-OBSOLETE,logistics_item_none,3329,Select Item,項目を選択する
-OBSOLETE,powergrid_demand,2448,DEMAND *X Mw,需要 *X Mw
-OBSOLETE,powergrid_output,2448,OUTPUT *X Mw,出力 *X Mw
-OBSOLETE,powergrid_stored,2448,STORED *X Mw,蓄積された *X Mw
-OBSOLETE,object_battery_description,2448,"Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage.",パワーグリッドで利用可能な余剰電力を最大1000Mwまで蓄積する。電力不足が発生すると、バッテリーが電力を供給する。
-OBSOLETE,object_reactor_description,2448,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW.,高エネルギー燃料を燃焼させて電力を生成します。燃料をパイプを通して供給する必要があります。次にケーブルを使用して他の電力機器に接続します。\n最大電力出力を100MW生成します。
-OBSOLETE,wolf_part1_objective_drones,2448,Install a Drone Bay and at least one Logistics Drone,ドローンベイと、少なくとも1つのロジスティクスドローンを設置してください。
-OBSOLETE,tutorial_stargatewindowhighlightframes2,2448,Sell your frames at a trading post to submit them to the Andromeda Project.,フレームを取引所に売却して、アンドロメダ計画に提出します。
-OBSOLETE,dsi_part2_thirdpartcomplete2,2448,Let's take another break and I'll contact you when the Andromeda Project releases the manifest for their next phase.,もう一度休憩しましょう。アンドロメダ計画が次のフェーズの準備書を公開したら、連絡します。
 OBSOLETE,hud_consumingperhour,3149,Consuming *X per hour,1時間あたり*X 
 OBSOLETE,survey_captionmultiple,3054,*X layers surveying,*X レイヤー測量
 OBSOLETE,tutorial_radiationinstallinfuser,3054,A laser infuser has been delivered to your ship.\n\nLaser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area.,\n\nレーザーインフューザーは空のクリスタルにゼレオンガスをチャージするためのもので、電源が入っている間は周囲に放射線を放出する。\n\nレーザーインフューザーを見通しの良い場所に設置する。
