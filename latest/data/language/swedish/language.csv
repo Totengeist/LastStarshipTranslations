@@ -1096,7 +1096,7 @@ CURRENT,newmainmenu_savetosteamcloud,2624,SAVE TO STEAM CLOUD,SPARA TILL ÅNGMOL
 CURRENT,newmainmenu_steamcloud,2624,STEAM CLOUD,ÅNGKLUVA
 CURRENT,newmainmenu_cloudquotaremaining,2624,Used: *X / *Y (*Z% remaining),Används: *X / *Y (*Z% återstår)
 CURRENT,newmainmenu_exportship,2624,EXPORT SHIP,EXPORT SKIP
-CURRENT,newmainmenu_uploadship,2624,UPLOAD TO STEAM,LADDA UPP TILL ÅNGA
+CURRENT,newmainmenu_uploadship,2624,UPLOAD TO STEAM,LADDA UPP TILL STEAM
 CURRENT,newmainmenu_setshipname,2624,SET SHIP NAME,SET SHIP NAME
 CURRENT,newmainmenu_importhostile,2624,IMPORT HOSTILE,IMPORT HOSTILE
 CURRENT,newmainmenu_importfriendly,2624,IMPORT FRIENDLY,IMPORTVÄNLIG
@@ -1318,7 +1318,7 @@ CURRENT,hud_last_ftl_charge,2624,WARNING - LAST FTL CHARGE\nCANNOT BUY AT DESTIN
 CURRENT,hud_invalidplacement,2624,INVALID PLACEMENT,OGILTIG PLACERING
 CURRENT,hud_invalidplacement_tooltip,2624,This equipment can not function properly when installed in this position.,Denna utrustning kan inte fungera korrekt om den installeras i detta läge.
 CURRENT,hud_removefromtrack,2624,[RMB] Remove from track,[RMB] Ta bort från spåret
-CURRENT,communicator_incomingcall,2624,INCOMING HAIL...,INKOMMANDE HAGEL...
+CURRENT,communicator_incomingcall,2624,INCOMING HAIL...,INKOMMANDE MEDDELANDE...
 CURRENT,communicator_outgoingcall,2624,CALLING...,RINGER...
 CURRENT,hud_repairyourship,2624,You should repair the damage to your ship at a SHIPYARD.,Du bör reparera skadorna på ditt skepp på en SHIPYARD.
 CURRENT,speed_paused,2624,PAUSED,PAUSED
@@ -1960,9 +1960,9 @@ CURRENT,object_door,2624,Door,Dörr
 CURRENT,object_door_description,2624,A heavy pressure door that can be used to seal off areas in the event of a hull breach or fire.,En dörr med högt tryck som kan användas för att stänga av områden i händelse av skrovbrott eller brand.
 CURRENT,object_tank,2624,Huge Tank,Enorm tank
 CURRENT,object_tank_description,2624,A massive tank that can store a great deal of liquid or gas.,En massiv tank som kan lagra en stor mängd vätska eller gas.
-CURRENT,object_smalltank,2624,Medium Tank,Medium stridsvagn
+CURRENT,object_smalltank,2624,Medium Tank,Mellan Tank
 CURRENT,object_smalltank_description,2624,A storage tank that can store liquids and gases.,En lagringstank som kan lagra vätskor och gaser.
-CURRENT,object_tinytank,2624,Small Tank,Liten tank
+CURRENT,object_tinytank,2624,Small Tank,Liten Tank
 CURRENT,object_tinytank_description,2624,A storage tank that can store liquids and gases.,En lagringstank som kan lagra vätskor och gaser.
 CURRENT,object_dronebay,2624,Drone Bay,Drone Bay
 CURRENT,object_dronebay_description,2624,"This equipment is required to launch Logistics Drones from your ship. Drones can gather resources and salvage from space, then bring it back to the ship through the Drone Bay. One Drone Bay can launch multiple Drones.",Denna utrustning krävs för att skicka ut logistikdrönare från ditt skepp. Drönarna kan samla in resurser och bärgad egendom från rymden och sedan föra tillbaka den till fartyget via drönarbryggan. En Drone Bay kan avfyra flera Drones.

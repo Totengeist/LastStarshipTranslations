@@ -40,7 +40,7 @@ CURRENT,settings_instantshipswitch_description,3400,"When switching between ship
 CURRENT,newmainmenu_tests,3400,TESTS,PRUEBAS
 CURRENT,newmainmenu_instantshipswitch,3400,Switch instantly between ships,Cambia instantáneamente entre naves
 CURRENT,newmainmenu_vsync,3400,V-Sync,V-Sync
-CURRENT,hud_layer_neutralexpand,3400,*X NEUTRAL SHIPS,*X BARCOS NEUTRALES
+CURRENT,hud_layer_neutralexpand,3400,*X NEUTRAL SHIPS,*X NAVES NEUTRALES
 CURRENT,hud_layer_neutralexpandtooltip,3400,Show neutral ships,Mostrar barcos neutrales
 CURRENT,power_unit,3400,*X MW,*X MW
 CURRENT,tactical_focuslayer,3400,FOCUS LAYER,CAPA DE ENFOQUE
@@ -188,8 +188,8 @@ CURRENT,logistics_condition_containers,3239,Containers,Contenedores
 CURRENT,logistics_condition_allbut,3239,All But,Todos Menos
 CURRENT,logistics_condition_all,3239,All Available,Todos los disponibles
 CURRENT,logistics_condition_time,3239,Minutes,Actas
-CURRENT,logistics_transferto_none,3239,DESTINATION SHIP,BARCO DE DESTINO
-CURRENT,logistics_transferfrom_none,3239,SOURCE SHIP,FUENTE BARCO
+CURRENT,logistics_transferto_none,3239,DESTINATION SHIP,NAVE DE DESTINO
+CURRENT,logistics_transferfrom_none,3239,SOURCE SHIP,FUENTE NAVE
 CURRENT,logistics_stuck_default,3239,Orders stuck,Pedidos atascados
 CURRENT,logistics_stuck_invalidsystem,3239,System S*X does not exist,El sistema S*X no existe
 CURRENT,logistics_stuck_invalidlayer,3239,Ship L*X does not exist,Nave L*X no existe
@@ -338,7 +338,7 @@ CURRENT,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL +
 CURRENT,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + RMB] Convertir a pista
 CURRENT,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,"No podemos llevar a esos pasajeros a su destino sin un viaje más rápido que la luz. Por desgracia, esta nave no está equipada con su propio <b>Motor FTL</b>.\n\nTendremos que comprar uno y prepararlo."
 CURRENT,tutorial_ftltradescreen,3149,Open the trade screen to purchase an <b>FTL drive</b> and some <b>FTL charges</b>.,Abre la pantalla de comercio para comprar un <b>Motor FTL</b> y algunas <b>cargas FTL</b>.
-CURRENT,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,INCLUYEN BARCOS ATRACADOS
+CURRENT,newmainmenu_includedocked,3149,INCLUDE DOCKED SHIPS,INCLUYEN NAVES ATRACADOS
 CURRENT,hud_layer_hostile,3149,HOSTILE *X,HOSTIL *X
 CURRENT,hud_layer_derelict,3149,DERELICT *X,DERELICT *X
 CURRENT,hud_layer_forsale,3149,[FOR SALE] *X,[EN VENTA] *X
@@ -767,15 +767,15 @@ CURRENT,settings_uibounce,2803,UI Highlight Bounce,UI Destacar Rebote
 CURRENT,keybinding_title_action,2803,Action,Acción
 CURRENT,keybinding_title_key,2803,Key,Clave
 CURRENT,keybinding_press_a_key,2803,PRESS A KEY,PULSA UNA TECLA
-CURRENT,keybinding_revert,2803,RESET,RESET
-CURRENT,keybinding_panleft1,2803,Pan Left (1),Pan Izquierdo (1)
-CURRENT,keybinding_panleft2,2803,Pan Left (2),Pan Izquierdo (2)
-CURRENT,keybinding_panright1,2803,Pan Right (1),Pan Derecha (1)
-CURRENT,keybinding_panright2,2803,Pan Right (2),Pan Derecha (2)
-CURRENT,keybinding_pandown1,2803,Pan Down (1),Pan Abajo (1)
-CURRENT,keybinding_pandown2,2803,Pan Down (2),Pan Abajo (2)
-CURRENT,keybinding_panup1,2803,Pan Up (1),Pan arriba (1)
-CURRENT,keybinding_panup2,2803,Pan Up (2),Pan arriba (2)
+CURRENT,keybinding_revert,2803,RESET,RESTABLECER
+CURRENT,keybinding_panleft1,2803,Pan Left (1),Desplazar Izquierdo (1)
+CURRENT,keybinding_panleft2,2803,Pan Left (2),Desplazar Izquierdo (2)
+CURRENT,keybinding_panright1,2803,Pan Right (1),Desplazar Derecha (1)
+CURRENT,keybinding_panright2,2803,Pan Right (2),Desplazar Derecha (2)
+CURRENT,keybinding_pandown1,2803,Pan Down (1),Desplazar Abajo (1)
+CURRENT,keybinding_pandown2,2803,Pan Down (2),Desplazar Abajo (2)
+CURRENT,keybinding_panup1,2803,Pan Up (1),Desplazar arriba (1)
+CURRENT,keybinding_panup2,2803,Pan Up (2),Desplazar arriba (2)
 CURRENT,keybinding_zoomin,2803,Zoom In,Acercar
 CURRENT,keybinding_zoomout,2803,Zoom Out,Alejar
 CURRENT,keybinding_manoeuvreleft,2803,Thrust Left,Empuje a la izquierda
@@ -790,25 +790,25 @@ CURRENT,keybinding_increasethrust,2803,Engines +,Motores +
 CURRENT,keybinding_decreasethrust,2803,Engines -,Motores -
 CURRENT,keybinding_hudscaleup,2803,Increase HUD Scale,Aumentar la Escala HUD
 CURRENT,keybinding_hudscaledown,2803,Decrease HUD Scale,Disminución Escala HUD
-CURRENT,keybinding_recentrehome,2803,Recentre Ship,Barco Recentre
+CURRENT,keybinding_recentrehome,2803,Recentre Ship,Centrar en Nave
 CURRENT,keybinding_togglepause,2803,Pause,Pausa
-CURRENT,keybinding_gamespeed1,2803,Normal Speed,Velocidad normal
-CURRENT,keybinding_gamespeed2,2803,2x Speed,2x Velocidad
-CURRENT,keybinding_gamespeed3,2803,3x Speed,3x Velocidad
-CURRENT,keybinding_gamespeed4,2803,4x Speed,4x Velocidad
-CURRENT,keybinding_gamespeed5,2803,5x Speed,5x Velocidad
-CURRENT,keybinding_gamespeed6,2803,6x Speed,velocidad 6x
-CURRENT,keybinding_gamespeed7,2803,7x Speed,velocidad 7x
-CURRENT,keybinding_gamespeed8,2803,8x Speed,velocidad 8x
-CURRENT,keybinding_gamespeed9,2803,9x Speed,velocidad 9x
-CURRENT,keybinding_gamespeed0,2803,Half Speed,Media velocidad
+CURRENT,keybinding_gamespeed1,2803,Normal Speed,Velocidad Normal
+CURRENT,keybinding_gamespeed2,2803,2x Speed,Velocidad 2x
+CURRENT,keybinding_gamespeed3,2803,3x Speed,Velocidad 3x
+CURRENT,keybinding_gamespeed4,2803,4x Speed,Velocidad 4x
+CURRENT,keybinding_gamespeed5,2803,5x Speed,Velocidad 5x
+CURRENT,keybinding_gamespeed6,2803,6x Speed,Velocidad 6x
+CURRENT,keybinding_gamespeed7,2803,7x Speed,Velocidad 7x
+CURRENT,keybinding_gamespeed8,2803,8x Speed,Velocidad 8x
+CURRENT,keybinding_gamespeed9,2803,9x Speed,Velocidad 9x
+CURRENT,keybinding_gamespeed0,2803,Half Speed,Velocidad Media
 CURRENT,keybinding_rotateobject,2803,Rotate Object,Girar objeto
 CURRENT,keybinding_takescreenshot,2803,Screenshot (+ {MetaCtrl}),Captura de pantalla (+ {MetaCtrl})
-CURRENT,origin_shipofficial,2803,OFFICIAL SHIPS,BARCOS OFICIALES
-CURRENT,origin_shipcommunity,2803,COMMUNITY SHIPS,BARCOS COMUNITARIOS
-CURRENT,origin_shipuser,2803,PLAYER-MADE SHIPS,BARCOS HECHOS POR JUGADORES
-CURRENT,origin_shipsteam,2803,SUBSCRIBED SHIPS ON STEAM WORKSHOP,BARCOS SUSCRITOS EN EL TALLER DE VAPOR
-CURRENT,origin_shipsteamuser,2803,SHIPS UPLOADED TO STEAM WORKSHOP,BARCOS SUBIDOS AL TALLER DE STEAM
+CURRENT,origin_shipofficial,2803,OFFICIAL SHIPS,NAVE OFICIALES
+CURRENT,origin_shipcommunity,2803,COMMUNITY SHIPS,NAVE COMUNITARIOS
+CURRENT,origin_shipuser,2803,PLAYER-MADE SHIPS,NAVE HECHOS POR JUGADORES
+CURRENT,origin_shipsteam,2803,SUBSCRIBED SHIPS ON STEAM WORKSHOP,NAVE SUSCRITOS EN EL TALLER DE VAPOR
+CURRENT,origin_shipsteamuser,2803,SHIPS UPLOADED TO STEAM WORKSHOP,NAVE SUBIDOS AL TALLER DE STEAM
 CURRENT,shipeditor_mode_eyedropper,2803,Eyedropper,Cuentagotas
 CURRENT,shipeditor_paint,2803,PAINT,PINTAR
 CURRENT,shipeditor_paint_paint,2803,Foreground Paint,Pintura de primer plano
@@ -870,7 +870,7 @@ CURRENT,mission_type_sectorjumpgate,2639,Jumpgate (Sector),Puerta de salto (Sect
 CURRENT,settings_arraytextures,2624,Use Array Textures,Utilizar texturas de matriz
 CURRENT,newmainmenu_arena_shipquantity,2624,Quantity,Cantidad
 CURRENT,newmainmenu_arena_combatratings,2624,COMBAT RATINGS,CLASIFICACIONES DE COMBATE
-CURRENT,newmainmenu_arena_tradevalues,2624,SHIP VALUES,VALORES DEL BARCO
+CURRENT,newmainmenu_arena_tradevalues,2624,SHIP VALUES,VALORES DEL NAVE
 CURRENT,newmainmenu_arena_expandstats,2624,SHOW INFO,MOSTRAR INFORMACIÓN
 CURRENT,newmainmenu_arena_collapsestats,2624,HIDE INFO,OCULTAR INFORMACIÓN
 CURRENT,newmainmenu_arena_generateenemyfleet,2624,GENERATE,GENERAR
@@ -1114,7 +1114,7 @@ CURRENT,mission_sectorprotect_kills,2448,*X of the *Y enemy ships have been dest
 CURRENT,mission_sectorprotect_allenemieskilled,2448,All enemies destroyed.,Todos los enemigos destruidos.
 CURRENT,mission_sectorprotect_friendlykilled,2448,Unfortunately the ship has been destroyed.,Lamentablemente el barco ha sido destruido.
 CURRENT,mission_sectorprotect_action_payment,2448,TAKE CASH REWARD,TOMAR RECOMPENSA EN EFECTIVO
-CURRENT,mission_sectorprotect_action_ship,2448,TAKE SHIP REWARD,TOMAR RECOMPENSA DEL BARCO
+CURRENT,mission_sectorprotect_action_ship,2448,TAKE SHIP REWARD,TOMAR RECOMPENSA DEL NAVE
 CURRENT,mission_sectorprotect_success,2448,RESCUE COMPLETED,RESCATE COMPLETADO
 CURRENT,nomadobjective_current,2448,You currently have *X residents within your fleet.,Actualmente tienes *X residentes dentro de tu flota.
 CURRENT,calltoarms_harkenrailroad_1,2448,"My name is Commander Harken, and I'm the Chief of Private Security for the sector.",Mi nombre es Comandante Harken y soy el Jefe de Seguridad Privada del sector.
@@ -1273,7 +1273,7 @@ CURRENT,settings_effectsvolume,2448,Effects Volume,Volumen de Efectos
 CURRENT,settings_musicvolume,2448,Music Volume,Volumen de Musica
 CURRENT,settings_fullscreen,2448,Fullscreen,Pantalla Completa
 CURRENT,settings_resolution,2448,Resolution,Resolucion
-CURRENT,settings_language,2448,Language,Lenguaje
+CURRENT,settings_language,2448,Language,Idioma
 CURRENT,legal_button,2448,Legal Information,Información Legal
 CURRENT,wishlist_button,2448,Add to Wishlist,Añadir a Lista de Deseados
 CURRENT,steamstore_button,2448,Visit Steam Store,Visita la tienda Steam
@@ -2417,7 +2417,7 @@ CURRENT,opentextcrawlindustry_5,2448,The CEO of one such company - the INTERSTEL
 CURRENT,opentextcrawlindustry_6,2448,Trillions of dollars in funding have been set aside.,Se han reservado billones de dólares en financiación.
 CURRENT,opentextcrawlindustry_7,2448,The time is perfect for a small entrepreneurial and industrious team of miners to start a new career - and make their fortune in the stars.,Es el momento perfecto para que un pequeño equipo emprendedor y trabajador de mineros comience una nueva carrera y haga fortuna en las estrellas.
 CURRENT,tutorial_introduction_title,2448,TUTORIAL,TUTORIAL
-CURRENT,tutorial_next,2448,NEXT,PRÓXIMO
+CURRENT,tutorial_next,2448,NEXT,SIGUIENTE
 CURRENT,tutorial_introduction1,2448,Welcome to our new home.,Bienvenidos a nuestro nuevo hogar.
 CURRENT,tutorial_camera_title,2448,CAMERA CONTROLS,CONTROLES DE LA CÁMARA
 CURRENT,tutorial_power_title,2448,INSTALLING POWER,INSTALACIÓN DE ENERGÍA

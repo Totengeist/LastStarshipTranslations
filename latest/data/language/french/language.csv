@@ -1325,8 +1325,8 @@ CURRENT,newmainmenu_createnewupload,2448,CREATE NEW WORKSHOP ITEM,CRÉER UN NOUV
 CURRENT,newmainmenu_updateexistingupload,2448,UPDATE EXISTING WORKSHOP ITEM,MISE À JOUR DE L'ÉLÉMENT D'ATELIER EXISTANT
 CURRENT,newmainmenu_steamworkshop,2448,STEAM WORKSHOP,ATELIER VAPEUR
 CURRENT,newmainmenu_uploadprogress,2448,UPLOAD PROGRESS: *P %,PROGRESSION DU TÉLÉCHARGEMENT : *P %
-CURRENT,newmainmenu_lockedindemo,2448,LOCKED IN DEMO,VERROUILLÉ DANS LA DÉMO
-CURRENT,newmainmenu_locked,2448,(LOCKED),(FERMÉ)
+CURRENT,newmainmenu_lockedindemo,2448,LOCKED IN DEMO,BLOQUÉ DANS LA DÉMO
+CURRENT,newmainmenu_locked,2448,(LOCKED),(BLOQUÉ)
 CURRENT,newmainmenu_multisystem_simulation,2448,Enable Multi-system Simulation,Activer la simulation multisystème
 CURRENT,newmainmenu_debug_freespace,2448,Enable FreeSpace Debugging,Activer le débogage FreeSpace
 CURRENT,newmainmenu_darkmode,2448,Galaxy Map Dark Mode,Mode sombre de la carte de la galaxie
