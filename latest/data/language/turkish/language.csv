@@ -1554,7 +1554,7 @@ CURRENT,newmainmenu_savegame,2803,SAVE GAME,OYUNU KAYDET
 CURRENT,newmainmenu_confirm,2803,CONFIRM,ONAYLAYIN
 CURRENT,newmainmenu_cancel,2803,CANCEL,İPTAL
 CURRENT,newmainmenu_settings,2803,SETTINGS,AYARLAR
-CURRENT,newmainmenu_quit,2803,QUIT,İSTİFA
+CURRENT,newmainmenu_quit,2803,QUIT,ÇIKIŞ
 CURRENT,newmainmenu_abandon,2803,ABANDON GAME,ABANDON OYUNU
 CURRENT,newmainmenu_resume,2803,RESUME,OYNAMAYA DEVAM ET
 CURRENT,newmainmenu_chooseship,2803,CHOOSE STARTING SHIP,BAŞLANGIÇ GEMISINI SEÇIN
@@ -2189,7 +2189,8 @@ CURRENT,mission_production_description1,2803,We have an urgent requirement for *
 CURRENT,mission_production_description2,2803,"You can choose to manufacture the product from raw materials, or acquire it through some other means.",Ürünü hammaddeden üretmeyi ya da başka bir yolla elde etmeyi seçebilirsiniz.
 CURRENT,mission_production_marketprice,2803,The market price for these items would be $*X.,Bu ürünler için piyasa fiyatı $*X olacaktır.
 CURRENT,mission_production_markup,2803,(We are offering *X% above market rate due to urgent requirement).,(Acil ihtiyaç nedeniyle piyasa oranının % *X üzerinde teklif veriyoruz).
-CURRENT,mission_production_available,2803,You have *X stacks of R*Y available for transfer within your fleet (We need *Z),Filonuzda transfer için *X R*Y yığınına sahipsiniz ( *Z adresine ihtiyacımız var)
+CURRENT,mission_production_available,2803,You have *X stacks of R*Y available for transfer within your fleet (We need *Z),Filonuzda transfer için *X R*Y yığınına sahipsiniz (*Z tanesine ihtiyacımız var)
+
 CURRENT,mission_production_received,2803,We have received *X stacks of R*Y out of a total of *Z.,Toplam *Z yığınından *X yığınını R*Y aldık.
 CURRENT,mission_production_nomore,2803,There is no more R*X available within your fleet.,Filonuzda daha fazla R*X bulunmamaktadır.
 CURRENT,mission_production_success,2803,Provided *X/*Y items,Sağlanan *X/*Y öğeleri
