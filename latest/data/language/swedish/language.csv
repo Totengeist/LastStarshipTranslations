@@ -1092,7 +1092,7 @@ CURRENT,newmainmenu_loadship,2624,LOAD SHIP,LASTA SKEPP
 CURRENT,newmainmenu_loadgamedev,2624,LOAD GAME (DEV),LADDA SPEL (DEV)
 CURRENT,newmainmenu_createship,2624,CREATE NEW SHIP,SKAPA ETT NYTT FARTYG
 CURRENT,newmainmenu_createnewsave,2624,CREATE NEW SAVE,SKAPA NYTT SPARA
-CURRENT,newmainmenu_savetosteamcloud,2624,SAVE TO STEAM CLOUD,SPARA TILL ÅNGMOLN
+CURRENT,newmainmenu_savetosteamcloud,2624,SAVE TO STEAM CLOUD,SPARA TILL STEAM CLOUD
 CURRENT,newmainmenu_steamcloud,2624,STEAM CLOUD,ÅNGKLUVA
 CURRENT,newmainmenu_cloudquotaremaining,2624,Used: *X / *Y (*Z% remaining),Används: *X / *Y (*Z% återstår)
 CURRENT,newmainmenu_exportship,2624,EXPORT SHIP,EXPORT SKIP
