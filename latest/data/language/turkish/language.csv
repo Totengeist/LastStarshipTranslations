@@ -1577,7 +1577,7 @@ CURRENT,newmainmenu_loadship,2803,LOAD SHIP,YÜK GEMİSİ
 CURRENT,newmainmenu_loadgamedev,2803,LOAD GAME (DEV),OYUN YÜKLE (DEV)
 CURRENT,newmainmenu_createship,2803,CREATE NEW SHIP,YENI GEMI OLUŞTUR
 CURRENT,newmainmenu_createnewsave,2803,CREATE NEW SAVE,YENI KAYIT OLUŞTUR
-CURRENT,newmainmenu_savetosteamcloud,2803,SAVE TO STEAM CLOUD,SPARA TILL STEAM CLOUD
+CURRENT,newmainmenu_savetosteamcloud,2803,SAVE TO STEAM CLOUD,STEAM BULUTUNA KAYDET
 CURRENT,newmainmenu_steamcloud,2803,STEAM CLOUD,BUHAR BULUTU
 CURRENT,newmainmenu_cloudquotaremaining,2803,Used: *X / *Y (*Z% remaining),Kullanılmış: *X / *Y (*Z% kalan)
 CURRENT,newmainmenu_exportship,2803,EXPORT SHIP,İHRACAT GEMİSİ
