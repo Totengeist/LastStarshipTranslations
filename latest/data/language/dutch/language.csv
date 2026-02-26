@@ -103,7 +103,7 @@ CURRENT,thefinalstand_battleoutro_ship1,3329,DANGER: POWER SYSTEMS DETERIORATING
 CURRENT,thefinalstand_battleoutro_harken3,3329,"It's over, Captain. The Andromeda HQ will be placed under the jurisdiction of the Intergalactic Security Council while I make the necessary arrests. The access codes for the Stargate are back under our control.","Het is voorbij, kapitein. Het Andromeda-hoofdkwartier valt onder de jurisdictie van de Intergalactische Veiligheidsraad terwijl ik de nodige arrestaties verricht. De toegangscodes voor de Sterrenpoort zijn weer onder onze controle."
 CURRENT,tutorial_ftladdftldrive,3329,Add one <b>FTL drive</b> to our order by clicking on the entry in the list.,Voeg een <b>FTL-aandrijving</b> toe aan onze bestelling door op het item in de lijst te klikken.
 CURRENT,tutorial_ftladdftlfuel,3329,<b>FTL drives</b> consume one fuel charge per jump.\n\nAdd 5 <b>FTL charges</b> to the order as well.,<b>FTL-aandrijvingen</b> verbruiken één brandstoflading per sprong.\n\nVoeg ook 5 <b>FTL-lasten</b> toe aan de bestelling.
-CURRENT,tutorial_ftlinstallftl,3329,Install the <b>FTL drive</b> anywhere in your ship.,Installeer de <b>FTL aandrijving</b> overal in Uw schip.
+CURRENT,tutorial_ftlinstallftl,3329,Install the <b>FTL drive</b> anywhere in your ship.,Installeer de <b>FTL aandrijving</b> overal in jouw schip.
 CURRENT,tutorial_ftlpowerftl,3329,Connect the <b>FTL drive</b> to your power network.,Sluit de <b>FTL aandrijving</b> aan op Uw elektriciteitsnetwerk.
 CURRENT,tutorial_ftlstoragetoolbar,3329,"We can make things more efficient for our crew by telling them to store <b>FTL charges</b> near the <b>FTL drive</b>.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>FTL charges</b> from the list.",We kunnen de zaken efficiënter maken voor onze Bemanning door ze te vertellen <b>FTL-laden</b> op te slaan in de buurt van de <b>FTL aandrijving</b>.\n\nSelecteer <b>OPSLAG</b> op de <b>CONSTRUCTIE</b> werkbalk en selecteer dan <b>FTL lading</b> uit de lijst.
 CURRENT,tutorial_ftlstorageworld,3329,Now drag out a storage zone near to the <b>FTL drive</b>.,Sleep nu een opslagzone naar de <b>FTL-aandrijving</b>.
@@ -1342,7 +1342,7 @@ CURRENT,hud_last_ftl_charge,2593,WARNING - LAST FTL CHARGE\nCANNOT BUY AT DESTIN
 CURRENT,hud_invalidplacement,2593,INVALID PLACEMENT,ONGELDIGE PLAATSING
 CURRENT,hud_invalidplacement_tooltip,2593,This equipment can not function properly when installed in this position.,Dit apparaat kan niet goed functioneren als het in deze positie wordt geïnstalleerd.
 CURRENT,hud_removefromtrack,2593,[RMB] Remove from track,[RMB] Verwijderen van spoor
-CURRENT,communicator_incomingcall,2593,INCOMING HAIL...,INKOMENDE HAGEL...
+CURRENT,communicator_incomingcall,2593,INCOMING HAIL...,INKOMENDE TRANSMISSIE...
 CURRENT,communicator_outgoingcall,2593,CALLING...,OPROEPEN...
 CURRENT,hud_repairyourship,2593,You should repair the damage to your ship at a SHIPYARD.,Je moet de schade aan je schip repareren bij een SHIPYARD.
 CURRENT,speed_paused,2593,PAUSED,GEPAUZEERD
@@ -1459,7 +1459,7 @@ CURRENT,trade_category_reagent,2593,Reagent,Reagens
 CURRENT,trade_cash,2593,Cash,Contant
 CURRENT,trade_confirm,2593,CONFIRM,BEVESTIGEN
 CURRENT,trade_buy,2593,BUY,KOP
-CURRENT,trade_sell,2593,SELL,VERKOP
+CURRENT,trade_sell,2593,SELL,VERKOPEN
 CURRENT,trade_automatic,2593,AUTO TRADE,AUTOHANDEL
 CURRENT,trade_neworder,2593,NEW ORDER,NIEUWE ORDE
 CURRENT,trade_autobuyat,2593,BUY BELOW,KOPEN
@@ -1999,7 +1999,7 @@ CURRENT,object_gatlinggun,2593,Gatling Gun,Gatling gun
 CURRENT,object_gatlinggun_description,2593,"A close range rapid-fire weapon system, primarily designed for defense against incoming fighters and ordnance.  The gatling gun excels at destroying fast-moving targets at close range, but lacks the punch to penetrate armoured targets.","Een snelvuurwapensysteem voor de korte afstand, voornamelijk ontworpen voor verdediging tegen inkomende gevechtsvliegtuigen en munitie.  Het gatlinggeweer blinkt uit in het vernietigen van snel bewegende doelen op korte afstand, maar mist de kracht om gepantserde doelen te doorboren."
 CURRENT,object_cannon,2593,Cannon,Kanon
 CURRENT,object_cannon_description,2593,"A medium range weapon system that launches a barrage of explosive shells at the target. Cannon shells are excellent at dealing area-of-effect damage to an enemy ship, and will shred hull armour.",Een wapensysteem voor middellange afstand dat een spervuur van explosieve granaten op het doelwit afvuurt. Granaten van kanonnen zijn uitstekend geschikt om effectgebiedschade toe te brengen aan een vijandelijk schip en versnipperen het pantser van de romp.
-CURRENT,object_cannonshell,2593,Cannon Shells,Kanonschelpen
+CURRENT,object_cannonshell,2593,Cannon Shells,Kanonskogels
 CURRENT,object_mininglaser,2593,Mining Laser,Mijnbouw Laser
 CURRENT,object_mininglaser_description,2593,Can drill into mineral patches (found in asteroid belts) to extract valuable minerals.,Kan boren in mineraalgebieden (gevonden in asteroïdengordels) om waardevolle mineralen te winnen.
 CURRENT,object_deflector,2593,Deflector,Deflector
