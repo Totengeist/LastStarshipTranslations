@@ -297,7 +297,7 @@ CURRENT,bravenewsector_part2_x4,3239,"Please don't let that happen Captain. So m
 CURRENT,bravenewsector_part2_x5,3239,Please use it if they restrict the use of the Stargate for their own gain.,Gebruik het alsjeblieft als ze het gebruik van de Sterrenpoort beperken voor hun eigen gewin.
 CURRENT,stargate_power_fraction,3239,*X / *Y MW,*X / *Y MW
 CURRENT,blackhole_part1_setup7,3239,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop and a tank to store the isotopes in first.","Ik heb materialen nodig om de grondstoffen die we nodig hebben te synthetiseren.  U kunt me hiermee helpen, terwijl ik aan de berekeningen werk. Ik heb Hyperspace-isotopen nodig - u moet ze gemakkelijk kunnen verzamelen, maar u moet eerst een Hyperspace Schep en een tank om de isotopen in op te slaan aanschaffen."
-CURRENT,settings_credits,3149,CREDITS,KREDIETEN
+CURRENT,settings_credits,3149,CREDITS,ONTWORPEN DOOR
 CURRENT,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,Het spel wordt opgeslagen op Steam Cloud als dit is ingeschakeld. Er wordt een waarschuwing weergegeven als het opslaan mislukt.
 CURRENT,newmainmenu_saveoptions,3149,Save Options,Opties opslaan
 CURRENT,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] Verander van stijl
@@ -347,7 +347,7 @@ CURRENT,techtree_node_caption_metallurgyrepeatable,3054,Spend research credits t
 CURRENT,mainmenu_gamemode_arena,3054,Arena,Arena
 CURRENT,mainmenu_gamemode_arena_tooltip,3054,Create epic space battles between fleets of ships and watch the carnage unfold.,Creëer epische ruimtegevechten tussen vloten van schepen en kijk hoe het bloedbad zich ontvouwt.
 CURRENT,mainmenu_arena_caption,3054,Create epic space battles between fleets of ships and watch the carnage unfold.,Creëer epische ruimtegevechten tussen vloten van schepen en kijk hoe het bloedbad zich ontvouwt.
-CURRENT,settings_autosaves,3054,AUTOSAVES,AUTOMATIECH OPSLAAN
+CURRENT,settings_autosaves,3054,AUTOSAVES,AUTOMATISCH OPSLAAN
 CURRENT,settings_autosaveonftl,3054,Auto-save when leaving FTL,Automatisch opslaan bij verlaten FTL
 CURRENT,settings_autosaveontimeinterval,3054,Auto-save on time interval,Automatisch opslaan op tijdsinterval
 CURRENT,settings_autosaveinterval,3054,Auto-save Interval,Interval voor automatisch opslaan
@@ -762,7 +762,7 @@ CURRENT,settings_translatorassist,2803,"Translator Assist (Ctrl, Alt)","Vertaler
 CURRENT,settings_sound,2793,SOUND,GELUID
 CURRENT,settings_appearance,2793,APPEARANCE,BEELD
 CURRENT,settings_keybindings,2793,KEYBOARD,TOETSENBORD
-CURRENT,settings_other,2793,OTHER,ANDERE
+CURRENT,settings_other,2793,OTHER,OVERIGE INSTELLINGEN
 CURRENT,settings_uibounce,2793,UI Highlight Bounce,UI Markeerstoot
 CURRENT,keybinding_title_action,2793,Action,Actie
 CURRENT,keybinding_title_key,2793,Key,Sleutel
@@ -1095,7 +1095,7 @@ CURRENT,newmainmenu_cancel,2593,CANCEL,ANNULEREN
 CURRENT,newmainmenu_settings,2593,SETTINGS,INSTELLINGEN
 CURRENT,newmainmenu_quit,2593,QUIT,STOP
 CURRENT,newmainmenu_abandon,2593,ABANDON GAME,SPEL VERLATEN
-CURRENT,newmainmenu_resume,2593,RESUME,RESUME
+CURRENT,newmainmenu_resume,2593,RESUME,GA VERDER
 CURRENT,newmainmenu_chooseship,2593,CHOOSE STARTING SHIP,STARTSCHIP KIEZEN
 CURRENT,newmainmenu_begingame,2593,BEGIN GAME,SPEL BEGINNEN
 CURRENT,newmainmenu_shipeditor,2593,CREATIVE MODE,CREATIEVE MODUS
@@ -1116,8 +1116,8 @@ CURRENT,newmainmenu_loadship,2593,LOAD SHIP,LAD SCHIP
 CURRENT,newmainmenu_loadgamedev,2593,LOAD GAME (DEV),SPEL LADEN (DEV)
 CURRENT,newmainmenu_createship,2593,CREATE NEW SHIP,NIEUW SCHIP MAKEN
 CURRENT,newmainmenu_createnewsave,2593,CREATE NEW SAVE,NIEUW OPSLAAN
-CURRENT,newmainmenu_savetosteamcloud,2593,SAVE TO STEAM CLOUD,OPSLAAN IN STOOMCLOUD
-CURRENT,newmainmenu_steamcloud,2593,STEAM CLOUD,STOOMKLOUD
+CURRENT,newmainmenu_savetosteamcloud,2593,SAVE TO STEAM CLOUD,OPSLAAN IN STEAMCLOUD
+CURRENT,newmainmenu_steamcloud,2593,STEAM CLOUD,STEAMCLOUD
 CURRENT,newmainmenu_cloudquotaremaining,2593,Used: *X / *Y (*Z% remaining),Gebruikt: *X / *Y (*Z% over)
 CURRENT,newmainmenu_exportship,2593,EXPORT SHIP,SCHIP EXPORTEREN
 CURRENT,newmainmenu_uploadship,2593,UPLOAD TO STEAM,UPLOADEN NAAR STEAM
