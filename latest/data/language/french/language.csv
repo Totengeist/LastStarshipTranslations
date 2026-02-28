@@ -93,7 +93,7 @@ CURRENT,dsi_x_confirmcancel1,3329,How dare you! I still have the access keys. Yo
 CURRENT,dsi_x_confirmcancel2,3329,You will regret this.,Vous allez le regretter.
 CURRENT,dsi_x_confirmcancel3,3329,"Goodbye, Captain.","Au revoir, capitaine."
 CURRENT,thefinalstand_boss_hint,3329,"Captain! The ship's weapons and engines are disabled, hit it with everything you've got!","Capitaine ! Les armes et les moteurs du vaisseau sont désactivés, frappe-le avec tout ce que tu as !"
-CURRENT,thefinalstand_harken5,3329,The Stargate will fall back into our control. I've marked an allied shipyard on your map. I'll hide out there in the mean-time.,La Porte des étoiles va retomber sous notre contrôle. J'ai marqué un chantier naval allié sur ta carte. Je m'y cacherai en attendant.
+CURRENT,thefinalstand_harken5,3329,The Stargate will fall back into our control. I've marked an allied shipyard on your map. I'll hide out there in the mean-time.,La Porte des étoiles va retomber sous notre contrôle. J'ai marqué un chantier spatial allié sur ta carte. Je m'y cacherai en attendant.
 CURRENT,industryend_message,3329,"With Andromeda HQ captured, Cmdr Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind expands beyond our home galaxy and into the future.","Avec la capture du QG d'Andromède, le Cmdr Harken et le Conseil de sécurité intergalactique vont démanteler le conglomérat du Projet Andromède et reprendre le contrôle de la Porte des étoiles, pour le bien de toute l'humanité.  Un nouveau chapitre a commencé, alors que l'humanité s'étend au-delà de notre galaxie d'origine et vers l'avenir."
 CURRENT,trade_autodisembarkat,3329,DISEMBARK ABOVE,DÉBARQUE AU-DESSUS
 CURRENT,logistics_status_transferto,3329,Transferring *X R*Y to L*Z,Transférer *X R*Y vers L*Z
@@ -255,7 +255,7 @@ CURRENT,stargate_unknowncomponent,3239,Unknown Component,Composant inconnu
 CURRENT,stargate_unknowncomponent_description,3239,Unlock this component through research!,Débloque ce composant grâce à la recherche !
 CURRENT,tutorial_radiationselectfriendly,3239,"First, select a friendly ship with a laser infuser available.","Tout d'abord, sélectionne un vaisseau ami avec un infuseur laser disponible."
 CURRENT,blackhole_objective_tank,3239,Acquire a Storage Tank,Acquérir un réservoir de stockage
-CURRENT,blackhole_objective_storagetank,3239,Connect a tank to the Hyperspace Scoop,Connecter un réservoir au Collecteur Hyperspacial
+CURRENT,blackhole_objective_storagetank,3239,Connect a tank to the Hyperspace Scoop,Connecter un réservoir au Collecteur Hyperspatial
 CURRENT,blackhole_objective_loader,3239,Connect a Loader to the tank,Connecter un Chargeur au réservoir
 CURRENT,blackhole_objective_unloadloader,3239,Set the Loader to UNLOAD,Réglez le Chargeur sur DÉCHARGER
 CURRENT,dsi_part2_dogmavessel1,3239,D.O.G.M.A Spartan,D.O.G.M.A Spartan
@@ -341,7 +341,7 @@ CURRENT,newmainmenu_includedocked,3239,INCLUDE DOCKED SHIPS,INCLURE LES VAISSEAU
 CURRENT,hud_layer_hostile,3239,HOSTILE *X,HOSTILE *X
 CURRENT,hud_layer_derelict,3239,DERELICT *X,DERELICT *X
 CURRENT,hud_layer_forsale,3239,[FOR SALE] *X,[A VENDRE] *X
-CURRENT,blackhole_part1_setup7,3239,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop and a tank to store the isotopes in first.","J'ai besoin de matériel pour synthétiser les ressources dont nous avons besoin.  Vous pouvez m'aider pendant que je travaille sur les calculs. J'ai besoin d'Isotopes hyperespaciaux - vous devriez pouvoir les collecter assez facilement, mais il vous faudra d'abord acquérir un Collecteur Hyperspacial et un réservoir pour stocker les isotopes."
+CURRENT,blackhole_part1_setup7,3239,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop and a tank to store the isotopes in first.","J'ai besoin de matériel pour synthétiser les ressources dont nous avons besoin.  Vous pouvez m'aider pendant que je travaille sur les calculs. J'ai besoin d'Isotopes hyperespaciaux - vous devriez pouvoir les collecter assez facilement, mais il vous faudra d'abord acquérir un Collecteur Hyperspatial et un réservoir pour stocker les isotopes."
 CURRENT,bravenewsector_part2_harken_2,3077,Their exterior wear leads us to believe that they have been here for at least a century. This sector must have been one of mankind's first attempts to colonise outer-space.,L’usure visible de leurs structures extérieures nous laisse penser qu’ils sont là depuis au moins un siècle. Ce secteur devait faire partie des toutes premières tentatives de l’humanité pour coloniser l’espace.
 CURRENT,techtree_node_caption_metallurgyrepeatable,3054,Spend research credits to continually increase our smelting efficiency.,Dépense des crédits de recherche pour augmenter continuellement l'efficacité de notre fusion.
 CURRENT,mainmenu_gamemode_arena,3054,Arena,Arène
@@ -473,7 +473,7 @@ CURRENT,bravenewsector_part2_x8,3054,"This is our final call, Captain. I wish yo
 CURRENT,bravenewsector_part2_harken_1,3054,"Captain, our sector scan has found new systems. They contain shipyards that are currently being operated by pirates.","Capitaine, notre analyse du secteur a détecté de nouveaux systèmes. Ils contiennent des chantiers spatiaux actuellement exploités par des pirates."
 CURRENT,bravenewsector_part2_harken_3,3054,"There are signs of a massive galactic war in this sector, with derelict ship signals appearing all across our sector map.","On observe des signes d’une guerre galactique massive dans ce secteur, avec des signaux de vaisseaux à la dérive qui apparaissent partout sur notre carte du secteur."
 CURRENT,bravenewsector_part2_harken_4,3054,"The aftermath of the war resulted in pirates gaining control of the sector for themselves. They have since been living here, dormant, surviving from the resources harvested in local asteroid belts and nebulas.","À la suite de cette guerre, les pirates ont pris le contrôle du secteur pour eux-mêmes. Depuis, ils vivent ici, en sommeil, survivant grâce aux ressources récoltées dans les ceintures d'astéroïdes et les nébuleuses locales."
-CURRENT,bravenewsector_part2_harken_6,3054,Destroying the fortresses would allow us to set up friendly shipyards and take back control of the sector from the pirates.,La destruction des forteresses nous permettrait d'installer des chantiers navals amis et de reprendre le contrôle du secteur aux pirates.
+CURRENT,bravenewsector_part2_harken_6,3054,Destroying the fortresses would allow us to set up friendly shipyards and take back control of the sector from the pirates.,La destruction des forteresses nous permettrait d'installer des chantiers spatiauxs amis et de reprendre le contrôle du secteur aux pirates.
 CURRENT,bravenewsector_part2_harken_7,3054,Be prepared to be met with heavy resistance if you choose to visit them. I have added their positions to your sector map.,Attendez-vous à une forte résistance si vous choisissez de leur rendre visite. J’ai ajouté leurs positions à votre carte du secteur.
 CURRENT,bravenewsector_part2_harken_8,3054,There's a shuttle on the way to L*X with surveying equipment on-board. It will allow you to scan the area around your ship.,Une navette est en route vers L*X avec du matériel de reconnaissance à bord. Elle vous permettra de scanner la zone autour de votre vaisseau.
 CURRENT,bravenewsector_part2_surveywarning,3054,"There's a shuttle on the way to L*X with surveying equipment on-board. The equipment can only be used in the new sector, so you'll need to send a ship through the Stargate to start surveying.","Une navette est en route vers L*X avec du matériel de reconnaissance à bord. Cet équipement ne peut être utilisé que dans le nouveau secteur , vous devrez donc envoyer un vaisseau à travers la Porte des Etoiles pour commencer la reconnaissance."
@@ -565,7 +565,7 @@ CURRENT,stargatesectorwarning_harken_1,3054,"Captain, the new sector needs to be
 CURRENT,stargatesectorwarning_harken_2,3054,"In the systems surveyed so far we've found new resources and severe weather systems, which may be just a glimpse into what awaits us in this sector.","Dans les systèmes étudiés jusqu'à présent, nous avons trouvé de nouvelles ressources et des systèmes météorologiques violents, qui ne sont peut-être qu'un aperçu de ce qui nous attend dans ce secteur."
 CURRENT,stargatesectorwarning_harken_3,3054,"Who knows what you may find out here. Be careful, Captain.","Qui sait ce que tu pourrais trouver ici. Soyez prudent, capitaine."
 CURRENT,techtree_node_title_robotarmspeed,3054,Robot Arm Speed 1,Vitesse du bras robotique 1
-CURRENT,dsi_part2_isotopesintro2,3054,"It's not too complex.  It starts with a Hyperspace Scoop, or several ideally, that you can fit to your vessels.  Every time you make an FTL jump you'll collect more as you pass through hyperspace.  You can then pipe those isotopes into a Refinery and convert them into Stable Isotopes.","Ce n’est pas trop compliqué. Tout commence avec un Collecteur hyperspacial (idéalement plusieurs) que vous pouvez installer sur vos vaisseaux. À chaque saut FTL, vous en collecterez davantage en traversant l’hyperespace. Vous pourrez ensuite acheminer ces isotopes vers une raffinerie et les convertir en isotopes stables."
+CURRENT,dsi_part2_isotopesintro2,3054,"It's not too complex.  It starts with a Hyperspace Scoop, or several ideally, that you can fit to your vessels.  Every time you make an FTL jump you'll collect more as you pass through hyperspace.  You can then pipe those isotopes into a Refinery and convert them into Stable Isotopes.","Ce n’est pas trop compliqué. Tout commence avec un Collecteur hyperspatial (idéalement plusieurs) que vous pouvez installer sur vos vaisseaux. À chaque saut FTL, vous en collecterez davantage en traversant l’hyperespace. Vous pourrez ensuite acheminer ces isotopes vers une raffinerie et les convertir en isotopes stables."
 CURRENT,techtree_node_caption_hydroponicsrepeatable,3054,Spend research credits to continually increase our crop yield.,Dépense les crédits de recherche pour augmenter continuellement le rendement de nos cultures.
 CURRENT,keybinding_alttool,2886,Alt Editor Tool,Outil d'édition Alt
 CURRENT,keybinding_translatorwindow,2886,Translator Window,Fenêtre du traducteur
@@ -650,7 +650,7 @@ CURRENT,tutorial_dockingswitchtotactical,2886,"To get started, switch to <b>TACT
 CURRENT,tutorial_dockingmaneuverkeys,2886,"Use the Maneuvering controls to move the ship into position.\n\nYou can also use the keys <b>{ManoeuvreUp}</b>, <b>{ManoeuvreLeft}</b>, <b>{ManoeuvreDown}</b>, <b>{ManoeuvreRight}</b> to move, and <b>{ManoeuvreClockwise}</b> and <b>{ManoeuvreCounterClockwise}</b> to rotate the ship.","Utilisez les commandes de manœuvre pour mettre le vaisseau en position.\n\nVous pouvez également utiliser les touches <b>{ManoeuvreUp}</b>, <b>{ManoeuvreLeft}</b>, <b>{ManoeuvreDown}</b>, <b>{ManoeuvreRight}</b> pour vous déplacer, et <b>{ManoeuvreClockwise}</b> et <b>{ManoeuvreCounterClockwise}</b> pour faire pivoter le vaisseau."
 CURRENT,tutorial_miningopenmap,2886,Now open the sector map (<b>{ToggleMap}</b>).,Ouvrez maintenant la carte du secteur (<b>{ToggleMap}</b>).
 CURRENT,tutorial_buy_shiftclick,2886,<b>NOTE</b>: You can <b>SHIFT CLICK</b> to buy in multiples of 5.,<b>REMARQUE</b> : Vous pouvez <b>MAJ-CLIQUER</b> pour acheter par multiples de 5.
-CURRENT,tutorial_introduction2,2886,"This vessel is fresh out of the shipyard production line.\n\nIt's just an empty hull right now, without power or a breathable atmosphere. Our first job is to fix that.\n\nClick <b>NEXT</b> to continue.","Ce vaisseau vient tout juste de sortir de la chaîne de production du chantier naval.\n\nC'est juste une coque vide pour le moment, sans électricité ni atmosphère respirable. Notre premier travail consiste à résoudre ce problème.\n\nCliquez sur <b>SUIVANT</b> pour continuer."
+CURRENT,tutorial_introduction2,2886,"This vessel is fresh out of the shipyard production line.\n\nIt's just an empty hull right now, without power or a breathable atmosphere. Our first job is to fix that.\n\nClick <b>NEXT</b> to continue.","Ce vaisseau vient tout juste de sortir de la chaîne de production du chantier spatial.\n\nC'est juste une coque vide pour le moment, sans électricité ni atmosphère respirable. Notre premier travail consiste à résoudre ce problème.\n\nCliquez sur <b>SUIVANT</b> pour continuer."
 CURRENT,tutorial_powerinstallmenu,2886,"Let's begin by installing a <b>REACTOR</b>, to generate power for our ship.\n\nClick into the <b>CONSTRUCTION</b> menu, then click <b>INSTALL</b>.","Commençons par installer un <b>RÉACTEUR</b>, pour générer de l'énergie pour notre vaisseau.\n\nCliquez sur le menu <b>CONSTRUCTION</b>, puis cliquez sur <b>INSTALLER</b>."
 CURRENT,tutorial_powerselectreactor,2886,This is all the boxed equipment you have available on-board.\n\nSelect <b>REACTOR</b> from the list.,Il s'agit de tout l'équipement en boîte dont vous disposez à bord.\n\nSélectionnez <b>REACTOR</b> dans la liste.
 CURRENT,tutorial_powerplacereactor,2886,Stamp the <b>REACTOR</b> down inside your ship.,Tamponnez le <b>RÉACTEUR</b> à l’intérieur de votre vaisseau.
@@ -734,7 +734,7 @@ CURRENT,tutorial_resinrefineryrecipe,2886,Right click on the <b>REFINERY</b> and
 CURRENT,tutorial_resinchemicallabrecipe,2886,Right click on the <b>CHEMICAL LAB</b> and set its recipe to <b>MAKE STARGATE RESIN</b>.,Faites un clic droit sur le <b>LABORATOIRE CHIMIQUE</b> et définissez sa recette sur <b>FAIRE DE LA RÉSINE STARGATE</b>.
 CURRENT,tutorial_resinconnectgascollector,2886,Connect the <b>GAS COLLECTOR</b> to the <b>REFINERY</b> with a <b>PIPE</b>.,Connectez le <b>COLLECTEUR DE GAZ</b> à la <b>RAFFINERIE</b> avec un <b>TUYAU</b>.
 CURRENT,tutorial_resinconnectchemicallab,2886,Connect the <b>REFINERY</b> to the <b>CHEMICAL LAB</b> with a <b>PIPE</b>.,Connectez la <b>RAFFINERIE</b> au <b>LABORATOIRE CHIMIQUE</b> avec un <b>TUYAU</b>.
-CURRENT,tutorial_resinsuccess,2886,"Well done, you have started to produce <b>STARGATE RESIN</b>.\n\nWhen you have produced enough, travel back to any <b>COLONY</b>, <b>SHIP YARD</b> or the <b>STARGATE</b> system to sell it to the <b>STARGATE PROJECT</b>.","Bravo, vous avez commencé à produire de la <b>RÉSINE STARGATE</b>.\n\nLorsque vous en avez produit suffisamment, retournez dans n'importe quelle <b>COLONIE</b>, <b>CHANTIER NAVAL</b> ou dans le système <b>STARGATE</b> pour la vendre au <b>PROJET STARGATE</b>."
+CURRENT,tutorial_resinsuccess,2886,"Well done, you have started to produce <b>STARGATE RESIN</b>.\n\nWhen you have produced enough, travel back to any <b>COLONY</b>, <b>SHIP YARD</b> or the <b>STARGATE</b> system to sell it to the <b>STARGATE PROJECT</b>.","Bravo, vous avez commencé à produire de la <b>RÉSINE STARGATE</b>.\n\nLorsque vous en avez produit suffisamment, retournez dans n'importe quelle <b>COLONIE</b>, <b>CHANTIER SPATIAL</b> ou dans le système <b>STARGATE</b> pour la vendre au <b>PROJET STARGATE</b>."
 CURRENT,tutorial_dockingcheckthrusters,2886,"In order to be able to dock successfully, your ship needs at least four working <b>THRUSTERS</b>.\n\nUse a different ship, or purchase and install four thrusters at a nearby trading post.","Pour pouvoir accoster avec succès, votre vaisseau a besoin d'au moins quatre <b>PROPULSEURS</b> fonctionnels.\n\nUtilisez un autre vaisseau ou achetez et installez quatre propulseurs dans un poste commercial à proximité."
 CURRENT,tutorial_dockingzoomin,2886,Zoom in so that you can see the docking guides more clearly. They are <b>RED</b> diamonds extending from the docking ports.,Effectuez un zoom avant pour voir plus clairement les guides d'ancrage. Ce sont des diamants <b>ROUGES</b> s'étendant depuis les ports d'amarrage.
 CURRENT,tutorial_dockingopenmaneuver,2886,Open the <b>MANEUVERING THRUSTER</b> controls.,Ouvrez les commandes du <b>PROPULSEUR DE MANŒUVRE</b>.
@@ -862,7 +862,7 @@ CURRENT,special_stargatepart3,2793,"Andromeda Project Phases 4, 5","Projet Andro
 CURRENT,dsi_part2_objective_installengines,2793,OPTIONAL: Install engines in the A.J.E Foundry,OPTIONNEL : Installer des moteurs dans la A.J.E Foundry
 CURRENT,settings_dynamiclighting,2675,Use Dynamic Lighting,Utilise un éclairage dynamique
 CURRENT,hud_ftlshipnotviablewarning,2675,Ship needs either hull or scaffolding to be brought into hyperspace,"Le vaisseau doit disposer soit d’une coque, soit d’un échafaudage, pour pouvoir être emmené en hyperespace."
-CURRENT,trade_cancelautotrade,2675,CANCEL AUTO-TRADE,ANNULER AUTO-TRADE
+CURRENT,trade_cancelautotrade,2675,CANCEL AUTO-TRADE,ANNULER COMMERCE AUTO
 CURRENT,hud_collector_tooltip_totalgathered,2675,TOTAL GATHERED,TOTAL COLLECTÉ
 CURRENT,save_cloudsavefailed_header,2639,WARNING: Cloud Save Failed,AVERTISSEMENT : L'enregistrement dans le nuage a échoué
 CURRENT,save_cloudsavefailed_body,2639,"The game failed to save to the cloud, the game has been saved locally instead.\n\nPlease check that you have enough storage in the Steam Cloud and try again.","Le jeu n'a pas réussi à être sauvegardé sur le cloud, le jeu a été sauvegardé localement à la place.\n\nVérifie que tu as suffisamment d'espace de stockage dans le Steam Cloud et réessaie."
@@ -1210,7 +1210,7 @@ CURRENT,mainmenu_title,2448,Main Menu,Menu principal
 CURRENT,mainmenu_newgamea,2448,New Game - Praxis,Nouvelle partie - Praxis
 CURRENT,mainmenu_newgameb,2448,New Game - Sleek,Nouvelle partie - Élégant
 CURRENT,mainmenu_newgamec,2448,New Game - Inner Shapes,Nouvelle partie - Formes intérieures
-CURRENT,mainmenu_newgamed,2448,New Game - Shipyard,Nouvelle partie - Chantier naval
+CURRENT,mainmenu_newgamed,2448,New Game - Shipyard,Nouvelle partie - Chantier spatial
 CURRENT,mainmenu_newgamee,2448,New Game - Large Logistics,Nouvelle partie - Grande Logistique
 CURRENT,mainmenu_savegame,2448,Save Game,Sauvegarder
 CURRENT,mainmenu_loadgame,2448,Load Game,Charger partie
@@ -1342,7 +1342,7 @@ CURRENT,scenario_innershapes,2448,"Another large vessel well suited to combat an
 CURRENT,scenario_largelogistics,2448,"A modular and easily expanded ship design, ideal for interstellar logistics and mining operations. With cabin space for over 50 crew or passengers.","Une conception de vaisseau modulaire et facilement extensible, idéale pour la logistique interstellaire et les opérations minières. Avec un espace cabine pour plus de 50 membres d'équipage ou passagers."
 CURRENT,scenario_carrierfrigate,2448,"A huge community fuselage built by Zion - perfect for any career the Captain desires. The ship benefits from a huge cabin capacity, but is very slow and heavy.","Un immense fuselage communautaire construit par Zion - parfait pour toute carrière souhaitée par le capitaine. Le vaisseau bénéficie d’une énorme capacité de cabine, mais il est très lent et lourd."
 CURRENT,scenario_procyoncruiser,2448,"A community ship built by Orion Industries - a perfect balance of form and function. Decent cabin space and room for equipment, but small and light enough to be fast and nimble.","Un vaisseau communautaire construit par Orion Industries - un équilibre parfait entre forme et fonction. Espace de cabine décent et espace pour l'équipement, mais suffisamment petit et léger pour être rapide et agile."
-CURRENT,scenario_shipyard,2448,"The absolute minimum ship fuselage, but you are docked at a fully operational Shipyard with a generous starting budget to build whatever ship you want from scratch.","Le fuselage du vaisseau est le minimum absolu, mais vous êtes amarré dans un chantier naval pleinement opérationnel avec un budget de départ généreux pour construire le vaisseau de votre choix à partir de zéro."
+CURRENT,scenario_shipyard,2448,"The absolute minimum ship fuselage, but you are docked at a fully operational Shipyard with a generous starting budget to build whatever ship you want from scratch.","Le fuselage du vaisseau est le minimum absolu, mais vous êtes amarré dans un chantier spatial pleinement opérationnel avec un budget de départ généreux pour construire le vaisseau de votre choix à partir de zéro."
 CURRENT,scenario_industry,2448,The Stargate Project demands your help! Industry and Automation take centre stage as you manufacture parts for a megaproject stargate to the Andromeda Galaxy.,Le projet Stargate demande votre aide ! L'industrie et l'automatisation occupent une place centrale lorsque vous fabriquez des pièces pour un mégaprojet porte des étoiles vers la galaxie d'Andromède.
 CURRENT,scenario_crabclaw,2448,"A truly massive ship designed with heavy industry, science and logistics in mind.  Big, slow, and heavy - requiring a massive power grid and engine array.","Un vaisseau vraiment massif conçu pour l’industrie lourde, la science et la logistique.  Gros, lent et lourd – nécessitant un réseau électrique et un ensemble de moteurs massifs."
 CURRENT,scenario_praxis_title,2448,Praxis,Praxis
@@ -1419,7 +1419,7 @@ CURRENT,hud_enabled,2448,Enabled,Activé
 CURRENT,hud_disabled,2448,Disabled,Désactivé
 CURRENT,hud_window_construction,2448,CONSTRUCTION,CONSTRUCTION
 CURRENT,hud_window_designation,2448,DESIGNATION,DÉSIGNATION
-CURRENT,hud_window_shipyard,2448,SHIPYARD,CHANTIER NAVAL
+CURRENT,hud_window_shipyard,2448,SHIPYARD,CHANTIER SPATIAL
 CURRENT,hud_window_trade,2448,TRADE,COMMERCE
 CURRENT,hud_window_missions,2448,CONTRACTS,CONTRATS
 CURRENT,hud_window_power,2448,POWERGRID,RÉSEAU ÉLECTRIQUE
@@ -1461,7 +1461,7 @@ CURRENT,hud_storage_cargo,2448,ANY CARGO,TOUTE CARGAISON
 CURRENT,hud_storage_equipment,2448,ANY EQUIPMENT,TOUT ÉQUIPEMENT
 CURRENT,hud_storage_component,2448,Any Components,Tous les composants
 CURRENT,hud_editor,2448,EDITOR,ÉDITEUR
-CURRENT,hud_shipyard,2448,Shipyard,Chantier naval
+CURRENT,hud_shipyard,2448,Shipyard,Chantier spatial
 CURRENT,hud_shipyard_buildhull,2448,Build Hull,Construire la coque
 CURRENT,hud_shipyard_buildinterior,2448,Build Interior,Construire l'intérieur
 CURRENT,hud_shipyard_buildarmour,2448,Install Armour,Installer l'armure
@@ -1477,7 +1477,7 @@ CURRENT,hud_shipforsale,2448,SHIP FOR SALE,VAISSEAU À VENDRE
 CURRENT,hud_buyship,2448,BUY,ACHETER
 CURRENT,hud_sellship,2448,SELL YOUR SHIP,VENDEZ VOTRE VAISSEAU
 CURRENT,hud_repairship,2448,REPAIR,RÉPARATION
-CURRENT,hud_shipyardservices,2448,SHIPYARD SERVICES,SERVICES DE CHANTIER NAVAL
+CURRENT,hud_shipyardservices,2448,SHIPYARD SERVICES,SERVICES DE CHANTIER SPATIAL
 CURRENT,hud_fabricateship,2448,FABRICATE A SHIP,FABRIQUER UN VAISSEAU
 CURRENT,hud_tooltip_leftclickplace,2448,[LMB] Place,[LMB] Lieu
 CURRENT,hud_tooltip_leftclickbuild,2448,[LMB] Build,[LMB] Construire
@@ -1510,7 +1510,7 @@ CURRENT,hud_mission_collection,2448,WARNING - MISSION COLLECTION UNDERWAY,AVERTI
 CURRENT,hud_layer_unnaned_system,2448,UNNAMED,ANONYME
 CURRENT,hud_trade_incoming,2448,WARNING - TRADE INCOMING,AVERTISSEMENT - COMMERCE ENTRANT
 CURRENT,hud_trade_owed,2448,WARNING - TRADE OWED,AVERTISSEMENT - COMMERCE DÛ
-CURRENT,hud_trade_hint,2448,You must travel to a Colony or Shipyard to trade,Vous devez vous rendre dans une colonie ou un chantier naval pour échanger
+CURRENT,hud_trade_hint,2448,You must travel to a Colony or Shipyard to trade,Vous devez vous rendre dans une colonie ou un chantier spatial pour échanger
 CURRENT,hud_drones_deployed,2448,WARNING - DRONES DEPLOYED: *X,AVERTISSEMENT - DRONES DÉPLOYÉS : *X
 CURRENT,hud_spacewalking_crew,2448,WARNING - CREW IN SPACE: *X,AVERTISSEMENT - ÉQUIPAGE DANS L'ESPACE : *X
 CURRENT,hud_last_ftl_charge,2448,WARNING - LAST FTL CHARGE\nCANNOT BUY AT DESTINATION,AVERTISSEMENT - DERNIÈRE CHARGE FTL\nimpossible d'acheter à destination
@@ -1519,7 +1519,7 @@ CURRENT,hud_invalidplacement_tooltip,2448,This equipment can not function proper
 CURRENT,hud_removefromtrack,2448,[RMB] Remove from track,[RMB] Supprimer de la piste
 CURRENT,communicator_incomingcall,2448,INCOMING HAIL...,APPEL ENTRANT...
 CURRENT,communicator_outgoingcall,2448,CALLING...,APPEL...
-CURRENT,hud_repairyourship,2448,You should repair the damage to your ship at a SHIPYARD.,Vous devez réparer les dommages causés à votre vaisseau dans un CHANTIER NAVAL.
+CURRENT,hud_repairyourship,2448,You should repair the damage to your ship at a SHIPYARD.,Vous devez réparer les dommages causés à votre vaisseau dans un CHANTIER SPATIAL.
 CURRENT,speed_paused,2448,PAUSED,EN PAUSE
 CURRENT,speed_slow,2448,SLOW,LENT
 CURRENT,welfare_overlay_severely_dehydrated,2448,CREW SEVERELY DEHYDRATED,ÉQUIPAGE GRAVEMENT DÉSHYDRATÉ
@@ -1554,7 +1554,7 @@ CURRENT,equipment_storagecrate_permitcrewunload,2448,CREW UNLOADING,DÉCHARGEMEN
 CURRENT,factory_stockpileoutput,2448,STOCKPILE,STOCKER
 CURRENT,factory_stockpileoutput_tooltip,2448,"STOCKPILE\n\nWhen ticked, the produced items will be immediately unloaded into any cargo storage area, stockpiling the item.\n\nIf unticked, the produced item will remain until it is used somewhere, or until there is specific cargo space available.","STOCKER\n\nQuand cette option est cochée, les objets produits sont immédiatement déchargés vers n’importe quelle zone de stockage de cargaison, afin de constituer un stock.\n\nQuand elle n’est pas cochée, l’objet produit reste sur place jusqu’à être utilisé quelque part, ou jusqu’à ce qu’un espace de cargaison spécifique soit disponible."
 CURRENT,shipeditor_commit,2448,CONFIRM,CONFIRMER
-CURRENT,shipeditor_shipyardrequired1,2448,You must visit a Shipyard,Vous devez visiter un chantier naval
+CURRENT,shipeditor_shipyardrequired1,2448,You must visit a Shipyard,Vous devez visiter un chantier spatial
 CURRENT,shipeditor_shipyardrequired2,2448,to apply your modifications,pour appliquer vos modifications
 CURRENT,shipeditor_mode_hull,2448,Hull,Coque
 CURRENT,shipeditor_tooltip_hull,2448,Modify the shape of your spaceship hull,Modifiez la forme de la coque de votre vaisseau spatial
@@ -1600,7 +1600,7 @@ CURRENT,galaxymap_civilians,2448,CIVILIANS,CIVILS
 CURRENT,galaxymap_noescape,2448,NO ESCAPE,AUCUNE ISSUE
 CURRENT,galaxymap_colony,2448,COLONY,COLONIE
 CURRENT,galaxymap_starbase,2448,STARBASE,BASE STELLAIRE
-CURRENT,galaxymap_shipyard,2448,SHIPYARD,CHANTIER NAVAL
+CURRENT,galaxymap_shipyard,2448,SHIPYARD,CHANTIER SPATIAL
 CURRENT,galaxymap_distresscall,2448,DISTRESS CALL,APPEL DE DÉTRESSE
 CURRENT,galaxymap_derelict,2448,DERELICT,ABANDONNÉ
 CURRENT,galaxymap_hostile,2448,HOSTILES,HOSTILES
@@ -1943,7 +1943,7 @@ CURRENT,mission_industry_description4,2448,Then drop the Ore off at any trading 
 CURRENT,mission_industry_requirements,2448,"This contract requires a suitable mining vessel, equipped with Mining Lasers and Logistics Drones.","Ce contrat nécessite un vaisseau minier adapté, équipé de lasers miniers et de drones logistiques."
 CURRENT,mission_industry_accepted1,2448,We've marked the asteroid belt location on your map.,Nous avons marqué l'emplacement de la ceinture d'astéroïdes sur votre carte.
 CURRENT,mission_industry_gathered,2448,You have *X Tilium ore on this ship (We need *Y),Vous avez *X minerai de Tilium sur ce vaisseau (nous avons besoin de *Y)
-CURRENT,mission_industry_return,2448,Return to a colony or shipyard system to deliver the Tilium.,Retournez dans une colonie ou un chantier naval pour livrer le Tilium.
+CURRENT,mission_industry_return,2448,Return to a colony or shipyard system to deliver the Tilium.,Retournez dans une colonie ou un chantier spatial pour livrer le Tilium.
 CURRENT,mission_industry_received,2448,We have received *X Tilium out of a total of *Y. Total payment due $*Z.,Nous avons reçu *X Tilium sur un total de *Y. Paiement total dû $*Z.
 CURRENT,mission_industry_meteorshower,2448,WARNING: There are reports of a meteor shower in that system. (+50% pay).,AVERTISSEMENT : des rapports font état d'une pluie de météores dans ce système. (+50% de salaire).
 CURRENT,mission_industry_hostiles,2448,WARNING: There are hostile forces camped out near the asteroid belt. (+50% pay),AVERTISSEMENT : des forces hostiles campent près de la ceinture d'astéroïdes. (+50% salaire)
@@ -1996,7 +1996,7 @@ CURRENT,mission_sectorevacuate_description,2448,"There are *X civilians stranded
 CURRENT,mission_sectorevacuate_description2,2448,"Travel to their star systems and pick them up, and house them temporarily in your fleet.","Voyagez vers leurs systèmes stellaires, récupérez-les et hébergez-les temporairement dans votre flotte."
 CURRENT,mission_sectorevacuate_description3,2448,Transport them safely to the next sector and drop them off at the first starbase to complete the objective.,Transportez-les en toute sécurité vers le secteur suivant et déposez-les à la première base stellaire pour atteindre l'objectif.
 CURRENT,mission_sectorevacuate_requirements,2448,Your ship will need enough free cabins in your habitation deck.,Votre vaisseau aura besoin de suffisamment de cabines gratuites sur votre pont d'habitation.
-CURRENT,mission_sectorevacuate_requirements2,2448,(You can expand your hab deck at a Shipyard using the Ship Editor),(Vous pouvez étendre votre deck d'hab dans un chantier naval à l'aide de l'éditeur de vaisseau)
+CURRENT,mission_sectorevacuate_requirements2,2448,(You can expand your hab deck at a Shipyard using the Ship Editor),(Vous pouvez étendre votre deck d'hab dans un chantier spatial à l'aide de l'éditeur de vaisseau)
 CURRENT,mission_sectorevacuate_payment,2448,The total payment for rescuing all *X civilians will be $*Y,Le paiement total pour le sauvetage de tous les *X civils sera de $*Y.
 CURRENT,mission_sectorevacuate_received,2448,*X out of *Y civilians have been collected.,*X civils sur *Y ont été collectés.
 CURRENT,mission_sectorevacuate_died,2448,*X civilians have been killed during the evacuation.,*X civils ont été tués lors de l'évacuation.
@@ -2149,7 +2149,7 @@ CURRENT,object_telepathicsensor,2448,Telepathic Sensor Station,Station de capteu
 CURRENT,object_telepathicsensor_description,2448,A sensor capable of detecting telepathic waves.,Un capteur capable de détecter les ondes télépathiques.
 CURRENT,object_missioncargo,2448,Mission Cargo,Mission Cargaison
 CURRENT,object_repairstructure,2448,Repair Structural Damage,Réparer les dommages structurels
-CURRENT,object_repairstructure_description,2448,"The local shipyard can repair the heavy structural damage on your ship, for a price.","Le chantier naval local peut réparer les lourds dommages structurels de votre vaisseau, moyennant un certain prix."
+CURRENT,object_repairstructure_description,2448,"The local shipyard can repair the heavy structural damage on your ship, for a price.","Le chantier spatial local peut réparer les lourds dommages structurels de votre vaisseau, moyennant un certain prix."
 CURRENT,object_scrapmetal,2448,Scrap Metal,Ferraille
 CURRENT,object_metalingot,2448,Metal Ingot,Lingot De Métal
 CURRENT,object_preciousore,2448,Precious Ore,Minerai précieux
@@ -2447,7 +2447,7 @@ CURRENT,tutorial_wrapupfinal,2448,"Whatever you choose, more instructions will b
 CURRENT,tutorial_tutorialend,2448,[End of tutorial - Alpha 11],[Fin du tutoriel - Alpha 11]
 CURRENT,tutorial_tutorialskip,2448,Are you sure you wish to skip the tutorial?,Êtes-vous sûr de vouloir ignorer le didacticiel ?
 CURRENT,tutorial_tutorialskipyes,2448,SKIP TUTORIAL,PASSER LE TUTORIEL
-CURRENT,tutorial_tutorialskipno,2448,RESUME TUTORIAL,TUTORIEL DE CV
+CURRENT,tutorial_tutorialskipno,2448,RESUME TUTORIAL,CONTINUER LE TUTORIEL
 CURRENT,tutorial_resin_title,2448,GAS COLLECTORS,COLLECTEURS DE GAZ
 CURRENT,tutorial_end_title,2448,END OF TUTORIAL,FIN DU TUTORIEL
 CURRENT,tutorial_docking_title,2448,DOCKING,ACCUEIL
@@ -2500,14 +2500,14 @@ CURRENT,calltoarms_harken_5,2448,"Thank you, Captain.","Merci, Capitaine."
 CURRENT,calltoarms_harkenrailroad_1,2448,"My name is Commander Harken, and I'm the Chief of Private Security for the sector.",Je suis le Commandant Harken et je suis le chef de la sécurité privée du secteur.
 CURRENT,calltoarms_harkenrailroad_3,2448,We've recieved reports of a shipwreck nearby. I believe it to be the wreckage of THE INTERSTELLAR PROSPECTOR - a large commercial vessel that went missing yesterday.,"Nous avons reçu des informations faisant état d'un naufrage à proximité. Je crois qu'il s'agit de l'épave du INTERSTELLAR PROSPECTOR, un grand vaisseau commercial qui a disparu hier."
 CURRENT,calltoarms_harkenrailroad_4,2448,Travel to the shipwreck and look for a Black Box Flight Recorder in the wreckage.  This device will contain a log of their final moments.,Rendez-vous à l'épave et cherchez un enregistreur de vol parmi les débris.  Cet appareil contiendra un journal de leurs derniers instants.
-CURRENT,calltoarms_harkenrailroad_5,2448,To collect the flight recorder you'll need to install a DRONE BAY and at least one LOGISTICS DRONE. You can buy them from any Shipyard or Colony.,"Pour récupérer l'enregistreur de vol, vous devrez installer une BAIE DE DRONE et au moins un DRONE LOGISTIQUE. Vous pouvez les acheter dans n'importe quel chantier naval ou colonie."
+CURRENT,calltoarms_harkenrailroad_5,2448,To collect the flight recorder you'll need to install a DRONE BAY and at least one LOGISTICS DRONE. You can buy them from any Shipyard or Colony.,"Pour récupérer l'enregistreur de vol, vous devrez installer une BAIE DE DRONE et au moins un DRONE LOGISTIQUE. Vous pouvez les acheter dans n'importe quel chantier spatial ou colonie."
 CURRENT,wolf_episode_title,2448,Wolf In Sheep's Clothing,Loup déguisé en mouton
 CURRENT,wolf_part1_title,2448,A Wolf in Sheep's Clothing,Un loup déguisé en mouton
 CURRENT,wolf_character_harken,2448,Commander Harken,Commandant Harken
 CURRENT,wolf_character_harken_short,2448,CMDR HARKEN,CMDR HARKEN
 CURRENT,wolf_part1_intro1,2448,"My name is Commander Harken, and I'm the Chief of Private Security for the sector.",Je m'appelle Commandant Harken et je suis le chef de la sécurité privée du secteur.
 CURRENT,wolf_part1_intro2,2448,"You have found the remains of the Interstellar Prospector. Please bring its Black Box Flight Recorder to me, and I will explain more.","Vous avez trouvé les restes du Prospecteur Interstellaire. Veuillez m'apporter son Enregistreur de Vol, et je vous en expliquerai davantage."
-CURRENT,wolf_part1_intro3,2448,"In order to collect the Flight Recorder you will need Drones, launched from a Drone Bay on your ship.  If you don't already have this equipment, you'll need to buy at least one DRONE BAY, and at least one LOGISTICS DRONE, from any colony or shipyard.","Afin de récupérer l'enregistreur de vol, vous aurez besoin de drones, lancés depuis une baie de drones sur votre vaisseau.  Si vous ne possédez pas déjà cet équipement, vous devrez acheter au moins une BAIE DE DRONE et au moins un DRONE LOGISTIQUE, dans n'importe quelle colonie ou chantier naval."
+CURRENT,wolf_part1_intro3,2448,"In order to collect the Flight Recorder you will need Drones, launched from a Drone Bay on your ship.  If you don't already have this equipment, you'll need to buy at least one DRONE BAY, and at least one LOGISTICS DRONE, from any colony or shipyard.","Afin de récupérer l'enregistreur de vol, vous aurez besoin de drones, lancés depuis une baie de drones sur votre vaisseau.  Si vous ne possédez pas déjà cet équipement, vous devrez acheter au moins une BAIE DE DRONE et au moins un DRONE LOGISTIQUE, dans n'importe quelle colonie ou chantier spatial."
 CURRENT,wolf_part1_setupcall1,2448,"Thank you for returning the flight recorder, Captain.","Merci d'avoir rendu l'enregistreur de vol, Capitaine."
 CURRENT,wolf_part1_setupcall1b,2448,"We are in the grip of a major crisis.  Commercial vessels laden with valuable cargo are being targeted and destroyed.  These vessels are under our protection - but often lack any serious defenses, and barely have a chance to send out a distress call before they are plundered.  This is a calculated assault on the free market trade and industry within this sector, and cannot be allowed to continue.","Nous sommes en proie à une crise majeure.  Les vaisseaux commerciaux chargés de marchandises de valeur sont pris pour cible et détruits.  Ces vaisseaux sont sous notre protection, mais manquent souvent de défenses sérieuses et ont à peine la possibilité d'envoyer un appel de détresse avant d'être pillés.  Il s’agit d’une attaque calculée contre le libre-échange et l’industrie dans ce secteur, et on ne peut pas permettre qu’elle se poursuive."
 CURRENT,wolf_part1_setupcall2,2448,"I'm sending you the coordinates of two more stricken vessels, pinpointing their last known locations before they went dark.  We need you to travel to the wreckage of each of these ships, and collect whatever evidence you can.","Je vous envoie les coordonnées de deux autres vaisseaux en détresse, localisant leurs derniers emplacements connus avant qu'ils ne sombrent.  Nous avons besoin que vous vous rendiez jusqu'à l'épave de chacun de ces vaisseaux et que vous récupériez toutes les preuves possibles."
@@ -2550,7 +2550,7 @@ CURRENT,wolf_part1_completion1,2448,"We've analysed the black box recordings and
 CURRENT,wolf_part1_completion2,2448,Most likely to be sold for vast profits to the Stargate Project - who don't seem keen to ask questions.,Très probablement vendu pour d'énormes profits au projet Stargate - qui ne semble pas disposé à poser de questions.
 CURRENT,wolf_part1_completion3,2448,So far they haven't left a single living witness. But the sensor data tells the full story. We've manged to extract another sensor image of the attacker.,"Jusqu’à présent, ils n’ont laissé aucun témoin vivant. Mais les données des capteurs racontent toute l’histoire. Nous avons réussi à extraire une autre image de capteur de l'attaquant."
 CURRENT,wolf_part1_completion4,2448,"It's another grainy photograph, but it's all we have to go on.  This is without doubt the vessel responsible for all this death and destruction.","C'est à nouveau une photo granuleuse, mais c'est tout ce dont nous avons besoin.  C'est sans aucun doute le vaisseau responsable de toutes ces morts."
-CURRENT,wolf_part1_completion6,2448,"In the mean time, we suggest you tend to your ships. If you've taken damage, you can repair the hull at any SHIPYARD. Use the funds we've sent to upgrade your defenses.","En attendant, nous vous suggérons de vous occuper de vos vaisseaux. Si vous avez subi des dégâts, vous pouvez réparer la coque dans n'importe quel CHANTIER NAVAL. Utilisez les fonds que nous vous avons envoyés pour améliorer vos défenses."
+CURRENT,wolf_part1_completion6,2448,"In the mean time, we suggest you tend to your ships. If you've taken damage, you can repair the hull at any SHIPYARD. Use the funds we've sent to upgrade your defenses.","En attendant, nous vous suggérons de vous occuper de vos vaisseaux. Si vous avez subi des dégâts, vous pouvez réparer la coque dans n'importe quel CHANTIER SPACTIAL. Utilisez les fonds que nous vous avons envoyés pour améliorer vos défenses."
 CURRENT,wolf_character_ryker,2448,Captain Amelia Ryker,Capitaine Amélia Ryker
 CURRENT,wolf_shipname_rescue,2448,Orion Sentinel,Orion Sentinel
 CURRENT,wolf_shipname_pirate,2448,Unidentified Pirate,Pirate non identifié
@@ -2572,8 +2572,8 @@ CURRENT,wolf_part2_inperson_distress4,2448,"To rescue my crew you'll need to get
 CURRENT,wolf_part2_inperson_distress5,2448,I'll get the crew ready to evacuate. Please hurry!,"Je vais préparer l'équipage à évacuer. S'il vous plaît, dépêchez-vous !"
 CURRENT,wolf_part2_objective_dock,2448,Dock with the UMC Orion Sentinel,Amarrez-vous à l'UMC Orion Sentinel
 CURRENT,wolf_part2_inperson_distress7,2448,"I'll try and buy you a few more seconds, but it's going to go critical any moment.  Get to a safe distance as soon as you can, Captain.  Save my crew!","Je vais essayer de vous gagner quelques secondes de plus, mais ça va devenir critique à tout moment.  Mettez-vous à distance de sécurité dès que possible, Capitaine.  Sauvez mon équipage !"
-CURRENT,wolf_part2_dropoff2,2448,"In the mean time, take the survivors to the nearest shipyard or colony and drop them off there to close the contract.","En attendant, emmenez les survivants au chantier naval ou à la colonie la plus proche et déposez-les là-bas pour conclure le contrat."
-CURRENT,wolf_part2_objective_dropoff,2448,Drop off the survivors at any shipyard or colony [*X/*Y],Déposez les survivants dans n'importe quel chantier naval ou colonie [*X/*Y]
+CURRENT,wolf_part2_dropoff2,2448,"In the mean time, take the survivors to the nearest shipyard or colony and drop them off there to close the contract.","En attendant, emmenez les survivants au chantier spatial ou à la colonie la plus proche et déposez-les là-bas pour conclure le contrat."
+CURRENT,wolf_part2_objective_dropoff,2448,Drop off the survivors at any shipyard or colony [*X/*Y],Déposez les survivants dans n'importe quel chantier spatial ou colonie [*X/*Y]
 CURRENT,wolf_part2_debrief2,2448,Regrettably I must inform you Captain Ryker does not appear to be among the survivors.  Her sacrifice will be remembered.,"Malheureusement, je dois vous informer que le capitaine Ryker ne semble pas faire partie des survivants.  Son sacrifice restera gravé dans les mémoires."
 CURRENT,wolf_part2_debrief3,2448,"We don't know when or where the pirate vessel will strike again. But we must be prepared.  The more we analyse their attacks, the more obvious the pattern becomes.","Nous ne savons pas quand ni où le bateau pirate frappera à nouveau. Mais nous devons être préparés.  Plus nous analysons leurs attaques, plus la tendance devient évidente."
 CURRENT,wolf_part2_rescued,2448,Rescued *X/*Y crew,Équipage *X/*Y sauvé
@@ -2592,11 +2592,11 @@ CURRENT,blackhole_part1_setup6b,2448,"Using a modified FTL Drive you'll do one h
 CURRENT,blackhole_part1_setup7b,2448,You'll then need to use a Loader to start unloading the isotopes into containers.,Vous devrez ensuite utiliser un chargeur pour commencer à décharger les isotopes dans des conteneurs.
 CURRENT,blackhole_part1_setup8,2448,I'm building the Hyperspace FTL drive that will allow you to perform the hop.  It's going to need some modifications.  I'll need you to manufacture some parts for me. I know you have manufacturing facilities near the Stargate project.  You should be able to make these parts for me without too much trouble.,Je construis le moteur Hyperespace FTL qui vous permettra d'effectuer le saut.  Cela va nécessiter quelques modifications.  J'aurai besoin que vous fabriquiez quelques pièces pour moi. Je sais que vous avez des installations de fabrication à proximité du projet Stargate.  Vous devriez pouvoir me fabriquer ces pièces sans trop de problèmes.
 CURRENT,blackhole_part1_setup9,2448,"Bring those materials back to me, and we can move onto phase 2.",Rapportez-moi ces ressources et nous pourrons passer à la phase 2.
-CURRENT,blackhole_objective_scoop,2448,Acquire a Hyperspace Scoop,Acquérir un collecteur hyperspacial
+CURRENT,blackhole_objective_scoop,2448,Acquire a Hyperspace Scoop,Acquérir un collecteur hyperspatial
 CURRENT,blackhole_objective_isotopes,2448,Collect Hyperspace Isotopes [*X/*Y],Collectez des isotopes hyperespaciaux [*X/*Y]
 CURRENT,blackhole_objective_containers,2448,Unload the Hyperspace Isotopes into Containers [*X/*Y]. *Z Containers used,Déchargez les isotopes de l'hyperespace dans des conteneurs [*X/*Y]. *Z Conteneurs utilisés
 CURRENT,blackhole_objective_modulators,2448,Manufacture Hyperspace Modulators [*X/*Y],Fabriquer des modulateurs hyperspatiaux [*X/*Y]
-CURRENT,blackhole_part1_hintisotopes1,2448,Looks like you have a Hyperspace Scoop!  You can use this to gather the Hyperspace Isotopes I need.,On dirait que vous avez un Collecteur Hyperspacial !  Vous pouvez l'utiliser pour rassembler les isotopes hyperespaciaux dont j'ai besoin.
+CURRENT,blackhole_part1_hintisotopes1,2448,Looks like you have a Hyperspace Scoop!  You can use this to gather the Hyperspace Isotopes I need.,On dirait que vous avez un Collecteur Hyperspatial !  Vous pouvez l'utiliser pour rassembler les isotopes hyperespaciaux dont j'ai besoin.
 CURRENT,blackhole_part1_hintisotopes2,2448,"You'll need to install the Scoop facing forward on the front of your ship, then connect its pipe output to a storage tank.","Vous devrez installer le Collecteur face vers l'avant à la Proue de votre vaisseau, puis connecter sa sortie à un réservoir de stockage."
 CURRENT,blackhole_part1_hintisotopes3,2448,The Scoop works only when you are in hyperspace. So you'll need to gather the isotopes over a few FTL jumps.,Le Collecteur ne fonctionne que lorsque vous êtes en hyperespace. Vous devrez donc rassembler les isotopes en quelques sauts FTL.
 CURRENT,blackhole_part1_hintunloading1,2448,You've collected some Hyperspace Isotopes in a tank! You'll need to pump them into Containers so we can easily move them between ships.,Vous avez collecté des isotopes de l'hyperespace dans un réservoir ! Vous devrez les pomper dans des conteneurs afin que nous puissions les déplacer facilement entre les vaisseaux.
@@ -2697,7 +2697,7 @@ CURRENT,wolf_part3_setup8,2448,Remember - the pirate vessel will not show themse
 CURRENT,wolf_part3_uninstallweapons1,2448,The pirates won't take the bait if they see you armed!,Les pirates ne mordront pas à l'hameçon s'ils vous voient armé !
 CURRENT,wolf_part3_uninstallweapons2,2448,Uninstall your weapons before jumping again.,Désinstallez vos armes avant de sauter à nouveau.
 CURRENT,wolf_part3_otherships1,2448,There are other ships in this system. The pirates won't attack you unless they see the cargo ship alone!,Il existe d'autres vaisseaux dans ce système. Les pirates ne vous attaqueront que s'ils voient le cargo seuls !
-CURRENT,wolf_part3_otherships2,2448,Try avoiding busy systems with colonies or shipyards.,Essayez d'éviter les systèmes occupés avec des colonies ou des chantiers navals.
+CURRENT,wolf_part3_otherships2,2448,Try avoiding busy systems with colonies or shipyards.,Essayez d'éviter les systèmes occupés avec des colonies ou des chantiers spatiaux.
 CURRENT,wolf_part3_episodesystem1,2448,We have received intel that this system is too special to risk luring the pirate here.,Nous avons reçu des informations selon lesquelles ce système est trop spécial pour risquer d'attirer le pirate ici.
 CURRENT,wolf_part3_episodesystem2,2448,Try to avoid systems with other important activity.,Essayez d'éviter les systèmes avec d'autres activités importantes.
 CURRENT,wolf_part3_emptysystem1,2448,This system is exactly the kind where the pirates might attack.,Ce système est exactement le genre de système que les pirates pourraient attaquer.
@@ -2935,7 +2935,7 @@ CURRENT,rise_foundship4,2448,They're all dead.,Ils sont tous morts.
 CURRENT,rise_foundship5,2448,Could it have been some sort of catastrophic accident?,Serait-ce une sorte d’accident catastrophique ?
 CURRENT,rise_foundship7,2448,"Your crew will repair the reactors and power up the ship. Once they're done, bring the ship back to spacedock. I need to do a proper forensic investigation.","Votre équipage réparera les réacteurs et mettra le vaisseau sous tension. Une fois qu'ils ont terminé, ramenez le vaisseau au quai spatial. Je dois faire une enquête médico-légale appropriée."
 CURRENT,rise_objective_repairreactors,2448,Wait for Reactor Repair [*X/3],Attendez la réparation du réacteur [*X/3]
-CURRENT,rise_objective_recovership,2448,Transfer the ship to a Shipyard for analysis,Transférer le vaisseau à un chantier naval pour analyse
+CURRENT,rise_objective_recovership,2448,Transfer the ship to a Shipyard for analysis,Transférer le vaisseau à un chantier spatial pour analyse
 CURRENT,rise_ai_name,2448,core.nav.ai,core.nav.ai
 CURRENT,rise_aicall1,2448,The ship's computer is coming online now.,L'ordinateur du vaisseau est maintenant en ligne.
 CURRENT,rise_aicall2,2448,We should be able to get some answers. Have your crew start a data transfer so we can get the flight logs.,Nous devrions pouvoir obtenir des réponses. Demandez à votre équipage de démarrer un transfert de données afin que nous puissions obtenir les journaux de vol.
