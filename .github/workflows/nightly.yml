@@ -26,20 +26,9 @@ jobs:
       run: |
         version=`cat version`
         cp ../README.md ./README.md
-        zip -r -v ../LastStarshipTranslations_${version}_nightly.zip data/ README.md
-        unzip -l ../LastStarshipTranslations_${version}_nightly.zip
+        zip -r -v ../LastStarshipTranslations_nightly.zip data/ README.md
+        unzip -l ../LastStarshipTranslations_nightly.zip
       working-directory: ./latest
-
-    - name: Package legacy translations
-      run: |
-        for d in */ ; do
-          pushd "$d"
-          cp ../../README.md ./README.md
-          zip -r -v "../../LastStarshipTranslations_${d%/}_nightly.zip" data/ README.md
-          unzip -l "../../LastStarshipTranslations_${d%/}_nightly.zip"
-          popd
-        done
-      working-directory: ./legacy
 
     - name: List files
       run: ls -R
@@ -53,7 +42,7 @@ jobs:
       uses: ncipollo/release-action@main
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        artifacts: "LastStarshipTranslations_*_nightly.zip"
+        artifacts: "LastStarshipTranslations_nightly.zip"
         tag: "nightly"
         commit: ${{ github.ref_name }}
         prerelease: true
