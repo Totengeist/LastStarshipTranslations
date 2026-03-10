@@ -33,7 +33,7 @@ CURRENT,logistics_status_buynosupply,3472,Bought *X R*Y for $*Z out of the *P de
 CURRENT,logistics_status_sellnosupply,3472,Sold *X R*Y for $*Z out of the *P desired - insufficient cargo,İstenen *P dışında $*Z için *X R*Y satıldı - yetersiz kargo
 CURRENT,logistics_status_miningstacks,3472,Mined *X R*Y (*Z stacks),Maden *X R*Y (*Z yığınları)
 CURRENT,logistics_status_collectcontainers,3472,Collected *X R*Y (*Z containers),Toplanan *X R*Y (*Z konteynerler)
-CURRENT,wolf_part2_objective_escape,3472,Undock and get to a safe distance before the Orion Sentinel explodes,Orion Sentinel patlamadan önce limandan çık ve güvenli bir mesafeye git
+CURRENT,wolf_part2_objective_escape,3472,Undock and get to a safe distance before the Orion Sentinel explodes,Orion Sentinel patlamadan önce bağlantıyı kes ve güvenli bir mesafeye git
 CURRENT,settings_motionsicknessmode,3400,Motion Sickness Mode,Hareket Hastalığı Modu
 CURRENT,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.","Arka plan rotasyonu kaldırıldı, bu da oyun içinde hareket hastalığı yaşıyorsanız yardımcı olacaktır."
 CURRENT,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition","Gemiler arasında geçiş yaparken, geçişi atlayın"
@@ -57,7 +57,7 @@ CURRENT,logistics_tooltip_extrastoggleshow,3400,Show extra options for this orde
 CURRENT,logistics_tooltip_extrastogglehide,3400,Hide extra options for this order,Bu sipariş için ekstra seçenekleri gizle
 CURRENT,logistics_tooltip_extrastogglenone,3400,No extra options available,Ekstra seçenek mevcut değil
 CURRENT,alert_type_failedtofindsuit,3400,SPACESUITS REQUIRED,Uzay Giysileri Gerekli
-CURRENT,alert_type_failedtofindsuit_caption,3400,*X crew members need spacesuits.,*X mürettebat üyelerinin uzay giysilerine ihtiyacı var.
+CURRENT,alert_type_failedtofindsuit_caption,3400,*X crew members need spacesuits.,*X mürettebatın uzay giysisine ihtiyacı var.
 CURRENT,objective_travel_to_location,3400,Travel to S*X,Seyahat S*X
 CURRENT,logistics_item_none,3400,SELECT ITEM,ÖĞE SEÇİNİZ
 CURRENT,wolf_part1_objective_drones,3400,Install a Drone Bay and have at least one Logistics Drone,Bir Drone Körfezi kurun ve en az bir Lojistik Drone'a sahip olun
@@ -72,7 +72,7 @@ CURRENT,logistics_log_skipped,3339,Skipped order,Atlanan sipariş
 CURRENT,hud_ftlshipcontrolledbylogistics,3331,Ship is controlled by interstellar logistics,Gemi yıldızlararası lojistik tarafından kontrol ediliyor
 CURRENT,newmainmenu_invalidsavename,3329,Invalid Save Name,Geçersiz Kaydetme Adı
 CURRENT,newmainmenu_invalidcharacters_caption,3329,Save name contains invalid characters.,Kayıt adı geçersiz karakterler içeriyor.
-CURRENT,newmainmenu_autosavenameinvalid_caption,3329,Save name reserved for autosaves.,Otomatik kaydetmeler için ayrılmış kaydetme adı.
+CURRENT,newmainmenu_autosavenameinvalid_caption,3329,Save name reserved for autosaves.,Bu kayıt adı otomatik kayıtlar için ayrılmıştır.
 CURRENT,galaxymap_darkmode,3329,Dark Mode,Karanlık Mod
 CURRENT,galaxymap_lightmode,3329,Light Mode,Işık Modu
 CURRENT,techtree_queue,3329,Queue Research,Kuyruk Araştırması
@@ -209,7 +209,7 @@ CURRENT,logistics_status_notlooping,3239,Finished execution (not looping),Yürü
 CURRENT,order_advancedlogistics,3239,Interstellar Logistics,Yıldızlararası Lojistik
 CURRENT,mission_objective_done,3239,DONE,BİTTİ
 CURRENT,alert_type_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,YILDIZLARARASI LOJISTIK
-CURRENT,alert_type_interstellarlogistics_caption,3239,Orders stuck,Siparişler takıldı
+CURRENT,alert_type_interstellarlogistics_caption,3239,Orders stuck,Siparişler yürütülemiyor
 CURRENT,stargate_startandromedajump,3239,TEST ANDROMEDA JUMP,TEST ANDROMEDA ATLAYIŞI
 CURRENT,stargate_power_tooltip,3239,POWER REQUIRED: *X MW,GEREKLI GÜÇ: *X MW
 CURRENT,stargate_distance_travelled,3239,*X kly REMAINING,*X kly KALAN
@@ -297,7 +297,7 @@ CURRENT,bravenewsector_part2_x4,3239,"Please don't let that happen Captain. So m
 CURRENT,bravenewsector_part2_x5,3239,Please use it if they restrict the use of the Stargate for their own gain.,Kendi çıkarları için Yıldız Geçidi'nin kullanımını kısıtlıyorlarsa lütfen bunu kullanın.
 CURRENT,blackhole_part1_setup7,3239,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop and a tank to store the isotopes in first.","İhtiyacımız olan kaynakları sentezlemek için malzemelere ihtiyacım var.  Ben hesaplamalar üzerinde çalışırken sen de bana bu konuda yardımcı olabilirsin. Hiperuzay İzotoplarına ihtiyacım var - bunları kolayca toplayabilirsin, ancak önce bir Hyperspace Scoop ve izotopları depolamak için bir tank edinmen gerekecek."
 CURRENT,stargate_power_fraction,3239,*X / *Y MW,*X / *Y MW
-CURRENT,settings_credits,3149,CREDITS,KREDİLER
+CURRENT,settings_credits,3149,CREDITS,EMEĞİ GEÇENLER
 CURRENT,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,Etkinleştirildiğinde oyun Steam Cloud'a kaydedilecektir. Kaydetme başarısız olursa bir uyarı gösterilecektir.
 CURRENT,newmainmenu_saveoptions,3149,Save Options,Kayit Seçenekleri
 CURRENT,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] Döşeme stilini değiştir
@@ -327,7 +327,7 @@ CURRENT,trade_order_sack_on_buy_screen,3149,(SACK *X),(ÇUVAL *X)
 CURRENT,techtree_researchpercent,3149,*X% Complete,*Xtamamlandı
 CURRENT,tooltip_efficiency,3149,Efficiency +*X%,Verimlilik +*X%
 CURRENT,tooltip_activating,3149,Activating +*X%,Etkinleştirme +*X%
-CURRENT,alert_type_lowdeuterium,3149,LOW DEUTERIUM,DÜŞÜK Döteryum
+CURRENT,alert_type_lowdeuterium,3149,LOW DEUTERIUM,DÜŞÜK DÖTERYUM
 CURRENT,stargate_unknowncomponent,3149,Unknown Component,Bilinmeyen Bileşen
 CURRENT,stargate_unknowncomponent_description,3149,Unlock this component through research!,Araştırma yaparak bu bileşenin kilidini açın!
 CURRENT,creditstitle_builders,3149,Ship Builders,Gemi İnşaatçıları
@@ -347,7 +347,7 @@ CURRENT,techtree_node_caption_metallurgyrepeatable,3054,Spend research credits t
 CURRENT,mainmenu_gamemode_arena,3054,Arena,Arena
 CURRENT,mainmenu_gamemode_arena_tooltip,3054,Create epic space battles between fleets of ships and watch the carnage unfold.,Gemi filoları arasında destansı uzay savaşları yaratın ve katliamın ortaya çıkışını izleyin.
 CURRENT,mainmenu_arena_caption,3054,Create epic space battles between fleets of ships and watch the carnage unfold.,Gemi filoları arasında destansı uzay savaşları yaratın ve katliamın ortaya çıkışını izleyin.
-CURRENT,settings_autosaves,3054,AUTOSAVES,OTOMATİK KAYITLAR
+CURRENT,settings_autosaves,3054,AUTOSAVES,OTOMATİK KAYIT
 CURRENT,settings_autosaveonftl,3054,Auto-save when leaving FTL,FTL'den çıkarken otomatik kaydetme
 CURRENT,settings_autosaveontimeinterval,3054,Auto-save on time interval,Zaman aralığında otomatik kaydetme
 CURRENT,settings_autosaveinterval,3054,Auto-save Interval,Otomatik Kaydetme Aralığı
@@ -439,9 +439,9 @@ CURRENT,object_emptycrystalcomponent,3054,Empty Crystal,Boş Kristal
 CURRENT,object_chargedcrystal,3054,Charged Crystal,Yüklü Kristal
 CURRENT,loader_auto,3054,AUTO,OTOMATİK
 CURRENT,alert_type_abouttoautosave,3054,AUTOSAVE,OTOMATİK KAYDET
-CURRENT,alert_type_abouttoautosave_caption,3054,Autosaving in *X...,*X adresinde otomatik tasarruf ...
+CURRENT,alert_type_abouttoautosave_caption,3054,Autosaving in *X...,*X saniye sonra otomatik olarak kaydedilecek ...
 CURRENT,alert_type_emp,3054,EMP,EMP
-CURRENT,alert_type_emp_caption,3054,*X piece(s) disabled,*X parça(lar) devre dışı
+CURRENT,alert_type_emp_caption,3054,*X piece(s) disabled,*X birim devre dışı
 CURRENT,alert_type_emp_tooltip,3054,"Your ship has been struck by lightning, temporarily disabling some of your equipment.",Geminize yıldırım çarptı ve bazı ekipmanlarınızı geçici olarak devre dışı bıraktı.
 CURRENT,tutorial_radiation_title,3054,RADIATION,RADYASYON
 CURRENT,tutorial_radiationintro,3054,We are going to learn about radiation.,Radyasyon hakkında bilgi edineceğiz.
@@ -569,7 +569,7 @@ CURRENT,stargatesectorwarning_harken_3,3054,"Who knows what you may find out her
 CURRENT,techtree_node_caption_hydroponicsrepeatable,3054,Spend research credits to continually increase our crop yield.,Ürün verimimizi sürekli olarak artırmak için araştırma kredileri harcayın.
 CURRENT,keybinding_alttool,2886,Alt Editor Tool,Alt Editör Aracı
 CURRENT,keybinding_translatorwindow,2886,Translator Window,Çevirmen Penceresi
-CURRENT,newmainmenu_autosavewarning,2886,Auto-save load warning,Otomatik kaydetme yük uyarısı
+CURRENT,newmainmenu_autosavewarning,2886,Auto-save load warning,Otomatik kaydetme yükleme uyarısı
 CURRENT,save_autosavewarning_header,2886,WARNING: Autosave loaded,UYARI: Otomatik kaydetme yüklendi
 CURRENT,save_autosavewarning_body,2886,"This save is likely to be overwritten by the game as you continue playing, so you should create a manual save if you haven't already done so using the ""SAVE GAME"" option.\n\nThis warning can be disabled in the settings menu.","Oynamaya devam ettiğinizde bu kaydın oyun tarafından üzerine yazılması muhtemeldir, bu nedenle henüz yapmadıysanız ""OYUNU KAYDET"" seçeneğini kullanarak manuel bir kayıt oluşturmalısınız.\n\nBu uyarı ayarlar menüsünden devre dışı bırakılabilir."
 CURRENT,hud_jumpgalaxies,2886,ESCAPE THE GALAXY,GALAKSİDEN KAÇIŞ
@@ -617,8 +617,8 @@ CURRENT,object_radiationblocker,2886,Radiation Blocker,Radyasyon Engelleyici
 CURRENT,object_radiationblocker_description,2886,"Radiation blocker, significantly reduces all radiation passing through it. Place between your crew and equipment that emit radiation.","Radyasyon engelleyici, içinden geçen tüm radyasyonu önemli ölçüde azaltır. Mürettebatınız ile radyasyon yayan ekipman arasına yerleştirin."
 CURRENT,entity_radiation,2886,IRRADIATED,İRRADİYE
 CURRENT,entity_death_radiation,2886,Radiation,Radyasyon
-CURRENT,alert_type_radiation,2886,RADIATION POISONING,RADYASYON ZEHİRLENMESİ
-CURRENT,alert_type_radiation_caption,2886,*X have radiation poisoning,*X radyasyon zehirlenmesi var
+CURRENT,alert_type_radiation,2886,RADIATION POISONING,RADYASYON ZEHİRLENMESİ
+CURRENT,alert_type_radiation_caption,2886,*X have radiation poisoning,*X'in radyasyon zehirlenmesi var
 CURRENT,bravenewsector_title,2886,Brave New Sector,Cesur Yeni Sektör
 CURRENT,bravenewsector_part1_title,2886,"Brave New Sector, Part 1","Cesur Yeni Sektör, Bölüm 1"
 CURRENT,bravenewsector_summary,2886,Explore the new sector,Yeni sektörü keşfedin
@@ -990,26 +990,26 @@ CURRENT,mission_tiddletssale_success,2803,Traded *X Tiddlets,Takas edildi *X Tid
 CURRENT,tiddlet_boxed,2803,Boxed,Kutu
 CURRENT,newplayerhelp_fuelpipe,2803,<FUEL PIPE,&lt;YAKIT BORUSU
 CURRENT,alert_type_hullbreach,2803,HULL BREACH,GÖVDE İHLALİ
-CURRENT,alert_type_hullbreach_tooltip,2803,"There is a hole in your ship hull and the cabin is depressurising. Your crew will fix the breach, but you should consider closing your Door Vents to seal off the area.","Geminizin gövdesinde bir delik var ve kabinin basıncı azalıyor. Mürettebatınız gediği onaracaktır, ancak bölgeyi kapatmak için Kapı Havalandırmalarınızı kapatmayı düşünmelisiniz."
+CURRENT,alert_type_hullbreach_tooltip,2803,"There is a hole in your ship hull and the cabin is depressurising. Your crew will fix the breach, but you should consider closing your Door Vents to seal off the area.","Geminizin gövdesinde bir delik var ve kabinin basıncı azalıyor. Mürettebatınız deliği onaracaktır, ancak bölgeyi kapatmak için Kapı ve Havalandırmalarınızı kapatmayı düşünmelisiniz."
 CURRENT,alert_type_co2,2803,CO2 WARNING,CO2 UYARISI
 CURRENT,alert_type_co2_tooltip,2803,"There is a dangerous build up of CO2 inside your ship. If it reaches 100%, your crew will suffocate. Consider buying a CO2 Scrubber and connecting it to a storage tank.","Geminizin içinde tehlikeli bir CO2 birikimi var. Eğer %100'e ulaşırsa, Mürettebatınız boğulacaktır. Bir CO2 Yıkayıcı satın almayı ve onu bir depolama tankına bağlamayı düşünün."
 CURRENT,alert_type_oxygen,2803,Oxygen must be at 50% to be breathable.,Oksijenin solunabilir olması için %50 olması gerekir.
-CURRENT,alert_type_meteorshower,2803,METEOR SHOWER,METEOR DUŞ
-CURRENT,alert_type_crewoverworked,2803,HIRE MORE CREW,DAHA FAZLA MÜRETTEBAT İŞE ALIN
+CURRENT,alert_type_meteorshower,2803,METEOR SHOWER,METEOR YAĞMURU
+CURRENT,alert_type_crewoverworked,2803,HIRE MORE CREW,DAHA FAZLA MÜRETTEBAT İŞE ALIN
 CURRENT,alert_type_suffocating,2803,CREW SUFFOCATING,MÜRETTEBAT BOĞULUYOR
 CURRENT,alert_type_hungry,2803,CREW HUNGRY,MÜRETTEBAT AÇ
 CURRENT,alert_type_starving,2803,CREW STARVING,MÜRETTEBAT AÇLIK ÇEKİYOR
-CURRENT,alert_type_famished,2803,CREW FAMISHED,MÜRETTEBAT AİLE
+CURRENT,alert_type_famished,2803,CREW FAMISHED,MÜRETTEBAT ŞİDDETLİ AÇLIK ÇEKİYOR
 CURRENT,alert_type_thirsty,2803,CREW THIRSTY,Mürettebat THIRSTY
 CURRENT,alert_type_dehydrated,2803,CREW DEHYDRATED,MÜRETTEBAT SUSUZ KALDI
-CURRENT,alert_type_severely_dehydrated,2803,CREW SEVERELY DEHYDRATED,MÜRETTEBAT CIDDI ŞEKILDE SUSUZ KALMIŞ
+CURRENT,alert_type_severely_dehydrated,2803,CREW SEVERELY DEHYDRATED,MÜRETTEBAT CİDDİ ŞEKİLDE SUSUZ
 CURRENT,alert_type_lowfuel,2803,LOW FUEL,DÜŞÜK YAKIT
 CURRENT,alert_type_lowftl,2803,FTL CHARGES,FTL ŞARJLARI
 CURRENT,alert_type_lowoxygen,2803,LOW OXYGEN,DÜŞÜK OKSİJEN
-CURRENT,alert_type_lowbattery,2803,BATTERY LOW,AKÜ ZAYIF
+CURRENT,alert_type_lowbattery,2803,BATTERY LOW,ENERJİ HÜCRESİ ZAYIF
 CURRENT,alert_type_lowfood,2803,LOW FOOD,DÜŞÜK YEMEK
 CURRENT,alert_type_lowwater,2803,LOW WATER,DÜŞÜK SU
-CURRENT,alert_type_lowbattery_tooltip,2803,"Your batteries have been drained. It is likely your reactors are not creating enough power to meet the needs of your ship. You will need either more Reactors, or more battery storage, or both.",Aküleriniz boşalmış. Muhtemelen reaktörleriniz geminizin ihtiyaçlarını karşılamak için yeterli güç üretmiyor. Ya daha fazla Reaktöre ya da daha fazla Aküye ya da her ikisine birden ihtiyacınız olacak.
+CURRENT,alert_type_lowbattery_tooltip,2803,"Your batteries have been drained. It is likely your reactors are not creating enough power to meet the needs of your ship. You will need either more Reactors, or more battery storage, or both.",Enerji hücreleriniz boşalmış. Muhtemelen reaktörleriniz geminizin ihtiyaçlarını karşılamak için yeterli güç üretmiyor. Ya daha fazla Reaktöre ya da daha fazla Enerji Hücresine ya da her ikisine birden ihtiyacınız olacak.
 CURRENT,alert_type_powercut_nofuel,2803,Fuel supply interrupted,Yakıt beslemesi kesildi
 CURRENT,alert_type_powercut_tooltip,2803,Your reactor has cut out. It is likely the fuel supply has been interrupted.  Consider using storage tanks to create a permanent store of fuel for your Reactor to draw from.,Reaktörünüz devre dışı kaldı. Muhtemelen yakıt beslemesi kesilmiştir.  Reaktörünüzün çekebileceği kalıcı bir yakıt deposu oluşturmak için depolama tankları kullanmayı düşünün.
 CURRENT,alert_type_stargatelosingpower_tooltip,2803,The stargate isn't being supplied with enough power. Use energy transmitters to supply the Stargate with power.,Yıldız Geçidine yeterli güç sağlanmıyor. Yıldız Geçidine güç sağlamak için enerji vericilerini kullanın.
@@ -1071,14 +1071,14 @@ CURRENT,wolf_part1_dronehint,2803,Your ship will need a drone bay and drones to 
 CURRENT,wolf_part1_completion1,2803,"We've analysed the black box recordings and the evidence is already pretty clear.  There's a pirate vessel out there somewhere, preying on high value commercial vessels.  They wait in silence, until the ship is alone, isolated, and defenseless.  They come out of nowhere and attack without warning, and before anybody can respond they've destroyed the ship and looted the cargo.","Kara kutu kayıtlarını analiz ettik ve kanıtlar şimdiden oldukça açık.  Dışarıda bir yerlerde, yüksek değerli ticari gemileri avlayan bir korsan gemisi var.  Gemi yalnız, izole ve savunmasız olana kadar sessizce bekliyorlar.  Bir anda ortaya çıkıp hiçbir uyarıda bulunmadan saldırıyorlar ve kimse karşılık veremeden gemiyi yok edip kargoyu yağmalıyorlar."
 CURRENT,wolf_part1_completion3,2803,So far they haven't left a single living witness. But the sensor data tells the full story. We've manged to extract another sensor image of the attacker.,Şimdiye kadar tek bir canlı tanık bırakmadılar. Ama sensör verileri tüm hikayeyi anlatıyor. Saldırganın başka bir sensör görüntüsünü çıkarmayı başardık.
 CURRENT,wolf_part1_completion5,2803,"We need to find a way to track them down, and destroy them.  We will be in touch soon, Captain.","Onları parçalamanın bir yolunu bulmalıyız.  Yakında temasa geçeceğiz, Kaptan."
-CURRENT,wolf_part2_setup2,2803,"We have been attempting to track the pirate vessel down, but to no avail. We keep arriving at the scene to find destroyed ships with no trace of the pirates. We need you to-","Korsan gemisinin parçalarını bulmaya çalışıyorduk ama nafile. Olay yerine vardığımızda, korsanlardan hiçbir iz bırakmadan yok edilmiş gemiler bulmaya devam ediyoruz. Sana ihtiyacımız var-"
+CURRENT,wolf_part2_setup2,2803,"We have been attempting to track the pirate vessel down, but to no avail. We keep arriving at the scene to find destroyed ships with no trace of the pirates. We need you to-","Korsan gemisinin parçalarını bulmaya çalışıyorduk ama nafile. Olay yerine vardığımızda, korsanlardan hiçbir iz bırakmadan yok edilmiş gemiler bulmaya devam ediyoruz. Sana ihtiyacımız var..."
 CURRENT,wolf_part2_distress2,2803,"I'm trying to hold them off, but I need help.  My engines are damaged.  Ships systems have failed.  Please hurry, I have 40 crew onboard!","Onları uzak tutmaya çalışıyorum ama yardıma ihtiyacım var.  Motorlarım hasar gördü.  Gemi sistemleri çöktü.  Lütfen acele edin, gemide 40 Mürettebatım var!"
-CURRENT,wolf_part2_setup3,2803,"This is now an urgent humanitarian rescue situation. If we respond quickly enough, we may just be lucky and find a crew we can rescue.","Bu artık acil bir insani kurtarma durumu. Yeterince hızlı müdahale edersek, şanslı olabilir ve kurtarabileceğimiz bir mürettebat bulabiliriz."
-CURRENT,wolf_part2_setup4,2803,You'll need to acquire at least four Manoeuvring thrusters to dock with Captain Ryker's ship.,Kaptan Ryker'ın gemisine yanaşmak için en az dört Manevra İtici edinmeniz gerekecek.
-CURRENT,wolf_part2_objective_thrusters,2803,Fit four manoeuvering thrusters to your vessel [*X/4],Geminize dört manevra iticisi takın [*X/4]
+CURRENT,wolf_part2_setup3,2803,"This is now an urgent humanitarian rescue situation. If we respond quickly enough, we may just be lucky and find a crew we can rescue.","Bu artık bir acil insani kurtarma durumu. Yeterince hızlı müdahale edersek, şanslı olabilir ve kurtarabileceğimiz bir mürettebat bulabiliriz."
+CURRENT,wolf_part2_setup4,2803,You'll need to acquire at least four Manoeuvring thrusters to dock with Captain Ryker's ship.,Kaptan Ryker'ın gemisine yanaşmak için en az dört İtici edinmeniz gerekecek.
+CURRENT,wolf_part2_objective_thrusters,2803,Fit four manoeuvering thrusters to your vessel [*X/4],Geminize dört itici takın [*X/4]
 CURRENT,wolf_part2_objective_rescue,2803,Rescue the crew of the UMC Orion Sentinel [*X/40],UMC Orion Sentinel'in Mürettebatını Kurtar [*X/40]
 CURRENT,wolf_part2_inperson_distress3,2803,"It looks like they turned and ran when they saw you arrive, Captain.  But my ship is on the brink. The Reactor won't hold out much longer.",Görünüşe göre sizin geldiğinizi görünce dönüp kaçmışlar Kaptan.  Ama gemim uçurumun kenarında. Reaktör daha fazla dayanamaz.
-CURRENT,wolf_part2_inperson_distress4,2803,"To rescue my crew you'll need to get close and initiate docking procedures. Use your manoeuvering thrusters to align your docking port with ours, in TACTICAL mode.","Mürettebatımı kurtarmak için yaklaşmanız ve kenetlenme prosedürlerini başlatmanız gerekecek. Taktik modda, manevra iticilerinizi kullanarak yanaşma limanınızı bizimkiyle hizalayın."
+CURRENT,wolf_part2_inperson_distress4,2803,"To rescue my crew you'll need to get close and initiate docking procedures. Use your manoeuvering thrusters to align your docking port with ours, in TACTICAL mode.","Mürettebatımı kurtarmak için yaklaşmanız ve kenetlenme prosedürlerini başlatmanız gerekecek. Taktik modda, iticilerinizi kullanarak kenetlenme noktasını bizimkiyle hizalayın."
 CURRENT,wolf_part2_inperson_distress5,2803,I'll get the crew ready to evacuate. Please hurry!,Mürettebatı tahliye için hazırlayacağım. Lütfen acele edin!
 CURRENT,wolf_part2_inperson_distress6,2803,"The Reactor is reaching critical levels, Captain.  I can't stop it from overloading.","Reaktör kritik seviyeye ulaşıyor, Kaptan.  Aşırı yüklenmesini engelleyemiyorum."
 CURRENT,wolf_part2_inperson_distress7,2803,"I'll try and buy you a few more seconds, but it's going to go critical any moment.  Get to a safe distance as soon as you can, Captain.  Save my crew!","Size birkaç saniye daha kazandırmaya çalışacağım, ama her an kritik bir durum olabilir.  Mümkün olduğunca çabuk güvenli bir mesafeye gidin Kaptan.  Mürettebatımı kurtarın!"
@@ -1142,12 +1142,12 @@ CURRENT,blackhole_part3_stargateoutcomeb1,2803,"Well done on retrieving some of 
 CURRENT,blackhole_part3_stargateoutcomeb2,2803,Our payment has been scaled accordingly with the volume of data received.,"Ödememiz, alınan veri hacmine göre ölçeklendirilmiştir."
 CURRENT,blackhole_part3_stargateoutcomec1,2803,"Congratulations, Captain, on successfully recovering the science data from the stricken vessel.  This data represents a huge step forward in our understanding of high energy physics, and will hugely accelerate the Stargate Program.","Tebrikler Kaptan, kaza geçiren gemiden bilim verilerini başarıyla kurtardığınız için.  Bu Veri yüksek enerji fiziği anlayışımızda ileriye doğru atılmış büyük bir adımı temsil ediyor ve Yıldız Geçidi Programını büyük ölçüde hızlandıracak."
 CURRENT,blackhole_part3_datarecovered_percent,2803,*X% Data Recovered,*Xkurtarılan Verilerin %'si
-CURRENT,wolf_part3_setup5,2803,"We have one final trick, to buy you some time before the cavalry arrives.  We can reverse the energy field in the ship's FTL drive, and trigger a massive burst of EMP energy.  Enough to disable their FTL and prevent any chance of escape.",Süvariler gelmeden önce size biraz zaman kazandıracak son bir numaramız var.  Geminin FTL Sürücüsündeki enerji alanını tersine çevirebilir ve büyük bir EMP enerji patlamasını tetikleyebiliriz.  FTL'lerini devre dışı bırakmaya ve kaçma şanslarını engellemeye yetecek kadar.
-CURRENT,wolf_part3_setup7,2803,You'll have to hold them off for a couple of minutes.  My strike force will perform a combat drop virtually on top of you.  Then the tables will turn in our favour.,Onları birkaç dakika uzak tutmanız gerekecek.  Saldırı kuvvetlerim neredeyse tepenize bir savaş düşüşü gerçekleştirecek.  Sonra Tablolar bizim lehimize dönecek.
-CURRENT,wolf_part3_objective_dockastral,2803,Dock with the Astral Temptress and crew the ship [*X/*Y],Astral Temptress'e yanaş ve gemide Mürettebat bulundur [*X/*Y]
+CURRENT,wolf_part3_setup5,2803,"We have one final trick, to buy you some time before the cavalry arrives.  We can reverse the energy field in the ship's FTL drive, and trigger a massive burst of EMP energy.  Enough to disable their FTL and prevent any chance of escape.",Saldırı ekibi gelmeden önce size biraz zaman kazandıracak son bir numaramız var. Geminin FTL Sürücüsündeki enerji alanını tersine çevirebilir ve büyük bir EMP patlamasını tetikleyebiliriz. Bu onların FTL'lerini devre dışı bırakmaya ve kaçma şanslarını engellemeye yetecek kadar zaman kazandıracak.
+CURRENT,wolf_part3_setup7,2803,You'll have to hold them off for a couple of minutes.  My strike force will perform a combat drop virtually on top of you.  Then the tables will turn in our favour.,Onları birkaç dakika uzak tutmanız gerekecek.  Saldırı kuvvetlerim neredeyse yanınıza geldi.  Sonrasında tablolar bizim lehimize dönecek.
+CURRENT,wolf_part3_objective_dockastral,2803,Dock with the Astral Temptress and crew the ship [*X/*Y],Astral Temptress'e yanaş ve gemiye mürettebat aktar [*X/*Y]
 CURRENT,wolf_part3_otherships1,2803,There are other ships in this system. The pirates won't attack you unless they see the cargo ship alone!,Bu sistemde başka gemiler de var. Korsanlar Kargo gemisini yalnız görmedikçe size saldırmazlar!
 CURRENT,wolf_part3_emp3,2803,They're in range! Trigger the EMP from your FTL drive now!,Menzile girdiler! FTL Sürücünüzden EMP'yi şimdi tetikleyin!
-CURRENT,wolf_part3_combat1,2803,"Captain, we're on our way.  Mobilise your crew and install those weapon systems ASAP.","Kaptan, yoldayız.  Mürettebatınızı harekete geçirin ve silah sistemlerini en kısa sürede kurun."
+CURRENT,wolf_part3_combat1,2803,"Captain, we're on our way.  Mobilise your crew and install those weapon systems ASAP.","Kaptan, yoldayız. Mürettebatınızı harekete geçirin ve silah sistemlerini en hemen kurun."
 CURRENT,wolf_part3_objective_installweapons,2803,Install cannons and connect them to the power grid. [*X/*Y],Topları kurun ve güç şebekesine bağlayın. [*X/*Y]
 CURRENT,wolf_part3_combat3,2803,Unfortunately it seems we have arrived too late. Your crew's sacrifice will not be forgotten.,Ne yazık ki çok geç kalmışız gibi görünüyor. Mürettebatınızın fedakarlığı unutulmayacak.
 CURRENT,tiddlets_part1_title,2803,The Trouble with Tiddlets,Tiddlet ile ilgili sorun
@@ -1458,7 +1458,7 @@ CURRENT,settings_hud,2803,Show HUD,HUD Göster
 CURRENT,settings_music,2803,Music,Müzik
 CURRENT,settings_hudscale,2803,UI Scale,UI Ölçeği
 CURRENT,settings_sound,2803,SOUND,SES
-CURRENT,settings_appearance,2803,APPEARANCE,GÖRÜNÜM
+CURRENT,settings_appearance,2803,APPEARANCE,GÖRÜNTÜ
 CURRENT,settings_keybindings,2803,KEYBOARD,KLAVYE
 CURRENT,settings_other,2803,OTHER,DİĞER
 CURRENT,settings_mastervolume,2803,Master Volume,Ana Ses Seviyesi
@@ -1551,51 +1551,51 @@ CURRENT,newmainmenu_newgame,2803,NEW GAME,YENİ OYUN
 CURRENT,newmainmenu_loadgame,2803,LOAD GAME,OYUN YÜKLE
 CURRENT,newmainmenu_deletegame,2803,DELETE GAME,OYUNU SİL
 CURRENT,newmainmenu_savegame,2803,SAVE GAME,OYUNU KAYDET
-CURRENT,newmainmenu_confirm,2803,CONFIRM,ONAYLAYIN
+CURRENT,newmainmenu_confirm,2803,CONFIRM,ONAYLA
 CURRENT,newmainmenu_cancel,2803,CANCEL,İPTAL
 CURRENT,newmainmenu_settings,2803,SETTINGS,AYARLAR
 CURRENT,newmainmenu_quit,2803,QUIT,ÇIKIŞ
-CURRENT,newmainmenu_abandon,2803,ABANDON GAME,ABANDON OYUNU
-CURRENT,newmainmenu_resume,2803,RESUME,OYNAMAYA DEVAM ET
+CURRENT,newmainmenu_abandon,2803,ABANDON GAME,ANA MENÜ
+CURRENT,newmainmenu_resume,2803,RESUME,DEVAM ET
 CURRENT,newmainmenu_chooseship,2803,CHOOSE STARTING SHIP,BAŞLANGIÇ GEMISINI SEÇIN
 CURRENT,newmainmenu_begingame,2803,BEGIN GAME,OYUNA BAŞLA
 CURRENT,newmainmenu_shipeditor,2803,CREATIVE MODE,YARATICI MOD
 CURRENT,newmainmenu_arena,2803,ARENA MODE,ARENA MODU
 CURRENT,newmainmenu_battle,2803,BATTLE,SAVAŞ
 CURRENT,newmainmenu_arena_redteamtitle,2803,RED TEAM,KIRMIZI TAKIM
-CURRENT,newmainmenu_arena_greenteamtitle,2803,GREEN TEAM,YEŞİL EKİP
+CURRENT,newmainmenu_arena_greenteamtitle,2803,GREEN TEAM,YEŞİL TAKIM
 CURRENT,newmainmenu_arena_selectship,2803,SELECT A SHIP,BİR GEMİ SEÇİN
 CURRENT,newmainmenu_arena_shipquantity,2803,Quantity,Miktar
 CURRENT,newmainmenu_arena_combatratings,2803,COMBAT RATINGS,SAVAŞ DERECELERİ
 CURRENT,newmainmenu_arena_tradevalues,2803,SHIP VALUES,GEMİ DEĞERLERİ
-CURRENT,newmainmenu_arena_expandstats,2803,SHOW INFO,GÖSTERİ BİLGİLERİ
-CURRENT,newmainmenu_arena_collapsestats,2803,HIDE INFO,BİLGİLERİ GİZLE
-CURRENT,newmainmenu_arena_generateenemyfleet,2803,GENERATE,ÜRET
+CURRENT,newmainmenu_arena_expandstats,2803,SHOW INFO,BİLGİLERİ GÖSTER
+CURRENT,newmainmenu_arena_collapsestats,2803,HIDE INFO,BİLGİLERİ GİZLE
+CURRENT,newmainmenu_arena_generateenemyfleet,2803,GENERATE,OLUŞTUR
 CURRENT,newmainmenu_editship,2803,EDIT SHIP,GEMİYİ DÜZENLE
 CURRENT,newmainmenu_deleteship,2803,DELETE SHIP,GEMİ SİL
-CURRENT,newmainmenu_loadship,2803,LOAD SHIP,YÜK GEMİSİ
+CURRENT,newmainmenu_loadship,2803,LOAD SHIP,GEMİYİ YÜKLE
 CURRENT,newmainmenu_loadgamedev,2803,LOAD GAME (DEV),OYUN YÜKLE (DEV)
 CURRENT,newmainmenu_createship,2803,CREATE NEW SHIP,YENI GEMI OLUŞTUR
-CURRENT,newmainmenu_createnewsave,2803,CREATE NEW SAVE,YENI KAYIT OLUŞTUR
+CURRENT,newmainmenu_createnewsave,2803,CREATE NEW SAVE,YENİ KAYIT OLUŞTUR
 CURRENT,newmainmenu_savetosteamcloud,2803,SAVE TO STEAM CLOUD,STEAM BULUTUNA KAYDET
-CURRENT,newmainmenu_steamcloud,2803,STEAM CLOUD,BUHAR BULUTU
+CURRENT,newmainmenu_steamcloud,2803,STEAM CLOUD,STEAM CLOUD
 CURRENT,newmainmenu_cloudquotaremaining,2803,Used: *X / *Y (*Z% remaining),Kullanılmış: *X / *Y (*Z% kalan)
-CURRENT,newmainmenu_exportship,2803,EXPORT SHIP,İHRACAT GEMİSİ
+CURRENT,newmainmenu_exportship,2803,EXPORT SHIP,GEMİYİ DIŞA AKTAR
 CURRENT,newmainmenu_uploadship,2803,UPLOAD TO STEAM,STEAM'E YÜKLE
 CURRENT,newmainmenu_setshipname,2803,SET SHIP NAME,GEMİ ADINI AYARLA
-CURRENT,newmainmenu_importhostile,2803,IMPORT HOSTILE,İTHALAT EV SAHİBİ
-CURRENT,newmainmenu_importfriendly,2803,IMPORT FRIENDLY,ITHALAT DOSTU
+CURRENT,newmainmenu_importhostile,2803,IMPORT HOSTILE,DÜŞMAN OLARAK İÇE AKTAR
+CURRENT,newmainmenu_importfriendly,2803,IMPORT FRIENDLY,DOST OLARAK İÇE AKTAR
 CURRENT,newmainmenu_createnewexport,2803,CREATE NEW EXPORT,YENI IHRACAT OLUŞTUR
-CURRENT,newmainmenu_createnewupload,2803,CREATE NEW WORKSHOP ITEM,YENI ATÖLYE ÖĞESI OLUŞTUR
-CURRENT,newmainmenu_updateexistingupload,2803,UPDATE EXISTING WORKSHOP ITEM,MEVCUT ATÖLYE ÇALIŞMASININ GÜNCELLENMESI
-CURRENT,newmainmenu_steamworkshop,2803,STEAM WORKSHOP,BUHAR ATÖLYESİ
+CURRENT,newmainmenu_createnewupload,2803,CREATE NEW WORKSHOP ITEM,YENİ ATÖLYE ÖĞESİ OLUŞTUR
+CURRENT,newmainmenu_updateexistingupload,2803,UPDATE EXISTING WORKSHOP ITEM,MEVCUT ATÖLYE ÇALIŞMASININ GÜNCELLE
+CURRENT,newmainmenu_steamworkshop,2803,STEAM WORKSHOP,STEAM ATÖLYESİ
 CURRENT,newmainmenu_uploadprogress,2803,UPLOAD PROGRESS: *P %,YÜKLEME ILERLEMESI: *P %
 CURRENT,newmainmenu_quitmessage,2803,"We hope you enjoyed playing the demo of The Last Starship. Your journey has just begun!  Unlock the full game to explore more Story Episodes, Survival Mode, Arena Mode, a full Ship Editor and more!","Umarız The Last Starship'in demosunu oynamaktan keyif almışsınızdır. Yolculuğunuz daha yeni başladı!  Daha fazla Hikaye Bölümü, Hayatta Kalma Modu, Arena Modu, eksiksiz bir Gemi Editörü ve daha fazlasını keşfetmek için tam oyunun kilidini açın!"
 CURRENT,newmainmenu_lockedindemo,2803,LOCKED IN DEMO,DEMO'DA KİLİTLİ
 CURRENT,newmainmenu_locked,2803,(LOCKED),(KİLİTLİ)
 CURRENT,newmainmenu_multisystem_simulation,2803,Enable Multi-system Simulation,Çoklu Sistem Simülasyonunu Etkinleştirin
 CURRENT,newmainmenu_debug_freespace,2803,Enable FreeSpace Debugging,FreeSpace Hata Ayıklamayı Etkinleştir
-CURRENT,newmainmenu_darkmode,2803,Galaxy Map Dark Mode,Galaksi Haritası Karanlık Modu
+CURRENT,newmainmenu_darkmode,2803,Galaxy Map Dark Mode,Galaksi Haritası Karanlık Mod
 CURRENT,newmainmenu_parallax,2803,Parallax effect,Paralaks etkisi
 CURRENT,newmainmenu_slowcombat,2803,Slow during combat,Savaş sırasında yavaş
 CURRENT,newmainmenu_filter,2803,SEARCH...,ARA...
@@ -1750,7 +1750,7 @@ CURRENT,hud_shipyard_buildarmour,2803,Install Armour,Zırhı Takın
 CURRENT,hud_shipyard_buildscaffold,2803,Build Scaffold,İskele İnşa Et
 CURRENT,hud_shipyard_buildhabitation,2803,Add Habitation Deck,Yerleşim Güvertesi Ekle
 CURRENT,hud_shipyard_buildrepairone,2803,Repair 100 Damage,100 Hasarı Onarın
-CURRENT,hud_shipyard_buildrepairall,2803,Repair ALL Damage,TÜM Hasarları Onarın
+CURRENT,hud_shipyard_buildrepairall,2803,Repair ALL Damage,Tüm Hasarları Onarın
 CURRENT,hud_shipyard_repairship,2803,Repair Ship,Onarım Gemisi
 CURRENT,hud_shipyard_costofrepairs,2803,Cost of repairs,Onarım maliyeti
 CURRENT,hud_shipyard_buildbuyfromlibrary,2803,Buy ship,Gemi satın alın
@@ -1759,8 +1759,8 @@ CURRENT,hud_shipforsale,2803,SHIP FOR SALE,SATILIK GEMİ
 CURRENT,hud_buyship,2803,BUY,SATIN AL
 CURRENT,hud_sellship,2803,SELL YOUR SHIP,GEMİNİZİ SATIN
 CURRENT,hud_repairship,2803,REPAIR,ONARIM
-CURRENT,hud_shipyardservices,2803,SHIPYARD SERVICES,TERSANE HİZMETLERİ
-CURRENT,hud_fabricateship,2803,FABRICATE A SHIP,BIR GEMI IMAL ETMEK
+CURRENT,hud_shipyardservices,2803,SHIPYARD SERVICES,TERSANE HİZMETLERİ
+CURRENT,hud_fabricateship,2803,FABRICATE A SHIP,BİR GEMİ İNŞA EDİN
 CURRENT,hud_tooltip_leftclickplace,2803,[LMB] Place,[LMB] Yer
 CURRENT,hud_tooltip_leftclickbuild,2803,[LMB] Build,[LMB] Oluştur
 CURRENT,hud_tooltip_leftclickerase,2803,[LMB] Erase,[LMB] Sil
@@ -2190,7 +2190,6 @@ CURRENT,mission_production_description2,2803,"You can choose to manufacture the 
 CURRENT,mission_production_marketprice,2803,The market price for these items would be $*X.,Bu ürünler için piyasa fiyatı $*X olacaktır.
 CURRENT,mission_production_markup,2803,(We are offering *X% above market rate due to urgent requirement).,(Acil ihtiyaç nedeniyle piyasa oranının % *X üzerinde teklif veriyoruz).
 CURRENT,mission_production_available,2803,You have *X stacks of R*Y available for transfer within your fleet (We need *Z),Filonuzda transfer için *X R*Y yığınına sahipsiniz (*Z tanesine ihtiyacımız var)
-
 CURRENT,mission_production_received,2803,We have received *X stacks of R*Y out of a total of *Z.,Toplam *Z yığınından *X yığınını R*Y aldık.
 CURRENT,mission_production_nomore,2803,There is no more R*X available within your fleet.,Filonuzda daha fazla R*X bulunmamaktadır.
 CURRENT,mission_production_success,2803,Provided *X/*Y items,Sağlanan *X/*Y öğeleri
@@ -2539,10 +2538,10 @@ CURRENT,alert_title,2803,ALERTS,UYARILAR
 CURRENT,alert_type_none,2803,NO ALERT,UYARI YOK
 CURRENT,alert_type_test,2803,TEST ALERT,TEST UYARISI
 CURRENT,alert_type_hullbreach_caption,2803,Repair *X%,Onarım *X%
-CURRENT,alert_type_co2_caption,2803,*X% Fatal,*Xölümcül
-CURRENT,alert_type_hostileforces,2803,HOSTILE CONTACT,DÜŞMANCA TEMAS
-CURRENT,alert_type_hostileforces_caption,2803,*X enemy ships,*X düşman gemi̇leri̇
-CURRENT,alert_type_hostilesinbound,2803,HOSTILES INBOUND,DÜŞMANLAR GELİYOR
+CURRENT,alert_type_co2_caption,2803,*X% Fatal,*Xölümcül Seviye
+CURRENT,alert_type_hostileforces,2803,HOSTILE CONTACT,DÜŞMAN TEMASI
+CURRENT,alert_type_hostileforces_caption,2803,*X enemy ships,*X adet düşman gemisi̇
+CURRENT,alert_type_hostilesinbound,2803,HOSTILES INBOUND,DÜŞMAN TEMASI
 CURRENT,alert_type_hostilesinbound_caption,2803,*X seconds,*X saniye
 CURRENT,alert_type_heavydamage,2803,HEAVY DAMAGE,AĞIR HASAR
 CURRENT,alert_type_heavydamage_caption,2803,Damage *X%,Hasar *X%
@@ -2551,12 +2550,12 @@ CURRENT,alert_type_dead,2803,DEATHS,ÖLÜMLER
 CURRENT,alert_type_dead_caption,2803,*X dead,*X ölü
 CURRENT,alert_type_lowresource_caption,2803,*X,*X
 CURRENT,alert_type_lowbattery_caption,2803,*X%,*X%
-CURRENT,alert_type_powercut,2803,POWER CUT,GÜÇ KESİMİ
-CURRENT,alert_type_nostorage,2803,NO STORAGE,DEPOLAMA YOK
-CURRENT,alert_type_autotradeinactive,2803,AUTO-TRADE INACTIVE,OTO-TICARET ETKIN DEĞIL
-CURRENT,alert_type_autotradeinactive_tooltip,2803,One or more of your auto-orders have been made inactive. This may be because you owe a large payment to X.,Otomatik siparişlerinizden biri veya daha fazlası devre dışı bırakıldı. Bunun nedeni X'e büyük bir ödeme borcunuz olabilir.
-CURRENT,alert_type_stargatelosingpower,2803,STARGATE LOSING POWER,YILDIZ GEÇIDI GÜÇ KAYBEDIYOR
-CURRENT,alert_type_stargatelosingpower_caption,2803,*X MW / *Y MW Supplied,*X MW / *Y Tedarik Edilen MW
+CURRENT,alert_type_powercut,2803,POWER CUT,ENERJİ KESİLDİ
+CURRENT,alert_type_nostorage,2803,NO STORAGE,YETERLİ DEPOLAMA ALANI YOK
+CURRENT,alert_type_autotradeinactive,2803,AUTO-TRADE INACTIVE,OTO-TİCARET ETKİN DEĞİL
+CURRENT,alert_type_autotradeinactive_tooltip,2803,One or more of your auto-orders have been made inactive. This may be because you owe a large payment to X.,Otomatik siparişlerinizden biri veya daha fazlası devre dışı bırakıldı. Bunun nedeni X'e yüksek tutarda borcunuz olması olabilir.
+CURRENT,alert_type_stargatelosingpower,2803,STARGATE LOSING POWER,YILDIZ GEÇİDİ GÜÇ KAYBEDIYOR
+CURRENT,alert_type_stargatelosingpower_caption,2803,*X MW / *Y MW Supplied,*X MW / *Y MW Sağlanıyor 
 CURRENT,warning_unbreathable,2803,UNBREATHABLE,İNANILMAZ
 CURRENT,warning_deliveryblocked,2803,DELIVERY BLOCKED,TESLIMAT ENGELLENDI
 CURRENT,warning_storagerequired,2803,CREATE STORAGE ZONES,DEPOLAMA BÖLGELERI OLUŞTURMA
@@ -2699,8 +2698,8 @@ CURRENT,wolf_part1_action_deliver,2803,Deliver,Teslim Et
 CURRENT,wolf_shipname_harken,2803,UMC Vanguard,UMC Vanguard
 CURRENT,wolf_shipname_wolf1,2803,Interstellar Prospector,Yıldızlararası Araştırmacı
 CURRENT,wolf_shipname_wolf2,2803,Infinite Horizon,Sonsuz Ufuk
-CURRENT,wolf_shipname_wolf3,2803,Celestial Hauler,Göksel Taşıyıcı
-CURRENT,wolf_shipname_scavenger,2803,Scavenger Wraith,Çöpçü Wraith
+CURRENT,wolf_shipname_wolf3,2803,Celestial Hauler,Kozmik Taşıyıcı
+CURRENT,wolf_shipname_scavenger,2803,Scavenger Wraith,Yağmacı Wraith
 CURRENT,object_flightrecorder,2803,Flight Recorder,Uçuş Kayıt Cihazı
 CURRENT,object_shipwreckage,2803,Ship Wreckage,Gemi Enkazı
 CURRENT,wolf_part1_scavenger3,2803,Funds received. Pleasure doing business.,Fonlar alındı. İş yapmak zevkti.
@@ -2713,14 +2712,14 @@ CURRENT,wolf_shipname_rescue,2803,Orion Sentinel,Orion Sentinel
 CURRENT,wolf_shipname_pirate,2803,Unidentified Pirate,Tanımlanamayan Korsan
 CURRENT,wolf_part2_title,2803,"A Wolf in Sheep's Clothing, Part 2","Koyun Postuna Bürünmüş Bir Kurt, Bölüm 2"
 CURRENT,wolf_part2_advertisement,2803,Captain. We're ready to continue our hunt for the pirate vessel. Please meet me at the marked location.,Kaptan. Korsan gemisini aramaya devam etmeye hazırız. Lütfen benimle işaretli yerde buluşun.
-CURRENT,wolf_part2_objective_visitharken,2803,Travel to Commander Harken,Komutan Harken'e git
+CURRENT,wolf_part2_objective_visitharken,2803,Travel to Commander Harken,Komutan Harken'e seyehat et
 CURRENT,wolf_part2_setup1,2803,"Thank you for coming, Captain.","Geldiğiniz için teşekkürler, Kaptan."
 CURRENT,wolf_part2_distress1,2803,"This is Captain Amelia Ryker of the UMC vessel Orion Sentinel.  We are under attack!  They appeared out of nowhere and fired on us without warning, and won't respond to any of my communications.",Ben UMC gemisi Orion Sentinel'den Kaptan Amelia Ryker.  Saldırı altındayız!  Bir anda ortaya çıktılar ve hiçbir uyarıda bulunmadan bize ateş açtılar ve iletişimlerimin hiçbirine yanıt vermiyorlar.
 CURRENT,wolf_part2_setup5,2803,"Time is running out.  Send a ship to the Orion Sentinel and provide whatever aid you can, before it's too late.",Zaman tükeniyor.  Orion Sentinel'e bir gemi gönderin ve çok geç olmadan elinizden gelen yardımı sağlayın.
 CURRENT,wolf_part2_inperson_distress1,2803,"Captain, thank goodness you're here! Help us!","Kaptan, Tanrı'ya şükür buradasınız! Bize yardım edin!"
 CURRENT,wolf_part2_inperson_distress2,2803,We won't last much longer.,Daha fazla dayanamayacağız.
-CURRENT,wolf_part2_objective_dock,2803,Dock with the UMC Orion Sentinel,UMC Orion Sentinel ile kenetlen
-CURRENT,wolf_part2_dropoff2,2803,"In the mean time, take the survivors to the nearest shipyard or colony and drop them off there to close the contract.","Bu arada, hayatta kalanları en yakın tersaneye veya koloniye götürün ve sözleşmeyi kapatmak için onları oraya bırakın."
+CURRENT,wolf_part2_objective_dock,2803,Dock with the UMC Orion Sentinel,UMC Orion Sentinel'e kenetlen
+CURRENT,wolf_part2_dropoff2,2803,"In the mean time, take the survivors to the nearest shipyard or colony and drop them off there to close the contract.","Bu arada, hayatta kalanları en yakın tersaneye veya koloniye götürün ve sözleşmeyi bitirmek için onları oraya bırakın."
 CURRENT,wolf_part2_objective_dropoff,2803,Drop off the survivors at any shipyard or colony [*X/*Y],Hayatta kalanları herhangi bir tersaneye veya koloniye bırakın [*X/*Y]
 CURRENT,wolf_part2_debrief2,2803,Regrettably I must inform you Captain Ryker does not appear to be among the survivors.  Her sacrifice will be remembered.,Ne yazık ki Kaptan Ryker'ın kurtulanlar arasında olmadığını bildirmek zorundayım.  Fedakârlığı hatırlanacaktır.
 CURRENT,wolf_part2_debrief3,2803,"We don't know when or where the pirate vessel will strike again. But we must be prepared.  The more we analyse their attacks, the more obvious the pattern becomes.","Korsan gemisinin ne zaman ve nerede tekrar saldıracağını bilmiyoruz. Ama hazırlıklı olmalıyız.  Saldırılarını analiz ettikçe, düzen daha da belirginleşiyor."
@@ -2789,46 +2788,46 @@ CURRENT,blackhole_part3_stargateoutcomec3,2803,Please accept our payment as a si
 CURRENT,blackhole_part3_datarecovered,2803,Stargate Project,Yıldız Geçidi Projesi
 CURRENT,blackhole_character_marcus,2803,Marcus Martinez,Marcus Martinez
 CURRENT,wolf_part3_title,2803,"A Wolf in Sheep's Clothing, Part 3","Koyun Postuna Bürünmüş Bir Kurt, Bölüm 3"
-CURRENT,wolf_part3_intro1,2803,"We have hatched a plan that we believe will catch the pirate vessel in the act.  We're standing by with a strike force to bring them to justice, and we need your help to bait the trap.",Korsan gemisini suçüstü yakalayacağımıza inandığımız bir plan yaptık.  Onları adalete teslim etmek için bir vurucu güçle hazır bekliyoruz ve tuzağa yem atmak için yardımınıza ihtiyacımız var.
+CURRENT,wolf_part3_intro1,2803,"We have hatched a plan that we believe will catch the pirate vessel in the act.  We're standing by with a strike force to bring them to justice, and we need your help to bait the trap.",Korsan gemisini suçüstü yakalayacağımıza inandığımız bir plan yaptık.  Onları adalete teslim etmek için vurucu bir güçle hazır bekliyoruz ve onları yemlemek için yardımınıza ihtiyacımız var.
 CURRENT,wolf_part3_intro2,2803,"This is a risky mission, will you help us?","Bu riskli bir görev, bize yardım edecek misiniz?"
 CURRENT,wolf_part3_advertisement1,2803,"Captain, we have hatched a plan that we believe will catch the pirate vessel in the act.","Kaptan, korsan gemisini suçüstü yakalayacağımıza inandığımız bir plan yaptık."
-CURRENT,wolf_part3_advertisement2,2803,Please come to see us and we will explain the mission objectives.,Lütfen bizi görmeye gelin ve görev hedeflerini açıklayalım.
+CURRENT,wolf_part3_advertisement2,2803,Please come to see us and we will explain the mission objectives.,Lütfen bizi ziyarete gelin. Size görev hedeflerini açıklayalım.
 CURRENT,wolf_part3_objective_gotoharken,2803,Travel to Commander Harken's ship,Komutan Harken'in gemisine git
-CURRENT,wolf_part3_shipname_frigate,2803,UMC Celestial Hammer,UMC Göksel Çekiç
-CURRENT,wolf_part3_shipname_cargo,2803,UMC Astral Temptress,UMC Astral Baştan Çıkarıcı
-CURRENT,wolf_part3_shipname_cargo_a10,2803,UMC Astral Accident,UMC Astral Kaza
+CURRENT,wolf_part3_shipname_frigate,2803,UMC Celestial Hammer,UMC Kozmik Çekiç
+CURRENT,wolf_part3_shipname_cargo,2803,UMC Astral Temptress,UMC Astral Temptress
+CURRENT,wolf_part3_shipname_cargo_a10,2803,UMC Astral Accident,UMC Astral Accident
 CURRENT,wolf_part3_shipname_pirate,2803,Pirate Vessel,Korsan Gemisi
 CURRENT,wolf_part3_setup1,2803,"Captain, it's time to hold this pirate vessel to account for all the damage they've done, and all the lives they've taken.","Kaptan, bu korsan gemisine verdikleri tüm zarar ve aldıkları tüm canlar için hesap sorma zamanı geldi."
-CURRENT,wolf_part3_setup2,2803,"The UMC Astral Temptress is the bait in our trap.  It's a long haul commercial freighter that was due to be scrapped.  We want you to take the Astral Temptress and travel through the most remote, unprotected locations in the sector.","UMC Astral Temptress tuzağımızdaki yem.  Hurdaya çıkarılmak üzere olan uzun yol ticari yük gemisi.  Astral Temptress'i almanızı ve sektördeki en uzak, korunmasız yerlerde seyahat etmenizi istiyoruz."
+CURRENT,wolf_part3_setup2,2803,"The UMC Astral Temptress is the bait in our trap.  It's a long haul commercial freighter that was due to be scrapped.  We want you to take the Astral Temptress and travel through the most remote, unprotected locations in the sector.",Hurdaya çıkarılmak üzere olan uzun yol ticari yük gemisi
 CURRENT,wolf_part3_setup3,2803,"Look busy, look like you're going somewhere, and bait them out of hiding.  They won't be able to resist such an easy target.","Meşgul görünün, bir yere gidiyormuş gibi yapın ve onları saklandıkları yerden çıkarın.  Bu kadar kolay bir hedefe karşı koyamayacaklardır."
-CURRENT,wolf_part3_setup4,2803,"What they won't realise is you'll be carrying several tons of advanced military grade weapon systems, ready to be installed and activated the moment they come in close.","Farkına varmayacakları şey ise, yaklaştıkları anda kurulmaya ve etkinleştirilmeye hazır birkaç ton gelişmiş askeri sınıf silah sistemi taşıyor olacağınızdır."
-CURRENT,wolf_part3_setup6,2803,"Your own ship will lose power too - but in the calamity that follows, you'll have time to fit your weapon systems and prepare for a tough fight.","Kendi geminiz de güç kaybedecek - ancak bunu takip eden felakette, silah sistemlerinizi takmak ve zorlu bir savaşa hazırlanmak için zamanınız olacak."
+CURRENT,wolf_part3_setup4,2803,"What they won't realise is you'll be carrying several tons of advanced military grade weapon systems, ready to be installed and activated the moment they come in close.","Farkına varmayacakları şey ise, yaklaştıkları anda kurulmaya ve etkinleştirilmeye hazır gelişmiş askeri sınıf silah sistemi taşıyor olacağınızdır."
+CURRENT,wolf_part3_setup6,2803,"Your own ship will lose power too - but in the calamity that follows, you'll have time to fit your weapon systems and prepare for a tough fight.","Kendi geminiz de güç kaybedecek ancak bunu takip eden süreçte, silah sistemlerinizi takmak ve savaşa hazırlanmak için zamanınız olacak."
 CURRENT,wolf_part3_objective_jumparound,2803,Jump the Astral Temptress to empty systems until attacked,Saldırıya uğrayana kadar Astral Temptress'i boş sistemlere atlat
 CURRENT,wolf_part3_setup8,2803,Remember - the pirate vessel will not show themselves unless the Astral Temptress is alone and unarmed. Good hunting!,Unutmayın - Astral Temptress yalnız ve silahsız olmadığı sürece korsan gemisi kendini göstermeyecektir. İyi avlar!
 CURRENT,wolf_part3_uninstallweapons1,2803,The pirates won't take the bait if they see you armed!,Korsanlar sizi silahlı görürlerse yemi yutmazlar!
 CURRENT,wolf_part3_uninstallweapons2,2803,Uninstall your weapons before jumping again.,Tekrar atlamadan önce silahlarınızı kaldırın.
 CURRENT,wolf_part3_otherships2,2803,Try avoiding busy systems with colonies or shipyards.,Kolonilerin veya tersanelerin bulunduğu yoğun sistemlerden kaçınmaya çalışın.
 CURRENT,wolf_part3_episodesystem1,2803,We have received intel that this system is too special to risk luring the pirate here.,Bu sistemin korsanı buraya çekme riskini göze alamayacak kadar özel olduğuna dair istihbarat aldık.
-CURRENT,wolf_part3_episodesystem2,2803,Try to avoid systems with other important activity.,Diğer önemli faaliyetlerle birlikte sistemlerden kaçınmaya çalışın.
+CURRENT,wolf_part3_episodesystem2,2803,Try to avoid systems with other important activity.,Önemli faaliyetler olan sistemlerden kaçınmaya çalışın.
 CURRENT,wolf_part3_emptysystem1,2803,This system is exactly the kind where the pirates might attack.,Bu sistem tam da korsanların saldırabileceği türden.
 CURRENT,wolf_part3_emptysystem2,2803,"Keep looking busy and travel to another empty system, the pirates must already be on your trail.","Meşgul görünmeye devam edin ve başka bir boş sisteme gidin, korsanlar çoktan peşinize düşmüş olmalı."
 CURRENT,wolf_part3_ranaway1,2803,We almost had them! Your cooperation is crucial for this operation to go smoothly.,Neredeyse yakalamıştık! Bu operasyonun sorunsuz geçmesi için işbirliğiniz çok önemlidir.
-CURRENT,wolf_part3_ranaway2,2803,"The pirates are probably still on your trail thinking you got scared, jump to an empty system to bait them out again.","Korsanlar muhtemelen korktuğunuzu düşünerek hala peşinizdedir, onları tekrar yemlemek için boş bir sisteme atlayın."
-CURRENT,wolf_part3_emp1,2803,We've found them! This is our shot.,Onları bulduk! Bu bizim atışımız.
-CURRENT,wolf_part3_emp2,2803,Charge the EMP weapon and get ready to hit them where it really hurts. Let them come in close. Really close.,EMP silahını şarj edin ve onları gerçekten acıtacak yerlerinden vurmaya hazır olun. Bırak yaklaşsınlar. Gerçekten yaklaşsınlar.
-CURRENT,wolf_part3_objective_chargeemp,2803,Charge the EMP [*X%],EMP'yi şarj edin [*X%]
-CURRENT,wolf_part3_action_chargeemp,2803,Charge EMP,Şarj EMP
-CURRENT,wolf_part3_objective_getclose,2803,Let the pirates come close,Bırak korsanlar yaklaşsın
+CURRENT,wolf_part3_ranaway2,2803,"The pirates are probably still on your trail thinking you got scared, jump to an empty system to bait them out again.","Korsanlar muhtemelen korktuğunuzu düşünerek hala peşinizdedir, onları tekrar yemlemek için boş bir sisteme daha atlayın."
+CURRENT,wolf_part3_emp1,2803,We've found them! This is our shot.,Onları bulduk! Bu sefer sıra bizde.
+CURRENT,wolf_part3_emp2,2803,Charge the EMP weapon and get ready to hit them where it really hurts. Let them come in close. Really close.,EMP silahını şarj edin ve onları zayıf yerlerinden vurmaya hazır olun. Bırak yaklaşsınlar. Gerçekten yaklaşsınlar.
+CURRENT,wolf_part3_objective_chargeemp,2803,Charge the EMP [*X%],EMP şarj [*X%]
+CURRENT,wolf_part3_action_chargeemp,2803,Charge EMP,EMP'yi Şarj Et
+CURRENT,wolf_part3_objective_getclose,2803,Let the pirates come close,Korsanların yaklaşmasına izin ver
 CURRENT,wolf_part3_objective_triggeremp,2803,Trigger the EMP,EMP'yi tetikle
-CURRENT,wolf_part3_action_triggeremp,2803,Trigger EMP,Tetikleyici EMP
-CURRENT,wolf_part3_combat2,2803,The cavalry are coming.  Hold them off for just a few moments.,Süvariler geliyor.  Onları birkaç dakika oyala.
+CURRENT,wolf_part3_action_triggeremp,2803,Trigger EMP,EMP'yi Tetikle
+CURRENT,wolf_part3_combat2,2803,The cavalry are coming.  Hold them off for just a few moments.,Saldırı ekibi yolda. Onları biraz oyala.
 CURRENT,wolf_part3_objective_survive,2803,Survive until the strike force arrives,Saldırı gücü gelene kadar hayatta kal
 CURRENT,wolf_part3_objective_destroypirate,2803,Destroy the Pirate Ship,Korsan Gemisini Yok Et
-CURRENT,wolf_part3_combat4,2803,Target that explosion and fire!,Şu patlamayı ve ateşi hedef alın!
-CURRENT,wolf_part3_debrief1,2803,"Congratulations, Captain. Your performance in the destruction of the Pirate Vessel exceeded all expectations!","Tebrikler, Kaptan. Korsan Gemisinin imhasındaki performansınız tüm beklentileri aştı!"
-CURRENT,wolf_part3_debrief2,2803,Your skill and bravery have not gone unnoticed. I extend my heartfelt gratitude for your help.,Beceriniz ve cesaretiniz gözden kaçmadı. Yardımlarınız için en içten şükranlarımı sunuyorum.
+CURRENT,wolf_part3_combat4,2803,Target that explosion and fire!,Patlamayı hedef alın ve ateş!
+CURRENT,wolf_part3_debrief1,2803,"Congratulations, Captain. Your performance in the destruction of the Pirate Vessel exceeded all expectations!","Tebrikler, Kaptan. Korsan Gemisinin imhasındaki performansınız tüm beklentilerimizin üzerindeydi!"
+CURRENT,wolf_part3_debrief2,2803,Your skill and bravery have not gone unnoticed. I extend my heartfelt gratitude for your help.,Beceriniz ve cesaretiniz göz ardı edilmedi. Yardımlarınız için en içten şükranlarımı sunuyorum.
 CURRENT,wolf_part3_debrief3,2803,"As a token of appreciation, consider the Astral Temptress now a part of your fleet.","Minnettarlığınızın bir göstergesi olarak, Astral Temptress'i artık filonuzun bir parçası olarak düşünün."
-CURRENT,wolf_part3_debrief4,2803,"The ship was due to be scrapped, but we think it may have some years left in its structure yet.","Geminin hurdaya çıkarılması gerekiyordu, ancak yapısında daha birkaç yıl kalmış olabileceğini düşünüyoruz."
+CURRENT,wolf_part3_debrief4,2803,"The ship was due to be scrapped, but we think it may have some years left in its structure yet.","Geminin hurdaya çıkarılması gerekiyordu, ancak birkaç yıl daha ömrünün kalmış olabileceğini düşünüyoruz."
 CURRENT,wolf_part3_debrief5,2803,"Farewell, Captain. Your dedication to justice and the safety of our sector will be remembered.","Elveda, Kaptan. Adalete ve sektörümüzün güvenliğine olan bağlılığınız hatırlanacaktır."
 CURRENT,tiddlets_character_artemis,2803,Prof. Artemis Toppingbury,Prof. Artemis Toppingbury
 CURRENT,tiddlets_character_swanson,2803,Dr. Magnus Swanson,Dr. Magnus Swanson
