@@ -5,12 +5,12 @@ CURRENT,trade_paymentperjump,3472,*X (+*Y) per sector jump,*X (+*Y) par saut de 
 CURRENT,award_civilianpayment,3472,CIVILIAN PAYMENT,PAIEMENT CIVIL
 CURRENT,award_civilianpayment_caption,3472,*X permanent residents in your fleet,*X résidents permanents de ta flotte
 CURRENT,logistics_status_default,3472,Order running,Commande en cours
-CURRENT,logistics_status_miningstacksfull,3472,Mined *X R*Y (*Z stacks) - storage full,Le mien *X R*Y (*Z stacks) - stockage complet
-CURRENT,logistics_status_miningstackstime,3472,Mined *X R*Y (*Z stacks) in T*P,Le mien *X R*Y (*Z stacks) à T*P
-CURRENT,logistics_status_miningstackstimefull,3472,Mined *X R*Y (*Z stacks) in T*P - storage full,Le mien *X R*Y (*Z stacks) en T*P - stockage complet
-CURRENT,logistics_status_miningratio,3472,Mined *X R*Y (*Z/*P stacks),Le mien *X R*Y (*Z/*P stacks)
-CURRENT,logistics_status_miningratiofull,3472,Mined *X R*Y (*Z/*P stacks) - storage full,Le mien *X R*Y (*Z/*P stacks) - stockage complet
-CURRENT,logistics_status_miningonboard,3472,"Mined *X R*Y (*Z stacks on board, *P desired) - storage full","Le mien *X R*Y (*Z empile à bord, *P souhaité) - stockage complet"
+CURRENT,logistics_status_miningstacksfull,3472,Mined *X R*Y (*Z stacks) - storage full,Mine *X R*Y (*Z piles) - stockage complet
+CURRENT,logistics_status_miningstackstime,3472,Mined *X R*Y (*Z stacks) in T*P,Mine *X R*Y (*Z piles) à T*P
+CURRENT,logistics_status_miningstackstimefull,3472,Mined *X R*Y (*Z stacks) in T*P - storage full,Mine *X R*Y (*Z piles) en T*P - stockage complet
+CURRENT,logistics_status_miningratio,3472,Mined *X R*Y (*Z/*P stacks),Mine *X R*Y (*Z/*P piles)
+CURRENT,logistics_status_miningratiofull,3472,Mined *X R*Y (*Z/*P stacks) - storage full,Mine *X R*Y (*Z/*P piles) - stockage complet
+CURRENT,logistics_status_miningonboard,3472,"Mined *X R*Y (*Z stacks on board, *P desired) - storage full","Mine *X R*Y (*Z pile à bord, *P souhaité) - stockage complet"
 CURRENT,logistics_status_collectcontainersfull,3472,Collected *X R*Y (*Z containers) - storage full,Collecté *X R*Y (*Z conteneurs) - stockage complet
 CURRENT,logistics_status_collectcontainerstime,3472,Collected *X R*Y (*Z containers) in T*P,Recueilli *X R*Y (*Z conteneurs) dans T*P
 CURRENT,logistics_status_collectcontainerstimefull,3472,Collected *X R*Y (*Z containers) in T*P - storage full,Collecté *X R*Y (*Z conteneurs) dans T*P - stockage complet
@@ -31,7 +31,7 @@ CURRENT,logistics_log_transferfromfull1,3472,Transferred *X R*Y from L*Z out of 
 CURRENT,logistics_status_buynomoney,3472,Bought *X R*Y for $*Z out of the *P desired - insufficient funds,Acheté *X R*Y pour $*Z hors du *P souhaité - fonds insuffisants
 CURRENT,logistics_status_buynosupply,3472,Bought *X R*Y for $*Z out of the *P desired - insufficient supply,Acheté *X R*Y pour $*Z en dehors du *P désiré - approvisionnement insuffisant
 CURRENT,logistics_status_sellnosupply,3472,Sold *X R*Y for $*Z out of the *P desired - insufficient cargo,Vendu *X R*Y pour $*Z hors du *P souhaité - cargaison insuffisante
-CURRENT,logistics_status_miningstacks,3472,Mined *X R*Y (*Z stacks),Le mien *X R*Y (*Z stacks)
+CURRENT,logistics_status_miningstacks,3472,Mined *X R*Y (*Z stacks),Mine *X R*Y (*Z piles)
 CURRENT,logistics_status_collectcontainers,3472,Collected *X R*Y (*Z containers),Collecte *X R*Y (*Z conteneurs)
 CURRENT,wolf_part2_objective_escape,3472,Undock and get to a safe distance before the Orion Sentinel explodes,Désamarrer et se mettre à bonne distance avant que la sentinelle d'Orion n'explose
 CURRENT,settings_motionsicknessmode,3400,Motion Sickness Mode,Mode mal des transports
@@ -132,7 +132,7 @@ CURRENT,thefinalstand_battle_rep1,3244,Commander Harken! I see that my first fle
 CURRENT,settings_credits,3239,CREDITS,CRÉDITS
 CURRENT,newmainmenu_continue,3239,CONTINUE GAME,CONTINUER LE JEU
 CURRENT,newmainmenu_savetosteamcloud_tooltip,3239,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,Le jeu sera sauvegardé sur Steam Cloud lorsque l'option est activée. Un avertissement s'affichera si la sauvegarde échoue.
-CURRENT,newmainmenu_saveoptions,3239,Save Options,Sauvegarder les options
+CURRENT,newmainmenu_saveoptions,3239,Save Options,Options de sauvegarde
 CURRENT,hud_ftlshipblockedfromftl,3239,Ship cannot enter hyperspace with your fleet,Le vaisseau ne peut pas entrer en hyperespace avec votre flotte.
 CURRENT,hud_window_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,LOGISTIQUE INTERSTELLAIRE
 CURRENT,hud_tooltip_switchflooring,3239,[{RotateObject}] Switch flooring style,[{RotateObject}] Change de style de plancher
@@ -206,7 +206,7 @@ CURRENT,logistics_system_select,3239,LOCATION,LOCATION
 CURRENT,logistics_create_order,3239,Create Order,Créer une commande
 CURRENT,logistics_loop,3239,Loop,Boucle
 CURRENT,logistics_order_none,3239,Order Type,Type de commande
-CURRENT,logistics_order_mine,3239,Mine,Le mien
+CURRENT,logistics_order_mine,3239,Mine,Miner
 CURRENT,logistics_order_collect,3239,Collect Gas,Collecter le gaz
 CURRENT,logistics_order_buy,3239,Buy,Acheter
 CURRENT,logistics_order_sell,3239,Sell,Vendre
@@ -232,7 +232,7 @@ CURRENT,logistics_stuck_tradingpost,3239,System S*X does not have a trading post
 CURRENT,logistics_stuck_stargate,3239,Stargate is not ready for jump,La porte des étoiles n'est pas prête à sauter
 CURRENT,logistics_status_notrunning,3239,No order currently running,Aucune commande en cours
 CURRENT,logistics_status_travelling,3239,Travelling to system S*X,Voyager vers le système S*X
-CURRENT,logistics_status_mining,3239,Mined *X R*Y,Le mien *X R*Y
+CURRENT,logistics_status_mining,3239,Mined *X R*Y,Mine *X R*Y
 CURRENT,logistics_status_collect,3239,Collected *X R*Y,Recueil *X R*Y
 CURRENT,logistics_status_buy,3239,Bought *X R*Y for $*Z,Acheté *X R*Y pour $*Z
 CURRENT,logistics_status_sell,3239,Sold *X R*Y for $*Z,Vendu *X R*Y pour $*Z
@@ -354,7 +354,7 @@ CURRENT,settings_autosaveinterval,3054,Auto-save Interval,Intervalle de sauvegar
 CURRENT,settings_minutes_shortened,3054,Mins.,Mins.
 CURRENT,newmainmenu_returntomainmenu,3054,RETURN TO MAIN MENU,RETOURNE AU MENU PRINCIPAL
 CURRENT,newmainmenu_mainmenu,3054,MAIN MENU,MENU PRINCIPAL
-CURRENT,newmainmenu_showautosaves,3054,AUTOSAVES,SAUVEGARDES AUTOMATIQUES
+CURRENT,newmainmenu_showautosaves,3054,AUTOSAVES,SAUVEGARDES AUTO
 CURRENT,newmainmenu_newgameoptions,3054,Game Options,Options de jeu
 CURRENT,newmainmenu_defensiveenemies,3054,Defensive Enemies,Ennemis défensifs
 CURRENT,newmainmenu_defensiveenemiestooltip,3054,Hostile ships will only target you once you have targeted them first.,Les vaisseaux hostiles ne te prendront pour cible que lorsque tu les auras ciblés en premier.
@@ -559,8 +559,8 @@ CURRENT,survivalend_quitmessage1,3054,"We hope you enjoyed playing the demo of T
 CURRENT,survivalend_quitmessage,3054,"After a long and perilous journey, the survivors emerged into a new and uncharted galaxy.  Those left behind faced a desperate, nomadic life.  But those that made the jump face an even more uncertain future.  Humanity's survival remains on a knife edge...","Après un long et périlleux voyage, les survivants ont émergé dans une galaxie nouvelle et inexplorée.  Ceux qui sont restés sur place ont dû faire face à une vie nomade et désespérée.  Mais ceux qui ont fait le saut sont confrontés à un avenir encore plus incertain.  La survie de l'humanité reste sur le fil du rasoir..."
 CURRENT,settings_translatorassist_description,3054,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key. Enables the translation editing window ({TranslatorWindow}).","Active des fonctions pour aider les traducteurs, comme Alt pour révéler l'anglais et Ctrl pour révéler la clé de phrase. Active la fenêtre d'édition de la traduction ({TranslatorWindow})."
 CURRENT,shipeditor_tooltip_eyedropper,3054,"Lets you select a paint from the exterior of your ship (can also be used by pressing the ""{AltTool}"" key)","Permet de sélectionner une peinture de l'extérieur de ton vaisseau (peut également être utilisé en appuyant sur la touche ""{AltTool}"")"
-CURRENT,settings_exitsaves_tooltip,3054,"When enabled, the current game will create an auto-save when abandoned or when the game is quit.","Lorsque cette option est activée, le jeu en cours crée une sauvegarde automatique lorsqu'il est abandonné ou lorsque le jeu est quitté."
-CURRENT,newmainmenu_exitsaves,3054,Auto-save on exit,Sauvegarde automatique à la sortie
+CURRENT,settings_exitsaves_tooltip,3054,"When enabled, the current game will create an auto-save when abandoned or when the game is quit.","Lorsque cette option est activée, le jeu en cours crée une sauvegarde automatique en retournant au menu ou en quittant le jeu."
+CURRENT,newmainmenu_exitsaves,3054,Auto-save on exit,Sauvegarde automatique en quittant
 CURRENT,stargatesectorwarning_harken_1,3054,"Captain, the new sector needs to be surveyed before your sector map is populated with systems. We have a full scan underway for the sector, once it's completed more locations will be marked on your map.","Capitaine, le nouveau secteur a besoin d'être sondé avant que votre carte sectorielle ne soit peuplée de systèmes. Nous avons un scan complet en cours pour le secteur, une fois qu'il sera terminé, d'autres emplacements seront marqués sur ta carte."
 CURRENT,stargatesectorwarning_harken_2,3054,"In the systems surveyed so far we've found new resources and severe weather systems, which may be just a glimpse into what awaits us in this sector.","Dans les systèmes étudiés jusqu'à présent, nous avons trouvé de nouvelles ressources et des systèmes météorologiques violents, qui ne sont peut-être qu'un aperçu de ce qui nous attend dans ce secteur."
 CURRENT,stargatesectorwarning_harken_3,3054,"Who knows what you may find out here. Be careful, Captain.","Qui sait ce que tu pourrais trouver ici. Soyez prudent, capitaine."
@@ -569,7 +569,7 @@ CURRENT,dsi_part2_isotopesintro2,3054,"It's not too complex.  It starts with a H
 CURRENT,techtree_node_caption_hydroponicsrepeatable,3054,Spend research credits to continually increase our crop yield.,Dépense les crédits de recherche pour augmenter continuellement le rendement de nos cultures.
 CURRENT,keybinding_alttool,2886,Alt Editor Tool,Outil d'édition Alt
 CURRENT,keybinding_translatorwindow,2886,Translator Window,Fenêtre du traducteur
-CURRENT,newmainmenu_autosavewarning,2886,Auto-save load warning,Avertissement de charge de sauvegarde automatique
+CURRENT,newmainmenu_autosavewarning,2886,Auto-save load warning,Alerte lors du chargement d'une sauvegarde automatique
 CURRENT,save_autosavewarning_header,2886,WARNING: Autosave loaded,AVERTISSEMENT : Sauvegarde automatique chargée
 CURRENT,save_autosavewarning_body,2886,"This save is likely to be overwritten by the game as you continue playing, so you should create a manual save if you haven't already done so using the ""SAVE GAME"" option.\n\nThis warning can be disabled in the settings menu.","Cette sauvegarde risque d'être écrasée par le jeu lorsque tu continueras à jouer, tu devrais donc créer une sauvegarde manuelle si tu ne l'as pas déjà fait en utilisant l'option ""SAVE GAME"".\n\nCet avertissement peut être désactivé dans le menu des paramètres."
 CURRENT,hud_jumpgalaxies,2886,ESCAPE THE GALAXY,ÉCHAPPE-TOI DE LA GALAXIE
@@ -807,8 +807,8 @@ CURRENT,keybinding_takescreenshot,2793,Screenshot (+ {MetaCtrl}),Capture d'écra
 CURRENT,origin_shipofficial,2793,OFFICIAL SHIPS,VAISSEAUX OFFICIELS
 CURRENT,origin_shipcommunity,2793,COMMUNITY SHIPS,VAISSEAUX COMMUNAUTAIRES
 CURRENT,origin_shipuser,2793,PLAYER-MADE SHIPS,VAISSEAUX FABRIQUÉS PAR LES JOUEURS
-CURRENT,origin_shipsteam,2793,SUBSCRIBED SHIPS ON STEAM WORKSHOP,VAISSEAUX ABONNÉS À L'ATELIER VAPEUR
-CURRENT,origin_shipsteamuser,2793,SHIPS UPLOADED TO STEAM WORKSHOP,LES VAISSEAUX SONT TÉLÉCHARGÉS DANS L'ATELIER DE FABRICATION DE VAPEUR
+CURRENT,origin_shipsteam,2793,SUBSCRIBED SHIPS ON STEAM WORKSHOP,VAISSEAUX DU STEAM WORKSHOP
+CURRENT,origin_shipsteamuser,2793,SHIPS UPLOADED TO STEAM WORKSHOP,LES VAISSEAUX EXPORTER SUR STEAM WORKSHOP
 CURRENT,shipeditor_mode_eyedropper,2793,Eyedropper,Compte-gouttes
 CURRENT,shipeditor_paint,2793,PAINT,PEINTURE
 CURRENT,shipeditor_paint_paint,2793,Foreground Paint,Peinture d'avant-plan
@@ -856,8 +856,8 @@ CURRENT,trade_autotradecancelled,2793,LAST ORDER CANCELLED,DERNIÈRE COMMANDE AN
 CURRENT,origin_official,2793,OFFICIAL,OFFICIEL
 CURRENT,origin_community,2793,COMMUNITY,COMMUNAUTÉ
 CURRENT,origin_user,2793,PLAYER-MADE,FABRIQUÉ PAR LE JOUEUR
-CURRENT,origin_steam,2793,SUBSCRIBED ON STEAM WORKSHOP,ABONNÉ À L'ATELIER VAPEUR
-CURRENT,origin_steamuser,2793,UPLOADED TO STEAM WORKSHOP,TÉLÉCHARGÉ SUR STEAM WORKSHOP
+CURRENT,origin_steam,2793,SUBSCRIBED ON STEAM WORKSHOP,ABONNÉ AU STEAM WORKSHOP
+CURRENT,origin_steamuser,2793,UPLOADED TO STEAM WORKSHOP,EXPORTER SUR STEAM WORKSHOP
 CURRENT,special_stargatepart3,2793,"Andromeda Project Phases 4, 5","Projet Andromède Phases 4, 5"
 CURRENT,dsi_part2_objective_installengines,2793,OPTIONAL: Install engines in the A.J.E Foundry,OPTIONNEL : Installer des moteurs dans la A.J.E Foundry
 CURRENT,settings_dynamiclighting,2675,Use Dynamic Lighting,Utilise un éclairage dynamique
@@ -1215,7 +1215,7 @@ CURRENT,mainmenu_newgamee,2448,New Game - Large Logistics,Nouvelle partie - Gran
 CURRENT,mainmenu_savegame,2448,Save Game,Sauvegarder
 CURRENT,mainmenu_loadgame,2448,Load Game,Charger partie
 CURRENT,mainmenu_abandongame,2448,Abandon Game,Abandonner la partie
-CURRENT,mainmenu_steamworkshop,2448,Steam Workshop,Atelier Steam
+CURRENT,mainmenu_steamworkshop,2448,Steam Workshop,Steam Workshop
 CURRENT,mainmenu_legal,2448,Privacy / Legal,Confidentialité / Mentions légales
 CURRENT,mainmenu_gamemode_survival,2448,Survival,Survie
 CURRENT,mainmenu_gamemode_survival_tooltip,2448,"Stay one step ahead of a devastating anomaly, for as long as you can","Gardez une longueur d'avance sur une anomalie dévastatrice, aussi longtemps que possible"
@@ -1237,14 +1237,14 @@ CURRENT,mainmenu_gamemode_unlocked_survival,2448,Game Mode: Survival,Mode de jeu
 CURRENT,mainmenu_createship,2448,DEVELOPER Create Ship,DÉVELOPPEUR Créer un vaisseau
 CURRENT,mainmenu_loadship,2448,DEVELOPER Load Ship,DÉVELOPPEUR Charger le vaisseau
 CURRENT,mainmenu_loadgamedev,2448,DEVELOPER Load Test Game,Charger partie test DÉVELOPPEUR
-CURRENT,mainmenu_exportship,2448,Export Ship,Vaisseau d'exportation
+CURRENT,mainmenu_exportship,2448,Export Ship,Vaisseaux sauvegardés
 CURRENT,mainmenu_importship,2448,Import Ship,Importer un vaisseau
-CURRENT,mainmenu_importfriendly,2448,Import Friendly Ship,Vaisseau compatible avec l'importation
+CURRENT,mainmenu_importfriendly,2448,Import Friendly Ship,Importer vaisseau allié
 CURRENT,mainmenu_importhostile,2448,Import Hostile Ship,Importer un vaisseau hostile
 CURRENT,mainmenu_tools,2448,Developer Tools,Outils de développement
-CURRENT,mainmenu_quit,2448,Quit,Quitter
+CURRENT,mainmenu_quit,2448,Quit,Quitter le jeu
 CURRENT,settings_analytics,2448,Analytics,Analytique
-CURRENT,settings_analytics_tooltip,2448,We need to collect usage data to help us to better understand how people are playing and to help us to improve the game. \n\nWe do not collect any personally identifiable information.\n\nTo find out more visit Legal Information (bottom of the screen),"Nous devons collecter des données d'utilisation pour nous aider à mieux comprendre comment les gens jouent et à améliorer le jeu. \n\nNous ne collectons aucune information personnelle identifiable.\n\nPour en savoir plus, consultez les informations légales (en bas de l'écran)"
+CURRENT,settings_analytics_tooltip,2448,We need to collect usage data to help us to better understand how people are playing and to help us to improve the game. \n\nWe do not collect any personally identifiable information.\n\nTo find out more visit Legal Information (bottom of the screen),"Nous devons collecter des données d'utilisation pour nous aider à mieux comprendre comment les gens jouent et pour améliorer le jeu. \n\nNous ne collectons aucune information personnelle identifiable.\n\nPour en savoir plus, consultez les informations légales (en bas de l'écran)"
 CURRENT,settings_hud,2448,Show HUD,Afficher le HUD
 CURRENT,settings_music,2448,Music,Musique
 CURRENT,settings_hudscale,2448,UI Scale,Échelle de l'interface utilisateur
@@ -1263,14 +1263,14 @@ CURRENT,toolsmenu_title,2448,Tools Menu,Menu Outils
 CURRENT,toolsmenu_dialogeditor,2448,Dialog Editor,Éditeur de boîtes de dialogue
 CURRENT,toolsmenu_spriteeditor,2448,Sprite Editor,Éditeur de sprites
 CURRENT,toolsmenu_close,2448,Close,Fermer
-CURRENT,steamworkshopmenu_title,2448,Steam Workshop Menu,Menu de l'atelier Steam
+CURRENT,steamworkshopmenu_title,2448,Steam Workshop Menu,Menu du Steam Workshop
 CURRENT,steamworkshopmenu_savegamesectionlabel,2448, ========================== Save Games ==========================, ========================== Sauvegarder les jeux ======================= ====
 CURRENT,steamworkshopmenu_uploadsavegametitlelabel,2448,Title,Titre
 CURRENT,steamworkshopmenu_uploadsavegamedesclabel,2448,Description,Description
 CURRENT,steamworkshopmenu_uploadsavegame,2448,Upload,Télécharger
 CURRENT,steamworkshopmenu_updateselectedsavegame,2448,Update Selected,Mettre à jour la sélection
 CURRENT,steamworkshopmenu_savegamelegalagreementtext,2448,"By submitting this item, you agree to the","En soumettant cet article, vous acceptez les"
-CURRENT,steamworkshopmenu_savegamelegalagreementbutton,2448,workshop terms of service,conditions d'utilisation de l'atelier
+CURRENT,steamworkshopmenu_savegamelegalagreementbutton,2448,workshop terms of service,conditions d'utilisation de Steam Workshop
 CURRENT,steamworkshopmenu_uploadsavegameprogress,2448, =, =
 CURRENT,steamworkshopmenu_publishedsavegamelistlabel,2448,Published Save Games,Sauvegardes de parties publiées
 CURRENT,steamworkshopmenu_refreshpublishedsavegamelist,2448,Refresh List,Actualiser la liste
@@ -1283,7 +1283,7 @@ CURRENT,steamworkshopmenu_uploadshipdesclabel,2448,Description,Description
 CURRENT,steamworkshopmenu_uploadship,2448,Upload,Télécharger
 CURRENT,steamworkshopmenu_updateselectedship,2448,Update Selected,Mettre à jour la sélection
 CURRENT,steamworkshopmenu_shiplegalagreementtext,2448,"By submitting this item, you agree to the","En soumettant cet article, vous acceptez les"
-CURRENT,steamworkshopmenu_shiplegalagreementbutton,2448,workshop terms of service,conditions d'utilisation de l'atelier
+CURRENT,steamworkshopmenu_shiplegalagreementbutton,2448,workshop terms of service,conditions d'utilisation du Steam Workshop
 CURRENT,steamworkshopmenu_uploadshipprogress,2448, =, =
 CURRENT,steamworkshopmenu_publishedshiplistlabel,2448,Published Ships,Vaisseaux publiés
 CURRENT,steamworkshopmenu_refreshpublishedshiplist,2448,Refresh List,Actualiser la liste
@@ -1298,7 +1298,7 @@ CURRENT,newmainmenu_savegame,2448,SAVE GAME,SAUVEGARDER
 CURRENT,newmainmenu_confirm,2448,CONFIRM,CONFIRMER
 CURRENT,newmainmenu_cancel,2448,CANCEL,ANNULER
 CURRENT,newmainmenu_settings,2448,SETTINGS,PARAMÈTRES
-CURRENT,newmainmenu_quit,2448,QUIT,QUITTER
+CURRENT,newmainmenu_quit,2448,QUIT,QUITTER LE JEU
 CURRENT,newmainmenu_abandon,2448,ABANDON GAME,ABANDONNER LA PARTIE
 CURRENT,newmainmenu_resume,2448,RESUME,CONTINUER
 CURRENT,newmainmenu_chooseship,2448,CHOOSE STARTING SHIP,CHOISIR LE VAISSEAU DE DÉMARRAGE
@@ -1316,14 +1316,14 @@ CURRENT,newmainmenu_loadgamedev,2448,LOAD GAME (DEV),CHARGER PARTIE (DEV)
 CURRENT,newmainmenu_createship,2448,CREATE NEW SHIP,CRÉER UN NOUVEAU VAISSEAU
 CURRENT,newmainmenu_createnewsave,2448,CREATE NEW SAVE,CRÉER UNE NOUVELLE SAUVEGARDE
 CURRENT,newmainmenu_exportship,2448,EXPORT SHIP,VAISSEAU D'EXPORTATION
-CURRENT,newmainmenu_uploadship,2448,UPLOAD TO STEAM,TÉLÉCHARGER SUR STEAM
+CURRENT,newmainmenu_uploadship,2448,UPLOAD TO STEAM,EXPORTER SUR STEAM
 CURRENT,newmainmenu_setshipname,2448,SET SHIP NAME,DÉFINIR LE NOM DU VAISSEAU
 CURRENT,newmainmenu_importhostile,2448,IMPORT HOSTILE,IMPORTER HOSTILE
 CURRENT,newmainmenu_importfriendly,2448,IMPORT FRIENDLY,IMPORTER ALLIÉ
-CURRENT,newmainmenu_createnewexport,2448,CREATE NEW EXPORT,CRÉER UNE NOUVELLE EXPORTATION
+CURRENT,newmainmenu_createnewexport,2448,CREATE NEW EXPORT,CRÉER UN NOUVEAU VAISSEAU
 CURRENT,newmainmenu_createnewupload,2448,CREATE NEW WORKSHOP ITEM,CRÉER UN NOUVEL ARTICLE D'ATELIER
 CURRENT,newmainmenu_updateexistingupload,2448,UPDATE EXISTING WORKSHOP ITEM,MISE À JOUR DE L'ÉLÉMENT D'ATELIER EXISTANT
-CURRENT,newmainmenu_steamworkshop,2448,STEAM WORKSHOP,ATELIER VAPEUR
+CURRENT,newmainmenu_steamworkshop,2448,STEAM WORKSHOP,STEAM WORKSHOP
 CURRENT,newmainmenu_uploadprogress,2448,UPLOAD PROGRESS: *P %,PROGRESSION DU TÉLÉCHARGEMENT : *P %
 CURRENT,newmainmenu_lockedindemo,2448,LOCKED IN DEMO,BLOQUÉ DANS LA DÉMO
 CURRENT,newmainmenu_locked,2448,(LOCKED),(BLOQUÉ)
@@ -1331,7 +1331,7 @@ CURRENT,newmainmenu_multisystem_simulation,2448,Enable Multi-system Simulation,A
 CURRENT,newmainmenu_debug_freespace,2448,Enable FreeSpace Debugging,Activer le débogage FreeSpace
 CURRENT,newmainmenu_darkmode,2448,Galaxy Map Dark Mode,Mode sombre de la carte de la galaxie
 CURRENT,newmainmenu_parallax,2448,Parallax effect,Effet parallaxe
-CURRENT,newmainmenu_slowcombat,2448,Slow during combat,Ralentir pendant le combat
+CURRENT,newmainmenu_slowcombat,2448,Slow during combat,Temps ralenti pendant les combats
 CURRENT,newmainmenu_filter,2448,SEARCH...,RECHERCHE...
 CURRENT,shiplibrary_hullonly,2448,[EMPTY HULL],[COQUE VIDE]
 CURRENT,shiplibrary_affordableonly,2448,Affordable Only,Abordable seulement
@@ -1501,7 +1501,7 @@ CURRENT,hud_panel_storagecrate_quantity,2448,The number of items or stacks of th
 CURRENT,hud_panel_storagecrate_permitunload,2448,Allow crew members to unload from this crate.\n\nIf disabled then only robot arms can unload.,"Autoriser les membres de l'équipage à décharger cette caisse.\n\nSi cette option est désactivée, seuls les bras du robot peuvent décharger."
 CURRENT,hud_panel_storagecrate_permitload,2448,Allow crew members to load this crate.\n\nIf disabled then only robot arms can load.,"Autoriser les membres de l'équipage à charger cette caisse.\n\nSi cette option est désactivée, seuls les bras du robot peuvent charger."
 CURRENT,hud_panel_storagecrate_selecttype,2448,The type that the storage crate will be storing.,Le type que la caisse de stockage stockera.
-CURRENT,hud_storagecrate_tooltip_dumping,2448,Dumping *X,Dumping *X
+CURRENT,hud_storagecrate_tooltip_dumping,2448,Dumping *X,Déchargement *X
 CURRENT,hud_storagecrate_tooltip_remaining,2448,Quantity Remaining: *X,Quantité restante : *X
 CURRENT,hud_storagecrate_tooltip_storing,2448,Storing *X,Stockage de *X
 CURRENT,hud_storagecrate_tooltip_quantity,2448,Quantity: *X,Quantité : *X
@@ -1546,11 +1546,11 @@ CURRENT,equipment_weaponsconsole_extradescription,2448,*X Connected weapons,*X A
 CURRENT,equipment_weaponsconsole_connected,2448,Controlled by Weapons Console,Contrôlé par la console d'armes
 CURRENT,equipment_storagecrate_quantity,2448,STORED: *X/*Y,STOCKÉ : *X/*Y
 CURRENT,equipment_storagecrate_capacity,2448,CAPACITY,CAPACITÉ
-CURRENT,equipment_storagecrate_dumping,2448,DUMPING,DECHARGEMENT
+CURRENT,equipment_storagecrate_dumping,2448,DUMPING,DÉCHARGEMENT
 CURRENT,equipment_storagecrate_refill_enable,2448,PRIORITISE ZONES,PRIORISER LES ZONES
 CURRENT,equipment_storagecrate_refill_disable,2448,PRIORITISE CRATE,PRIORISER LES CAISSES
-CURRENT,equipment_storagecrate_permitcrewload,2448,CREW LOADING,CHARGEMENT DE L'ÉQUIPAGE
-CURRENT,equipment_storagecrate_permitcrewunload,2448,CREW UNLOADING,DÉCHARGEMENT DE L'ÉQUIPAGE
+CURRENT,equipment_storagecrate_permitcrewload,2448,CREW LOADING,STOCKER PAR L'ÉQUIPAGE
+CURRENT,equipment_storagecrate_permitcrewunload,2448,CREW UNLOADING,DÉCHARGER PAR L'ÉQUIPAGE
 CURRENT,factory_stockpileoutput,2448,STOCKPILE,STOCKER
 CURRENT,factory_stockpileoutput_tooltip,2448,"STOCKPILE\n\nWhen ticked, the produced items will be immediately unloaded into any cargo storage area, stockpiling the item.\n\nIf unticked, the produced item will remain until it is used somewhere, or until there is specific cargo space available.","STOCKER\n\nQuand cette option est cochée, les objets produits sont immédiatement déchargés vers n’importe quelle zone de stockage de cargaison, afin de constituer un stock.\n\nQuand elle n’est pas cochée, l’objet produit reste sur place jusqu’à être utilisé quelque part, ou jusqu’à ce qu’un espace de cargaison spécifique soit disponible."
 CURRENT,shipeditor_commit,2448,CONFIRM,CONFIRMER
@@ -1766,7 +1766,7 @@ CURRENT,techtree_award_title,2448,RESEARCH COMPLETED,RECHERCHE TERMINÉE
 CURRENT,award_rewards,2448,Rewards,Récompenses
 CURRENT,tactical_docked,2448,--- DOCKED ---,--- AMARRÉ ---
 CURRENT,tactical_undock,2448,UNDOCK,SE DÉSAMARRER
-CURRENT,tactical_throttle,2448,THROTTLE,ACCÉ
+CURRENT,tactical_throttle,2448,THROTTLE,POUSSÉE
 CURRENT,tactical_detach_all,2448,DETACH ALL,DÉTACHER TOUT
 CURRENT,tactical_velocity,2448,VELOCITY,VITESSE
 CURRENT,tactical_evasion,2448,EVASION,ÉVASION
@@ -2121,7 +2121,7 @@ CURRENT,object_logisticsdrone_description,2448,"An incredibly useful semi-intell
 CURRENT,object_meteor,2448,Meteor,Météore
 CURRENT,object_asteroid,2448,Asteroid,Astéroïde
 CURRENT,object_comet,2448,Comet,Comète
-CURRENT,object_mineralpatch,2448,Mineral Patch,Patch minéral
+CURRENT,object_mineralpatch,2448,Mineral Patch,Zone minéral
 CURRENT,object_none,2448,NoType,Aucun type
 CURRENT,object_ordnance,2448,Ordnance,Munitions
 CURRENT,object_oxygen,2448,Oxygen,Oxygène
@@ -2183,7 +2183,7 @@ CURRENT,object_airreprocessor,2448,Air Reprocessor,Retraiteur d'air
 CURRENT,object_airreprocessor_description,2448,Converts CO2 into breathable Oxygen.,Convertit le CO2 en oxygène respirable.
 CURRENT,object_icegrinder,2448,Ice Grinder,Broyeur à glace
 CURRENT,object_icegrinder_description,2448,"Grinds giant lumps of ice into small pieces, then warms the ice until it melts into liquid. The resulting water must be filtered before it is safe to drink.","Broie des morceaux de glace géants en petits morceaux, puis réchauffe la glace jusqu'à ce qu'elle fonde en liquide. L’eau obtenue doit être filtrée avant d’être potable."
-CURRENT,object_proximitymine,2448,Mine,Le mien
+CURRENT,object_proximitymine,2448,Mine,Mine
 CURRENT,object_gascollector,2448,Gas Collector,Collecteur de gaz
 CURRENT,object_gascollector_description,2448,"A large exterior vent that sucks in gases from space. Many gases found in nebulas can be used to produce useful resources like Fuel, FTL charges, and explosives.","Un grand évent extérieur qui aspire les gaz de l’espace. De nombreux gaz trouvés dans les nébuleuses peuvent être utilisés pour produire des ressources utiles comme du carburant, des charges FTL et des explosifs."
 CURRENT,object_refinery,2448,Refinery,Raffinerie
@@ -2220,8 +2220,8 @@ CURRENT,object_stargatestructure,2448,Stargate Frame,Cadre de porte des étoiles
 CURRENT,object_stargateresin,2448,Stargate Resin,Résine porte des étoiles
 CURRENT,object_stargateactuator,2448,Stargate Actuator,Actionneur de porte des étoiles
 CURRENT,object_stargatereceiver,2448,Stargate Receiver,Récepteur Stargate
-CURRENT,object_sewage,2448,Sewage,Eaux usées
-CURRENT,object_wastewater,2448,Waste Water,Eaux usées
+CURRENT,object_sewage,2448,Sewage,Eaux souillée
+CURRENT,object_wastewater,2448,Waste Water,Eaux sale
 CURRENT,object_compost,2448,Compost,Compost
 CURRENT,object_carbondioxide,2448,CO2,CO2
 CURRENT,object_short_oxygen,2448,O2,O2
@@ -2375,7 +2375,7 @@ CURRENT,alert_type_nostorage,2448,NO STORAGE,PAS DE STOCKAGE
 CURRENT,warning_unbreathable,2448,UNBREATHABLE,IRRESSABLE
 CURRENT,warning_suitsrequired,2448,SPACESUITS REQUIRED,COMBINAISON SPATIALE REQUISE
 CURRENT,warning_deliveryblocked,2448,DELIVERY BLOCKED,LIVRAISON BLOQUÉE
-CURRENT,warning_storagerequired,2448,CREATE STORAGE ZONES,CRÉER DES ZONES DE STOCKAGE
+CURRENT,warning_storagerequired,2448,CREATE STORAGE ZONES,MANQUE DE STOCKAGE
 CURRENT,format_currency,2448,$*X,$*X
 CURRENT,format_per_square,2448,*X / sq,*X / carré
 CURRENT,ratings,2448,RATINGS,NOTES
@@ -2473,7 +2473,7 @@ CURRENT,tutorial_miningflytodeposit,2448,"This system seems to have asteroids co
 CURRENT,tutorial_miningswitchtotactical,2448,Switch to tactical mode.,Passez en mode tactique.
 CURRENT,tutorial_miningopenweaponscontrol,2448,Open the weapons control panel.,Ouvrez le panneau de contrôle des armes.
 CURRENT,tutorial_miningrange,2448,You can see the range of mining lasers by hovering over them. Mining lasers will fire at mineral patches in their field of fire.,Vous pouvez voir la portée des lasers miniers en les survolant. Les lasers miniers tireront sur des zones minérales dans leur champ de tir.
-CURRENT,tutorial_miningselecttarget,2448,Target a Tilium Ore patch by clicking on one while having a mining laser selected.,Ciblez un patch de minerai de Tilium en cliquant dessus tout en sélectionnant un laser minier.
+CURRENT,tutorial_miningselecttarget,2448,Target a Tilium Ore patch by clicking on one while having a mining laser selected.,Ciblez une zone de minerai de Tilium en cliquant dessus tout en sélectionnant un laser minier.
 CURRENT,tutorial_mininggetinrange,2448,Move your ship until the mineral patch is in the range of fire.,Déplacez votre vaisseau jusqu'à ce que la zone minérale soit à portée de tir.
 CURRENT,tutorial_miningwaitsmelter,2448,Perfect! Now wait for your smelter to smelt the Tilium Ore.,Parfait! Attendez maintenant que votre fonderie fonde le minerai de tilium.
 CURRENT,tutorial_buyship_title,2448,PURCHASING SHIPS,ACHAT DE VAISSEAUX
@@ -2691,7 +2691,7 @@ CURRENT,wolf_part3_setup4,2448,"What they won't realise is you'll be carrying se
 CURRENT,wolf_part3_setup5,2448,"We have one final trick, to buy you some time before the cavalry arrives.  We can reverse the energy field in the ship's FTL drive, and trigger a massive burst of EMP energy.  Enough to disable their FTL and prevent any chance of escape.",Nous avons une dernière astuce : vous faire gagner du temps avant l'arrivée de la cavalerie.  Nous pouvons inverser le champ d'énergie dans le moteur FTL du vaisseau et déclencher une explosion massive d'énergie EMP.  De quoi désactiver leur FTL et empêcher toute chance de fuite.
 CURRENT,wolf_part3_setup6,2448,"Your own ship will lose power too - but in the calamity that follows, you'll have time to fit your weapon systems and prepare for a tough fight.","Votre propre vaisseau perdra également de la puissance, mais dans la calamité qui s'ensuivra, vous aurez le temps d'installer vos systèmes d'armes et de vous préparer à un combat difficile."
 CURRENT,wolf_part3_setup7,2448,You'll have to hold them off for a couple of minutes.  My strike force will perform a combat drop virtually on top of you.  Then the tables will turn in our favour.,Vous devrez les retenir pendant quelques minutes.  Ma force de frappe effectuera un largage de combat pratiquement sur vous.  La situation tournera alors en notre faveur.
-CURRENT,wolf_part3_objective_dockastral,2448,Dock with the Astral Temptress and crew the ship [*X/*Y],Amarrez-vous à la Tentatrice astrale et équipage du vaisseau [*X/*Y]
+CURRENT,wolf_part3_objective_dockastral,2448,Dock with the Astral Temptress and crew the ship [*X/*Y],Amarrez-vous à la Tentatrice astrale et transférez de l'équipage au vaisseau [*X/*Y]
 CURRENT,wolf_part3_objective_jumparound,2448,Jump the Astral Temptress to empty systems until attacked,Sautez avec la Tentatrice astrale vers des systèmes vides jusqu'à ce qu'elle soit attaquée.
 CURRENT,wolf_part3_setup8,2448,Remember - the pirate vessel will not show themselves unless the Astral Temptress is alone and unarmed. Good hunting!,N'oubliez pas que le vaisseau pirate ne se montrera que si la Tentatrice Astrale est seule et désarmée. Bonne chasse !
 CURRENT,wolf_part3_uninstallweapons1,2448,The pirates won't take the bait if they see you armed!,Les pirates ne mordront pas à l'hameçon s'ils vous voient armé !
