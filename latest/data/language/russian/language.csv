@@ -4,7 +4,7 @@ NEW,award_civilianpayment,3472,CIVILIAN PAYMENT,ГРАЖДАНСКИЙ ПЛАТ�
 NEW,award_civilianpayment_caption,3472,*X permanent residents in your fleet,*X постоянных жителей в вашем флоте
 NEW,logistics_status_default,3472,Order running,Заказ выполняется
 NEW,logistics_status_miningstacksfull,3472,Mined *X R*Y (*Z stacks) - storage full,Добыто *X R*Y (*Z стопки) - хранилище заполнено
-NEW,logistics_status_miningstackstime,3472,Mined *X R*Y (*Z stacks) in T*P,Добыто *X R*Y (*Z стопки) в Т*P
+NEW,logistics_status_miningstackstime,3472,Mined *X R*Y (*Z stacks) in T*P,Добыто *X R*Y (*Z стопки) в T*P
 NEW,logistics_status_miningstackstimefull,3472,Mined *X R*Y (*Z stacks) in T*P - storage full,Добыто *X R*Y (*Z стопки) в T*P - хранилище заполнено
 NEW,logistics_status_miningratio,3472,Mined *X R*Y (*Z/*P stacks),Добыто *X R*Y (*Z/*P стопки)
 NEW,logistics_status_miningratiofull,3472,Mined *X R*Y (*Z/*P stacks) - storage full,Добыто *X R*Y (*Z/*P стопки) - хранилище заполнено

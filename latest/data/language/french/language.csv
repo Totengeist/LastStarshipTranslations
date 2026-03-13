@@ -1,6 +1,6 @@
 ﻿state,key,svn,english,translation
-NEW,ftl_galacticjump,3054,"This will be the final journey of your fleet.\nBe prepared for a long journey to the Andromeda galaxy, and save as many as you can!, and save as many as you can!",
-NEW,factory_stockpileoutput_tooltip,2448,"STOCKPILE\n\nWhen ticked, the produced items will be immediately unloaded into any cargo storage area, stockpiling the item.\n\nIf unticked, the produced item will remain until it is used somewhere, or until there is specific cargo space available, the produced items will be immediately unloaded into any cargo storage area.",
+CURRENT,factory_stockpileoutput_tooltip,2448,"STOCKPILE\n\nWhen ticked, the produced items will be immediately unloaded into any cargo storage area, stockpiling the item.\n\nIf unticked, the produced item will remain until it is used somewhere, or until there is specific cargo space available.","STOCKPILE\n\nLorsque cette case est cochée, les objets produits seront immédiatement déchargés dans n'importe quelle zone de stockage de fret.\n\nSi cette case n'est pas cochée, les objets produits resteront jusqu'à ce qu'ils soient utilisés ou jusqu'à ce qu'un espace de stockage réservé à l'objet soit disponible."
+CURRENT,ftl_galacticjump,3054,"This will be the final journey of your fleet.\nBe prepared for a long journey to the Andromeda galaxy, and save as many as you can!","Ce sera le dernier voyage de ta flotte.\nPrépare-toi à un long voyage vers la galaxie d'Andromède, et sauve le plus de personnes possible !"
 CURRENT,logistics_log_transfertonosupply,3492,Transferred *X R*Y to L*Z out of the *P desired - insufficient cargo,Transféré *X R*Y à L*Z hors du *P souhaité - cargaison insuffisante
 CURRENT,logistics_log_transferfromnosupply,3492,Transferred *X R*Y from L*Z out of the *P desired - insufficient cargo,Transféré *X R*Y de L*Z hors du *P souhaité - cargaison insuffisante
 CURRENT,trade_paymentperjump,3472,*X (+*Y) per sector jump,*X (+*Y) par saut de secteur
@@ -1796,7 +1796,7 @@ CURRENT,order_fleetlogistics,2448,Fleet Logistics,Logistique de la flotte
 CURRENT,order_battlestations,2448,Battle Stations,Postes de combat
 CURRENT,order_mining,2448,Mining,Exploitation minière
 CURRENT,action_opendoors,2448,Open All Doors,Ouvrir toutes les portes
-CURRENT,action_closedoors,2448,Close All Doors,Fermer toutes les portes
+CURRENT,action_closedoors,2448,Close All Doors,Fermez toutes les portes
 CURRENT,action_openvents,2448,Open All Vents,Ouvrir tous les évents
 CURRENT,action_closevents,2448,Close All Vents,Fermer tous les évents
 CURRENT,missions_title,2448,CONTRACTS,CONTRATS
