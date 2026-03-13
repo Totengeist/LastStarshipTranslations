@@ -1851,7 +1851,7 @@ CURRENT,mission_delivery_title,2448,Courier mission: Deliver cargo to nearby sys
 CURRENT,mission_delivery_titlefurther,2448,Deliver cargo to another sector,Livrer du fret vers un autre secteur
 CURRENT,mission_delivery_description,2448,I've got *X boxes of supplies that need delivering.,J'ai *X boîtes de fournitures à livrer.
 CURRENT,mission_delivery_descriptionfurther,2448,"The destination is *Y Sector Jumps away, in Sector *X.","La destination est *Y. Le secteur saute, dans le secteur *X."
-CURRENT,mission_delivery_destination,2448,"The destination is in this Sector, at Star System S*X.","La destination est dans ce secteur, chez Star System S*X."
+CURRENT,mission_delivery_destination,2448,"The destination is in this Sector, at Star System S*X.","La destination est dans ce secteur, chez système stellaire S*X."
 CURRENT,mission_delivery_timed,2448,These goods are required immediately. You'll have just *X minutes. (+50% pay),Ces marchandises sont requises immédiatement. Vous n’aurez que *X minutes. (+50% salaire)
 CURRENT,mission_delivery_timeremaining,2448,You have just *X seconds remaining to make the delivery!,Il ne vous reste que *X secondes pour effectuer la livraison !
 CURRENT,mission_delivery_outoftime,2448,It is too late - you will no longer be paid for the remaining cargo.,Il est trop tard : vous ne serez plus payé pour le fret restant.
@@ -1870,7 +1870,7 @@ CURRENT,mission_passengers_title,2448,Urgent passenger transport request,Demande
 CURRENT,mission_passengers_titlefurther,2448,Passengers require transport across sectors,Les passagers ont besoin d’un transport intersectoriel
 CURRENT,mission_passengers_description,2448,There is a group of *X civilians who are looking for safe transit.,Il y a un groupe de *X civils qui recherchent un transit sûr.
 CURRENT,mission_passengers_descriptionfurther,2448,"Their destination is *Y Sector Jumps away, in Sector *X.","Leur destination est le secteur *X, à *Y saut(s) sectoriel(s) d'ici. "
-CURRENT,mission_passengers_destination,2448,Their destination is in this Sector. Drop them off at Star System S*X.,Leur destination est dans ce Secteur. Déposez-les à Star System S*X.
+CURRENT,mission_passengers_destination,2448,Their destination is in this Sector. Drop them off at Star System S*X.,Leur destination est dans ce Secteur. Déposez-les à système stellaire S*X.
 CURRENT,mission_passengers_requirements,2448,Your ship will need enough free cabins in your habitation deck.,Votre vaisseau aura besoin de suffisamment de cabines libres sur votre pont d'habitation.
 CURRENT,mission_passengers_shuttle,2448,They are on their way to you now and will dock shortly.,Ils sont en route vers vous maintenant et accosteront sous peu.
 CURRENT,mission_passengers_delivery,2448,*X out of *Y passengers are on board.,*X passagers sur *Y sont à bord.
