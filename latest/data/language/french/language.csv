@@ -1796,7 +1796,7 @@ CURRENT,order_fleetlogistics,2448,Fleet Logistics,Logistique de la flotte
 CURRENT,order_battlestations,2448,Battle Stations,Postes de combat
 CURRENT,order_mining,2448,Mining,Exploitation minière
 CURRENT,action_opendoors,2448,Open All Doors,Ouvrir toutes les portes
-CURRENT,action_closedoors,2448,Close All Doors,Fermez toutes les portes
+CURRENT,action_closedoors,2448,Close All Doors,Fermer toutes les portes
 CURRENT,action_openvents,2448,Open All Vents,Ouvrir tous les évents
 CURRENT,action_closevents,2448,Close All Vents,Fermer tous les évents
 CURRENT,missions_title,2448,CONTRACTS,CONTRATS
