@@ -197,7 +197,7 @@ mainmenu_gamemode_survival              Survival
 mainmenu_gamemode_survival_tooltip      Stay one step ahead of a devastating anomaly, for as long as you can
 mainmenu_gamemode_survival_locked       Complete any story episode in 'Boldly Go' to unlock
 mainmenu_gamemode_freeroam              Free Roam
-mainmenu_gamemode_freeroam_tooltip      You are free to persue any career at your own pace. No anomaly, no stargate.
+mainmenu_gamemode_freeroam_tooltip      You are free to pursue any career at your own pace. No anomaly, no stargate.
 mainmenu_gamemode_freeroam_locked       Build a flight-ready ship in Creative Mode to unlock
 mainmenu_gamemode_creative              Creative
 mainmenu_gamemode_creative_tooltip      You have unlimited resources to build any ship you want
@@ -235,7 +235,9 @@ settings_hud                            Show HUD
 settings_music                          Music
 settings_hudscale                       UI Scale
 settings_sound                          SOUND
-settings_appearance                     APPEARANCE
+settings_language_category              LANGUAGE
+settings_userinterface                  UI & GAME
+settings_graphics                       GRAPHICS
 settings_keybindings                    KEYBOARD
 settings_autosaves                      AUTOSAVES
 settings_other                          OTHER
@@ -247,20 +249,40 @@ settings_fullscreen                     Fullscreen
 settings_resolution                     Resolution
 settings_language                       Language
 settings_credit_tooltip                 With thanks to:
-settings_arraytextures                  Use Array Textures
-settings_dynamiclighting                Use Dynamic Lighting
+settings_arraytextures                  Smooth Tiles
+settings_dynamiclighting                Dynamic Lighting
 settings_uibounce                       UI Highlight Bounce
+settings_uibounce_description           Enlarges GUI elements such as buttons on mouse over.
 settings_motionsicknessmode             Motion Sickness Mode
 settings_motionsicknessmode_description Background rotation is removed, which should help if you experience motion sickness in-game.
 settings_accentinsensitivesearch        Accent Insensitive Search
-settings_accentinsensitivesearch_description   When searching in lists, ignore accented characters, e.g. "é" will match "e"
+settings_accentinsensitivesearch_description   When searching in lists, ignore accented characters, e.g. "é" will match "e".
 settings_translatorassist               Translator Assist (Ctrl, Alt)
 settings_translatorassist_description   Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key. Enables the translation editing window ({TranslatorWindow}).
 settings_autosaveonftl                  Auto-save when leaving FTL
 settings_autosaveontimeinterval         Auto-save on time interval
 settings_autosaveinterval               Auto-save Interval
 settings_minutes_shortened              Mins.
-settings_instantshipswitch_description  When switching between ships, skip the transition
+settings_instantshipswitch_description  Skip rotation and panning effect when switching between ships.
+settings_softwarecursor                 Software Mouse Cursor
+settings_softwarecursor_tooltip         The game renders the mouse cursor instead of the operating system.
+settings_softwarecursorsize             Software Mouse Size
+settings_mousesize_small                Small
+settings_mousesize_medium               Medium
+settings_mousesize_large                Large
+settings_mousesize_huge                 Huge
+settings_opengamefolder                 OPEN GAME FOLDER
+settings_opentranslationeditor          TRANSLATION EDITOR ({TranslatorWindow})
+
+settings_communicator_speed             Character text speed
+settings_communicator_speed_description  The speed at which character dialogue text is revealed in the communicator.
+settings_camerapan_speed                Camera pan speed
+
+settings_slowest                        Slowest
+settings_slow                           Slow
+settings_normal                         Normal
+settings_fast                           Fast
+settings_fastest                        Fastest
     
 legal_button                            Legal Information
 wishlist_button                         Add to Wishlist
@@ -436,8 +458,10 @@ newmainmenu_locked                      (LOCKED)
 newmainmenu_multisystem_simulation      Enable Multi-system Simulation
 newmainmenu_debug_freespace             Enable FreeSpace Debugging
 newmainmenu_darkmode                    Galaxy Map Dark Mode
-newmainmenu_parallax                    Parallax effect
+newmainmenu_parallax                    Parallax
+newmainmenu_parallax_description        Use a parallax effect to give an impression of depth 
 newmainmenu_slowcombat                  Slow during combat
+newmainmenu_slowcombat_description      Switch to slow game speed after taking damage during combat.
 newmainmenu_instantshipswitch           Switch instantly between ships                  
 newmainmenu_exitsaves                   Auto-save on exit
 newmainmenu_autosavewarning             Auto-save load warning
@@ -446,8 +470,8 @@ newmainmenu_newgameoptions              Game Options
 newmainmenu_saveoptions                 Save Options
 newmainmenu_defensiveenemies            Defensive Enemies
 newmainmenu_defensiveenemiestooltip     Hostile ships will only target you once you have targeted them first.
-newmainmenu_multisectorsim              Multi-System Simulation
-newmainmenu_multisectorsimtooltip       Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.
+newmainmenu_multisystemsim              Multi-System Simulation
+newmainmenu_multisystemsimtooltip       Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.
 newmainmenu_invalidsavename             Invalid Save Name
 newmainmenu_invalidcharacters_caption   Save name contains invalid characters.
 newmainmenu_autosavenameinvalid_caption Save name reserved for autosaves.
@@ -684,7 +708,10 @@ hud_tooltip_rightclickclear             [RMB] Clear
 hud_tooltip_rightclickdelete            [RMB] Delete
 hud_tooltip_rightclickpurge             [RMB] Purge
 hud_tooltip_leftclickchangerecipe       [LMB] Cycle recipe
-hud_tooltip_rightclickconfigure         [RMB] Configure
+hud_tooltip_selectequipment             [LMB/RMB] Select
+hud_tooltip_selectequipmentadd          [SHIFT + LMB/RMB] Toggle select
+hud_tooltip_selectequipmentnearby       [LMB x2] Select all nearby
+hud_tooltip_selectequipmentdrag         [LMB Drag] Box select
 hud_tooltip_joinpipes                   [LMB] Join Pipes
 hud_tooltip_separatepipes               [LMB] Separate Pipes
 hud_tooltip_rotate                      [{RotateObject}] Rotate
@@ -754,6 +781,12 @@ hud_removefromtrack                     [RMB] Remove from track
 hud_converttracktosplitter              [CTRL + RMB] Convert to splitter
 hud_convertsplittertotrack              [CTRL + RMB] Convert to track
 
+hud_atmosphere_no_oxygen                NO OXYGEN
+hud_habitation_info_title               HABITATION
+hud_habitation_info_cabins              *X / *Y CABINS
+hud_habitation_info_sewage              *X SEWAGE
+
+
 communicator_incomingcall               INCOMING HAIL...
 communicator_outgoingcall               CALLING...
 communicator_newobjective               NEW OBJECTIVE
@@ -810,6 +843,8 @@ equipment_storagecrate_refill_enable       PRIORITISE ZONES
 equipment_storagecrate_refill_disable      PRIORITISE CRATE
 equipment_storagecrate_permitcrewload      CREW LOADING
 equipment_storagecrate_permitcrewunload    CREW UNLOADING
+
+equipment_multiple_selected                MULTIPLE RECIPES
 
 factory_stockpileoutput                 STOCKPILE
 factory_stockpileoutput_tooltip         STOCKPILE\n\nWhen ticked, the produced items will be immediately unloaded into any cargo storage area, stockpiling the item.\n\nIf unticked, the produced item will remain until it is used somewhere, or until there is specific cargo space available.
@@ -1101,6 +1136,9 @@ trade_tooltip_cancel                    [RMB] Cancel
 trade_tooltip_shift                     [SHIFT] x5
 trade_tooltip_control                   [CTRL] All
 trade_tooltip_disableorder              [CTRL + RMB] Disable
+trade_tooltip_expandautotrade           [LMB] Show Auto Trade Options
+trade_tooltip_collapseautotrade         [LMB] Hide Auto Trade Options
+
 trade_ourstock                          You have *X on-board
 trade_buying                            Buying *X
 trade_selling                           Selling *X
@@ -1267,6 +1305,21 @@ techtree_node_caption_metallurgyrepeatable        Spend research credits to cont
 techtree_node_title_robotarmspeedrepeatable       Robot Arm Speed
 techtree_node_caption_robotarmspeedrepeatable     Spend research credits to continually increase our robot arm speed.
 
+techtree_node_title_fighters1                     Fighters
+techtree_node_caption_fighters1                   Improve the survivability and agility of fighters. Armour mitigates damage received.
+techtree_node_title_fighterarmour1                Fighter Survivability 1
+techtree_node_caption_fighterarmour1              Increase armour damage mitigation.
+techtree_node_title_fighterarmour2                Fighter Survivability 2
+techtree_node_caption_fighterarmour2              Increase armour damage mitigation.
+techtree_node_title_fighterarmour3                Fighter Survivability 3
+techtree_node_caption_fighterarmour3              Increase armour damage mitigation.
+techtree_node_title_fighterspeed1                 Fighter Agility 1
+techtree_node_caption_fighterspeed1               Improve the fuel usage and speed of your fighters.
+techtree_node_title_fighterspeed2                 Fighter Agility 2
+techtree_node_caption_fighterspeed2               Improve the fuel usage and speed of your fighters.
+techtree_node_title_fighterspeed3                 Fighter Agility 3
+techtree_node_caption_fighterspeed3               Improve the fuel usage and speed of your fighters.
+
 tooltip_efficiency                      Efficiency +*X%
 tooltip_activating                      Activating +*X%
 boost_reactorefficiency                 Reactor Efficiency +*X%
@@ -1279,6 +1332,9 @@ boost_waterrecyclingefficiency          Water Recycling Efficiency +*X%
 boost_airrecyclingefficiency            Air Recycling Efficiency +*X%
 boost_recyclingefficiency               Recycling Efficiency *X%
 boost_harvestingyield                   Crop Yield +*X%
+boost_fighterarmour                     Fighter Armour +*X%
+boost_fighterspeed                      Fighter Speed +*X%
+boost_fighterfuel                       Fighter Fuel Efficiency +*X%
 
 special_dronebatchcollection            Drone Batch Collection
 special_mininglaseraccuracy             Mining Laser Precision
@@ -1313,6 +1369,8 @@ tactical_weapons                        WEAPONS
 tactical_fire                           FIRE
 tactical_hold                           HOLD
 tactical_maneuvering                    MANEUVERING
+tactical_dockingnotpossible             DOCKING IMPOSSIBLE
+tactical_thrustersrequired              THRUSTERS REQUIRED
 tactical_damaged                        DAMAGED
 tactical_reloading                      RELOADING
 tactical_lowpower                       LOW POWER
@@ -1470,15 +1528,14 @@ logistics_tooltip_extrastogglenone      No extra options available
 # Orders Window
 # =============================================================================
 
-orders_logistics                        LOGISTICS
-orders_crew                             CREW
 orders_doors                            DOORS
+orders_layerscope                       SHIP-SPECIFIC ORDERS
+orders_systemscope                      SYSTEM-WIDE ORDERS
 
 order_none                              None
 order_salvage                           Gather Salvage
 order_gather                            Gather Materials
 order_repairhull                        Repair Hull
-order_shiftwork                         Shift Work
 order_suitson                           Suits On
 order_exteriorwork                      Exterior Work
 order_weaponsactive                     Weapons Free
@@ -1488,10 +1545,20 @@ order_mining                            Mining
 order_autotradeactive                   Auto Trade
 order_advancedlogistics                 Interstellar Logistics
 
+order_tooltip_salvage                   Allow drones to gather salvage
+order_tooltip_gather                    Allow drones to gather raw and refined materials (ores, minerals, ingots)
+order_tooltip_repairhull                Allow drones to repair ship hull
+order_tooltip_suitson                   Make crew put on spacesuits if available
+order_tooltip_exteriorwork              Allow crew to perform jobs in freespace
+order_tooltip_weaponsactive             Allow weapons to fire
+order_tooltip_fleetlogistics            Allow logistics transfers between ships
+order_tooltip_battlestations            Battle Stations
+order_tooltip_mining                    Allow mining lasers to fire
+order_tooltip_autotradeactive           Allow auto trades to execute
+order_tooltip_advancedlogistics         Allow interstellar logistics to execute
+
 action_opendoors                        Open All Doors
 action_closedoors                       Close All Doors
-action_openvents                        Open All Vents
-action_closevents                       Close All Vents
 
 
 # =============================================================================
@@ -2007,6 +2074,8 @@ object_laserinfuser                     Laser Infuser
 object_crystalinfuser_description       Laser infuser, infuses objects with energy. No tiddlets were harmed in the making of this equipment. 
 object_lightningrod                     Lightning Rod
 object_lightningrod_description         These are installed in the exterior wall of your ship, reducing the damaging effects of lightning and providing more control over where the lightning strikes. They cannot be repaired, but they will queue the installation of their replacement, when destroyed by lightning.
+object_fighterbay                       Fighter Bay
+object_fighterbay_description           Install on the inside of your ship and provide materials to produce fighters. The fighter will launch from the top of the ship and return to the bay once the battle is over. If it dies, a new one can be built. 
 object_table                            Table
 object_smalltable                       Small Table
 object_chair                            Chair
@@ -2078,6 +2147,23 @@ loader_mode_load                        Load
 loader_mode_unload                      Unload
 
 loader_auto                             AUTO
+
+fighter_fuel                            FUEL: *X%
+fighter_ammo                            BULLETS: *X
+
+fighter_quantity                        *X / *Y
+
+fighter_health_text                     HULL
+fighter_ammo_text                       BULLETS
+fighter_fuel_text                       FUEL
+fighter_refuelling_text                 REFUELLING...
+
+fighter_create                          CREATE FIGHTER
+
+fighter_state_attackinglayer            ATTACKING *X
+fighter_state_attackingfighter          ATTACKING ENEMY FIGHTER
+fighter_state_returningtobay            RETURNING TO BAY
+fighter_state_idleinfreespace           SEARCHING FOR BAY
 
 
 # =============================================================================
@@ -2742,7 +2828,7 @@ wolf_part1_dronehint                    Your ship will need a drone bay and dron
 
 wolf_part1_completion1                  We've analysed the black box recordings and the evidence is already pretty clear.  There's a pirate vessel out there somewhere, preying on high value commercial vessels.  They wait in silence, until the ship is alone, isolated, and defenseless.  They come out of nowhere and attack without warning, and before anybody can respond they've destroyed the ship and looted the cargo.
 wolf_part1_completion2                  Most likely to be sold for vast profits to the Stargate Project - who don't seem keen to ask questions.
-wolf_part1_completion3                  So far they haven't left a single living witness. But the sensor data tells the full story. We've manged to extract another sensor image of the attacker.
+wolf_part1_completion3                  So far they haven't left a single living witness. But the sensor data tells the full story. We've managed to extract another sensor image of the attacker.
 wolf_part1_completion4                  It's another grainy photograph, but it's all we have to go on.  This is without doubt the vessel responsible for all this death and destruction.
 wolf_part1_completion5                  We need to find a way to track them down, and destroy them.  We will be in touch soon, Captain.
 wolf_part1_completion6                  In the mean time, we suggest you tend to your ships. If you've taken damage, you can repair the hull at any SHIPYARD. Use the funds we've sent to upgrade your defenses.
@@ -3930,8 +4016,22 @@ thefinalstand_end_objective_leave           Leave the HQ
 # Translation Editor
 # =============================================================================
 
-translationeditor_unmodified        Unmodified Phrases
-translationeditor_modified          Modified Phrases
+translationeditor_copytoclipboard   Copy
+translationeditor_usethistranslation Use This Translation
+translationeditor_none              None
+translationeditor_yourchanges       Your Changes
+translationeditor_new               New 
+translationeditor_updated           Updated
+translationeditor_unmodified        Unmodified
+translationeditor_showpreview       Show Preview
+
+translationeditor_english           English
+translationeditor_nenglish          New English
+translationeditor_previous          Previous
+translationeditor_fallback          Suggestion
+translationeditor_youredit          Your Change
+translationeditor_original          Approved
+translationeditor_empty             No Manually Approved Translation Yet
 
 translationeditor_reset             Revert
 translationeditor_reset_tooltip     Resets your modified translation back to the original translation.
@@ -3943,14 +4043,29 @@ translationeditor_english_tooltip2  Formatted English phrase
 translationeditor_english_tooltip3  This is what you are translating.
 translationeditor_english_tooltip4  You cannot change the English phrases.
 
-translationeditor_original_tooltip1 Unformatted original translation
-translationeditor_original_tooltip2 Formatted original translation
-translationeditor_original_tooltip3 This is what is currently used in the game.
+translationeditor_original_tooltip1 Unformatted Approved Translation
+translationeditor_original_tooltip2 Formatted Approved Translation
+translationeditor_original_tooltip3 This is what is currently used in the game. Even though the translation is "Approved" you can still submit changes to improve it further.
 
-translationeditor_new_tooltip1      Unformatted new translation
-translationeditor_new_tooltip2      Formatted new translation
+translationeditor_empty_original_tooltip1 Unformatted Approved translation
+translationeditor_empty_original_tooltip2 Formatted Approved translation
+translationeditor_empty_original_tooltip3 As there is no currently approved translation, the game is using the suggested translation above.\n\nIf you think the suggested translation is good, you should copy it into your changes with the "Use This Translation" button.\n\nAfter you submit your changes to us, your translation will then appear as approved in the next game update.
+
+translationeditor_new_tooltip1      Unformatted New Translation
+translationeditor_new_tooltip2      Formatted New Translation
 translationeditor_new_tooltip3      This is where you can change the translation.\n\nThis will affect your game only, unless you submit your updated translations to Introversion.
 
+translationeditor_fallback_tooltip1       Suggested Translation
+translationeditor_fallback_tooltip2       Formatted Suggested Translation
+translationeditor_fallback_tooltip3       This suggestion needs to be checked that it correctly matches the context of the game.\n\nIt will only be used if there is no "approved" translation.
+
+translationeditor_previousenglish_tooltip1       Previous English Phrase
+translationeditor_previousenglish_tooltip2       Formatted Previous English phrase
+translationeditor_previousenglish_tooltip3       The English phrase that was used in the previous version of the game.
+
+translationeditor_previoustranslation_tooltip1       Previous Translation Phrase
+translationeditor_previoustranslation_tooltip2       Formatted Previous Translation phrase
+translationeditor_previoustranslation_tooltip3       Translation of the English phrase that was used in the previous version of the game.
 
 # =============================================================================
 # Credits
@@ -4036,6 +4151,11 @@ creditsextras_testers_33            Kelsey-Leigh G. White
 creditsextras_testers_34            Jonathan Weinel
 creditsextras_testers_35            Andrei Copaceanu
 creditsextras_testers_36            Joseph Knight
+
+creditstitle_special                Special Thanks
+creditsextras_special_0             Jo Stansfield
+creditsextras_special_1             Leon Delay
+creditsextras_special_2             Elliot Delay
 
 creditstitle_translators            Translation
 

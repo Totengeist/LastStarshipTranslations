@@ -1,4 +1,136 @@
 ﻿state,key,svn,english,translation
+NEW,settings_language_category,3511,LANGUAGE,
+NEW,settings_communicator_speed,3511,Character text speed,
+NEW,settings_camerapan_speed,3511,Camera pan speed,
+NEW,settings_slowest,3511,Slowest,
+NEW,settings_slow,3511,Slow,
+NEW,settings_normal,3511,Normal,
+NEW,settings_fast,3511,Fast,
+NEW,settings_fastest,3511,Fastest,
+NEW,hud_atmosphere_no_oxygen,3511,NO OXYGEN,
+NEW,hud_habitation_info_title,3511,HABITATION,
+NEW,hud_habitation_info_cabins,3511,*X / *Y CABINS,
+NEW,hud_habitation_info_sewage,3511,*X SEWAGE,
+NEW,tactical_dockingnotpossible,3511,DOCKING IMPOSSIBLE,
+NEW,tactical_thrustersrequired,3511,THRUSTERS REQUIRED,
+NEW,creditstitle_special,3511,Special Thanks,
+NEW,settings_softwarecursor,3561,Software Mouse Cursor,
+NEW,settings_softwarecursor_tooltip,3561,The game renders the mouse cursor instead of the operating system.,
+NEW,settings_softwarecursorsize,3561,Software Mouse Size,
+NEW,settings_mousesize_small,3561,Small,
+NEW,settings_mousesize_medium,3561,Medium,
+NEW,settings_mousesize_large,3561,Large,
+NEW,settings_mousesize_huge,3561,Huge,
+NEW,settings_opengamefolder,3561,OPEN GAME FOLDER,
+NEW,hud_tooltip_selectequipment,3561,[LMB/RMB] Select,
+NEW,hud_tooltip_selectequipmentadd,3561,[SHIFT + LMB/RMB] Toggle select,
+NEW,hud_tooltip_selectequipmentnearby,3561,[LMB x2] Select all nearby,
+NEW,hud_tooltip_selectequipmentdrag,3561,[LMB Drag] Box select,
+NEW,equipment_multiple_selected,3561,MULTIPLE RECIPES,
+NEW,orders_layerscope,3561,SHIP-SPECIFIC ORDERS,
+NEW,orders_systemscope,3561,SYSTEM-WIDE ORDERS,
+NEW,order_tooltip_salvage,3561,Allow drones to gather salvage,
+NEW,order_tooltip_gather,3561,"Allow drones to gather raw and refined materials (ores, minerals, ingots)",
+NEW,order_tooltip_repairhull,3561,Allow drones to repair ship hull,
+NEW,order_tooltip_suitson,3561,Make crew put on spacesuits if available,
+NEW,order_tooltip_exteriorwork,3561,Allow crew to perform jobs in freespace,
+NEW,order_tooltip_weaponsactive,3561,Allow weapons to fire,
+NEW,order_tooltip_fleetlogistics,3561,Allow logistics transfers between ships,
+NEW,order_tooltip_battlestations,3561,Battle Stations,
+NEW,order_tooltip_mining,3561,Allow mining lasers to fire,
+NEW,order_tooltip_autotradeactive,3561,Allow auto trades to execute,
+NEW,order_tooltip_advancedlogistics,3561,Allow interstellar logistics to execute,
+NEW,object_fighterbay,3561,Fighter Bay,
+NEW,object_fighterbay_description,3561,"Install on the inside of your ship and provide materials to produce fighters. The fighter will launch from the top of the ship and return to the bay once the battle is over. If it dies, a new one can be built.",
+NEW,fighter_fuel,3561,FUEL: *X%,
+NEW,fighter_ammo,3561,BULLETS: *X,
+NEW,fighter_quantity,3561,*X / *Y,
+NEW,fighter_health_text,3561,HULL,
+NEW,fighter_ammo_text,3561,BULLETS,
+NEW,fighter_fuel_text,3561,FUEL,
+NEW,fighter_refuelling_text,3561,REFUELLING...,
+NEW,fighter_create,3561,CREATE FIGHTER,
+NEW,fighter_state_attackinglayer,3561,ATTACKING *X,
+NEW,fighter_state_attackingfighter,3561,ATTACKING ENEMY FIGHTER,
+NEW,fighter_state_returningtobay,3561,RETURNING TO BAY,
+NEW,fighter_state_idleinfreespace,3561,SEARCHING FOR BAY,
+NEW,translationeditor_usethistranslation,3561,Use This Translation,
+NEW,translationeditor_none,3561,None,
+NEW,translationeditor_yourchanges,3561,Your Changes,
+NEW,translationeditor_new,3561,New,
+NEW,translationeditor_updated,3561,Updated,
+NEW,translationeditor_showpreview,3561,Show Preview,
+NEW,translationeditor_english,3561,English,
+NEW,translationeditor_nenglish,3561,New English,
+NEW,translationeditor_previous,3561,Previous,
+NEW,translationeditor_fallback,3561,Suggestion,
+NEW,translationeditor_youredit,3561,Your Change,
+NEW,translationeditor_original,3561,Approved,
+NEW,translationeditor_empty,3561,No Manually Approved Translation Yet,
+NEW,translationeditor_empty_original_tooltip1,3561,Unformatted Approved translation,
+NEW,translationeditor_empty_original_tooltip2,3561,Formatted Approved translation,
+NEW,translationeditor_empty_original_tooltip3,3561,"As there is no currently approved translation, the game is using the suggested translation above.\n\nIf you think the suggested translation is good, you should copy it into your changes with the ""Use This Translation"" button.\n\nAfter you submit your changes to us, your translation will then appear as approved in the next game update.",
+NEW,translationeditor_fallback_tooltip1,3561,Suggested Translation,
+NEW,translationeditor_fallback_tooltip2,3561,Formatted Suggested Translation,
+NEW,translationeditor_fallback_tooltip3,3561,"This suggestion needs to be checked that it correctly matches the context of the game.\n\nIt will only be used if there is no ""approved"" translation.",
+NEW,translationeditor_previousenglish_tooltip1,3561,Previous English Phrase,
+NEW,translationeditor_previousenglish_tooltip2,3561,Formatted Previous English phrase,
+NEW,translationeditor_previousenglish_tooltip3,3561,The English phrase that was used in the previous version of the game.,
+NEW,translationeditor_previoustranslation_tooltip1,3561,Previous Translation Phrase,
+NEW,translationeditor_previoustranslation_tooltip2,3561,Formatted Previous Translation phrase,
+NEW,translationeditor_previoustranslation_tooltip3,3561,Translation of the English phrase that was used in the previous version of the game.,
+NEW,settings_userinterface,3563,UI & GAME,
+NEW,settings_graphics,3563,GRAPHICS,
+NEW,settings_uibounce_description,3563,Enlarges GUI elements such as buttons on mouse over.,
+NEW,settings_opentranslationeditor,3563,TRANSLATION EDITOR ({TranslatorWindow}),
+NEW,settings_communicator_speed_description,3563,The speed at which character dialogue text is revealed in the communicator.,
+NEW,newmainmenu_parallax_description,3563,Use a parallax effect to give an impression of depth,
+NEW,newmainmenu_slowcombat_description,3563,Switch to slow game speed after taking damage during combat.,
+NEW,trade_tooltip_expandautotrade,3565,[LMB] Show Auto Trade Options,
+NEW,trade_tooltip_collapseautotrade,3565,[LMB] Hide Auto Trade Options,
+NEW,techtree_node_title_fighters1,3565,Fighters,
+NEW,techtree_node_caption_fighters1,3565,Improve the survivability and agility of fighters. Armour mitigates damage received.,
+NEW,techtree_node_title_fighterarmour1,3565,Fighter Survivability 1,
+NEW,techtree_node_caption_fighterarmour1,3565,Increase armour damage mitigation.,
+NEW,techtree_node_title_fighterarmour2,3565,Fighter Survivability 2,
+NEW,techtree_node_caption_fighterarmour2,3565,Increase armour damage mitigation.,
+NEW,techtree_node_title_fighterarmour3,3565,Fighter Survivability 3,
+NEW,techtree_node_caption_fighterarmour3,3565,Increase armour damage mitigation.,
+NEW,techtree_node_title_fighterspeed1,3565,Fighter Agility 1,
+NEW,techtree_node_caption_fighterspeed1,3565,Improve the fuel usage and speed of your fighters.,
+NEW,techtree_node_title_fighterspeed2,3565,Fighter Agility 2,
+NEW,techtree_node_caption_fighterspeed2,3565,Improve the fuel usage and speed of your fighters.,
+NEW,techtree_node_title_fighterspeed3,3565,Fighter Agility 3,
+NEW,techtree_node_caption_fighterspeed3,3565,Improve the fuel usage and speed of your fighters.,
+NEW,boost_fighterarmour,3565,Fighter Armour +*X%,
+NEW,boost_fighterspeed,3565,Fighter Speed +*X%,
+NEW,boost_fighterfuel,3565,Fighter Fuel Efficiency +*X%,
+UPDATED,translationeditor_copytoclipboard,3561,Copy,
+PREVIOUS,translationeditor_copytoclipboard,3511,Copy To Clipboard,
+UPDATED,settings_instantshipswitch_description,3511,Skip rotation and panning effect when switching between ships.,
+PREVIOUS,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition","Al cambiar de barco, omite la transición"
+UPDATED,newmainmenu_parallax,3511,Parallax,
+PREVIOUS,newmainmenu_parallax,2448,Parallax effect,Efecto de paralaje
+UPDATED,wolf_part1_completion3,3511,So far they haven't left a single living witness. But the sensor data tells the full story. We've managed to extract another sensor image of the attacker.,
+PREVIOUS,wolf_part1_completion3,2448,So far they haven't left a single living witness. But the sensor data tells the full story. We've manged to extract another sensor image of the attacker.,Hasta ahora no han dejado un solo testigo vivo. Pero los datos del sensor cuentan la historia completa. Hemos logrado extraer otra imagen del sensor del atacante.
+UPDATED,translationeditor_unmodified,3561,Unmodified,
+PREVIOUS,translationeditor_unmodified,3054,Unmodified Phrases,Frases sin modificar
+UPDATED,translationeditor_original_tooltip1,3561,Unformatted Approved Translation,
+PREVIOUS,translationeditor_original_tooltip1,3054,Unformatted original translation,Traducción original sin formato
+UPDATED,translationeditor_original_tooltip2,3561,Formatted Approved Translation,
+PREVIOUS,translationeditor_original_tooltip2,3054,Formatted original translation,Traducción original formateada
+UPDATED,translationeditor_original_tooltip3,3561,"This is what is currently used in the game. Even though the translation is ""Approved"" you can still submit changes to improve it further.",
+PREVIOUS,translationeditor_original_tooltip3,3054,This is what is currently used in the game.,Esto es lo que se utiliza actualmente en el juego.
+UPDATED,translationeditor_new_tooltip1,3561,Unformatted New Translation,
+PREVIOUS,translationeditor_new_tooltip1,3054,Unformatted new translation,Nueva traducción sin formato
+UPDATED,translationeditor_new_tooltip2,3561,Formatted New Translation,
+PREVIOUS,translationeditor_new_tooltip2,3054,Formatted new translation,Nueva traducción formateada
+UPDATED,mainmenu_gamemode_freeroam_tooltip,3561,"You are free to pursue any career at your own pace. No anomaly, no stargate.",
+PREVIOUS,mainmenu_gamemode_freeroam_tooltip,2448,"You are free to persue any career at your own pace. No anomaly, no stargate.","Eres libre de perseguir cualquier carrera o profesion a tu propio ritmo. Sin anomalia, Sin Puerta Estelar."
+UPDATED,settings_dynamiclighting,3563,Dynamic Lighting,
+PREVIOUS,settings_dynamiclighting,2675,Use Dynamic Lighting,Utiliza la Iluminación Dinámica
+UPDATED,settings_arraytextures,3563,Smooth Tiles,
+PREVIOUS,settings_arraytextures,2624,Use Array Textures,Utilizar texturas de matriz
 CURRENT,logistics_log_transfertonosupply,3492,Transferred *X R*Y to L*Z out of the *P desired - insufficient cargo,Transferido *X R*Y a L*Z fuera del *P deseado - carga insuficiente
 CURRENT,logistics_log_transferfromnosupply,3492,Transferred *X R*Y from L*Z out of the *P desired - insufficient cargo,Transferido *X R*Y de L*Z fuera del *P deseado - carga insuficiente
 CURRENT,trade_paymentperjump,3472,*X (+*Y) per sector jump,*X (+*Y) por salto de sector
@@ -36,7 +168,6 @@ CURRENT,logistics_status_collectcontainers,3472,Collected *X R*Y (*Z containers)
 CURRENT,wolf_part2_objective_escape,3472,Undock and get to a safe distance before the Orion Sentinel explodes,Desatraca y llega a una distancia segura antes de que explote el Centinela de Orión
 CURRENT,settings_motionsicknessmode,3400,Motion Sickness Mode,Modo Mareo
 CURRENT,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.","Se ha eliminado la rotación del fondo, lo que debería ayudar si experimentas mareos en el juego."
-CURRENT,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition","Al cambiar de barco, omite la transición"
 CURRENT,newmainmenu_tests,3400,TESTS,PRUEBAS
 CURRENT,newmainmenu_instantshipswitch,3400,Switch instantly between ships,Cambia instantáneamente entre naves
 CURRENT,newmainmenu_vsync,3400,V-Sync,V-Sync
@@ -358,8 +489,8 @@ CURRENT,newmainmenu_showautosaves,3054,AUTOSAVES,AUTOSAVES
 CURRENT,newmainmenu_newgameoptions,3054,Game Options,Opciones de juego
 CURRENT,newmainmenu_defensiveenemies,3054,Defensive Enemies,Enemigos defensivos
 CURRENT,newmainmenu_defensiveenemiestooltip,3054,Hostile ships will only target you once you have targeted them first.,Las naves hostiles sólo te atacarán cuando tú las hayas atacado primero.
-CURRENT,newmainmenu_multisectorsim,3054,Multi-System Simulation,Simulación Multisistema
-CURRENT,newmainmenu_multisectorsimtooltip,3054,"Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.","Permite la simulación multisistema, lo que te permite dividir tu flota entre varios sistemas/sectores simultáneamente."
+CURRENT,newmainmenu_multisystemsim,3054,Multi-System Simulation,Simulación Multisistema
+CURRENT,newmainmenu_multisystemsimtooltip,3054,"Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.","Permite la simulación multisistema, lo que te permite dividir tu flota entre varios sistemas/sectores simultáneamente."
 CURRENT,hud_shipmaximumoccupancy,3054,Ship Maximum Occupancy: *X/*Y,Ocupación máxima del barco: *X/*Y
 CURRENT,hud_surveyinprogress,3054,WARNING - SURVEY WILL BE CANCELLED,AVISO - SE CANCELARÁ LA ENCUESTA
 CURRENT,shipeditor_tooltip_painthull,3054,Toggle painting the exterior panels of the hull of your ship,Alternar la pintura de los paneles exteriores del casco de tu nave
@@ -515,8 +646,6 @@ CURRENT,bravenewsector_part3_receivecrystal,3054,Receive an Empty Crystal,Recibe
 CURRENT,bravenewsector_part3_receivezeleon,3054,Receive Zeleon Energy Cell,Recibe la Célula de energía Zeleon
 CURRENT,bravenewsector_part3_artemis_results_5,3054,The next step is to research how this all applies to the Stargate. My hypothesis is that we can use the crystal's energy-density properties to enable jumps much farther than the next sector.,El siguiente paso es investigar cómo se aplica todo esto al Stargate. Mi hipótesis es que podemos utilizar las propiedades de densidad energética del cristal para permitir saltos mucho más lejanos que el siguiente sector.
 CURRENT,bravenewsector_part3_artemis_results_6,3054,"Good luck with your research, Captain.","Buena suerte con tu investigación, capitán."
-CURRENT,translationeditor_unmodified,3054,Unmodified Phrases,Frases sin modificar
-CURRENT,translationeditor_modified,3054,Modified Phrases,Frases modificadas
 CURRENT,translationeditor_reset,3054,Revert,Revertir
 CURRENT,translationeditor_reset_tooltip,3054,Resets your modified translation back to the original translation.,Restablece tu traducción modificada a la traducción original.
 CURRENT,translationeditor_folder,3054,Open Folder,Abrir carpeta
@@ -525,11 +654,6 @@ CURRENT,translationeditor_english_tooltip1,3054,Unformatted English phrase,Frase
 CURRENT,translationeditor_english_tooltip2,3054,Formatted English phrase,Frase en inglés con formato
 CURRENT,translationeditor_english_tooltip3,3054,This is what you are translating.,Esto es lo que estás traduciendo.
 CURRENT,translationeditor_english_tooltip4,3054,You cannot change the English phrases.,No puedes cambiar las frases en inglés.
-CURRENT,translationeditor_original_tooltip1,3054,Unformatted original translation,Traducción original sin formato
-CURRENT,translationeditor_original_tooltip2,3054,Formatted original translation,Traducción original formateada
-CURRENT,translationeditor_original_tooltip3,3054,This is what is currently used in the game.,Esto es lo que se utiliza actualmente en el juego.
-CURRENT,translationeditor_new_tooltip1,3054,Unformatted new translation,Nueva traducción sin formato
-CURRENT,translationeditor_new_tooltip2,3054,Formatted new translation,Nueva traducción formateada
 CURRENT,translationeditor_new_tooltip3,3054,"This is where you can change the translation.\n\nThis will affect your game only, unless you submit your updated translations to Introversion.","Aquí es donde puedes cambiar la traducción.\n\nEsto sólo afectará a tu juego, a menos que envíes tus traducciones actualizadas a Introversión."
 CURRENT,credits_0,3054,The Last Starship,La última nave estelar
 CURRENT,credits_1,3054,Created by\nIntroversion Software,Creado por\nIntroversion Software
@@ -760,7 +884,6 @@ CURRENT,settings_accentinsensitivesearch,2803,Accent Insensitive Search,Búsqued
 CURRENT,settings_accentinsensitivesearch_description,2803,"When searching in lists, ignore accented characters, e.g. ""é"" will match ""e""","Al buscar en listas, ignora los caracteres acentuados, por ejemplo, ""é"" coincidirá con ""e"""
 CURRENT,settings_translatorassist,2803,"Translator Assist (Ctrl, Alt)","Ayuda al Traductor (Ctrl, Alt)"
 CURRENT,settings_sound,2803,SOUND,SONIDO
-CURRENT,settings_appearance,2803,APPEARANCE,APARIENCIA
 CURRENT,settings_keybindings,2803,KEYBOARD,TECLADO
 CURRENT,settings_other,2803,OTHER,OTROS
 CURRENT,settings_uibounce,2803,UI Highlight Bounce,UI Destacar Rebote
@@ -860,14 +983,12 @@ CURRENT,origin_steam,2803,SUBSCRIBED ON STEAM WORKSHOP,SUSCRITO EN STEAM WORKSHO
 CURRENT,origin_steamuser,2803,UPLOADED TO STEAM WORKSHOP,SUBIDO A STEAM WORKSHOP
 CURRENT,special_stargatepart3,2803,"Andromeda Project Phases 4, 5","Proyecto Andrómeda Fases 4, 5"
 CURRENT,dsi_part2_objective_installengines,2803,OPTIONAL: Install engines in the A.J.E Foundry,OPCIONAL: Instalar motores en la Fundición A.J.E
-CURRENT,settings_dynamiclighting,2675,Use Dynamic Lighting,Utiliza la Iluminación Dinámica
 CURRENT,hud_ftlshipnotviablewarning,2675,Ship needs either hull or scaffolding to be brought into hyperspace,La nave necesita casco o andamiaje para ser llevada al hiperespacio
 CURRENT,trade_cancelautotrade,2675,CANCEL AUTO-TRADE,ANULAR EL AUTOCOMERCIO
 CURRENT,hud_collector_tooltip_totalgathered,2675,TOTAL GATHERED,TOTAL GATHERED
 CURRENT,save_cloudsavefailed_header,2639,WARNING: Cloud Save Failed,ADVERTENCIA: Fallo al guardar en la nube
 CURRENT,save_cloudsavefailed_body,2639,"The game failed to save to the cloud, the game has been saved locally instead.\n\nPlease check that you have enough storage in the Steam Cloud and try again.","El juego no ha podido guardarse en la nube, el juego se ha guardado localmente en su lugar.\n\nPor favor, comprueba que tienes suficiente almacenamiento en la nube de Steam e inténtalo de nuevo."
 CURRENT,mission_type_sectorjumpgate,2639,Jumpgate (Sector),Puerta de salto (Sector)
-CURRENT,settings_arraytextures,2624,Use Array Textures,Utilizar texturas de matriz
 CURRENT,newmainmenu_arena_shipquantity,2624,Quantity,Cantidad
 CURRENT,newmainmenu_arena_combatratings,2624,COMBAT RATINGS,CLASIFICACIONES DE COMBATE
 CURRENT,newmainmenu_arena_tradevalues,2624,SHIP VALUES,VALORES DEL NAVE
@@ -1240,7 +1361,6 @@ CURRENT,mainmenu_legal,2448,Privacy / Legal,Privacidad / Legal
 CURRENT,mainmenu_gamemode_survival,2448,Survival,Supervivencia
 CURRENT,mainmenu_gamemode_survival_tooltip,2448,"Stay one step ahead of a devastating anomaly, for as long as you can","Mantente un paso por delante de una devastadora anomalia, durante todo el tiempo que puedas."
 CURRENT,mainmenu_gamemode_freeroam,2448,Free Roam,Juego libre
-CURRENT,mainmenu_gamemode_freeroam_tooltip,2448,"You are free to persue any career at your own pace. No anomaly, no stargate.","Eres libre de perseguir cualquier carrera o profesion a tu propio ritmo. Sin anomalia, Sin Puerta Estelar."
 CURRENT,mainmenu_gamemode_freeroam_locked,2448,Build a flight-ready ship in Creative Mode to unlock,Construye una nave lista para volar en Modo Creativo para desbloquear
 CURRENT,mainmenu_gamemode_creative,2448,Creative,Creativo
 CURRENT,mainmenu_gamemode_creative_tooltip,2448,You have unlimited resources to build any ship you want,Tienes recursos infinitos para construir sin limites cualquier nave que quieras.
@@ -1348,7 +1468,6 @@ CURRENT,newmainmenu_locked,2448,(LOCKED),(BLOQUEADO)
 CURRENT,newmainmenu_multisystem_simulation,2448,Enable Multi-system Simulation,Habilitar simulación MultiSistema
 CURRENT,newmainmenu_debug_freespace,2448,Enable FreeSpace Debugging,Habilitar la depuración de FreeSpace
 CURRENT,newmainmenu_darkmode,2448,Galaxy Map Dark Mode,Modo oscuro del mapa galáctico
-CURRENT,newmainmenu_parallax,2448,Parallax effect,Efecto de paralaje
 CURRENT,newmainmenu_filter,2448,SEARCH...,BUSCAR...
 CURRENT,shiplibrary_hullonly,2448,[EMPTY HULL],[CASCO VACÍO]
 CURRENT,shiplibrary_affordableonly,2448,Affordable Only,Solo asequible
@@ -1505,7 +1624,6 @@ CURRENT,hud_tooltip_rightclickclear,2448,[RMB] Clear,[BDR] Borrar
 CURRENT,hud_tooltip_rightclickdelete,2448,[RMB] Delete,[BDR] Eliminar
 CURRENT,hud_tooltip_rightclickpurge,2448,[RMB] Purge,[BDR] Purgar
 CURRENT,hud_tooltip_leftclickchangerecipe,2448,[LMB] Cycle recipe,[BIR] Cambiar receta
-CURRENT,hud_tooltip_rightclickconfigure,2448,[RMB] Configure,[BDR] Configurar
 CURRENT,hud_tooltip_boxed,2448,[BOXED],[EN CAJA]
 CURRENT,hud_tooltip_charge,2448,Charge,Cargar
 CURRENT,hud_totalproduction,2448,TOTAL PRODUCTION,PRODUCCIÓN TOTAL
@@ -1787,14 +1905,11 @@ CURRENT,logisticswindow_title,2448,LOGISTICS,LOGÍSTICA
 CURRENT,logistics_tooltip_transfer,2448,[LMB] Transfer 1 from *X,[LMB] Transferir 1 desde *X
 CURRENT,logistics_tooltip_cancel_transfer,2448,[RMB] Cancel 1 from *X,[RMB] Anular 1 de *X
 CURRENT,logistics_tooltip_modifiers,2448,Modifiers:,Modificadores:
-CURRENT,orders_logistics,2448,LOGISTICS,LOGÍSTICA
-CURRENT,orders_crew,2448,CREW,TRIPULACIÓN
 CURRENT,orders_doors,2448,DOORS,PUERTAS
 CURRENT,order_none,2448,None,Ninguno
 CURRENT,order_salvage,2448,Gather Salvage,Agarrar Chatarra
 CURRENT,order_gather,2448,Gather Materials,Reúnir materiales
 CURRENT,order_repairhull,2448,Repair Hull,Reparar Casco
-CURRENT,order_shiftwork,2448,Shift Work,Trabajo por turnos
 CURRENT,order_suitson,2448,Suits On,Trajes Puestos
 CURRENT,order_exteriorwork,2448,Exterior Work,Trabajo Exterior
 CURRENT,order_weaponsactive,2448,Weapons Free,Fuego a Discrecion
@@ -1803,8 +1918,6 @@ CURRENT,order_battlestations,2448,Battle Stations,Estaciones de Combate
 CURRENT,order_mining,2448,Mining,Minería
 CURRENT,action_opendoors,2448,Open All Doors,Abrir todas las puertas
 CURRENT,action_closedoors,2448,Close All Doors,Cerrar todas las puertas
-CURRENT,action_openvents,2448,Open All Vents,Abrir todos los respiraderos
-CURRENT,action_closevents,2448,Close All Vents,Cerrar todos los respiraderos
 CURRENT,missions_title,2448,CONTRACTS,CONTRATOS
 CURRENT,mission_accept,2448,Accept,Aceptar
 CURRENT,mission_accepted,2448,Accepted,Aceptado
@@ -2548,7 +2661,6 @@ CURRENT,wolf_part1_recorderhint,2448,The flight recorder should be near the dere
 CURRENT,wolf_part1_dronehint,2448,Your ship will need a drone bay and drones to collect the flight recorder.,Tu nave necesitará una bahía de drones y drones para recolectar la grabadora de vuelo.
 CURRENT,wolf_part1_completion1,2448,"We've analysed the black box recordings and the evidence is already pretty clear.  There's a pirate vessel out there somewhere, preying on high value commercial vessels.  They wait in silence, until the ship is alone, isolated, and defenseless.  They come out of nowhere and attack without warning, and before anybody can respond they've destroyed the ship and looted the cargo.","Hemos analizado las grabaciones de las cajas negras y la evidencia ya es bastante clara.  Hay una nave pirata por ahí, aprovechándose de naves comerciales de alto valor.  Esperan en silencio, hasta que el carguero queda solo, aislado e indefenso.  Surgen de la nada y atacan sin previo aviso, y antes de que alguien pueda responder, destruyen la nave y saquean el cargamento."
 CURRENT,wolf_part1_completion2,2448,Most likely to be sold for vast profits to the Stargate Project - who don't seem keen to ask questions.,"Lo más probable es que se venda con grandes ganancias al Proyecto Puerta Estelar, en el cual no parecen muy interesados en hacer preguntas."
-CURRENT,wolf_part1_completion3,2448,So far they haven't left a single living witness. But the sensor data tells the full story. We've manged to extract another sensor image of the attacker.,Hasta ahora no han dejado un solo testigo vivo. Pero los datos del sensor cuentan la historia completa. Hemos logrado extraer otra imagen del sensor del atacante.
 CURRENT,wolf_part1_completion4,2448,"It's another grainy photograph, but it's all we have to go on.  This is without doubt the vessel responsible for all this death and destruction.","Es otra fotografía granulada, pero es todo lo que tenemos para continuar. Esta es sin duda la nave responsable de toda esta muerte y destrucción."
 CURRENT,wolf_part1_completion6,2448,"In the mean time, we suggest you tend to your ships. If you've taken damage, you can repair the hull at any SHIPYARD. Use the funds we've sent to upgrade your defenses.","Mientras tanto, le sugerimos que atienda a sus naves. Si han sufrido daños, puede reparar el casco en cualquier ASTILLERO. Use los fondos que te hemos enviado para mejorar sus defensas."
 CURRENT,wolf_character_ryker,2448,Captain Amelia Ryker,Capitana Amelia Ryker

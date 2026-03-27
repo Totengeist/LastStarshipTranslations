@@ -1,4 +1,136 @@
 ﻿state,key,svn,english,translation
+NEW,settings_language_category,3511,LANGUAGE,
+NEW,settings_communicator_speed,3511,Character text speed,
+NEW,settings_camerapan_speed,3511,Camera pan speed,
+NEW,settings_slowest,3511,Slowest,
+NEW,settings_slow,3511,Slow,
+NEW,settings_normal,3511,Normal,
+NEW,settings_fast,3511,Fast,
+NEW,settings_fastest,3511,Fastest,
+NEW,hud_atmosphere_no_oxygen,3511,NO OXYGEN,
+NEW,hud_habitation_info_title,3511,HABITATION,
+NEW,hud_habitation_info_cabins,3511,*X / *Y CABINS,
+NEW,hud_habitation_info_sewage,3511,*X SEWAGE,
+NEW,tactical_dockingnotpossible,3511,DOCKING IMPOSSIBLE,
+NEW,tactical_thrustersrequired,3511,THRUSTERS REQUIRED,
+NEW,creditstitle_special,3511,Special Thanks,
+NEW,settings_softwarecursor,3561,Software Mouse Cursor,
+NEW,settings_softwarecursor_tooltip,3561,The game renders the mouse cursor instead of the operating system.,
+NEW,settings_softwarecursorsize,3561,Software Mouse Size,
+NEW,settings_mousesize_small,3561,Small,
+NEW,settings_mousesize_medium,3561,Medium,
+NEW,settings_mousesize_large,3561,Large,
+NEW,settings_mousesize_huge,3561,Huge,
+NEW,settings_opengamefolder,3561,OPEN GAME FOLDER,
+NEW,hud_tooltip_selectequipment,3561,[LMB/RMB] Select,
+NEW,hud_tooltip_selectequipmentadd,3561,[SHIFT + LMB/RMB] Toggle select,
+NEW,hud_tooltip_selectequipmentnearby,3561,[LMB x2] Select all nearby,
+NEW,hud_tooltip_selectequipmentdrag,3561,[LMB Drag] Box select,
+NEW,equipment_multiple_selected,3561,MULTIPLE RECIPES,
+NEW,orders_layerscope,3561,SHIP-SPECIFIC ORDERS,
+NEW,orders_systemscope,3561,SYSTEM-WIDE ORDERS,
+NEW,order_tooltip_salvage,3561,Allow drones to gather salvage,
+NEW,order_tooltip_gather,3561,"Allow drones to gather raw and refined materials (ores, minerals, ingots)",
+NEW,order_tooltip_repairhull,3561,Allow drones to repair ship hull,
+NEW,order_tooltip_suitson,3561,Make crew put on spacesuits if available,
+NEW,order_tooltip_exteriorwork,3561,Allow crew to perform jobs in freespace,
+NEW,order_tooltip_weaponsactive,3561,Allow weapons to fire,
+NEW,order_tooltip_fleetlogistics,3561,Allow logistics transfers between ships,
+NEW,order_tooltip_battlestations,3561,Battle Stations,
+NEW,order_tooltip_mining,3561,Allow mining lasers to fire,
+NEW,order_tooltip_autotradeactive,3561,Allow auto trades to execute,
+NEW,order_tooltip_advancedlogistics,3561,Allow interstellar logistics to execute,
+NEW,object_fighterbay,3561,Fighter Bay,
+NEW,object_fighterbay_description,3561,"Install on the inside of your ship and provide materials to produce fighters. The fighter will launch from the top of the ship and return to the bay once the battle is over. If it dies, a new one can be built.",
+NEW,fighter_fuel,3561,FUEL: *X%,
+NEW,fighter_ammo,3561,BULLETS: *X,
+NEW,fighter_quantity,3561,*X / *Y,
+NEW,fighter_health_text,3561,HULL,
+NEW,fighter_ammo_text,3561,BULLETS,
+NEW,fighter_fuel_text,3561,FUEL,
+NEW,fighter_refuelling_text,3561,REFUELLING...,
+NEW,fighter_create,3561,CREATE FIGHTER,
+NEW,fighter_state_attackinglayer,3561,ATTACKING *X,
+NEW,fighter_state_attackingfighter,3561,ATTACKING ENEMY FIGHTER,
+NEW,fighter_state_returningtobay,3561,RETURNING TO BAY,
+NEW,fighter_state_idleinfreespace,3561,SEARCHING FOR BAY,
+NEW,translationeditor_usethistranslation,3561,Use This Translation,
+NEW,translationeditor_none,3561,None,
+NEW,translationeditor_yourchanges,3561,Your Changes,
+NEW,translationeditor_new,3561,New,
+NEW,translationeditor_updated,3561,Updated,
+NEW,translationeditor_showpreview,3561,Show Preview,
+NEW,translationeditor_english,3561,English,
+NEW,translationeditor_nenglish,3561,New English,
+NEW,translationeditor_previous,3561,Previous,
+NEW,translationeditor_fallback,3561,Suggestion,
+NEW,translationeditor_youredit,3561,Your Change,
+NEW,translationeditor_original,3561,Approved,
+NEW,translationeditor_empty,3561,No Manually Approved Translation Yet,
+NEW,translationeditor_empty_original_tooltip1,3561,Unformatted Approved translation,
+NEW,translationeditor_empty_original_tooltip2,3561,Formatted Approved translation,
+NEW,translationeditor_empty_original_tooltip3,3561,"As there is no currently approved translation, the game is using the suggested translation above.\n\nIf you think the suggested translation is good, you should copy it into your changes with the ""Use This Translation"" button.\n\nAfter you submit your changes to us, your translation will then appear as approved in the next game update.",
+NEW,translationeditor_fallback_tooltip1,3561,Suggested Translation,
+NEW,translationeditor_fallback_tooltip2,3561,Formatted Suggested Translation,
+NEW,translationeditor_fallback_tooltip3,3561,"This suggestion needs to be checked that it correctly matches the context of the game.\n\nIt will only be used if there is no ""approved"" translation.",
+NEW,translationeditor_previousenglish_tooltip1,3561,Previous English Phrase,
+NEW,translationeditor_previousenglish_tooltip2,3561,Formatted Previous English phrase,
+NEW,translationeditor_previousenglish_tooltip3,3561,The English phrase that was used in the previous version of the game.,
+NEW,translationeditor_previoustranslation_tooltip1,3561,Previous Translation Phrase,
+NEW,translationeditor_previoustranslation_tooltip2,3561,Formatted Previous Translation phrase,
+NEW,translationeditor_previoustranslation_tooltip3,3561,Translation of the English phrase that was used in the previous version of the game.,
+NEW,settings_userinterface,3563,UI & GAME,
+NEW,settings_graphics,3563,GRAPHICS,
+NEW,settings_uibounce_description,3563,Enlarges GUI elements such as buttons on mouse over.,
+NEW,settings_opentranslationeditor,3563,TRANSLATION EDITOR ({TranslatorWindow}),
+NEW,settings_communicator_speed_description,3563,The speed at which character dialogue text is revealed in the communicator.,
+NEW,newmainmenu_parallax_description,3563,Use a parallax effect to give an impression of depth,
+NEW,newmainmenu_slowcombat_description,3563,Switch to slow game speed after taking damage during combat.,
+NEW,trade_tooltip_expandautotrade,3565,[LMB] Show Auto Trade Options,
+NEW,trade_tooltip_collapseautotrade,3565,[LMB] Hide Auto Trade Options,
+NEW,techtree_node_title_fighters1,3565,Fighters,
+NEW,techtree_node_caption_fighters1,3565,Improve the survivability and agility of fighters. Armour mitigates damage received.,
+NEW,techtree_node_title_fighterarmour1,3565,Fighter Survivability 1,
+NEW,techtree_node_caption_fighterarmour1,3565,Increase armour damage mitigation.,
+NEW,techtree_node_title_fighterarmour2,3565,Fighter Survivability 2,
+NEW,techtree_node_caption_fighterarmour2,3565,Increase armour damage mitigation.,
+NEW,techtree_node_title_fighterarmour3,3565,Fighter Survivability 3,
+NEW,techtree_node_caption_fighterarmour3,3565,Increase armour damage mitigation.,
+NEW,techtree_node_title_fighterspeed1,3565,Fighter Agility 1,
+NEW,techtree_node_caption_fighterspeed1,3565,Improve the fuel usage and speed of your fighters.,
+NEW,techtree_node_title_fighterspeed2,3565,Fighter Agility 2,
+NEW,techtree_node_caption_fighterspeed2,3565,Improve the fuel usage and speed of your fighters.,
+NEW,techtree_node_title_fighterspeed3,3565,Fighter Agility 3,
+NEW,techtree_node_caption_fighterspeed3,3565,Improve the fuel usage and speed of your fighters.,
+NEW,boost_fighterarmour,3565,Fighter Armour +*X%,
+NEW,boost_fighterspeed,3565,Fighter Speed +*X%,
+NEW,boost_fighterfuel,3565,Fighter Fuel Efficiency +*X%,
+UPDATED,translationeditor_copytoclipboard,3561,Copy,
+PREVIOUS,translationeditor_copytoclipboard,3511,Copy To Clipboard,
+UPDATED,settings_instantshipswitch_description,3511,Skip rotation and panning effect when switching between ships.,
+PREVIOUS,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition","Når du bytter mellom skip, hopper du over overgangen"
+UPDATED,wolf_part1_completion3,3511,So far they haven't left a single living witness. But the sensor data tells the full story. We've managed to extract another sensor image of the attacker.,
+PREVIOUS,wolf_part1_completion3,2803,So far they haven't left a single living witness. But the sensor data tells the full story. We've manged to extract another sensor image of the attacker.,Så langt har de ikke etterlatt seg et eneste levende vitne. Men sensordataene forteller hele historien. Vi har klart å hente ut enda et sensorbilde av angriperen.
+UPDATED,newmainmenu_parallax,3511,Parallax,
+PREVIOUS,newmainmenu_parallax,2803,Parallax effect,Parallakseffekt
+UPDATED,translationeditor_unmodified,3561,Unmodified,
+PREVIOUS,translationeditor_unmodified,3054,Unmodified Phrases,Umodifiserte fraser
+UPDATED,translationeditor_original_tooltip1,3561,Unformatted Approved Translation,
+PREVIOUS,translationeditor_original_tooltip1,3054,Unformatted original translation,Uformatert originaloversettelse
+UPDATED,translationeditor_original_tooltip2,3561,Formatted Approved Translation,
+PREVIOUS,translationeditor_original_tooltip2,3054,Formatted original translation,Formatert originaloversettelse
+UPDATED,translationeditor_original_tooltip3,3561,"This is what is currently used in the game. Even though the translation is ""Approved"" you can still submit changes to improve it further.",
+PREVIOUS,translationeditor_original_tooltip3,3054,This is what is currently used in the game.,Dette er det som for øyeblikket brukes i spillet.
+UPDATED,translationeditor_new_tooltip1,3561,Unformatted New Translation,
+PREVIOUS,translationeditor_new_tooltip1,3054,Unformatted new translation,Uformatert ny oversettelse
+UPDATED,translationeditor_new_tooltip2,3561,Formatted New Translation,
+PREVIOUS,translationeditor_new_tooltip2,3054,Formatted new translation,Formatert ny oversettelse
+UPDATED,mainmenu_gamemode_freeroam_tooltip,3561,"You are free to pursue any career at your own pace. No anomaly, no stargate.",
+PREVIOUS,mainmenu_gamemode_freeroam_tooltip,2803,"You are free to persue any career at your own pace. No anomaly, no stargate.","Du er fri til å fortsette hvilken som helst karriere i ditt eget tempo. Ingen anomali, ingen stjerneport."
+UPDATED,settings_arraytextures,3563,Smooth Tiles,
+PREVIOUS,settings_arraytextures,2803,Use Array Textures,Bruk matriseteksturer
+UPDATED,settings_dynamiclighting,3563,Dynamic Lighting,
+PREVIOUS,settings_dynamiclighting,2803,Use Dynamic Lighting,Bruk dynamisk belysning
 CURRENT,logistics_log_transfertonosupply,3492,Transferred *X R*Y to L*Z out of the *P desired - insufficient cargo,Overført *X R*Y til L*Z ut av *P ønsket - utilstrekkelig last
 CURRENT,logistics_log_transferfromnosupply,3492,Transferred *X R*Y from L*Z out of the *P desired - insufficient cargo,Overført *X R*Y fra L*Z ut av *P ønsket - utilstrekkelig last
 CURRENT,trade_paymentperjump,3472,*X (+*Y) per sector jump,*X (+*Y) per sektorhopp
@@ -36,7 +168,6 @@ CURRENT,logistics_status_collectcontainers,3472,Collected *X R*Y (*Z containers)
 CURRENT,wolf_part2_objective_escape,3472,Undock and get to a safe distance before the Orion Sentinel explodes,Dokk av og kom deg på trygg avstand før Orion Sentinel eksploderer
 CURRENT,settings_motionsicknessmode,3400,Motion Sickness Mode,Bevegelsessykemodus
 CURRENT,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.","Bakgrunnsrotasjon er fjernet, noe som bør hjelpe hvis du opplever bevegelsessyke i spillet."
-CURRENT,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition","Når du bytter mellom skip, hopper du over overgangen"
 CURRENT,newmainmenu_tests,3400,TESTS,PRØVER
 CURRENT,newmainmenu_instantshipswitch,3400,Switch instantly between ships,Bytt øyeblikkelig mellom skip
 CURRENT,newmainmenu_vsync,3400,V-Sync,V-Sync
@@ -358,8 +489,8 @@ CURRENT,newmainmenu_showautosaves,3054,AUTOSAVES,AUTOSAVES
 CURRENT,newmainmenu_newgameoptions,3054,Game Options,Spillalternativer
 CURRENT,newmainmenu_defensiveenemies,3054,Defensive Enemies,Defensive fiender
 CURRENT,newmainmenu_defensiveenemiestooltip,3054,Hostile ships will only target you once you have targeted them first.,Fiendtlige skip vil bare angripe deg når du har angrepet dem først.
-CURRENT,newmainmenu_multisectorsim,3054,Multi-System Simulation,Simulering av flere systemer
-CURRENT,newmainmenu_multisectorsimtooltip,3054,"Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.","Muliggjør simulering av flere systemer, slik at du kan dele opp flåten din mellom flere systemer/sektorer samtidig."
+CURRENT,newmainmenu_multisystemsim,3054,Multi-System Simulation,Simulering av flere systemer
+CURRENT,newmainmenu_multisystemsimtooltip,3054,"Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.","Muliggjør simulering av flere systemer, slik at du kan dele opp flåten din mellom flere systemer/sektorer samtidig."
 CURRENT,hud_shipmaximumoccupancy,3054,Ship Maximum Occupancy: *X/*Y,Skipets maksimale belegg: *X/*Y
 CURRENT,hud_surveyinprogress,3054,WARNING - SURVEY WILL BE CANCELLED,ADVARSEL - UNDERSØKELSEN VIL BLI AVLYST
 CURRENT,shipeditor_tooltip_painthull,3054,Toggle painting the exterior panels of the hull of your ship,Bytt maling av de utvendige panelene på skroget av skipet ditt
@@ -515,8 +646,6 @@ CURRENT,bravenewsector_part3_receivecrystal,3054,Receive an Empty Crystal,Motta 
 CURRENT,bravenewsector_part3_receivezeleon,3054,Receive Zeleon Energy Cell,Motta Zeleon Energy Cell
 CURRENT,bravenewsector_part3_artemis_results_5,3054,The next step is to research how this all applies to the Stargate. My hypothesis is that we can use the crystal's energy-density properties to enable jumps much farther than the next sector.,Neste skritt er å forske på hvordan dette gjelder stjerneporten. Min hypotese er at vi kan bruke krystallens energitetthet til å hoppe mye lenger enn til neste sektor.
 CURRENT,bravenewsector_part3_artemis_results_6,3054,"Good luck with your research, Captain.","Lykke til med forskningen din, kaptein."
-CURRENT,translationeditor_unmodified,3054,Unmodified Phrases,Umodifiserte fraser
-CURRENT,translationeditor_modified,3054,Modified Phrases,Modifiserte fraser
 CURRENT,translationeditor_reset,3054,Revert,Gå tilbake
 CURRENT,translationeditor_reset_tooltip,3054,Resets your modified translation back to the original translation.,Tilbakestiller den modifiserte oversettelsen til den opprinnelige oversettelsen.
 CURRENT,translationeditor_folder,3054,Open Folder,Åpne mappe
@@ -525,11 +654,6 @@ CURRENT,translationeditor_english_tooltip1,3054,Unformatted English phrase,Uform
 CURRENT,translationeditor_english_tooltip2,3054,Formatted English phrase,Formatert engelsk frase
 CURRENT,translationeditor_english_tooltip3,3054,This is what you are translating.,Det er dette du oversetter.
 CURRENT,translationeditor_english_tooltip4,3054,You cannot change the English phrases.,Du kan ikke endre de engelske frasene.
-CURRENT,translationeditor_original_tooltip1,3054,Unformatted original translation,Uformatert originaloversettelse
-CURRENT,translationeditor_original_tooltip2,3054,Formatted original translation,Formatert originaloversettelse
-CURRENT,translationeditor_original_tooltip3,3054,This is what is currently used in the game.,Dette er det som for øyeblikket brukes i spillet.
-CURRENT,translationeditor_new_tooltip1,3054,Unformatted new translation,Uformatert ny oversettelse
-CURRENT,translationeditor_new_tooltip2,3054,Formatted new translation,Formatert ny oversettelse
 CURRENT,translationeditor_new_tooltip3,3054,"This is where you can change the translation.\n\nThis will affect your game only, unless you submit your updated translations to Introversion.","Her kan du endre oversettelsen.\n\nDette vil kun påvirke spillet ditt, med mindre du sender inn oppdaterte oversettelser til Introversion."
 CURRENT,credits_0,3054,The Last Starship,Det siste stjerneskipet
 CURRENT,credits_1,3054,Created by\nIntroversion Software,Opprettet av\nIntroversion Software
@@ -849,7 +973,6 @@ CURRENT,boost_trackspeed,2803,Track Speed +*X%,Spor Hastighet +*X%
 CURRENT,boost_robotarmspeed,2803,Robot Arm Speed +*X%,Robotarmens hastighet +*X%
 CURRENT,boost_waterrecyclingefficiency,2803,Water Recycling Efficiency +*X%,Effektiv gjenvinning av vann +*X%
 CURRENT,special_mininglaseraccuracy,2803,Mining Laser Precision,Gruvedrift Laser Presisjon
-CURRENT,orders_crew,2803,CREW,MANNSKAP
 CURRENT,orders_doors,2803,DOORS,DØRER
 CURRENT,action_opendoors,2803,Open All Doors,Åpne alle dører
 CURRENT,action_closedoors,2803,Close All Doors,Lukk alle dører
@@ -900,7 +1023,7 @@ CURRENT,mission_industry_accepted1,2803,We've marked the asteroid belt location 
 CURRENT,mission_industry_gathered,2803,You have *X Tilium ore on this ship (We need *Y),Du har *X Tiliummalm på dette skipet (Vi trenger *Y)
 CURRENT,mission_industry_meteorshower,2803,WARNING: There are reports of a meteor shower in that system. (+50% pay).,ADVARSEL: Det er rapportert om et meteorregn i det systemet. (+50 % lønn).
 CURRENT,mission_industry_hostiles,2803,WARNING: There are hostile forces camped out near the asteroid belt. (+50% pay),ADVARSEL: Fiendtlige styrker har slått leir i nærheten av Asteroide-beltet. (+50 % lønn)
-CURRENT,mission_industry_refined,2803, ==> The Tilium must first be refined in a Smelter prior to delivery. <==, ==&gt; Tiliumet må først raffineres i et Smelteverk før det kan leveres. &lt;==
+CURRENT,mission_industry_refined,2803, ==> The Tilium must first be refined in a Smelter prior to delivery. <==, ==> Tiliumet må først raffineres i et Smelteverk før det kan leveres. <==
 CURRENT,mission_industry_shuttle,2803,We've dispatched a shuttle to collect the Tilium Ore.,Vi har sendt en skyttelbuss for å hente Tiliummalmen.
 CURRENT,mission_industry_location,2803,Travel to the asteroid belt,Reise til Asteroide-beltet
 CURRENT,mission_sectorrescue_title,2803,SECTOR OBJECTIVE: Rescue civilians from wrecked ship,SEKTORMÅL: Redde sivile fra havarert skip
@@ -988,7 +1111,7 @@ CURRENT,mission_tiddletssale_received,2803,We have received *X Tiddlets. Total p
 CURRENT,mission_tiddletssale_allreceived,2803,"Well, thank you very much. With this many Tiddlets we can begin farming these delicious creatures immediately.",Tusen takk. Med så mange Tiddleter kan vi begynne å dyrke disse deilige skapningene med en gang.
 CURRENT,mission_tiddletssale_success,2803,Traded *X Tiddlets,Handlet *X Tiddlets
 CURRENT,tiddlet_boxed,2803,Boxed,Boks
-CURRENT,newplayerhelp_fuelpipe,2803,<FUEL PIPE,&lt;DRIVSTOFF RØR
+CURRENT,newplayerhelp_fuelpipe,2803,<FUEL PIPE,<DRIVSTOFF RØR
 CURRENT,alert_type_hullbreach,2803,HULL BREACH,BRUDD PÅ SKROGET
 CURRENT,alert_type_hullbreach_tooltip,2803,"There is a hole in your ship hull and the cabin is depressurising. Your crew will fix the breach, but you should consider closing your Door Vents to seal off the area.","Det er et hull i skroget på skipet ditt, og trykket i kabinen er i ferd med å synke. Mannskapet ditt vil reparere hullet, men du bør vurdere å stenge dørene for å forsegle området."
 CURRENT,alert_type_co2,2803,CO2 WARNING,CO2 ADVARSEL
@@ -1069,7 +1192,6 @@ CURRENT,wolf_part1_firstrecorder,2803,You've recovered the flight recorder! Brin
 CURRENT,wolf_part1_recorderhint,2803,The flight recorder should be near the derelict L*X. Move towards it so that your drones can pick it up.,Flyopptaker skal være i nærheten av den forlatte L*X. Flytt deg mot den slik at dronene dine kan plukke den opp.
 CURRENT,wolf_part1_dronehint,2803,Your ship will need a drone bay and drones to collect the flight recorder.,Skipet ditt trenger en drone Bay og droner for å samle inn Flyopptaker.
 CURRENT,wolf_part1_completion1,2803,"We've analysed the black box recordings and the evidence is already pretty clear.  There's a pirate vessel out there somewhere, preying on high value commercial vessels.  They wait in silence, until the ship is alone, isolated, and defenseless.  They come out of nowhere and attack without warning, and before anybody can respond they've destroyed the ship and looted the cargo.","Vi har analysert opptakene fra den svarte boksen, og bevisene er allerede ganske klare.  Det er et piratskip der ute et sted, som jakter på verdifulle handelsskip.  De venter i stillhet til skipet er alene, isolert og forsvarsløst.  Så kommer de ut av intet og angriper uten forvarsel, og før noen rekker å reagere, har de ødelagt skipet og plyndret lasten."
-CURRENT,wolf_part1_completion3,2803,So far they haven't left a single living witness. But the sensor data tells the full story. We've manged to extract another sensor image of the attacker.,Så langt har de ikke etterlatt seg et eneste levende vitne. Men sensordataene forteller hele historien. Vi har klart å hente ut enda et sensorbilde av angriperen.
 CURRENT,wolf_part1_completion5,2803,"We need to find a way to track them down, and destroy them.  We will be in touch soon, Captain.","Vi må finne en måte å spore dem opp på og tilintetgjøre dem.  Vi tar snart kontakt, kaptein."
 CURRENT,wolf_part2_setup2,2803,"We have been attempting to track the pirate vessel down, but to no avail. We keep arriving at the scene to find destroyed ships with no trace of the pirates. We need you to-","Vi har forsøkt å spore opp piratskipet, men uten hell. Vi finner stadig ødelagte skip uten spor etter piratene. Vi trenger deg for å.."
 CURRENT,wolf_part2_distress2,2803,"I'm trying to hold them off, but I need help.  My engines are damaged.  Ships systems have failed.  Please hurry, I have 40 crew onboard!","Jeg prøver å holde dem unna, men jeg trenger hjelp.  Motorene mine er skadet.  Skipets systemer har sviktet.  Skynd dere, jeg har 40 mannskap om bord!"
@@ -1430,7 +1552,6 @@ CURRENT,mainmenu_gamemode_survival,2803,Survival,Overlevelse
 CURRENT,mainmenu_gamemode_survival_tooltip,2803,"Stay one step ahead of a devastating anomaly, for as long as you can","Ligg ett skritt foran en ødeleggende anomali, så lenge du kan"
 CURRENT,mainmenu_gamemode_survival_locked,2803,Complete any story episode in 'Boldly Go' to unlock,Fullfør en hvilken som helst historieepisode i 'Boldly Go' for å låse opp
 CURRENT,mainmenu_gamemode_freeroam,2803,Free Roam,Fri ferdsel
-CURRENT,mainmenu_gamemode_freeroam_tooltip,2803,"You are free to persue any career at your own pace. No anomaly, no stargate.","Du er fri til å fortsette hvilken som helst karriere i ditt eget tempo. Ingen anomali, ingen stjerneport."
 CURRENT,mainmenu_gamemode_freeroam_locked,2803,Build a flight-ready ship in Creative Mode to unlock,Bygg et flyklart skip i kreativ modus for å låse opp
 CURRENT,mainmenu_gamemode_creative,2803,Creative,Kreativ
 CURRENT,mainmenu_gamemode_creative_tooltip,2803,You have unlimited resources to build any ship you want,Du har ubegrensede ressurser til å bygge hvilket skip du vil
@@ -1458,7 +1579,6 @@ CURRENT,settings_hud,2803,Show HUD,Vis HUD
 CURRENT,settings_music,2803,Music,Musikk
 CURRENT,settings_hudscale,2803,UI Scale,UI-skala
 CURRENT,settings_sound,2803,SOUND,LYD
-CURRENT,settings_appearance,2803,APPEARANCE,UTSEENDE
 CURRENT,settings_keybindings,2803,KEYBOARD,TASTATUR
 CURRENT,settings_other,2803,OTHER,ANNET
 CURRENT,settings_mastervolume,2803,Master Volume,Hovedvolum
@@ -1468,8 +1588,6 @@ CURRENT,settings_fullscreen,2803,Fullscreen,Fullskjerm
 CURRENT,settings_resolution,2803,Resolution,Oppløsning
 CURRENT,settings_language,2803,Language,Språk
 CURRENT,settings_credit_tooltip,2803,With thanks to:,Med takk til..:
-CURRENT,settings_arraytextures,2803,Use Array Textures,Bruk matriseteksturer
-CURRENT,settings_dynamiclighting,2803,Use Dynamic Lighting,Bruk dynamisk belysning
 CURRENT,settings_uibounce,2803,UI Highlight Bounce,UI Highlight Bounce
 CURRENT,legal_button,2803,Legal Information,Juridisk informasjon
 CURRENT,wishlist_button,2803,Add to Wishlist,Legg til i ønskelisten
@@ -1596,7 +1714,6 @@ CURRENT,newmainmenu_locked,2803,(LOCKED),(LÅST)
 CURRENT,newmainmenu_multisystem_simulation,2803,Enable Multi-system Simulation,Aktiver simulering av flere systemer
 CURRENT,newmainmenu_debug_freespace,2803,Enable FreeSpace Debugging,Aktivere FreeSpace-feilsøking
 CURRENT,newmainmenu_darkmode,2803,Galaxy Map Dark Mode,Galaxy Map Dark Mode
-CURRENT,newmainmenu_parallax,2803,Parallax effect,Parallakseffekt
 CURRENT,newmainmenu_slowcombat,2803,Slow during combat,Langsom under kamp
 CURRENT,newmainmenu_filter,2803,SEARCH...,SØK...
 CURRENT,newmainmenu_tooltip_changeship,2803,[LMB] Change ship,[LMB] Bytt skip
@@ -1771,7 +1888,6 @@ CURRENT,hud_tooltip_rightclickclear,2803,[RMB] Clear,[RMB] Klar
 CURRENT,hud_tooltip_rightclickdelete,2803,[RMB] Delete,[RMB] Slett
 CURRENT,hud_tooltip_rightclickpurge,2803,[RMB] Purge,[RMB] Rensing
 CURRENT,hud_tooltip_leftclickchangerecipe,2803,[LMB] Cycle recipe,[LMB] Syklusoppskrift
-CURRENT,hud_tooltip_rightclickconfigure,2803,[RMB] Configure,[RMB] Konfigurer
 CURRENT,hud_tooltip_joinpipes,2803,[LMB] Join Pipes,[LMB] Bli med i rør
 CURRENT,hud_tooltip_separatepipes,2803,[LMB] Separate Pipes,[LMB] Separate rør
 CURRENT,hud_tooltip_rotate,2803,[{RotateObject}] Rotate,[{RotateObject}] Roter
@@ -2062,12 +2178,10 @@ CURRENT,logisticswindow_title,2803,LOGISTICS,LOGISTIKK
 CURRENT,logistics_tooltip_transfer,2803,[LMB] Transfer 1 from *X,[LMB] Overfør 1 fra *X
 CURRENT,logistics_tooltip_cancel_transfer,2803,[RMB] Cancel 1 from *X,[RMB] Avbryt 1 fra *X
 CURRENT,logistics_tooltip_modifiers,2803,Modifiers:,Modifikatorer:
-CURRENT,orders_logistics,2803,LOGISTICS,LOGISTIKK
 CURRENT,order_none,2803,None,Ingen
 CURRENT,order_salvage,2803,Gather Salvage,Samle berging
 CURRENT,order_gather,2803,Gather Materials,Samle inn materialer
 CURRENT,order_repairhull,2803,Repair Hull,Reparasjon av skrog
-CURRENT,order_shiftwork,2803,Shift Work,Skiftarbeid
 CURRENT,order_suitson,2803,Suits On,Dresser på
 CURRENT,order_exteriorwork,2803,Exterior Work,Utvendig arbeid
 CURRENT,order_weaponsactive,2803,Weapons Free,Våpenfri
@@ -2075,8 +2189,6 @@ CURRENT,order_fleetlogistics,2803,Fleet Logistics,Flåtelogistikk
 CURRENT,order_battlestations,2803,Battle Stations,Kampstasjoner
 CURRENT,order_mining,2803,Mining,Gruvedrift
 CURRENT,order_autotradeactive,2803,Auto Trade,Autohandel
-CURRENT,action_openvents,2803,Open All Vents,Åpne alle ventilasjonsåpninger
-CURRENT,action_closevents,2803,Close All Vents,Lukk alle ventilasjonsåpninger
 CURRENT,missions_title,2803,CONTRACTS,KONTRAKTER
 CURRENT,mission_accept,2803,Accept,Godta
 CURRENT,mission_accepted,2803,Accepted,Godkjent

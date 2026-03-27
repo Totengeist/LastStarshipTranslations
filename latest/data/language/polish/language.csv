@@ -1,4 +1,134 @@
 ﻿state,key,svn,english,translation
+NEW,settings_language_category,3511,LANGUAGE,
+NEW,settings_communicator_speed,3511,Character text speed,
+NEW,settings_camerapan_speed,3511,Camera pan speed,
+NEW,settings_slowest,3511,Slowest,
+NEW,settings_slow,3511,Slow,
+NEW,settings_normal,3511,Normal,
+NEW,settings_fast,3511,Fast,
+NEW,settings_fastest,3511,Fastest,
+NEW,hud_atmosphere_no_oxygen,3511,NO OXYGEN,
+NEW,hud_habitation_info_title,3511,HABITATION,
+NEW,hud_habitation_info_cabins,3511,*X / *Y CABINS,
+NEW,hud_habitation_info_sewage,3511,*X SEWAGE,
+NEW,tactical_thrustersrequired,3511,THRUSTERS REQUIRED,
+NEW,creditstitle_special,3511,Special Thanks,
+NEW,settings_softwarecursor,3561,Software Mouse Cursor,
+NEW,settings_softwarecursor_tooltip,3561,The game renders the mouse cursor instead of the operating system.,
+NEW,settings_softwarecursorsize,3561,Software Mouse Size,
+NEW,settings_mousesize_small,3561,Small,
+NEW,settings_mousesize_medium,3561,Medium,
+NEW,settings_mousesize_large,3561,Large,
+NEW,settings_mousesize_huge,3561,Huge,
+NEW,settings_opengamefolder,3561,OPEN GAME FOLDER,
+NEW,hud_tooltip_selectequipment,3561,[LMB/RMB] Select,
+NEW,hud_tooltip_selectequipmentadd,3561,[SHIFT + LMB/RMB] Toggle select,
+NEW,hud_tooltip_selectequipmentnearby,3561,[LMB x2] Select all nearby,
+NEW,hud_tooltip_selectequipmentdrag,3561,[LMB Drag] Box select,
+NEW,equipment_multiple_selected,3561,MULTIPLE RECIPES,
+NEW,object_fighterbay,3561,Fighter Bay,
+NEW,object_fighterbay_description,3561,"Install on the inside of your ship and provide materials to produce fighters. The fighter will launch from the top of the ship and return to the bay once the battle is over. If it dies, a new one can be built.",
+NEW,fighter_fuel,3561,FUEL: *X%,
+NEW,fighter_ammo,3561,BULLETS: *X,
+NEW,fighter_quantity,3561,*X / *Y,
+NEW,fighter_health_text,3561,HULL,
+NEW,fighter_ammo_text,3561,BULLETS,
+NEW,fighter_fuel_text,3561,FUEL,
+NEW,fighter_refuelling_text,3561,REFUELLING...,
+NEW,fighter_create,3561,CREATE FIGHTER,
+NEW,fighter_state_attackinglayer,3561,ATTACKING *X,
+NEW,fighter_state_attackingfighter,3561,ATTACKING ENEMY FIGHTER,
+NEW,fighter_state_returningtobay,3561,RETURNING TO BAY,
+NEW,fighter_state_idleinfreespace,3561,SEARCHING FOR BAY,
+NEW,translationeditor_usethistranslation,3561,Use This Translation,
+NEW,translationeditor_none,3561,None,
+NEW,translationeditor_yourchanges,3561,Your Changes,
+NEW,translationeditor_new,3561,New,
+NEW,translationeditor_updated,3561,Updated,
+NEW,translationeditor_showpreview,3561,Show Preview,
+NEW,translationeditor_english,3561,English,
+NEW,translationeditor_nenglish,3561,New English,
+NEW,translationeditor_previous,3561,Previous,
+NEW,translationeditor_fallback,3561,Suggestion,
+NEW,translationeditor_youredit,3561,Your Change,
+NEW,translationeditor_original,3561,Approved,
+NEW,translationeditor_empty,3561,No Manually Approved Translation Yet,
+NEW,translationeditor_empty_original_tooltip1,3561,Unformatted Approved translation,
+NEW,translationeditor_empty_original_tooltip2,3561,Formatted Approved translation,
+NEW,translationeditor_empty_original_tooltip3,3561,"As there is no currently approved translation, the game is using the suggested translation above.\n\nIf you think the suggested translation is good, you should copy it into your changes with the ""Use This Translation"" button.\n\nAfter you submit your changes to us, your translation will then appear as approved in the next game update.",
+NEW,translationeditor_fallback_tooltip1,3561,Suggested Translation,
+NEW,translationeditor_fallback_tooltip2,3561,Formatted Suggested Translation,
+NEW,translationeditor_fallback_tooltip3,3561,"This suggestion needs to be checked that it correctly matches the context of the game.\n\nIt will only be used if there is no ""approved"" translation.",
+NEW,translationeditor_previousenglish_tooltip1,3561,Previous English Phrase,
+NEW,translationeditor_previousenglish_tooltip2,3561,Formatted Previous English phrase,
+NEW,translationeditor_previousenglish_tooltip3,3561,The English phrase that was used in the previous version of the game.,
+NEW,translationeditor_previoustranslation_tooltip1,3561,Previous Translation Phrase,
+NEW,translationeditor_previoustranslation_tooltip2,3561,Formatted Previous Translation phrase,
+NEW,translationeditor_previoustranslation_tooltip3,3561,Translation of the English phrase that was used in the previous version of the game.,
+NEW,settings_userinterface,3563,UI & GAME,
+NEW,settings_graphics,3563,GRAPHICS,
+NEW,settings_uibounce_description,3563,Enlarges GUI elements such as buttons on mouse over.,
+NEW,settings_opentranslationeditor,3563,TRANSLATION EDITOR ({TranslatorWindow}),
+NEW,settings_communicator_speed_description,3563,The speed at which character dialogue text is revealed in the communicator.,
+NEW,newmainmenu_parallax_description,3563,Use a parallax effect to give an impression of depth,
+NEW,newmainmenu_slowcombat_description,3563,Switch to slow game speed after taking damage during combat.,
+NEW,trade_tooltip_expandautotrade,3565,[LMB] Show Auto Trade Options,
+NEW,trade_tooltip_collapseautotrade,3565,[LMB] Hide Auto Trade Options,
+NEW,techtree_node_title_fighters1,3565,Fighters,
+NEW,techtree_node_caption_fighters1,3565,Improve the survivability and agility of fighters. Armour mitigates damage received.,
+NEW,techtree_node_title_fighterarmour1,3565,Fighter Survivability 1,
+NEW,techtree_node_caption_fighterarmour1,3565,Increase armour damage mitigation.,
+NEW,techtree_node_title_fighterarmour2,3565,Fighter Survivability 2,
+NEW,techtree_node_caption_fighterarmour2,3565,Increase armour damage mitigation.,
+NEW,techtree_node_title_fighterarmour3,3565,Fighter Survivability 3,
+NEW,techtree_node_caption_fighterarmour3,3565,Increase armour damage mitigation.,
+NEW,techtree_node_title_fighterspeed1,3565,Fighter Agility 1,
+NEW,techtree_node_caption_fighterspeed1,3565,Improve the fuel usage and speed of your fighters.,
+NEW,techtree_node_title_fighterspeed2,3565,Fighter Agility 2,
+NEW,techtree_node_caption_fighterspeed2,3565,Improve the fuel usage and speed of your fighters.,
+NEW,techtree_node_title_fighterspeed3,3565,Fighter Agility 3,
+NEW,techtree_node_caption_fighterspeed3,3565,Improve the fuel usage and speed of your fighters.,
+NEW,boost_fighterarmour,3565,Fighter Armour +*X%,
+NEW,boost_fighterspeed,3565,Fighter Speed +*X%,
+NEW,boost_fighterfuel,3565,Fighter Fuel Efficiency +*X%,
+UPDATED,translationeditor_copytoclipboard,3561,Copy,
+PREVIOUS,translationeditor_copytoclipboard,3511,Copy To Clipboard,
+UPDATED,newmainmenu_parallax,3511,Parallax,
+PREVIOUS,newmainmenu_parallax,2594,Parallax effect,Efekt paralaksy
+UPDATED,translationeditor_unmodified,3561,Unmodified,
+PREVIOUS,translationeditor_unmodified,3054,Unmodified Phrases,Niezmodyfikowane zwroty
+UPDATED,translationeditor_original_tooltip1,3561,Unformatted Approved Translation,
+PREVIOUS,translationeditor_original_tooltip1,3054,Unformatted original translation,Niesformatowane tłumaczenie oryginalne
+UPDATED,translationeditor_original_tooltip2,3561,Formatted Approved Translation,
+PREVIOUS,translationeditor_original_tooltip2,3054,Formatted original translation,Sformatowane tłumaczenie oryginalne
+UPDATED,translationeditor_original_tooltip3,3561,"This is what is currently used in the game. Even though the translation is ""Approved"" you can still submit changes to improve it further.",
+PREVIOUS,translationeditor_original_tooltip3,3054,This is what is currently used in the game.,"To jest to, co jest obecnie używane w grze."
+UPDATED,translationeditor_new_tooltip1,3561,Unformatted New Translation,
+PREVIOUS,translationeditor_new_tooltip1,3054,Unformatted new translation,Niesformatowane nowe tłumaczenie
+UPDATED,translationeditor_new_tooltip2,3561,Formatted New Translation,
+PREVIOUS,translationeditor_new_tooltip2,3054,Formatted new translation,Sformatuj nowe tłumaczenie
+UPDATED,mainmenu_gamemode_freeroam_tooltip,3561,"You are free to pursue any career at your own pace. No anomaly, no stargate.",
+PREVIOUS,mainmenu_gamemode_freeroam_tooltip,2594,"You are free to persue any career at your own pace. No anomaly, no stargate.","Możesz kontynuować karierę we własnym tempie. Żadnych anomalii, żadnych gwiezdnych wrót."
+UPDATED,settings_dynamiclighting,3563,Dynamic Lighting,
+PREVIOUS,settings_dynamiclighting,2675,Use Dynamic Lighting,Korzystaj z dynamicznego oświetlenia
+UPDATED,settings_arraytextures,3563,Smooth Tiles,
+PREVIOUS,settings_arraytextures,2594,Use Array Textures,Użyj tekstur tablicowych
+CURRENT,tactical_dockingnotpossible,3511,DOCKING IMPOSSIBLE,DOKOWANIE NIEMOŻLIWE
+CURRENT,orders_layerscope,3561,SHIP-SPECIFIC ORDERS,ROZKAZY DLA ZAŁOGI STATKU
+CURRENT,orders_systemscope,3561,SYSTEM-WIDE ORDERS,ROZKAZY SYSTEMOWE
+CURRENT,order_tooltip_salvage,3561,Allow drones to gather salvage,Zezwalaj dronom na zbieranie surowców
+CURRENT,order_tooltip_gather,3561,"Allow drones to gather raw and refined materials (ores, minerals, ingots)","Pozwól dronom zbierać surowce i materiały rafinowane (rudy, minerały, sztabki)"
+CURRENT,order_tooltip_repairhull,3561,Allow drones to repair ship hull,Pozwól dronom naprawiać kadłub statku
+CURRENT,order_tooltip_suitson,3561,Make crew put on spacesuits if available,"Nakazać załodze założenie skafandrów, jeśli są dostępne."
+CURRENT,order_tooltip_exteriorwork,3561,Allow crew to perform jobs in freespace,Pozwól załodze wykonywać zadania w zewnętrznej przestrzeni
+CURRENT,order_tooltip_weaponsactive,3561,Allow weapons to fire,Zezwól na wolny ostrzał
+CURRENT,order_tooltip_fleetlogistics,3561,Allow logistics transfers between ships,Zezwalaj na transfery logistyczne między statkami
+CURRENT,order_tooltip_battlestations,3561,Battle Stations,Stacje bojowe
+CURRENT,order_tooltip_mining,3561,Allow mining lasers to fire,Pozwól laserom górniczym wydobywać rudę
+CURRENT,order_tooltip_autotradeactive,3561,Allow auto trades to execute,Zezwalaj na wykonywanie automatycznych transakcji
+CURRENT,order_tooltip_advancedlogistics,3561,Allow interstellar logistics to execute,Pozwól logistyce międzygwiezdnej działać automatycznie
+CURRENT,settings_instantshipswitch_description,3511,Skip rotation and panning effect when switching between ships.,Pomiń efekt obrotu i panoramowania podczas przełączania między statkami.
+CURRENT,wolf_part1_completion3,3511,So far they haven't left a single living witness. But the sensor data tells the full story. We've managed to extract another sensor image of the attacker.,Jak dotąd nie pozostawili ani jednego żywego świadka. Ale dane z czujników mówią wszystko. Udało nam się wyodrębnić kolejny obraz napastnika.
 CURRENT,logistics_log_transfertonosupply,3492,Transferred *X R*Y to L*Z out of the *P desired - insufficient cargo,Przeniesiono *X R*Y do L*Z z żądanego *P - niewystarczający ładunek
 CURRENT,logistics_log_transferfromnosupply,3492,Transferred *X R*Y from L*Z out of the *P desired - insufficient cargo,Przeniesiono *X R*Y z L*Z z pożądanego *P - niewystarczający ładunek
 CURRENT,trade_paymentperjump,3472,*X (+*Y) per sector jump,*X (+*Y) na skok sektorowy
@@ -36,7 +166,6 @@ CURRENT,logistics_status_collectcontainers,3472,Collected *X R*Y (*Z containers)
 CURRENT,wolf_part2_objective_escape,3472,Undock and get to a safe distance before the Orion Sentinel explodes,"Wycofaj się i przejdź na bezpieczną odległość, zanim Orion Sentinel eksploduje"
 CURRENT,settings_motionsicknessmode,3400,Motion Sickness Mode,Tryb choroby lokomocyjnej
 CURRENT,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.","Usunięto rotację tła, co powinno pomóc, jeśli doświadczasz choroby lokomocyjnej w grze."
-CURRENT,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition",Podczas przełączania się między statkami pomiń przejście
 CURRENT,newmainmenu_tests,3400,TESTS,TESTY
 CURRENT,newmainmenu_instantshipswitch,3400,Switch instantly between ships,Przełączaj się błyskawicznie między statkami
 CURRENT,newmainmenu_vsync,3400,V-Sync,V-Sync
@@ -64,9 +193,9 @@ CURRENT,powergrid_demand,3400,DEMAND: *X MW,ZAPOTRZEBOWANIE: *X MW
 CURRENT,powergrid_output,3400,OUTPUT: *X MW,WYJŚCIE: *X MW
 CURRENT,powergrid_stored,3400,STORED: *X MJ,PRZECHOWYWANE: *X MJ
 CURRENT,object_battery_description,3400,"Stores any excess power available in the powergrid, up to 1000MJ. The battery will supply power whenever there is a shortage.","Przechowuje nadmiar energii dostępnej w sieci energetycznej, do 1000MJ. Bateria będzie dostarczać energię, gdy wystąpi jej niedobór."
-CURRENT,object_reactor_description,3400,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\n\nGenerates a maximum power output of 100MW.,"Spala wysokoenergetyczne Paliwo w celu wytworzenia mocy. Paliwo musi być dostarczane (za pomocą rury). Następnie użyj kabli, aby połączyć się z innym zasilanym Sprzętem.\n\nGeneruje maksymalną moc 100MW."
+CURRENT,object_reactor_description,3400,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\n\nGenerates a maximum power output of 100MW.,"Spala wysokoenergetyczne paliwo w celu wytworzenia energii. Paliwo musi być dostarczane za pomocą rury. Następnie za pomocą kabli, połącz gniazdo zasilania z wymaganym sprzętem \n\nGeneruje maksymalną moc 100MW."
 CURRENT,wolf_part1_objective_drones,3400,Install a Drone Bay and have at least one Logistics Drone,Zainstaluj Zatokę Dronów i posiadaj co najmniej jednego Drona logistycznego
-CURRENT,tutorial_stargatewindowhighlightframes2,3400,The button underneath each component can be clicked to quickly sell all your stock and submit it to the Andromeda Project.\n\nThey can also be sold from the trade screen.,"Przycisk pod każdym komponentem może zostać kliknięty, aby szybko sprzedać wszystkie twoje zapasy i przesłać je do Projektu Andromeda.\n\nMożna je również sprzedać z ekranu handlu."
+CURRENT,tutorial_stargatewindowhighlightframes2,3400,The button underneath each component can be clicked to quickly sell all your stock and submit it to the Andromeda Project.\n\nThey can also be sold from the trade screen.,"Przycisk pod każdym komponentem pozwoli CI, szybko sprzedać wszystkie twoje zapasy i przesłać je do Projektu Andromeda.\n\nMożna je również sprzedać z ekranu handlu."
 CURRENT,dsi_part2_thirdpartcomplete2,3400,"I'm going to take a short break from the project, I trust you'll be able to do the next couple of stages on your own.","Zamierzam zrobić sobie krótką przerwę od projektu, wierzę, że będziesz w stanie samodzielnie wykonać kilka następnych etapów."
 CURRENT,logistics_log_skipped,3339,Skipped order,Pominięte zamówienie
 CURRENT,hud_ftlshipcontrolledbylogistics,3331,Ship is controlled by interstellar logistics,Statek jest kontrolowany przez logistykę międzygwiezdną
@@ -105,12 +234,12 @@ CURRENT,tutorial_ftladdftldrive,3329,Add one <b>FTL drive</b> to our order by cl
 CURRENT,tutorial_ftladdftlfuel,3329,<b>FTL drives</b> consume one fuel charge per jump.\n\nAdd 5 <b>FTL charges</b> to the order as well.,Napędy <b>FTL</b> zużywają jeden ładunek paliwa na skok.\n\nDodaj również 5 <b>ładunków FTL</b> do zamówienia.
 CURRENT,tutorial_ftlinstallftl,3329,Install the <b>FTL drive</b> anywhere in your ship.,Zainstaluj Napęd <b>FTL</b> w dowolnym miejscu swojego statku.
 CURRENT,tutorial_ftlpowerftl,3329,Connect the <b>FTL drive</b> to your power network.,Podłącz Napęd <b>FTL</b> do sieci elektrycznej.
-CURRENT,tutorial_ftlstoragetoolbar,3329,"We can make things more efficient for our crew by telling them to store <b>FTL charges</b> near the <b>FTL drive</b>.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>FTL charges</b> from the list.","Możemy usprawnić pracę naszej załogi, każąc jej przechowywać <b>ładunki FTL</b> w pobliżu <b>napędu FTL</b>.\n\nWybierz <b>MAGAZYN</b> z paska narzędzi <b>KONSTRUKCJA</b>, a następnie wybierz <b>ładunki FTL</b> z listy."
-CURRENT,tutorial_ftlstorageworld,3329,Now drag out a storage zone near to the <b>FTL drive</b>.,Teraz przeciągnij strefę przechowywania w pobliże <b>napędu FTL</b>.
+CURRENT,tutorial_ftlstoragetoolbar,3329,"We can make things more efficient for our crew by telling them to store <b>FTL charges</b> near the <b>FTL drive</b>.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>FTL charges</b> from the list.","Możemy usprawnić pracę naszej załogi, każąc jej przechowywać <b>ładunki FTL</b> w pobliżu <b>napędu FTL</b>.\n\nWybierz <b>PRZECHOWYWANIE</b> z paska narzędzi <b>BUDOWA</b>, a następnie wybierz <b>ładunki FTL</b> z listy."
+CURRENT,tutorial_ftlstorageworld,3329,Now drag out a storage zone near to the <b>FTL drive</b>.,Teraz przeciągnij strefę przechowywania w pobliżu <b>napędu FTL</b>.
 CURRENT,tutorial_ftlstoragedone,3329,The crew will move all the <b>FTL charges</b> into this zone.,Załoga przeniesie wszystkie <b>ładunki FTL</b> do tej strefy.
 CURRENT,tutorial_financesectormap,3329,"All passengers have been delivered to the <b>PROCYON</b>, and our <b>FTL drive</b> is operational. We must now plot an <b>FTL jump</b> to their destination.\n\nOpen the <b>SECTOR MAP</b>.","Wszyscy pasażerowie zostali dostarczeni na <b>PROCYON</b>, a nasz <b>Napęd FTL</b> jest sprawny. Musimy teraz zaplanować <b>skok FTL</b> do miejsca przeznaczenia.\n\nOtwórz <b>MAPĘ SEKTORA</b>."
 CURRENT,tutorial_financeftlwindow,3329,Open the <b>FTL screen</b> to order the <b>FTL jump</b>.,"Otwórz <b>ekran FTL</b>, aby zamówić <b>skok FTL</b>."
-CURRENT,tutorial_financepreparingjump,3329,"The <b>PROCYON</b> will align for hyperspace, and prepare the <b>FTL drive</b> to make the jump.",<b>PROCYON</b> ustawi się w nadprzestrzeni i przygotuje Napęd <b>FTL</b> do wykonania skoku.
+CURRENT,tutorial_financepreparingjump,3329,"The <b>PROCYON</b> will align for hyperspace, and prepare the <b>FTL drive</b> to make the jump.",<b>PROCYON</b> ustawi się w pozycji skoku i przygotuje Napęd <b>FTL</b> do wykonania lotu w nadprzestrzeń.
 CURRENT,tutorial_logisticscrewselectship,3329,Select the <b>UMC Astral Temptress</b>. \n\n As you can see it has no crew.,"Wybierz <b>UMC Astral Temptress</b>. \n\n Jak widzisz, nie ma ona załogi."
 CURRENT,dsi_x_canceldeal2,3329,"You will lose access to all the ships I've provided, are you sure you want to do this?","Stracisz dostęp do wszystkich statków, które udostępniłem, czy na pewno chcesz to zrobić?"
 CURRENT,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,"Każdy komponent, który musisz wyprodukować, znajduje się po prawej stronie.\nUmieszczenie myszy nad ikoną komponentu pokazuje, jak go wyprodukować."
@@ -212,7 +341,7 @@ CURRENT,alert_type_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,LOGISTYKA M
 CURRENT,alert_type_interstellarlogistics_caption,3239,Orders stuck,Zamówienia utknęły
 CURRENT,stargate_startandromedajump,3239,TEST ANDROMEDA JUMP,TEST SKOKU ANDROMEDY
 CURRENT,stargate_power_tooltip,3239,POWER REQUIRED: *X MW,WYMAGANA MOC: *X MW
-CURRENT,stargate_distance_travelled,3239,*X kly REMAINING,*X kly REMAINING
+CURRENT,stargate_distance_travelled,3239,*X kly REMAINING,*X kly POZOSTAŁO
 CURRENT,stargate_journey_completed,3239,*X% COMPLETED,*X% ZAKOŃCZONY
 CURRENT,stargate_sell,3239,SELL ALL (*X FOR *Y),SPRZEDAJ WSZYSTKO (*X ZA *Y)
 CURRENT,stargate_price_per_unit,3239,*X PER UNIT,*X ZA JEDNOSTKĘ
@@ -299,20 +428,20 @@ CURRENT,stargate_power_fraction,3239,*X / *Y MW,*X / *Y MW
 CURRENT,blackhole_part1_setup7,3239,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop and a tank to store the isotopes in first.","Potrzebuję materiałów do syntezy potrzebnych nam zasobów.  Może mi pan w tym pomóc, podczas gdy ja będę pracował nad obliczeniami. Będę potrzebował Izotopów nadprzestrzennych - powinien pan być w stanie je łatwo zebrać, ale najpierw będzie pan musiał zdobyć Hyperspace Scoop i zbiornik do przechowywania izotopów."
 CURRENT,settings_credits,3149,CREDITS,KREDYTY
 CURRENT,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,"Po włączeniu gra zostanie zapisana w chmurze Steam. Jeśli zapis nie powiedzie się, pojawi się ostrzeżenie."
-CURRENT,newmainmenu_saveoptions,3149,Save Options,Zapisz opcje
+CURRENT,newmainmenu_saveoptions,3149,Save Options,AUTOZAPIS
 CURRENT,hud_tooltip_switchflooring,3149,[{RotateObject}] Switch flooring style,[{RotateObject}] Przełącz styl podłogi
 CURRENT,hud_tooltip_currentflooring,3149,Current style: *X,Aktualny styl: *X
 CURRENT,hud_tooltip_gratedflooring,3149,Grated,Tarty
 CURRENT,hud_tooltip_normalflooring,3149,Normal,Normalny
-CURRENT,hud_hull_integrity,3149,HULL,HULL
+CURRENT,hud_hull_integrity,3149,HULL,INTEGRALNOŚĆ
 CURRENT,hud_power_battery,3149,BATTERY,BATERIA
 CURRENT,hud_power_powershortage,3149,POWER SHORTAGE,NIEDOBÓR MOCY
 CURRENT,hud_idlecrew,3149,Idle Crew,Załoga bezczynna
 CURRENT,hud_dehydrationperperson,3149,Dehydration *X per person,Odwodnienie *X na osobę
 CURRENT,hud_hungerperperson,3149,Hunger *X per person,Głód *X na osobę
-CURRENT,hud_byauthor,3149,BY *X,BY *X
+CURRENT,hud_byauthor,3149,BY *X,od *X
 CURRENT,communicator_newobjective,3149,NEW OBJECTIVE,NOWY CEL
-CURRENT,galaxymap_stargate,3149,STARGATE,STARGATE
+CURRENT,galaxymap_stargate,3149,STARGATE,GWIEZDNE WROTA
 CURRENT,trade_canceltrade,3149,CANCEL TRADE AND REFUND,ANULUJ TRANSAKCJĘ I ZWRÓĆ PIENIĄDZE
 CURRENT,trade_refundvalue,3149,REFUND VALUE,WARTOŚĆ ZWROTU
 CURRENT,trade_cancellationcost,3149,CANCELLATION COST,KOSZT ANULOWANIA
@@ -327,13 +456,13 @@ CURRENT,trade_order_sack_on_buy_screen,3149,(SACK *X),(SACK *X)
 CURRENT,techtree_researchpercent,3149,*X% Complete,*X% ukończone
 CURRENT,tooltip_efficiency,3149,Efficiency +*X%,Wydajność +*X%
 CURRENT,tooltip_activating,3149,Activating +*X%,Aktywacja +*X%
-CURRENT,alert_type_lowdeuterium,3149,LOW DEUTERIUM,NISKI DEUTER
+CURRENT,alert_type_lowdeuterium,3149,LOW DEUTERIUM,MAŁO DEUTERU
 CURRENT,stargate_unknowncomponent,3149,Unknown Component,Nieznany składnik
 CURRENT,stargate_unknowncomponent_description,3149,Unlock this component through research!,Odblokuj ten komponent poprzez badania!
 CURRENT,creditstitle_builders,3149,Ship Builders,Budowniczowie statków
 CURRENT,creditstitle_testers,3149,Early Play Testing,Wczesne testy gry
 CURRENT,creditstitle_translators,3149,Translation,Tłumaczenie
-CURRENT,engine_thrust,3149,THRUST *X%,THRUST *X%
+CURRENT,engine_thrust,3149,THRUST *X%,PRZYŚPIESZENIE *X%
 CURRENT,hud_converttracktosplitter,3149,[CTRL + RMB] Convert to splitter,[CTRL + RMB] Konwertuj na Rozdzielacz
 CURRENT,hud_convertsplittertotrack,3149,[CTRL + RMB] Convert to track,[CTRL + RMB] Konwertuj na Ścieżkę
 CURRENT,tutorial_ftlintro,3149,We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL drive</b>.\n\nWe'll need to buy one and set it up.,Nie możemy dostarczyć tych pasażerów do celu bez napędu nadświetlnego. Niestety ten statek nie jest wyposażony we własny <b>napęd FTL</b>.\n\nBędziemy musieli go kupić i skonfigurować.
@@ -354,12 +483,12 @@ CURRENT,settings_autosaveinterval,3054,Auto-save Interval,Interwał automatyczne
 CURRENT,settings_minutes_shortened,3054,Mins.,Min.
 CURRENT,newmainmenu_returntomainmenu,3054,RETURN TO MAIN MENU,POWRÓT DO MENU GŁÓWNEGO
 CURRENT,newmainmenu_mainmenu,3054,MAIN MENU,MENU GŁÓWNE
-CURRENT,newmainmenu_showautosaves,3054,AUTOSAVES,AUTOSAVES
+CURRENT,newmainmenu_showautosaves,3054,AUTOSAVES,AUTOZAPIS
 CURRENT,newmainmenu_newgameoptions,3054,Game Options,Opcje gry
 CURRENT,newmainmenu_defensiveenemies,3054,Defensive Enemies,Wrogowie defensywni
 CURRENT,newmainmenu_defensiveenemiestooltip,3054,Hostile ships will only target you once you have targeted them first.,"Wrogie statki będą atakować cię tylko wtedy, gdy ty pierwszy je namierzysz."
-CURRENT,newmainmenu_multisectorsim,3054,Multi-System Simulation,Symulacja wielosystemowa
-CURRENT,newmainmenu_multisectorsimtooltip,3054,"Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.","Umożliwia symulację wielu systemów, dzięki czemu możesz podzielić swoją flotę na wiele systemów/sektorów jednocześnie."
+CURRENT,newmainmenu_multisystemsim,3054,Multi-System Simulation,Symulacja wielosystemowa
+CURRENT,newmainmenu_multisystemsimtooltip,3054,"Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.","Umożliwia symulację wielu systemów, dzięki czemu możesz podzielić swoją flotę na wiele systemów/sektorów jednocześnie."
 CURRENT,hud_shipmaximumoccupancy,3054,Ship Maximum Occupancy: *X/*Y,Maksymalna liczba osób na statku: *X/*Y
 CURRENT,hud_surveyinprogress,3054,WARNING - SURVEY WILL BE CANCELLED,OSTRZEŻENIE - ANKIETA ZOSTANIE ANULOWANA
 CURRENT,shipeditor_tooltip_painthull,3054,Toggle painting the exterior panels of the hull of your ship,Przełącz malowanie zewnętrznych paneli kadłuba twojego statku
@@ -399,7 +528,7 @@ CURRENT,powergrid_controls_title,3054,Power Grid Controls,Kontrola sieci energet
 CURRENT,powergrid_controls_increase,3054,[LMB] Increase,zwiększ [LMB]
 CURRENT,powergrid_controls_decrease,3054,[RMB] Decrease,[RMB] Spadek
 CURRENT,powergrid_controls_shift,3054,[Shift] All,[Wszystkie
-CURRENT,trade_sack,3054,SACK,SACK
+CURRENT,trade_sack,3054,SACK,ZWOLNIJ
 CURRENT,techtree_cannot_afford,3054,CANNOT AFFORD RESEARCH,NIE STAĆ CIĘ NA BADANIA
 CURRENT,techtree_creditsrequired,3054,CREDITS REQUIRED: *X/*Y,WYMAGANE KREDYTY: *X/*Y
 CURRENT,techtree_availablecredits,3054,Available Credits: *X,Dostępne kredyty: *X
@@ -438,8 +567,8 @@ CURRENT,object_warpalignmentcomputer,3054,Warp Alignment Computer,Komputer wyró
 CURRENT,object_emptycrystalcomponent,3054,Empty Crystal,Pusty kryształ
 CURRENT,object_chargedcrystal,3054,Charged Crystal,Naładowany kryształ
 CURRENT,loader_auto,3054,AUTO,AUTO
-CURRENT,alert_type_abouttoautosave,3054,AUTOSAVE,AUTOSAVE
-CURRENT,alert_type_abouttoautosave_caption,3054,Autosaving in *X...,Automatyczne oszczędzanie w *X...
+CURRENT,alert_type_abouttoautosave,3054,AUTOSAVE,AUTOZAPIS
+CURRENT,alert_type_abouttoautosave_caption,3054,Autosaving in *X...,Automatyczne zapis za *X...
 CURRENT,alert_type_emp,3054,EMP,EMP
 CURRENT,alert_type_emp_caption,3054,*X piece(s) disabled,*X element(y) wyłączony(e)
 CURRENT,alert_type_emp_tooltip,3054,"Your ship has been struck by lightning, temporarily disabling some of your equipment.","W twój statek uderzył piorun, tymczasowo wyłączając część twojego sprzętu."
@@ -515,8 +644,6 @@ CURRENT,bravenewsector_part3_receivecrystal,3054,Receive an Empty Crystal,Odbier
 CURRENT,bravenewsector_part3_receivezeleon,3054,Receive Zeleon Energy Cell,Odbierz Zeleon Energy Cell
 CURRENT,bravenewsector_part3_artemis_results_5,3054,The next step is to research how this all applies to the Stargate. My hypothesis is that we can use the crystal's energy-density properties to enable jumps much farther than the next sector.,"Następnym krokiem jest zbadanie, jak to wszystko odnosi się do Gwiezdnych Wrót. Moja hipoteza jest taka, że możemy wykorzystać właściwości gęstości energii kryształu, aby umożliwić skoki znacznie dalej niż do następnego sektora."
 CURRENT,bravenewsector_part3_artemis_results_6,3054,"Good luck with your research, Captain.","Powodzenia w poszukiwaniach, kapitanie."
-CURRENT,translationeditor_unmodified,3054,Unmodified Phrases,Niezmodyfikowane zwroty
-CURRENT,translationeditor_modified,3054,Modified Phrases,Zmodyfikowane zwroty
 CURRENT,translationeditor_reset,3054,Revert,Powróć
 CURRENT,translationeditor_reset_tooltip,3054,Resets your modified translation back to the original translation.,Resetuje zmodyfikowane tłumaczenie z powrotem do oryginalnego tłumaczenia.
 CURRENT,translationeditor_folder,3054,Open Folder,Otwórz folder
@@ -525,11 +652,6 @@ CURRENT,translationeditor_english_tooltip1,3054,Unformatted English phrase,Niesf
 CURRENT,translationeditor_english_tooltip2,3054,Formatted English phrase,Sformatowana fraza angielska
 CURRENT,translationeditor_english_tooltip3,3054,This is what you are translating.,To właśnie tłumaczysz.
 CURRENT,translationeditor_english_tooltip4,3054,You cannot change the English phrases.,Nie możesz zmienić angielskich zwrotów.
-CURRENT,translationeditor_original_tooltip1,3054,Unformatted original translation,Niesformatowane tłumaczenie oryginalne
-CURRENT,translationeditor_original_tooltip2,3054,Formatted original translation,Sformatowane tłumaczenie oryginalne
-CURRENT,translationeditor_original_tooltip3,3054,This is what is currently used in the game.,"To jest to, co jest obecnie używane w grze."
-CURRENT,translationeditor_new_tooltip1,3054,Unformatted new translation,Niesformatowane nowe tłumaczenie
-CURRENT,translationeditor_new_tooltip2,3054,Formatted new translation,Sformatuj nowe tłumaczenie
 CURRENT,translationeditor_new_tooltip3,3054,"This is where you can change the translation.\n\nThis will affect your game only, unless you submit your updated translations to Introversion.","Tutaj możesz zmienić tłumaczenie.\n\nWpłynie to tylko na twoją grę, chyba że prześlesz zaktualizowane tłumaczenia do Introversion."
 CURRENT,credits_0,3054,The Last Starship,Ostatni statek kosmiczny
 CURRENT,credits_1,3054,Created by\nIntroversion Software,Stworzony przez\nIntroversion Software
@@ -573,7 +695,7 @@ CURRENT,newmainmenu_autosavewarning,2886,Auto-save load warning,Ostrzeżenie o a
 CURRENT,save_autosavewarning_header,2886,WARNING: Autosave loaded,OSTRZEŻENIE: Autozapis załadowany
 CURRENT,save_autosavewarning_body,2886,"This save is likely to be overwritten by the game as you continue playing, so you should create a manual save if you haven't already done so using the ""SAVE GAME"" option.\n\nThis warning can be disabled in the settings menu.","Ten zapis prawdopodobnie zostanie nadpisany przez grę podczas dalszej gry, więc powinieneś utworzyć ręczny zapis, jeśli jeszcze tego nie zrobiłeś, korzystając z opcji ""ZAPISZ GRĘ"".\n\nTo ostrzeżenie można wyłączyć w menu ustawień."
 CURRENT,hud_jumpgalaxies,2886,ESCAPE THE GALAXY,UCIECZKA Z GALAKTYKI
-CURRENT,hud_window_recipes,2886,RECIPES,PRZEPISY
+CURRENT,hud_window_recipes,2886,RECIPES,RECEPTURY
 CURRENT,hud_toandromeda,2886,TO ANDROMEDA GALAXY,DO GALAKTYKI ANDROMEDY
 CURRENT,hud_overlay_radiation,2886,Radiation,Promieniowanie
 CURRENT,hud_recipes_goback,2886,GO BACK,WSTECZ
@@ -638,29 +760,29 @@ CURRENT,bravenewsector_part1_dophase6,2886,Complete Phase 6 of the Stargate Proj
 CURRENT,tutorial_battlestationsactivate,2886,<b>BATTLE STATIONS</b> must be activated before your weapons can be used.\n\nThis will tell your crew to prepare for battle!,"<b>STACJE BOJOWE</b> muszą zostać aktywowane, zanim będzie można użyć broni.\n\nDzięki temu twoja załoga będzie gotowa do bitwy!"
 CURRENT,tutorial_stargatejumpintro,2886,The Stargate enables travel between different sectors.\n\nThe jump costs a single <b>FTL</b> charge and the Stargate will use more power while a jump is in progress.,"Gwiezdne wrota umożliwiają podróżowanie między różnymi sektorami.\n\nSkok kosztuje jedno ładowanie <b>FTL</b>, a gwiezdne wrota zużywają więcej energii podczas skoku."
 CURRENT,tutorial_stargatejumpopenftl,2886,"First, let's open the <b>FTL</b> window.",Najpierw otwórz okno <b>FTL</b>.
-CURRENT,tutorial_powerreactoractive,2886,The <b>REACTOR</b> is activated! We are now generating power for our ship.,Został aktywowany <b>REAKTOR</b>! Generujemy teraz energię dla naszego statku.
-CURRENT,tutorial_buy_shiftclick,2886,<b>NOTE</b>: You can <b>SHIFT CLICK</b> to buy in multiples of 5.,"<b>UWAGA</b>: Możesz <b>kliknąć SHIFT CLICK</b>, aby kupić wielokrotność 5."
-CURRENT,tutorial_introduction2,2886,"This vessel is fresh out of the shipyard production line.\n\nIt's just an empty hull right now, without power or a breathable atmosphere. Our first job is to fix that.\n\nClick <b>NEXT</b> to continue.","Ten statek jest świeżo po opuszczeniu linii produkcyjnej stoczni.\n\nW tej chwili to tylko pusty kadłub, bez zasilania i oddychającej atmosfery. Naszym pierwszym zadaniem jest to naprawić.\n\nKliknij <b>DALEJ</b>, aby kontynuować."
+CURRENT,tutorial_powerreactoractive,2886,The <b>REACTOR</b> is activated! We are now generating power for our ship.,<b>REAKTOR</b> został uruchomiony! Generujemy teraz energię dla naszego statku.
+CURRENT,tutorial_buy_shiftclick,2886,<b>NOTE</b>: You can <b>SHIFT CLICK</b> to buy in multiples of 5.,"<b>UWAGA</b>: Możesz <b>kliknąć trzymajać SHIFT </b>, aby kupić wielokrotność 5."
+CURRENT,tutorial_introduction2,2886,"This vessel is fresh out of the shipyard production line.\n\nIt's just an empty hull right now, without power or a breathable atmosphere. Our first job is to fix that.\n\nClick <b>NEXT</b> to continue.","Ten statek właśnie opuścił linię produkcyjną stoczni.\n\nW tej chwili to tylko pusty kadłub, bez zasilania i zdatnej do życia atmosfery. Naszym pierwszym zadaniem jest to zmienić.\n\nKliknij <b>DALEJ</b>, aby kontynuować."
 CURRENT,tutorial_cameracontrols,2886,"Use <b>{PanUp1}{PanLeft1}{PanDown1}{PanRight1}</b> or the <b>ARROW KEYS</b> to move the view around.\n\nZoom the view using the <b>MOUSE WHEEL</b>, or <b>{ZoomIn}</b>/<b>{ZoomOut}</b> on the keyboard.\n\nDrag the view by holding the <b>MIDDLE MOUSE BUTTON</b>.","Użyj <b>{PanUp1}{PanLeft1}{PanDown1}{PanRight1}</b> lub <b>KLAWISZY STRZAŁEK</b>, aby poruszać widokiem.\n\nPowiększ widok za pomocą <b>pokrętła myszy</b> lub <b>{ZoomIn}</b>/<b>{ZoomOut}</b> na klawiaturze.\n\nPrzeciągnij widok, przytrzymując <b>ŚRODKOWY PRZYCISK MYSZKI</b>."
-CURRENT,tutorial_powerinstallmenu,2886,"Let's begin by installing a <b>REACTOR</b>, to generate power for our ship.\n\nClick into the <b>CONSTRUCTION</b> menu, then click <b>INSTALL</b>.","Zacznijmy od zainstalowania <b>REAKTORA</b>, który będzie generował energię dla naszego statku.\n\nKliknij w menu <b>KONSTRUKCJA</b>, a następnie kliknij <b>ZAINSTALUJ</b>."
-CURRENT,tutorial_powerselectreactor,2886,This is all the boxed equipment you have available on-board.\n\nSelect <b>REACTOR</b> from the list.,"To jest cały sprzęt pudełkowy, który masz dostępny na pokładzie.\n\nWybierz <b>REACTOR</b> z listy."
-CURRENT,tutorial_powerplacereactor,2886,Stamp the <b>REACTOR</b> down inside your ship.,Umieść <b>REAKTOR</b> w swoim statku.
-CURRENT,tutorial_powerreactorinprogress,2886,Your crew will install the <b>REACTOR</b>.,Twój zespół zainstaluje <b>REACTOR</b>.
-CURRENT,tutorial_powerselectloader,2886,"The <b>REACTOR</b> needs <b>FUEL</b>, and we use a <b>FUEL LOADER</b> to pump it to the <b>REACTOR</b>.\n\nSelect the <b>FUEL LOADER</b> from the Construction menu.","REAKTOR potrzebuje PALIWA, a my używamy <b>ŁADOWARKI PALIWA</b>, aby pompować je do <b>REAKTORA</b>.\n\nWybierz <b>FUEL LOADER</b> z menu Construction."
+CURRENT,tutorial_powerinstallmenu,2886,"Let's begin by installing a <b>REACTOR</b>, to generate power for our ship.\n\nClick into the <b>CONSTRUCTION</b> menu, then click <b>INSTALL</b>.","Zacznijmy od zainstalowania <b>REAKTORA</b>, który będzie generował energię dla naszego statku.\n\nKliknij w menu <b>BUDOWA</b>, a następnie kliknij <b>ZAINSTALUJ</b>."
+CURRENT,tutorial_powerselectreactor,2886,This is all the boxed equipment you have available on-board.\n\nSelect <b>REACTOR</b> from the list.,"To jest cały zapakowany sprzęt, który masz dostępny na pokładzie.\n\nWybierz <b>REAKTOR</b> z listy."
+CURRENT,tutorial_powerplacereactor,2886,Stamp the <b>REACTOR</b> down inside your ship.,Umieść <b>REAKTOR</b> na swoim statku.
+CURRENT,tutorial_powerreactorinprogress,2886,Your crew will install the <b>REACTOR</b>.,Twój zespół instaluje <b>REAKTOR</b>.
+CURRENT,tutorial_powerselectloader,2886,"The <b>REACTOR</b> needs <b>FUEL</b>, and we use a <b>FUEL LOADER</b> to pump it to the <b>REACTOR</b>.\n\nSelect the <b>FUEL LOADER</b> from the Construction menu.","REAKTOR potrzebuje PALIWA, użyjemy <b>ŁADOWARKI PALIWA</b>, aby przepompować je do <b>REAKTORA</b>.\n\nWybierz <b>ŁADOWARKA PALIWA</b> z menu budowy."
 CURRENT,tutorial_powerplaceloader,2886,Stamp the <b>FUEL LOADER</b> down somewhere near the <b>REACTOR</b>.,Umieść <b>ŁADOWARKĘ PALIWA</b> w pobliżu <b>REAKTORA</b>.
 CURRENT,tutorial_powerselectpipes,2886,"We need to connect the <b>FUEL LOADER</b> to the <b>REACTOR</b>, using a Pipe.\n\nSelect <b>PIPES</b> from the Construction Menu.",Musimy podłączyć <b>ŁADOWARKĘ PALIWA</b> do <b>REAKTORA</b> za pomocą RURY.\n\nWybierz opcję <b>RURY</b> z menu Budowa.
 CURRENT,tutorial_powerpipeconnect,2886,"Drag a pipe from the <b>FUEL LOADER</b> to the <b>REACTOR</b>, connecting the yellow pipe circles.\n\nFUEL <b>PIPES</b> are used to connect the output from one piece of equipment into the input of another.\n\nFUEL <b>PIPES</b> are yellow and must connect the yellow circles on equipment.","Przeciągnij rurę z <b>ŁADOWARKI PALIWA</b> do <b>REAKTORA</b>, łącząc żółte okręgi rur.\n\nRURY <b>PALIWOWE</b> służą do podłączania wyjścia z jednego urządzenia do wejścia innego.\n\nRURY <b>PALIWOWE</b> są żółte i muszą łączyć żółte okręgi na urządzeniach."
-CURRENT,tutorial_powerreactorpowerup,2886,The <b>REACTOR</b> is starting up.,The <b>REACTOR</b> uruchamia się.
-CURRENT,tutorial_airinstallairduct,2886,We now need to provide a breathable atmosphere for our crew. This is done with an <b>AIRDUCT</b>.\n\nInstall an <b>AIRDUCT</b> somewhere near the Reactor.,Teraz musimy zapewnić oddychającą atmosferę dla naszej załogi. Dokonasz tego za pomocą <b>AIRDUCT</b>.\n\nZainstaluj <b>AIRDUCT</b> gdzieś w pobliżu reaktora.
-CURRENT,tutorial_aircables,2886,The <b>AIRDUCT</b> needs to be powered from the <b>REACTOR</b>.  Select <b>CABLES</b> from the <b>CONSTRUCTION</b> menu.,AIRDUCT musi być zasilany z <b>REACTORA</b>.  Wybierz opcję <b>KABLE</b> z menu <b>KONSTRUKCJA</b>.
-CURRENT,tutorial_aircabletoreactor,2886,"Drag a power cable from the <b>REACTOR</b> to the <b>AIRDUCT</b>, connecting the red circles.\n\nPOWER <b>CABLES</b> are used to connect reactors to any equipment that needs power.\n\nPOWER <b>CABLES</b> are red and must connect red circles on equipment.","Przeciągnij kabel zasilający z <b>REACTORA</b> do <b>AIRDUCT</b>, łącząc czerwone okręgi.\n\nKABLE <b>ZASILAJĄCE</b> służą do podłączania reaktorów do dowolnego sprzętu wymagającego zasilania.\n\nKABLE <b>ZASILAJĄCE</b> są czerwone i muszą łączyć czerwone okręgi na urządzeniach."
-CURRENT,tutorial_airinstallairloader,2886,"The <b>AIRDUCT</b> needs <b>OXYGEN</b>, in the same way as the <b>REACTOR</b> needs <b>FUEL</b>. We can use an <b>OXYGEN LOADER</b> to provide <b>OXYGEN</b>.\n\nInstall an <b>OXYGEN LOADER</b> near the <b>AIRDUCT</b>.","AIRDUCT potrzebuje OXYGENU, tak samo jak REACTOR potrzebuje PALIWA. Możemy użyć <b>ŁADOWARKI OXYGENU</b>, aby dostarczyć <b>OXYGEN</b>. \n\nZainstaluj <b>ŁADOWARKĘ OXYGENU</b> w pobliżu <b>AIRDUCT</b>."
-CURRENT,tutorial_airpipes,2886,We need to connect the <b>OXYGEN LOADER</b> into the <b>AIRDUCT</b> using <b>PIPES</b>.\n\nSelect <b>PIPES</b> from the <b>CONSTRUCTION</b> menu.,Musimy podłączyć <b>OXYGEN LOADER</b> do <b>AIRDUCT</b> za pomocą <b>PIPES</b>.\n\nWybierz <b>PIPES</b> z menu <b>CONSTRUCTION</b>.
-CURRENT,tutorial_airpipetoairduct,2886,"Drag a <b>PIPE</b> from the <b>OXYGEN LOADER</b> to the <b>AIRDUCT</b>, connecting the <b>BLUE</b> circles.","Przeciągnij <b>RURĘ</b> z <b>ŁADOWARKI OXYGENU</b> do <b>PRZEWODU POWIETRZNEGO</b>, łącząc <b>NIEBIESKIE</b> okręgi."
-CURRENT,tutorial_airdone,2886,The <b>AIRDUCT</b> is activated and is pressurising the cabin! The atmosphere will soon be breathable.,<b>AIRDUCT</b> jest aktywowany i zwiększa ciśnienie w kabinie! Atmosfera wkrótce będzie nadawać się do oddychania.
+CURRENT,tutorial_powerreactorpowerup,2886,The <b>REACTOR</b> is starting up.,<b>REAKTOR</b> uruchamia się.
+CURRENT,tutorial_airinstallairduct,2886,We now need to provide a breathable atmosphere for our crew. This is done with an <b>AIRDUCT</b>.\n\nInstall an <b>AIRDUCT</b> somewhere near the Reactor.,Teraz musimy zapewnić zdatną do oddychania atmosferę dla naszej załogi. Dokonasz tego za pomocą <b>KANAŁU WENTYLACYJNEGO</b>.\n\nZainstaluj <b>KANAŁ WENTYLACYJNY</b> gdzieś w pobliżu reaktora.
+CURRENT,tutorial_aircables,2886,The <b>AIRDUCT</b> needs to be powered from the <b>REACTOR</b>.  Select <b>CABLES</b> from the <b>CONSTRUCTION</b> menu.,KANAŁ WENTYLACYJNY musi być zasilany z <b>REAKTORA</b>.  Wybierz opcję <b>KABLE</b> z menu <b>BUDOWA</b>.
+CURRENT,tutorial_aircabletoreactor,2886,"Drag a power cable from the <b>REACTOR</b> to the <b>AIRDUCT</b>, connecting the red circles.\n\nPOWER <b>CABLES</b> are used to connect reactors to any equipment that needs power.\n\nPOWER <b>CABLES</b> are red and must connect red circles on equipment.","Przeciągnij kabel zasilający z <b>REAKTORA</b> do <b>KANAŁ WENTYLACYJNY</b>, łącząc czerwone okręgi. \nKABLE <b>ZASILAJĄCE</b> służą do podłączania reaktorów do dowolnego sprzętu wymagającego zasilania.\n\nKABLE <b>ZASILAJĄCE</b> są czerwone i muszą łączyć czerwone okręgi na urządzeniach."
+CURRENT,tutorial_airinstallairloader,2886,"The <b>AIRDUCT</b> needs <b>OXYGEN</b>, in the same way as the <b>REACTOR</b> needs <b>FUEL</b>. We can use an <b>OXYGEN LOADER</b> to provide <b>OXYGEN</b>.\n\nInstall an <b>OXYGEN LOADER</b> near the <b>AIRDUCT</b>.","KANAŁ WENTYLACYJNY potrzebuje TLENU, tak samo jak REAKTOR potrzebuje PALIWA. Możemy użyć <b>ŁADOWARKI TLENU</b>, aby dostarczyć <b>TLEN</b>. \n\nZainstaluj <b>ŁADOWARKĘ TLENU</b> w pobliżu <b>KANAŁU WENTYLACYJNEGO</b>."
+CURRENT,tutorial_airpipes,2886,We need to connect the <b>OXYGEN LOADER</b> into the <b>AIRDUCT</b> using <b>PIPES</b>.\n\nSelect <b>PIPES</b> from the <b>CONSTRUCTION</b> menu.,Musimy połączyć <b>ŁADOWARKĘ TLENU</b> z <b>KANAŁEM WENTYLACYJNYM</b> za pomocą <b>RUR</b>.\n\nWybierz <b>RURY</b> z menu <b>BUDOWA</b>.
+CURRENT,tutorial_airpipetoairduct,2886,"Drag a <b>PIPE</b> from the <b>OXYGEN LOADER</b> to the <b>AIRDUCT</b>, connecting the <b>BLUE</b> circles.","Przeciągnij <b>RURĘ</b> z <b>ŁADOWARKI TLENU</b> do <b>KANAŁU WENTYLACYJNEGO</b>, łącząc <b>NIEBIESKIE</b> okręgi."
+CURRENT,tutorial_airdone,2886,The <b>AIRDUCT</b> is activated and is pressurising the cabin! The atmosphere will soon be breathable.,<b>KANAŁ WENTYLACYJNY</b> działa i zwiększa ciśnienie w otoczeniu! Atmosfera wkrótce będzie nadawać się do oddychania.
 CURRENT,tutorial_enginesinformation,2886,Engines require both <b>POWER</b> and <b>FUEL</b> to operate. We must connect both engines to fuel and power.,"Silniki wymagają do działania zarówno <b>ZASILANIA</b>, jak i <b>PALIWA</b>. Musimy podłączyć oba silniki do paliwa i zasilania."
 CURRENT,tutorial_enginesconnectpower,2886,"Now use the <b>CABLES</b> menu to power up the engine, by connecting it to your existing red power lines.","Teraz użyj menu <b>KABLE</b>, aby zasilić silnik, podłączając go do istniejących czerwonych linii zasilania."
-CURRENT,tutorial_ftlselectpropulsion,2886,The items we need are listed under <b>PROPULSION</b>. Select that category.,"Elementy, których potrzebujemy, są wymienione w kategorii <b>PROPULSION</b>. Wybierz tę kategorię."
+CURRENT,tutorial_ftlselectpropulsion,2886,The items we need are listed under <b>PROPULSION</b>. Select that category.,"Elementy, których potrzebujemy, są wymienione w kategorii <b>NAPĘD</b>. Wybierz tę kategorię."
 CURRENT,tutorial_stargatescreen1,2886,Let's turn our attention to the <b>STARGATE PROJECT</b>.\n\nWe can view our progress from the Stargate screen.\n\nOpen the <b>STARGATE</b> screen.,Skierujmy naszą uwagę na <b>STARGATE PROJECT</b>.\n\nMożemy przeglądać nasze postępy na ekranie Stargate.\n\nOtwórz ekran <b>STARGATE</b>.
 CURRENT,tutorial_stargatescreen2,2886,This screen shows the phases that require construction in order to complete the <b>STARGATE</b>.\n\nWe are in <b>PHASE</b> 1. Work has only just begun.,"Ten ekran pokazuje fazy, które wymagają budowy w celu ukończenia <b>STARGATE</b>.\n\nJesteśmy w <b>FAZIE</b> 1. Prace dopiero się rozpoczęły."
 CURRENT,tutorial_stargatescreen3,2886,On the left of the screen you can see the requirements to complete <b>PHASE</b> 1.\n\nWe need to manufacture:\n- 100 <b>STARGATE FRAMES</b>\n- 10 <b>STARGATE RESIN</b>,Po lewej stronie ekranu możesz zobaczyć wymagania do ukończenia <b>FAZY</b> 1.\n\nMusimy wyprodukować: \n- 100 <b>RAMEK STARGATE</b> \n- 10 <b>ŻYWIC STARGATE</b>
@@ -702,22 +824,22 @@ CURRENT,tutorial_fleetspacesuits,2886,Those crew will also need <b>SPACESUITS</b
 CURRENT,tutorial_fleettradeconfirm,2886,<b>CONFIRM</b> the trade.,<b>POTWIERDŹ</b> transakcję.
 CURRENT,tutorial_fleetresources,2886,We also need resources for the ship to function.\n\nUse the <b>TRADE</b> screen to buy:\n- 5x <b>FUEL</b>\n- 5x <b>OXYGEN</b>\n- 5x <b>FTL CHARGE</b>\n- 2x <b>FOOD</b>\n- 2x <b>WATER</b>.\n\nCONFIRM the trade when you are done.,"Potrzebujemy również zasobów do działania statku.\n\nUżyj ekranu <b>TRADE</b>, aby kupić:\n- 5x <b>PALIWO</b>\n- 5x <b>OXYGEN</b>\n- 5x <b>FTL CHARGE</b>\n- 2x <b>ŻYWNOŚĆ</b>\n- 2x <b>WODA</b>.\n\nPOTWIERDŹ transakcję, gdy skończysz."
 CURRENT,tutorial_flighttactical,2886,"We should give our engines a small test flight.  To maneuver our ship, switch into <b>TACTICAL</b> mode by clicking the highlighted button, or pressing <b>{ToggleTactical}</b>.","Powinniśmy przeprowadzić mały lot testowy naszych silników.  Aby manewrować naszym statkiem, przełącz się w tryb <b>TAKTYCZNY</b>, klikając podświetlony przycisk lub naciskając <b>{ToggleTactical}</b>."
-CURRENT,tutorial_flightengines,2886,We can directly control our engine <b>THROTTLE</b> from here.\n\nTry increasing your engine throttle with this control.,Z tego miejsca możemy bezpośrednio kontrolować nasz silnik <b>THROTTLE</b>.\n\nSpróbuj zwiększyć przepustnicę silnika za pomocą tego elementu sterującego.
+CURRENT,tutorial_flightengines,2886,We can directly control our engine <b>THROTTLE</b> from here.\n\nTry increasing your engine throttle with this control.,Z tego miejsca możemy bezpośrednio kontrolować <b>MOC</b> naszych silników.\n\nSpróbuj zwiększyć przepustnicę silnika za pomocą tego elementu sterującego.
 CURRENT,tutorial_flightturning,2886,"We can also turn the ship by left clicking in <b>TACTICAL</b> mode, in the direction we wish to travel.","Możemy również obrócić statek, klikając lewym przyciskiem myszy w trybie <b>TAKTYCZNYM</b>, w kierunku, w którym chcemy podróżować."
 CURRENT,tutorial_flightsetcourse,2886,We can send our ship to a specific location by <b>RIGHT-CLICKING</b>. Try setting a destination by right clicking in the tactical view.,"Możemy wysłać nasz statek w określone miejsce, klikając <b>PRAWYM przyciskiem myszy</b>. Spróbuj ustawić miejsce docelowe, klikając prawym przyciskiem myszy w widoku taktycznym."
 CURRENT,tutorial_flightexittactical,2886,"Exit <b>TACTICAL</b> mode by clicking the button again, or pressing <b>{ToggleTactical}</b>.","Wyjdź z trybu <b>TAKTYCZNEGO</b>, ponownie klikając przycisk lub naciskając <b>{ToggleTactical}</b>."
 CURRENT,tutorial_flightinformation,2886,"Your crew will continue to operate the ship and keep the engines running as you travel around. Try flying around the system until you have a handle on the controls.\n\nWhen you are ready, bring the ship to a stop by setting the <b>THROTTLE</b> to zero in <b>TACTICAL</b> mode.","Twoja załoga będzie nadal obsługiwać statek i utrzymywać silniki w ruchu podczas podróży. Spróbuj latać po systemie, aż opanujesz sterowanie.\n\nGdy będziesz gotowy, zatrzymaj statek, ustawiając <b>THROTTLE</b> na zero w trybie <b>TACTICAL</b>."
 CURRENT,tutorial_financemissionscreen,2886,"Now that our ship is up and running, we need to earn our way.  We can complete contracts for financial reward and reputation.\n\nOpen the <b>CONTRACTS</b> screen to see a list of available contracts.","Teraz, gdy nasz statek jest już gotowy do działania, musimy zarabiać.  Możemy wypełniać kontrakty, aby uzyskać nagrody finansowe i reputację.\n\nOtwórz ekran <b>KONTRAKTY</b>, aby zobaczyć listę dostępnych kontraktów."
 CURRENT,tutorial_financeselectship,2886,"Contracts are assigned to the ship you currently have selected.\n\nOnly the <b>PROCYON</b> can travel between locations, so select the <b>PROCYON</b>.","Kontrakty są przypisywane do statku, który aktualnie wybrałeś.\n\nTylko <b>PROCYON</b> może podróżować między lokacjami, więc wybierz <b>PROCYON</b>."
-CURRENT,tutorial_financeselecttransport,2886,"Here we have a <b>TRANSPORT PASSENGER</b> contract, click it to see more details.","Tutaj mamy umowę <b>TRANSPORT PASAŻERSKI</b>, kliknij ją, aby zobaczyć więcej szczegółów."
+CURRENT,tutorial_financeselecttransport,2886,"Here we have a <b>TRANSPORT PASSENGER</b> contract, click it to see more details.","Tutaj mamy kontrakt <b>TRANSPORT PASAŻERSKI</b>, kliknij go, aby zobaczyć więcej szczegółów."
 CURRENT,tutorial_financeassigntransport,2886,This mission requires us to transport a group of people from here to another location in the sector.\n\nClick the accept button to assign this contract to the <b>PROCYON</b>.,"Ta misja wymaga od nas przetransportowania grupy ludzi z tego miejsca do innej lokalizacji w sektorze.\n\nKliknij przycisk akceptacji, aby przypisać ten kontrakt do <b>PROCYON</b>."
-CURRENT,tutorial_financepassengersinbound,2886,The passengers will be delivered to the <b>PROCYON</b> by shuttle.,Pasażerowie zostaną dostarczeni do <b>PROCYON</b> transportem wahadłowym.
-CURRENT,tutorial_financesetdestination,2886,"This is a map of all the systems in this sector.\n\nOur ship and our space station are located in the middle, where the map is marked <b>YOU-ARE-HERE</b>.\n\nSet a course to the destination (labelled <b>TRANSPORT</b> PASSENGERS) by clicking on it.","To jest mapa wszystkich systemów w tym sektorze.\n\nNasz statek i stacja kosmiczna znajdują się pośrodku, gdzie mapa jest oznaczona jako <b>JESTEŚ TUTAJ</b>.\n\nUstaw kurs na miejsce docelowe (oznaczone jako <b>TRANSPORT</b> PASSENGERS), klikając na nie."
+CURRENT,tutorial_financepassengersinbound,2886,The passengers will be delivered to the <b>PROCYON</b> by shuttle.,Pasażerowie zostaną dostarczeni do <b>PROCYON</b> wahadłowcem transportowym.
+CURRENT,tutorial_financesetdestination,2886,"This is a map of all the systems in this sector.\n\nOur ship and our space station are located in the middle, where the map is marked <b>YOU-ARE-HERE</b>.\n\nSet a course to the destination (labelled <b>TRANSPORT</b> PASSENGERS) by clicking on it.","To jest mapa wszystkich systemów w tym sektorze.\n\nNasz statek i stacja kosmiczna znajdują się pośrodku, gdzie mapa jest oznaczona jako <b>JESTEŚ TUTAJ</b>.\n\nUstaw kurs na miejsce docelowe (oznaczone jako <b>TRANSPORT PASAŻERÓW</b>, klikając na nie."
 CURRENT,tutorial_financeclosesectormap,2886,"Close the <b>SECTOR MAP</b> by clicking the X in the top right corner, or by pressing <b>ESC</b>.","Zamknij <b>MAPĘ SEKTORÓW</b>, klikając X w prawym górnym rogu lub naciskając <b>ESC</b>."
-CURRENT,tutorial_financepreparejump,2886,Click on <b>PREPARE JUMP</b> to align the ship and prepare for hyperspace.,"Kliknij <b>PREPARE JUMP</b>, aby wyrównać statek i przygotować go do nadprzestrzeni."
+CURRENT,tutorial_financepreparejump,2886,Click on <b>PREPARE JUMP</b> to align the ship and prepare for hyperspace.,"Kliknij <b>PRZYGOTUJ SKOK</b>, aby ustawić statek i przygotować go do skoku w nadprzestrzeń."
 CURRENT,tutorial_financejump,2886,Click the <b>JUMP</b> button to jump to hyperspace.,"Kliknij przycisk <b>JUMP</b>, aby przejść w nadprzestrzeń."
-CURRENT,tutorial_financeselectmission,2886,We now need to turn in our completed passenger contract.\n\nOpen the <b>CONTRACTS</b> screen and select the passenger mission.,Teraz musimy oddać nasz ukończony kontrakt pasażera.\n\nOtwórz ekran <b>KONTRAKTY</b> i wybierz misję pasażera.
-CURRENT,tutorial_financeturnin,2886,Click the <b>DELIVER</b> button to drop off the passengers and receive payment,"Kliknij przycisk <b>DOSTAWA</b>, aby podwieźć pasażerów i otrzymać płatność"
+CURRENT,tutorial_financeselectmission,2886,We now need to turn in our completed passenger contract.\n\nOpen the <b>CONTRACTS</b> screen and select the passenger mission.,Teraz musimy ukończyć kontrakt transporu pasażerów.\n\nOtwórz ekran <b>KONTRAKTY</b> i wybierz misję.
+CURRENT,tutorial_financeturnin,2886,Click the <b>DELIVER</b> button to drop off the passengers and receive payment,"Kliknij przycisk <b>DOSTARCZ</b>, aby wyładować pasażerów i otrzymać płatność"
 CURRENT,tutorial_wrapup2,2886,"The career you choose is now up to you.  There are many opportunities to choose from, and you'll learn more as you work.\n\nOpen the <b>CONTRACTS</b> board.","Wybór kariery zależy teraz od Ciebie. Istnieje wiele możliwości do wyboru, a w trakcie pracy dowiesz się więcej.\n\nOtwórz tablicę <b>KONTRAKTY</b>."
 CURRENT,tutorial_resinstart,2886,We are now going to learn how to produce <b>STARGATE RESIN</b>.,"Teraz dowiemy się, jak produkować żywicę <b>STARGATE RESIN</b>."
 CURRENT,tutorial_resinintro,2886,"Turning our attention back to the Stargate, the Stargate project also requires us to produce <b>STARGATE RESIN</b>.\n\nWe are going to use the <b>INDUSTRIOUS</b> to collect <b>METREON GAS</b>, refine it, and process it into <b>STARGATE RESIN</b>.","Wracając do Gwiezdnych Wrót, projekt Gwiezdnych Wrót wymaga od nas również wyprodukowania <b>STARGATE RESIN</b>.\n\nBędziemy używać <b>INDUSTRIOUS</b> do zbierania <b>METREON GAS</b>, rafinowania go i przetwarzania w <b>STARGATE RESIN</b>."
@@ -731,7 +853,7 @@ CURRENT,tutorial_resinchemicallabrecipe,2886,Right click on the <b>CHEMICAL LAB<
 CURRENT,tutorial_resinconnectgascollector,2886,Connect the <b>GAS COLLECTOR</b> to the <b>REFINERY</b> with a <b>PIPE</b>.,Podłącz <b>KOLEKTOR GAZU</b> do <b>REFINERII</b> za pomocą <b>RURY</b>.
 CURRENT,tutorial_resinconnectchemicallab,2886,Connect the <b>REFINERY</b> to the <b>CHEMICAL LAB</b> with a <b>PIPE</b>.,Połącz <b>rafinerię</b> z <b>laboratorium chemicznym</b> za pomocą <b>rury</b>.
 CURRENT,tutorial_resinsuccess,2886,"Well done, you have started to produce <b>STARGATE RESIN</b>.\n\nWhen you have produced enough, travel back to any <b>COLONY</b>, <b>SHIP YARD</b> or the <b>STARGATE</b> system to sell it to the <b>STARGATE PROJECT</b>.","Dobra robota, zacząłeś produkować <b>STARGATE RESIN</b>.\n\nKiedy wyprodukujesz wystarczającą ilość, wróć do dowolnej <b>KOLONII</b>, <b>STOCZNI</b> lub systemu <b>STARGATE</b>, aby sprzedać ją <b>STARGATE PROJECT</b>."
-CURRENT,tutorial_dockingcheckthrusters,2886,"In order to be able to dock successfully, your ship needs at least four working <b>THRUSTERS</b>.\n\nUse a different ship, or purchase and install four thrusters at a nearby trading post.","Aby móc pomyślnie zadokować, twój statek potrzebuje co najmniej czterech działających <b>THRUSTERS</b>.\n\nUżyj innego statku lub kup i zainstaluj cztery silniki odrzutowe w pobliskim punkcie handlowym."
+CURRENT,tutorial_dockingcheckthrusters,2886,"In order to be able to dock successfully, your ship needs at least four working <b>THRUSTERS</b>.\n\nUse a different ship, or purchase and install four thrusters at a nearby trading post.","Aby móc pomyślnie zadokować, twój statek potrzebuje co najmniej czterech działających <b>SILNIKÓW</b>.\n\nUżyj innego statku lub kup i zainstaluj cztery silniki odrzutowe w pobliskim punkcie handlowym."
 CURRENT,tutorial_dockingswitchtotactical,2886,"To get started, switch to <b>TACTICAL</b> mode by clicking the button or pressing <b>{ToggleTactical}</b>.","Aby rozpocząć, przejdź do trybu <b>TAKTYCZNEGO</b>, klikając przycisk lub naciskając <b>{ToggleTactical}</b>."
 CURRENT,tutorial_dockingzoomin,2886,Zoom in so that you can see the docking guides more clearly. They are <b>RED</b> diamonds extending from the docking ports.,"Powiększ, aby wyraźniej zobaczyć prowadnice dokowania. Są to <b>CZERWONE</b> diamenty wychodzące z portów dokowania."
 CURRENT,tutorial_dockingopenmaneuver,2886,Open the <b>MANEUVERING THRUSTER</b> controls.,Otwórz elementy sterujące <b>MANEUVERING THRUSTER</b>.
@@ -749,18 +871,17 @@ CURRENT,tutorial_miningopenmap,2886,Now open the sector map (<b>{ToggleMap}</b>)
 CURRENT,tutorial_miningflytosystem,2886,"Look at the rocks on the map, these indicate <b>ASTEROID BELTS</b>. \n\nFly to a system in an asteroid belt, it will probably contain Tilium Ore.","Spójrz na skały na mapie, oznaczają one <b>PASY ASTEROIDÓW</b>.\n\nLeć do systemu w pasie asteroid, prawdopodobnie będzie on zawierał rudę Tilium."
 CURRENT,tutorial_miningselectlaser,2886,"You can also target specific mineral patches.\n\nFirst, select which laser you would like to use.\n\nYou can <b>SHIFT CLICK</b> to select multiple lasers.","Możesz także celować w określone plamy mineralne.\n\nNajpierw wybierz laser, którego chcesz użyć.\n\nMożesz <b>KLIKNĄĆ SHIFT CLICK</b>, aby wybrać wiele laserów."
 CURRENT,tutorial_mininginstalldronebay,2886,Drones will collect mined resources.\n\nInstall a <b>DRONE BAY</b> so your drones can collect the Tilium Ore.,"Drony będą zbierać wydobyte zasoby.\n\nZainstaluj <b>DRONE BAY</b>, aby twoje drony mogły zbierać Tilium Ore."
-CURRENT,tutorial_miningfleetorders,2886,You also need to make sure that <b>GATHER MATERIALS</b> is enabled in <b>FLEET ORDERS</b>.,"Musisz również upewnić się, że opcja <b>ZBIERAJ MATERIAŁY</b> jest włączona w <b>FLEET ORDERS</b>."
+CURRENT,tutorial_miningfleetorders,2886,You also need to make sure that <b>GATHER MATERIALS</b> is enabled in <b>FLEET ORDERS</b>.,"Musisz również upewnić się, że opcja <b>ZBIERAJ MATERIAŁY</b> jest włączona w <b>ROZKAZY</b>."
 CURRENT,tutorial_mininginstallsmelter,2886,You will need to smelt the raw Tilium Ore to crystals.\n\nInstall a <b>SMELTER</b>.,Będziesz musiał przetopić surową rudę Tilium na kryształy.\n\nZainstaluj <b>SMELTER</b>.
 CURRENT,tutorial_miningsetsmelter,2886,Right click on the <b>SMELTER</b> and select <b>TILIUM ORE</b> to smelt it into Tilium Crystals.,"Kliknij prawym przyciskiem myszy <b>SMELTER</b> i wybierz <b>TILIUM ORE</b>, aby przetopić go na kryształy Tilium."
 CURRENT,tutorial_buyshipinspect,2886,"Click on the <b>JMC MINING STATION</b>, an old unused industrial station for sale.","Kliknij na <b>JMC MINING STATION</b>, starą nieużywaną stację przemysłową na sprzedaż."
 CURRENT,tutorial_buyshipbuy,2886,Click on the <b>BUY</b> button to purchase the <b>JMC MINING STATION</b>.,"Kliknij przycisk <b>KUP</b>, aby kupić <b>JMC MINING STATION</b>."
 CURRENT,tutorial_buyshipsuccess,2886,"Well done, you have purchased the <b>JMC MINING STATION</b>.","Dobra robota, kupiłeś <b>JMC MINING STATION</b>."
-CURRENT,tutorial_dsiclosedismantle,2886,We can stop dismantling by clicking the dismantle button again or by closing the construction menu.\n\nClose the menu by clicking the <b>CONSTRUCTION</b> button or by pressing <b>ESC</b>.,"Możemy przerwać demontaż, klikając ponownie przycisk demontażu lub zamykając menu budowy.\n\nZamknij menu, klikając przycisk <b>CONSTRUCTION</b> lub naciskając <b>ESC</b>."
+CURRENT,tutorial_dsiclosedismantle,2886,We can stop dismantling by clicking the dismantle button again or by closing the construction menu.\n\nClose the menu by clicking the <b>CONSTRUCTION</b> button or by pressing <b>ESC</b>.,"Możemy przerwać demontaż, klikając ponownie przycisk demontażu lub zamykając menu budowy.\n\nZamknij menu, klikając przycisk <b>BUDOWA</b> lub naciskając <b>ESC</b>."
 CURRENT,settings_accentinsensitivesearch,2803,Accent Insensitive Search,Wyszukiwanie niewrażliwe na akcent
 CURRENT,settings_accentinsensitivesearch_description,2803,"When searching in lists, ignore accented characters, e.g. ""é"" will match ""e""","Podczas wyszukiwania na listach ignoruj znaki akcentowane, np. ""é"" będzie pasować do ""e"""
 CURRENT,settings_translatorassist,2803,"Translator Assist (Ctrl, Alt)","Pomoc tłumacza (Ctrl, Alt)"
 CURRENT,settings_sound,2793,SOUND,DŹWIĘK
-CURRENT,settings_appearance,2793,APPEARANCE,WYGLĄD
 CURRENT,settings_keybindings,2793,KEYBOARD,KLAWIATURA
 CURRENT,settings_other,2793,OTHER,INNE
 CURRENT,settings_uibounce,2793,UI Highlight Bounce,Odbicie podświetlenia interfejsu użytkownika
@@ -831,7 +952,7 @@ CURRENT,shipeditor_palettelibrary_cancel,2793,CANCEL,ANULUJ
 CURRENT,shipeditor_palettelibrary_export,2793,EXPORT,EKSPORT
 CURRENT,shipeditor_palettelibrary_upload,2793,UPLOAD,UPLOAD
 CURRENT,trade_autotradedisabled,2793,DISABLED IN ORDER MENU,WYŁĄCZONE W MENU ZAMÓWIEŃ
-CURRENT,order_autotradeactive,2793,Auto Trade,Auto Trade
+CURRENT,order_autotradeactive,2793,Auto Trade,Automatyczny handel
 CURRENT,object_table,2793,Table,Tabela
 CURRENT,object_smalltable,2793,Small Table,Mały stół
 CURRENT,object_chair,2793,Chair,Krzesło
@@ -839,8 +960,8 @@ CURRENT,object_sofa,2793,Sofa,Sofa
 CURRENT,object_potplant,2793,Pot Plant,Roślina doniczkowa
 CURRENT,tutorial_battlestations_title,2793,BATTLE STATIONS,STACJE BOJOWE
 CURRENT,tutorial_battlestationsstart,2793,We are now going to learn how to deploy our weapons for combat.\n\nThe game has been paused for now.,"Teraz nauczymy się, jak używać broni w walce.\n\nGra została na razie wstrzymana."
-CURRENT,tutorial_battlestationshighlightcrew,2793,Your crew will run to the weapons to deploy them.\n\nGatling guns don't require any crew to deploy them.,"Twoja załoga podbiegnie do broni, aby ją rozmieścić.\n\nDziała Gatlinga nie wymagają żadnej załogi, aby je rozmieścić."
-CURRENT,tutorial_battlestationshighlightguns,2793,The gun barrels will begin to extend when they arrive.\n\nWhen the barrels are fully extended they will be ready to fire!,"Gdy dotrą na miejsce, lufy pistoletów zaczną się wysuwać.\n\nGdy lufy będą w pełni wysunięte, będą gotowe do strzału!"
+CURRENT,tutorial_battlestationshighlightcrew,2793,Your crew will run to the weapons to deploy them.\n\nGatling guns don't require any crew to deploy them.,"Twoja załoga pobiegnie do broni, aby ją aktywować.\n\nDziała Gatlinga nie wymagają żadnej załogi do uruchomienia."
+CURRENT,tutorial_battlestationshighlightguns,2793,The gun barrels will begin to extend when they arrive.\n\nWhen the barrels are fully extended they will be ready to fire!,"Gdy dotrą na miejsce, lufy diał zaczną się wysuwać.\n\nGdy działa będą w pełni wysunięte, będą gotowe do strzału!"
 CURRENT,tutorial_battlestationssuccess,2793,"Well done, your weapons are now successfully deployed for battle!","Dobra robota, twoja broń jest już gotowa do walki!"
 CURRENT,tutorial_stargatejump_title,2793,STARGATE JUMPING,SKOKI PRZEZ GWIEZDNE WROTA
 CURRENT,tutorial_stargatejumpstart,2793,We are now going to learn how to jump using the newly powered-up Stargate.,"Teraz nauczymy się, jak skakać przy użyciu nowo zasilonych Gwiezdnych Wrót."
@@ -860,8 +981,7 @@ CURRENT,origin_steam,2793,SUBSCRIBED ON STEAM WORKSHOP,SUBSKRYPCJA NA STEAM WORK
 CURRENT,origin_steamuser,2793,UPLOADED TO STEAM WORKSHOP,PRZESŁANE DO WARSZTATU STEAM
 CURRENT,special_stargatepart3,2793,"Andromeda Project Phases 4, 5","Faza 4, 5 Projektu Andromeda"
 CURRENT,dsi_part2_objective_installengines,2793,OPTIONAL: Install engines in the A.J.E Foundry,OPCJONALNIE: Zainstaluj silniki w odlewni A.J.E
-CURRENT,settings_dynamiclighting,2675,Use Dynamic Lighting,Korzystaj z dynamicznego oświetlenia
-CURRENT,hud_ftlshipnotviablewarning,2675,Ship needs either hull or scaffolding to be brought into hyperspace,"Statek potrzebuje kadłuba lub rusztowania, aby wejść w nadprzestrzeń"
+CURRENT,hud_ftlshipnotviablewarning,2675,Ship needs either hull or scaffolding to be brought into hyperspace,"Statek potrzebuje kadłubu lub rusztowania, aby wejść w nadprzestrzeń"
 CURRENT,trade_cancelautotrade,2675,CANCEL AUTO-TRADE,ANULUJ AUTO-HANDEL
 CURRENT,hud_collector_tooltip_totalgathered,2675,TOTAL GATHERED,GATUNEK OGÓŁEM
 CURRENT,save_cloudsavefailed_header,2639,WARNING: Cloud Save Failed,OSTRZEŻENIE: Zapisywanie w chmurze nie powiodło się
@@ -1012,7 +1132,6 @@ CURRENT,mainmenu_gamemode_survival,2594,Survival,Przetrwanie
 CURRENT,mainmenu_gamemode_survival_tooltip,2594,"Stay one step ahead of a devastating anomaly, for as long as you can","Bądź o krok przed niszczycielską anomalią tak długo, jak to możliwe"
 CURRENT,mainmenu_gamemode_survival_locked,2594,Complete any story episode in 'Boldly Go' to unlock,"Ukończ dowolny epizod fabularny w ""Odważnie idź"", aby odblokować"
 CURRENT,mainmenu_gamemode_freeroam,2594,Free Roam,Free Roam
-CURRENT,mainmenu_gamemode_freeroam_tooltip,2594,"You are free to persue any career at your own pace. No anomaly, no stargate.","Możesz kontynuować karierę we własnym tempie. Żadnych anomalii, żadnych gwiezdnych wrót."
 CURRENT,mainmenu_gamemode_freeroam_locked,2594,Build a flight-ready ship in Creative Mode to unlock,"Zbuduj statek gotowy do lotu w trybie kreatywnym, aby odblokować"
 CURRENT,mainmenu_gamemode_creative,2594,Creative,Kreatywny
 CURRENT,mainmenu_gamemode_creative_tooltip,2594,You have unlimited resources to build any ship you want,"Masz nieograniczone zasoby, by zbudować dowolny statek"
@@ -1047,7 +1166,6 @@ CURRENT,settings_fullscreen,2594,Fullscreen,Pełny ekran
 CURRENT,settings_resolution,2594,Resolution,Rozdzielczość
 CURRENT,settings_language,2594,Language,Język
 CURRENT,settings_credit_tooltip,2594,With thanks to:,Z podziękowaniami dla:
-CURRENT,settings_arraytextures,2594,Use Array Textures,Użyj tekstur tablicowych
 CURRENT,legal_button,2594,Legal Information,Informacje prawne
 CURRENT,wishlist_button,2594,Add to Wishlist,Dodaj do listy życzeń
 CURRENT,steamstore_button,2594,Visit Steam Store,Odwiedź sklep Steam
@@ -1135,7 +1253,6 @@ CURRENT,newmainmenu_locked,2594,(LOCKED),(ZABLOKOWANY)
 CURRENT,newmainmenu_multisystem_simulation,2594,Enable Multi-system Simulation,Włącz symulację wielosystemową
 CURRENT,newmainmenu_debug_freespace,2594,Enable FreeSpace Debugging,Włącz debugowanie FreeSpace
 CURRENT,newmainmenu_darkmode,2594,Galaxy Map Dark Mode,Tryb ciemny mapy galaktyki
-CURRENT,newmainmenu_parallax,2594,Parallax effect,Efekt paralaksy
 CURRENT,newmainmenu_slowcombat,2594,Slow during combat,Powolny podczas walki
 CURRENT,newmainmenu_filter,2594,SEARCH...,SZUKAJ...
 CURRENT,newmainmenu_tooltip_changeship,2594,[LMB] Change ship,zmień statek [LMB]
@@ -1164,7 +1281,7 @@ CURRENT,scenario_sleek_title,2594,Sleek ship,Elegancki statek
 CURRENT,scenario_innershapes_title,2594,Inner Shapes,Kształty wewnętrzne
 CURRENT,scenario_largelogistics_title,2594,Large Logistics,Duża logistyka
 CURRENT,scenario_carrierfrigate_title,2594,Carrier Frigate,Fregata transportowa
-CURRENT,scenario_procyoncruiser_title,2594,Procyon Cruiser,Procyon Cruiser
+CURRENT,scenario_procyoncruiser_title,2594,Procyon Cruiser,Krążownik Procyon
 CURRENT,scenario_crabclaw_title,2594,The Crab Claw,Pazur kraba
 CURRENT,scenario_shipyard_title,2594,Build New Ship,Zbuduj nowy statek
 CURRENT,scenario_mass,2594,Mass: *X,Masa: *X
@@ -1189,7 +1306,7 @@ CURRENT,save_warning_header,2594,WARNING: Loading future save version,OSTRZEŻEN
 CURRENT,save_warning_body,2594,"You have loaded a game with a future save format, you may experience that some parts of the game do not work correctly","Jeśli załadowałeś grę z przyszłym formatem zapisu, niektóre części gry mogą nie działać poprawnie"
 CURRENT,save_episodewarning_header,2594,WARNING: Episode Progress,OSTRZEŻENIE: Postęp odcinka
 CURRENT,save_episodewarning_body,2594,"Due to incompatible changes in this version, your progress in active episodes will be reset.","Ze względu na niekompatybilne zmiany w tej wersji, twoje postępy w aktywnych odcinkach zostaną zresetowane."
-CURRENT,save_stargateresetwarning_header,2594,WARNING: Stargate Progress,OSTRZEŻENIE: Stargate Progress
+CURRENT,save_stargateresetwarning_header,2594,WARNING: Stargate Progress,OSTRZEŻENIE: Progres Gwiezdnych Wrót
 CURRENT,save_stargateresetwarning_body,2594,"Due to new phases or storylines surrounding the stargate, your stargate progress has been reset.","Ze względu na nowe fazy lub wątki fabularne związane z gwiezdnymi wrotami, twoje postępy w grze zostały zresetowane."
 CURRENT,save_demofullgame_load_header,2594,Full Game Only,Tylko pełna gra
 CURRENT,save_demofullgame_load_body,2594,The demo of The Last Starship can only load save games saved with the Demo.,Wersja demonstracyjna The Last Starship może wczytywać tylko zapisane gry z wersji demonstracyjnej.
@@ -1201,18 +1318,18 @@ CURRENT,hud_preparejump,2594,Prepare Jump,Przygotuj skok
 CURRENT,hud_preparingjump,2594,Preparing Jump,Przygotowanie do skoku
 CURRENT,hud_readytojump,2594,Ready to Jump,Gotowy do skoku
 CURRENT,hud_abortjump,2594,Abort Jump,Przerwij skok
-CURRENT,hud_aligning,2594,Aligning...,Dostosowanie...
+CURRENT,hud_aligning,2594,Aligning...,Wyznaczanie...
 CURRENT,hud_outofalignment,2594,Misaligned...,Niewspółosiowość...
 CURRENT,hud_idle,2594,Idle,Bezczynność
 CURRENT,hud_ready,2594,READY,GOTOWY
-CURRENT,hud_jump,2594,JUMP,JUMP
+CURRENT,hud_jump,2594,JUMP,SKACZ
 CURRENT,hud_jumpnextsector,2594,JUMP TO NEXT SECTOR,PRZEJDŹ DO NASTĘPNEGO SEKTORA
-CURRENT,hud_jumpthroughstargate,2594,JUMP THROUGH STARGATE,PRZESKOCZ PRZEZ GWIEZDNE WROTA
+CURRENT,hud_jumpthroughstargate,2594,JUMP THROUGH STARGATE,SKOCZ PRZEZ GWIEZDNE WROTA
 CURRENT,hud_ftlloading,2594,Loading...,Ładowanie...
 CURRENT,hud_ftlcharging,2594,Charging...,Ładowanie...
 CURRENT,hud_ftlcooldown,2594,Cooldown...,Cooldown...
 CURRENT,hud_ftl,2594,FTL Drive,Napęd FTL
-CURRENT,hud_ftlincluded,2594,Jump,Skacz
+CURRENT,hud_ftlincluded,2594,Jump,Dołącz
 CURRENT,hud_ftlexcluded,2594,Stay,Zostań
 CURRENT,hud_noships,2594,NO SHIPS SELECTED,NIE WYBRANO ŻADNYCH STATKÓW
 CURRENT,hud_noftl,2594,NO FTL FOUND,NIE ZNALEZIONO FTL
@@ -1226,7 +1343,7 @@ CURRENT,hud_endcreativemode,2594,Creative Mode will end,Tryb kreatywny dobiegnie
 CURRENT,hud_endcreativemode2,2594,When you jump to hyperspace,Kiedy skoczysz w nadprzestrzeń
 CURRENT,hud_endcreativemodewarning,2594,LEAVING CREATIVE MODE,WYCHODZENIE Z TRYBU KREATYWNEGO
 CURRENT,hud_endcreativemodefull,2594,Creative Mode will end when you jump to hyperspace,"Tryb kreatywny zakończy się, gdy skoczysz w nadprzestrzeń"
-CURRENT,hud_hyperspace,2594,HYPERSPACE,HYPERSPACE
+CURRENT,hud_hyperspace,2594,HYPERSPACE,HIPERPRZESTRZEŃ
 CURRENT,hud_deselectlayer,2594,DESELECT SHIP,WYBIERZ STATEK
 CURRENT,hud_gun_port,3205,Port *X,*X na Bakburcie
 CURRENT,hud_gun_forward,3205,Forward *X,*X na Dziobie
@@ -1238,18 +1355,18 @@ CURRENT,hud_enabled,2594,Enabled,Włączony
 CURRENT,hud_disabled,2594,Disabled,Wyłączony
 CURRENT,hud_window_construction,2594,CONSTRUCTION,BUDOWA
 CURRENT,hud_window_designation,2594,DESIGNATION,PROJEKTOWANIE
-CURRENT,hud_window_shipyard,2594,SHIPYARD,SHIPYARD
+CURRENT,hud_window_shipyard,2594,SHIPYARD,STOCZNIA
 CURRENT,hud_window_trade,2594,TRADE,HANDEL
-CURRENT,hud_window_missions,2594,CONTRACTS,UMOWY
-CURRENT,hud_window_power,2594,POWERGRID,POWERGRID
+CURRENT,hud_window_missions,2594,CONTRACTS,KONTRAKTY
+CURRENT,hud_window_power,2594,POWERGRID,SIEĆ ENERGETYCZNA
 CURRENT,hud_window_logistics,2594,LOGISTICS,LOGISTYKA
 CURRENT,hud_window_ftl,2594,FTL,FTL
 CURRENT,hud_window_sectormap,2594,SECTOR MAP ({ToggleMap}),MAPA SEKTORA ({ToggleMap})
-CURRENT,hud_window_score,2594,SCORE,SCORE
+CURRENT,hud_window_score,2594,SCORE,WYNIK
 CURRENT,hud_window_editor,2594,EDITOR,EDYTOR
-CURRENT,hud_window_stargate,2594,STARGATE,STARGATE
+CURRENT,hud_window_stargate,2594,STARGATE,GWIEZDNE WROTA
 CURRENT,hud_window_techtree,2594,RESEARCH,BADANIA
-CURRENT,hud_window_orders,2594,ORDERS,ZAMÓWIENIA
+CURRENT,hud_window_orders,2594,ORDERS,ROZKAZY
 CURRENT,hud_window_storage,2594,STORAGE ZONES,STREFY PRZECHOWYWANIA
 CURRENT,hud_open_tooltip,2594,[LMB] Open Window,otwórz okno [LMB]
 CURRENT,hud_ftl_jump_tooltip,2594,[RMB] Jump,skok [RMB]
@@ -1263,14 +1380,14 @@ CURRENT,hud_overlay_pipes,2594,Pipes,Rury
 CURRENT,hud_overlay_walls,2594,Walls,Ściany
 CURRENT,hud_overlay_atmosphere,2594,Atmosphere,Atmosfera
 CURRENT,hud_overlay_exterior,2594,Exterior,Na zewnątrz
-CURRENT,hud_overlay_habitation,2594,Habitation,Mieszkanie
+CURRENT,hud_overlay_habitation,2594,Habitation,Mieszkalne
 CURRENT,hud_overlay_jobs,2594,Jobs,Praca
 CURRENT,hud_overlay_structure,2594,Structure,Struktura
 CURRENT,hud_overlay_schematic,2594,Schematic,Schemat
 CURRENT,hud_overlay_tactical,2594,Tactical,Taktyczny
 CURRENT,hud_overlay_creativemode,2594,- Creative Mode -,- Tryb kreatywny -
 CURRENT,hud_battlestations,2594,BATTLE STATIONS,STACJE BOJOWE
-CURRENT,hud_tactical,2594,TACTICAL ({ToggleTactical}),TACTICAL ({ToggleTactical})
+CURRENT,hud_tactical,2594,TACTICAL ({ToggleTactical}),TAKTYCZNY ({ToggleTactical})
 CURRENT,hud_orders,2594,ORDERS,ZAMÓWIENIA
 CURRENT,hud_install,2594,Install,Zainstaluj
 CURRENT,hud_uninstall,2594,Dismantle,Zdemontuj
@@ -1299,18 +1416,17 @@ CURRENT,hud_buyship,2594,BUY,KUP
 CURRENT,hud_sellship,2594,SELL YOUR SHIP,SPRZEDAJ SWÓJ STATEK
 CURRENT,hud_repairship,2594,REPAIR,NAPRAWA
 CURRENT,hud_shipyardservices,2594,SHIPYARD SERVICES,USŁUGI STOCZNIOWE
-CURRENT,hud_fabricateship,2594,FABRICATE A SHIP,WYPRODUKUJ STATEK
-CURRENT,hud_tooltip_leftclickplace,2594,[LMB] Place,miejsce [LMB]
-CURRENT,hud_tooltip_leftclickbuild,2594,[LMB] Build,kompilacja [LMB]
-CURRENT,hud_tooltip_leftclickerase,2594,[LMB] Erase,kasowanie [LMB]
-CURRENT,hud_tooltip_leftclickdismantle,2594,[LMB] Dismantle,demontaż [LMB]
+CURRENT,hud_fabricateship,2594,FABRICATE A SHIP,ZBUDUJ NOWY STATEK
+CURRENT,hud_tooltip_leftclickplace,2594,[LMB] Place,zbuduj [LMB]
+CURRENT,hud_tooltip_leftclickbuild,2594,[LMB] Build,buduj [LMB]
+CURRENT,hud_tooltip_leftclickerase,2594,[LMB] Erase,wymaż [LMB]
+CURRENT,hud_tooltip_leftclickdismantle,2594,[LMB] Dismantle,rozmontuj [LMB]
 CURRENT,hud_tooltip_leftclickresearch,2594,[LMB] Research,badania [LMB]
 CURRENT,hud_tooltip_rightclickcancel,2594,[RMB] Cancel,[RMB] Anuluj
 CURRENT,hud_tooltip_rightclickclear,2594,[RMB] Clear,[RMB] Wyczyść
 CURRENT,hud_tooltip_rightclickdelete,2594,[RMB] Delete,usuń [RMB]
 CURRENT,hud_tooltip_rightclickpurge,2594,[RMB] Purge,oczyszczenie [RMB]
 CURRENT,hud_tooltip_leftclickchangerecipe,2594,[LMB] Cycle recipe,przepis cyklu [LMB]
-CURRENT,hud_tooltip_rightclickconfigure,2594,[RMB] Configure,konfiguracja [RMB]
 CURRENT,hud_tooltip_joinpipes,2594,[LMB] Join Pipes,połącz rury [LMB]
 CURRENT,hud_tooltip_separatepipes,2594,[LMB] Separate Pipes,oddzielne rury [LMB]
 CURRENT,hud_tooltip_rotate,2594,[{RotateObject}] Rotate,[{RotateObject}] Obróć
@@ -1342,7 +1458,7 @@ CURRENT,hud_last_ftl_charge,2594,WARNING - LAST FTL CHARGE\nCANNOT BUY AT DESTIN
 CURRENT,hud_invalidplacement,2594,INVALID PLACEMENT,NIEPRAWIDŁOWE UMIESZCZENIE
 CURRENT,hud_invalidplacement_tooltip,2594,This equipment can not function properly when installed in this position.,"Urządzenie nie może działać prawidłowo, gdy jest zainstalowane w tej pozycji."
 CURRENT,hud_removefromtrack,2594,[RMB] Remove from track,[RMB] Usuń z toru
-CURRENT,communicator_incomingcall,2594,INCOMING HAIL...,NADCHODZĄCY GRAD...
+CURRENT,communicator_incomingcall,2594,INCOMING HAIL...,NADCHODZĄCE POŁACZENIE...
 CURRENT,communicator_outgoingcall,2594,CALLING...,ZADZWOŃ...
 CURRENT,hud_repairyourship,2594,You should repair the damage to your ship at a SHIPYARD.,Powinieneś naprawić uszkodzenia swojego statku w STOCZNI.
 CURRENT,speed_paused,2594,PAUSED,WSTRZYMANE
@@ -1425,13 +1541,13 @@ CURRENT,galaxymap_civilians,2594,CIVILIANS,OBYWATELE
 CURRENT,galaxymap_noescape,2594,NO ESCAPE,BRAK UCIECZKI
 CURRENT,galaxymap_colony,2594,COLONY,KOLONIA
 CURRENT,galaxymap_starbase,2594,STARBASE,STARBASE
-CURRENT,galaxymap_shipyard,2594,SHIPYARD,SHIPYARD
+CURRENT,galaxymap_shipyard,2594,SHIPYARD,STOCZNIA
 CURRENT,galaxymap_distresscall,2594,DISTRESS CALL,WEZWANIE ALARMOWE
-CURRENT,galaxymap_derelict,2594,DERELICT,DERELICT
-CURRENT,galaxymap_hostile,2594,HOSTILES,HOSTILES
+CURRENT,galaxymap_derelict,2594,DERELICT,WRAK
+CURRENT,galaxymap_hostile,2594,HOSTILES,ZAGROŻENIE
 CURRENT,galaxymap_fortress,2594,FORTRESS,FORTRESS
 CURRENT,galaxymap_objectives,2594,SECTOR CONTRACTS,KONTRAKTY SEKTOROWE
-CURRENT,galaxymap_comet,2594,COMET,COMET
+CURRENT,galaxymap_comet,2594,COMET,KOMETA
 CURRENT,galaxymap_jumpgate,2594,JUMPGATE,JUMPGATE
 CURRENT,sector_start,2594,HOME SECTOR,SEKTOR DOMOWY
 CURRENT,galaxymap_endof,2594,END OF,KONIEC
@@ -1444,11 +1560,11 @@ CURRENT,powergrid_category_battery,2594,BATTERY,BATERIA
 CURRENT,powergrid_category_engines,2594,ENGINES,SILNIKI
 CURRENT,powergrid_category_ftl,2594,FTL,FTL
 CURRENT,powergrid_category_weapons,2594,WEAPONS,BROŃ
-CURRENT,powergrid_category_defenses,2594,DEFENSES,OBRONY
+CURRENT,powergrid_category_defenses,2594,DEFENSES,OBRONA
 CURRENT,powergrid_category_lifesupport,2594,LIFE SUPPORT,PODTRZYMYWANIE ŻYCIA
 CURRENT,powergrid_category_logistics,2594,LOGISTICS,LOGISTYKA
 CURRENT,powergrid_category_science,2594,SCIENCE,NAUKA
-CURRENT,powergrid_category_stargate,2594,STARGATE,STARGATE
+CURRENT,powergrid_category_stargate,2594,STARGATE,GWIEZDNE WROTA
 CURRENT,powergrid_category_other,2594,OTHER,INNE
 CURRENT,powergrid_batteryhint,2594,Install some Batteries to store reserve power from your Reactor.,"Zainstaluj baterie, aby przechowywać zapas mocy z reaktora."
 CURRENT,powergrid_powershortagehint,2594,Your ship cannot generate enough power. Consider installing more Reactors.,Twój statek nie może wygenerować wystarczającej mocy. Rozważ zainstalowanie większej liczby reaktorów.
@@ -1482,7 +1598,7 @@ CURRENT,trade_overlay_you,2594,YOU,TY
 CURRENT,trade_overlay_boxed,2594,[boxed],[pudełko]
 CURRENT,trade_window_energy,2594,Energy,Energia
 CURRENT,trade_window_propulsion,2594,Propulsion,Napęd
-CURRENT,trade_window_habitation,2594,Habitation,Mieszkanie
+CURRENT,trade_window_habitation,2594,Habitation,Moduł mieszkalny
 CURRENT,trade_window_defense,2594,Defense,Obrona
 CURRENT,trade_window_industry,2594,Industry,Przemysł
 CURRENT,trade_window_logistics,2594,Logistics,Logistyka
@@ -1495,7 +1611,7 @@ CURRENT,trade_equipment_rotatable,2594,- Rotatable,- Obrotowy
 CURRENT,trade_equipment_powered,2594,- Powered,- Zasilany
 CURRENT,trade_equipment_charge,2594,- Charge (per use) : *X MW,- Opłata (za użycie) : *X MW
 CURRENT,trade_stack,2594,Stack of *X,Stos *X
-CURRENT,trade_boxed,2594,Boxed,Pudełko
+CURRENT,trade_boxed,2594,Boxed,SPAKOWANE
 CURRENT,trade_component,2594,Component,Komponent
 CURRENT,trade_sell_ship,2594,SELL SHIP,SPRZEDAJ STATEK
 CURRENT,trade_allitems,2594,ALL ITEMS,WSZYSTKIE PRZEDMIOTY
@@ -1617,10 +1733,10 @@ CURRENT,techtree_award_title,2594,RESEARCH COMPLETED,BADANIA ZAKOŃCZONE
 CURRENT,award_rewards,2594,Rewards,Nagrody
 CURRENT,tactical_docked,2594,--- DOCKED ---,--- ZABLOKOWANY
 CURRENT,tactical_undock,2594,UNDOCK,UNDOCK
-CURRENT,tactical_throttle,2594,THROTTLE,THROTTLE
+CURRENT,tactical_throttle,2594,THROTTLE,PRZYŚPIESZENIE
 CURRENT,tactical_detach_all,2594,DETACH ALL,ODŁĄCZ WSZYSTKO
-CURRENT,tactical_velocity,2594,VELOCITY,LOTNOŚĆ
-CURRENT,tactical_evasion,2594,EVASION,EVASION
+CURRENT,tactical_velocity,2594,VELOCITY,PRĘDKOŚĆ
+CURRENT,tactical_evasion,2594,EVASION,BEZWŁADNOŚĆ
 CURRENT,tactical_weapons,2594,WEAPONS,BROŃ
 CURRENT,tactical_fire,2594,FIRE,OGIEŃ
 CURRENT,tactical_hold,2594,HOLD,HOLD
@@ -1632,24 +1748,19 @@ CURRENT,logisticswindow_title,2594,LOGISTICS,LOGISTYKA
 CURRENT,logistics_tooltip_transfer,2594,[LMB] Transfer 1 from *X,[LMB] Przenieś 1 z *X
 CURRENT,logistics_tooltip_cancel_transfer,2594,[RMB] Cancel 1 from *X,[RMB] Anuluj 1 z *X
 CURRENT,logistics_tooltip_modifiers,2594,Modifiers:,Modyfikatory:
-CURRENT,orders_logistics,2594,LOGISTICS,LOGISTYKA
-CURRENT,orders_crew,2594,CREW,CREW
 CURRENT,orders_doors,2594,DOORS,DRZWI
 CURRENT,order_none,2594,None,Brak
-CURRENT,order_salvage,2594,Gather Salvage,Gather Salvage
+CURRENT,order_salvage,2594,Gather Salvage,Zbieraj złom
 CURRENT,order_gather,2594,Gather Materials,Zbierz materiały
 CURRENT,order_repairhull,2594,Repair Hull,Napraw kadłub
-CURRENT,order_shiftwork,2594,Shift Work,Praca zmianowa
-CURRENT,order_suitson,2594,Suits On,Garnitury włączone
+CURRENT,order_suitson,2594,Suits On,Używanie skafandrów
 CURRENT,order_exteriorwork,2594,Exterior Work,Prace zewnętrzne
 CURRENT,order_weaponsactive,2594,Weapons Free,Bez broni
 CURRENT,order_fleetlogistics,2594,Fleet Logistics,Logistyka floty
 CURRENT,order_battlestations,2594,Battle Stations,Stacje bojowe
-CURRENT,order_mining,2594,Mining,Górnictwo
+CURRENT,order_mining,2594,Mining,Pozyskiwanie minerałów
 CURRENT,action_opendoors,2594,Open All Doors,Otwórz wszystkie drzwi
 CURRENT,action_closedoors,2594,Close All Doors,Zamknij wszystkie drzwi
-CURRENT,action_openvents,2594,Open All Vents,Otwórz wszystkie otwory wentylacyjne
-CURRENT,action_closevents,2594,Close All Vents,Zamknij wszystkie otwory wentylacyjne
 CURRENT,missions_title,2594,CONTRACTS,UMOWY
 CURRENT,mission_accept,2594,Accept,Zaakceptuj
 CURRENT,mission_accepted,2594,Accepted,Zaakceptowany
@@ -1658,7 +1769,7 @@ CURRENT,mission_assignedtolayer,2594,Accepted and assigned to L*X,Zaakceptowany 
 CURRENT,mission_cannotassigntolayer,2594,Cannot assign to *X,Nie można przypisać do *X
 CURRENT,mission_episode_1,2594,EPISODE 1,ODCINEK 1
 CURRENT,mission_deliver,2594,Deliver,Dostarcz
-CURRENT,mission_turnin,2594,Turn in contract,Zwróć umowę
+CURRENT,mission_turnin,2594,Turn in contract,Zrealizuj kontrakt
 CURRENT,mission_completed,2594,COMPLETED,ZAKOŃCZONO
 CURRENT,mission_failed,2594,FAILED,NIEPOWODZENIE
 CURRENT,mission_bypassed,2594,BYPASSED,PRZECHODZI
@@ -1683,10 +1794,10 @@ CURRENT,mission_courseplotted,2594,COURSE PLOTTED,WYZNACZONY KURS
 CURRENT,mission_onroute,2594,ON ROUTE,NA TRASIE
 CURRENT,mission_reward,2594,PAYMENT,PŁATNOŚĆ
 CURRENT,mission_requires_equipment,2594,Contract requires Equipment : *X,Kontrakt wymaga sprzętu : *X
-CURRENT,mission_requires_stock,2594,Contract requires *X,Umowa wymaga *X
-CURRENT,mission_requires_stock_count,2594,Contract requires *Y *X,Umowa wymaga *Y *X
+CURRENT,mission_requires_stock,2594,Contract requires *X,Kontrakt wymaga *X
+CURRENT,mission_requires_stock_count,2594,Contract requires *Y *X,Kontrakt wymaga *Y *X
 CURRENT,mission_requires_combatvessel,2594,Contract requires armed combat vessel,Kontrakt wymaga uzbrojonego statku bojowego
-CURRENT,mission_requires_cabinspace,2594,Contract requires at least *X free cabins,Umowa wymaga co najmniej *X wolnych kabin
+CURRENT,mission_requires_cabinspace,2594,Contract requires at least *X free cabins,Kontrakt wymaga co najmniej *X wolnych kabin
 CURRENT,mission_requires_combatrating,2594,You require a Combat Rating of at least *X,Wymagasz oceny bojowej na poziomie co najmniej *X
 CURRENT,mission_requires_industryrating,2594,You require an Industry Rating of at least *X,Wymagasz oceny branżowej na poziomie co najmniej *X
 CURRENT,mission_requires_logisticsrating,2594,You require a Logistics Rating of at least *X,Wymagasz oceny logistycznej na poziomie co najmniej *X
@@ -1694,8 +1805,8 @@ CURRENT,mission_requires_humanitarianrating,2594,You require a Humanitarian Rati
 CURRENT,mission_requires_notindemo,2594,Unavailable to demo players,Niedostępne dla graczy demo
 CURRENT,mission_difficulty,2594,This mission has been assigned a difficulty rating of *X.,Ta misja ma przypisany poziom trudności *X.
 CURRENT,mission_difficulty_short,2594,DIFFICULTY *X,TRUDNOŚĆ *X
-CURRENT,mission_requirement_passed,2594,[PASSED],[PASSED]
-CURRENT,mission_requirement_failed,2594,[FAILED],[FAILED]
+CURRENT,mission_requirement_passed,2594,[PASSED],[ZAAKCEPTOWANE]
+CURRENT,mission_requirement_failed,2594,[FAILED],[BRAK]
 CURRENT,mission_show_completed,2594,SHOW COMPLETED,POKAZ ZAKOŃCZONY
 CURRENT,mission_type_delivery,2594,Delivery,Dostawa
 CURRENT,mission_delivery_title,2594,Courier mission: Deliver cargo to nearby system,Misja kurierska: Dostarcz ładunek do pobliskiego systemu
@@ -1948,8 +2059,8 @@ CURRENT,nomadobjective_successbonus,2594,Population has reached *X residents. Fu
 CURRENT,nomadobjective_nextbonus,2594,Next bonus when population reaches *X residents - $*Y.,"Następny bonus, gdy populacja osiągnie *X mieszkańców - $*Y."
 CURRENT,nomadobjective_award,2594,NOMAD REWARD,NOMAD REWARD
 CURRENT,nomadobjective_success,2594,*X fleet residents,*X Mieszkańcy floty
-CURRENT,object_airduct,2594,Airduct,Airduct
-CURRENT,object_airduct_description,2594,Pumps oxygen into the surrounding cabin until a breathable atmosphere is achieved. Must be supplied with Oxygen through a pipe.,"Pompuje tlen do otaczającej kabiny, aż do uzyskania atmosfery umożliwiającej oddychanie. Tlen musi być dostarczany rurą."
+CURRENT,object_airduct,2594,Airduct,Kanał wentylacyjny
+CURRENT,object_airduct_description,2594,Pumps oxygen into the surrounding cabin until a breathable atmosphere is achieved. Must be supplied with Oxygen through a pipe.,"Pompuje tlen do otoczenia, aż do uzyskania atmosfery umożliwiającej oddychanie. Tlen musi być dostarczany za pomocą rur."
 CURRENT,object_battery,2594,Battery,Bateria
 CURRENT,object_box,2594,Box,Box
 CURRENT,object_bullets,2594,Bullets,Pociski
@@ -1961,7 +2072,7 @@ CURRENT,object_civilian,2594,Civilian,Cywil
 CURRENT,object_refugee,2594,Refugee,Uchodźca
 CURRENT,object_crewmember,2594,Crew,Załoga
 CURRENT,object_scientist,2594,Scientist,Naukowiec
-CURRENT,object_weaponsspecialist,2594,Weapons Officer,Oficer ds. broni
+CURRENT,object_weaponsspecialist,2594,Weapons Officer,Oficer uzbrojenia
 CURRENT,object_data,2594,Data,Dane
 CURRENT,object_deuterium,2594,Deuterium,Deuter
 CURRENT,object_deuterium_description,2594,Fuel for a Fusion Reactor.,Paliwo dla reaktora termojądrowego.
@@ -1987,8 +2098,8 @@ CURRENT,object_thruster_description,2594,Maneuvering thruster. Must be attached 
 CURRENT,object_entity,2594,Entity,Podmiot
 CURRENT,object_equipment,2594,Equipment,Sprzęt
 CURRENT,object_fighter,2594,Fighter,Myśliwiec
-CURRENT,object_food,2594,Food,Jedzenie
-CURRENT,object_ftlcharge,2594,FTL Charge,FTL Charge
+CURRENT,object_food,2594,Food,Żywność
+CURRENT,object_ftlcharge,2594,FTL Charge,Ładunek FTL
 CURRENT,object_ftldrive,2594,FTL Drive,Napęd FTL
 CURRENT,object_fuel,2594,Fuel,Paliwo
 CURRENT,object_fusionreactor,2594,Fusion Reactor,Reaktor termojądrowy
@@ -2011,7 +2122,7 @@ CURRENT,object_loader_description,2594,"This is a general purpose version of the
 CURRENT,object_fuelloader,2594,Fuel Loader,Ładowarka paliwa
 CURRENT,object_fuelloader_description,2594,"Takes a canister of Fuel, and pumps it into an underfloor pipe. Use pipes to connect this to your Reactor and your Engines.","Pobiera kanister z paliwem i pompuje je do rury pod podłogą. Użyj rur, aby podłączyć go do reaktora i silników."
 CURRENT,object_oxygenloader,2594,Oxygen Loader,Ładowarka tlenu
-CURRENT,object_oxygenloader_description,2594,"Takes a pressurised canister of oxygen and pumps it into an underfloor pipe.  Use pipes to connect this to your Airduct, to supply oxygen to the cabin.","Pobiera tlen z kanistra pod ciśnieniem i pompuje go do rury podłogowej.  Użyj rur, aby podłączyć go do Airduct, aby dostarczyć tlen do kabiny."
+CURRENT,object_oxygenloader_description,2594,"Takes a pressurised canister of oxygen and pumps it into an underfloor pipe.  Use pipes to connect this to your Airduct, to supply oxygen to the cabin.","Pobiera tlen z kanistra i pompuje go poprzez rury. Użyj rur, aby podłączyć go do kanału wentylacyjnego, aby dostarczyć tlen do otoczenia."
 CURRENT,object_logisticsdrone,2594,Logistics Drone,Dron logistyczny
 CURRENT,object_logisticsdrone_description,2594,"An incredibly useful semi-intelligent robot, capable of gathering salvage from deep space. Can also perform minor repairs to a damaged hull. Must be launched from a Drone Bay.","Niezwykle użyteczny półinteligentny robot, zdolny do zbierania surowców z głębokiego kosmosu. Może również dokonywać drobnych napraw uszkodzonego kadłuba. Musi być wystrzeliwany z hangaru dron."
 CURRENT,object_meteor,2594,Meteor,Meteor
@@ -2031,9 +2142,9 @@ CURRENT,object_sciencestation,2594,Science Station,Stacja naukowa
 CURRENT,object_sciencestation_description,2594,A workstation for a scientist to conduct valuable research.,Stacja robocza dla naukowca do prowadzenia cennych badań.
 CURRENT,object_supercomputer,2594,Super Computer,Super komputer
 CURRENT,object_supercomputer_description,2594,A powerful computer for number crunching and simulating important research.,Potężny komputer do przetwarzania liczb i symulacji ważnych badań.
-CURRENT,object_shuttle,2594,Shuttle,Shuttle
-CURRENT,object_spacesuit,2594,Spacesuit,Kombinezon kosmiczny
-CURRENT,object_spacesuitpod,2594,Spacesuit Pod,Kombinezon kosmiczny
+CURRENT,object_shuttle,2594,Shuttle,Wahadłowiec transportowy
+CURRENT,object_spacesuit,2594,Spacesuit,Skafander kosmiczny
+CURRENT,object_spacesuitpod,2594,Spacesuit Pod,Skafander kosmiczny
 CURRENT,object_spacesuitpod_description,2594,A storage place for spacesuits that need their oxygen replenishing.,"Miejsce przechowywania skafandrów kosmicznych, które wymagają uzupełnienia tlenu."
 CURRENT,object_water,2594,Water,Woda
 CURRENT,object_stairs,2594,Ladder,Drabina
@@ -2074,9 +2185,9 @@ CURRENT,object_sewagemachine,2594,Waste Treatment Machine,Maszyna do przetwarzan
 CURRENT,object_sewagemachine_description,2594,"Takes sewage from the habitation deck, separates the solid and liquid waste, and partially recycles them. The device outputs dirty water and compost.","Pobiera ścieki z pokładu mieszkalnego, oddziela odpady stałe i płynne oraz częściowo je przetwarza. Urządzenie wytwarza brudną wodę i kompost."
 CURRENT,object_waterpurifier,2594,Water Purifier,Oczyszczacz wody
 CURRENT,object_waterpurifier_description,2594,Takes dirty water from sewage recycling or from naturally occurring ice - and purifies it into safe drinkable water.,Pobiera brudną wodę z recyklingu ścieków lub z naturalnie występującego lodu i oczyszcza ją do bezpiecznej wody pitnej.
-CURRENT,object_oxygenmaker,2594,Oxygen Maker,Producent tlenu
+CURRENT,object_oxygenmaker,2594,Oxygen Maker,Generator tlenu
 CURRENT,object_oxygenmaker_description,2594,Uses electrical power to extract Oxygen from Water.,Wykorzystuje energię elektryczną do ekstrakcji tlenu z wody.
-CURRENT,object_scrubber,2594,CO2 Scrubber,Scrubber CO2
+CURRENT,object_scrubber,2594,CO2 Scrubber,Pochłaniacz CO2
 CURRENT,object_scrubber_description,2594,Extracts Carbon Dioxide from the atmosphere. Its output must be piped into a storage tank or it will become blocked.,"Usuwa dwutlenek węgla z atmosfery. Jego wyjście musi być doprowadzone do zbiornika magazynowego, w przeciwnym razie zostanie zablokowane."
 CURRENT,object_airreprocessor,2594,Air Reprocessor,Reprocesor powietrza
 CURRENT,object_airreprocessor_description,2594,Converts CO2 into breathable Oxygen.,Przekształca CO2 w oddychający tlen.
@@ -2101,7 +2212,7 @@ CURRENT,object_robotarm,2594,Robot Arm,Ramię robota
 CURRENT,object_robotarmshort,2594,Short Robot Arm,Krótkie ramię robota
 CURRENT,object_robotarmsmart,2594,Smart Robot Arm,Inteligentne ramię robota
 CURRENT,object_track,2594,Track,Ścieżka
-CURRENT,object_ruinedequipment,2594,Ruined Equipment,Zrujnowany sprzęt
+CURRENT,object_ruinedequipment,2594,Ruined Equipment,Zniszczony sprzęt
 CURRENT,object_solarpanel,2594,Solar Panel,Panel słoneczny
 CURRENT,object_solarpanel_description,2594,"These must be installed outside your ship, with scaffolding for support. Each panel generates 10MW.","Muszą one zostać zainstalowane na zewnątrz twojego statku, z rusztowaniem do podparcia. Każdy panel generuje moc 10 MW."
 CURRENT,object_brokenhopdrive,2594,Broken Hop Drive,Broken Hop Drive
@@ -2110,15 +2221,15 @@ CURRENT,object_storagecrate,2594,Storage Crate,Skrzynia do przechowywania
 CURRENT,object_storagecrate_description,2594,"Storage crate, stores a single type of resource but at 4x the usual amount per square","Skrzynia magazynowa, przechowuje jeden rodzaj zasobów, ale w 4x większej ilości na kwadrat"
 CURRENT,object_smallstoragecrate,2594,Small Storage Crate,Mała skrzynka do przechowywania
 CURRENT,object_smallstoragecrate_description,2594,"Small storage crate, stores a single type of resource but at 4x the usual amount per square","Mała skrzynia magazynowa, przechowuje jeden rodzaj zasobów, ale w 4-krotnie większej ilości na kwadrat"
-CURRENT,object_framecomponent,2594,Frame,Ramka
+CURRENT,object_framecomponent,2594,Frame,Rama
 CURRENT,object_motorcomponent,2594,Motor,Silnik
 CURRENT,object_coilcomponent,2594,Energy Coil,Cewka energetyczna
 CURRENT,object_lenscomponent,2594,Lens,Obiektyw
 CURRENT,object_processorcomponent,2594,Processor,Procesor
-CURRENT,object_stargatestructure,2594,Stargate Frame,Stargate Frame
-CURRENT,object_stargateresin,2594,Stargate Resin,Żywica Stargate
-CURRENT,object_stargateactuator,2594,Stargate Actuator,Siłownik Stargate
-CURRENT,object_stargatereceiver,2594,Stargate Receiver,Odbiornik Stargate
+CURRENT,object_stargatestructure,2594,Stargate Frame,Rama Gwiezdnych wrót
+CURRENT,object_stargateresin,2594,Stargate Resin,Żywica Gwiezdnych wrót
+CURRENT,object_stargateactuator,2594,Stargate Actuator,Siłownik Gwiezdnych wrót
+CURRENT,object_stargatereceiver,2594,Stargate Receiver,Odbiornik Gwiezdnych wrót
 CURRENT,object_stargatecapacitor,2594,Stargate Capacitor,Kondensator gwiezdny
 CURRENT,object_sewage,2594,Sewage,Ścieki
 CURRENT,object_wastewater,2594,Waste Water,Ścieki
@@ -2234,14 +2345,14 @@ CURRENT,newplayerhelp_fuelpipe,2594,<FUEL PIPE,<RURA PALIWOWA
 CURRENT,alert_title,2594,ALERTS,ALERTY
 CURRENT,alert_type_none,2594,NO ALERT,BRAK ALERTU
 CURRENT,alert_type_test,2594,TEST ALERT,ALERT TESTOWY
-CURRENT,alert_type_hullbreach,2594,HULL BREACH,HULL BREACH
+CURRENT,alert_type_hullbreach,2594,HULL BREACH,ROZSZCZELNIENIE KADŁUBA
 CURRENT,alert_type_hullbreach_caption,2594,Repair *X%,Napraw *X%
-CURRENT,alert_type_hullbreach_tooltip,2594,"There is a hole in your ship hull and the cabin is depressurising. Your crew will fix the breach, but you should consider closing your Door Vents to seal off the area.","W kadłubie twojego statku jest dziura i kabina traci ciśnienie. Twoja załoga naprawi wyrwę, ale powinieneś rozważyć zamknięcie otworów wentylacyjnych, aby uszczelnić obszar."
+CURRENT,alert_type_hullbreach_tooltip,2594,"There is a hole in your ship hull and the cabin is depressurising. Your crew will fix the breach, but you should consider closing your Door Vents to seal off the area.","W kadłubie twojego statku jest dziura i statek traci ciśnienie. Twoja załoga naprawi wyrwę, ale powinieneś rozważyć zamknięcie drzwi, aby uszczelnić obszar."
 CURRENT,alert_type_co2,2594,CO2 WARNING,OSTRZEŻENIE CO2
 CURRENT,alert_type_co2_tooltip,2594,"There is a dangerous build up of CO2 inside your ship. If it reaches 100%, your crew will suffocate. Consider buying a CO2 Scrubber and connecting it to a storage tank.","Wewnątrz twojego statku gromadzi się niebezpieczny CO2. Jeśli osiągnie 100%, twoja załoga się udusi. Rozważ zakup oczyszczacza CO2 i podłączenie go do zbiornika magazynowego."
 CURRENT,alert_type_co2_caption,2594,*X% Fatal,*X% śmiertelne
 CURRENT,alert_type_oxygen,2594,Oxygen must be at 50% to be breathable.,"Poziom tlenu musi wynosić 50%, aby można było oddychać."
-CURRENT,alert_type_meteorshower,2594,METEOR SHOWER,METEOR SHOWER
+CURRENT,alert_type_meteorshower,2594,METEOR SHOWER,DESZCZ METEORYTÓW
 CURRENT,alert_type_hostileforces,2594,HOSTILE CONTACT,WROGI KONTAKT
 CURRENT,alert_type_hostileforces_caption,2594,*X enemy ships,*X statków wroga
 CURRENT,alert_type_hostilesinbound,2594,HOSTILES INBOUND,NADLATUJĄ WROGIE JEDNOSTKI
@@ -2251,9 +2362,9 @@ CURRENT,alert_type_heavydamage,2594,HEAVY DAMAGE,POWAŻNE USZKODZENIA
 CURRENT,alert_type_heavydamage_caption,2594,Damage *X%,Obrażenia *X%
 CURRENT,alert_type_suffocating,2594,CREW SUFFOCATING,DUSZĄCA SIĘ ZAŁOGA
 CURRENT,alert_type_suffocating_caption,2594,*X suffocating,*X duszący
-CURRENT,alert_type_hungry,2594,CREW HUNGRY,GŁÓD ZAŁOGI
+CURRENT,alert_type_hungry,2594,CREW HUNGRY,GŁODNA ZAŁOGA
 CURRENT,alert_type_starving,2594,CREW STARVING,ZAŁOGA GŁODUJE
-CURRENT,alert_type_famished,2594,CREW FAMISHED,ZAŁOGA ZJEDNOCZONA
+CURRENT,alert_type_famished,2594,CREW FAMISHED,ZAŁOGA GŁODUJE
 CURRENT,alert_type_thirsty,2594,CREW THIRSTY,CREW THIRSTY
 CURRENT,alert_type_dehydrated,2594,CREW DEHYDRATED,ZAŁOGA ODWODNIONA
 CURRENT,alert_type_severely_dehydrated,2594,CREW SEVERELY DEHYDRATED,ZAŁOGA POWAŻNIE ODWODNIONA
@@ -2262,18 +2373,18 @@ CURRENT,alert_type_dead_caption,2594,*X dead,*X martwy
 CURRENT,alert_type_lowresource_caption,2594,*X,*X
 CURRENT,alert_type_lowfuel,2594,LOW FUEL,NISKI POZIOM PALIWA
 CURRENT,alert_type_lowftl,2594,FTL CHARGES,ŁADUNKI FTL
-CURRENT,alert_type_lowoxygen,2594,LOW OXYGEN,NISKI OXYGEN
+CURRENT,alert_type_lowoxygen,2594,LOW OXYGEN,NISKI POZIOM TLENU
 CURRENT,alert_type_lowbattery,2594,BATTERY LOW,NISKI POZIOM NAŁADOWANIA BATERII
-CURRENT,alert_type_lowfood,2594,LOW FOOD,NISKA ŻYWNOŚĆ
-CURRENT,alert_type_lowwater,2594,LOW WATER,NISKA WODA
+CURRENT,alert_type_lowfood,2594,LOW FOOD,MAŁO ŻYWNOŚCI
+CURRENT,alert_type_lowwater,2594,LOW WATER,NISKI POZIOM WODY
 CURRENT,alert_type_lowbattery_caption,2594,*X%,*X%
 CURRENT,alert_type_lowbattery_tooltip,2594,"Your batteries have been drained. It is likely your reactors are not creating enough power to meet the needs of your ship. You will need either more Reactors, or more battery storage, or both.","Twoje baterie zostały rozładowane. Prawdopodobnie twoje reaktory nie wytwarzają wystarczającej mocy, aby zaspokoić potrzeby twojego statku. Będziesz potrzebować albo więcej reaktorów, albo więcej akumulatorów, albo jednego i drugiego."
-CURRENT,alert_type_powercut,2594,POWER CUT,POWER CUT
+CURRENT,alert_type_powercut,2594,POWER CUT,BRAK ZASILANIA
 CURRENT,alert_type_powercut_nofuel,2594,Fuel supply interrupted,Przerwa w dostawie paliwa
 CURRENT,alert_type_powercut_tooltip,2594,Your reactor has cut out. It is likely the fuel supply has been interrupted.  Consider using storage tanks to create a permanent store of fuel for your Reactor to draw from.,"Twój reaktor się wyłączył. Prawdopodobnie dopływ paliwa został przerwany.  Rozważ użycie zbiorników magazynowych, aby stworzyć stały zapas paliwa dla reaktora."
 CURRENT,alert_type_nostorage,2594,NO STORAGE,BRAK MAGAZYNOWANIA
-CURRENT,alert_type_autotradeinactive,2594,AUTO-TRADE INACTIVE,AUTO-TRADE NIEAKTYWNY
-CURRENT,alert_type_autotradeinactive_tooltip,2594,One or more of your auto-orders have been made inactive. This may be because you owe a large payment to X.,"Jedno lub więcej Twoich automatycznych zamówień zostało unieaktywnionych. Może to być spowodowane tym, że jesteś winien dużą płatność firmie X."
+CURRENT,alert_type_autotradeinactive,2594,AUTO-TRADE INACTIVE,HANDEL AUTOMATYCZNY - NIEAKTYWNY
+CURRENT,alert_type_autotradeinactive_tooltip,2594,One or more of your auto-orders have been made inactive. This may be because you owe a large payment to X.,"Jedno lub więcej Twoich automatycznych zamówień zostało wyłączone. Może to być spowodowane tym, że jesteś winien dużą należność firmie X."
 CURRENT,warning_unbreathable,2594,UNBREATHABLE,NIEZŁOMNY
 CURRENT,warning_suitsrequired,2594,SPACESUITS REQUIRED,WYMAGANE SKAFANDRY KOSMICZNE
 CURRENT,warning_deliveryblocked,2594,DELIVERY BLOCKED,DOSTAWA ZABLOKOWANA
@@ -2282,7 +2393,7 @@ CURRENT,format_currency,2594,$*X,$*X
 CURRENT,format_per_square,2594,*X / sq,*X / kw
 CURRENT,ratings,2594,RATINGS,OCENY
 CURRENT,rating_word,2594,rating,ocena
-CURRENT,rating_rankincreased,2594,RANK INCREASED,WZROST RANKINGU
+CURRENT,rating_rankincreased,2594,RANK INCREASED,WZROST RANGI
 CURRENT,rating_combat,2594,Combat,Walka
 CURRENT,rating_industry,2594,Industry,Przemysł
 CURRENT,rating_humanitarian,2594,Humanitarian,Humanitarny
@@ -2293,7 +2404,7 @@ CURRENT,rating_title_industry,2594,Industry Rating,Ocena branży
 CURRENT,rating_title_humanitarian,2594,Humanitarian Rating,Ocena humanitarna
 CURRENT,rating_title_logistics,2594,Logistics Rating,Ocena logistyki
 CURRENT,rating_title_criminal,2594,Criminal Rating,Ocena kryminalna
-CURRENT,rating_rank,2594,RANK *X,RANK *X
+CURRENT,rating_rank,2594,RANK *X,RANGA *X
 CURRENT,rating_hostilesdestroyed,2594,HOSTILES DESTROYED,WROGOWIE ZNISZCZENI
 CURRENT,phase_title,2594,Phase *X,Faza *X
 CURRENT,stargate_help,2594,"To submit completed parts to the stargate project, sell them at any trade outpost in the sector","Aby dostarczyć ukończone części do projektu gwiezdnych wrót, sprzedaj je w dowolnej placówce handlowej w sektorze"
@@ -2305,7 +2416,7 @@ CURRENT,stargate_energy_required,2594,REQUIRED: *X MW,WYMAGANE: *X MW
 CURRENT,stargate_energy_received,2594,RECEIVED: *X MW,ODEBRANO: *X MW
 CURRENT,stargate_power_button,2594,START,START
 CURRENT,stargate_powered_off,2594,POWERED OFF,ZASILANIE WYŁĄCZONE
-CURRENT,stargate_warming_up,2594,WARMING UP,ROZGRZEWKA
+CURRENT,stargate_warming_up,2594,WARMING UP,ROZGRZEWANIE
 CURRENT,stargate_power_on_failed,2594,FAILED,NIEPOWODZENIE
 CURRENT,stargate_ready_for_jump,2594,READY FOR JUMP,GOTOWY DO SKOKU
 CURRENT,stargate_jumping,2594,JUMP IN PROGRESS,SKOK W TOKU
@@ -2322,12 +2433,12 @@ CURRENT,opentextcrawlindustry_5,2594,The CEO of one such company - the INTERSTEL
 CURRENT,opentextcrawlindustry_6,2594,Trillions of dollars in funding have been set aside.,Na ten cel przeznaczono biliony dolarów.
 CURRENT,opentextcrawlindustry_7,2594,The time is perfect for a small entrepreneurial and industrious team of miners to start a new career - and make their fortune in the stars.,"Nadszedł idealny czas dla małego, przedsiębiorczego i pracowitego zespołu górników, aby rozpocząć nową karierę - i zbić fortunę w gwiazdach."
 CURRENT,tutorial_introduction_title,2594,TUTORIAL,TUTORIAL
-CURRENT,tutorial_next,2594,NEXT,NASTĘPNY
+CURRENT,tutorial_next,2594,NEXT,DALEJ
 CURRENT,tutorial_introduction1,2594,Welcome to our new home.,Witaj w naszym nowym domu.
 CURRENT,tutorial_camera_title,2594,CAMERA CONTROLS,ELEMENTY STERUJĄCE KAMERY
 CURRENT,tutorial_power_title,2594,INSTALLING POWER,INSTALACJA ZASILANIA
 CURRENT,tutorial_power_titlecomplete,2594,POWER INSTALLED,ZAINSTALOWANE ZASILANIE
-CURRENT,tutorial_air_title,2594,OXYGEN,OXYGEN
+CURRENT,tutorial_air_title,2594,OXYGEN,TLEN
 CURRENT,tutorial_engines_title,2594,ENGINES,SILNIKI
 CURRENT,tutorial_enginesintro,2594,"The ship has two factory fitted engines ready to go, but we need to connect them up.","Statek ma dwa fabrycznie zamontowane silniki gotowe do pracy, ale musimy je podłączyć."
 CURRENT,tutorial_enginesconnectpipes,2594,Let's start with the starboard engine. Use the pipes menu to run a pipe from the engine to your existing yellow fuel lines.,"Zacznijmy od prawego silnika. Użyj menu rur, aby poprowadzić rurę od silnika do istniejących żółtych przewodów paliwowych."
@@ -2336,19 +2447,19 @@ CURRENT,tutorial_enginesportside,2594,Now repeat the process with the port engin
 CURRENT,tutorial_enginesoperational,2594,Both of our engines are now operational.,Oba nasze silniki są teraz sprawne.
 CURRENT,tutorial_ftl_title,2594,FASTER THAN LIGHT,SZYBCIEJ NIŻ ŚWIATŁO
 CURRENT,tutorial_ftlconfirmorder,2594,Confirm the order.,Potwierdź zamówienie.
-CURRENT,tutorial_ftldelivery,2594,A shuttle will deliver the items to us.,Transport dostarczy przedmioty do nas.
-CURRENT,tutorial_stargatescreen_title,2594,STARGATE PROJECT,PROJEKT STARGATE
+CURRENT,tutorial_ftldelivery,2594,A shuttle will deliver the items to us.,Wahadłowiec dostarczy przedmioty do nas.
+CURRENT,tutorial_stargatescreen_title,2594,STARGATE PROJECT,PROJEKT GWIEZDNE WROTA
 CURRENT,tutorial_fabrication_title,2594,FABRICATION,FABRYKA
 CURRENT,tutorial_smelters_title,2594,SMELTERS,SMELTERY
 CURRENT,tutorial_trade_title,2594,TRADE,HANDEL
 CURRENT,tutorial_fleetcrewarrival,2594,Your new crew will arrive by shuttle.,Twoja nowa załoga przybędzie wahadłowcem.
 CURRENT,tutorial_fleetwaitforpowerup,2594,Your crew will now power up the ship and bring the engines and life support online.,Twoja załoga włączy teraz zasilanie statku i uruchomi silniki oraz system podtrzymywania życia.
 CURRENT,tutorial_flight_title,2594,FLIGHT,LOT
-CURRENT,tutorial_finance_title,2594,CONTRACTS,UMOWY
+CURRENT,tutorial_finance_title,2594,CONTRACTS,KONTRAKTY
 CURRENT,tutorial_financehyperspace,2594,We are in hyperspace!,Jesteśmy w nadprzestrzeni!
 CURRENT,tutorial_financearrived,2594,We have arrived at the destination system.,Dotarliśmy do systemu docelowego.
-CURRENT,tutorial_financeturningin,2594,A shuttle will be dispatched to collect the passengers.,Po pasażerów zostanie wysłany transport wahadłowy.
-CURRENT,tutorial_financemissioncomplete,2594,The passengers have all arrived safely. You will now be paid the fee and will also receive points toward your Humanitarian rating - giving you access to more difficult and lucrative missions.,"Pasażerowie bezpiecznie dotarli na miejsce. Otrzymasz teraz opłatę, a także punkty do rankingu humanitarnego, co da ci dostęp do trudniejszych i bardziej lukratywnych misji."
+CURRENT,tutorial_financeturningin,2594,A shuttle will be dispatched to collect the passengers.,Po pasażerów zostanie wysłany wahadłowiec transportowy.
+CURRENT,tutorial_financemissioncomplete,2594,The passengers have all arrived safely. You will now be paid the fee and will also receive points toward your Humanitarian rating - giving you access to more difficult and lucrative missions.,"Pasażerowie bezpiecznie dotarli na miejsce. Otrzymasz teraz wynagrodzenie, a także punkty do rankingu humanitarnego, co da ci dostęp do trudniejszych i bardziej lukratywnych misji."
 CURRENT,tutorial_wrapup_title,2594,END OF TUTORIAL,KONIEC SAMOUCZKA
 CURRENT,tutorial_wrapup1,2594,"We've covered the basics. You've learnt how to install equipment on your ship, and how to navigate space.","Omówiliśmy już podstawy. Dowiedziałeś się, jak zainstalować sprzęt na swoim statku i jak poruszać się w przestrzeni kosmicznej."
 CURRENT,tutorial_wrapup3,2594,"Many different types of contract are now available to you.\n\nHowever, you must stay alert, Captain. There are reports of even more lucrative opportunities that you'll have to find by yourself.","Masz teraz do dyspozycji wiele różnych rodzajów umów.\n\nMusisz jednak zachować czujność, kapitanie. Istnieją doniesienia o jeszcze bardziej lukratywnych możliwościach, które będziesz musiał znaleźć sam."
@@ -2404,9 +2515,9 @@ CURRENT,opentextcrawlstory_5,2594,The CEO of the INTERSTELLAR MINING CORPORATION
 CURRENT,opentextcrawlstory_6,2594,"With trillions in funding up for grabs, the stage is set for fearless adventurers to forge their own path in the cosmos.","Z bilionami funduszy do zgarnięcia, scena jest przygotowana dla nieustraszonych poszukiwaczy przygód, aby wytyczyć własną ścieżkę w kosmosie."
 CURRENT,opentextcrawlstory_7,2594,"Will you rise to the challenge, and chart your own course among the stars?",Czy sprostasz wyzwaniu i wyznaczysz swój własny kurs wśród gwiazd?
 CURRENT,calltoarms_harken_1,2594,"Captain, I'm the chief of security for this sector, and I need your help.","Kapitanie, jestem szefem ochrony tego sektora i potrzebuję twojej pomocy."
-CURRENT,calltoarms_harken_2,2594,"All across the sector, there are people in trouble who need our assistance.","W całym sektorze są ludzie w tarapatach, którzy potrzebują naszej pomocy."
-CURRENT,calltoarms_harken_3,2594,"I'm spread too thin. I can't be everywhere. You're more than capable, and I'll be there to offer advice when I can.","Jestem zbyt rozproszony. Nie mogę być wszędzie. Jesteś więcej niż zdolny, a ja będę służył radą, kiedy tylko będę mógł."
-CURRENT,calltoarms_harken_4,2594,"If you chose to help, I've marked the locations on your map, as GOLD HIGHLIGHTS.","Jeśli zdecydujesz się pomóc, zaznaczyłem te lokalizacje na mapie jako ZŁOTE WYRÓŻNIENIA."
+CURRENT,calltoarms_harken_2,2594,"All across the sector, there are people in trouble who need our assistance.","W całym sektorze są ludzie w potrzebie, którzy potrzebują naszej pomocy."
+CURRENT,calltoarms_harken_3,2594,"I'm spread too thin. I can't be everywhere. You're more than capable, and I'll be there to offer advice when I can.","Mam za dużo na głowie, nie mogę być wszędzie jednocześnie. Jeżeli chcesz dorobić i jesteś zainteresowany pomocą, chętnie skorzystam."
+CURRENT,calltoarms_harken_4,2594,"If you chose to help, I've marked the locations on your map, as GOLD HIGHLIGHTS.","Jeśli zdecydujesz się pomóc, zaznaczyłem lokalizacje na mapie jako ZŁOTE WYRÓŻNIENIA."
 CURRENT,calltoarms_harken_5,2594,"Thank you, Captain.","Dziękuję, kapitanie."
 CURRENT,calltoarms_harkenrailroad_1,2594,"My name is Commander Harken, and I'm the Chief of Private Security for the sector.",Nazywam się komandor Harken i jestem szefem prywatnej ochrony sektora.
 CURRENT,calltoarms_harkenrailroad_2,2594,"There is a crisis underway, Captain.  Commercial vessels are going missing, all across the sector.  I suspect foul play, and I need your help to investigate.","Trwa kryzys, kapitanie.  W całym sektorze giną statki handlowe.  Podejrzewam nieuczciwą grę i potrzebuję twojej pomocy w śledztwie."
@@ -2423,13 +2534,13 @@ CURRENT,wolf_part1_intro2,2594,"You have found the remains of the Interstellar P
 CURRENT,wolf_part1_intro3,2594,"In order to collect the Flight Recorder you will need Drones, launched from a Drone Bay on your ship.  If you don't already have this equipment, you'll need to buy at least one DRONE BAY, and at least one LOGISTICS DRONE, from any colony or shipyard.","Aby zebrać rejestrator lotu, będziesz potrzebować dronów, wystrzeliwanych z zatoki dronów na twoim statku.  Jeśli nie masz jeszcze tego sprzętu, musisz kupić co najmniej jedną zatokę dronów i co najmniej jeden dron logistyczny w dowolnej kolonii lub stoczni."
 CURRENT,wolf_part1_setupcall1,2594,"Thank you for returning the flight recorder, Captain.","Dziękuję za zwrot rejestratora lotu, kapitanie."
 CURRENT,wolf_part1_setupcall1b,2594,"We are in the grip of a major crisis.  Commercial vessels laden with valuable cargo are being targeted and destroyed.  These vessels are under our protection - but often lack any serious defenses, and barely have a chance to send out a distress call before they are plundered.  This is a calculated assault on the free market trade and industry within this sector, and cannot be allowed to continue.","Przeżywamy poważny kryzys.  Statki handlowe wypełnione cennym ładunkiem są atakowane i niszczone.  Statki te są pod naszą ochroną, ale często nie mają żadnej poważnej obrony i ledwo mają szansę wysłać wezwanie pomocy, zanim zostaną splądrowane.  To skalkulowany atak na wolnorynkowy handel i przemysł w tym sektorze, który nie może być kontynuowany."
-CURRENT,wolf_part1_setupcall2,2594,"I'm sending you the coordinates of two more stricken vessels, pinpointing their last known locations before they went dark.  We need you to travel to the wreckage of each of these ships, and collect whatever evidence you can.","Przesyłam ci współrzędne dwóch kolejnych statków, wskazując ich ostatnie znane lokalizacje, zanim przestały istnieć.  Musisz udać się do wraku każdego z tych statków i zebrać wszelkie możliwe dowody."
+CURRENT,wolf_part1_setupcall2,2594,"I'm sending you the coordinates of two more stricken vessels, pinpointing their last known locations before they went dark.  We need you to travel to the wreckage of each of these ships, and collect whatever evidence you can.","Przesyłam ci współrzędne dwóch kolejnych statków, wskazując ich ostatnie znane lokalizacje, zanim zostały zaatakowane.  Musisz udać się do wraku każdego z nich i zebrać wszelkie możliwe dowody."
 CURRENT,wolf_part1_setupcall3,2594,"The primary objective is the safe recovery of their Black Box Flight Recorders, which will contain a log of their final moments.","Głównym celem jest bezpieczne odzyskanie czarnych skrzynek rejestratorów lotu, które będą zawierać zapis ich ostatnich chwil."
-CURRENT,wolf_part1_setupcall4,2594,Here are the co-ordinates of the two shipwrecks we need you to visit.,"Oto współrzędne dwóch wraków statków, które musisz odwiedzić."
-CURRENT,wolf_part1_setupcall5,2594,"The fourth vessel to be targeted managed to send out a distress call. Local security forces responded too late, and found nothing but the destroyed fuselage with a presumed loss of all crew.",Czwarty zaatakowany statek zdołał wysłać wezwanie pomocy. Lokalne siły bezpieczeństwa zareagowały zbyt późno i nie znalazły nic poza zniszczonym kadłubem z domniemaną utratą całej załogi.
+CURRENT,wolf_part1_setupcall4,2594,Here are the co-ordinates of the two shipwrecks we need you to visit.,"Oto współrzędne dwóch wraków, które musisz odwiedzić."
+CURRENT,wolf_part1_setupcall5,2594,"The fourth vessel to be targeted managed to send out a distress call. Local security forces responded too late, and found nothing but the destroyed fuselage with a presumed loss of all crew.",Czwarty zaatakowany statek zdołał wysłać wezwanie pomocy. Lokalne siły bezpieczeństwa zareagowały zbyt późno i nie znalazły nic poza zniszczonym kadłubem i ciałami załogi.
 CURRENT,wolf_part1_setupcall5b,2594,"This is the only image they managed to send, before their transmission went dead.","Jest to jedyne zdjęcie, które udało im się wysłać, zanim ich transmisja została przerwana."
-CURRENT,wolf_part1_setupcall6,2594,"The wreckage - which is the forensic evidence of their fate - was collected and taken back to System S*X, where it's currently sitting in storage.  We need you to send a ship to collect the wreckage, and bring it to us along with the recovered black box modules.","Wrak - który jest kryminalistycznym dowodem ich losu - został zebrany i zabrany z powrotem do Systemu S*X, gdzie obecnie znajduje się w magazynie.  Musisz wysłać statek, który zbierze wrak i przywiezie go do nas wraz z odzyskanymi modułami czarnych skrzynek."
-CURRENT,wolf_part1_setupcall7,2594,"Bring all the recovered wreckage and the black box flight recorders back to me for analysis on board my ship The Vanguard, to complete the contract.","Przynieś cały odzyskany wrak i rejestratory czarnych skrzynek z powrotem do mnie do analizy na pokładzie mojego statku Vanguard, aby zakończyć kontrakt."
+CURRENT,wolf_part1_setupcall6,2594,"The wreckage - which is the forensic evidence of their fate - was collected and taken back to System S*X, where it's currently sitting in storage.  We need you to send a ship to collect the wreckage, and bring it to us along with the recovered black box modules.","Wrak, który stanowi dowód bezprecedensowego ataku - został zebrany i przewieziony do Systemu S*X, gdzie obecnie znajduje się w magazynie.  Musisz wysłać statek, który zbierze wrak i przywiezie go do nas wraz z odzyskanymi modułami czarnych skrzynek."
+CURRENT,wolf_part1_setupcall7,2594,"Bring all the recovered wreckage and the black box flight recorders back to me for analysis on board my ship The Vanguard, to complete the contract.","Aby zakończyć kontrakt, przynieś cały odzyskany wrak i rejestratory czarnych skrzynek z powrotem do mnie do analizy, na pokład mojego statku Vanguard."
 CURRENT,wolf_part1_objective_recoverbox1,2594,Recover Flight Recorder from UMC Interstellar Prospector,Odzyskaj rejestrator lotu z UMC Interstellar Prospector
 CURRENT,wolf_part1_objective_recoverbox2,2594,Recover Flight Recorder from UMC Infinite Horizon,Odzyskaj rejestrator lotu z UMC Infinite Horizon
 CURRENT,wolf_part1_objective_recoverbox3,2594,Recover Flight Recorder from UMC Celestial Hauler,Odzyskaj rejestrator lotu z UMC Celestial Hauler
@@ -2447,31 +2558,30 @@ CURRENT,wolf_shipname_harken,2594,UMC Vanguard,UMC Vanguard
 CURRENT,wolf_shipname_wolf1,2594,Interstellar Prospector,Poszukiwacz międzygwiezdny
 CURRENT,wolf_shipname_wolf2,2594,Infinite Horizon,Nieskończony horyzont
 CURRENT,wolf_shipname_wolf3,2594,Celestial Hauler,Niebiański przewoźnik
-CURRENT,wolf_shipname_scavenger,2594,Scavenger Wraith,Scavenger Wraith
+CURRENT,wolf_shipname_scavenger,2594,Scavenger Wraith,Widmo Padlinożercy
 CURRENT,object_flightrecorder,2594,Flight Recorder,Rejestrator lotu
 CURRENT,object_shipwreckage,2594,Ship Wreckage,Wrak statku
-CURRENT,wolf_part1_scavenger1,2594,"Got my hands on something you might be looking for.  A recording of the screams and static from the ship's final moments.  You want it, I know it.  Scavengers rights says it's mine.","Mam coś, czego możesz szukać.  Nagranie krzyków i zakłóceń z ostatnich chwil statku.  Chcesz tego, to wiem.  Prawa padlinożerców mówią, że jest moje."
-CURRENT,wolf_part1_scavenger2,2594,"Luckily for you, you can have your precious data, so long as I get my finders fee.  It'll cost you $*X for the secrets.  Cross me and it will be the last mistake you make.","Na szczęście dla ciebie, możesz mieć swoje cenne dane, pod warunkiem, że dostanę swoją opłatę za znalezienie.  Tajemnice będą cię kosztować $*X.  Przekrocz mnie, a będzie to twój ostatni błąd."
-CURRENT,wolf_part1_scavenger3,2594,Funds received. Pleasure doing business.,Otrzymane środki. Przyjemność prowadzenia działalności.
-CURRENT,wolf_part1_scavenger4,2594,We'll drop your Flight Recorder out the cargo hold and be on our way.,Wyrzucimy twój rejestrator lotu z ładowni i ruszymy w drogę.
+CURRENT,wolf_part1_scavenger1,2594,"Got my hands on something you might be looking for.  A recording of the screams and static from the ship's final moments.  You want it, I know it.  Scavengers rights says it's mine.","Mam coś, czego możesz szukać.  Nagranie krzyków i zakłóceń z ostatnich chwil statku.  Chcesz tego, wiem to.  Prawa padlinożerców mówią, że to jest moje."
+CURRENT,wolf_part1_scavenger2,2594,"Luckily for you, you can have your precious data, so long as I get my finders fee.  It'll cost you $*X for the secrets.  Cross me and it will be the last mistake you make.","Na szczęście dla ciebie, możesz mieć swoje cenne dane, pod warunkiem, że dostanę swoją opłatę za znalezienie. Tajemnice będą cię kosztować $*X.  Postaw się mi, a będzie to twój ostatni błąd."
+CURRENT,wolf_part1_scavenger3,2594,Funds received. Pleasure doing business.,Otrzymałem zapłatę. Miło się robi z Toba interesy.
+CURRENT,wolf_part1_scavenger4,2594,We'll drop your Flight Recorder out the cargo hold and be on our way.,Zaraz wyrzucimy twój rejestrator lotu z ładowni i ruszymy dalej w drogę.
 CURRENT,wolf_part1_objective_scavenger,2594,Recover the Flight Recorder from Scavenger Vessel,Odzyskaj rejestrator lotu ze statku padlinożerców
-CURRENT,wolf_part1_sendingwreckage,2594,"They're sending the recovered wreckage to your ship The L*X now, Captain. It will arrive soon by Shuttle. You'll need to store it somewhere onboard.","Wysyłają teraz odzyskany wrak na twój statek L*X, kapitanie. Wkrótce przyleci wahadłowcem. Będziesz musiał przechować go gdzieś na pokładzie."
-CURRENT,wolf_part1_firstwreckage,2594,"Once you've collected all the Ship Wreckage, bring it to me along with the Flight Recorders. I'm onboard The Vanguard - sending our location now.","Gdy zbierzesz wszystkie szczątki statku, przynieś je do mnie wraz z rejestratorami lotu. Jestem na pokładzie Vanguard - prześlij teraz naszą lokalizację."
-CURRENT,wolf_part1_firstrecorder,2594,You've recovered the flight recorder! Bring it to me. I'm onboard The Vanguard - sending our location now.,Odzyskaliście rejestrator lotu! Przynieś go do mnie. Jestem na pokładzie Vanguard - prześlij naszą lokalizację.
-CURRENT,wolf_part1_sendingshuttle,2594,"Standby while I dock my ship with yours, Captain, to collect the items you've recovered so far. Thank you for your efforts.","Poczekaj, aż zadokuję mój statek z twoim, kapitanie, aby zebrać przedmioty, które do tej pory odzyskałeś. Dziękuję za twój wysiłek."
+CURRENT,wolf_part1_sendingwreckage,2594,"They're sending the recovered wreckage to your ship The L*X now, Captain. It will arrive soon by Shuttle. You'll need to store it somewhere onboard.","Zaraz otrzymasz pozostałości wraku na twój statek L*X, kapitanie. Wkrótce przyleci wahadłowiec. Będziesz musiał przechować je gdzieś na pokładzie."
+CURRENT,wolf_part1_firstwreckage,2594,"Once you've collected all the Ship Wreckage, bring it to me along with the Flight Recorders. I'm onboard The Vanguard - sending our location now.","Gdy zbierzesz wszystkie szczątki statku, przynieś je do mnie wraz z rejestratorami lotu. Jestem na pokładzie Vanguard - przesyłam naszą lokalizację."
+CURRENT,wolf_part1_firstrecorder,2594,You've recovered the flight recorder! Bring it to me. I'm onboard The Vanguard - sending our location now.,Odzyskaliście rejestrator lotu! Przynieś go do mnie. Jestem na pokładzie Vanguard - przesyłam naszą lokalizację.
+CURRENT,wolf_part1_sendingshuttle,2594,"Standby while I dock my ship with yours, Captain, to collect the items you've recovered so far. Thank you for your efforts.","Poczekaj, aż zadokuję do Twojego statku kapitanie. Od razu zabiorę przedmioty, które do tej pory odzyskałeś. Dziękuję za twój wysiłek."
 CURRENT,wolf_part1_recorderhint,2594,The flight recorder should be near the derelict L*X. Move towards it so that your drones can pick it up.,"Rejestrator lotu powinien znajdować się w pobliżu opuszczonego L*X. Zbliż się do niego, aby drony mogły go odebrać."
 CURRENT,wolf_part1_dronehint,2594,Your ship will need a drone bay and drones to collect the flight recorder.,"Twój statek będzie potrzebował wnęki na drony i dronów, aby zebrać rejestrator lotu."
-CURRENT,wolf_part1_completion1,2594,"We've analysed the black box recordings and the evidence is already pretty clear.  There's a pirate vessel out there somewhere, preying on high value commercial vessels.  They wait in silence, until the ship is alone, isolated, and defenseless.  They come out of nowhere and attack without warning, and before anybody can respond they've destroyed the ship and looted the cargo.","Przeanalizowaliśmy nagrania z czarnych skrzynek i dowody są już całkiem jasne.  Gdzieś tam jest piracki statek, żerujący na statkach handlowych o wysokiej wartości.  Czekają w ciszy, aż statek będzie sam, odizolowany i bezbronny.  Pojawiają się znikąd i atakują bez ostrzeżenia, a zanim ktokolwiek zdąży zareagować, niszczą statek i plądrują ładunek."
-CURRENT,wolf_part1_completion2,2594,Most likely to be sold for vast profits to the Stargate Project - who don't seem keen to ask questions.,Najprawdopodobniej zostanie sprzedany za ogromne zyski projektowi Stargate - który nie wydaje się chętny do zadawania pytań.
-CURRENT,wolf_part1_completion3,2594,So far they haven't left a single living witness. But the sensor data tells the full story. We've manged to extract another sensor image of the attacker.,Jak dotąd nie pozostawili ani jednego żywego świadka. Ale dane z czujników mówią wszystko. Udało nam się wyodrębnić kolejny obraz czujnika napastnika.
-CURRENT,wolf_part1_completion4,2594,"It's another grainy photograph, but it's all we have to go on.  This is without doubt the vessel responsible for all this death and destruction.","To kolejne ziarniste zdjęcie, ale to wszystko, na czym możemy się oprzeć.  To bez wątpienia statek odpowiedzialny za śmierć i zniszczenie."
-CURRENT,wolf_part1_completion5,2594,"We need to find a way to track them down, and destroy them.  We will be in touch soon, Captain.","Musimy znaleźć sposób, by ich namierzyć i zniszczyć.  Wkrótce będziemy w kontakcie, kapitanie."
-CURRENT,wolf_part1_completion6,2594,"In the mean time, we suggest you tend to your ships. If you've taken damage, you can repair the hull at any SHIPYARD. Use the funds we've sent to upgrade your defenses.","W międzyczasie sugerujemy, abyś zajął się swoimi statkami. Jeśli zostałeś uszkodzony, możesz naprawić kadłub w dowolnej STOCZNI. Wykorzystaj fundusze, które wysłaliśmy, aby ulepszyć swoją obronę."
+CURRENT,wolf_part1_completion1,2594,"We've analysed the black box recordings and the evidence is already pretty clear.  There's a pirate vessel out there somewhere, preying on high value commercial vessels.  They wait in silence, until the ship is alone, isolated, and defenseless.  They come out of nowhere and attack without warning, and before anybody can respond they've destroyed the ship and looted the cargo.","Przeanalizowaliśmy nagrania z czarnych skrzynek i dowody są już całkiem jasne.  Gdzieś tam jest piracki statek, polujacy na wartościowe statki handlowe.  Czekają w ciszy, aż statek będzie sam, odizolowany i bezbronny.  Pojawiają się znikąd i atakują bez ostrzeżenia, a zanim ktokolwiek zdąży zareagować, niszczą statek i plądrują ładunek."
+CURRENT,wolf_part1_completion2,2594,Most likely to be sold for vast profits to the Stargate Project - who don't seem keen to ask questions.,Najprawdopodobniej towar sprzedają z zyskiem projektowi Stargate - który nie wydaje się chętny do zadawania pytań.
+CURRENT,wolf_part1_completion4,2594,"It's another grainy photograph, but it's all we have to go on.  This is without doubt the vessel responsible for all this death and destruction.","To niewyraźne zdjęcie, ale to wszystko, na czym możemy się oprzeć.  To bez wątpienia statek odpowiedzialny za śmierć i zniszczenie."
+CURRENT,wolf_part1_completion5,2594,"We need to find a way to track them down, and destroy them.  We will be in touch soon, Captain.","Musimy znaleźć sposób, by ich namierzyć i zniszczyć.  Będziemy w kontakcie, kapitanie."
+CURRENT,wolf_part1_completion6,2594,"In the mean time, we suggest you tend to your ships. If you've taken damage, you can repair the hull at any SHIPYARD. Use the funds we've sent to upgrade your defenses.","W międzyczasie sugerujemy, abyś zajął się swoimi statkami. Jeśli masz jakieś  uszkodzenia, możesz naprawić kadłub w dowolnej STOCZNI. Wykorzystaj fundusze, które wysłaliśmy, aby ulepszyć swoją obronę."
 CURRENT,wolf_character_ryker,2594,Captain Amelia Ryker,Kapitan Amelia Ryker
-CURRENT,wolf_shipname_rescue,2594,Orion Sentinel,Orion Sentinel
+CURRENT,wolf_shipname_rescue,2594,Orion Sentinel,Strażnik Oriona
 CURRENT,wolf_shipname_pirate,2594,Unidentified Pirate,Niezidentyfikowany pirat
 CURRENT,wolf_part2_title,2594,"A Wolf in Sheep's Clothing, Part 2","Wilk w owczej skórze, część 2"
-CURRENT,wolf_part2_advertisement,2594,Captain. We're ready to continue our hunt for the pirate vessel. Please meet me at the marked location.,Kapitanie. Jesteśmy gotowi kontynuować nasze polowanie na piracki statek. Spotkajmy się w oznaczonym miejscu.
+CURRENT,wolf_part2_advertisement,2594,Captain. We're ready to continue our hunt for the pirate vessel. Please meet me at the marked location.,Kapitanie. Jesteśmy gotowi kontynuować nasze polowanie na piracki statek. Spotkajmy się w wyznaczonym miejscu.
 CURRENT,wolf_part2_objective_visitharken,2594,Travel to Commander Harken,Udaj się do komandora Harkena
 CURRENT,wolf_part2_setup1,2594,"Thank you for coming, Captain.","Dziękuję za przybycie, kapitanie."
 CURRENT,wolf_part2_setup2,2594,"We have been attempting to track the pirate vessel down, but to no avail. We keep arriving at the scene to find destroyed ships with no trace of the pirates. We need you to-","Próbowaliśmy namierzyć piracki statek, ale bezskutecznie. Wciąż przybywamy na miejsce i znajdujemy zniszczone statki bez śladu piratów. Potrzebujemy was.."
@@ -2573,8 +2683,8 @@ CURRENT,blackhole_part3_setup5,2594,"Once you take control of my ship, you'll fi
 CURRENT,blackhole_part3_setup6,2594,You won't have long.  Be as quick as you can and jump out of there when you're done.,"Nie potrwa to długo.  Proszę być tak szybkim, jak to tylko możliwe i wyskoczyć stamtąd, gdy tylko pan skończy."
 CURRENT,blackhole_part3_setup7,2594,"Good luck, Captain. I'll see you on the other side.","Powodzenia, kapitanie. Do zobaczenia po drugiej stronie."
 CURRENT,blackhole_part3_objective_control,2594,Take Control of Julian's ship,Proszę przejąć kontrolę nad statkiem Juliana
-CURRENT,blackhole_part3_objective_jumpin,2594,Jump to the stricken ship,Proszę wskoczyć na uszkodzony statek
-CURRENT,blackhole_part3_objective_dock,2594,Dock with the ship,Proszę zadokować do statku
+CURRENT,blackhole_part3_objective_jumpin,2594,Jump to the stricken ship,Wejdź na uszkodzony statek
+CURRENT,blackhole_part3_objective_dock,2594,Dock with the ship,Zadokuj do statku
 CURRENT,blackhole_part3_objective_rescue,2594,Rescue Dr. Marcus Martinez,Proszę uratować doktora Marcusa Martineza
 CURRENT,blackhole_part3_objective_jumpout,2594,Jump away from the black hole,Proszę odskoczyć od czarnej dziury
 CURRENT,blackhole_part3_objective_stargate,2594,Recover the Stargate data,Proszę odzyskać dane Gwiezdnych Wrót
@@ -2690,7 +2800,7 @@ CURRENT,tiddlets_objective_dronebay,2594,Install at least one Drone Bay,Zainstal
 CURRENT,tiddlets_objective_drone,2594,Purchase at least one Logistics Drone,Kup co najmniej jednego drona logistycznego
 CURRENT,tiddlets_objective_recovertiddlets,2594,Recover the Tiddlets [*X/*Y],Odzyskaj Tiddlets [*X/*Y]
 CURRENT,tiddlets_objective_delivertiddlets,2594,Deliver the Tiddlets to the Institute for Interstellar Lifeforms,Dostarcz Tiddletów do Instytutu Międzygwiezdnych Form Życia
-CURRENT,tiddlets_part1_sendingshuttle,2594,You managed to bring them back? Amazing! I'll be here in a second.,Udało ci się je przywrócić? Niesamowite! Będę tu za sekundę.
+CURRENT,tiddlets_part1_sendingshuttle,2594,You managed to bring them back? Amazing! I'll be here in a second.,Udało ci się je przywieźć? Niesamowite! Będę za sekundę.
 CURRENT,tiddlets_part1_delivered1,2594,This is the greatest day of my life!,To najwspanialszy dzień w moim życiu!
 CURRENT,tiddlets_part1_delivered2,2594,To be the first to discover and study an entirely new life form. One native to deep space! Think of all we can learn from these little creatures!,"Być pierwszym, który odkryje i zbada zupełnie nową formę życia. Rodzimą dla głębokiego kosmosu! Pomyśl o wszystkim, czego możemy się nauczyć od tych małych stworzeń!"
 CURRENT,tiddlets_part1_delivered3,2594,"I mean, you'll get some credit for finding them, of course. But I've waited my whole life for a moment like this.","To znaczy, oczywiście dostaniesz trochę uznania za ich znalezienie. Ale całe życie czekałem na taką chwilę."
@@ -2926,19 +3036,19 @@ CURRENT,rise_aicall2,2594,We should be able to get some answers. Have your crew 
 CURRENT,rise_ai_awaken1,2594,MMM...M.N.NNNNN.N.NMMM.AAA.A.A.HH.HHH.HH.H.H.HH,MMM...M.N.NNNNN.N.NMMM.AAA.A.A.HH.HHH.HH.HH.HH.HH
 CURRENT,rise_ai_awaken2,2594,What was that?,Co to było?
 CURRENT,rise_ai_awaken3,2594,EEE.A.A.AAO.O.OUU.UUUM.M.MM.MM.MM,EEE.A.A.AAO.O.OUU.UUUM.M.MM.MM.MM
-CURRENT,tutorial_dsidismantletitle,2594,DISMANTLING,DISMANTLING
-CURRENT,tutorial_dsismelterrecipes,2594,RECIPES,PRZEPISY
+CURRENT,tutorial_dsidismantletitle,2594,DISMANTLING,DEMONTAŻ
+CURRENT,tutorial_dsismelterrecipes,2594,RECIPES,RECEPTURA
 CURRENT,tutorial_dsidismantle,2594,Dismantling equipment removes it from your ship and places it in a box so you can install it later.,"Demontaż sprzętu usuwa go z twojego statku i umieszcza w pudełku, abyś mógł go później zainstalować."
 CURRENT,tutorial_dsihighlightruinedequipment,2594,"This equipment is ruined, so you'll receive scrap metal when you dismantle it.","Ten sprzęt jest zniszczony, więc po jego demontażu otrzymasz złom."
 CURRENT,tutorial_dsiclicktodismantle,2594,Any equipment can be dismantled by left-clicking.,Każdy sprzęt może zostać zdemontowany poprzez kliknięcie lewym przyciskiem myszy.
-CURRENT,tutorial_dsihighlightsmelter,2594,Let's use the scrap metal to produce metal ingots in the smelter. Right-click on the smelter.,Wykorzystajmy złom do produkcji wlewków metalowych w hucie. Kliknij hutę prawym przyciskiem myszy.
+CURRENT,tutorial_dsihighlightsmelter,2594,Let's use the scrap metal to produce metal ingots in the smelter. Right-click on the smelter.,Wykorzystajmy złom do produkcji metalowych sztab w hucie. Kliknij hutę prawym przyciskiem myszy.
 CURRENT,tutorial_dsisetrecipe,2594,Right-clicking on equipment allows you to set recipes. Set the smelter recipe to scrap metal.,"Klikając prawym przyciskiem myszy na sprzęcie, możesz ustawić receptury. Ustaw recepturę huty na złom."
-CURRENT,tutorial_dsisetupdone,2594,The smelter will now start producing metal ingots after it has finished heating up.,Po zakończeniu nagrzewania huta rozpocznie produkcję metalowych wlewków.
-CURRENT,tutorial_stargatewindowopenwindow,2594,Select the Stargate button in your toolbar to open the Stargate screen.,"Wybierz przycisk Stargate na pasku narzędzi, aby otworzyć ekran Stargate."
-CURRENT,tutorial_stargatewindowintro,2594,The Stargate screen displays everything you need to manufacture to complete the current phase.,"Ekran Stargate wyświetla wszystko, co musisz wyprodukować, aby ukończyć bieżący etap."
+CURRENT,tutorial_dsisetupdone,2594,The smelter will now start producing metal ingots after it has finished heating up.,Po zakończeniu nagrzewania huta rozpocznie produkcję metalowych sztab.
+CURRENT,tutorial_stargatewindowopenwindow,2594,Select the Stargate button in your toolbar to open the Stargate screen.,"Wybierz przycisk Gwiezdne Wrota na pasku narzędzi, aby otworzyć ekran zarządzania wrotami."
+CURRENT,tutorial_stargatewindowintro,2594,The Stargate screen displays everything you need to manufacture to complete the current phase.,"Ekran wrót wyświetla wszystko, co musisz wyprodukować, aby ukończyć bieżący etap."
 CURRENT,tutorial_stargatewindowhighlightphases,2594,"The Stargate's construction is split into phases, with each phase requiring more and more resources.\nYou have just completed Phase 1.","Budowa Gwiezdnych Wrót jest podzielona na fazy, z których każda wymaga coraz więcej zasobów.\nWłaśnie ukończyłeś fazę 1."
 CURRENT,tutorial_stargatewindowhighlightphase2,2594,Select Phase 2 to see what you need to manufacture for this phase.,"Wybierz Fazę 2, aby zobaczyć, co musisz wyprodukować w tej fazie."
-CURRENT,tutorial_stargatewindowhighlightframes1,2594,"To complete Phase 2, we need to continue manufacturing Stargate Frames.\n\nInstead of 10, we now need 200!","Aby ukończyć Fazę 2, musimy kontynuować produkcję Stargate Frames.\n\nZamiast 10, potrzebujemy ich teraz 200!"
+CURRENT,tutorial_stargatewindowhighlightframes1,2594,"To complete Phase 2, we need to continue manufacturing Stargate Frames.\n\nInstead of 10, we now need 200!","Aby ukończyć Fazę 2, musimy kontynuować produkcję Ramę Gwiezdnych wrót.\n\nZamiast 10, potrzebujemy ich teraz 200!"
 CURRENT,tutorial_stargatewindowclosewindow,2594,You can now close the Stargate screen.,Możesz teraz zamknąć ekran Gwiezdnych Wrót.
 CURRENT,dsi_character_x,2594,Alexander James Elistar,Alexander James Elistar
 CURRENT,dsi_character_y,2594,Raymond Darnell,Raymond Darnell
@@ -2959,23 +3069,23 @@ CURRENT,dsi_xthanks2,2594,"Payment received, thank you, Captain.","Płatność o
 CURRENT,dsi_xthanks3,2594,"I've received my share.  Excellent work, Captain.","Otrzymałem swoją część.  Świetna robota, kapitanie."
 CURRENT,dsi_part1_stationname,2594,A.J.E Foundry,A.J.E Foundry
 CURRENT,dsi_part1_title,2594,Deep Space Industrialists,Przemysłowcy głębokiego kosmosu
-CURRENT,dsi_part1_advert1,2594,"My name is Alexander James Elistar, and I'm the chairman and founder of A.J.E Industries.  I have a business proposition for you.  If you would be interested in setting up a production facility for me, I believe with some luck and a good deal of hard work we can both make substantial returns.","Nazywam się Alexander James Elistar, jestem prezesem i założycielem A.J.E Industries.  Mam dla ciebie propozycję biznesową.  Jeśli byłbyś zainteresowany stworzeniem dla mnie zakładu produkcyjnego, wierzę, że przy odrobinie szczęścia i ciężkiej pracy oboje możemy osiągnąć znaczne zyski."
+CURRENT,dsi_part1_advert1,2594,"My name is Alexander James Elistar, and I'm the chairman and founder of A.J.E Industries.  I have a business proposition for you.  If you would be interested in setting up a production facility for me, I believe with some luck and a good deal of hard work we can both make substantial returns.","Nazywam się Alexander James Elistar, jestem prezesem i założycielem A.J.E Industries.  Mam dla ciebie propozycję biznesową. Byłbyś zainteresowany stworzeniem dla mnie zakładu produkcyjnego? Wierzę, że przy odrobinie szczęścia i ciężkiej pracy oboje możemy osiągnąć znaczne zyski."
 CURRENT,dsi_part1_advert2,2594,Please give me a call to discuss the details.,"Zadzwoń do mnie, aby omówić szczegóły."
 CURRENT,dsi_part1_action_callx,2594,Call X,Zadzwoń do X
 CURRENT,dsi_part1_call1,2594,"Captain.  Perhaps you are already aware, but there are big plans underway within this sector.  There are designs to build something... incredible, a transportation system with near infinite range, requiring state of the art manufacturing and industry.","Kapitanie.  Być może już wiesz, ale w tym sektorze realizowane są wielkie plany.  Istnieją projekty budowy czegoś... niesamowitego, systemu transportowego o niemal nieskończonym zasięgu, wymagającego najnowocześniejszej produkcji i przemysłu."
 CURRENT,dsi_part1_call2,2594,"A stargate, big enough for our most massive fleets, shuttling humanity between galaxies as if they were nothing but neighbouring stars.  A new multi-galactic era for humanity.","Gwiezdne wrota, wystarczająco duże dla naszych najbardziej masywnych flot, przenoszące ludzkość między galaktykami, jakby były niczym innym jak sąsiednimi gwiazdami.  Nowa wielogalaktyczna era dla ludzkości."
-CURRENT,dsi_part1_call3,2594,In all my years I've never known so much capital to be allocated to one project.,"Przez wszystkie lata mojej pracy nigdy nie wiedziałem, by tak wiele kapitału przeznaczono na jeden projekt."
+CURRENT,dsi_part1_call3,2594,In all my years I've never known so much capital to be allocated to one project.,"Przez wszystkie lata mojej pracy nigdy nie widziałem, by tak wielki kapitał przeznaczono na jeden projekt."
 CURRENT,dsi_part1_call4,2594,"There is a golden opportunity here for us, but the barriers to entry are high.  I have the assets, the capital, and the facilities that we need to fulfil the Andromeda Project's massive ambitions.","To dla nas ogromna szansa, ale bariery wejścia są wysokie.  Mam aktywa, kapitał i obiekty, których potrzebujemy, aby zrealizować ogromne ambicje Projektu Andromeda."
-CURRENT,dsi_part1_call5,2594,"Sadly, my days of running the shop floor in person are long behind me.  I need a floor manager, somebody who will oversee the day to day operations for me.  And my years of experience have taught me to spot talent when I see it.","Niestety, moje czasy osobistego prowadzenia hali produkcyjnej są już dawno za mną.  Potrzebuję kierownika hali, kogoś, kto będzie nadzorował za mnie codzienne operacje.  Lata doświadczenia nauczyły mnie dostrzegać talenty."
-CURRENT,dsi_part1_call6,2594,"Here is my proposal.  I'll provide the factory station, and the seed capital so you are fully funded.  You'll set up the production facility for me, and oversee day to day operations, manufacturing parts for the Andromeda Project to their specifications.","Oto moja propozycja.  Zapewnię stację fabryczną i kapitał zalążkowy, abyś był w pełni finansowany.  Skonfigurujesz dla mnie zakład produkcyjny i będziesz nadzorować codzienne operacje, produkując części dla Projektu Andromeda zgodnie z ich specyfikacjami."
+CURRENT,dsi_part1_call5,2594,"Sadly, my days of running the shop floor in person are long behind me.  I need a floor manager, somebody who will oversee the day to day operations for me.  And my years of experience have taught me to spot talent when I see it.","Niestety, moje czasy zarządzania halą produkcyjną są już dawno za mną.  Potrzebuję kierownika produkcji, kogoś, kto będzie nadzorował za mnie codzienne operacje.  Lata doświadczenia nauczyły mnie dostrzegać talenty."
+CURRENT,dsi_part1_call6,2594,"Here is my proposal.  I'll provide the factory station, and the seed capital so you are fully funded.  You'll set up the production facility for me, and oversee day to day operations, manufacturing parts for the Andromeda Project to their specifications.","Oto moja propozycja.  Zapewnię stację fabryczną i kapitał początkowy, abyś miał pewny start.  Skonfigurujesz dla mnie zakład produkcyjny i będziesz nadzorować codzienne operacje, produkując części dla Projektu Andromeda zgodnie z ich specyfikacjami."
 CURRENT,dsi_part1_call7,2594,We'll split the profits 50/50.,Podzielimy się zyskami 50/50.
 CURRENT,dsi_part1_call8,2594,"And believe me when I say, there will be plenty to go around.","I uwierz mi, że będzie w czym wybierać."
 CURRENT,dsi_part1_objective_callx,2594,Call Alexander about the production facility,Zadzwoń do Alexandra w sprawie zakładu produkcyjnego
 CURRENT,dsi_part1_objective_accept,2594,Accept Alexander's proposal,Zaakceptuj propozycję Alexandra
 CURRENT,dsi_part1_setupcall1,2594,"Wonderful news. I'm very happy you've agreed to partner with me on this. My factory space station is in position nearby, ready for us to use as our base of operations.","Wspaniała wiadomość. Bardzo się cieszę, że zgodziłeś się ze mną współpracować. Moja fabryczna stacja kosmiczna znajduje się w pobliżu, gotowa do wykorzystania jako nasza baza operacyjna."
 CURRENT,dsi_part1_setupcall2,2594,"This is the A.J.E Foundry.  A wonderful industrial facility, perfect for our needs.  I'll just need to provide you with some access codes so you can assume control of the facility.","To jest odlewnia A.J.E.  Wspaniały obiekt przemysłowy, idealny dla naszych potrzeb.  Muszę tylko podać ci kilka kodów dostępu, abyś mógł przejąć kontrolę nad obiektem."
-CURRENT,dsi_part1_setupcall3,2594,"Look at that.  For years I manufactured engines and FTL drives right here, for every fleet that passed through the sector.  It's really fallen into disrepair.","Spójrz na to.  Przez lata produkowałem tu silniki i napędy FTL dla każdej floty, która przelatywała przez ten sektor.  To naprawdę popadło w ruinę."
-CURRENT,dsi_part1_setupcall4,2594,"Your first job is to send over a skeleton crew, and establish basic power generation and life support.  I had the previous crew box up some of the usable equipment.  You should find the parts you need are already in storage.","Twoim pierwszym zadaniem jest wysłanie szkieletowej załogi i zapewnienie podstawowego zasilania oraz podtrzymania życia.  Poprosiłem poprzednią załogę o zabranie części użytecznego sprzętu.  Powinieneś znaleźć części, których potrzebujesz, już w magazynie."
+CURRENT,dsi_part1_setupcall3,2594,"Look at that.  For years I manufactured engines and FTL drives right here, for every fleet that passed through the sector.  It's really fallen into disrepair.","Spójrz na to.  Przez lata produkowałem tu silniki i napędy FTL dla każdej floty, która przelatywała przez ten sektor.  Teraz stacja to ruina."
+CURRENT,dsi_part1_setupcall4,2594,"Your first job is to send over a skeleton crew, and establish basic power generation and life support.  I had the previous crew box up some of the usable equipment.  You should find the parts you need are already in storage.","Twoim pierwszym zadaniem będzie wysłanie ubranej w skafandry załogi i zapewnienie podstawowego zasilania oraz podtrzymania życia.  Poprzednią załoga zapakowała nieco użytecznego sprzętu..  Powinieneś znaleźć części, których potrzebujesz w magazynie."
 CURRENT,dsi_part1_objective_addcrew,2594,Add Crew to the station,Dodaj załogę do stacji
 CURRENT,dsi_part1_objective_installreactor,2594,Install Reactor,Zainstaluj reaktor
 CURRENT,dsi_part1_objective_installairduct,2594,Install Airduct,Zainstaluj przewód powietrzny
@@ -2985,12 +3095,12 @@ CURRENT,dsi_part1_installsmelter2,2594,"There is an industrial smelter among the
 CURRENT,dsi_part1_objective_installsmelter,2594,Install Smelter,Zainstaluj hutę
 CURRENT,dsi_part1_objective_setsmelter,2594,Set Smelter to Scrap Metal,Ustaw hutę na złom
 CURRENT,dsi_part1_objective_dismantleequipment,2594,Dismantle ruined equipment,Zdemontuj zniszczony sprzęt
-CURRENT,dsi_part1_setupstorage1,2594,"Efficiency is going to be the key to this facility turning a profit.  Set up a storage zone for scrap metal near to your Smelter, and another for the Metal Ingots that come out.  Our crew will waste a lot less time carrying goods long distances.","Wydajność będzie kluczem do tego, by zakład przynosił zyski.  Utwórz strefę przechowywania złomu w pobliżu huty, a drugą dla metalowych wlewków, które z niej wychodzą.  Nasza załoga będzie tracić znacznie mniej czasu na przewożenie towarów na duże odległości."
+CURRENT,dsi_part1_setupstorage1,2594,"Efficiency is going to be the key to this facility turning a profit.  Set up a storage zone for scrap metal near to your Smelter, and another for the Metal Ingots that come out.  Our crew will waste a lot less time carrying goods long distances.","Wydajność będzie kluczem do tego, by zakład przynosił zyski.  Utwórz strefę przechowywania złomu w pobliżu huty, a drugą dla metalowych sztabek, które z niej wychodzą.  Nasza załoga będzie tracić znacznie mniej czasu na przewożenie towarów na duże odległości."
 CURRENT,dsi_part1_objective_storescrap,2594,Store scrap metal near Smelter [*X/10],Przechowuj złom w pobliżu huty [*X/10]
 CURRENT,dsi_part1_objective_storeingots,2594,Store Metal Ingots near Smelter [*X/10],Przechowuj sztabki metalu w pobliżu huty [*X/10]
 CURRENT,dsi_part1_manufactureframes1,2594,"If I could draw your attention to this schematic issued by the Andromeda Project.  You can see it's actually quite a simple part.  This is just a structural framework, onto which they'll build everything else.","Jeśli mógłbym zwrócić twoją uwagę na ten schemat wydany przez Projekt Andromeda.  Możesz zobaczyć, że jest to dość prosta część.  To tylko szkielet strukturalny, na którym zostanie zbudowana cała reszta."
-CURRENT,dsi_part1_manufactureframes2,2594,"We can manufacture these parts in just two stages out of Metal Ingots.  I've left a boxed Fabricator and an Assembly Table on the station.  Set them up next to each other, ideally near to the Metal Ingots.","Możemy wyprodukować te części w zaledwie dwóch etapach z metalowych wlewków.  Zostawiłem na stacji Fabrykator w pudełku i Stół montażowy.  Ustaw je obok siebie, najlepiej w pobliżu wlewków metalu."
-CURRENT,dsi_part1_manufactureframes3,2594,"Once they're installed, set the Fabricator to manufacture Frames, then set the Assembly Table to specialise them into finished Stargate Frames.  It's simple stuff, but eventually we will need a huge throughput.","Po ich zainstalowaniu ustaw Fabrykator na wytwarzanie ram, a następnie ustaw Stół montażowy na specjalizowanie ich w gotowe ramy Gwiezdnych wrót.  To prosta rzecz, ale ostatecznie będziemy potrzebować ogromnej przepustowości."
+CURRENT,dsi_part1_manufactureframes2,2594,"We can manufacture these parts in just two stages out of Metal Ingots.  I've left a boxed Fabricator and an Assembly Table on the station.  Set them up next to each other, ideally near to the Metal Ingots.","Możemy wyprodukować te części w zaledwie dwóch etapach z metalowych sztab.  Zostawiłem na stacji Fabrykator w pudełku i Stół montażowy.  Ustaw je obok siebie, najlepiej w pobliżu sztab metalu."
+CURRENT,dsi_part1_manufactureframes3,2594,"Once they're installed, set the Fabricator to manufacture Frames, then set the Assembly Table to specialise them into finished Stargate Frames.  It's simple stuff, but eventually we will need a huge throughput.","Po ich zainstalowaniu ustaw Fabrykator na wytwarzanie ram, a następnie ustaw Stół montażowy na przerobienie ich w gotowe ramy Gwiezdnych wrót.  To prosta rzecz, ale ostatecznie będziemy potrzebować ogromnej wydajności."
 CURRENT,dsi_part1_objective_installfabricator,2594,Install Fabricator,Zainstaluj fabrykator
 CURRENT,dsi_part1_objective_setfabricator,2594,Set Fabricator to Frames,Ustaw Fabrykator na Ramy
 CURRENT,dsi_part1_objective_installassemblytab,2594,Install Assembly Table,Zainstaluj stół montażowy
@@ -2999,13 +3109,13 @@ CURRENT,dsi_part1_manufactureframes4,2594,"They want us to provide an initial ba
 CURRENT,dsi_part1_manufactureframes5,2594,"It shouldn't take too long.  If you run out of metal, remember you can recycle more of the ruined equipment around the facility.","Nie powinno to zająć zbyt wiele czasu.  Jeśli zabraknie ci metalu, pamiętaj, że możesz poddać recyklingowi więcej zniszczonego sprzętu wokół obiektu."
 CURRENT,dsi_part1_objective_manufactureframes,2594,Manufacture Stargate Frames [*X/10],Wyprodukuj gwiezdne wrota [*X/10]
 CURRENT,dsi_part1_action_deliverframes,2594,Deliver 10 Stargate Frames,Dostarcz 10 ramek Stargate
-CURRENT,dsi_part1_callfromrep1,2594,"This is a message for A.J.E FOUNDRY.  We've received your samples and can report that they have passed comfortably within our engineering tolerances.  You are formally approved as licensed industry partners, and may now manufacture all items in our design manifest.","To jest wiadomość dla A.J.E FOUNDRY.  Otrzymaliśmy wasze próbki i możemy zgłosić, że przeszły one pomyślnie w ramach naszych tolerancji inżynieryjnych.  Zostaliście formalnie zatwierdzeni jako licencjonowani partnerzy przemysłowi i możecie teraz produkować wszystkie elementy z naszego manifestu projektowego."
-CURRENT,dsi_part1_callfromrep2,2594,Batches of completed parts may now be submitted to the Andromeda Project through the open Marketplace. You will find our buyers ready to release funds for any parts manufactured to specification.,Partie ukończonych części można teraz przesyłać do Projektu Andromeda za pośrednictwem otwartego Rynku. Znajdziesz tam naszych nabywców gotowych do uwolnienia środków za wszelkie części wyprodukowane zgodnie ze specyfikacją.
+CURRENT,dsi_part1_callfromrep1,2594,"This is a message for A.J.E FOUNDRY.  We've received your samples and can report that they have passed comfortably within our engineering tolerances.  You are formally approved as licensed industry partners, and may now manufacture all items in our design manifest.","To jest wiadomość dla A.J.E FOUNDRY.  Otrzymaliśmy wasze próbki i możemy poinformować was, że przeszły one pomyślnie nasze testy w zakresie wyznaczonych tolerancji inżynieryjnych.  Zostaliście formalnie zatwierdzeni jako licencjonowani partnerzy przemysłowi i możecie teraz produkować wszystkie elementy z naszego manifestu projektowego."
+CURRENT,dsi_part1_callfromrep2,2594,Batches of completed parts may now be submitted to the Andromeda Project through the open Marketplace. You will find our buyers ready to release funds for any parts manufactured to specification.,Partie ukończonych części można teraz przesyłać do Projektu Andromeda za pośrednictwem otwartego Rynku. Znajdziesz tam naszych nabywców gotowych do przekazania dodatkowych środków finansowych za wszelkie części wyprodukowane zgodnie ze specyfikacją.
 CURRENT,dsi_part1_callfromrep3,2594,"Thank you for your endeavours, and good luck.",Dziękuję za twoje wysiłki i życzę powodzenia.
 CURRENT,dsi_part1_openstargatescreen,2594,"Excellent.  Let's have a look at the Manifest that he mentioned, and see what is required next.","Doskonale.  Spójrzmy na Manifest, o którym wspomniał, i zobaczmy, co jest wymagane dalej."
-CURRENT,dsi_part1_phase2_xcall1,2594,"It looks like it's just a bulk order of the part we already provided.  We need to make 200 more Stargate Frames.  We're already manufacturing them, but we'll need to scale up production or else this will take forever.","Wygląda na to, że jest to tylko masowe zamówienie części, którą już dostarczyliśmy.  Musimy wyprodukować jeszcze 200 ramek do Gwiezdnych Wrót.  Już je produkujemy, ale musimy zwiększyć skalę produkcji, bo inaczej zajmie nam to wieczność."
+CURRENT,dsi_part1_phase2_xcall1,2594,"It looks like it's just a bulk order of the part we already provided.  We need to make 200 more Stargate Frames.  We're already manufacturing them, but we'll need to scale up production or else this will take forever.","Wygląda na to, że jest to tylko masowe zamówienie części, którą już dostarczyliśmy.  Musimy wyprodukować jeszcze 200 ram do Gwiezdnych Wrót.  Już je produkujemy, ale musimy zwiększyć skalę produkcji, bo inaczej zajmie nam to wieczność."
 CURRENT,dsi_part1_phase2_xcall2,2594,"I'm releasing some of the seed money to you.  $600,000 should be enough for you to buy all the equipment we need to scale up.  Remember this isn't a gift.  I still own this station, and all the equipment onboard.","Udostępniam wam część pieniędzy na start.  600 000 USD powinno wystarczyć na zakup całego sprzętu, którego potrzebujemy do zwiększenia skali.  Pamiętaj, że to nie jest prezent.  Nadal jestem właścicielem tej stacji i całego sprzętu na jej pokładzie."
-CURRENT,dsi_part1_phase2_xcall3,2594,"I suggest you buy more Smelters, more Fabricators, and more Assembly Tables.  A couple of each at least.  All that equipment will draw more juice, so you'll need to expand the power network with more Reactors and Batteries to cope.  And you'll need more crew to do the work.","Sugeruję, abyś kupił więcej hut, więcej fabrykatorów i więcej stołów montażowych.  Przynajmniej kilka z nich.  Cały ten sprzęt będzie pobierał więcej energii, więc będziesz musiał rozszerzyć sieć energetyczną o więcej reaktorów i baterii, aby sobie z tym poradzić.  Będziesz też potrzebował więcej załogi do pracy."
+CURRENT,dsi_part1_phase2_xcall3,2594,"I suggest you buy more Smelters, more Fabricators, and more Assembly Tables.  A couple of each at least.  All that equipment will draw more juice, so you'll need to expand the power network with more Reactors and Batteries to cope.  And you'll need more crew to do the work.","Sugeruję, abyś kupił więcej hut, więcej fabrykatorów i więcej stołów montażowych.  Przynajmniej kilka z nich.  Cały ten sprzęt będzie pobierał więcej energii, więc będziesz musiał rozszerzyć sieć energetyczną o dodatkowe reaktory i baterie, aby sobie z tym poradzić.  Będziesz też potrzebował więcej załogi do pracy."
 CURRENT,dsi_part1_phase2_xcall4,2594,"If you run out of Metal Ingots, you should be able to buy raw materials from the open Marketplace.  You can usually buy more Scrap Metal, but you'll also find Metallic Minerals for sale which can also be smelted into Metal Ingots.","Jeśli skończą ci się sztabki metalu, powinieneś być w stanie kupić surowce na otwartym rynku.  Zwykle możesz kupić więcej złomu, ale znajdziesz też na sprzedaż minerały metaliczne, które również można przetopić na sztabki metalu."
 CURRENT,dsi_part1_objective_scaleupproduction,2594,Scale up production,Zwiększ skalę produkcji
 CURRENT,dsi_part1_objective_smeltmetallicminerals,2594,Start smelting Metallic Minerals [*X/200],Rozpocznij wytapianie metalicznych minerałów [*X/200]
@@ -3059,7 +3169,7 @@ CURRENT,dsi_part2_resinintro7,2594,"Once the ship is ready, pair it up with one 
 CURRENT,dsi_part2_objective_traveltonebula,2594,Transport the Gas Collector to a Nebula,Przetransportuj kolektor gazu do mgławicy
 CURRENT,dsi_part2_objective_collectgas,2594,Begin collecting Metreon Gas [*X/100],Rozpocznij zbieranie Metreon Gas [*X/100]
 CURRENT,dsi_part2_objective_refinegas,2594,Begin refining Metreon [*X/100],Rozpocznij udoskonalanie Metreonu [*X/100]
-CURRENT,dsi_part2_action_buyship,2594,Buy gas fuselage,Kup kadłub gazowy
+CURRENT,dsi_part2_action_buyship,2594,Buy gas fuselage,Kup statek rafinerii gazowej
 CURRENT,dsi_part2_isotopesintro1,2594,We need to produce 100 Stable Isotopes. This is a chemical compound we must synthesise and deliver in barrels to the Andromeda Project.,"Musimy wyprodukować 100 stabilnych izotopów. Jest to związek chemiczny, który musimy zsyntetyzować i dostarczyć w beczkach do Projektu Andromeda."
 CURRENT,dsi_part2_isotopesintro3,2594,"The final stage is to install a Loader or two, and set them to 'UNLOAD'.  This will instruct your crew to barrel up the stable isotopes and store them in the cargo hold so you can easily sell them on the Marketplace.","Ostatnim etapem jest zainstalowanie jednego lub dwóch ładowarek i ustawienie ich na ""UNLOAD"".  Poinstruuje to twoją załogę, aby zabrała stabilne izotopy do beczek i przechowała je w ładowni, abyś mógł je łatwo sprzedać na rynku."
 CURRENT,dsi_part2_objective_installscoop,2594,Install Hyperspace Scoop,Zainstaluj Hyperspace Scoop
@@ -3089,6 +3199,8 @@ CURRENT,dsi_part2_scene_z4,2594,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2594,THERE WILL BE NO FURTHER WARNING.,NIE BĘDZIE DALSZYCH OSTRZEŻEŃ.
 CURRENT,dsi_part2_scene_y7,2594,You've left me no choice.,Nie pozostawiłeś mi wyboru.
 CURRENT,dsi_part2_scene_y8,2594,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Przyjdę po ciebie, Alexandrze, i tym razem nie poproszę o 10%. Chcę wszystko."
+OBSOLETE,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition",Podczas przełączania się między statkami pomiń przejście
+OBSOLETE,wolf_part1_completion3,2594,So far they haven't left a single living witness. But the sensor data tells the full story. We've manged to extract another sensor image of the attacker.,Jak dotąd nie pozostawili ani jednego żywego świadka. Ale dane z czujników mówią wszystko. Udało nam się wyodrębnić kolejny obraz czujnika napastnika.
 OBSOLETE,logistics_status_buynomoney,3400,out of the *X desired (not enough money),poza pożądanym *X (za mało pieniędzy)
 OBSOLETE,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),z zamówionego *X (za mało pieniędzy)
 OBSOLETE,logistics_status_buynosupply,3400,out of the *X desired (not enough available),poza pożądanym adresem *X (niewystarczająca ilość)

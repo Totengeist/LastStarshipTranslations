@@ -1,6 +1,138 @@
 ﻿state,key,svn,english,translation
-CURRENT,factory_stockpileoutput_tooltip,2448,"STOCKPILE\n\nWhen ticked, the produced items will be immediately unloaded into any cargo storage area, stockpiling the item.\n\nIf unticked, the produced item will remain until it is used somewhere, or until there is specific cargo space available.","STOCKPILE\n\nLorsque cette case est cochée, les objets produits seront immédiatement déchargés dans n'importe quelle zone de stockage de fret.\n\nSi cette case n'est pas cochée, les objets produits resteront jusqu'à ce qu'ils soient utilisés ou jusqu'à ce qu'un espace de stockage réservé à l'objet soit disponible."
-CURRENT,ftl_galacticjump,3054,"This will be the final journey of your fleet.\nBe prepared for a long journey to the Andromeda galaxy, and save as many as you can!","Ce sera le dernier voyage de votre flotte.\nPréparez-vous à un long voyage vers la galaxie d'Andromède, et sauvez le plus de personne possible !"
+NEW,settings_language_category,3511,LANGUAGE,
+NEW,settings_communicator_speed,3511,Character text speed,
+NEW,settings_camerapan_speed,3511,Camera pan speed,
+NEW,settings_slowest,3511,Slowest,
+NEW,settings_slow,3511,Slow,
+NEW,settings_normal,3511,Normal,
+NEW,settings_fast,3511,Fast,
+NEW,settings_fastest,3511,Fastest,
+NEW,hud_atmosphere_no_oxygen,3511,NO OXYGEN,
+NEW,hud_habitation_info_title,3511,HABITATION,
+NEW,hud_habitation_info_cabins,3511,*X / *Y CABINS,
+NEW,hud_habitation_info_sewage,3511,*X SEWAGE,
+NEW,tactical_dockingnotpossible,3511,DOCKING IMPOSSIBLE,
+NEW,tactical_thrustersrequired,3511,THRUSTERS REQUIRED,
+NEW,creditstitle_special,3511,Special Thanks,
+NEW,settings_userinterface,3563,UI & GAME,
+NEW,settings_graphics,3563,GRAPHICS,
+NEW,settings_softwarecursor,3563,Software Mouse Cursor,
+NEW,settings_softwarecursor_tooltip,3563,The game renders the mouse cursor instead of the operating system.,
+NEW,settings_softwarecursorsize,3563,Software Mouse Size,
+NEW,settings_mousesize_small,3563,Small,
+NEW,settings_mousesize_medium,3563,Medium,
+NEW,settings_mousesize_large,3563,Large,
+NEW,settings_mousesize_huge,3563,Huge,
+NEW,settings_opengamefolder,3563,OPEN GAME FOLDER,
+NEW,settings_opentranslationeditor,3563,TRANSLATION EDITOR ({TranslatorWindow}),
+NEW,settings_communicator_speed_description,3563,The speed at which character dialogue text is revealed in the communicator.,
+NEW,newmainmenu_parallax_description,3563,Use a parallax effect to give an impression of depth,
+NEW,hud_tooltip_selectequipment,3563,[LMB/RMB] Select,
+NEW,hud_tooltip_selectequipmentadd,3563,[SHIFT + LMB/RMB] Toggle select,
+NEW,hud_tooltip_selectequipmentnearby,3563,[LMB x2] Select all nearby,
+NEW,hud_tooltip_selectequipmentdrag,3563,[LMB Drag] Box select,
+NEW,equipment_multiple_selected,3563,MULTIPLE RECIPES,
+NEW,orders_layerscope,3563,SHIP-SPECIFIC ORDERS,
+NEW,orders_systemscope,3563,SYSTEM-WIDE ORDERS,
+NEW,order_tooltip_salvage,3563,Allow drones to gather salvage,
+NEW,order_tooltip_gather,3563,"Allow drones to gather raw and refined materials (ores, minerals, ingots)",
+NEW,order_tooltip_repairhull,3563,Allow drones to repair ship hull,
+NEW,order_tooltip_suitson,3563,Make crew put on spacesuits if available,
+NEW,order_tooltip_exteriorwork,3563,Allow crew to perform jobs in freespace,
+NEW,order_tooltip_weaponsactive,3563,Allow weapons to fire,
+NEW,order_tooltip_fleetlogistics,3563,Allow logistics transfers between ships,
+NEW,order_tooltip_battlestations,3563,Battle Stations,
+NEW,order_tooltip_mining,3563,Allow mining lasers to fire,
+NEW,order_tooltip_autotradeactive,3563,Allow auto trades to execute,
+NEW,order_tooltip_advancedlogistics,3563,Allow interstellar logistics to execute,
+NEW,object_fighterbay,3563,Fighter Bay,
+NEW,object_fighterbay_description,3563,"Install on the inside of your ship and provide materials to produce fighters. The fighter will launch from the top of the ship and return to the bay once the battle is over. If it dies, a new one can be built.",
+NEW,fighter_fuel,3563,FUEL: *X%,
+NEW,fighter_ammo,3563,BULLETS: *X,
+NEW,fighter_quantity,3563,*X / *Y,
+NEW,fighter_health_text,3563,HULL,
+NEW,fighter_ammo_text,3563,BULLETS,
+NEW,fighter_fuel_text,3563,FUEL,
+NEW,fighter_refuelling_text,3563,REFUELLING...,
+NEW,fighter_create,3563,CREATE FIGHTER,
+NEW,fighter_state_attackinglayer,3563,ATTACKING *X,
+NEW,fighter_state_attackingfighter,3563,ATTACKING ENEMY FIGHTER,
+NEW,fighter_state_returningtobay,3563,RETURNING TO BAY,
+NEW,fighter_state_idleinfreespace,3563,SEARCHING FOR BAY,
+NEW,translationeditor_usethistranslation,3563,Use This Translation,
+NEW,translationeditor_none,3563,None,
+NEW,translationeditor_yourchanges,3563,Your Changes,
+NEW,translationeditor_new,3563,New,
+NEW,translationeditor_updated,3563,Updated,
+NEW,translationeditor_showpreview,3563,Show Preview,
+NEW,translationeditor_english,3563,English,
+NEW,translationeditor_nenglish,3563,New English,
+NEW,translationeditor_previous,3563,Previous,
+NEW,translationeditor_fallback,3563,Suggestion,
+NEW,translationeditor_youredit,3563,Your Change,
+NEW,translationeditor_original,3563,Approved,
+NEW,translationeditor_empty,3563,No Manually Approved Translation Yet,
+NEW,translationeditor_empty_original_tooltip1,3563,Unformatted Approved translation,
+NEW,translationeditor_empty_original_tooltip2,3563,Formatted Approved translation,
+NEW,translationeditor_empty_original_tooltip3,3563,"As there is no currently approved translation, the game is using the suggested translation above.\n\nIf you think the suggested translation is good, you should copy it into your changes with the ""Use This Translation"" button.\n\nAfter you submit your changes to us, your translation will then appear as approved in the next game update.",
+NEW,translationeditor_fallback_tooltip1,3563,Suggested Translation,
+NEW,translationeditor_fallback_tooltip2,3563,Formatted Suggested Translation,
+NEW,translationeditor_fallback_tooltip3,3563,"This suggestion needs to be checked that it correctly matches the context of the game.\n\nIt will only be used if there is no ""approved"" translation.",
+NEW,translationeditor_previousenglish_tooltip1,3563,Previous English Phrase,
+NEW,translationeditor_previousenglish_tooltip2,3563,Formatted Previous English phrase,
+NEW,translationeditor_previousenglish_tooltip3,3563,The English phrase that was used in the previous version of the game.,
+NEW,translationeditor_previoustranslation_tooltip1,3563,Previous Translation Phrase,
+NEW,translationeditor_previoustranslation_tooltip2,3563,Formatted Previous Translation phrase,
+NEW,translationeditor_previoustranslation_tooltip3,3563,Translation of the English phrase that was used in the previous version of the game.,
+NEW,trade_tooltip_expandautotrade,3565,[LMB] Show Auto Trade Options,
+NEW,trade_tooltip_collapseautotrade,3565,[LMB] Hide Auto Trade Options,
+NEW,techtree_node_title_fighters1,3565,Fighters,
+NEW,techtree_node_caption_fighters1,3565,Improve the survivability and agility of fighters. Armour mitigates damage received.,
+NEW,techtree_node_title_fighterarmour1,3565,Fighter Survivability 1,
+NEW,techtree_node_caption_fighterarmour1,3565,Increase armour damage mitigation.,
+NEW,techtree_node_title_fighterarmour2,3565,Fighter Survivability 2,
+NEW,techtree_node_caption_fighterarmour2,3565,Increase armour damage mitigation.,
+NEW,techtree_node_title_fighterarmour3,3565,Fighter Survivability 3,
+NEW,techtree_node_caption_fighterarmour3,3565,Increase armour damage mitigation.,
+NEW,techtree_node_title_fighterspeed1,3565,Fighter Agility 1,
+NEW,techtree_node_caption_fighterspeed1,3565,Improve the fuel usage and speed of your fighters.,
+NEW,techtree_node_title_fighterspeed2,3565,Fighter Agility 2,
+NEW,techtree_node_caption_fighterspeed2,3565,Improve the fuel usage and speed of your fighters.,
+NEW,techtree_node_title_fighterspeed3,3565,Fighter Agility 3,
+NEW,techtree_node_caption_fighterspeed3,3565,Improve the fuel usage and speed of your fighters.,
+NEW,boost_fighterarmour,3565,Fighter Armour +*X%,
+NEW,boost_fighterspeed,3565,Fighter Speed +*X%,
+NEW,boost_fighterfuel,3565,Fighter Fuel Efficiency +*X%,
+UPDATED,settings_uibounce_description,3565,Enlarges GUI elements such as buttons on mouse over.,
+PREVIOUS,settings_uibounce_description,3563,Enlarges Buttons On Mouse Over,
+UPDATED,newmainmenu_slowcombat_description,3565,Switch to slow game speed after taking damage during combat.,
+PREVIOUS,newmainmenu_slowcombat_description,3563,Switch to slow time after taking a hit during combat.,
+UPDATED,translationeditor_copytoclipboard,3563,Copy,
+PREVIOUS,translationeditor_copytoclipboard,3511,Copy To Clipboard,
+UPDATED,settings_instantshipswitch_description,3511,Skip rotation and panning effect when switching between ships.,
+PREVIOUS,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition","Lorsque tu passes d'un vaisseau à l'autre, saute la transition"
+UPDATED,newmainmenu_parallax,3511,Parallax,
+PREVIOUS,newmainmenu_parallax,2448,Parallax effect,Effet Parallax
+UPDATED,wolf_part1_completion3,3511,So far they haven't left a single living witness. But the sensor data tells the full story. We've managed to extract another sensor image of the attacker.,
+PREVIOUS,wolf_part1_completion3,2448,So far they haven't left a single living witness. But the sensor data tells the full story. We've manged to extract another sensor image of the attacker.,"Jusqu’à présent, ils n’ont laissé aucun témoin vivant. Mais les données des capteurs racontent toute l’histoire. Nous avons réussi à extraire une autre image de capteur de l'attaquant."
+UPDATED,translationeditor_unmodified,3563,Unmodified,
+PREVIOUS,translationeditor_unmodified,3054,Unmodified Phrases,Phrases non modifiées
+UPDATED,translationeditor_original_tooltip1,3563,Unformatted Approved Translation,
+PREVIOUS,translationeditor_original_tooltip1,3054,Unformatted original translation,Traduction originale non formatée
+UPDATED,translationeditor_original_tooltip2,3563,Formatted Approved Translation,
+PREVIOUS,translationeditor_original_tooltip2,3054,Formatted original translation,Traduction originale formatée
+UPDATED,translationeditor_original_tooltip3,3563,"This is what is currently used in the game. Even though the translation is ""Approved"" you can still submit changes to improve it further.",
+PREVIOUS,translationeditor_original_tooltip3,3054,This is what is currently used in the game.,C'est ce qui est actuellement utilisé dans le jeu.
+UPDATED,translationeditor_new_tooltip1,3563,Unformatted New Translation,
+PREVIOUS,translationeditor_new_tooltip1,3054,Unformatted new translation,Nouvelle traduction non formatée
+UPDATED,translationeditor_new_tooltip2,3563,Formatted New Translation,
+PREVIOUS,translationeditor_new_tooltip2,3054,Formatted new translation,Nouvelle traduction formatée
+UPDATED,settings_dynamiclighting,3563,Dynamic Lighting,
+PREVIOUS,settings_dynamiclighting,2675,Use Dynamic Lighting,Utilise un éclairage dynamique
+UPDATED,settings_arraytextures,3563,Smooth Tiles,
+PREVIOUS,settings_arraytextures,2624,Use Array Textures,Utilise les textures de tableau
+UPDATED,mainmenu_gamemode_freeroam_tooltip,3563,"You are free to pursue any career at your own pace. No anomaly, no stargate.",
+PREVIOUS,mainmenu_gamemode_freeroam_tooltip,2448,"You are free to persue any career at your own pace. No anomaly, no stargate.","Vous êtes libre de poursuivre n'importe quelle carrière à votre rythme. Aucune anomalie, pas de porte des étoiles."
 CURRENT,logistics_log_transfertonosupply,3492,Transferred *X R*Y to L*Z out of the *P desired - insufficient cargo,Transféré *X R*Y à L*Z hors du *P souhaité - cargaison insuffisante
 CURRENT,logistics_log_transferfromnosupply,3492,Transferred *X R*Y from L*Z out of the *P desired - insufficient cargo,Transféré *X R*Y de L*Z hors du *P souhaité - cargaison insuffisante
 CURRENT,trade_paymentperjump,3472,*X (+*Y) per sector jump,*X (+*Y) par saut de secteur
@@ -33,12 +165,11 @@ CURRENT,logistics_log_transferfromfull1,3472,Transferred *X R*Y from L*Z out of 
 CURRENT,logistics_status_buynomoney,3472,Bought *X R*Y for $*Z out of the *P desired - insufficient funds,Acheté *X R*Y pour $*Z hors du *P souhaité - fonds insuffisants
 CURRENT,logistics_status_buynosupply,3472,Bought *X R*Y for $*Z out of the *P desired - insufficient supply,Acheté *X R*Y pour $*Z en dehors du *P désiré - approvisionnement insuffisant
 CURRENT,logistics_status_sellnosupply,3472,Sold *X R*Y for $*Z out of the *P desired - insufficient cargo,Vendu *X R*Y pour $*Z hors du *P souhaité - cargaison insuffisante
-CURRENT,logistics_status_miningstacks,3472,Mined *X R*Y (*Z stacks),Mine *X R*Y (*Z piles)
+CURRENT,logistics_status_miningstacks,3472,Mined *X R*Y (*Z stacks),*X R*Y miné (*Z stacks)
 CURRENT,logistics_status_collectcontainers,3472,Collected *X R*Y (*Z containers),Collecte *X R*Y (*Z conteneurs)
 CURRENT,wolf_part2_objective_escape,3472,Undock and get to a safe distance before the Orion Sentinel explodes,Désamarrer et se mettre à bonne distance avant que la sentinelle d'Orion n'explose
 CURRENT,settings_motionsicknessmode,3400,Motion Sickness Mode,Mode mal des transports
 CURRENT,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.","La rotation de l'arrière-plan est supprimée, ce qui devrait t'aider si tu souffres du mal des transports dans le jeu."
-CURRENT,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition","Lorsque tu passes d'un vaisseau à l'autre, saute la transition"
 CURRENT,newmainmenu_tests,3400,TESTS,TESTS
 CURRENT,newmainmenu_instantshipswitch,3400,Switch instantly between ships,Passe instantanément d'un vaisseau à l'autre
 CURRENT,newmainmenu_vsync,3400,V-Sync,V-Sync
@@ -48,7 +179,7 @@ CURRENT,power_unit,3400,*X MW,*X MW
 CURRENT,tactical_focuslayer,3400,FOCUS LAYER,COUCHE DE FOCALISATION
 CURRENT,tactical_tooltip_focuslayer,3400,"When enabled, the camera's rotation and position track the currently selected layer.","Lorsqu'elles sont activées, la rotation et la position de la caméra suivent le calque actuellement sélectionné."
 CURRENT,logistics_condition_untilstorage,3400,Quantity on board,Quantité à bord
-CURRENT,logistics_quantity_all,3400,ALL,TOUS
+CURRENT,logistics_quantity_all,3400,ALL,TOUT
 CURRENT,logistics_quantity_full,3400,FULL,PLEIN
 CURRENT,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,UTILISE N'IMPORTE QUEL ESPACE DE STOCKAGE DE CARGAISON
 CURRENT,logistics_stuck_layernotours,3400,Ship L*X is not friendly,Le bateau L*X n'est pas amical
@@ -78,7 +209,7 @@ CURRENT,newmainmenu_autosavenameinvalid_caption,3329,Save name reserved for auto
 CURRENT,galaxymap_darkmode,3329,Dark Mode,Mode sombre
 CURRENT,galaxymap_lightmode,3329,Light Mode,Mode Clair
 CURRENT,techtree_queue,3329,Queue Research,Recherche sur les files d'attente
-CURRENT,logistics_showlog,3329,SHOW LOG,SHOW LOG
+CURRENT,logistics_showlog,3329,SHOW LOG,Voir l'historique
 CURRENT,logistics_hidelog,3329,HIDE LOG,CACHER LE JOURNAL
 CURRENT,logistics_order_goandwait,3329,Go and Wait,Va et attends
 CURRENT,logistics_status_waiting,3329,Waiting T*X,Attente T*X
@@ -218,7 +349,7 @@ CURRENT,logistics_condition_none,3239,Amount,Montant
 CURRENT,logistics_condition_quantity,3239,Quantity,Quantité
 CURRENT,logistics_condition_stacks,3239,Stacks,Piles
 CURRENT,logistics_condition_containers,3239,Containers,Conteneurs
-CURRENT,logistics_condition_allbut,3239,All But,Tous Mais
+CURRENT,logistics_condition_allbut,3239,All But,Tous Sauf
 CURRENT,logistics_condition_all,3239,All Available,Tous disponibles
 CURRENT,logistics_condition_time,3239,Minutes,Minutes
 CURRENT,logistics_transferto_none,3239,DESTINATION SHIP,VAISSEAU DE DESTINATION
@@ -228,7 +359,7 @@ CURRENT,logistics_stuck_invalidsystem,3239,System S*X does not exist,Le système
 CURRENT,logistics_stuck_invalidlayer,3239,Ship L*X does not exist,Le vaisseau L*X n'existe pas
 CURRENT,logistics_stuck_equipment,3239,L*X does not have a working R*Y,L*X ne dispose pas d'un R*Y
 CURRENT,logistics_stuck_resources,3239,L*X does not have any R*Ys,L*X n'a pas de R*Ys
-CURRENT,logistics_stuck_patches,3239,System S*X does not have any R*Y to mine,Le système S*X n'a pas de R*Y à mien
+CURRENT,logistics_stuck_patches,3239,System S*X does not have any R*Y to mine,Le système S*X n'a pas de R*Y à miner.
 CURRENT,logistics_stuck_gas,3239,System S*X does not have any R*Y to collect,Le système S*X n'a pas de R*Y à collecter
 CURRENT,logistics_stuck_tradingpost,3239,System S*X does not have a trading post,Le système S*X n'a pas de comptoir commercial
 CURRENT,logistics_stuck_stargate,3239,Stargate is not ready for jump,La porte des étoiles n'est pas prête à sauter
@@ -329,10 +460,10 @@ CURRENT,engine_thrust,3239,THRUST *X%,POUSSEE *X%
 CURRENT,hud_converttracktosplitter,3239,[CTRL + RMB] Convert to splitter,[CTRL + RMB] Convertir en Séparateur
 CURRENT,hud_convertsplittertotrack,3239,[CTRL + RMB] Convert to track,[CTRL + RMB] Convertir en Convoyeur
 CURRENT,survey_captionmultiple,3239,*X ships surveying,*X l'arpentage des vaisseaux
-CURRENT,tutorial_radiationinstallinfuser,3239,Laser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area and power it.,Les infuseurs laser sont utilisés pour charger les cristaux vides en gaz Zeleon Gas et émettront des radiations dans la zone environnante lorsqu'ils sont alimentés.\n\nInstalle l'infuseur laser dans une zone dégagée et alimente-le.
+CURRENT,tutorial_radiationinstallinfuser,3239,Laser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area and power it.,Les infuseurs laser sont utilisés pour charger les cristaux vides en gaz Zeleon Gas et émettront des radiations dans la zone environnante lorsqu'ils sont alimentés.\n\nInstallez l'infuseur laser dans une zone dégagée et alimentez-le.
 CURRENT,tutorial_radiationsetupinfuser,3239,Let's set the laser infuser to use them to produce charged crystals.,Réglons l'Infuseur laser pour qu'il les utilise afin de produire des cristaux chargés.
 CURRENT,tutorial_radiationwaitforinputs,3239,The laser infuser is set to start making charged crystals! Laser infusers use Zeleon Energy Cells to charge the crystals.\n\nLet's wait for it to begin charging crystals.,L'infuseur laser est prêt à commencer à fabriquer des cristaux chargés ! Les infuseurs laser utilisent des Cellules énergétiques Zeleon pour charger les cristaux.\n\nAttendons qu'il commence à charger des cristaux.
-CURRENT,tutorial_surveystartsectorsurvey,3239,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one ship in a system can do a sector scan.\n\nClick the button to begin a sector scan.,Les balayages sectoriels recherchent des zones d'intérêt dans le secteur autour du système dans lequel se trouve ton vaisseau.\n\nLe balayage s'arrête une fois qu'il est terminé. Un seul vaisseau dans un système peut effectuer un balayage de secteur.\n\nClique sur le bouton pour commencer un balayage de secteur.
+CURRENT,tutorial_surveystartsectorsurvey,3239,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one ship in a system can do a sector scan.\n\nClick the button to begin a sector scan.,Les capteurs hyperspatiaux recherchent des zones d'intérêt dans le secteur autour du système dans lequel se trouve votre vaisseau.\n\nLa recherche s'arrête une fois terminée. Un seul vaisseau par système peut effectuer un scan de secteur.\n\nCliquez sur le bouton pour commencer un scan de secteur.
 CURRENT,tutorial_surveystartlocalsurvey,3239,Areas of interest will expire after some time if they are not surveyed. Multiple ships can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,Les zones d'intérêt expireront au bout d'un certain temps si elles ne sont pas étudiées. Plusieurs vaisseaux peuvent contribuer à une enquête locale.\n\nClique sur le point d'intérêt pour commencer l'enquête locale.
 CURRENT,bravenewsector_part2_x4,3239,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. As a safeguard against the Andromeda Project, I have installed a back-door that allows you to take control of the Stargate and any devices commanding it.", I can't let this become one of them. As a safeguard against the Andromeda Project
 CURRENT,bravenewsector_part2_x5,3239,Please use it if they restrict the use of the Stargate for their own gain.,S'il vous plaît
@@ -360,8 +491,8 @@ CURRENT,newmainmenu_showautosaves,3054,AUTOSAVES,SAUVEGARDES AUTO
 CURRENT,newmainmenu_newgameoptions,3054,Game Options,Options de jeu
 CURRENT,newmainmenu_defensiveenemies,3054,Defensive Enemies,Ennemis défensifs
 CURRENT,newmainmenu_defensiveenemiestooltip,3054,Hostile ships will only target you once you have targeted them first.,Les vaisseaux hostiles ne te prendront pour cible que lorsque tu les auras ciblés en premier.
-CURRENT,newmainmenu_multisectorsim,3054,Multi-System Simulation,Simulation multi-systèmes
-CURRENT,newmainmenu_multisectorsimtooltip,3054,"Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.","Permet la simulation multi-systèmes, ce qui te permet de répartir ta flotte entre plusieurs systèmes/secteurs simultanément."
+CURRENT,newmainmenu_multisystemsim,3054,Multi-System Simulation,Simulation multi-systèmes
+CURRENT,newmainmenu_multisystemsimtooltip,3054,"Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.","Permet la simulation multi-systèmes, ce qui te permet de répartir ta flotte entre plusieurs systèmes/secteurs simultanément."
 CURRENT,hud_shipmaximumoccupancy,3054,Ship Maximum Occupancy: *X/*Y,Occupation maximale du vaisseau : *X/*Y
 CURRENT,hud_surveyinprogress,3054,WARNING - SURVEY WILL BE CANCELLED,AVERTISSEMENT - L'ENQUÊTE SERA ANNULÉE
 CURRENT,shipeditor_tooltip_painthull,3054,Toggle painting the exterior panels of the hull of your ship,Bascule la peinture des panneaux extérieurs de la coque de ton vaisseau
@@ -423,7 +554,7 @@ CURRENT,techtree_node_title_hydroponicsrepeatable,3054,Hydroponics,Hydroponique
 CURRENT,techtree_node_title_metallurgyrepeatable,3054,Metallurgy,Métallurgie
 CURRENT,techtree_node_title_robotarmspeedrepeatable,3054,Robot Arm Speed,Vitesse du bras robotique
 CURRENT,techtree_node_caption_robotarmspeedrepeatable,3054,Spend research credits to continually increase our robot arm speed.,Dépense des crédits de recherche pour augmenter continuellement la vitesse de notre bras robotique.
-CURRENT,special_sectorsurvey,3054,Sector Surveying,Enquête sectorielle
+CURRENT,special_sectorsurvey,3054,Sector Surveying,Exploration de secteur
 CURRENT,special_tracksplitter,3054,Splitter Tracks,Pistes de fendage
 CURRENT,object_tracksplitter,3054,Splitter,Séparateur
 CURRENT,object_laserinfuser,3054,Laser Infuser,Infuseur laser
@@ -447,15 +578,15 @@ CURRENT,alert_type_emp_caption,3054,*X piece(s) disabled,*X pièce(s) désactiv�
 CURRENT,alert_type_emp_tooltip,3054,"Your ship has been struck by lightning, temporarily disabling some of your equipment.","Votre vaisseau a été frappé par la foudre, ce qui a temporairement mis hors service certains de tes équipements."
 CURRENT,tutorial_radiation_title,3054,RADIATION,RADIATION
 CURRENT,tutorial_radiationintro,3054,We are going to learn about radiation.,Nous allons apprendre ce que sont les radiations.
-CURRENT,tutorial_radiationselectoverlay,3054,The game has been set to a slower speed for now.\n\nRadiation is emitted in all directions away from the laser infuser.\n\nClick on the radiation overlay to view where your ship is irradiated.,Le jeu a été réglé sur une vitesse plus lente pour l'instant.\n\nLes radiations sont émises dans toutes les directions à partir de l'infuseur laser.\n\nClique sur la superposition des radiations pour voir où ton vaisseau est irradié.
+CURRENT,tutorial_radiationselectoverlay,3054,The game has been set to a slower speed for now.\n\nRadiation is emitted in all directions away from the laser infuser.\n\nClick on the radiation overlay to view where your ship is irradiated.,Le jeu a été réglé sur une vitesse plus lente pour l'instant.\n\nLes radiations sont émises dans toutes les directions à partir de l'infuseur laser.\n\nCliquez sur la superposition des radiations pour voir où votre vaisseau est irradié.
 CURRENT,tutorial_radiationselectoverlay2,3054,"All green areas of your ship are safe for your crew, but the darker areas are dangerous.\n\nSpacesuits will protect your crew from being irradiated.","Toutes les zones vertes de ton vaisseau sont sûres pour ton équipage, mais les zones plus sombres sont dangereuses.\n\nLes combinaisons spatiales protégeront ton équipage contre les irradiations."
-CURRENT,tutorial_radiationinstallblockers,3054,"Radiation spread can be limited by special equipment called radiation blockers.\n\nInstall some blockers close to your laser infuser, leaving a small gap between the infuser and the blocker.\n\nIncrease the game speed when you are ready.","La propagation des radiations peut être limitée par des équipements spéciaux appelés bloqueurs de radiations.\n\nInstalle quelques bloqueurs près de ton infuseur laser, en laissant un petit espace entre l'infuseur et le bloqueur.\n\nAugmente la vitesse du jeu lorsque tu es prêt."
+CURRENT,tutorial_radiationinstallblockers,3054,"Radiation spread can be limited by special equipment called radiation blockers.\n\nInstall some blockers close to your laser infuser, leaving a small gap between the infuser and the blocker.\n\nIncrease the game speed when you are ready.","La propagation des radiations peut être limitée par des équipements spéciaux appelés bloqueurs de radiations.\n\nInstallez quelques bloqueurs près de ton infuseur laser, en laissant un petit espace entre l'infuseur et le bloqueur.\n\nAugmentez la vitesse du jeu lorsque vous serez prêt."
 CURRENT,tutorial_radiationselectoverlay3,3054,"A radiation blocker will lower the radiation travelling through it, this can be seen on the radiation overlay.","Un bloqueur de radiations abaisse les radiations qui le traversent, cela se voit sur la superposition des radiations."
-CURRENT,tutorial_radiationoutro,3054,"Your crew will become sick if exposed to unsafe radiation for too long, which may eventually result in death.","Ton équipage tombera malade s'il est exposé trop longtemps à des radiations dangereuses, ce qui peut éventuellement entraîner la mort."
-CURRENT,tutorial_radiationsuccess,3054,"Well done, you have now learnt how radiation works and how to manage radiation levels in your ship.","Bravo, tu as maintenant appris comment fonctionnent les radiations et comment gérer les niveaux de radiations dans ton vaisseau."
+CURRENT,tutorial_radiationoutro,3054,"Your crew will become sick if exposed to unsafe radiation for too long, which may eventually result in death.","Votre équipage tombera malade s'il est exposé trop longtemps à des radiations dangereuses, ce qui peut éventuellement entraîner la mort."
+CURRENT,tutorial_radiationsuccess,3054,"Well done, you have now learnt how radiation works and how to manage radiation levels in your ship.","Bravo, vous avez maintenant appris comment fonctionnent les radiations et comment gérer les niveaux de radiations dans votre vaisseau."
 CURRENT,tutorial_survey_title,3054,SECTOR SURVEYING,ENQUÊTE SECTORIELLE
-CURRENT,tutorial_surveyintro,3054,"We are going to learn how to survey the area around your ship.\n\nThe first step is to scan the local area of the sector surrounding you ship using a <b>SECTOR SCAN</b>.\n\nIn Boldly Go, only the new sector can be surveyed.\n\nHyperspace sensors are required to do this.","Nous allons apprendre à faire le relevé de la zone autour de ton vaisseau.\n\nLa première étape consiste à scanner la zone locale du secteur entourant ton vaisseau à l'aide d'un <b>SECTOR SCAN</b>.\n\nDans Le Grand Saut, seul le nouveau secteur peut être relevé.\n\nDes capteurs hyperespace sont nécessaires pour ce faire."
-CURRENT,tutorial_surveyinstallsensors,3054,"Install Hyperspace Sensors or Hyperspace Sensor LRs onto one of your ships.\n\nThis tutorial will resume afterwards.\n\nIf you are playing the Boldly Go game mode, your ship must also be in the new sector.","Installe des Capteurs d'hyperespace ou des Capteurs d'hyperespace LR sur l'un de tes vaisseaux.\n\nCe tutoriel reprendra ensuite.\n\nSi tu joues au mode de jeu Audace, ton vaisseau doit également se trouver dans le nouveau secteur."
+CURRENT,tutorial_surveyintro,3054,"We are going to learn how to survey the area around your ship.\n\nThe first step is to scan the local area of the sector surrounding you ship using a <b>SECTOR SCAN</b>.\n\nIn Boldly Go, only the new sector can be surveyed.\n\nHyperspace sensors are required to do this.",Nous allons apprendre à explorer la zone autour de votre vaisseau.\n\nLa première étape consiste à analyser la zone locale du secteur entourant votre vaisseau à l’aide d’un SCAN DE SECTEUR.\n\nSeul le nouveau secteur peut être exploré.\n\nDes capteurs hyperspatiaux sont nécessaires pour effectuer cette opération.
+CURRENT,tutorial_surveyinstallsensors,3054,"Install Hyperspace Sensors or Hyperspace Sensor LRs onto one of your ships.\n\nThis tutorial will resume afterwards.\n\nIf you are playing the Boldly Go game mode, your ship must also be in the new sector.","Installez des capteurs hyperspatiaux ou des capteurs hyperspatiaux LP sur l’un de vos vaisseaux.\n\nCe tutoriel reprendra ensuite.\n\nSi vous jouez en mode Audace, votre vaisseau doit également se trouver dans le nouveau secteur."
 CURRENT,tutorial_surveyhighlightsectorsurveysystem,3054,Hovering the mouse over the current system will reveal the radius around the system that is being scanned and the scan's progress toward finding new points of interest.\n\nOpen the <b>SECTOR MAP</b> and click <b>NEXT</b> to speed-up the survey.,"En passant la souris sur le système actuel, vous verrez le rayon autour du système qui est en train d'être scanné et la progression du scan pour trouver de nouveaux points d'intérêt.\n\nOuvrez la <b>carte du SECTEUR</b> et cliquez sur <b>SUIVANT</b> pour accélérer l'enquête."
 CURRENT,tutorial_surveylocalsurveyintro,3054,The next step is to perform a <b>LOCAL SURVEY</b>.\n\nLocal surveys allow points of interest to be accessed via FTL.\n\nShips need to have super computers installed and must be in the same sector to participate in a local survey.,L'étape suivante consiste à effectuer un <b>SONDAGE LOCAL</b>.\n\nLes sondages locaux permettent d'accéder à des points d'intérêt via le FTL.\n\nLes vaisseaux doivent avoir installé des super ordinateurs et doivent se trouver dans le même secteur pour participer à un sondage local.
 CURRENT,tutorial_surveyinstallcomputers,3054,Install a super-computer on one of your ships.\n\nThis tutorial will resume afterwards.,Installe un super ordinateur sur l'un de tes vaisseaux.\n\nCe tutoriel reprendra ensuite.
@@ -485,16 +616,16 @@ CURRENT,bravenewsector_part2_receivesensors,3054,Receive LR Hyperspace Sensors [
 CURRENT,bravenewsector_part2_receivecompute,3054,Receive a Super Computer,Recevez un Super ordinateur
 CURRENT,bravenewsector_part3_title,3054,"Brave New Sector, Part 3","Le Meilleur des Secteurs, Partie 3"
 CURRENT,bravenewsector_part3_summary,3054,Assist the scientist with his research.,Assister le scientifique dans ses recherches.
-CURRENT,bravenewsector_part3_intro_rep1,3054,"Hello again, Captain. Congratulations on completing the latest phase of the Stargate project! We are all very impressed by your commitment and dedication.", Captain. Congratulations on completing the latest phase of the Stargate project! We are all very impressed by your commitment and dedication.
+CURRENT,bravenewsector_part3_intro_rep1,3054,"Hello again, Captain. Congratulations on completing the latest phase of the Stargate project! We are all very impressed by your commitment and dedication.","Re-bonjour, capitaine. Félicitations pour avoir achevé la dernière phase du projet Stargate ! Nous sommes tous très impressionnés par votre engagement et votre dévouement."
 CURRENT,bravenewsector_part3_intro_rep2,3054,The project has a new task for you. One of our scientists is investigating a new lifeform called tiddlets.,Le projet a une nouvelle tâche à vous confier. L'un de nos scientifiques étudie une nouvelle forme de vie appelée tiddlets.
-CURRENT,bravenewsector_part3_intro_rep3,3054,"Upon death, a crystal is formed at the core of the tiddlet. This crystal has extraordinary energy density, which is exactly what we need to increase the hyperspace range of the Stargate.", a crystal is formed at the core of the tiddlet. This crystal has extraordinary energy density
-CURRENT,bravenewsector_part3_intro_rep4,3054,"The Andromeda Project would love to relentlessly farm these tiddlets, but due to recent accidents they have become a strictly protected species. The scientist you're going to visit is researching how to ethically produce their crystals. He believes the new sector's resources will be a breakthrough for his research.", but due to recent accidents they have become a strictly protected species. The scientist you're going to visit is researching how to ethically produce their crystals. He believes the new sector's resources will be a breakthrough for his research.
+CURRENT,bravenewsector_part3_intro_rep3,3054,"Upon death, a crystal is formed at the core of the tiddlet. This crystal has extraordinary energy density, which is exactly what we need to increase the hyperspace range of the Stargate.","À la mort, un cristal se forme au cœur du tiddlet. Ce cristal possède une densité énergétique extraordinaire, qui est exactement ce dont nous avons besoin pour augmenter la portée hyperspatiale de la porte des étoiles."
+CURRENT,bravenewsector_part3_intro_rep4,3054,"The Andromeda Project would love to relentlessly farm these tiddlets, but due to recent accidents they have become a strictly protected species. The scientist you're going to visit is researching how to ethically produce their crystals. He believes the new sector's resources will be a breakthrough for his research.","Le projet Andromède aimerait bien exploiter sans relâche ces tiddlets, mais suite à de récents accidents, ils sont devenus une espèce protégée. Le scientifique que vous allez rencontrer recherche comment produire leurs cristaux de façon éthique. Il pense que les ressources du nouveau secteur constitueront une avancée pour ses recherches."
 CURRENT,bravenewsector_part3_intro_rep5,3054,Visit him and provide him a sample of the zeleon.,Rendez-lui visite et offrez-lui un échantillon du zeleon.
 CURRENT,bravenewsector_part3_deliversample,3054,Deliver the resources,Fournir les ressources
 CURRENT,bravenewsector_part3_deliverzeleon,3054,Deliver a sample of Shielded Zeleon [*X/*Y],Livrer un échantillon de Zeleon blindé [*X/*Y]
 CURRENT,bravenewsector_part3_deliverneubidium,3054,Deliver a sample of Neubidium Ingots [*X/*Y],Livrer un échantillon de Lingots de Neubidium [*X/*Y]
 CURRENT,bravenewsector_part3_artemis_1a,3054,Captain? Is that you? What are you doing here? It's so good to see you!,Capitaine ? C’est vous ? Que faites-vous ici ? Je suis si heureux de vous voir !
-CURRENT,bravenewsector_part3_artemis_2a,3054,"The Andromeda Project have hired me to work on synthesising the tiddlet crystals that we discovered during our research, and I see they've sent you to provide me with the zeleon.", and I see they've sent you to provide me with the zeleon.
+CURRENT,bravenewsector_part3_artemis_2a,3054,"The Andromeda Project have hired me to work on synthesising the tiddlet crystals that we discovered during our research, and I see they've sent you to provide me with the zeleon.","Le projet Andromède m'a engagé pour travailler sur la synthèse des cristaux de tiddlet que nous avons découverts au cours de nos recherches, et je vois qu'ils vous ont envoyé pour me fournir le zéleon."
 CURRENT,bravenewsector_part3_artemis_3a,3054,I see you're looking after those tiddlets well! A lot has changed since the tiddlet farm explosion. They are a protected species now and harming them is strictly prohibited.,"Je vois que vous vous occupez bien de ces tiddlets ! Beaucoup de choses ont changé depuis l’explosion de la ferme à tiddlets. C’est une espèce protégée désormais, et leur nuire est strictement interdit."
 CURRENT,bravenewsector_part3_artemis_4a,3054,A lot has changed since the tiddlet farm explosion. They are a protected species now and harming them is strictly prohibited.,"Beaucoup de choses ont changé depuis l’explosion de la ferme à tiddlets. Ils sont désormais une espèce protégée, et leur nuire est strictement interdit."
 CURRENT,bravenewsector_part3_artemis_1b,3054,"Greetings Captain, the Andromeda Project have hired me to work on synthesising crystals produced by a creature I discovered. I've named them tiddlets.","Salutations Capitaine, le projet Andromède m'a engagé pour travailler sur la synthèse de cristaux produits par une créature que j'ai découverte. Je leur ai donné le nom de Tiddlets."
@@ -504,11 +635,11 @@ CURRENT,bravenewsector_part3_artemis_5a,3054,"One moment Captain, I've sent a sh
 CURRENT,bravenewsector_part3_artemis_5b,3054,"Unfortunately, it looks like you don't have the resources I need for my experiment, when you have the required amount come back and I'll retrieve them from you.", it looks like you don't have the resources I need for my experiment
 CURRENT,bravenewsector_part3_artemis_6,3054,Great! That should be all the resources I need. I'll run the experiments and call you back when I'm done.,Parfait ! Cela devrait être toutes les ressources dont j’ai besoin. Je vais lancer les expériences et je vous recontacterai quand j’aurai terminé.
 CURRENT,bravenewsector_part3_artemis_7,3054,"Speak to you soon, Captain!","À bientôt, capitaine !"
-CURRENT,bravenewsector_part3_wait_rep1,3054,"Thank you for doing that Captain, Artemis will correspond with you directly from now on.","Merci d'avoir fait cela Capitaine, Artemis correspondra avec vous directement à partir de maintenant."
-CURRENT,bravenewsector_part3_wait_rep2,3054,Goodbye for now.,Au revoir pour l'instant.
+CURRENT,bravenewsector_part3_wait_rep1,3054,"Thank you for doing that Captain, Artemis will correspond with you directly from now on.","Merci d’avoir fait cela, capitaine. À partir de maintenant, Artemis communiquera directement avec vous."
+CURRENT,bravenewsector_part3_wait_rep2,3054,Goodbye for now.,"Au revoir, pour l'instant."
 CURRENT,bravenewsector_part3_waitforresults,3054,Wait for Artemis to call you about his experiment,Attendez qu'Artémis vous appelle pour vous parler de son expérience
 CURRENT,bravenewsector_part3_artemis_results_1,3054,Hello Captain! I have incredible results. Using a highly powered zeleon laser we can charge synthetic crystals made of Neubidium to achieve properties similar to that of the tiddlet crystals.,"Bonjour Capitaine ! J'ai obtenu des résultats incroyables. En utilisant un laser à zéleon très puissant, nous pouvons charger des cristaux synthétiques en Neubidium pour obtenir des propriétés similaires à celles des cristaux de Tiddlet."
-CURRENT,bravenewsector_part3_artemis_results_3,3054,"This is a fantastic breakthrough but I must warn you that the laser is incredibly radioactive, and will very quickly kill your crew if you don't correctly contain its radiation.", and will very quickly kill your crew if you don't correctly contain its radiation.
+CURRENT,bravenewsector_part3_artemis_results_3,3054,"This is a fantastic breakthrough but I must warn you that the laser is incredibly radioactive, and will very quickly kill your crew if you don't correctly contain its radiation.","C’est une avancée remarquable, mais je dois vous avertir : ce laser est extrêmement radioactif et il décimera très rapidement votre équipage si vous ne parvenez pas à en contenir correctement les radiations."
 CURRENT,bravenewsector_part3_artemis_results_4,3054,Come back to my system and I'll send you one of my lasers along with some radiation blockers to keep your crew safe.,"Revenez dans mon système et je vous enverrai l’un de mes lasers, ainsi que des bloqueurs de radiations pour protéger votre équipage."
 CURRENT,bravenewsector_part3_receiveequipment,3054,Receive new equipment from Artemis,Recevoir de nouveaux équipements de la part d'Artemis
 CURRENT,bravenewsector_part3_receivelaser,3054,Receive a Laser Infuser,Recevoir un Infuseur Laser
@@ -516,9 +647,7 @@ CURRENT,bravenewsector_part3_receiveblockers,3054,Receive Radiation Blockers [*X
 CURRENT,bravenewsector_part3_receivecrystal,3054,Receive an Empty Crystal,Recevoir un cristal vide
 CURRENT,bravenewsector_part3_receivezeleon,3054,Receive Zeleon Energy Cell,Recevoir la Cellule énergétique Zeleon
 CURRENT,bravenewsector_part3_artemis_results_5,3054,The next step is to research how this all applies to the Stargate. My hypothesis is that we can use the crystal's energy-density properties to enable jumps much farther than the next sector.,La prochaine étape consiste à étudier comment tout cela s’applique à la Porte des Etoiles. Mon hypothèse est que nous pouvons exploiter les propriétés de densité énergétique du cristal pour permettre des sauts bien plus loin que le secteur suivant.
-CURRENT,bravenewsector_part3_artemis_results_6,3054,"Good luck with your research, Captain.", Captain.
-CURRENT,translationeditor_unmodified,3054,Unmodified Phrases,Phrases non modifiées
-CURRENT,translationeditor_modified,3054,Modified Phrases,Phrases modifiées
+CURRENT,bravenewsector_part3_artemis_results_6,3054,"Good luck with your research, Captain.","Bonne chance dans vos recherches, capitaine."
 CURRENT,translationeditor_reset,3054,Revert,Revenir en arrière
 CURRENT,translationeditor_reset_tooltip,3054,Resets your modified translation back to the original translation.,Réinitialise ta traduction modifiée à la traduction originale.
 CURRENT,translationeditor_folder,3054,Open Folder,Ouvrir le dossier
@@ -527,11 +656,6 @@ CURRENT,translationeditor_english_tooltip1,3054,Unformatted English phrase,Phras
 CURRENT,translationeditor_english_tooltip2,3054,Formatted English phrase,Phrase anglaise formatée
 CURRENT,translationeditor_english_tooltip3,3054,This is what you are translating.,C'est ce que tu traduis.
 CURRENT,translationeditor_english_tooltip4,3054,You cannot change the English phrases.,Tu ne peux pas changer les phrases en anglais.
-CURRENT,translationeditor_original_tooltip1,3054,Unformatted original translation,Traduction originale non formatée
-CURRENT,translationeditor_original_tooltip2,3054,Formatted original translation,Traduction originale formatée
-CURRENT,translationeditor_original_tooltip3,3054,This is what is currently used in the game.,C'est ce qui est actuellement utilisé dans le jeu.
-CURRENT,translationeditor_new_tooltip1,3054,Unformatted new translation,Nouvelle traduction non formatée
-CURRENT,translationeditor_new_tooltip2,3054,Formatted new translation,Nouvelle traduction formatée
 CURRENT,translationeditor_new_tooltip3,3054,"This is where you can change the translation.\n\nThis will affect your game only, unless you submit your updated translations to Introversion.","C'est ici que tu peux modifier la traduction.\n\nCela n'affectera que ton jeu, à moins que tu ne soumettes tes traductions mises à jour à Introversion."
 CURRENT,credits_0,3054,The Last Starship,The Last Starship
 CURRENT,credits_1,3054,Created by\nIntroversion Software,Créé par\nIntroversion Software
@@ -554,6 +678,7 @@ CURRENT,credits_17,3054,Ship Builders\nJoseph Abboud,Concepteur de Vaisseau\nJos
 CURRENT,credits_18,3054,Ship Builders\nLindsay Fleay (DRx),Concepteur de Vaisseau\nLindsay Fleay (DRx)
 CURRENT,credits_19,3054,Thanks to everyone\nwho contributed ship designs,Merci à toutes les personnes\nqui ont contribué à la conception des vaisseaux.
 CURRENT,credits_20,3054,Thank you for playing!,Merci d'avoir joué !
+CURRENT,ftl_galacticjump,3054,"This will be the final journey of your fleet.\nBe prepared for a long journey to the Andromeda galaxy, and save as many as you can!","Ce sera le dernier voyage de votre flotte.\nPréparez-vous à un long voyage vers la galaxie d'Andromède, et sauvez le plus de personne possible !"
 CURRENT,credits_survivors,3054,Survivors,Survivants
 CURRENT,credits_playtime,3054,Playtime,Temps de Jeu
 CURRENT,survivalend_quitmessage1,3054,"We hope you enjoyed playing the demo of The Last Starship. Your journey has just begun!  Unlock the full game to explore more Story Episodes, Survival Mode, Arena Mode, a full Ship Editor and more!","Nous espérons que tu as apprécié la démo de The Last Starship. Ton voyage ne fait que commencer !  Débloque le jeu complet pour découvrir d'autres épisodes de l'histoire, le mode survie, le mode arène, un éditeur de vaisseau complet et bien plus encore !"
@@ -761,7 +886,6 @@ CURRENT,settings_accentinsensitivesearch,2803,Accent Insensitive Search,Recherch
 CURRENT,settings_accentinsensitivesearch_description,2803,"When searching in lists, ignore accented characters, e.g. ""é"" will match ""e""","Lors de la recherche dans les listes, ignore les caractères accentués, par exemple ""é"" correspondra à ""e"""
 CURRENT,settings_translatorassist,2803,"Translator Assist (Ctrl, Alt)","Aide à la traduction (Ctrl, Alt)"
 CURRENT,settings_sound,2793,SOUND,SON
-CURRENT,settings_appearance,2793,APPEARANCE,APPARENCE
 CURRENT,settings_keybindings,2793,KEYBOARD,CLAVIER
 CURRENT,settings_other,2793,OTHER,AUTRES
 CURRENT,settings_uibounce,2793,UI Highlight Bounce,Rebondissement de la mise en valeur de l'interface utilisateur
@@ -861,14 +985,12 @@ CURRENT,origin_steam,2793,SUBSCRIBED ON STEAM WORKSHOP,ABONNÉ SUR LE WORKSHOP S
 CURRENT,origin_steamuser,2793,UPLOADED TO STEAM WORKSHOP,EXPORTER SUR STEAM WORKSHOP
 CURRENT,special_stargatepart3,2793,"Andromeda Project Phases 4, 5","Projet Andromède Phases 4, 5"
 CURRENT,dsi_part2_objective_installengines,2793,OPTIONAL: Install engines in the A.J.E Foundry,OPTIONNEL : Installer des moteurs dans la A.J.E Foundry
-CURRENT,settings_dynamiclighting,2675,Use Dynamic Lighting,Utilise un éclairage dynamique
 CURRENT,hud_ftlshipnotviablewarning,2675,Ship needs either hull or scaffolding to be brought into hyperspace,"Le vaisseau doit disposer soit d’une coque, soit d’un échafaudage, pour pouvoir être emmené en hyperespace."
 CURRENT,trade_cancelautotrade,2675,CANCEL AUTO-TRADE,ANNULER COMMERCE AUTO
 CURRENT,hud_collector_tooltip_totalgathered,2675,TOTAL GATHERED,TOTAL COLLECTÉ
 CURRENT,save_cloudsavefailed_header,2639,WARNING: Cloud Save Failed,AVERTISSEMENT : L'enregistrement dans le nuage a échoué
 CURRENT,save_cloudsavefailed_body,2639,"The game failed to save to the cloud, the game has been saved locally instead.\n\nPlease check that you have enough storage in the Steam Cloud and try again.","Le jeu n'a pas réussi à être sauvegardé sur le cloud, le jeu a été sauvegardé localement à la place.\n\nVérifie que tu as suffisamment d'espace de stockage dans le Steam Cloud et réessaie."
 CURRENT,mission_type_sectorjumpgate,2639,Jumpgate (Sector),Point de saut (Secteur)
-CURRENT,settings_arraytextures,2624,Use Array Textures,Utilise les textures de tableau
 CURRENT,newmainmenu_arena_shipquantity,2624,Quantity,Quantité
 CURRENT,newmainmenu_arena_combatratings,2624,COMBAT RATINGS,CLASSEMENT DES COMBATS
 CURRENT,newmainmenu_arena_tradevalues,2624,SHIP VALUES,VALEURS DU VAISSEAU
@@ -921,7 +1043,7 @@ CURRENT,mission_sectorjumpgate_hostiles3,2624,You'll need to clear them out befo
 CURRENT,object_energytransmitter_description,2624,"A large piece of equipment, capable of transmitting up to 200MW to the Stargate.","Une grande pièce d'équipement, capable de transmettre jusqu'à 200MW à la porte des étoiles."
 CURRENT,object_neubidiumore,2624,Neubidium Ore,Minerai de Neubidium
 CURRENT,object_neubidiumingot,2624,Neubidium Ingot,Lingot de Neubidium
-CURRENT,object_zeleongas,2624,Zeleon Gas,Zeleon Gas
+CURRENT,object_zeleongas,2624,Zeleon Gas,Gaz Zeleon
 CURRENT,object_stablezeleon,2624,Stable Zeleon,Zeleon stable
 CURRENT,object_stargatecapacitor,2624,Stargate Capacitor,Condensateur Stargate
 CURRENT,object_shieldedzeleoncanister,2624,Shielded Zeleon,Zeleon blindé
@@ -934,7 +1056,7 @@ CURRENT,alert_type_stargatelosingpower_caption,2624,*X MW / *Y MW Supplied,*X MW
 CURRENT,alert_type_stargatelosingpower_tooltip,2624,The stargate isn't being supplied with enough power. Use energy transmitters to supply the Stargate with power.,La porte des étoiles n'est pas suffisamment alimentée en énergie. Utilise des transmetteurs d'énergie pour alimenter la porte des étoiles.
 CURRENT,stargate_power_button,2624,START,START
 CURRENT,stargate_powered_off,2624,POWERED OFF,MISE HORS TENSION
-CURRENT,stargate_warming_up,2624,WARMING UP,RÉCHAUFFE-TOI
+CURRENT,stargate_warming_up,2624,WARMING UP,PRÉCHAUFFAGE
 CURRENT,stargate_powering_on,2624,STARTING UP,DÉMARRAGE
 CURRENT,stargate_power_on_failed,2624,FAILED,ÉCHEC
 CURRENT,stargate_ready_for_jump,2624,READY FOR JUMP,PRÊT POUR LE SAUT
@@ -958,7 +1080,7 @@ CURRENT,tutorial_wrapup3,2624,"Many different types of contract are now availabl
 CURRENT,tutorial_miningsuccess,2624,"Well done, you have produced Tilium Cystals.","Bravo, tu as produit des Tilium Cystals."
 CURRENT,calltoarms_harkenrailroad_2,2624,"There is a crisis underway, Captain.  Commercial vessels are going missing, all across the sector.  I suspect foul play, and I need your help to investigate.","Une crise est en cours, capitaine.  Des vaisseaux commerciaux disparaissent dans tout le secteur.  Je soupçonne un acte criminel et j'ai besoin de votre aide pour enquêter."
 CURRENT,calltoarms_harkenrailroad_6,2624,"I've marked the location of the shipwreck on your map as a Gold Highlight.  Good luck, Captain.", Captain.
-CURRENT,wolf_part1_sendingwreckage,2624,"They're sending the recovered wreckage to your ship The L*X now, Captain. It will arrive soon by Shuttle. You'll need to store it somewhere onboard.","Ils envoient l'épave récupérée vers votre vaisseau, le L*X, en ce moment même, capitaine. Elle arrivera bientôt par navette. Vous devrez lui trouver un endroit où la stocker à bord."
+CURRENT,wolf_part1_sendingwreckage,2624,"They're sending the recovered wreckage to your ship The L*X now, Captain. It will arrive soon by Shuttle. You'll need to store it somewhere onboard.","Ils envoient l'épave récupérée vers votre vaisseau, L*X, en ce moment même, capitaine. Elle arrivera bientôt par navette. Vous devrez lui trouver un endroit où la stocker à bord."
 CURRENT,wolf_part1_sendingshuttle,2624,"Standby while I dock my ship with yours, Captain, to collect the items you've recovered so far. Thank you for your efforts.","Attendez que j'amarre mon vaisseau au vôtre, capitaine, pour collecter les objets que vous avez récupérés jusqu'à présent. Je vous remercie pour vos efforts."
 CURRENT,wolf_part1_completion5,2624,"We need to find a way to track them down, and destroy them.  We will be in touch soon, Captain.","Nous devons trouver un moyen de les retrouver et de les détruire.  Nous vous recontacterons bientôt, capitaine."
 CURRENT,wolf_part2_setup1,2624,"Thank you for coming, Captain.","Merci d'être venu, capitaine."
@@ -1002,7 +1124,7 @@ CURRENT,tiddlets_part2_setup9,2624,"But with your permission, we can begin. Inst
 CURRENT,tiddlets_part2_shortjump1,2624,"*X Tiddlets so far.  This is all working very well, Captain.  Now onto the real science.","*X Tiddlets jusqu'à présent.  Tout cela fonctionne très bien, capitaine.  Passons maintenant à la vraie science."
 CURRENT,tiddlets_part2_finalexperiment1,2624,"*X Tiddlets now on board!  Fascinating, Captain.  It appears the Tiddlet reproductive process occurs even at incredibly short hyperspace distances.\nHow do they find the time?","*X Tiddlets à bord !  Fascinant, capitaine.  Il semblerait que le processus de reproduction des Tiddlets se produise même à des distances hyperspatiales incroyablement courtes.\nComment trouvent-ils le temps ?"
 CURRENT,tiddlets_part2_return2,2624,"That's such a horrible thing to witness.\nWe can't allow this sort of experiment to be done again, doctor. It's so unethical.","C'est vraiment horrible d'être témoin d'une telle chose.\nNous ne pouvons pas permettre que ce genre d'expérience se reproduise, docteur. C'est vraiment contraire à l'éthique."
-CURRENT,tiddlets_part2_return5,2624,"There's something else.  There's a reading showing up on the sensors, deep inside the core of the dead tiddlets.\nBring them all back to me, Captain. I think we've done enough for today.","Il y a autre chose.  Les capteurs indiquent signal au plus profond du noyau des tiddlets morts.\nRamenez-les tous à moi, capitaine. Je pense que nous en avons fait assez pour aujourd'hui."
+CURRENT,tiddlets_part2_return5,2624,"There's something else.  There's a reading showing up on the sensors, deep inside the core of the dead tiddlets.\nBring them all back to me, Captain. I think we've done enough for today.","Il y a autre chose.  Les capteurs indiquent un signal au plus profond du noyau des tiddlets morts.\nRamenez-les tous à moi, capitaine. Je pense que nous en avons fait assez pour aujourd'hui."
 CURRENT,tiddlets_part2_debrief3,2624,"Thank you, Captain!","Merci, capitaine !"
 CURRENT,tiddlets_part3_setup1,2624,"The work continues, Captain. There is so much more to these Tiddlets than we realised.","Le travail continue, capitaine. Ces Tiddlets sont bien plus nombreux que nous ne le pensions."
 CURRENT,tiddlets_part3_marcus,2624,"I don't think I had the chance to properly thank you, Captain. You risked your life for us.  And now my twin is ten years older than me! It's taken some getting used to.","Je ne pense pas avoir eu l'occasion de vous remercier comme il se doit, capitaine. Vous avez risqué votre vie pour nous.  Et maintenant, mon jumeau a dix ans de plus que moi ! Il a fallu s'y habituer."
@@ -1221,7 +1343,6 @@ CURRENT,mainmenu_legal,2448,Privacy / Legal,Confidentialité / Mentions légales
 CURRENT,mainmenu_gamemode_survival,2448,Survival,Survie
 CURRENT,mainmenu_gamemode_survival_tooltip,2448,"Stay one step ahead of a devastating anomaly, for as long as you can","Gardez une longueur d'avance sur une anomalie dévastatrice, aussi longtemps que possible"
 CURRENT,mainmenu_gamemode_freeroam,2448,Free Roam,Itinérance libre
-CURRENT,mainmenu_gamemode_freeroam_tooltip,2448,"You are free to persue any career at your own pace. No anomaly, no stargate.","Vous êtes libre de poursuivre n'importe quelle carrière à votre rythme. Aucune anomalie, pas de porte des étoiles."
 CURRENT,mainmenu_gamemode_freeroam_locked,2448,Build a flight-ready ship in Creative Mode to unlock,Construisez un vaisseau prêt à voler en mode créatif pour débloquer
 CURRENT,mainmenu_gamemode_creative,2448,Creative,Créatif
 CURRENT,mainmenu_gamemode_creative_tooltip,2448,You have unlimited resources to build any ship you want,Vous disposez de ressources illimitées pour construire le vaisseau de votre choix
@@ -1300,7 +1421,7 @@ CURRENT,newmainmenu_confirm,2448,CONFIRM,CONFIRMER
 CURRENT,newmainmenu_cancel,2448,CANCEL,ANNULER
 CURRENT,newmainmenu_settings,2448,SETTINGS,PARAMÈTRES
 CURRENT,newmainmenu_quit,2448,QUIT,QUITTER LE JEU
-CURRENT,newmainmenu_abandon,2448,ABANDON GAME,ABANDONNER LA PARTIE
+CURRENT,newmainmenu_abandon,2448,ABANDON GAME,QUITTER LA PARTIE
 CURRENT,newmainmenu_resume,2448,RESUME,CONTINUER
 CURRENT,newmainmenu_chooseship,2448,CHOOSE STARTING SHIP,CHOISIR LE VAISSEAU DE DÉPART
 CURRENT,newmainmenu_begingame,2448,BEGIN GAME,COMMENCER LA PARTIE
@@ -1331,7 +1452,6 @@ CURRENT,newmainmenu_locked,2448,(LOCKED),(VERROUILLÉ)
 CURRENT,newmainmenu_multisystem_simulation,2448,Enable Multi-system Simulation,Activer la simulation multisystème
 CURRENT,newmainmenu_debug_freespace,2448,Enable FreeSpace Debugging,Activer le débogage FreeSpace
 CURRENT,newmainmenu_darkmode,2448,Galaxy Map Dark Mode,Carte de la Galaxie: Mode Sombre
-CURRENT,newmainmenu_parallax,2448,Parallax effect,Effet Parallax
 CURRENT,newmainmenu_slowcombat,2448,Slow during combat,Temps ralenti pendant les combats
 CURRENT,newmainmenu_filter,2448,SEARCH...,RECHERCHE...
 CURRENT,shiplibrary_hullonly,2448,[EMPTY HULL],[COQUE VIDE]
@@ -1490,7 +1610,6 @@ CURRENT,hud_tooltip_rightclickclear,2448,[RMB] Clear,[RMB] Effacer
 CURRENT,hud_tooltip_rightclickdelete,2448,[RMB] Delete,[RMB] Supprimer
 CURRENT,hud_tooltip_rightclickpurge,2448,[RMB] Purge,[RMB] Purger
 CURRENT,hud_tooltip_leftclickchangerecipe,2448,[LMB] Cycle recipe,[LMB] Recette de cycle
-CURRENT,hud_tooltip_rightclickconfigure,2448,[RMB] Configure,[RMB] Configurer
 CURRENT,hud_tooltip_boxed,2448,[BOXED],[EN BOÎTE]
 CURRENT,hud_tooltip_charge,2448,Charge,Charge
 CURRENT,hud_totalproduction,2448,TOTAL PRODUCTION,PRODUCTION TOTALE
@@ -1553,6 +1672,7 @@ CURRENT,equipment_storagecrate_refill_disable,2448,PRIORITISE CRATE,PRIORISER LE
 CURRENT,equipment_storagecrate_permitcrewload,2448,CREW LOADING,STOCKER PAR L'ÉQUIPAGE
 CURRENT,equipment_storagecrate_permitcrewunload,2448,CREW UNLOADING,DÉCHARGER PAR L'ÉQUIPAGE
 CURRENT,factory_stockpileoutput,2448,STOCKPILE,STOCKER
+CURRENT,factory_stockpileoutput_tooltip,2448,"STOCKPILE\n\nWhen ticked, the produced items will be immediately unloaded into any cargo storage area, stockpiling the item.\n\nIf unticked, the produced item will remain until it is used somewhere, or until there is specific cargo space available.","STOCKPILE\n\nLorsque cette case est cochée, les objets produits seront immédiatement déchargés dans n'importe quelle zone de stockage de fret.\n\nSi cette case n'est pas cochée, les objets produits resteront jusqu'à ce qu'ils soient utilisés ou jusqu'à ce qu'un espace de stockage réservé à l'objet soit disponible."
 CURRENT,shipeditor_commit,2448,CONFIRM,CONFIRMER
 CURRENT,shipeditor_shipyardrequired1,2448,You must visit a Shipyard,Vous devez visiter un chantier spatial
 CURRENT,shipeditor_shipyardrequired2,2448,to apply your modifications,pour appliquer vos modifications
@@ -1781,14 +1901,11 @@ CURRENT,logisticswindow_title,2448,LOGISTICS,LOGISTIQUE
 CURRENT,logistics_tooltip_transfer,2448,[LMB] Transfer 1 from *X,[LMB] Transfert 1 depuis *X
 CURRENT,logistics_tooltip_cancel_transfer,2448,[RMB] Cancel 1 from *X,[RMB] Annuler 1 de *X
 CURRENT,logistics_tooltip_modifiers,2448,Modifiers:,Modificateurs :
-CURRENT,orders_logistics,2448,LOGISTICS,LOGISTIQUE
-CURRENT,orders_crew,2448,CREW,ÉQUIPAGE
 CURRENT,orders_doors,2448,DOORS,PORTES
 CURRENT,order_none,2448,None,Aucun
 CURRENT,order_salvage,2448,Gather Salvage,Récupérer les cargaissons
 CURRENT,order_gather,2448,Gather Materials,Rassembler des matériaux
 CURRENT,order_repairhull,2448,Repair Hull,Réparer la coque
-CURRENT,order_shiftwork,2448,Shift Work,Travail posté
 CURRENT,order_suitson,2448,Suits On,Combinaisons obligatoire
 CURRENT,order_exteriorwork,2448,Exterior Work,Travaux extérieurs
 CURRENT,order_weaponsactive,2448,Weapons Free,Armes gratuites
@@ -1797,8 +1914,6 @@ CURRENT,order_battlestations,2448,Battle Stations,Postes de combat
 CURRENT,order_mining,2448,Mining,Exploitation minière
 CURRENT,action_opendoors,2448,Open All Doors,Ouvrir toutes les portes
 CURRENT,action_closedoors,2448,Close All Doors,Fermer toutes les portes
-CURRENT,action_openvents,2448,Open All Vents,Ouvrir tous les évents
-CURRENT,action_closevents,2448,Close All Vents,Fermer tous les évents
 CURRENT,missions_title,2448,CONTRACTS,CONTRATS
 CURRENT,mission_accept,2448,Accept,Accepter
 CURRENT,mission_accepted,2448,Accepted,Accepté
@@ -2142,8 +2257,8 @@ CURRENT,object_spacesuitpod_description,2448,A storage place for spacesuits that
 CURRENT,object_water,2448,Water,Eau
 CURRENT,object_stairs,2448,Ladder,Échelle
 CURRENT,object_stairs_description,2448,Crew and passengers can only access the upper habitation deck with a ladder.,L'équipage et les passagers ne peuvent accéder au pont supérieur d'habitation qu'avec une échelle.
-CURRENT,object_hyperspacesensor,2448,Hyperspace Sensor,Capteur d'hyperespace
-CURRENT,object_hyperspacesensorlr,2448,Hyperspace Sensor LR,Capteur hyperespace LP
+CURRENT,object_hyperspacesensor,2448,Hyperspace Sensor,Capteur hyperspatial
+CURRENT,object_hyperspacesensorlr,2448,Hyperspace Sensor LR,Capteur hyperspatial LP
 CURRENT,object_hyperspacesensorlr_description,2448,A Long Range and extremely sensitive prototype version of the standard hyperspace sensor.,Une version prototype à longue portée et extrêmement sensible du capteur hyperspatial standard.
 CURRENT,object_telepathicsensor,2448,Telepathic Sensor Station,Station de capteurs télépathiques
 CURRENT,object_telepathicsensor_description,2448,A sensor capable of detecting telepathic waves.,Un capteur capable de détecter les ondes télépathiques.
@@ -2163,7 +2278,7 @@ CURRENT,object_ice,2448,Water Ice,Glace
 CURRENT,object_metreongas,2448,Metreon Gas,Gaz Métréon
 CURRENT,object_refinedmetreon,2448,Refined Metreon,Métréon raffiné
 CURRENT,object_explosives,2448,Explosives,Explosifs
-CURRENT,object_hyperspaceisotopes,2448,Hyperspace Isotopes,Isotopes de l'hyperespace
+CURRENT,object_hyperspaceisotopes,2448,Hyperspace Isotopes,Isotopes hyperspatiaux
 CURRENT,object_stableisotopes,2448,Stable Isotopes,Isotopes stables
 CURRENT,object_seeds,2448,Seeds,Graines
 CURRENT,object_seeds_description,2448,"A small bag of mixed vegetable seeds, that you might be able to grow in a Hydroponic Garden.","Un petit sac de graines de légumes mélangées, que vous pourrez peut-être cultiver dans un jardin hydroponique."
@@ -2190,8 +2305,8 @@ CURRENT,object_refinery,2448,Refinery,Raffinerie
 CURRENT,object_refinery_description,2448,An automatic industrial machine for refining raw chemicals and gases.,Une machine industrielle automatique pour raffiner les produits chimiques bruts et les gaz.
 CURRENT,object_chemicallab,2448,Chemical Lab,Laboratoire de chimie
 CURRENT,object_chemicallab_description,2448,"A complex piece of scientific equipment.  Can combine multiple different chemical inputs (liquids, gases and solids) into different outputs. The user can cycle the active 'recipe' by clicking on it.","Un équipement scientifique complexe.  Peut combiner plusieurs intrants chimiques différents (liquides, gaz et solides) en différents résultats. L'utilisateur peut parcourir la « recette » active en cliquant dessus."
-CURRENT,object_hyperspacecollector,2448,Hyperspace Scoop,Scoop de l'hyperespace
-CURRENT,object_hyperspacecollector_description,2448,"The Hyperspace Scoop sits at the front of a starship and faces the direction of travel. During hyperspace a strong magnetic field is projected forward, drawing in large volumes of interstellar matter. The isotopes gathered this way can be refined into FTL Fuel.","L'Hyperspace Scoop se trouve à l'avant d'un vaisseau spatial et fait face à la direction du déplacement. Durant l'hyperespace, un puissant champ magnétique est projeté vers l'avant, attirant de grands volumes de matière interstellaire. Les isotopes ainsi collectés peuvent être raffinés en carburant FTL."
+CURRENT,object_hyperspacecollector,2448,Hyperspace Scoop,Extracteur hyperspatial
+CURRENT,object_hyperspacecollector_description,2448,"The Hyperspace Scoop sits at the front of a starship and faces the direction of travel. During hyperspace a strong magnetic field is projected forward, drawing in large volumes of interstellar matter. The isotopes gathered this way can be refined into FTL Fuel.","L'extracteur hyperspatial se trouve à l'avant d'un vaisseau spatial et fait face à la direction du déplacement. Durant l'hyperespace, un puissant champ magnétique est projeté vers l'avant, attirant de grands volumes de matière interstellaire. Les isotopes ainsi collectés peuvent être raffinés en carburant FTL."
 CURRENT,object_munitionsfactory,2448,Munitions Bench,Banc de munitions
 CURRENT,object_munitionsfactory_description,2448,"A workbench where a skilled crew member can fabricate different forms of ammunition for ship weapon systems. Uses metal and explosives to produce Bullets, Railgun Slugs, Cannon Shells etc.","Un établi où un membre d'équipage qualifié peut fabriquer différentes formes de munitions pour les systèmes d'armes des vaisseaux. Utilise du métal et des explosifs pour produire des balles, des balles de railgun, des obus de canon, etc."
 CURRENT,object_hydroponics,2448,Hydroponic Garden,Jardin hydroponique
@@ -2372,7 +2487,7 @@ CURRENT,alert_type_powercut,2448,POWER CUT,COUPURE DE COURANT
 CURRENT,alert_type_powercut_nofuel,2448,Fuel supply interrupted,Alimentation en carburant interrompue
 CURRENT,alert_type_powercut_tooltip,2448,Your reactor has cut out. It is likely the fuel supply has been interrupted.  Consider using storage tanks to create a permanent store of fuel for your Reactor to draw from.,Votre réacteur s'est arrêté. Il est probable que l'approvisionnement en carburant ait été interrompu.  Pensez à utiliser des réservoirs de stockage pour créer une réserve permanente de carburant dans laquelle votre réacteur pourra puiser.
 CURRENT,alert_type_nostorage,2448,NO STORAGE,PAS DE STOCKAGE
-CURRENT,warning_unbreathable,2448,UNBREATHABLE,IRRESSABLE
+CURRENT,warning_unbreathable,2448,UNBREATHABLE,IRRESPIRABLE
 CURRENT,warning_suitsrequired,2448,SPACESUITS REQUIRED,COMBINAISON SPATIALE REQUISE
 CURRENT,warning_deliveryblocked,2448,DELIVERY BLOCKED,LIVRAISON BLOQUÉE
 CURRENT,warning_storagerequired,2448,CREATE STORAGE ZONES,MANQUE DE STOCKAGE
@@ -2548,7 +2663,6 @@ CURRENT,wolf_part1_recorderhint,2448,The flight recorder should be near the dere
 CURRENT,wolf_part1_dronehint,2448,Your ship will need a drone bay and drones to collect the flight recorder.,Votre vaisseau aura besoin d'une baie de drones et de drones pour récupérer l'enregistreur de vol.
 CURRENT,wolf_part1_completion1,2448,"We've analysed the black box recordings and the evidence is already pretty clear.  There's a pirate vessel out there somewhere, preying on high value commercial vessels.  They wait in silence, until the ship is alone, isolated, and defenseless.  They come out of nowhere and attack without warning, and before anybody can respond they've destroyed the ship and looted the cargo.","Nous avons analysé les enregistrements de la boîte noire et les preuves sont déjà assez claires. Il y a un navire pirate quelque part qui s’attaque aux navires commerciaux de grande valeur. Ils attendent en silence jusqu’à ce que le navire soit seul, isolé et sans défense. Ils surgissent de nulle part et attaquent sans sommation, et avant que quiconque puisse réagir, ils ont déjà détruit le navire et pillé la cargaison."
 CURRENT,wolf_part1_completion2,2448,Most likely to be sold for vast profits to the Stargate Project - who don't seem keen to ask questions.,Très probablement vendu pour d'énormes profits au projet Stargate - qui ne semble pas disposé à poser de questions.
-CURRENT,wolf_part1_completion3,2448,So far they haven't left a single living witness. But the sensor data tells the full story. We've manged to extract another sensor image of the attacker.,"Jusqu’à présent, ils n’ont laissé aucun témoin vivant. Mais les données des capteurs racontent toute l’histoire. Nous avons réussi à extraire une autre image de capteur de l'attaquant."
 CURRENT,wolf_part1_completion4,2448,"It's another grainy photograph, but it's all we have to go on.  This is without doubt the vessel responsible for all this death and destruction.","C'est à nouveau une photo granuleuse, mais c'est tout ce dont nous avons besoin.  C'est sans aucun doute le vaisseau responsable de toutes ces morts."
 CURRENT,wolf_part1_completion6,2448,"In the mean time, we suggest you tend to your ships. If you've taken damage, you can repair the hull at any SHIPYARD. Use the funds we've sent to upgrade your defenses.","En attendant, nous vous suggérons de vous occuper de vos vaisseaux. Si vous avez subi des dégâts, vous pouvez réparer la coque dans n'importe quel CHANTIER SPACTIAL. Utilisez les fonds que nous vous avons envoyés pour améliorer vos défenses."
 CURRENT,wolf_character_ryker,2448,Captain Amelia Ryker,Capitaine Amélia Ryker
@@ -2597,7 +2711,7 @@ CURRENT,blackhole_objective_isotopes,2448,Collect Hyperspace Isotopes [*X/*Y],Co
 CURRENT,blackhole_objective_containers,2448,Unload the Hyperspace Isotopes into Containers [*X/*Y]. *Z Containers used,Déchargez les isotopes de l'hyperespace dans des conteneurs [*X/*Y]. *Z Conteneurs utilisés
 CURRENT,blackhole_objective_modulators,2448,Manufacture Hyperspace Modulators [*X/*Y],Fabriquer des modulateurs hyperspatiaux [*X/*Y]
 CURRENT,blackhole_part1_hintisotopes1,2448,Looks like you have a Hyperspace Scoop!  You can use this to gather the Hyperspace Isotopes I need.,On dirait que vous avez un Collecteur Hyperspatial !  Vous pouvez l'utiliser pour rassembler les isotopes hyperespaciaux dont j'ai besoin.
-CURRENT,blackhole_part1_hintisotopes2,2448,"You'll need to install the Scoop facing forward on the front of your ship, then connect its pipe output to a storage tank, then connect its pipe output to a storage tank.","Vous devrez installer le Collecteur orienté vers l’avant, à la proue de votre vaisseau, puis connecter sa sortie de tuyauterie à un réservoir de stockage."
+CURRENT,blackhole_part1_hintisotopes2,2448,"You'll need to install the Scoop facing forward on the front of your ship, then connect its pipe output to a storage tank.", then connect its pipe output to a storage tank.
 CURRENT,blackhole_part1_hintisotopes3,2448,The Scoop works only when you are in hyperspace. So you'll need to gather the isotopes over a few FTL jumps.,Le Collecteur ne fonctionne que lorsque vous êtes en hyperespace. Vous devrez donc rassembler les isotopes en quelques sauts FTL.
 CURRENT,blackhole_part1_hintunloading1,2448,You've collected some Hyperspace Isotopes in a tank! You'll need to pump them into Containers so we can easily move them between ships.,Vous avez collecté des isotopes de l'hyperespace dans un réservoir ! Vous devrez les pomper dans des conteneurs afin que nous puissions les déplacer facilement entre les vaisseaux.
 CURRENT,blackhole_part1_hintunloading2,2448,"Buy a LOADER from any trade post and install it near your Hyperspace Isotope tanks. Connect the pipes, and set the loader to 'UNLOAD'.",Achetez un CHARGEUR dans n'importe quel poste commercial et installez-le près de vos réservoirs d'isotopes hyperspatiaux. Connectez les tuyaux et réglez le chargeur sur « DÉCHARGER ».
@@ -2797,7 +2911,7 @@ CURRENT,tiddlets_part2_finalexperiment5,2448,Get into position and make the long
 CURRENT,tiddlets_part2_objective_longjump,2448,Make a jump longer than the Tiddlet safe distance,Faites un saut plus long que la distance de sécurité Tiddlet
 CURRENT,tiddlets_part2_return1,2448,*X of the Tiddlets appear to have perished.,*X des Tiddlets semblent avoir péri.
 CURRENT,tiddlets_part2_return3,2448,The sensor data suggests the telepathic mating ritual does begin during the longer jump.  But the telepathic energy induced between them produces so much heat at their core that they ultimately catch fire and burn out from the inside.,Les données du capteur suggèrent que le rituel d'accouplement télépathique commence pendant le saut le plus long.  Mais l’énergie télépathique induite entre eux produit tellement de chaleur en leur sein qu’ils finissent par prendre feu et s’éteindre de l’intérieur.
-CURRENT,tiddlets_part2_return4,2448,One can only imagine what that must feel like.,On ne peut qu’imaginer ce que cela doit ressembler.
+CURRENT,tiddlets_part2_return4,2448,One can only imagine what that must feel like.,On ne peut qu’imaginer ce que cela doit faire.
 CURRENT,tiddlets_part2_objective_return1,2448,Return the Tiddlets to the Institute,Ramenez les Tiddlets à l'Institut
 CURRENT,tiddlets_part2_objective_return2,2448,Return the bodies to the Institute,Restituer les corps à l'Institut
 CURRENT,tiddlets_part2_debrief1,2448,"We've made another interesting discovery!  Our sensors were correct, and it appears some type of tiny crystal has been formed at the core of several of the dead creatures.  Almost like a small diamond.",Nous avons fait une autre découverte intéressante !  Nos capteurs étaient corrects et il semble qu’une sorte de minuscule cristal se soit formé au cœur de plusieurs créatures mortes.  Presque comme un petit diamant.
@@ -2839,7 +2953,7 @@ CURRENT,tiddlets_part3_martinez_callagain,2448,Contact Dr. Martinez again,Contac
 CURRENT,tiddlets_part3_swanson_return1,2448,"Our plan is simple, Captain.  We found during your excellent field work that the Tiddlets will still reproduce, even with an incredibly short FTL jump.","Notre plan est simple, Capitaine.  Nous avons constaté lors de votre excellent travail sur le terrain que les Tiddlets se reproduisent toujours, même avec un saut FTL incroyablement court."
 CURRENT,tiddlets_part3_swanson_return2,2448,The ship you just purchased has a specially modified FTL Hop Drive.  We can use it to make very short jumps and trigger the hyperspace reproductive process among the Tiddlets.,Le vaisseau que vous venez d'acheter possède un moteur FTL spécialement modifié.  Nous pouvons l'utiliser pour effectuer des sauts très courts et déclencher le processus de reproduction hyperspatiale parmi les Tiddlets.
 CURRENT,tiddlets_part3_swanson_return3,2448,"We want you to pair the Hop Drive ship with our Tiddlet Farm vessel, and activate the short range hop drive.  You won't even need to leave the system.  If our calculations are correct, we should see an instant result.","Nous voulons que vous associiez le vaisseau Hop Drive à notre vaisseau Tiddlet Farm et que vous activiez le hop drive à courte portée.  Vous n'aurez même pas besoin de quitter le système.  Si nos calculs sont corrects, nous devrions voir un résultat instantané."
-CURRENT,tiddlets_part3_objective_flyclose,2448,Fly L*X close to the Tiddlet farm ship,Volez L*X près du vaisseau agricole Tiddlet
+CURRENT,tiddlets_part3_objective_flyclose,2448,Fly L*X close to the Tiddlet farm ship,Approchez L*X du vaisseau d’élevage de tiddlets
 CURRENT,tiddlets_part3_objective_activate,2448,Activate the Hop Drive,Activer le moteur de saut
 CURRENT,tiddlets_part3_objective_farmcount,2448,*X Tiddlets on the farm ship,*X Tiddlets sur le vaisseau d'élevage
 CURRENT,tiddlets_part3_action_localhop,2448,Activate Hop Drive,Activer Hop Drive
@@ -2848,7 +2962,7 @@ CURRENT,tiddlets_part3_action_localhop_info2,2448,No Charge Loaded,Aucune rechar
 CURRENT,tiddlets_part3_action_localhop_info3,2448,No Charges on Ship,Aucune recharge à bord du vaisseau
 CURRENT,tiddlets_part3_action_localhop_info4,2448,No Hop Drive Found,Aucun moteur de saut trouvé
 CURRENT,tiddlets_part3_objective_hops,2448,Perform more Hyperspace hops [*X/3],Effectuer plus de sauts Hyperspace [*X/3]
-CURRENT,tiddlets_part3_batteryfarm,2448,"Yes!  I knew this would work!  We can battery farm the tiddlets, in huge quantities, right here in this system!  Keep going.  We need more!","Oui!  Je savais que ça marcherait !  Nous pouvons cultiver les tiddlets en batterie, en quantités énormes, ici même dans ce système !  Continuez.  Il nous en faut plus !"
+CURRENT,tiddlets_part3_batteryfarm,2448,"Yes!  I knew this would work!  We can battery farm the tiddlets, in huge quantities, right here in this system!  Keep going.  We need more!","Oui ! Je savais que ça marcherait ! Nous pouvons exploiter les tiddlets en batterie, en quantités énormes, ici même dans ce système !  Continuez. Il nous en faut plus !"
 CURRENT,tiddlets_part3_swanson_random1,2448,Yes!,Oui!
 CURRENT,tiddlets_part3_swanson_random2,2448,More!,Plus!
 CURRENT,tiddlets_part3_swanson_random3,2448,Keep going!,Continue!
@@ -3071,21 +3185,21 @@ CURRENT,dsi_part2_objective_unloadisotopes,2448,Begin unloading barrels of Stabl
 CURRENT,dsi_part2_secondpartcomplete1,2448,"I'm sure you've noticed, we're making a small fortune from all of this.  Truth be told, I'm not really doing this for the revenue.  I already have more than I can ever spend.  But I'm running out of time.  The Doctors have made that clear to me.", we're making a small fortune from all of this.  Truth be told
 CURRENT,dsi_part2_secondpartcomplete2,2448,"I've been around quite a few years.  I've had my share of success, built my empire, my fortune.  I live a comfortable life.  But I find myself thinking more and more about what I want to do with the time I have left.", built my empire
 CURRENT,dsi_part2_secondpartcomplete3,2448,I just want to be the first at something huge.  The first person to visit another galaxy.  Alexander James Elistar.  That's a name that people would remember.,Je veux simplement être le premier à accomplir quelque chose d’immense. Le premier à visiter une autre galaxie. Alexander James Elistar. Voilà un nom dont les gens se souviendraient.
-CURRENT,dsi_part2_scene_x1,2448,There's a situation brewing at our factory in the asteroid belt.  You'd better take a look.,Une situation est en train de dégénérer dans notre usine spatiale de la ceinture d’astéroïdes. Vous feriez mieux d’aller voir.
-CURRENT,dsi_part2_scene_y1,2448,Is he in there?  Alexander?  Where is he?,Il est là-dedans ? Alexander ? Où est-il ?
-CURRENT,dsi_part2_scene_y2,2448,I'm not going to ask again.  I demand to speak to Alexander Elistar.  Immediately!  I am armed!,Je ne vais pas demander à nouveau.  J'exige de parler à Alexander Elistar.  Immédiatement!  Je suis armé !
+CURRENT,dsi_part2_scene_x1,2448,There's a situation brewing at our factory in the asteroid belt.  You'd better take a look.,Il y a quelque chose qui se prépare dans notre usine de la ceinture d'astéroïdes. Vous feriez mieux d'y jeter un œil.
+CURRENT,dsi_part2_scene_y1,2448,Is he in there?  Alexander?  Where is he?,Est-il là-dedans ? Alexandre ? Où est-il ?
+CURRENT,dsi_part2_scene_y2,2448,I'm not going to ask again.  I demand to speak to Alexander Elistar.  Immediately!  I am armed!,Je ne le répéterai pas. J'exige de parler à Alexander Elistar. Immédiatement ! Je suis armé !
 CURRENT,dsi_part2_scene_x2,2448,I'll talk to him.,Je vais lui parler.
-CURRENT,dsi_part2_scene_x3,2448,Raymond.  It's been quite a while.  How have you been?,Raymond. Ça fait un bon moment. Comment allez-vous ?
-CURRENT,dsi_part2_scene_y3,2448,How have I been?  You know exactly how I've been.  I'm here to collect my share.,Comment je vais?  Vous savez très bien comment je vais.  Je suis là pour récupérer ma part.
-CURRENT,dsi_part2_scene_x4,2448,"Captain, I'll take care of this.  My private security are on their way.  I'll keep him talking, but there's no need for bloodshed.","Capitaine, je vais m'occuper de ça.  Ma sécurité privée est en route.  Je vais le faire parler, mais il n'y a pas besoin d'effusion de sang."
-CURRENT,dsi_part2_scene_y4,2448,"The designs were mine.  The patents were mine!  All of this, it's all built on my work.", it's all built on my work.
-CURRENT,dsi_part2_scene_x5,2448,You were compensated for your work Raymond.  You signed the contract.,Vous avez été rémunéré pour votre travail Raymond.  Vous avez signé le contrat.
+CURRENT,dsi_part2_scene_x3,2448,Raymond.  It's been quite a while.  How have you been?,Raymond.  Cela fait un bon moment.  Comment vas-tu ?
+CURRENT,dsi_part2_scene_y3,2448,How have I been?  You know exactly how I've been.  I'm here to collect my share.,Comment je vais ? Tu sais exactement comment je vais. Je suis là pour récupérer ma part.
+CURRENT,dsi_part2_scene_x4,2448,"Captain, I'll take care of this.  My private security are on their way.  I'll keep him talking, but there's no need for bloodshed.","Capitaine, je vais m'occuper de ça.  Ma sécurité privée est en route.  Je vais continuer de lui parler, mais il n'y a pas besoin de bain de sang."
+CURRENT,dsi_part2_scene_y4,2448,"The designs were mine.  The patents were mine!  All of this, it's all built on my work.","Les dessins étaient les miens. Les brevets étaient à moi ! Tout cela, tout est construit sur mon travail."
+CURRENT,dsi_part2_scene_x5,2448,You were compensated for your work Raymond.  You signed the contract.,Vous avez été rémunéré pour votre travail Raymond. Vous avez signé le contrat.
 CURRENT,dsi_part2_scene_y5,2448,"For pennies!  You screwed me, and now it's worth millions!", and now it's worth millions!
-CURRENT,dsi_part2_scene_y6,2448,"I want my share.  Deal me in.  10% ownership of this new venture of yours.  I'm being reasonable, but the law is on my side.  Don't make me shut you down Alexander.", but the law is on my side.  Don't make me shut you down Alexander.
-CURRENT,dsi_part2_scene_z1,2448,"This is Private Security vessel DOGMA, under exclusive contract to A.J.E Industries.", under exclusive contract to A.J.E Industries.
+CURRENT,dsi_part2_scene_y6,2448,"I want my share.  Deal me in.  10% ownership of this new venture of yours.  I'm being reasonable, but the law is on my side.  Don't make me shut you down Alexander.","Je veux ma part. Donne-moi 10 % de ton entreprise. Je suis raisonnable, mais la loi est de mon côté. Ne m’oblige pas à te faire taire, Alexander."
+CURRENT,dsi_part2_scene_z1,2448,"This is Private Security vessel DOGMA, under exclusive contract to A.J.E Industries.","Ici le vaisseau de sécurité privée DOGMA, sous contrat avec A.J.E Industries."
 CURRENT,dsi_part2_scene_z2,2448,You are operating in a dangerous and threatening manner in the vicinity of an A.J.E corporate facility.,Vous opérez de manière dangereuse et menaçante à proximité d'un site de l'entreprise A.J.E.
-CURRENT,dsi_part2_scene_z3,2448,You are ordered to stand down and withdraw immediately.,Vous avez l’ordre de cesser immédiatement et de vous retirer.
-CURRENT,dsi_part2_scene_z4,2448,We are authorised by deep space convention in the use of deadly force in defense of our client's assets.,"Nous sommes autorisés, en vertu de la Convention de l’Espace profond, à recourir à la force létale pour défendre les actifs de notre client."
+CURRENT,dsi_part2_scene_z3,2448,You are ordered to stand down and withdraw immediately.,Retirez-vous immédiatement !
+CURRENT,dsi_part2_scene_z4,2448,We are authorised by deep space convention in the use of deadly force in defense of our client's assets.,Nous sommes autorisés par la convention sur l'espace lointain à utiliser la force létale pour défendre les actifs de nos clients.
 CURRENT,dsi_part2_scene_z5,2448,THERE WILL BE NO FURTHER WARNING.,IL N'Y AURA AUCUN AUTRE AVERTISSEMENT.
 CURRENT,dsi_part2_scene_y7,2448,You've left me no choice.,Vous ne m'avez pas laissé le choix.
 CURRENT,dsi_part2_scene_y8,2448,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.", and this time I'm not asking for 10%. I want it all.
@@ -3164,7 +3278,7 @@ OBSOLETE,tutorial_ftlintro,2448,We cannot deliver those passengers to their dest
 OBSOLETE,tutorial_ftltradescreen,2886,Open the trade screen to purchase an <b>FTL</b> drive.,Ouvrez l'écran de commerce pour acheter un lecteur <b>FTL</b>.
 OBSOLETE,tutorial_ftltradescreen,2448,Open the trade screen to purchase an FTL drive.,Ouvrez l'écran d'échange pour acheter un lecteur FTL.
 OBSOLETE,stargate_power_fraction,2624,SUPPLIED:\n*X MW / *Y MW,FOURNI :\n*X MW / *Y MW
-OBSOLETE,newmainmenu_includedocked,2448,INCLUDE DOCKED SHIPS IN EXPORT,INCLURE LES VAISSEAUX À QUAI DANS L'EXPORTATION
+OBSOLETE,newmainmenu_includedocked,2448,INCLUDE DOCKED SHIPS IN EXPORT,INCLURE LES NAVIRES À QUAI DANS L'EXPORTATION
 OBSOLETE,hud_layer_hostile,2448,HOSTILE,HOSTILE
 OBSOLETE,hud_layer_derelict,2448,DERELICT,ABANDONNÉ
 OBSOLETE,hud_layer_forsale,2448,[FOR SALE],[À VENDRE]
@@ -3195,17 +3309,17 @@ OBSOLETE,tutorial_dsiclosedismantle,2448,We can stop dismantling by clicking the
 OBSOLETE,tutorial_cameracontrols,2475,"Use {PanUp1}{PanLeft1}{PanDown1}{PanRight1} or the ARROW KEYS to move the view around.\n\nZoom the view using the MOUSE WHEEL, or {ZoomIn}/{ZoomOut} on the keyboard.\n\nDrag the view by holding the MIDDLE MOUSE BUTTON.",Utilisez {PanUp1}{PanLeft1}{PanDown1}{PanRight1} ou les TOUCHES FLÉCHÉES pour déplacer la vue.\n\nZoomez sur la vue à l'aide de la MOLETTE DE LA SOURIS ou de {ZoomIn}/{ZoomOut} sur le clavier.\n\nFaites glisser la vue en maintenant enfoncé le BOUTON DU MILIEU DE LA SOURIS.
 OBSOLETE,tutorial_cameracontrols,2448,"Use WASD or the ARROW KEYS to move the view around.\n\nZoom the view using the MOUSE WHEEL, or Q/E on the keyboard.\n\nDrag the view by holding the MIDDLE MOUSE BUTTON.",Utilisez ~W~A~S~D ou les FLÈCHES pour déplacer la vue.\n\nZoomez sur la vue à l'aide de la MOLETTE DE LA SOURIS ou de ~Q/~E sur le clavier.\n\nFaites glisser la vue en maintenant enfoncé le BOUTON DU MILIEU DE LA SOURIS.
 OBSOLETE,tutorial_flighttactical,2475,"We should give our engines a small test flight.  To maneuver our ship, switch into TACTICAL mode by clicking the highlighted button, or pressing {ToggleTactical}.","Nous devrions faire un petit vol d’essai à nos moteurs.  Pour manœuvrer notre vaisseau, passez en mode TACTIQUE en cliquant sur le bouton en surbrillance ou en appuyant sur {ToggleTactical}."
-OBSOLETE,tutorial_flighttactical,2448,"We should give our engines a small test flight.  To maneuver our ship, switch into TACTICAL mode by clicking the highlighted button, or pressing T.","Nous devrions faire un petit vol d’essai à nos moteurs.  Pour manœuvrer notre vaisseau, passez en mode TACTIQUE en cliquant sur le bouton en surbrillance ou en appuyant sur T."
+OBSOLETE,tutorial_flighttactical,2448,"We should give our engines a small test flight.  To maneuver our ship, switch into TACTICAL mode by clicking the highlighted button, or pressing T.","Nous devrions faire un petit vol d’essai à nos moteurs.  Pour manœuvrer notre navire, passez en mode TACTIQUE en cliquant sur le bouton en surbrillance ou en appuyant sur T."
 OBSOLETE,tutorial_flightexittactical,2475,"Exit TACTICAL mode by clicking the button again, or pressing {ToggleTactical}.",Quittez le mode TACTIQUE en cliquant à nouveau sur le bouton ou en appuyant sur {ToggleTactical}.
 OBSOLETE,tutorial_flightexittactical,2448,"Exit TACTICAL mode by clicking the button again, or pressing T.",Quittez le mode TACTIQUE en cliquant à nouveau sur le bouton ou en appuyant sur T.
 OBSOLETE,tutorial_dockingswitchtotactical,2475,"To get started, switch to TACTICAL mode by clicking the button or pressing {ToggleTactical}.","Pour commencer, passez en mode TACTIQUE en cliquant sur le bouton ou en appuyant sur {ToggleTactical}."
 OBSOLETE,tutorial_dockingswitchtotactical,2448,"To get started, switch to TACTICAL mode by clicking the button or pressing T.","Pour commencer, passez en mode TACTIQUE en cliquant sur le bouton ou en appuyant sur T."
-OBSOLETE,tutorial_dockingmaneuverkeys,2475,"Use the Maneuvering controls to move the ship into position.\n\nYou can also use the keys {ManoeuvreUp}, {ManoeuvreLeft}, {ManoeuvreDown}, {ManoeuvreRight} to move, and {ManoeuvreClockwise} and {ManoeuvreCounterClockwise} to rotate the ship.","Utilisez les commandes de manœuvre pour mettre le vaisseau en position.\n\nVous pouvez également utiliser les touches {ManoeuvreUp}, {ManoeuvreLeft}, {ManoeuvreDown}, {ManoeuvreRight} pour vous déplacer, et {ManoeuvreClockwise} et {ManoeuvreCounterClockwise} pour faire pivoter le vaisseau."
+OBSOLETE,tutorial_dockingmaneuverkeys,2475,"Use the Maneuvering controls to move the ship into position.\n\nYou can also use the keys {ManoeuvreUp}, {ManoeuvreLeft}, {ManoeuvreDown}, {ManoeuvreRight} to move, and {ManoeuvreClockwise} and {ManoeuvreCounterClockwise} to rotate the ship.","Utilisez les commandes de manœuvre pour mettre le navire en position.\n\nVous pouvez également utiliser les touches {ManoeuvreUp}, {ManoeuvreLeft}, {ManoeuvreDown}, {ManoeuvreRight} pour vous déplacer, et {ManoeuvreClockwise} et {ManoeuvreCounterClockwise} pour faire pivoter le navire."
 OBSOLETE,tutorial_dockingmaneuverkeys,2448,"Use the Maneuvering controls to move the ship into position.\n\nYou can also use the keys I, J, K, L to move, and O and U to rotate the ship.","Utilisez les commandes de manœuvre pour mettre le vaisseau en position.\n\nVous pouvez également utiliser les touches I, J, K, L pour vous déplacer, et O et U pour faire pivoter le vaisseau."
 OBSOLETE,tutorial_miningopenmap,2475,Now open the sector map ({ToggleMap}).,Ouvrez maintenant la carte du secteur ({ToggleMap}).
 OBSOLETE,tutorial_miningopenmap,2448,Now open the sector map (M).,Ouvrez maintenant la carte du secteur (M).
 OBSOLETE,tutorial_buy_shiftclick,2448,NOTE: You can SHIFT CLICK to buy in multiples of 5.,REMARQUE : Vous pouvez MAJ-CLIQUER pour acheter par multiples de 5.
-OBSOLETE,tutorial_introduction2,2448,"This vessel is fresh out of the shipyard production line.\n\nIt's just an empty hull right now, without power or a breathable atmosphere. Our first job is to fix that.\n\nClick NEXT to continue.","Ce vaisseau vient tout juste de sortir de la chaîne de production du chantier naval.\n\nC'est juste une coque vide pour le moment, sans électricité ni atmosphère respirable. Notre premier travail consiste à résoudre ce problème.\n\nCliquez sur SUIVANT pour continuer."
+OBSOLETE,tutorial_introduction2,2448,"This vessel is fresh out of the shipyard production line.\n\nIt's just an empty hull right now, without power or a breathable atmosphere. Our first job is to fix that.\n\nClick NEXT to continue.","Ce navire vient tout juste de sortir de la chaîne de production du chantier naval.\n\nC'est juste une coque vide pour le moment, sans électricité ni atmosphère respirable. Notre premier travail consiste à résoudre ce problème.\n\nCliquez sur SUIVANT pour continuer."
 OBSOLETE,tutorial_powerinstallmenu,2448,"Let's begin by installing a REACTOR, to generate power for our ship.\n\nClick into the CONSTRUCTION menu, then click INSTALL.","Commençons par installer un RÉACTEUR, pour générer de l'énergie pour notre vaisseau.\n\nCliquez sur le menu CONSTRUCTION, puis cliquez sur INSTALLER."
 OBSOLETE,tutorial_powerselectreactor,2448,This is all the boxed equipment you have available on-board.\n\nSelect REACTOR from the list.,Il s'agit de tout l'équipement en boîte dont vous disposez à bord.\n\nSélectionnez REACTOR dans la liste.
 OBSOLETE,tutorial_powerplacereactor,2448,Stamp the REACTOR down inside your ship.,Tamponnez le RÉACTEUR à l’intérieur de votre vaisseau.
@@ -3263,11 +3377,11 @@ OBSOLETE,tutorial_fleetspacesuits,2448,Those crew will also need SPACESUITS as t
 OBSOLETE,tutorial_fleettradeconfirm,2448,CONFIRM the trade.,CONFIRMEZ l'échange.
 OBSOLETE,tutorial_fleetresources,2448,We also need resources for the ship to function.\n\nUse the TRADE screen to buy:\n- 5x FUEL\n- 5x OXYGEN\n- 5x FTL CHARGE\n- 2x FOOD\n- 2x WATER.\n\nCONFIRM the trade when you are done.,Nous avons également besoin de ressources pour que le vaisseau fonctionne.\n\nUtilise l'écran COMMERCE pour acheter :\n- 5x FUEL\n- 5x OXYGÈNE\n- 5x CHARGE FTL\n- 2 fois de la nourriture\n- 2 fois de l'eau.\n\nCONFIRME l'échange lorsque tu as terminé.
 OBSOLETE,tutorial_flightengines,2448,We can directly control our engine THROTTLE from here.\n\nTry increasing your engine throttle with this control.,Nous pouvons contrôler directement l'accélérateur de notre moteur à partir d'ici.\n\nEssayez d'augmenter l'accélérateur de votre moteur avec cette commande.
-OBSOLETE,tutorial_flightturning,2448,"We can also turn the ship by left clicking in TACTICAL mode, in the direction we wish to travel.","Nous pouvons également faire tourner le vaisseau en cliquant avec le bouton gauche en mode TACTIQUE, dans la direction dans laquelle nous souhaitons voyager."
-OBSOLETE,tutorial_flightsetcourse,2448,We can send our ship to a specific location by RIGHT-CLICKING. Try setting a destination by right clicking in the tactical view.,Nous pouvons envoyer notre vaisseau à un endroit spécifique en cliquant avec le bouton droit. Essayez de définir une destination en cliquant avec le bouton droit dans la vue tactique.
-OBSOLETE,tutorial_flightinformation,2448,"Your crew will continue to operate the ship and keep the engines running as you travel around. Try flying around the system until you have a handle on the controls.\n\nWhen you are ready, bring the ship to a stop by setting the THROTTLE to zero in TACTICAL mode.","Votre équipage continuera à faire fonctionner le vaisseau et à faire fonctionner les moteurs pendant vos déplacements. Essayez de voler autour du système jusqu'à ce que vous maîtrisiez les commandes.\n\nLorsque vous êtes prêt, arrêtez le vaisseau en réglant l'accélérateur à zéro en mode TACTIQUE."
-OBSOLETE,tutorial_financemissionscreen,2448,"Now that our ship is up and running, we need to earn our way.  We can complete contracts for financial reward and reputation.\n\nOpen the CONTRACTS screen to see a list of available contracts.","Maintenant que notre vaisseau est opérationnel, nous devons gagner notre vie.  Nous pouvons conclure des contrats contre une récompense financière et une réputation.\n\nOuvrez l'écran CONTRATS pour voir une liste des contrats disponibles."
-OBSOLETE,tutorial_financeselectship,2448,"Contracts are assigned to the ship you currently have selected.\n\nOnly the PROCYON can travel between locations, so select the PROCYON.","Les contrats sont attribués au vaisseau que vous avez actuellement sélectionné.\n\nSeul le PROCYON peut voyager entre les emplacements, alors sélectionnez le PROCYON."
+OBSOLETE,tutorial_flightturning,2448,"We can also turn the ship by left clicking in TACTICAL mode, in the direction we wish to travel.","Nous pouvons également faire tourner le navire en cliquant avec le bouton gauche en mode TACTIQUE, dans la direction dans laquelle nous souhaitons voyager."
+OBSOLETE,tutorial_flightsetcourse,2448,We can send our ship to a specific location by RIGHT-CLICKING. Try setting a destination by right clicking in the tactical view.,Nous pouvons envoyer notre navire à un endroit spécifique en cliquant avec le bouton droit. Essayez de définir une destination en cliquant avec le bouton droit dans la vue tactique.
+OBSOLETE,tutorial_flightinformation,2448,"Your crew will continue to operate the ship and keep the engines running as you travel around. Try flying around the system until you have a handle on the controls.\n\nWhen you are ready, bring the ship to a stop by setting the THROTTLE to zero in TACTICAL mode.","Votre équipage continuera à faire fonctionner le navire et à faire fonctionner les moteurs pendant vos déplacements. Essayez de voler autour du système jusqu'à ce que vous maîtrisiez les commandes.\n\nLorsque vous êtes prêt, arrêtez le vaisseau en réglant l'accélérateur à zéro en mode TACTIQUE."
+OBSOLETE,tutorial_financemissionscreen,2448,"Now that our ship is up and running, we need to earn our way.  We can complete contracts for financial reward and reputation.\n\nOpen the CONTRACTS screen to see a list of available contracts.","Maintenant que notre navire est opérationnel, nous devons gagner notre vie.  Nous pouvons conclure des contrats contre une récompense financière et une réputation.\n\nOuvrez l'écran CONTRATS pour voir une liste des contrats disponibles."
+OBSOLETE,tutorial_financeselectship,2448,"Contracts are assigned to the ship you currently have selected.\n\nOnly the PROCYON can travel between locations, so select the PROCYON.","Les contrats sont attribués au navire que vous avez actuellement sélectionné.\n\nSeul le PROCYON peut voyager entre les emplacements, alors sélectionnez le PROCYON."
 OBSOLETE,tutorial_financeselecttransport,2448,"Here we have a TRANSPORT PASSENGER contract, click it to see more details.","Nous avons ici un contrat TRANSPORT PASSAGER, cliquez dessus pour voir plus de détails."
 OBSOLETE,tutorial_financeassigntransport,2448,This mission requires us to transport a group of people from here to another location in the sector.\n\nClick the accept button to assign this contract to the PROCYON.,Cette mission nous oblige à transporter un groupe de personnes d'ici vers un autre endroit du secteur.\n\nCliquez sur le bouton Accepter pour attribuer ce contrat au PROCYON.
 OBSOLETE,tutorial_financepassengersinbound,2448,The passengers will be delivered to the PROCYON by shuttle.,Les passagers seront livrés au PROCYON par navette.
@@ -3290,18 +3404,18 @@ OBSOLETE,tutorial_resinchemicallabrecipe,2448,Right click on the CHEMICAL LAB an
 OBSOLETE,tutorial_resinconnectgascollector,2448,Connect the GAS COLLECTOR to the REFINERY with a PIPE.,Connectez le COLLECTEUR DE GAZ à la RAFFINERIE avec un TUYAU.
 OBSOLETE,tutorial_resinconnectchemicallab,2448,Connect the REFINERY to the CHEMICAL LAB with a PIPE.,Connectez la RAFFINERIE au LABORATOIRE CHIMIQUE avec un TUYAU.
 OBSOLETE,tutorial_resinsuccess,2448,"Well done, you have started to produce STARGATE RESIN.\n\nWhen you have produced enough, travel back to any COLONY, SHIP YARD or the STARGATE system to sell it to the STARGATE PROJECT.","Bravo, vous avez commencé à produire de la RÉSINE STARGATE.\n\nLorsque vous en avez produit suffisamment, retournez dans n'importe quelle COLONIE, CHANTIER NAVAL ou dans le système STARGATE pour la vendre au PROJET STARGATE."
-OBSOLETE,tutorial_dockingcheckthrusters,2448,"In order to be able to dock successfully, your ship needs at least four working THRUSTERS.\n\nUse a different ship, or purchase and install four thrusters at a nearby trading post.","Pour pouvoir accoster avec succès, votre vaisseau a besoin d'au moins quatre propulseurs fonctionnels.\n\nUtilisez un autre vaisseau ou achetez et installez quatre propulseurs dans un poste commercial à proximité."
+OBSOLETE,tutorial_dockingcheckthrusters,2448,"In order to be able to dock successfully, your ship needs at least four working THRUSTERS.\n\nUse a different ship, or purchase and install four thrusters at a nearby trading post.","Pour pouvoir accoster avec succès, votre navire a besoin d'au moins quatre propulseurs fonctionnels.\n\nUtilisez un autre navire ou achetez et installez quatre propulseurs dans un poste commercial à proximité."
 OBSOLETE,tutorial_dockingzoomin,2448,Zoom in so that you can see the docking guides more clearly. They are RED diamonds extending from the docking ports.,Effectuez un zoom avant pour voir plus clairement les guides d'ancrage. Ce sont des diamants ROUGES s'étendant depuis les ports d'amarrage.
 OBSOLETE,tutorial_dockingopenmaneuver,2448,Open the MANEUVERING THRUSTER controls.,Ouvrez les commandes du PROPULSEUR DE MANŒUVRE.
-OBSOLETE,tutorial_dockingmaneuver,2448,"Use your THRUSTERS to maneuver your ship so that RED diamonds of your docking ports align with the docking port of the *X.\n\nWhen aligned correctly, they will both turn YELLOW.\n\nKeep the ships aligned until the docking bridge is fully extended.","Utilisez vos PROPULSEURS pour manœuvrer votre vaisseau afin que les diamants ROUGES de vos ports d'amarrage s'alignent avec le port d'amarrage du *X.\n\nUne fois alignés correctement, ils deviendront tous deux JAUNES.\n\nGardez les vaisseaux alignés jusqu'à ce que le pont d'amarrage soit entièrement déployé."
-OBSOLETE,tutorial_logisticscrewselectfrom,2448,Select the SOURCE ship that the crew will come FROM.,Sélectionnez le vaisseau SOURCE d'où viendra l'équipage.
-OBSOLETE,tutorial_logisticscrewclicktarget,2448,Click in the CREW cell of the DESTINATION ship to request 5 crew to transfer.,Cliquez dans la cellule CREW du vaisseau DESTINATION pour demander le transfert de 5 membres d'équipage.
+OBSOLETE,tutorial_dockingmaneuver,2448,"Use your THRUSTERS to maneuver your ship so that RED diamonds of your docking ports align with the docking port of the *X.\n\nWhen aligned correctly, they will both turn YELLOW.\n\nKeep the ships aligned until the docking bridge is fully extended.","Utilisez vos PROPULSEURS pour manœuvrer votre navire afin que les diamants ROUGES de vos ports d'amarrage s'alignent avec le port d'amarrage du *X.\n\nUne fois alignés correctement, ils deviendront tous deux JAUNES.\n\nGardez les navires alignés jusqu'à ce que le pont d'amarrage soit entièrement déployé."
+OBSOLETE,tutorial_logisticscrewselectfrom,2448,Select the SOURCE ship that the crew will come FROM.,Sélectionnez le navire SOURCE d'où viendra l'équipage.
+OBSOLETE,tutorial_logisticscrewclicktarget,2448,Click in the CREW cell of the DESTINATION ship to request 5 crew to transfer.,Cliquez dans la cellule CREW du navire DESTINATION pour demander le transfert de 5 membres d'équipage.
 OBSOLETE,tutorial_logisticscrewclicktarget_shiftclick,2448,NOTE: You can SHIFT CLICK to request transfer in multiples of 5.,REMARQUE : Vous pouvez MAJ-CLIQUER pour demander un transfert par multiples de 5.
-OBSOLETE,tutorial_combatselectcannon,2448,"Your guns can also target specific points on enemy ships.\n\nFirst, select which guns you would like to use.\n\nYou can SHIFT CLICK to select multiple guns.","Vos armes peuvent également cibler des points spécifiques sur les vaisseaux ennemis.\n\nTout d'abord, sélectionnez les armes que vous souhaitez utiliser.\n\nVous pouvez MAJ-CLIC pour sélectionner plusieurs armes."
+OBSOLETE,tutorial_combatselectcannon,2448,"Your guns can also target specific points on enemy ships.\n\nFirst, select which guns you would like to use.\n\nYou can SHIFT CLICK to select multiple guns.","Vos armes peuvent également cibler des points spécifiques sur les navires ennemis.\n\nTout d'abord, sélectionnez les armes que vous souhaitez utiliser.\n\nVous pouvez MAJ-CLIC pour sélectionner plusieurs armes."
 OBSOLETE,tutorial_combatbattlestations,2448,The effect of the EMP is wearing off!\n\nDeploy your weapons and make your crew ready to fight by clicking on BATTLE STATIONS.,L'effet de l'EMP s'estompe !\n\nDéployez vos armes et préparez votre équipage au combat en cliquant sur STATIONS DE COMBAT.
 OBSOLETE,tutorial_combatkeepmoving,2448,"Make sure to keep moving during combat, this increases your EVASION and makes you a harder target to hit.","Assurez-vous de continuer à bouger pendant le combat, cela augmente votre ÉVASION et fait de vous une cible plus difficile à atteindre."
 OBSOLETE,tutorial_mininginstalllaser,2448,You will need a Mining Laser. These use a lot of power so consider installing extra reactors or batteries.\n\nInstall a MINING LASER and connect it to the power grid.,"Vous aurez besoin d'un laser minier. Ceux-ci consomment beaucoup d'énergie, alors pensez à installer des réacteurs ou des batteries supplémentaires.\n\nInstallez un LASER MINIER et connectez-le au réseau électrique."
-OBSOLETE,tutorial_miningundock,2448,Make sure to UNDOCK from any other ship (from the TACTICAL screen).,Assurez-vous de vous désamarrer de tout autre vaisseau (depuis l'écran TACTIQUE).
+OBSOLETE,tutorial_miningundock,2448,Make sure to UNDOCK from any other ship (from the TACTICAL screen).,Assurez-vous de vous désamarrer de tout autre navire (depuis l'écran TACTIQUE).
 OBSOLETE,tutorial_miningflytosystem,2448,"Look at the rocks on the map, these indicate ASTEROID BELTS. \n\nFly to a system in an asteroid belt, it will probably contain Tilium Ore.","Regardez les rochers sur la carte, ils indiquent des CEINTURES D'ASTÉROÏDES. \n\nVolez vers un système dans une ceinture d'astéroïdes, il contiendra probablement du minerai de Tilium."
 OBSOLETE,tutorial_miningselectlaser,2448,"You can also target specific mineral patches.\n\nFirst, select which laser you would like to use.\n\nYou can SHIFT CLICK to select multiple lasers.","Vous pouvez également cibler des zones minérales spécifiques.\n\nTout d'abord, sélectionnez le laser que vous souhaitez utiliser.\n\nVous pouvez MAJ-CLIC pour sélectionner plusieurs lasers."
 OBSOLETE,tutorial_mininginstalldronebay,2448,Drones will collect mined resources.\n\nInstall a DRONE BAY so your drones can collect the Tilium Ore.,Les drones collecteront les ressources minées.\n\nInstallez une BAIE DE DRONE pour que vos drones puissent collecter le minerai de Tilium.
@@ -3335,14 +3449,14 @@ OBSOLETE,mission_combat_location,2448,The hostile ships are located at system *X
 OBSOLETE,mission_industry_description3,2448,"Luckily there is just such an asteroid belt nearby, within this sector, in system *X.","Heureusement, il existe une telle ceinture d'astéroïdes à proximité, dans ce secteur, dans le système *X."
 OBSOLETE,mission_sectordestroy_system,2448,You have destroyed the enemy forces in system *X. Payment of $*Y is coming your way.,Vous avez détruit les forces ennemies dans le système *X. Le paiement de $*Y arrive bientôt.
 OBSOLETE,mission_sectorrescue_description1,2448,Investigate a distress call in system *X.,Enquêtez sur un appel de détresse dans le système *X.
-OBSOLETE,object_engine_description,2448,The ships main source of forward thrust.  Must be supplied with Fuel (via a pipe) and Power (via a cable).,La principale source de poussée vers l’avant du vaisseau.  Doit être alimenté en carburant (via un tuyau) et en énergie (via un câble).
+OBSOLETE,object_engine_description,2448,The ships main source of forward thrust.  Must be supplied with Fuel (via a pipe) and Power (via a cable).,La principale source de poussée vers l’avant du navire.  Doit être alimenté en carburant (via un tuyau) et en énergie (via un câble).
 OBSOLETE,stargate_testfire_help,2448,Provide enough power to the stargate with energy transmitters to complete the testfire! Each transmitter beams up to 100MW to the stargate,Fournissez suffisamment de puissance à la porte des étoiles avec des émetteurs d'énergie pour terminer le tir d'essai ! Chaque émetteur rayonne jusqu'à 100 MW vers la porte des étoiles
 OBSOLETE,tutorial_wrapup3,2448,"Many different types of contract are now available to you.\n\nHowever, you must stay alert Captain. There are reports of even more lucrative opportunities that you'll have to find by yourself.","De nombreux types de contrats différents s'offrent désormais à vous.\n\nCependant, vous devez rester vigilant Capitaine. Il existe des rapports faisant état d'opportunités encore plus lucratives que vous devrez trouver par vous-même."
 OBSOLETE,tutorial_miningsuccess,2448,"Well done, you have produced Refined Tilium.","Bravo, vous avez produit du Tilium raffiné."
-OBSOLETE,calltoarms_harkenrailroad_2,2448,"There is a crisis underway Captain.  Commercial vessels are going missing, all across the sector.  I suspect foul play, and I need your help to investigate.","Il y a une crise en cours, Capitaine.  Des vaisseaux commerciaux disparaissent dans tout le secteur.  Je soupçonne un acte criminel et j'ai besoin de votre aide pour enquêter."
+OBSOLETE,calltoarms_harkenrailroad_2,2448,"There is a crisis underway Captain.  Commercial vessels are going missing, all across the sector.  I suspect foul play, and I need your help to investigate.","Il y a une crise en cours, Capitaine.  Des navires commerciaux disparaissent dans tout le secteur.  Je soupçonne un acte criminel et j'ai besoin de votre aide pour enquêter."
 OBSOLETE,calltoarms_harkenrailroad_6,2448,I've marked the location of the shipwreck on your map as a Gold Highlight.  Good luck Captain.,J'ai marqué l'emplacement de l'épave sur votre carte comme point culminant en or.  Bonne chance Capitaine.
-OBSOLETE,wolf_part1_sendingwreckage,2448,They're sending the recovered wreckage to your ship The L*X now Captain. It will arrive soon by Shuttle. You'll need to store it somewhere onboard.,"Ils envoient l'épave récupérée à votre vaisseau, le L*X, maintenant capitaine. Il arrivera bientôt par Shuttle. Vous devrez le stocker quelque part à bord."
-OBSOLETE,wolf_part1_sendingshuttle,2448,"Standby while I dock my ship with yours Captain, to collect the items you've recovered so far. Thank you for your efforts.",Attendez-vous pendant que j'amarre mon vaisseau avec votre capitaine pour récupérer les objets que vous avez récupérés jusqu'à présent. Merci pour vos efforts.
+OBSOLETE,wolf_part1_sendingwreckage,2448,They're sending the recovered wreckage to your ship The L*X now Captain. It will arrive soon by Shuttle. You'll need to store it somewhere onboard.,"Ils envoient l'épave récupérée à votre navire, le L*X, maintenant capitaine. Il arrivera bientôt par Shuttle. Vous devrez le stocker quelque part à bord."
+OBSOLETE,wolf_part1_sendingshuttle,2448,"Standby while I dock my ship with yours Captain, to collect the items you've recovered so far. Thank you for your efforts.",Attendez-vous pendant que j'amarre mon navire avec votre capitaine pour récupérer les objets que vous avez récupérés jusqu'à présent. Merci pour vos efforts.
 OBSOLETE,wolf_part1_completion5,2448,"We need to find a way to track them down, and destroy them.  We will be in touch soon Captain.",Nous devons trouver un moyen de les retrouver et de les détruire.  Nous vous contacterons bientôt Capitaine.
 OBSOLETE,wolf_part2_setup1,2448,Thank you for coming captain.,Merci d'être venu capitaine.
 OBSOLETE,wolf_part2_inperson_distress6,2448,The Reactor is reaching critical levels Captain.  I can't stop it from overloading.,"Le réacteur atteint des niveaux critiques, Capitaine.  Je ne peux pas l'empêcher de surcharger."
@@ -3360,18 +3474,18 @@ OBSOLETE,blackhole_part2_stargate0,2448,Greetings Captain.  I'm a representative
 OBSOLETE,blackhole_part2_stargate2,2448,"When the accident occurred, the younger twin Marcus was collecting vital data on black hole Qz 247.  Data that is simply impossible to acquire by any other means.  Data that we need to complete the Stargate.","Lorsque l'accident s'est produit, le jeune jumeau Marcus collectait des données vitales sur le trou noir Qz 247. Des données qu'il est tout simplement impossible d'acquérir par d'autres moyens.  Données dont nous avons besoin pour terminer la Porte des étoiles."
 OBSOLETE,blackhole_part3_setup1,2448,Everything is ready Captain.  I've produced the Hyperspace Modulators and the FTL fuel is already loaded.,Tout est prêt Capitaine.  J'ai produit les modulateurs Hyperspace et le carburant FTL est déjà chargé.
 OBSOLETE,blackhole_part3_setup3,2448,This has been a long time coming Captain.  I've been working on this rescue for years.  Time dilation effects from the Black Hole mean that only a few hours will have passed for my brother.  It will be a surprise to him just how much time has passed when you bring him out.,"Cela a pris du temps, Capitaine.  Je travaille sur ce sauvetage depuis des années.  Les effets de dilatation du temps du Trou Noir signifient que seulement quelques heures se seront écoulées pour mon frère.  Il sera surpris du temps qui s'est écoulé lorsque vous le ferez sortir."
-OBSOLETE,blackhole_part3_setup4,2448,"Let's run over the plan one last time.  You're going to perform an incredibly short range Hyperspace Hop, and you'll emerge directly on top of my Brother's ship.  Dock with his ship, rescue him and then get out of there.  Hop in, Rescue, Hop out.","Revoyons le plan une dernière fois.  Vous allez effectuer un saut hyperspatial à portée incroyablement courte et vous émergerez directement au-dessus du vaisseau de mon frère.  Amarrez-vous à son vaisseau, sauvez-le puis sortez de là.  Montez, sauvez, sortez."
+OBSOLETE,blackhole_part3_setup4,2448,"Let's run over the plan one last time.  You're going to perform an incredibly short range Hyperspace Hop, and you'll emerge directly on top of my Brother's ship.  Dock with his ship, rescue him and then get out of there.  Hop in, Rescue, Hop out.","Revoyons le plan une dernière fois.  Vous allez effectuer un saut hyperspatial à portée incroyablement courte et vous émergerez directement au-dessus du vaisseau de mon frère.  Amarrez-vous à son navire, sauvez-le puis sortez de là.  Montez, sauvez, sortez."
 OBSOLETE,blackhole_part3_setup7,2448,Good luck Captain. I'll see you on the other side.,Bonne chance Capitaine. Je te verrai de l'autre côté.
 OBSOLETE,blackhole_part3_stargate1,2448,Greetings Captain.  Good luck with the rescue.  Remember the data onboard Marcus' ship is extremely valuable to us.  You'll need Marcus to transmit the data from his console before you can complete the rescue.,Salutations Capitaine.  Bonne chance pour le sauvetage.  N'oubliez pas que les données à bord du vaisseau de Marcus nous sont extrêmement précieuses.  Vous aurez besoin que Marcus transmette les données de sa console avant de pouvoir terminer le sauvetage.
-OBSOLETE,blackhole_part3_marcus2,2448,"Dock your ship with mine Captain, and tell me when you're ready for me to come on board.  Please hurry!","Amarrez votre vaisseau avec mon capitaine et dites-moi quand vous serez prêt à ce que je monte à bord.  S'il vous plaît, dépêchez-vous !"
+OBSOLETE,blackhole_part3_marcus2,2448,"Dock your ship with mine Captain, and tell me when you're ready for me to come on board.  Please hurry!","Amarrez votre navire avec mon capitaine et dites-moi quand vous serez prêt à ce que je monte à bord.  S'il vous plaît, dépêchez-vous !"
 OBSOLETE,blackhole_part3_marcusdata1,2448,"The Stargate data?  I can send that Captain, but you'll have to give me a few minutes to access the data and set up the transmission.","Les données de Stargate ?  Je peux envoyer ce capitaine, mais vous devrez me donner quelques minutes pour accéder aux données et configurer la transmission."
-OBSOLETE,blackhole_part3_marcuswarning1,2448,My ship is falling apart from the gravitional forces Captain.  I've sent the data that I can.  Please hurry and get me off this ship!,"Mon vaisseau s'effondre à cause du capitaine des forces gravitationnelles.  J'ai envoyé les données que je peux.  S'il vous plaît, dépêchez-vous et faites-moi descendre de ce vaisseau !"
+OBSOLETE,blackhole_part3_marcuswarning1,2448,My ship is falling apart from the gravitional forces Captain.  I've sent the data that I can.  Please hurry and get me off this ship!,"Mon vaisseau s'effondre à cause du capitaine des forces gravitationnelles.  J'ai envoyé les données que je peux.  S'il vous plaît, dépêchez-vous et faites-moi descendre de ce navire !"
 OBSOLETE,blackhole_part3_marcuswarning2,2448,The reactor containment has failed Captain.  The cabin is being flooded with radiation.  You have to get me out of here!,"Le confinement du réacteur a échoué, Capitaine.  La cabine est inondée de radiations.  Vous devez me sortir d'ici !"
 OBSOLETE,blackhole_part3_marcusrescue1,2448,I'm onboard Captain.  Get us out of here!,"Je suis à bord, capitaine.  Sortez-nous d'ici !"
 OBSOLETE,blackhole_part3_outcomea2,2448,Thank you so much Captain. I couldn't have succeeded without your help. I'm so grateful you took my call and were here for us when we needed you.,Merci beaucoup Capitaine. Je n'aurais pas pu réussir sans votre aide. Je suis tellement reconnaissante que vous ayez répondu à mon appel et que vous ayez été là pour nous lorsque nous avions besoin de vous.
 OBSOLETE,blackhole_part3_stargateoutcomea1,2448,"We're really disappointed in your choices Captain.  You've let us down and you've let the whole Stargate Project down, with your incredibly narrow thinking.","Nous sommes vraiment déçus de vos choix Capitaine.  Vous nous avez laissé tomber et vous avez laissé tomber tout le projet Stargate, avec votre pensée incroyablement étroite."
 OBSOLETE,blackhole_part3_stargateoutcomeb1,2448,"Well done on retrieving some of the data Captain.  We would have preferred all of it, but we appreciate the rescue was under extreme duress.","Bravo pour la récupération de certaines données, capitaine.  Nous aurions préféré tout cela, mais nous sommes conscients que le sauvetage s'est déroulé sous une contrainte extrême."
-OBSOLETE,blackhole_part3_stargateoutcomec1,2448,"Congratulations Captain on successfully recovering the science data from the stricken vessel.  This data represents a huge step forward in our understanding of high energy physics, and will hugely accelerate the Stargate Program.",Félicitations au capitaine pour avoir réussi à récupérer les données scientifiques du vaisseau sinistré.  Ces données représentent un énorme pas en avant dans notre compréhension de la physique des hautes énergies et accéléreront considérablement le programme Stargate.
+OBSOLETE,blackhole_part3_stargateoutcomec1,2448,"Congratulations Captain on successfully recovering the science data from the stricken vessel.  This data represents a huge step forward in our understanding of high energy physics, and will hugely accelerate the Stargate Program.",Félicitations au capitaine pour avoir réussi à récupérer les données scientifiques du navire sinistré.  Ces données représentent un énorme pas en avant dans notre compréhension de la physique des hautes énergies et accéléreront considérablement le programme Stargate.
 OBSOLETE,wolf_part3_debrief1,2448,Congratulations Captain. Your performance in the destruction of the Pirate Vessel exceeded all expectations!,Félicitations Capitaine. Votre performance dans la destruction du vaisseau pirate a dépassé toutes les attentes !
 OBSOLETE,wolf_part3_debrief5,2448,Farewell Captain. Your dedication to justice and the safety of our sector will be remembered.,Adieu Capitaine. Votre dévouement à la justice et à la sécurité de notre secteur restera gravé dans nos mémoires.
 OBSOLETE,tiddlets_part1_reproduction3,2448,"Are you kidding me! They've. . . They've reproduced! We've just witnessed an interstellar life form, spontaneously reproducing!",Vous plaisantez j'espère! Ils l'ont fait. . . Ils se sont reproduits ! Nous venons d'observer une forme de vie interstellaire se reproduisant spontanément !
@@ -3389,17 +3503,17 @@ OBSOLETE,tiddlets_part2_return5,2448,"There's something else.  There's a reading
 OBSOLETE,tiddlets_part2_debrief3,2448,Thank you Captain!,Merci Capitaine !
 OBSOLETE,tiddlets_part3_setup1,2448,The work continues Captain. There is so much more to these Tiddlets than we realised.,Le travail continue Capitaine. Il y a bien plus dans ces Tiddlets que nous ne le pensions.
 OBSOLETE,tiddlets_part3_marcus,2448,I don't think I had the chance to properly thank you Captain. You risked your life for us.  And now my twin is ten years older than me! It's taken some getting used to.,"Je ne pense pas avoir eu l'occasion de vous remercier correctement Capitaine. Vous avez risqué votre vie pour nous.  Et maintenant, mon jumeau a dix ans de plus que moi ! Il a fallu un certain temps pour s'y habituer."
-OBSOLETE,tiddlets_part3_martinez_a3,2448,"I've put the rescue ship up for sale. I was asking $1M, but you can have it for half that price if you like.  Thank you Captain.  You'll always be welcome with us.","J'ai mis le vaisseau de sauvetage en vente. Je demandais 1 million de dollars, mais vous pouvez l'avoir pour la moitié de ce prix si vous le souhaitez.  Merci Capitaine.  Vous serez toujours le bienvenu chez nous."
+OBSOLETE,tiddlets_part3_martinez_a3,2448,"I've put the rescue ship up for sale. I was asking $1M, but you can have it for half that price if you like.  Thank you Captain.  You'll always be welcome with us.","J'ai mis le navire de sauvetage en vente. Je demandais 1 million de dollars, mais vous pouvez l'avoir pour la moitié de ce prix si vous le souhaitez.  Merci Capitaine.  Vous serez toujours le bienvenu chez nous."
 OBSOLETE,tiddlets_part3_swanson_a1,2448,"Incredible work Captain. I'm not sure how you managed that, but I'm true to my word.  I'll wire the funds to Dr. Martinez, with a sales bonus of $100k for you.  Bring the ship back to the Institute, and let's put it to use.","Un travail incroyable, Capitaine. Je ne sais pas comment vous avez réussi cela, mais je suis fidèle à ma parole.  Je transférerai les fonds au Dr Martinez, avec une prime de vente de 100 000 $ pour vous.  Ramenez le vaisseau à l'Institut et utilisons-le."
 OBSOLETE,tiddlets_part3_martinez_b1,2448,Hello Captain.  How have you been? Things have been tough here.,Bonjour Capitaine.  Comment as-tu été? Les choses ont été difficiles ici.
 OBSOLETE,tiddlets_part3_martinez_b4,2448,I hope it was worth it for you Captain.,"J'espère que cela en valait la peine pour vous, Capitaine."
 OBSOLETE,tiddlets_part3_swanson_b1,2448,"Good work Captain. That's a good price.  I'll send the funds to Dr Martinez.  You've earned a sales bonus of $40k.  Bring the ship back to the Institute, and let's put it to use.",Bon travail Capitaine. C'est un bon prix.  J'enverrai les fonds au Dr Martinez.  Vous avez gagné une prime de vente de 40 000 $.  Ramenez le vaisseau à l'Institut et utilisons-le.
-OBSOLETE,tiddlets_part3_martinez_c6,2448,"I don't want to talk to you Captain.  Yes, the ship is for sale.  Take it.  I don't ever want to see that ship, or you, again.  Do not call me again.","Je ne veux pas vous parler Capitaine.  Oui, le vaisseau est à vendre.  Prends-le.  Je ne veux plus jamais revoir ce vaisseau, ni toi.  Ne m'appelle plus."
+OBSOLETE,tiddlets_part3_martinez_c6,2448,"I don't want to talk to you Captain.  Yes, the ship is for sale.  Take it.  I don't ever want to see that ship, or you, again.  Do not call me again.","Je ne veux pas vous parler Capitaine.  Oui, le navire est à vendre.  Prends-le.  Je ne veux plus jamais revoir ce vaisseau, ni toi.  Ne m'appelle plus."
 OBSOLETE,tiddlets_part3_morehops,2448,"Excellent.  It's working, as I knew it would.  Give us three more hops Captain.","Excellent.  Cela fonctionne, comme je m'y attendais.  Donnez-nous encore trois sauts, Capitaine."
 OBSOLETE,tiddlets_part3_brokenhopdrive3,2448,"Dismantle the Hop Drive Captain, and I'll send a shuttle to collect it.  I want you to replace the Hop Drive with a conventional FTL drive, for the final part of the experiment.  I'll send a replacement FTL drive in the delivery shuttle.","Démontez le Hop Drive Captain et j'enverrai une navette pour le récupérer.  Je veux que vous remplaciez le Hop Drive par un lecteur FTL conventionnel, pour la dernière partie de l'expérience.  J'enverrai un lecteur FTL de remplacement dans la navette de livraison."
 OBSOLETE,tiddlets_part3_swanson_finalobjective2,2448,You know what to do Captain.  A couple of very long jumps ought to be enough.  Bring them all back to me when it's done.,Vous savez quoi faire Capitaine.  Quelques sauts très longs devraient suffire.  Ramenez-les-moi tous quand ce sera fait.
 OBSOLETE,tiddlets_part3_swanson_debriefa1,2448,"Well done Captain.  Everything has worked exactly as I predicted, and we now have an excellent harvest on the farm ship.  More importantly, you've shown the way.","Bravo Capitaine.  Tout s'est déroulé exactement comme je l'avais prédit et nous avons désormais une excellente récolte sur le bateau agricole.  Plus important encore, vous avez montré la voie."
-OBSOLETE,tiddlets_part3_swanson_debriefa2,2448,"I think I can take it from here Captain.  My engineers tell me they'll have the Hop Drive fitted to the farm ship in just a few days.  In fact, we are close to automating the entire Tiddlet Harvest process with this one ship.","Je pense que je peux m'en sortir à partir d'ici, Capitaine.  Mes ingénieurs me disent qu'ils installeront le Hop Drive sur le vaisseau agricole dans quelques jours seulement.  En fait, nous sommes sur le point d’automatiser l’ensemble du processus Tiddlet Harvest avec ce seul vaisseau."
+OBSOLETE,tiddlets_part3_swanson_debriefa2,2448,"I think I can take it from here Captain.  My engineers tell me they'll have the Hop Drive fitted to the farm ship in just a few days.  In fact, we are close to automating the entire Tiddlet Harvest process with this one ship.","Je pense que je peux m'en sortir à partir d'ici, Capitaine.  Mes ingénieurs me disent qu'ils installeront le Hop Drive sur le navire agricole dans quelques jours seulement.  En fait, nous sommes sur le point d’automatiser l’ensemble du processus Tiddlet Harvest avec ce seul navire."
 OBSOLETE,tiddlets_part3_swanson_debriefa3,2448,I knew we could rely on you Captain.  Thank you for showing the highest degrees of professionalism.,"Je savais que nous pouvions compter sur vous, Capitaine.  Merci de faire preuve du plus haut degré de professionnalisme."
 OBSOLETE,tiddlets_part3_swanson_debriefb4,2448,Mark my words Captain.  You will bitterly regret crossing me.,"Notez mes paroles, Capitaine.  Vous regretterez amèrement de m'avoir croisé."
 OBSOLETE,tiddlets_part3_artemis_debrief5,2448,I'll be in touch if I need your help Captain.,"Je vous contacterai si j'ai besoin de votre aide, Capitaine."
@@ -3410,7 +3524,7 @@ OBSOLETE,tiddlets_part4_random_swanson3,2448,Oh god...they're in the reactor roo
 OBSOLETE,tiddlets_part4_debrief_artemis_a1,2448,"I want to thank you for helping Captain, when it counted. For doing the right thing. I'll split the remaining grant money I have with you. You deserve it.","Je tiens à vous remercier d'avoir aidé le capitaine, quand cela comptait. Pour avoir fait la bonne chose. Je partagerai le reste de la subvention avec vous. Vous le méritez."
 OBSOLETE,tiddlets_part4_debrief_artemis_a3,2448,But I'd recommend you never bring a third aboard.  Look after them Captain. I know you will.,"Mais je vous recommande de ne jamais en amener un troisième à bord.  Prenez soin d'eux, Capitaine. Je sais que tu le feras."
 OBSOLETE,tiddlets_part4_debrief_artemis_b3,2448,"I suggest you look after them from now on Captain. It won't atone for the things you've done, but it's a start.","Je vous suggère de vous en occuper à partir de maintenant, Capitaine. Cela n’expiera pas les choses que vous avez faites, mais c’est un début."
-OBSOLETE,rise_part1_briefing3,2448,"I suspect foul play here Captain. There's no way a ship like the Celestial Hammer would just vanish. Something must have happened, and I'm assuming the worst.","Je soupçonne un acte criminel ici, Capitaine. Il est impossible qu’un vaisseau comme le Celestial Hammer disparaisse. Quelque chose a dû se passer, et je suppose le pire."
+OBSOLETE,rise_part1_briefing3,2448,"I suspect foul play here Captain. There's no way a ship like the Celestial Hammer would just vanish. Something must have happened, and I'm assuming the worst.","Je soupçonne un acte criminel ici, Capitaine. Il est impossible qu’un navire comme le Celestial Hammer disparaisse. Quelque chose a dû se passer, et je suppose le pire."
 OBSOLETE,rise_foundship6,2448,I have to know what happened Captain.,"Je dois savoir ce qui s'est passé, Capitaine."
 OBSOLETE,dsi_xthanks1,2448,Thank you Captain.  I appreciate the prompt payment.,Merci Capitaine.  J'apprécie le paiement rapide.
 OBSOLETE,dsi_xthanks2,2448,"Payment received, thank you Captain.","Paiement reçu, merci Capitaine."
@@ -3419,7 +3533,7 @@ OBSOLETE,dsi_part1_callfromrep2,2448,Batches of completed parts may now be submi
 OBSOLETE,dsi_part1_debrief1,2448,"Fantastic work Captain.  I had high expectations, but the process was even more smooth than I hoped.  We've made ourselves known to the Andromeda Project now, but this is just the beginning.","Un travail fantastique, Capitaine.  J’avais de grandes attentes, mais le processus s’est déroulé encore plus facilement que je ne l’espérais.  Nous nous sommes fait connaître au sein du projet Andromeda, mais ce n'est que le début."
 OBSOLETE,dsi_part2_introcall1,2448,"Welcome back Captain.  I've been taking a look at the schematics published by the Andromeda Project, and the next phase is going to need a huge upgrade to our facilities.","Bon retour Capitaine.  J'ai jeté un œil aux schémas publiés par le projet Andromeda, et la prochaine phase nécessitera une énorme mise à niveau de nos installations."
 OBSOLETE,dsi_part2_introcall4,2448,"The first part is a Stargate Actuator.  This is something we can manufacture in our existing factory station, although it's a more complex production chain.  There won't be nearly enough resources available in the marketplace, so we'll have to mine the local belt for minerals.","La première partie est un Stargate Actuator.  C'est quelque chose que nous pouvons fabriquer dans notre usine existante, bien qu'il s'agisse d'une chaîne de production plus complexe.  Il n'y aura pas assez de ressources disponibles sur le marché, nous devrons donc exploiter la ceinture locale pour trouver des minéraux."
-OBSOLETE,dsi_part2_actuatorsintro5,2448,"One last thing Captain.  I'm sure you've noticed, we aren't exactly surrounded by asteroids here.  I suggest you pair the station up with one of your FTL capable vessels, and jump them both to a suitable mining location.  You can leave the station there to do its work.","Une dernière chose, Capitaine.  Je suis sûr que vous l'avez remarqué, nous ne sommes pas exactement entourés d'astéroïdes ici.  Je vous suggère d'associer la station à l'un de vos vaisseaux compatibles FTL et de les envoyer tous les deux vers un emplacement minier approprié.  Vous pouvez y quitter la station pour faire son travail."
+OBSOLETE,dsi_part2_actuatorsintro5,2448,"One last thing Captain.  I'm sure you've noticed, we aren't exactly surrounded by asteroids here.  I suggest you pair the station up with one of your FTL capable vessels, and jump them both to a suitable mining location.  You can leave the station there to do its work.","Une dernière chose, Capitaine.  Je suis sûr que vous l'avez remarqué, nous ne sommes pas exactement entourés d'astéroïdes ici.  Je vous suggère d'associer la station à l'un de vos navires compatibles FTL et de les envoyer tous les deux vers un emplacement minier approprié.  Vous pouvez y quitter la station pour faire son travail."
 OBSOLETE,dsi_part2_introcall9,2448,"Time is now of the essence Captain.  All three parts need to be produced, and I'm in more of a hurry than you may realise.  Keep me informed!","Le temps presse désormais, Capitaine.  Les trois parties doivent être produites, et je suis plus pressé que vous ne le pensez.  Tenez-moi au courant !"
 OBSOLETE,dsi_part2_resinintro5,2448,"You'll need all of that equipment to get started.  I'd recommend Collectors, Refineries, and Factories, four each at least.  You'll also want Storage Tanks to buffer the intermediate products, and an upgrade to the Power Grid.","Vous aurez besoin de tout cet équipement pour commencer.  Je recommanderais les collecteurs, les raffineries et les usines, au moins quatre chacun.  Vous aurez également besoin de réservoirs de stockage pour tamponner les produits intermédiaires et d'une mise à niveau du réseau électrique."
 OBSOLETE,dsi_part2_isotopesintro3,2448,"The final stage is to install a Loader or two, and set them to 'UNLOAD'.  This will instruct your crew to barrel up the stable isotopes and store them in the cargo hold so you can easily sell them on the marketplace.",La dernière étape consiste à installer un ou deux chargeurs et à les régler sur « DÉCHARGER ».  Cela demandera à votre équipage de stocker les isotopes stables et de les stocker dans la soute afin que vous puissiez facilement les vendre sur le marché.
