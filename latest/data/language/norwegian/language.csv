@@ -26,7 +26,6 @@ NEW,hud_tooltip_selectequipment,3561,[LMB/RMB] Select,
 NEW,hud_tooltip_selectequipmentadd,3561,[SHIFT + LMB/RMB] Toggle select,
 NEW,hud_tooltip_selectequipmentnearby,3561,[LMB x2] Select all nearby,
 NEW,hud_tooltip_selectequipmentdrag,3561,[LMB Drag] Box select,
-NEW,equipment_multiple_selected,3561,MULTIPLE RECIPES,
 NEW,orders_layerscope,3561,SHIP-SPECIFIC ORDERS,
 NEW,orders_systemscope,3561,SYSTEM-WIDE ORDERS,
 NEW,order_tooltip_salvage,3561,Allow drones to gather salvage,
@@ -105,6 +104,51 @@ NEW,techtree_node_caption_fighterspeed3,3565,Improve the fuel usage and speed of
 NEW,boost_fighterarmour,3565,Fighter Armour +*X%,
 NEW,boost_fighterspeed,3565,Fighter Speed +*X%,
 NEW,boost_fighterfuel,3565,Fighter Fuel Efficiency +*X%,
+NEW,hud_tooltip_leftclickboxplace,3629,[SHIFT + LMB Drag] Box place,
+NEW,hud_tooltip_leftclickboxdismantle,3629,[SHIFT + LMB Drag] Box dismantle,
+NEW,hud_tooltip_rightclickboxdelete,3629,[SHIFT + RMB Drag] Box delete,
+NEW,hud_installqueue_inproduction,3629,QUEUED FOR PRODUCTION,
+NEW,hud_installqueue_waitingforbox,3629,NONE AVAILABLE,
+NEW,hud_workqueue_waitingforcrew,3629,WAITING FOR CREW,
+NEW,hud_workqueue_installinprogress,3629,INSTALL IN PROGRESS,
+NEW,equipment_storagecrate_capacity_mixed,3629,CAPACITY: MIXED,
+NEW,equipment_storagecrate_refill_mixed,3629,MIXED PRIORITIES,
+NEW,equipment_multiple_recipes,3629,MULTIPLE RECIPES,
+NEW,equipment_multiple_fluids,3629,MULTIPLE FLUIDS,
+NEW,equipment_multiple_types,3629,MULTIPLE TYPES,
+NEW,equipment_multiple_names,3629,MULTIPLE NAMES,
+NEW,equipment_on,3629,ON,
+NEW,equipment_off,3629,OFF,
+NEW,equipment_on_amount,3629,ON(*X),
+NEW,equipment_off_amount,3629,OFF(*X),
+NEW,equipment_on_off_amount,3629,ON(*X) OFF(*Y),
+NEW,shipeditor_equipment_autoproduce,3629,AUTO-PRODUCE,
+NEW,shipeditor_equipment_autoproduce_tooltip,3629,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""STOP"" will be used. They will be set back to ""STOP"" when production has finished.",
+NEW,shipeditor_equipment_buymissing,3629,AUTO-BUY MATERIALS,
+NEW,shipeditor_equipment_buymissing_tooltip,3629,Automatically buy missing materials for production.\nThis includes ingots as well as components such as frames.,
+NEW,shipeditor_equipment_inboundonshuttle,3629,*X INBOUND ON SHUTTLE,
+NEW,shipeditor_equipment_inproduction,3629,*X IN PRODUCTION (*Y MORE QUEUED),
+NEW,shipeditor_equipment_queuedforproduction,3629,*X QUEUED FOR PRODUCTION,
+NEW,shipeditor_equipment_availablecount,3629,*X AVAILABLE TO BUY,
+NEW,shipeditor_equipment_waitingforstock,3629,WAITING FOR STOCK,
+NEW,trade_buy_quantity,3629,BUY *X,
+NEW,tactical_fighterdeployment_alert,3629,FIGHTER MODE: ALERT,
+NEW,tactical_fighterdeployment_stow,3629,FIGHTER MODE: STOW,
+NEW,tactical_tooltip_fighter_title,3629,Fighter Modes,
+NEW,tactical_tooltip_fighter_alertcaption,3629,ALERT,
+NEW,tactical_tooltip_fighter_alert,3629,Fighters will automatically deploy and engage hostile targets when battlestations is enabled.,
+NEW,tactical_tooltip_fighter_stowcaption,3629,STOW,
+NEW,tactical_tooltip_fighter_stow,3629,Fighters will remain stowed. Currently deployed fighters will return.,
+NEW,object_powerswitch,3629,Power Switch,
+NEW,object_powerswitch_description,3629,Install along a cable and toggle on and off to control power flow. Can be given a name to be easily toggled from the powergrid window.,
+NEW,loader_auto_multiple_fluids,3629,AUTO (MULTIPLE FLUIDS),
+NEW,loader_auto_resource,3629,AUTO (R*X),
+NEW,fighter_lowfuel,3629,LOW FUEL,
+NEW,fighter_noammo,3629,NO AMMO,
+NEW,alert_type_novalidfactory,3629,NO VALID FACTORY,
+NEW,alert_type_novalidfactory_tooltip,3629,"Your ship is trying to produce something, but there are no valid factories.\n\nThis could be due to missing pipe inputs or because a particular factory is missing (e.g. a fabricator).\n\nCheck the recipe using the recipe window and check what equipment is needed or if there are any pipe inputs.",
+NEW,powergrid_category_industry,3632,INDUSTRY,
+NEW,powergrid_category_mining,3632,MINING,
 UPDATED,translationeditor_copytoclipboard,3561,Copy,
 PREVIOUS,translationeditor_copytoclipboard,3511,Copy To Clipboard,
 UPDATED,settings_instantshipswitch_description,3511,Skip rotation and panning effect when switching between ships.,
@@ -131,6 +175,10 @@ UPDATED,settings_arraytextures,3563,Smooth Tiles,
 PREVIOUS,settings_arraytextures,2803,Use Array Textures,Bruk matriseteksturer
 UPDATED,settings_dynamiclighting,3563,Dynamic Lighting,
 PREVIOUS,settings_dynamiclighting,2803,Use Dynamic Lighting,Bruk dynamisk belysning
+UPDATED,shipeditor_equipment_autobuy,3629,AUTO BUY,
+PREVIOUS,shipeditor_equipment_autobuy,2886,Enable Auto Buy,Aktiver automatisk kjøp
+UPDATED,equipment_storagecrate_capacity,3629,CAPACITY: *X,
+PREVIOUS,equipment_storagecrate_capacity,2803,CAPACITY,KAPASITET
 CURRENT,logistics_log_transfertonosupply,3492,Transferred *X R*Y to L*Z out of the *P desired - insufficient cargo,Overført *X R*Y til L*Z ut av *P ønsket - utilstrekkelig last
 CURRENT,logistics_log_transferfromnosupply,3492,Transferred *X R*Y from L*Z out of the *P desired - insufficient cargo,Overført *X R*Y fra L*Z ut av *P ønsket - utilstrekkelig last
 CURRENT,trade_paymentperjump,3472,*X (+*Y) per sector jump,*X (+*Y) per sektorhopp
@@ -709,7 +757,6 @@ CURRENT,shipeditor_mode_equipment,2886,Equipment,Utstyr
 CURRENT,shipeditor_tooltip_equipment,2886,Queue the installation of equipment inside your ship.,Sett i kø installasjonen av utstyr inne i skipet ditt.
 CURRENT,shipeditor_brush_oval,2886,OVAL TOOL,OVAL TOOL
 CURRENT,shipeditor_equipment_title,2886,Missing Equipment,Utstyr som mangler
-CURRENT,shipeditor_equipment_autobuy,2886,Enable Auto Buy,Aktiver automatisk kjøp
 CURRENT,shipeditor_equipment_autobuyconfirm,2886,Confirm Auto Buy Changes,Bekreft endringer i Auto Buy
 CURRENT,shipeditor_equipment_manualbuy,2886,Buy All Available,Kjøp alle tilgjengelige
 CURRENT,shipeditor_equipment_autobuyenable,2886,Auto Buy *X,Auto Buy *X
@@ -1934,7 +1981,6 @@ CURRENT,equipment_weaponsconsole_locked,2803,SLOT *X LOCKED,SLOT *X LOCKED
 CURRENT,equipment_weaponsconsole_extradescription,2803,*X Connected weapons,*X Tilkoblede våpen
 CURRENT,equipment_weaponsconsole_connected,2803,Controlled by Weapons Console,Kontrollert av våpenkonsollen
 CURRENT,equipment_storagecrate_quantity,2803,STORED: *X/*Y,LAGRET: *X/*Y
-CURRENT,equipment_storagecrate_capacity,2803,CAPACITY,KAPASITET
 CURRENT,equipment_storagecrate_dumping,2803,DUMPING,DUMPING
 CURRENT,equipment_storagecrate_refill_enable,2803,PRIORITISE ZONES,PRIORITERE SONER
 CURRENT,equipment_storagecrate_refill_disable,2803,PRIORITISE CRATE,PRIORITERE KASSE

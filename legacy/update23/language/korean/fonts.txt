@@ -1,0 +1,8 @@
+NotoSansMedium/SC_TC_JP_KR/SC_TC_JP_KR.fnt
+NotoSansMedium/SC_TC_KR/SC_TC_KR.fnt
+NotoSansMedium/SC_JP_KR/SC_JP_KR.fnt
+NotoSansMedium/TC_JP_KR/TC_JP_KR.fnt
+NotoSansMedium/SC_KR/SC_KR.fnt
+NotoSansMedium/TC_KR/TC_KR.fnt
+NotoSansMedium/JP_KR/JP_KR.fnt
+NotoSansMedium/KR/KR.fnt

@@ -1,4 +1,51 @@
 ﻿state,key,svn,english,translation
+NEW,powergrid_category_industry,3632,INDUSTRY,INDUSTRIE
+NEW,powergrid_category_mining,3632,MINING,WINNING
+CURRENT,hud_tooltip_leftclickboxplace,3629,[SHIFT + LMB Drag] Box place,[SHIFT + LMB slepen] Box plaatsen
+CURRENT,hud_tooltip_leftclickboxdismantle,3629,[SHIFT + LMB Drag] Box dismantle,[SHIFT + LMB slepen] Box ontmantelen
+CURRENT,hud_tooltip_rightclickboxdelete,3629,[SHIFT + RMB Drag] Box delete,[SHIFT + RMB slepen] Box verwijderen
+CURRENT,hud_installqueue_inproduction,3629,QUEUED FOR PRODUCTION,IN DE WACHTRIJ VOOR PRODUCTIE
+CURRENT,hud_installqueue_waitingforbox,3629,NONE AVAILABLE,NIET BESCHIKBAAR
+CURRENT,hud_workqueue_waitingforcrew,3629,WAITING FOR CREW,WACHTEND OP BEMANNING
+CURRENT,hud_workqueue_installinprogress,3629,INSTALL IN PROGRESS,INSTALLATIE BEZIG
+CURRENT,equipment_storagecrate_capacity_mixed,3629,CAPACITY: MIXED,CAPACITEIT: GEMENGD
+CURRENT,equipment_storagecrate_refill_mixed,3629,MIXED PRIORITIES,GEMENGDE PRIORITEITEN
+CURRENT,equipment_multiple_recipes,3629,MULTIPLE RECIPES,MEERDERE RECEPTEN
+CURRENT,equipment_multiple_fluids,3629,MULTIPLE FLUIDS,MEERDERE VLOEISTOFFEN
+CURRENT,equipment_multiple_types,3629,MULTIPLE TYPES,MEERDERE TYPEN
+CURRENT,equipment_multiple_names,3629,MULTIPLE NAMES,MEERDERE NAMEN
+CURRENT,equipment_on,3629,ON,OP
+CURRENT,equipment_off,3629,OFF,UIT
+CURRENT,equipment_on_amount,3629,ON(*X),AAN(*X)
+CURRENT,equipment_off_amount,3629,OFF(*X),UIT(*X)
+CURRENT,equipment_on_off_amount,3629,ON(*X) OFF(*Y),AAN(*X) UIT(*Y)
+CURRENT,shipeditor_equipment_autoproduce,3629,AUTO-PRODUCE,AUTO-PRODUCE
+CURRENT,shipeditor_equipment_autoproduce_tooltip,3629,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""STOP"" will be used. They will be set back to ""STOP"" when production has finished.","Produceer automatisch ontbrekende apparatuur met behulp van beschikbare Montagetafels en Fabrikanten.\nElke Montagetafel of Fabrikant die is ingesteld op ""STOP"" zal worden gebruikt. Ze worden weer op ""STOP"" gezet als de productie klaar is."
+CURRENT,shipeditor_equipment_buymissing,3629,AUTO-BUY MATERIALS,AUTO-INKOOP MATERIALEN
+CURRENT,shipeditor_equipment_buymissing_tooltip,3629,Automatically buy missing materials for production.\nThis includes ingots as well as components such as frames.,Koop automatisch ontbrekende materialen voor productie.\nDit omvat zowel ingots als onderdelen zoals frames.
+CURRENT,shipeditor_equipment_inboundonshuttle,3629,*X INBOUND ON SHUTTLE,*X INKOMEND MET SHUTTLE
+CURRENT,shipeditor_equipment_inproduction,3629,*X IN PRODUCTION (*Y MORE QUEUED),*X IN PRODUCTIE (*Y MEER IN DE WACHTRIJ)
+CURRENT,shipeditor_equipment_queuedforproduction,3629,*X QUEUED FOR PRODUCTION,*X IN DE WACHTRIJ VOOR PRODUCTIE
+CURRENT,shipeditor_equipment_availablecount,3629,*X AVAILABLE TO BUY,*X BESCHIKBAAR OM TE KOPEN
+CURRENT,shipeditor_equipment_waitingforstock,3629,WAITING FOR STOCK,WACHTEN OP VOORRAAD
+CURRENT,trade_buy_quantity,3629,BUY *X,KOP *X
+CURRENT,tactical_fighterdeployment_alert,3629,FIGHTER MODE: ALERT,VECHTER: ALERT
+CURRENT,tactical_fighterdeployment_stow,3629,FIGHTER MODE: STOW,VECHTER-MODUS: OPBERGEN
+CURRENT,tactical_tooltip_fighter_title,3629,Fighter Modes,Vechter standen
+CURRENT,tactical_tooltip_fighter_alertcaption,3629,ALERT,ALERT
+CURRENT,tactical_tooltip_fighter_alert,3629,Fighters will automatically deploy and engage hostile targets when battlestations is enabled.,Vechter zullen automatisch vijandige doelen inzetten en aanvallen als gevechtstations is ingeschakeld.
+CURRENT,tactical_tooltip_fighter_stowcaption,3629,STOW,STOW
+CURRENT,tactical_tooltip_fighter_stow,3629,Fighters will remain stowed. Currently deployed fighters will return.,Vechter blijven opgeborgen. De huidige gevechtsvliegtuigen keren terug.
+CURRENT,object_powerswitch,3629,Power Switch,Stroomschakelaar
+CURRENT,object_powerswitch_description,3629,Install along a cable and toggle on and off to control power flow. Can be given a name to be easily toggled from the powergrid window.,Installeer ze langs een kabel en schakel ze aan en uit om de stroomtoevoer te regelen. Ze kunnen een naam krijgen zodat ze gemakkelijk kunnen worden omgeschakeld vanuit het powergrid-venster.
+CURRENT,loader_auto_multiple_fluids,3629,AUTO (MULTIPLE FLUIDS),AUTO (MEERDERE VLOEISTOFFEN)
+CURRENT,loader_auto_resource,3629,AUTO (R*X),AUTO (R*X)
+CURRENT,fighter_lowfuel,3629,LOW FUEL,LAGE BRANDSTOF
+CURRENT,fighter_noammo,3629,NO AMMO,GEEN MUNITIE
+CURRENT,alert_type_novalidfactory,3629,NO VALID FACTORY,GEEN GELDIGE FABRIEK
+CURRENT,alert_type_novalidfactory_tooltip,3629,"Your ship is trying to produce something, but there are no valid factories.\n\nThis could be due to missing pipe inputs or because a particular factory is missing (e.g. a fabricator).\n\nCheck the recipe using the recipe window and check what equipment is needed or if there are any pipe inputs.","Je schip probeert iets te produceren, maar er zijn geen geldige fabrieken.\n\nDit kan komen door ontbrekende pijpleidingen of doordat een bepaalde fabriek ontbreekt (bijvoorbeeld een Fabrikant).\n\nControleer het recept met behulp van het receptvenster en controleer welke uitrusting nodig is en of er pijpleidingen zijn."
+CURRENT,shipeditor_equipment_autobuy,3629,AUTO BUY,AUTO KOPEN
+CURRENT,equipment_storagecrate_capacity,3629,CAPACITY: *X,CAPACITEIT: *X
 CURRENT,trade_tooltip_expandautotrade,3565,[LMB] Show Auto Trade Options,[LMB] Toon Autohandel Opties
 CURRENT,trade_tooltip_collapseautotrade,3565,[LMB] Hide Auto Trade Options,[LMB] Verberg Autohandel Opties
 CURRENT,techtree_node_title_fighters1,3565,Fighters,Vechters
@@ -39,7 +86,6 @@ CURRENT,hud_tooltip_selectequipment,3561,[LMB/RMB] Select,[LMB/RMB] Kiezen
 CURRENT,hud_tooltip_selectequipmentadd,3561,[SHIFT + LMB/RMB] Toggle select,[SHIFT + LMB/RMB] Omschakelen selecteren
 CURRENT,hud_tooltip_selectequipmentnearby,3561,[LMB x2] Select all nearby,[LMB x2] Selecteer alles in de buurt
 CURRENT,hud_tooltip_selectequipmentdrag,3561,[LMB Drag] Box select,[LMB slepen] Box selecteren
-CURRENT,equipment_multiple_selected,3561,MULTIPLE RECIPES,MEERDERE RECEPTEN
 CURRENT,orders_layerscope,3561,SHIP-SPECIFIC ORDERS,SCHEEPSSPECIFIEKE BESTELLINGEN
 CURRENT,orders_systemscope,3561,SYSTEM-WIDE ORDERS,SYSTEEMBREDE ORDERS
 CURRENT,order_tooltip_salvage,3561,Allow drones to gather salvage,Sta drones toe om berging te verzamelen
@@ -696,7 +742,6 @@ CURRENT,shipeditor_mode_equipment,2886,Equipment,Uitrusting
 CURRENT,shipeditor_tooltip_equipment,2886,Queue the installation of equipment inside your ship.,Uitrusting in je schip installeren.
 CURRENT,shipeditor_brush_oval,2886,OVAL TOOL,OVALGEREEDSCHAP
 CURRENT,shipeditor_equipment_title,2886,Missing Equipment,Uitrusting kwijt
-CURRENT,shipeditor_equipment_autobuy,2886,Enable Auto Buy,Automatisch kopen inschakelen
 CURRENT,shipeditor_equipment_autobuyconfirm,2886,Confirm Auto Buy Changes,Wijzigingen automatisch kopen bevestigen
 CURRENT,shipeditor_equipment_manualbuy,2886,Buy All Available,Alle beschikbare kopen
 CURRENT,shipeditor_equipment_autobuyenable,2886,Auto Buy *X,Auto Kopen *X
@@ -1475,7 +1520,6 @@ CURRENT,equipment_weaponsconsole_locked,2593,SLOT *X LOCKED,SLOT *X VERGRENDELD
 CURRENT,equipment_weaponsconsole_extradescription,2593,*X Connected weapons,*X Verbonden wapens
 CURRENT,equipment_weaponsconsole_connected,2593,Controlled by Weapons Console,Bestuurd door wapenconsole
 CURRENT,equipment_storagecrate_quantity,2593,STORED: *X/*Y,OPGESLAGEN: *X/*Y
-CURRENT,equipment_storagecrate_capacity,2593,CAPACITY,CAPACITEIT
 CURRENT,equipment_storagecrate_dumping,2593,DUMPING,DUMPEN
 CURRENT,equipment_storagecrate_refill_enable,2593,PRIORITISE ZONES,ZONES PRIORITEREN
 CURRENT,equipment_storagecrate_refill_disable,2593,PRIORITISE CRATE,PRIORITEER KRAT
@@ -3188,6 +3232,8 @@ CURRENT,dsi_part2_scene_z4,2593,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2593,THERE WILL BE NO FURTHER WARNING.,ZAL ER GEEN VERDERE WAARSCHUWING VOLGEN.
 CURRENT,dsi_part2_scene_y7,2593,You've left me no choice.,Je hebt me geen keus gelaten.
 CURRENT,dsi_part2_scene_y8,2593,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Ik kom voor jou Alexander, en deze keer vraag ik niet om 10%. Ik wil alles."
+OBSOLETE,shipeditor_equipment_autobuy,2886,Enable Auto Buy,Automatisch kopen inschakelen
+OBSOLETE,equipment_storagecrate_capacity,2593,CAPACITY,CAPACITEIT
 OBSOLETE,settings_dynamiclighting,2675,Use Dynamic Lighting,Dynamische verlichting gebruiken
 OBSOLETE,settings_arraytextures,2593,Use Array Textures,Array-texturen gebruiken
 OBSOLETE,translationeditor_copytoclipboard,3511,Copy To Clipboard,Kopiëren naar klembord

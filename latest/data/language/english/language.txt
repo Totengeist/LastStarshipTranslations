@@ -64,7 +64,7 @@ language_norwegian Norsk
 language_hungarian Magyar
 language_romanian Română
 language_bulgarian Български
-
+language_indonesian Bahasa Indonesia
 
 # =============================================================================
 # Analytics Consent Dialog
@@ -699,13 +699,16 @@ hud_recipes_chooseequipment             CHOOSE EQUIPMENT
 hud_recipes_chooseinput                 CHOOSE INPUT
 
 hud_tooltip_leftclickplace              [LMB] Place
+hud_tooltip_leftclickboxplace           [SHIFT + LMB Drag] Box place
 hud_tooltip_leftclickbuild              [LMB] Build
 hud_tooltip_leftclickerase              [LMB] Erase
 hud_tooltip_leftclickdismantle          [LMB] Dismantle
+hud_tooltip_leftclickboxdismantle       [SHIFT + LMB Drag] Box dismantle
 hud_tooltip_leftclickresearch           [LMB] Research
 hud_tooltip_rightclickcancel            [RMB] Cancel
 hud_tooltip_rightclickclear             [RMB] Clear
 hud_tooltip_rightclickdelete            [RMB] Delete
+hud_tooltip_rightclickboxdelete         [SHIFT + RMB Drag] Box delete
 hud_tooltip_rightclickpurge             [RMB] Purge
 hud_tooltip_leftclickchangerecipe       [LMB] Cycle recipe
 hud_tooltip_selectequipment             [LMB/RMB] Select
@@ -793,6 +796,12 @@ communicator_newobjective               NEW OBJECTIVE
 
 hud_repairyourship                      You should repair the damage to your ship at a SHIPYARD.
 
+hud_installqueue_inproduction           QUEUED FOR PRODUCTION
+hud_installqueue_waitingforbox          NONE AVAILABLE
+
+hud_workqueue_waitingforcrew            WAITING FOR CREW
+hud_workqueue_installinprogress         INSTALL IN PROGRESS
+
 # =============================================================================
 # World Speed Dialog
 # =============================================================================
@@ -837,14 +846,25 @@ equipment_weaponsconsole_extradescription  *X Connected weapons
 equipment_weaponsconsole_connected         Controlled by Weapons Console
 
 equipment_storagecrate_quantity            STORED: *X/*Y
-equipment_storagecrate_capacity            CAPACITY
+equipment_storagecrate_capacity            CAPACITY: *X
+equipment_storagecrate_capacity_mixed      CAPACITY: MIXED
 equipment_storagecrate_dumping             DUMPING
 equipment_storagecrate_refill_enable       PRIORITISE ZONES
 equipment_storagecrate_refill_disable      PRIORITISE CRATE
+equipment_storagecrate_refill_mixed        MIXED PRIORITIES
 equipment_storagecrate_permitcrewload      CREW LOADING
 equipment_storagecrate_permitcrewunload    CREW UNLOADING
 
-equipment_multiple_selected                MULTIPLE RECIPES
+equipment_multiple_recipes                 MULTIPLE RECIPES
+equipment_multiple_fluids                  MULTIPLE FLUIDS
+equipment_multiple_types                   MULTIPLE TYPES
+equipment_multiple_names                   MULTIPLE NAMES
+
+equipment_on                               ON
+equipment_off                              OFF
+equipment_on_amount                        ON(*X)
+equipment_off_amount                       OFF(*X)
+equipment_on_off_amount                    ON(*X) OFF(*Y)
 
 factory_stockpileoutput                 STOCKPILE
 factory_stockpileoutput_tooltip         STOCKPILE\n\nWhen ticked, the produced items will be immediately unloaded into any cargo storage area, stockpiling the item.\n\nIf unticked, the produced item will remain until it is used somewhere, or until there is specific cargo space available.
@@ -912,7 +932,13 @@ shipeditor_paint                        PAINT
 shipeditor_stencil                      DECALS
 
 shipeditor_equipment_title              Missing Equipment
-shipeditor_equipment_autobuy            Enable Auto Buy
+shipeditor_equipment_autobuy            AUTO BUY
+
+shipeditor_equipment_autoproduce            AUTO-PRODUCE
+shipeditor_equipment_autoproduce_tooltip    Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to "STOP" will be used. They will be set back to "STOP" when production has finished.
+shipeditor_equipment_buymissing             AUTO-BUY MATERIALS
+shipeditor_equipment_buymissing_tooltip     Automatically buy missing materials for production.\nThis includes ingots as well as components such as frames.
+
 shipeditor_equipment_autobuyconfirm     Confirm Auto Buy Changes
 shipeditor_equipment_manualbuy          Buy All Available
 
@@ -927,9 +953,14 @@ shipeditor_equipment_expected           You will be missing *X when ongoing deli
 shipeditor_equipment_available          Trading Post has *X available
 
 # *X is the cost
-shipeditor_equipment_totalcost          Total Cost
-shipeditor_equipment_immediatecost      Immediate Cost: *X
-shipeditor_equipment_expectedcost       Expected Future Cost: *X
+shipeditor_equipment_totalcost              Total Cost
+shipeditor_equipment_immediatecost          Immediate Cost: *X
+shipeditor_equipment_expectedcost           Expected Future Cost: *X
+shipeditor_equipment_inboundonshuttle       *X INBOUND ON SHUTTLE
+shipeditor_equipment_inproduction           *X IN PRODUCTION (*Y MORE QUEUED)
+shipeditor_equipment_queuedforproduction    *X QUEUED FOR PRODUCTION
+shipeditor_equipment_availablecount         *X AVAILABLE TO BUY
+shipeditor_equipment_waitingforstock        WAITING FOR STOCK
 
 shipeditor_stencils_paint               Paints
 shipeditor_stencils_stencil             Decals
@@ -1037,6 +1068,8 @@ powergrid_category_lifesupport          LIFE SUPPORT
 powergrid_category_logistics            LOGISTICS
 powergrid_category_science              SCIENCE
 powergrid_category_stargate             STARGATE
+powergrid_category_industry             INDUSTRY
+powergrid_category_mining               MINING
 powergrid_category_other                OTHER
 
 powergrid_demand                        DEMAND: *X MW
@@ -1159,6 +1192,7 @@ trade_sack                              SACK
 trade_embark                            EMBARK
 trade_disembark                         DISEMBARK
 trade_buy                               BUY
+trade_buy_quantity                      BUY *X
 trade_sell                              SELL
 trade_tooltip_canceltrade               [LMB] Cancel
 trade_tooltip_cancelalltrade            [RMB] Cancel All
@@ -1366,6 +1400,8 @@ tactical_detach_all                     DETACH ALL
 tactical_velocity                       VELOCITY
 tactical_evasion                        EVASION
 tactical_weapons                        WEAPONS
+tactical_fighterdeployment_alert        FIGHTER MODE: ALERT
+tactical_fighterdeployment_stow         FIGHTER MODE: STOW
 tactical_fire                           FIRE
 tactical_hold                           HOLD
 tactical_maneuvering                    MANEUVERING
@@ -1388,6 +1424,14 @@ tactical_tooltip_focuslayer             When enabled, the camera's rotation and 
 
 tactical_tooltip_weapon                 [LMB] Select weapon\n[SHIFT-LMB] Select multiple weapons\n[RMB] Clear current target
 tactical_tooltip_auto                   AUTO-TARGETTING\n[LMB] Enable auto-targetting\n[RMB] Disable auto-targetting
+
+tactical_tooltip_fighter_title          Fighter Modes
+
+tactical_tooltip_fighter_alertcaption   ALERT
+tactical_tooltip_fighter_alert          Fighters will automatically deploy and engage hostile targets when battlestations is enabled.
+
+tactical_tooltip_fighter_stowcaption    STOW
+tactical_tooltip_fighter_stow           Fighters will remain stowed. Currently deployed fighters will return.
 
 
 # =============================================================================
@@ -1959,7 +2003,7 @@ object_deflector                        Deflector
 object_deflector_description            A defensive system that uses a deflector beam to divert incoming rocket shells
 object_generator                        Generator
 object_hullbreach                       Hull Breach
-object_loader                           Loader 
+object_loader                           Loader
 object_loader_description               This is a general purpose version of the Fuel Loader and Oxygen Loader, and can take any liquid or gas canister.  Known to heavily confuse new captains.  Use pipes to connect the Loader to other equipment.
 object_fuelloader                       Fuel Loader
 object_fuelloader_description           Takes a canister of Fuel, and pumps it into an underfloor pipe. Use pipes to connect this to your Reactor and your Engines.
@@ -2083,6 +2127,8 @@ object_sofa                             Sofa
 object_potplant                         Pot Plant
 object_researchcredit                   Research Credit
 object_researchcredit_description       This processor chip contains information that can be used to boost our current research or improve the efficiency of our equipment.
+object_powerswitch                      Power Switch
+object_powerswitch_description          Install along a cable and toggle on and off to control power flow. Can be given a name to be easily toggled from the powergrid window.
 
 object_framecomponent                   Frame
 object_motorcomponent                   Motor
@@ -2147,6 +2193,8 @@ loader_mode_load                        Load
 loader_mode_unload                      Unload
 
 loader_auto                             AUTO
+loader_auto_multiple_fluids             AUTO (MULTIPLE FLUIDS)
+loader_auto_resource                    AUTO (R*X)
 
 fighter_fuel                            FUEL: *X%
 fighter_ammo                            BULLETS: *X
@@ -2157,6 +2205,9 @@ fighter_health_text                     HULL
 fighter_ammo_text                       BULLETS
 fighter_fuel_text                       FUEL
 fighter_refuelling_text                 REFUELLING...
+
+fighter_lowfuel                         LOW FUEL
+fighter_noammo                          NO AMMO
 
 fighter_create                          CREATE FIGHTER
 
@@ -2327,6 +2378,8 @@ alert_type_powercut                     POWER CUT
 alert_type_powercut_nofuel              Fuel supply interrupted
 alert_type_powercut_tooltip             Your reactor has cut out. It is likely the fuel supply has been interrupted.  Consider using storage tanks to create a permanent store of fuel for your Reactor to draw from.
 alert_type_nostorage                    NO STORAGE
+alert_type_novalidfactory               NO VALID FACTORY
+alert_type_novalidfactory_tooltip       Your ship is trying to produce something, but there are no valid factories.\n\nThis could be due to missing pipe inputs or because a particular factory is missing (e.g. a fabricator).\n\nCheck the recipe using the recipe window and check what equipment is needed or if there are any pipe inputs.
 alert_type_autotradeinactive            AUTO-TRADE INACTIVE
 alert_type_autotradeinactive_tooltip    One or more of your auto-orders have been made inactive. This may be because you owe a large payment to X.
 alert_type_stargatelosingpower          STARGATE LOSING POWER

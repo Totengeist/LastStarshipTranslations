@@ -1,4 +1,51 @@
 ﻿state,key,svn,english,translation
+NEW,powergrid_category_industry,3632,INDUSTRY,BRANSCH
+NEW,powergrid_category_mining,3632,MINING,GRUVA
+CURRENT,hud_tooltip_leftclickboxplace,3629,[SHIFT + LMB Drag] Box place,[SHIFT + LMB Drag] Låda
+CURRENT,hud_tooltip_leftclickboxdismantle,3629,[SHIFT + LMB Drag] Box dismantle,[SHIFT + LMB Drag] Demontering av Låda
+CURRENT,hud_tooltip_rightclickboxdelete,3629,[SHIFT + RMB Drag] Box delete,[SHIFT + RMB Drag] Radera Låda
+CURRENT,hud_installqueue_inproduction,3629,QUEUED FOR PRODUCTION,KÖADE FÖR PRODUKTION
+CURRENT,hud_installqueue_waitingforbox,3629,NONE AVAILABLE,INGEN TILLGÄNGLIG
+CURRENT,hud_workqueue_waitingforcrew,3629,WAITING FOR CREW,VÄNTAR PÅ BESÄTTNING
+CURRENT,hud_workqueue_installinprogress,3629,INSTALL IN PROGRESS,INSTALLATION PÅGÅR
+CURRENT,equipment_storagecrate_capacity_mixed,3629,CAPACITY: MIXED,KAPACITET: BLANDAD
+CURRENT,equipment_storagecrate_refill_mixed,3629,MIXED PRIORITIES,BLANDADE PRIORITERINGAR
+CURRENT,equipment_multiple_recipes,3629,MULTIPLE RECIPES,FLERA RECEPT
+CURRENT,equipment_multiple_fluids,3629,MULTIPLE FLUIDS,FLERA VÄTSKOR
+CURRENT,equipment_multiple_types,3629,MULTIPLE TYPES,FLERA TYPER
+CURRENT,equipment_multiple_names,3629,MULTIPLE NAMES,FLERA NAMN
+CURRENT,equipment_on,3629,ON,ON
+CURRENT,equipment_off,3629,OFF,OFF
+CURRENT,equipment_on_amount,3629,ON(*X),ON(*X)
+CURRENT,equipment_off_amount,3629,OFF(*X),OFF(*X)
+CURRENT,equipment_on_off_amount,3629,ON(*X) OFF(*Y),ON(*X) OFF(*Y)
+CURRENT,shipeditor_equipment_autoproduce,3629,AUTO-PRODUCE,AUTO-PRODUCE
+CURRENT,shipeditor_equipment_autoproduce_tooltip,3629,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""STOP"" will be used. They will be set back to ""STOP"" when production has finished.","Automatisk produktion av saknad Utrustning med hjälp av tillgängliga Monteringsbord och Tillverkare.\nAlla Monteringsbord och Tillverkare som är inställda på ""STOP"" kommer att användas. De kommer att ställas tillbaka till ""STOP"" när produktionen har avslutats."
+CURRENT,shipeditor_equipment_buymissing,3629,AUTO-BUY MATERIALS,MATERIAL FÖR AUTO-BUY
+CURRENT,shipeditor_equipment_buymissing_tooltip,3629,Automatically buy missing materials for production.\nThis includes ingots as well as components such as frames.,Köp automatiskt in material som saknas för produktionen.\nDetta inkluderar såväl göt som komponenter som t.ex. ramar.
+CURRENT,shipeditor_equipment_inboundonshuttle,3629,*X INBOUND ON SHUTTLE,*X INKOMMANDE MED SKYTTEL
+CURRENT,shipeditor_equipment_inproduction,3629,*X IN PRODUCTION (*Y MORE QUEUED),*X I PRODUKTION (*Y FLER I KÖ)
+CURRENT,shipeditor_equipment_queuedforproduction,3629,*X QUEUED FOR PRODUCTION,*X KÖADE FÖR PRODUKTION
+CURRENT,shipeditor_equipment_availablecount,3629,*X AVAILABLE TO BUY,*X FINNS ATT KÖPA
+CURRENT,shipeditor_equipment_waitingforstock,3629,WAITING FOR STOCK,VÄNTAR PÅ LAGER
+CURRENT,trade_buy_quantity,3629,BUY *X,KÖP *X
+CURRENT,tactical_fighterdeployment_alert,3629,FIGHTER MODE: ALERT,SLAGSKÄMPE MODE: ALERT
+CURRENT,tactical_fighterdeployment_stow,3629,FIGHTER MODE: STOW,SLAGSKÄMPE LÄGE: STUVNING
+CURRENT,tactical_tooltip_fighter_title,3629,Fighter Modes,Slagskämpe Modes
+CURRENT,tactical_tooltip_fighter_alertcaption,3629,ALERT,VARNING
+CURRENT,tactical_tooltip_fighter_alert,3629,Fighters will automatically deploy and engage hostile targets when battlestations is enabled.,Slagskämpar kommer automatiskt att utplaceras och anfalla fientliga mål när Battlestations är aktiverat.
+CURRENT,tactical_tooltip_fighter_stowcaption,3629,STOW,STOW
+CURRENT,tactical_tooltip_fighter_stow,3629,Fighters will remain stowed. Currently deployed fighters will return.,Slagskämpar kommer att förbli stuvade. Slagskämpar som för närvarande är utplacerade kommer att återvända.
+CURRENT,object_powerswitch,3629,Power Switch,Strömbrytare
+CURRENT,object_powerswitch_description,3629,Install along a cable and toggle on and off to control power flow. Can be given a name to be easily toggled from the powergrid window.,Installeras längs en kabel och kopplas på och av för att styra strömflödet. Kan ges ett namn för att enkelt kunna växlas från powergrid-fönstret.
+CURRENT,loader_auto_multiple_fluids,3629,AUTO (MULTIPLE FLUIDS),BIL (FLERA VÄTSKOR)
+CURRENT,loader_auto_resource,3629,AUTO (R*X),AUTO (R*X)
+CURRENT,fighter_lowfuel,3629,LOW FUEL,LÅGT BRÄNSLE
+CURRENT,fighter_noammo,3629,NO AMMO,INGEN AMMUNITION
+CURRENT,alert_type_novalidfactory,3629,NO VALID FACTORY,INGEN GILTIG FABRIK
+CURRENT,alert_type_novalidfactory_tooltip,3629,"Your ship is trying to produce something, but there are no valid factories.\n\nThis could be due to missing pipe inputs or because a particular factory is missing (e.g. a fabricator).\n\nCheck the recipe using the recipe window and check what equipment is needed or if there are any pipe inputs.","Ditt skepp försöker tillverka något, men det finns inga giltiga fabriker.\n\nDet kan bero på att det saknas röringångar eller att en viss fabrik saknas (t.ex. en Tillverkare).\n\nKontrollera receptet i receptfönstret och kontrollera vilken Utrustning som behövs eller om det finns några röringångar."
+CURRENT,shipeditor_equipment_autobuy,3629,AUTO BUY,AUTO KÖP
+CURRENT,equipment_storagecrate_capacity,3629,CAPACITY: *X,KAPACITET: *X
 CURRENT,trade_tooltip_expandautotrade,3565,[LMB] Show Auto Trade Options,[LMB] Visa alternativ för automatisk handel
 CURRENT,trade_tooltip_collapseautotrade,3565,[LMB] Hide Auto Trade Options,[LMB] Dölj alternativ för automatisk handel
 CURRENT,techtree_node_title_fighters1,3565,Fighters,Slagskämpar
@@ -39,7 +86,6 @@ CURRENT,hud_tooltip_selectequipment,3561,[LMB/RMB] Select,[LMB/RMB] Välj
 CURRENT,hud_tooltip_selectequipmentadd,3561,[SHIFT + LMB/RMB] Toggle select,[SHIFT + LMB/RMB] Växla val
 CURRENT,hud_tooltip_selectequipmentnearby,3561,[LMB x2] Select all nearby,[LMB x2] Välj alla i närheten
 CURRENT,hud_tooltip_selectequipmentdrag,3561,[LMB Drag] Box select,[LMB Drag] Välj Låda
-CURRENT,equipment_multiple_selected,3561,MULTIPLE RECIPES,FLERA RECEPT
 CURRENT,orders_layerscope,3561,SHIP-SPECIFIC ORDERS,FARTYGSSPECIFIKA ORDER
 CURRENT,orders_systemscope,3561,SYSTEM-WIDE ORDERS,SYSTEMOMFATTANDE ORDER
 CURRENT,order_tooltip_salvage,3561,Allow drones to gather salvage,Tillåt drönare att samla in bärgods
@@ -696,7 +742,6 @@ CURRENT,shipeditor_mode_equipment,2886,Equipment,Utrustning
 CURRENT,shipeditor_tooltip_equipment,2886,Queue the installation of equipment inside your ship.,Vänta med att installera utrustning inuti fartyget.
 CURRENT,shipeditor_brush_oval,2886,OVAL TOOL,OVALVÄRKTYG
 CURRENT,shipeditor_equipment_title,2886,Missing Equipment,Utrustning saknas
-CURRENT,shipeditor_equipment_autobuy,2886,Enable Auto Buy,Aktivera automatiskt köp
 CURRENT,shipeditor_equipment_autobuyconfirm,2886,Confirm Auto Buy Changes,Bekräfta ändringar i Auto Buy
 CURRENT,shipeditor_equipment_manualbuy,2886,Buy All Available,Köp alla tillgängliga
 CURRENT,shipeditor_equipment_autobuyenable,2886,Auto Buy *X,Bilköp *X
@@ -1451,7 +1496,6 @@ CURRENT,equipment_weaponsconsole_locked,2624,SLOT *X LOCKED,SLOT *X LOCKED
 CURRENT,equipment_weaponsconsole_extradescription,2624,*X Connected weapons,*X Anslutna vapen
 CURRENT,equipment_weaponsconsole_connected,2624,Controlled by Weapons Console,Styrs av vapenkonsolen
 CURRENT,equipment_storagecrate_quantity,2624,STORED: *X/*Y,FÖRVARAS: *X/*Y
-CURRENT,equipment_storagecrate_capacity,2624,CAPACITY,KAPACITET
 CURRENT,equipment_storagecrate_dumping,2624,DUMPING,TUMPNING
 CURRENT,equipment_storagecrate_refill_enable,2624,PRIORITISE ZONES,PRIORITERA ZONER
 CURRENT,equipment_storagecrate_refill_disable,2624,PRIORITISE CRATE,PRIORITERA LÅDAN
@@ -3188,6 +3232,8 @@ CURRENT,dsi_part2_scene_z4,2624,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2624,THERE WILL BE NO FURTHER WARNING.,KOMMER DET INTE ATT FINNAS NÅGON YTTERLIGARE VARNING.
 CURRENT,dsi_part2_scene_y7,2624,You've left me no choice.,Du har inte gett mig något val.
 CURRENT,dsi_part2_scene_y8,2624,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Jag kommer efter dig Alexander, och den här gången ber jag inte om 10%. Jag vill ha allt."
+OBSOLETE,shipeditor_equipment_autobuy,2886,Enable Auto Buy,Aktivera automatiskt köp
+OBSOLETE,equipment_storagecrate_capacity,2624,CAPACITY,KAPACITET
 OBSOLETE,settings_dynamiclighting,2675,Use Dynamic Lighting,Använd dynamisk belysning
 OBSOLETE,settings_arraytextures,2624,Use Array Textures,Använd Array-texturer
 OBSOLETE,translationeditor_copytoclipboard,3511,Copy To Clipboard,Kopiera till urklipp

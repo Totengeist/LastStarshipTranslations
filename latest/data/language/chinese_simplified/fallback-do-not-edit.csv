@@ -1,4 +1,51 @@
 ﻿state,key,svn,english,translation
+NEW,powergrid_category_industry,3632,INDUSTRY,行业
+NEW,powergrid_category_mining,3632,MINING,采矿
+CURRENT,hud_tooltip_leftclickboxplace,3629,[SHIFT + LMB Drag] Box place,[SHIFT + LMB 拖动]方框位置
+CURRENT,hud_tooltip_leftclickboxdismantle,3629,[SHIFT + LMB Drag] Box dismantle,[SHIFT + LMB 拖动] 盒子拆除
+CURRENT,hud_tooltip_rightclickboxdelete,3629,[SHIFT + RMB Drag] Box delete,[SHIFT + RMB 拖动] 删除方框
+CURRENT,hud_installqueue_inproduction,3629,QUEUED FOR PRODUCTION,待产
+CURRENT,hud_installqueue_waitingforbox,3629,NONE AVAILABLE,无可用信息
+CURRENT,hud_workqueue_waitingforcrew,3629,WAITING FOR CREW,等待船员
+CURRENT,hud_workqueue_installinprogress,3629,INSTALL IN PROGRESS,安装中
+CURRENT,equipment_storagecrate_capacity_mixed,3629,CAPACITY: MIXED,容量：混合
+CURRENT,equipment_storagecrate_refill_mixed,3629,MIXED PRIORITIES,混合优先
+CURRENT,equipment_multiple_recipes,3629,MULTIPLE RECIPES,多种配方
+CURRENT,equipment_multiple_fluids,3629,MULTIPLE FLUIDS,多重流体
+CURRENT,equipment_multiple_types,3629,MULTIPLE TYPES,多种类型
+CURRENT,equipment_multiple_names,3629,MULTIPLE NAMES,多个名称
+CURRENT,equipment_on,3629,ON,关于
+CURRENT,equipment_off,3629,OFF,关闭
+CURRENT,equipment_on_amount,3629,ON(*X),ON(*X)
+CURRENT,equipment_off_amount,3629,OFF(*X),OFF(*X)
+CURRENT,equipment_on_off_amount,3629,ON(*X) OFF(*Y),ON(*X) OFF(*Y)
+CURRENT,shipeditor_equipment_autoproduce,3629,AUTO-PRODUCE,自动生产线
+CURRENT,shipeditor_equipment_autoproduce_tooltip,3629,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""STOP"" will be used. They will be set back to ""STOP"" when production has finished.","使用可用的装配台和制造机自动生产缺失的设备。\n设置为 ""停止 ""的装配台或制造机将被使用。生产完成后，它们将被设置回 ""停止""。"
+CURRENT,shipeditor_equipment_buymissing,3629,AUTO-BUY MATERIALS,自动购买材料
+CURRENT,shipeditor_equipment_buymissing_tooltip,3629,Automatically buy missing materials for production.\nThis includes ingots as well as components such as frames.,自动购买生产所缺的材料。\n这包括钢锭以及框架等部件。
+CURRENT,shipeditor_equipment_inboundonshuttle,3629,*X INBOUND ON SHUTTLE,*X 穿梭进站
+CURRENT,shipeditor_equipment_inproduction,3629,*X IN PRODUCTION (*Y MORE QUEUED),*X 生产中 (*Y 更多排队中)
+CURRENT,shipeditor_equipment_queuedforproduction,3629,*X QUEUED FOR PRODUCTION,*X 待产
+CURRENT,shipeditor_equipment_availablecount,3629,*X AVAILABLE TO BUY,*X 可购买
+CURRENT,shipeditor_equipment_waitingforstock,3629,WAITING FOR STOCK,等货
+CURRENT,trade_buy_quantity,3629,BUY *X,购买*X
+CURRENT,tactical_fighterdeployment_alert,3629,FIGHTER MODE: ALERT,战士模式：警报
+CURRENT,tactical_fighterdeployment_stow,3629,FIGHTER MODE: STOW,战斗机模式：收起
+CURRENT,tactical_tooltip_fighter_title,3629,Fighter Modes,战斗机模式
+CURRENT,tactical_tooltip_fighter_alertcaption,3629,ALERT,警报
+CURRENT,tactical_tooltip_fighter_alert,3629,Fighters will automatically deploy and engage hostile targets when battlestations is enabled.,启用战斗堡垒后，战斗机将自动部署并攻击敌对目标。
+CURRENT,tactical_tooltip_fighter_stowcaption,3629,STOW,STOW
+CURRENT,tactical_tooltip_fighter_stow,3629,Fighters will remain stowed. Currently deployed fighters will return.,战斗机将继续停放。目前部署的战斗机将返回。
+CURRENT,object_powerswitch,3629,Power Switch,电源开关
+CURRENT,object_powerswitch_description,3629,Install along a cable and toggle on and off to control power flow. Can be given a name to be easily toggled from the powergrid window.,沿电缆安装，通过切换开关控制电力流。可为其命名，以便在电网窗口中轻松切换。
+CURRENT,loader_auto_multiple_fluids,3629,AUTO (MULTIPLE FLUIDS),汽车（多种流体）
+CURRENT,loader_auto_resource,3629,AUTO (R*X),自动 (R*X)
+CURRENT,fighter_lowfuel,3629,LOW FUEL,燃料不足
+CURRENT,fighter_noammo,3629,NO AMMO,无弹药
+CURRENT,alert_type_novalidfactory,3629,NO VALID FACTORY,无有效工厂
+CURRENT,alert_type_novalidfactory_tooltip,3629,"Your ship is trying to produce something, but there are no valid factories.\n\nThis could be due to missing pipe inputs or because a particular factory is missing (e.g. a fabricator).\n\nCheck the recipe using the recipe window and check what equipment is needed or if there are any pipe inputs.",您的飞船正在尝试生产某种物品，但没有有效的工厂。\n\n这可能是由于缺少管道输入或缺少特定工厂（如制造厂）。\n\n使用配方窗口检查配方，并检查需要哪些设备或是否有管道输入。
+CURRENT,equipment_storagecrate_capacity,3629,CAPACITY: *X,容量：*X
+CURRENT,shipeditor_equipment_autobuy,3629,AUTO BUY,自动购买
 CURRENT,trade_tooltip_expandautotrade,3565,[LMB] Show Auto Trade Options,[LMB] 显示汽车交易选项
 CURRENT,trade_tooltip_collapseautotrade,3565,[LMB] Hide Auto Trade Options,[LMB] 隐藏自动交易选项
 CURRENT,techtree_node_title_fighters1,3565,Fighters,战士
@@ -39,7 +86,6 @@ CURRENT,hud_tooltip_selectequipment,3561,[LMB/RMB] Select,[LMB/RMB] 选择
 CURRENT,hud_tooltip_selectequipmentadd,3561,[SHIFT + LMB/RMB] Toggle select,[SHIFT + LMB/RMB] 切换选择
 CURRENT,hud_tooltip_selectequipmentnearby,3561,[LMB x2] Select all nearby,[LMB x2] 选择附近所有位置
 CURRENT,hud_tooltip_selectequipmentdrag,3561,[LMB Drag] Box select,[LMB 拖动] 框选择
-CURRENT,equipment_multiple_selected,3561,MULTIPLE RECIPES,多种配方
 CURRENT,orders_layerscope,3561,SHIP-SPECIFIC ORDERS,特定船运订单
 CURRENT,orders_systemscope,3561,SYSTEM-WIDE ORDERS,全系统订单
 CURRENT,order_tooltip_salvage,3561,Allow drones to gather salvage,允许无人机收集打捞物
@@ -1598,7 +1644,6 @@ CURRENT,equipment_weaponsconsole_locked,2448,SLOT *X LOCKED,插槽*X 锁定
 CURRENT,equipment_weaponsconsole_extradescription,2448,*X Connected weapons,*X 连接武器
 CURRENT,equipment_weaponsconsole_connected,2448,Controlled by Weapons Console,由武器控制台控制
 CURRENT,equipment_storagecrate_quantity,2448,STORED: *X/*Y,存储：*X/*Y
-CURRENT,equipment_storagecrate_capacity,2448,CAPACITY,容量
 CURRENT,equipment_storagecrate_dumping,2448,DUMPING,清空
 CURRENT,equipment_storagecrate_refill_enable,2448,PRIORITISE ZONES,优先供应区域
 CURRENT,equipment_storagecrate_refill_disable,2448,PRIORITISE CRATE,优先供应存储箱
@@ -3143,7 +3188,6 @@ CURRENT,shipeditor_mode_equipment,2872,Equipment,设备
 CURRENT,shipeditor_tooltip_equipment,2872,Queue the installation of equipment inside your ship.,在飞船内排队安装设备。
 CURRENT,shipeditor_brush_oval,2872,OVAL TOOL,椭圆工具
 CURRENT,shipeditor_equipment_title,2872,Missing Equipment,缺失设备
-CURRENT,shipeditor_equipment_autobuy,2872,Enable Auto Buy,启用自动购买
 CURRENT,shipeditor_equipment_autobuyconfirm,2872,Confirm Auto Buy Changes,确认自动购买更改
 CURRENT,shipeditor_equipment_manualbuy,2872,Buy All Available,购买所有可用
 CURRENT,shipeditor_equipment_autobuyenable,2872,Auto Buy *X,自动购买 *X
@@ -3188,6 +3232,8 @@ CURRENT,bravenewsector_part1_dophase6,2872,Complete Phase 6 of the Stargate Proj
 CURRENT,trade_equipment_size,2872,- Size *X x *Y,- 尺寸 *X x *Y
 CURRENT,trade_equipment_rotatable,2872,- Rotatable,- 可旋转
 CURRENT,trade_equipment_powered,2872,- Powered,- 需要供电
+OBSOLETE,equipment_storagecrate_capacity,2448,CAPACITY,容量
+OBSOLETE,shipeditor_equipment_autobuy,2872,Enable Auto Buy,启用自动购买
 OBSOLETE,settings_dynamiclighting,2675,Use Dynamic Lighting,启用动态光照
 OBSOLETE,settings_arraytextures,2624,Use Array Textures,启用阵列纹理
 OBSOLETE,translationeditor_copytoclipboard,3511,Copy To Clipboard,复制到剪贴板

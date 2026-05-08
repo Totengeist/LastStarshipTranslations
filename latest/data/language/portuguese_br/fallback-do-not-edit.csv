@@ -1,4 +1,51 @@
 ﻿state,key,svn,english,translation
+NEW,powergrid_category_industry,3632,INDUSTRY,INDÚSTRIA
+NEW,powergrid_category_mining,3632,MINING,MINERAÇÃO
+CURRENT,hud_tooltip_leftclickboxplace,3629,[SHIFT + LMB Drag] Box place,[SHIFT + LMB Drag] Local da caixa
+CURRENT,hud_tooltip_leftclickboxdismantle,3629,[SHIFT + LMB Drag] Box dismantle,[SHIFT + LMB Drag] Desmontagem da caixa
+CURRENT,hud_tooltip_rightclickboxdelete,3629,[SHIFT + RMB Drag] Box delete,[SHIFT + RMB Drag] Excluir caixa
+CURRENT,hud_installqueue_inproduction,3629,QUEUED FOR PRODUCTION,NA FILA PARA PRODUÇÃO
+CURRENT,hud_installqueue_waitingforbox,3629,NONE AVAILABLE,NENHUM DISPONÍVEL
+CURRENT,hud_workqueue_waitingforcrew,3629,WAITING FOR CREW,AGUARDANDO A EQUIPE
+CURRENT,hud_workqueue_installinprogress,3629,INSTALL IN PROGRESS,INSTALAÇÃO EM ANDAMENTO
+CURRENT,equipment_storagecrate_capacity_mixed,3629,CAPACITY: MIXED,CAPACIDADE: MISTA
+CURRENT,equipment_storagecrate_refill_mixed,3629,MIXED PRIORITIES,PRIORIDADES MISTAS
+CURRENT,equipment_multiple_recipes,3629,MULTIPLE RECIPES,VÁRIAS RECEITAS
+CURRENT,equipment_multiple_fluids,3629,MULTIPLE FLUIDS,VÁRIOS FLUIDOS
+CURRENT,equipment_multiple_types,3629,MULTIPLE TYPES,MÚLTIPLOS TIPOS
+CURRENT,equipment_multiple_names,3629,MULTIPLE NAMES,MÚLTIPLOS NOMES
+CURRENT,equipment_on,3629,ON,ON
+CURRENT,equipment_off,3629,OFF,DESLIGADO
+CURRENT,equipment_on_amount,3629,ON(*X),ON(*X)
+CURRENT,equipment_off_amount,3629,OFF(*X),OFF(*X)
+CURRENT,equipment_on_off_amount,3629,ON(*X) OFF(*Y),LIGADO(*X) DESLIGADO(*Y)
+CURRENT,shipeditor_equipment_autoproduce,3629,AUTO-PRODUCE,AUTO-PRODUÇÃO
+CURRENT,shipeditor_equipment_autoproduce_tooltip,3629,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""STOP"" will be used. They will be set back to ""STOP"" when production has finished.","Produzir automaticamente equipamentos ausentes usando as mesas de montagem e os fabricantes disponíveis.\nQualquer mesa de montagem ou fabricante que estiver definido como ""STOP"" será usado. Eles voltarão a ser definidos como ""STOP"" quando a produção for concluída."
+CURRENT,shipeditor_equipment_buymissing,3629,AUTO-BUY MATERIALS,MATERIAIS DE COMPRA AUTOMÁTICA
+CURRENT,shipeditor_equipment_buymissing_tooltip,3629,Automatically buy missing materials for production.\nThis includes ingots as well as components such as frames.,"Compre automaticamente os materiais que faltam para a produção.\nIsso inclui lingotes e componentes, como estruturas."
+CURRENT,shipeditor_equipment_inboundonshuttle,3629,*X INBOUND ON SHUTTLE,*X CHEGADA NO ÔNIBUS ESPACIAL
+CURRENT,shipeditor_equipment_inproduction,3629,*X IN PRODUCTION (*Y MORE QUEUED),*X EM PRODUÇÃO (*Y MAIS EM FILA DE ESPERA)
+CURRENT,shipeditor_equipment_queuedforproduction,3629,*X QUEUED FOR PRODUCTION,*X NA FILA PARA PRODUÇÃO
+CURRENT,shipeditor_equipment_availablecount,3629,*X AVAILABLE TO BUY,*X DISPONÍVEL PARA COMPRA
+CURRENT,shipeditor_equipment_waitingforstock,3629,WAITING FOR STOCK,AGUARDANDO ESTOQUE
+CURRENT,trade_buy_quantity,3629,BUY *X,COMPRAR *X
+CURRENT,tactical_fighterdeployment_alert,3629,FIGHTER MODE: ALERT,MODO DE LUTA: ALERTA
+CURRENT,tactical_fighterdeployment_stow,3629,FIGHTER MODE: STOW,MODO DE COMBATE: ARMAZENADO
+CURRENT,tactical_tooltip_fighter_title,3629,Fighter Modes,Modos de combate
+CURRENT,tactical_tooltip_fighter_alertcaption,3629,ALERT,ALERTA
+CURRENT,tactical_tooltip_fighter_alert,3629,Fighters will automatically deploy and engage hostile targets when battlestations is enabled.,Os caças serão implantados automaticamente e atacarão alvos hostis quando as batalhas estiverem ativadas.
+CURRENT,tactical_tooltip_fighter_stowcaption,3629,STOW,ESTOQUE
+CURRENT,tactical_tooltip_fighter_stow,3629,Fighters will remain stowed. Currently deployed fighters will return.,Os caças permanecerão armazenados. Os caças atualmente mobilizados retornarão.
+CURRENT,object_powerswitch,3629,Power Switch,Interruptor de alimentação
+CURRENT,object_powerswitch_description,3629,Install along a cable and toggle on and off to control power flow. Can be given a name to be easily toggled from the powergrid window.,Instale ao longo de um cabo e ligue e desligue para controlar o fluxo de energia. Você pode receber um nome para ser facilmente alternado na janela da rede elétrica.
+CURRENT,loader_auto_multiple_fluids,3629,AUTO (MULTIPLE FLUIDS),AUTOMOTIVO (VÁRIOS FLUIDOS)
+CURRENT,loader_auto_resource,3629,AUTO (R*X),AUTO (R*X)
+CURRENT,fighter_lowfuel,3629,LOW FUEL,COMBUSTÍVEL BAIXO
+CURRENT,fighter_noammo,3629,NO AMMO,SEM MUNIÇÃO
+CURRENT,alert_type_novalidfactory,3629,NO VALID FACTORY,NENHUMA FÁBRICA VÁLIDA
+CURRENT,alert_type_novalidfactory_tooltip,3629,"Your ship is trying to produce something, but there are no valid factories.\n\nThis could be due to missing pipe inputs or because a particular factory is missing (e.g. a fabricator).\n\nCheck the recipe using the recipe window and check what equipment is needed or if there are any pipe inputs.","Seu navio está tentando produzir algo, mas não há fábricas válidas.\n\nIsso pode ser devido à falta de entradas de tubulação ou à falta de uma fábrica específica (por exemplo, um fabricante).\n\nVerifique a receita usando a janela de receita e verifique qual equipamento é necessário ou se há entradas de tubulação."
+CURRENT,shipeditor_equipment_autobuy,3629,AUTO BUY,COMPRA AUTOMÁTICA
+CURRENT,equipment_storagecrate_capacity,3629,CAPACITY: *X,CAPACIDADE: *X
 CURRENT,trade_tooltip_expandautotrade,3565,[LMB] Show Auto Trade Options,[Mostrar opções de comércio automático
 CURRENT,trade_tooltip_collapseautotrade,3565,[LMB] Hide Auto Trade Options,[Ocultar opções de comércio automático
 CURRENT,techtree_node_title_fighters1,3565,Fighters,Lutadores
@@ -39,7 +86,6 @@ CURRENT,hud_tooltip_selectequipment,3561,[LMB/RMB] Select,[LMB/RMB] Selecionar
 CURRENT,hud_tooltip_selectequipmentadd,3561,[SHIFT + LMB/RMB] Toggle select,[SHIFT + LMB/RMB] Alternar seleção
 CURRENT,hud_tooltip_selectequipmentnearby,3561,[LMB x2] Select all nearby,[LMB x2] Selecionar todas as pessoas próximas
 CURRENT,hud_tooltip_selectequipmentdrag,3561,[LMB Drag] Box select,[LMB Drag] Seleção de caixa
-CURRENT,equipment_multiple_selected,3561,MULTIPLE RECIPES,VÁRIAS RECEITAS
 CURRENT,orders_layerscope,3561,SHIP-SPECIFIC ORDERS,ORDENS ESPECÍFICAS DO NAVIO
 CURRENT,orders_systemscope,3561,SYSTEM-WIDE ORDERS,ORDENS EM TODO O SISTEMA
 CURRENT,order_tooltip_salvage,3561,Allow drones to gather salvage,Permitir que os drones coletem os resíduos
@@ -699,7 +745,6 @@ CURRENT,shipeditor_mode_equipment,2886,Equipment,Equipamento
 CURRENT,shipeditor_tooltip_equipment,2886,Queue the installation of equipment inside your ship.,Coloque em fila a instalação de equipamentos dentro de sua nave.
 CURRENT,shipeditor_brush_oval,2886,OVAL TOOL,FERRAMENTA OVAL
 CURRENT,shipeditor_equipment_title,2886,Missing Equipment,Equipamento ausente
-CURRENT,shipeditor_equipment_autobuy,2886,Enable Auto Buy,Ativar a compra automática
 CURRENT,shipeditor_equipment_autobuyconfirm,2886,Confirm Auto Buy Changes,Confirmar alterações na compra automática
 CURRENT,shipeditor_equipment_manualbuy,2886,Buy All Available,Comprar todos os disponíveis
 CURRENT,shipeditor_equipment_autobuyenable,2886,Auto Buy *X,Compra de automóveis *X
@@ -1451,7 +1496,6 @@ CURRENT,equipment_weaponsconsole_locked,2624,SLOT *X LOCKED,ESPAÇO *X BLOQUEADO
 CURRENT,equipment_weaponsconsole_extradescription,2624,*X Connected weapons,*X Armas conectadas
 CURRENT,equipment_weaponsconsole_connected,2624,Controlled by Weapons Console,Controlado pelo Console de Armas
 CURRENT,equipment_storagecrate_quantity,2624,STORED: *X/*Y,ARMAZENADO: *X/*Y
-CURRENT,equipment_storagecrate_capacity,2624,CAPACITY,CAPACIDADE
 CURRENT,equipment_storagecrate_dumping,2624,DUMPING,ESVAZIANDO
 CURRENT,equipment_storagecrate_refill_enable,2624,PRIORITISE ZONES,PRIORIZAR ZONAS
 CURRENT,equipment_storagecrate_refill_disable,2624,PRIORITISE CRATE,PRIORIZAR A CAIXA
@@ -3188,6 +3232,8 @@ CURRENT,dsi_part2_scene_z4,2624,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2624,THERE WILL BE NO FURTHER WARNING.,NÃO HAVERÁ MAIS AVISOS.
 CURRENT,dsi_part2_scene_y7,2624,You've left me no choice.,Você não me deixou escolha.
 CURRENT,dsi_part2_scene_y8,2624,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Eu vou atrás de você, Alexander, e desta vez não estou pedindo 10%. Eu quero tudo."
+OBSOLETE,shipeditor_equipment_autobuy,2886,Enable Auto Buy,Ativar a compra automática
+OBSOLETE,equipment_storagecrate_capacity,2624,CAPACITY,CAPACIDADE
 OBSOLETE,settings_dynamiclighting,2675,Use Dynamic Lighting,Use iluminação dinâmica
 OBSOLETE,settings_arraytextures,2624,Use Array Textures,Usar texturas de matriz
 OBSOLETE,translationeditor_copytoclipboard,3511,Copy To Clipboard,Copiar para a área de transferência

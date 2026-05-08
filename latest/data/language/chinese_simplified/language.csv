@@ -1,136 +1,171 @@
 ﻿state,key,svn,english,translation
-NEW,settings_language_category,3511,LANGUAGE,语言
-NEW,settings_communicator_speed,3511,Character text speed,对话文本速度
-NEW,settings_camerapan_speed,3511,Camera pan speed,相机平移速度
-NEW,settings_slowest,3511,Slowest,最慢
-NEW,settings_slow,3511,Slow,慢
-NEW,settings_normal,3511,Normal,中
-NEW,settings_fast,3511,Fast,快
-NEW,settings_fastest,3511,Fastest,最快
-NEW,hud_atmosphere_no_oxygen,3511,NO OXYGEN,无氧气
-NEW,hud_habitation_info_title,3511,HABITATION,居住区
-NEW,hud_habitation_info_cabins,3511,*X / *Y CABINS,*X / *Y 船舱
-NEW,hud_habitation_info_sewage,3511,*X SEWAGE,*X 污水
-NEW,tactical_dockingnotpossible,3511,DOCKING IMPOSSIBLE,无法对接
-NEW,tactical_thrustersrequired,3511,THRUSTERS REQUIRED,需要推进器
-NEW,creditstitle_special,3511,Special Thanks,特别感谢
-NEW,settings_softwarecursor,3561,Software Mouse Cursor,软件鼠标指针
-NEW,settings_softwarecursor_tooltip,3561,The game renders the mouse cursor instead of the operating system.,由游戏渲染鼠标指针，而不是操作系统。
-NEW,settings_softwarecursorsize,3561,Software Mouse Size,软件鼠标大小
-NEW,settings_mousesize_small,3561,Small,小
-NEW,settings_mousesize_medium,3561,Medium,中
-NEW,settings_mousesize_large,3561,Large,大
-NEW,settings_mousesize_huge,3561,Huge,巨大
-NEW,settings_opengamefolder,3561,OPEN GAME FOLDER,打开游戏文件夹
-NEW,hud_tooltip_selectequipment,3561,[LMB/RMB] Select,"[左键/右键] 选择"
-NEW,hud_tooltip_selectequipmentadd,3561,[SHIFT + LMB/RMB] Toggle select,[SHIFT + 左键/右键] 切换选择
-NEW,hud_tooltip_selectequipmentnearby,3561,[LMB x2] Select all nearby,[左键 x2] 选择所有附近的
-NEW,hud_tooltip_selectequipmentdrag,3561,[LMB Drag] Box select,[左键拖拽] 框选
-NEW,equipment_multiple_selected,3561,MULTIPLE RECIPES,多个配方
-NEW,orders_layerscope,3561,SHIP-SPECIFIC ORDERS,舰船命令
-NEW,orders_systemscope,3561,SYSTEM-WIDE ORDERS,同星系舰队命令
-NEW,order_tooltip_salvage,3561,Allow drones to gather salvage,允许无人机收集残骸
-NEW,order_tooltip_gather,3561,"Allow drones to gather raw and refined materials (ores, minerals, ingots)",允许无人机收集原材料和精炼材料（矿石、矿物、锭）
-NEW,order_tooltip_repairhull,3561,Allow drones to repair ship hull,允许无人机修复船体
-NEW,order_tooltip_suitson,3561,Make crew put on spacesuits if available,让船员穿上宇航服
-NEW,order_tooltip_exteriorwork,3561,Allow crew to perform jobs in freespace,允许船员在太空中执行任务
-NEW,order_tooltip_weaponsactive,3561,Allow weapons to fire,允许武器开火
-NEW,order_tooltip_fleetlogistics,3561,Allow logistics transfers between ships,允许舰船间货运
-NEW,order_tooltip_battlestations,3561,Battle Stations,战斗部署
-NEW,order_tooltip_mining,3561,Allow mining lasers to fire,允许采矿激光开火
-NEW,order_tooltip_autotradeactive,3561,Allow auto trades to execute,允许自动交易执行
-NEW,order_tooltip_advancedlogistics,3561,Allow interstellar logistics to execute,允许跨星际货运
-NEW,object_fighterbay,3561,Fighter Bay,战斗机库
-NEW,object_fighterbay_description,3561,"Install on the inside of your ship and provide materials to produce fighters. The fighter will launch from the top of the ship and return to the bay once the battle is over. If it dies, a new one can be built.", 安装在你的舰船内部，供应材料来生产战斗机。战斗机将从舰船顶部发射，并在战斗结束后返回机库。如果战斗机被摧毁，需要重新生产。
-NEW,fighter_fuel,3561,FUEL: *X%,燃料: *X%
-NEW,fighter_ammo,3561,BULLETS: *X,弹药：*X
-NEW,fighter_quantity,3561,*X / *Y,"*X / *Y"
-NEW,fighter_health_text,3561,HULL,机体
-NEW,fighter_ammo_text,3561,BULLETS,弹药
-NEW,fighter_fuel_text,3561,FUEL,燃料
-NEW,fighter_refuelling_text,3561,REFUELLING..., 正在加油……
-NEW,fighter_create,3561,CREATE FIGHTER,创建战斗机
-NEW,fighter_state_attackinglayer,3561,ATTACKING *X,正在攻击 *X
-NEW,fighter_state_attackingfighter,3561,ATTACKING ENEMY FIGHTER, 正在攻击敌方战斗机
-NEW,fighter_state_returningtobay,3561,RETURNING TO BAY, 正在返回机库
-NEW,fighter_state_idleinfreespace,3561,SEARCHING FOR BAY, 正在寻找机库
-NEW,translationeditor_usethistranslation,3561,Use This Translation,使用此翻译
-NEW,translationeditor_none,3561,None,无
-NEW,translationeditor_yourchanges,3561,Your Changes,你的更改
-NEW,translationeditor_new,3561,New,新
-NEW,translationeditor_updated,3561,Updated,已更新
-NEW,translationeditor_showpreview,3561,Show Preview,显示预览
-NEW,translationeditor_english,3561,English,英语
-NEW,translationeditor_nenglish,3561,New English,新的英语
-NEW,translationeditor_previous,3561,Previous,之前的
-NEW,translationeditor_fallback,3561,Suggestion,建议
-NEW,translationeditor_youredit,3561,Your Change,你的更改
-NEW,translationeditor_original,3561,Approved,已批准
-NEW,translationeditor_empty,3561,No Manually Approved Translation Yet,还没有手动批准的译文
-NEW,translationeditor_empty_original_tooltip1,3561,Unformatted Approved translation, 未格式化的已批准译文
-NEW,translationeditor_empty_original_tooltip2,3561,Formatted Approved translation, 格式化的已批准译文
-NEW,translationeditor_empty_original_tooltip3,3561,"As there is no currently approved translation, the game is using the suggested translation above.\n\nIf you think the suggested translation is good, you should copy it into your changes with the ""Use This Translation"" button.\n\nAfter you submit your changes to us, your translation will then appear as approved in the next game update.","目前没有已批准翻译，游戏正在使用上面的推荐翻译。\n\n如果你认为推荐的翻译不错，请点击“使用此翻译”按钮将其复制到你的更改中。\n\n在你提交更改后，你的翻译将在下次游戏更新中显示为已批准。"
-NEW,translationeditor_fallback_tooltip1,3561,Suggested Translation,推荐译文
-NEW,translationeditor_fallback_tooltip2,3561,Formatted Suggested Translation,格式化的推荐译文
-NEW,translationeditor_fallback_tooltip3,3561,"This suggestion needs to be checked that it correctly matches the context of the game.\n\nIt will only be used if there is no ""approved"" translation.","这个推荐翻译需要进行检查，以确保它正确地匹配游戏的上下文。\n\n只有在没有已批准翻译的情况下才会使用它。"
-NEW,translationeditor_previousenglish_tooltip1,3561,Previous English Phrase,之前的英语原文
-NEW,translationeditor_previousenglish_tooltip2,3561,Formatted Previous English phrase,格式化的之前的英语原文
-NEW,translationeditor_previousenglish_tooltip3,3561,The English phrase that was used in the previous version of the game.,上一版本游戏中使用的英语原文
-NEW,translationeditor_previoustranslation_tooltip1,3561,Previous Translation Phrase,之前的译文
-NEW,translationeditor_previoustranslation_tooltip2,3561,Formatted Previous Translation phrase,格式化的之前的译文
-NEW,translationeditor_previoustranslation_tooltip3,3561,Translation of the English phrase that was used in the previous version of the game.,上一版本游戏中使用的译文
-NEW,settings_userinterface,3563,UI & GAME,游戏界面
-NEW,settings_graphics,3563,GRAPHICS,图形
-NEW,settings_uibounce_description,3563,Enlarges GUI elements such as buttons on mouse over.,鼠标悬停时，放大按钮之类的GUI元素。
-NEW,settings_opentranslationeditor,3563,TRANSLATION EDITOR ({TranslatorWindow}),翻译编辑器 ({TranslatorWindow})
-NEW,settings_communicator_speed_description,3563,The speed at which character dialogue text is revealed in the communicator.,对话文本在通讯器中显示的速度。
-NEW,newmainmenu_parallax_description,3563,Use a parallax effect to give an impression of depth,使用视差效果来营造空间感。
-NEW,newmainmenu_slowcombat_description,3563,Switch to slow game speed after taking damage during combat.,战斗中受到伤害时，把游戏切换到慢速。
-NEW,trade_tooltip_expandautotrade,3565,[LMB] Show Auto Trade Options,"[左键] 显示自动交易选项"
-NEW,trade_tooltip_collapseautotrade,3565,[LMB] Hide Auto Trade Options,"[左键] 隐藏自动交易选项"
-NEW,techtree_node_title_fighters1,3565,Fighters,战斗机
-NEW,techtree_node_caption_fighters1,3565,Improve the survivability and agility of fighters. Armour mitigates damage received.,提高战斗机的生存能力和机动性，装甲可以减轻受到的伤害。
-NEW,techtree_node_title_fighterarmour1,3565,Fighter Survivability 1,战斗机生存 1
-NEW,techtree_node_caption_fighterarmour1,3565,Increase armour damage mitigation.,提高装甲的伤害减免。
-NEW,techtree_node_title_fighterarmour2,3565,Fighter Survivability 2,战斗机生存 2
-NEW,techtree_node_caption_fighterarmour2,3565,Increase armour damage mitigation.,提高装甲的伤害减免。
-NEW,techtree_node_title_fighterarmour3,3565,Fighter Survivability 3,战斗机生存 3
-NEW,techtree_node_caption_fighterarmour3,3565,Increase armour damage mitigation.,提高装甲的伤害减免。
-NEW,techtree_node_title_fighterspeed1,3565,Fighter Agility 1,"战斗机机动性 1"
-NEW,techtree_node_caption_fighterspeed1,3565,Improve the fuel usage and speed of your fighters.,提高战斗机的燃料使用效率和速度。
-NEW,techtree_node_title_fighterspeed2,3565,Fighter Agility 2,"战斗机机动性 2"
-NEW,techtree_node_caption_fighterspeed2,3565,Improve the fuel usage and speed of your fighters.,提高战斗机的燃料使用效率和速度。
-NEW,techtree_node_title_fighterspeed3,3565,Fighter Agility 3,"战斗机机动性 3"
-NEW,techtree_node_caption_fighterspeed3,3565,Improve the fuel usage and speed of your fighters.,提高战斗机的燃料使用效率和速度。
-NEW,boost_fighterarmour,3565,Fighter Armour +*X%,"战斗机装甲 +*X%"
-NEW,boost_fighterspeed,3565,Fighter Speed +*X%,"战斗机速度 +*X%"
-NEW,boost_fighterfuel,3565,Fighter Fuel Efficiency +*X%,"战斗机燃料效率 +*X%"
-UPDATED,translationeditor_copytoclipboard,3561,Copy,复制
-PREVIOUS,translationeditor_copytoclipboard,3511,Copy To Clipboard,复制到剪贴板
-UPDATED,settings_instantshipswitch_description,3511,Skip rotation and panning effect when switching between ships.,在舰船之间切换时，跳过过渡画面
-PREVIOUS,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition",在舰船之间切换时，跳过过渡画面
-UPDATED,newmainmenu_parallax,3511,Parallax,背景视差
-PREVIOUS,newmainmenu_parallax,2448,Parallax effect,背景视差
-UPDATED,wolf_part1_completion3,3511,So far they haven't left a single living witness. But the sensor data tells the full story. We've managed to extract another sensor image of the attacker.,目前为止，它们还没有留下一个活口。但传感器数据说明了一切，我们设法提取了另一张攻击者的传感器图像。
-PREVIOUS,wolf_part1_completion3,2448,So far they haven't left a single living witness. But the sensor data tells the full story. We've manged to extract another sensor image of the attacker.,目前为止，它们还没有留下一个活口。但传感器数据说明了一切，我们设法提取了另一张攻击者的传感器图像。
-UPDATED,translationeditor_unmodified,3561,Unmodified,未经修改的原文
-PREVIOUS,translationeditor_unmodified,3054,Unmodified Phrases,未经修改的原文
-UPDATED,translationeditor_original_tooltip1,3561,Unformatted Approved Translation,未格式化的译文
-PREVIOUS,translationeditor_original_tooltip1,3054,Unformatted original translation,未格式化的译文
-UPDATED,translationeditor_original_tooltip2,3561,Formatted Approved Translation,格式化的译文
-PREVIOUS,translationeditor_original_tooltip2,3054,Formatted original translation,格式化的译文
-UPDATED,translationeditor_original_tooltip3,3561,"This is what is currently used in the game. Even though the translation is ""Approved"" you can still submit changes to improve it further.",这就是目前游戏中使用的文本。即使译文是“已批准”状态，你仍然可以提交更改来进一步精修。
-PREVIOUS,translationeditor_original_tooltip3,3054,This is what is currently used in the game.,这就是目前游戏中使用的文本。
-UPDATED,translationeditor_new_tooltip1,3561,Unformatted New Translation,未格式化的新译文
-PREVIOUS,translationeditor_new_tooltip1,3054,Unformatted new translation,未格式化的新译文
-UPDATED,translationeditor_new_tooltip2,3561,Formatted New Translation,格式化后的新译文
-PREVIOUS,translationeditor_new_tooltip2,3054,Formatted new translation,格式化后的新译文
-UPDATED,mainmenu_gamemode_freeroam_tooltip,3561,"You are free to pursue any career at your own pace. No anomaly, no stargate.",你可以按照自己的节奏自由发展，没有异常，没有星门。
-PREVIOUS,mainmenu_gamemode_freeroam_tooltip,2448,"You are free to persue any career at your own pace. No anomaly, no stargate.",你可以按照自己的节奏自由发展，没有异常，没有星门。
-UPDATED,settings_dynamiclighting,3563,Dynamic Lighting,动态光源
-PREVIOUS,settings_dynamiclighting,2675,Use Dynamic Lighting,启用动态光照
-UPDATED,settings_arraytextures,3563,Smooth Tiles,平滑纹理
-PREVIOUS,settings_arraytextures,2624,Use Array Textures,启用阵列纹理
+NEW,hud_tooltip_leftclickboxplace,3629,[SHIFT + LMB Drag] Box place,
+NEW,hud_tooltip_leftclickboxdismantle,3629,[SHIFT + LMB Drag] Box dismantle,
+NEW,hud_tooltip_rightclickboxdelete,3629,[SHIFT + RMB Drag] Box delete,
+NEW,hud_installqueue_inproduction,3629,QUEUED FOR PRODUCTION,
+NEW,hud_installqueue_waitingforbox,3629,NONE AVAILABLE,
+NEW,hud_workqueue_waitingforcrew,3629,WAITING FOR CREW,
+NEW,hud_workqueue_installinprogress,3629,INSTALL IN PROGRESS,
+NEW,equipment_storagecrate_capacity_mixed,3629,CAPACITY: MIXED,
+NEW,equipment_storagecrate_refill_mixed,3629,MIXED PRIORITIES,
+NEW,equipment_multiple_recipes,3629,MULTIPLE RECIPES,
+NEW,equipment_multiple_fluids,3629,MULTIPLE FLUIDS,
+NEW,equipment_multiple_types,3629,MULTIPLE TYPES,
+NEW,equipment_multiple_names,3629,MULTIPLE NAMES,
+NEW,equipment_on,3629,ON,
+NEW,equipment_off,3629,OFF,
+NEW,equipment_on_amount,3629,ON(*X),
+NEW,equipment_off_amount,3629,OFF(*X),
+NEW,equipment_on_off_amount,3629,ON(*X) OFF(*Y),
+NEW,shipeditor_equipment_autoproduce,3629,AUTO-PRODUCE,
+NEW,shipeditor_equipment_autoproduce_tooltip,3629,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""STOP"" will be used. They will be set back to ""STOP"" when production has finished.",
+NEW,shipeditor_equipment_buymissing,3629,AUTO-BUY MATERIALS,
+NEW,shipeditor_equipment_buymissing_tooltip,3629,Automatically buy missing materials for production.\nThis includes ingots as well as components such as frames.,
+NEW,shipeditor_equipment_inboundonshuttle,3629,*X INBOUND ON SHUTTLE,
+NEW,shipeditor_equipment_inproduction,3629,*X IN PRODUCTION (*Y MORE QUEUED),
+NEW,shipeditor_equipment_queuedforproduction,3629,*X QUEUED FOR PRODUCTION,
+NEW,shipeditor_equipment_availablecount,3629,*X AVAILABLE TO BUY,
+NEW,shipeditor_equipment_waitingforstock,3629,WAITING FOR STOCK,
+NEW,trade_buy_quantity,3629,BUY *X,
+NEW,tactical_fighterdeployment_alert,3629,FIGHTER MODE: ALERT,
+NEW,tactical_fighterdeployment_stow,3629,FIGHTER MODE: STOW,
+NEW,tactical_tooltip_fighter_title,3629,Fighter Modes,
+NEW,tactical_tooltip_fighter_alertcaption,3629,ALERT,
+NEW,tactical_tooltip_fighter_alert,3629,Fighters will automatically deploy and engage hostile targets when battlestations is enabled.,
+NEW,tactical_tooltip_fighter_stowcaption,3629,STOW,
+NEW,tactical_tooltip_fighter_stow,3629,Fighters will remain stowed. Currently deployed fighters will return.,
+NEW,object_powerswitch,3629,Power Switch,
+NEW,object_powerswitch_description,3629,Install along a cable and toggle on and off to control power flow. Can be given a name to be easily toggled from the powergrid window.,
+NEW,loader_auto_multiple_fluids,3629,AUTO (MULTIPLE FLUIDS),
+NEW,loader_auto_resource,3629,AUTO (R*X),
+NEW,fighter_lowfuel,3629,LOW FUEL,
+NEW,fighter_noammo,3629,NO AMMO,
+NEW,alert_type_novalidfactory,3629,NO VALID FACTORY,
+NEW,alert_type_novalidfactory_tooltip,3629,"Your ship is trying to produce something, but there are no valid factories.\n\nThis could be due to missing pipe inputs or because a particular factory is missing (e.g. a fabricator).\n\nCheck the recipe using the recipe window and check what equipment is needed or if there are any pipe inputs.",
+NEW,powergrid_category_industry,3632,INDUSTRY,
+NEW,powergrid_category_mining,3632,MINING,
+UPDATED,equipment_storagecrate_capacity,3629,CAPACITY: *X,
+PREVIOUS,equipment_storagecrate_capacity,2448,CAPACITY,容量
+UPDATED,shipeditor_equipment_autobuy,3629,AUTO BUY,
+PREVIOUS,shipeditor_equipment_autobuy,2872,Enable Auto Buy,启用自动购买
+CURRENT,settings_language_category,3511,LANGUAGE,语言
+CURRENT,settings_communicator_speed,3511,Character text speed,对话文本速度
+CURRENT,settings_camerapan_speed,3511,Camera pan speed,相机平移速度
+CURRENT,settings_slowest,3511,Slowest,最慢
+CURRENT,settings_slow,3511,Slow,慢
+CURRENT,settings_normal,3511,Normal,中
+CURRENT,settings_fast,3511,Fast,快
+CURRENT,settings_fastest,3511,Fastest,最快
+CURRENT,hud_atmosphere_no_oxygen,3511,NO OXYGEN,无氧气
+CURRENT,hud_habitation_info_title,3511,HABITATION,居住区
+CURRENT,hud_habitation_info_cabins,3511,*X / *Y CABINS,*X / *Y 船舱
+CURRENT,hud_habitation_info_sewage,3511,*X SEWAGE,*X 污水
+CURRENT,tactical_dockingnotpossible,3511,DOCKING IMPOSSIBLE,无法对接
+CURRENT,tactical_thrustersrequired,3511,THRUSTERS REQUIRED,需要推进器
+CURRENT,creditstitle_special,3511,Special Thanks,特别感谢
+CURRENT,settings_softwarecursor,3561,Software Mouse Cursor,软件鼠标指针
+CURRENT,settings_softwarecursor_tooltip,3561,The game renders the mouse cursor instead of the operating system.,由游戏渲染鼠标指针，而不是操作系统。
+CURRENT,settings_softwarecursorsize,3561,Software Mouse Size,软件鼠标大小
+CURRENT,settings_mousesize_small,3561,Small,小
+CURRENT,settings_mousesize_medium,3561,Medium,中
+CURRENT,settings_mousesize_large,3561,Large,大
+CURRENT,settings_mousesize_huge,3561,Huge,巨大
+CURRENT,settings_opengamefolder,3561,OPEN GAME FOLDER,打开游戏文件夹
+CURRENT,hud_tooltip_selectequipment,3561,[LMB/RMB] Select,[左键/右键] 选择
+CURRENT,hud_tooltip_selectequipmentadd,3561,[SHIFT + LMB/RMB] Toggle select,[SHIFT + 左键/右键] 切换选择
+CURRENT,hud_tooltip_selectequipmentnearby,3561,[LMB x2] Select all nearby,[左键 x2] 选择所有附近的
+CURRENT,hud_tooltip_selectequipmentdrag,3561,[LMB Drag] Box select,[左键拖拽] 框选
+CURRENT,orders_layerscope,3561,SHIP-SPECIFIC ORDERS,舰船命令
+CURRENT,orders_systemscope,3561,SYSTEM-WIDE ORDERS,同星系舰队命令
+CURRENT,order_tooltip_salvage,3561,Allow drones to gather salvage,允许无人机收集残骸
+CURRENT,order_tooltip_gather,3561,"Allow drones to gather raw and refined materials (ores, minerals, ingots)",允许无人机收集原材料和精炼材料（矿石、矿物、锭）
+CURRENT,order_tooltip_repairhull,3561,Allow drones to repair ship hull,允许无人机修复船体
+CURRENT,order_tooltip_suitson,3561,Make crew put on spacesuits if available,让船员穿上宇航服
+CURRENT,order_tooltip_exteriorwork,3561,Allow crew to perform jobs in freespace,允许船员在太空中执行任务
+CURRENT,order_tooltip_weaponsactive,3561,Allow weapons to fire,允许武器开火
+CURRENT,order_tooltip_fleetlogistics,3561,Allow logistics transfers between ships,允许舰船间货运
+CURRENT,order_tooltip_battlestations,3561,Battle Stations,战斗部署
+CURRENT,order_tooltip_mining,3561,Allow mining lasers to fire,允许采矿激光开火
+CURRENT,order_tooltip_autotradeactive,3561,Allow auto trades to execute,允许自动交易执行
+CURRENT,order_tooltip_advancedlogistics,3561,Allow interstellar logistics to execute,允许跨星际货运
+CURRENT,object_fighterbay,3561,Fighter Bay,战斗机库
+CURRENT,object_fighterbay_description,3561,"Install on the inside of your ship and provide materials to produce fighters. The fighter will launch from the top of the ship and return to the bay once the battle is over. If it dies, a new one can be built.", 安装在你的舰船内部，供应材料来生产战斗机。战斗机将从舰船顶部发射，并在战斗结束后返回机库。如果战斗机被摧毁，需要重新生产。
+CURRENT,fighter_fuel,3561,FUEL: *X%,燃料: *X%
+CURRENT,fighter_ammo,3561,BULLETS: *X,弹药：*X
+CURRENT,fighter_quantity,3561,*X / *Y,*X / *Y
+CURRENT,fighter_health_text,3561,HULL,机体
+CURRENT,fighter_ammo_text,3561,BULLETS,弹药
+CURRENT,fighter_fuel_text,3561,FUEL,燃料
+CURRENT,fighter_refuelling_text,3561,REFUELLING..., 正在加油……
+CURRENT,fighter_create,3561,CREATE FIGHTER,创建战斗机
+CURRENT,fighter_state_attackinglayer,3561,ATTACKING *X,正在攻击 *X
+CURRENT,fighter_state_attackingfighter,3561,ATTACKING ENEMY FIGHTER, 正在攻击敌方战斗机
+CURRENT,fighter_state_returningtobay,3561,RETURNING TO BAY, 正在返回机库
+CURRENT,fighter_state_idleinfreespace,3561,SEARCHING FOR BAY, 正在寻找机库
+CURRENT,translationeditor_usethistranslation,3561,Use This Translation,使用此翻译
+CURRENT,translationeditor_none,3561,None,无
+CURRENT,translationeditor_yourchanges,3561,Your Changes,你的更改
+CURRENT,translationeditor_new,3561,New,新
+CURRENT,translationeditor_updated,3561,Updated,已更新
+CURRENT,translationeditor_showpreview,3561,Show Preview,显示预览
+CURRENT,translationeditor_english,3561,English,英语
+CURRENT,translationeditor_nenglish,3561,New English,新的英语
+CURRENT,translationeditor_previous,3561,Previous,之前的
+CURRENT,translationeditor_fallback,3561,Suggestion,建议
+CURRENT,translationeditor_youredit,3561,Your Change,你的更改
+CURRENT,translationeditor_original,3561,Approved,已批准
+CURRENT,translationeditor_empty,3561,No Manually Approved Translation Yet,还没有手动批准的译文
+CURRENT,translationeditor_empty_original_tooltip1,3561,Unformatted Approved translation, 未格式化的已批准译文
+CURRENT,translationeditor_empty_original_tooltip2,3561,Formatted Approved translation, 格式化的已批准译文
+CURRENT,translationeditor_empty_original_tooltip3,3561,"As there is no currently approved translation, the game is using the suggested translation above.\n\nIf you think the suggested translation is good, you should copy it into your changes with the ""Use This Translation"" button.\n\nAfter you submit your changes to us, your translation will then appear as approved in the next game update.",目前没有已批准翻译，游戏正在使用上面的推荐翻译。\n\n如果你认为推荐的翻译不错，请点击“使用此翻译”按钮将其复制到你的更改中。\n\n在你提交更改后，你的翻译将在下次游戏更新中显示为已批准。
+CURRENT,translationeditor_fallback_tooltip1,3561,Suggested Translation,推荐译文
+CURRENT,translationeditor_fallback_tooltip2,3561,Formatted Suggested Translation,格式化的推荐译文
+CURRENT,translationeditor_fallback_tooltip3,3561,"This suggestion needs to be checked that it correctly matches the context of the game.\n\nIt will only be used if there is no ""approved"" translation.",这个推荐翻译需要进行检查，以确保它正确地匹配游戏的上下文。\n\n只有在没有已批准翻译的情况下才会使用它。
+CURRENT,translationeditor_previousenglish_tooltip1,3561,Previous English Phrase,之前的英语原文
+CURRENT,translationeditor_previousenglish_tooltip2,3561,Formatted Previous English phrase,格式化的之前的英语原文
+CURRENT,translationeditor_previousenglish_tooltip3,3561,The English phrase that was used in the previous version of the game.,上一版本游戏中使用的英语原文
+CURRENT,translationeditor_previoustranslation_tooltip1,3561,Previous Translation Phrase,之前的译文
+CURRENT,translationeditor_previoustranslation_tooltip2,3561,Formatted Previous Translation phrase,格式化的之前的译文
+CURRENT,translationeditor_previoustranslation_tooltip3,3561,Translation of the English phrase that was used in the previous version of the game.,上一版本游戏中使用的译文
+CURRENT,settings_userinterface,3563,UI & GAME,游戏界面
+CURRENT,settings_graphics,3563,GRAPHICS,图形
+CURRENT,settings_uibounce_description,3563,Enlarges GUI elements such as buttons on mouse over.,鼠标悬停时，放大按钮之类的GUI元素。
+CURRENT,settings_opentranslationeditor,3563,TRANSLATION EDITOR ({TranslatorWindow}),翻译编辑器 ({TranslatorWindow})
+CURRENT,settings_communicator_speed_description,3563,The speed at which character dialogue text is revealed in the communicator.,对话文本在通讯器中显示的速度。
+CURRENT,newmainmenu_parallax_description,3563,Use a parallax effect to give an impression of depth,使用视差效果来营造空间感。
+CURRENT,newmainmenu_slowcombat_description,3563,Switch to slow game speed after taking damage during combat.,战斗中受到伤害时，把游戏切换到慢速。
+CURRENT,trade_tooltip_expandautotrade,3565,[LMB] Show Auto Trade Options,[左键] 显示自动交易选项
+CURRENT,trade_tooltip_collapseautotrade,3565,[LMB] Hide Auto Trade Options,[左键] 隐藏自动交易选项
+CURRENT,techtree_node_title_fighters1,3565,Fighters,战斗机
+CURRENT,techtree_node_caption_fighters1,3565,Improve the survivability and agility of fighters. Armour mitigates damage received.,提高战斗机的生存能力和机动性，装甲可以减轻受到的伤害。
+CURRENT,techtree_node_title_fighterarmour1,3565,Fighter Survivability 1,战斗机生存 1
+CURRENT,techtree_node_caption_fighterarmour1,3565,Increase armour damage mitigation.,提高装甲的伤害减免。
+CURRENT,techtree_node_title_fighterarmour2,3565,Fighter Survivability 2,战斗机生存 2
+CURRENT,techtree_node_caption_fighterarmour2,3565,Increase armour damage mitigation.,提高装甲的伤害减免。
+CURRENT,techtree_node_title_fighterarmour3,3565,Fighter Survivability 3,战斗机生存 3
+CURRENT,techtree_node_caption_fighterarmour3,3565,Increase armour damage mitigation.,提高装甲的伤害减免。
+CURRENT,techtree_node_title_fighterspeed1,3565,Fighter Agility 1,战斗机机动性 1
+CURRENT,techtree_node_caption_fighterspeed1,3565,Improve the fuel usage and speed of your fighters.,提高战斗机的燃料使用效率和速度。
+CURRENT,techtree_node_title_fighterspeed2,3565,Fighter Agility 2,战斗机机动性 2
+CURRENT,techtree_node_caption_fighterspeed2,3565,Improve the fuel usage and speed of your fighters.,提高战斗机的燃料使用效率和速度。
+CURRENT,techtree_node_title_fighterspeed3,3565,Fighter Agility 3,战斗机机动性 3
+CURRENT,techtree_node_caption_fighterspeed3,3565,Improve the fuel usage and speed of your fighters.,提高战斗机的燃料使用效率和速度。
+CURRENT,boost_fighterarmour,3565,Fighter Armour +*X%,战斗机装甲 +*X%
+CURRENT,boost_fighterspeed,3565,Fighter Speed +*X%,战斗机速度 +*X%
+CURRENT,boost_fighterfuel,3565,Fighter Fuel Efficiency +*X%,战斗机燃料效率 +*X%
+CURRENT,translationeditor_copytoclipboard,3561,Copy,复制
+CURRENT,settings_instantshipswitch_description,3511,Skip rotation and panning effect when switching between ships.,在舰船之间切换时，跳过过渡画面
+CURRENT,newmainmenu_parallax,3511,Parallax,背景视差
+CURRENT,wolf_part1_completion3,3511,So far they haven't left a single living witness. But the sensor data tells the full story. We've managed to extract another sensor image of the attacker.,目前为止，它们还没有留下一个活口。但传感器数据说明了一切，我们设法提取了另一张攻击者的传感器图像。
+CURRENT,translationeditor_unmodified,3561,Unmodified,未经修改的原文
+CURRENT,translationeditor_original_tooltip1,3561,Unformatted Approved Translation,未格式化的译文
+CURRENT,translationeditor_original_tooltip2,3561,Formatted Approved Translation,格式化的译文
+CURRENT,translationeditor_original_tooltip3,3561,"This is what is currently used in the game. Even though the translation is ""Approved"" you can still submit changes to improve it further.",这就是目前游戏中使用的文本。即使译文是“已批准”状态，你仍然可以提交更改来进一步精修。
+CURRENT,translationeditor_new_tooltip1,3561,Unformatted New Translation,未格式化的新译文
+CURRENT,translationeditor_new_tooltip2,3561,Formatted New Translation,格式化后的新译文
+CURRENT,mainmenu_gamemode_freeroam_tooltip,3561,"You are free to pursue any career at your own pace. No anomaly, no stargate.",你可以按照自己的节奏自由发展，没有异常，没有星门。
+CURRENT,settings_dynamiclighting,3563,Dynamic Lighting,动态光源
+CURRENT,settings_arraytextures,3563,Smooth Tiles,平滑纹理
 CURRENT,logistics_log_transfertonosupply,3492,Transferred *X R*Y to L*Z out of the *P desired - insufficient cargo,将*X R*Y 转至L*Z ，超出*P 所需的范围 - 货物不足
 CURRENT,logistics_log_transferfromnosupply,3492,Transferred *X R*Y from L*Z out of the *P desired - insufficient cargo,将*X R*Y 从L*Z 转出所需的*P - 货物不足
 CURRENT,trade_paymentperjump,3472,*X (+*Y) per sector jump,*X (+*Y) 每个星区跃迁
@@ -1611,7 +1646,6 @@ CURRENT,equipment_weaponsconsole_locked,2448,SLOT *X LOCKED,插槽 *X 已锁定
 CURRENT,equipment_weaponsconsole_extradescription,2448,*X Connected weapons,*X 连接武器
 CURRENT,equipment_weaponsconsole_connected,2448,Controlled by Weapons Console,由武器控制台控制
 CURRENT,equipment_storagecrate_quantity,2448,STORED: *X/*Y,存储 *X/*Y
-CURRENT,equipment_storagecrate_capacity,2448,CAPACITY,容量
 CURRENT,equipment_storagecrate_dumping,2448,DUMPING,清空
 CURRENT,equipment_storagecrate_refill_enable,2448,PRIORITISE ZONES,优先放入储存区
 CURRENT,equipment_storagecrate_refill_disable,2448,PRIORITISE CRATE,优先放入储物箱
@@ -2596,7 +2630,7 @@ CURRENT,wolf_shipname_scavenger,2448,Scavenger Wraith,清道夫幽灵
 CURRENT,object_flightrecorder,2448,Flight Recorder,飞行记录器
 CURRENT,object_shipwreckage,2448,Ship Wreckage,舰船残骸
 CURRENT,wolf_part1_scavenger1,2448,"Got my hands on something you might be looking for.  A recording of the screams and static from the ship's final moments.  You want it, I know it.  Scavengers rights says it's mine.",我手上有你可能在找的东西，舰船最后时刻的尖叫和静电记录。你想要，我知道。根据拾荒法则，这是我的。
-CURRENT,wolf_part1_scavenger2,2448,"Luckily for you, you can have your precious data, so long as I get my finders fee.  It'll cost you $*X for the secrets.  Cross me and it will be the last mistake you make.","幸运的是，你可以得到你的珍贵资料，只是要给我一些“发现费”。你得花 $*X 才能得到这些秘密。跟我作对，将是你犯下的最后一个错误。"
+CURRENT,wolf_part1_scavenger2,2448,"Luckily for you, you can have your precious data, so long as I get my finders fee.  It'll cost you $*X for the secrets.  Cross me and it will be the last mistake you make.",幸运的是，你可以得到你的珍贵资料，只是要给我一些“发现费”。你得花 $*X 才能得到这些秘密。跟我作对，将是你犯下的最后一个错误。
 CURRENT,wolf_part1_scavenger3,2448,Funds received. Pleasure doing business.,已收到资金，祝生意兴隆。
 CURRENT,wolf_part1_scavenger4,2448,We'll drop your Flight Recorder out the cargo hold and be on our way.,我们会把你的飞行记录器从货舱扔出去，然后离开。
 CURRENT,wolf_part1_objective_scavenger,2448,Recover the Flight Recorder from Scavenger Vessel,从清道夫的船上夺回飞行记录仪
@@ -2625,7 +2659,7 @@ CURRENT,wolf_part2_objective_rescue,2448,Rescue the crew of the UMC Orion Sentin
 CURRENT,wolf_part2_inperson_distress1,2448,"Captain, thank goodness you're here! Help us!",舰长，幸好你来了！帮帮我们！
 CURRENT,wolf_part2_inperson_distress2,2448,We won't last much longer.,我们撑不了多久了。
 CURRENT,wolf_part2_inperson_distress3,2448,"It looks like they turned and ran when they saw you arrive, Captain.  But my ship is on the brink. The Reactor won't hold out much longer.",舰长，他们看到你来了转身就跑。但我的舰船岌岌可危，反应炉撑不了多久了。
-CURRENT,wolf_part2_inperson_distress4,2448,"To rescue my crew you'll need to get close and initiate docking procedures. Use your manoeuvering thrusters to align your docking port with ours, in TACTICAL mode.","为了营救我的船员，你们需要靠近并启动对接程序。在“战术”模式下，使用你的推进器将你的对接口与我的对接口对齐。"
+CURRENT,wolf_part2_inperson_distress4,2448,"To rescue my crew you'll need to get close and initiate docking procedures. Use your manoeuvering thrusters to align your docking port with ours, in TACTICAL mode.",为了营救我的船员，你们需要靠近并启动对接程序。在“战术”模式下，使用你的推进器将你的对接口与我的对接口对齐。
 CURRENT,wolf_part2_inperson_distress5,2448,I'll get the crew ready to evacuate. Please hurry!,我会让船员准备撤离，请抓紧时间！
 CURRENT,wolf_part2_objective_dock,2448,Dock with the UMC Orion Sentinel,与“UMC 猎户座哨兵”号对接
 CURRENT,wolf_part2_inperson_distress7,2448,"I'll try and buy you a few more seconds, but it's going to go critical any moment.  Get to a safe distance as soon as you can, Captain.  Save my crew!",我会试着为你多争取几秒钟，但情况随时会变得很危急。舰长，尽快到达安全距离，救下我的船员！
@@ -3156,7 +3190,6 @@ CURRENT,shipeditor_mode_equipment,2872,Equipment,设备
 CURRENT,shipeditor_tooltip_equipment,2872,Queue the installation of equipment inside your ship.,在舰船内安排设备安装任务。
 CURRENT,shipeditor_brush_oval,2872,OVAL TOOL,椭圆工具
 CURRENT,shipeditor_equipment_title,2872,Missing Equipment,缺少设备
-CURRENT,shipeditor_equipment_autobuy,2872,Enable Auto Buy,启用自动购买
 CURRENT,shipeditor_equipment_autobuyconfirm,2872,Confirm Auto Buy Changes,确认自动购买更改
 CURRENT,shipeditor_equipment_manualbuy,2872,Buy All Available,购买所有可用
 CURRENT,shipeditor_equipment_autobuyenable,2872,Auto Buy *X,自动购买 *X
@@ -3201,6 +3234,18 @@ CURRENT,bravenewsector_part1_dophase6,2872,Complete Phase 6 of the Stargate Proj
 CURRENT,trade_equipment_size,2872,- Size *X x *Y,- 尺寸 *X x *Y
 CURRENT,trade_equipment_rotatable,2872,- Rotatable,- 可旋转
 CURRENT,trade_equipment_powered,2872,- Powered,- 已供电
+OBSOLETE,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition",在船只之间切换时跳过过渡
+OBSOLETE,newmainmenu_parallax,2448,Parallax effect,背景视差
+OBSOLETE,wolf_part1_completion3,2448,So far they haven't left a single living witness. But the sensor data tells the full story. We've manged to extract another sensor image of the attacker.,到目前为止，它们还没有留下一个活着的目击者。但传感器数据说明了一切我们设法提取了另一张攻击者的传感器图像
+OBSOLETE,translationeditor_unmodified,3054,Unmodified Phrases,未经修改的短语
+OBSOLETE,translationeditor_original_tooltip1,3054,Unformatted original translation,未格式化的原文翻译
+OBSOLETE,translationeditor_original_tooltip2,3054,Formatted original translation,格式化的原文翻译
+OBSOLETE,translationeditor_original_tooltip3,3054,This is what is currently used in the game.,这就是目前游戏中使用的方法。
+OBSOLETE,translationeditor_new_tooltip1,3054,Unformatted new translation,未格式化的新译文
+OBSOLETE,translationeditor_new_tooltip2,3054,Formatted new translation,格式化的新译文
+OBSOLETE,mainmenu_gamemode_freeroam_tooltip,2448,"You are free to persue any career at your own pace. No anomaly, no stargate.",你可以按照自己的节奏自由发展。没有异常没有星门。
+OBSOLETE,settings_dynamiclighting,2675,Use Dynamic Lighting,启用动态光照
+OBSOLETE,settings_arraytextures,2624,Use Array Textures,启用阵列纹理
 OBSOLETE,logistics_status_buynomoney,3400,out of the *X desired (not enough money),*X desired (钱不够)
 OBSOLETE,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),*X （钱不够）
 OBSOLETE,logistics_status_buynosupply,3400,out of the *X desired (not enough available),*X 。
