@@ -1702,7 +1702,7 @@ CURRENT,object_preciousore,2448,Precious Ore,Drahocenná ruda
 CURRENT,object_preciousmetals,2448,Precious Metals,Drahé kovy
 CURRENT,object_tiliumore,2448,Tilium Ore,Tiliová ruda
 CURRENT,object_refinedtilium,2448,Tilium Crystals,Tiliové krystaly
-CURRENT,object_metallicminerals,2448,Metallic Minerals,Metalické minerály
+CURRENT,object_metallicminerals,2448,Metallic Minerals,Kovnaté minerály
 CURRENT,object_copperminerals,2448,Copper Minerals,Měděné minerály
 CURRENT,object_copperingot,2448,Copper Ingot,Měděný ingot
 CURRENT,object_neubidiumore,2624,Neubidium Ore,Neubidiová ruda
@@ -2127,11 +2127,11 @@ CURRENT,tutorial_smeltersstoragedone,2886,The crew will move all the <b>SCRAP ME
 CURRENT,tutorial_trade_title,2448,TRADE,OBCHOD
 CURRENT,tutorial_tradewaitforsellable,2886,Your crew will now use the equipment to produce some <b>STARGATE FRAMES</b>.,Vaše posádka nyní pomocí vybavení vyrobí několik <b>RÁMŮ BRÁNY</b>.
 CURRENT,tutorial_tradeothersupplies,2886,"We can use the <b>TRADE</b> system to buy raw materials to produce more <b>STARGATE FRAMES</b>, as well as resources we will need to survive.\n\nReopen the <b>TRADE</b> screen.","Systém <b>OBCHODU</b> můžeme využít k nákupu surovin pro výrobu dalších <b>RÁMŮ BRÁNY</b> i zásob, které budeme potřebovat k přežití.\n\nZnovu otevřete obrazovku <b>OBCHODU</b>."
-CURRENT,tutorial_tradebuyminerals,2886,<b>METALLIC MINERALS</b> can be smelted into <b>METAL INGOTS</b> just like <b>SCRAP METAL</b>.\n\nAdd all the <b>METALLIC MINERALS</b> to the trade.,<b>METALICKÉ MINERÁLY</b> lze přetavit na <b>KOVOVÉ INGOTY</b> stejně jako <b>KOVOVÝ ŠROT</b>.\n\nPřidejte do obchodu všechny <b>METALICKÉ MINERÁLY</b>.
-CURRENT,tutorial_tradebuysmelter,2886,We will also need another <b>SMELTER</b> to begin processing those <b>METALLIC MINERALS</b>.\n\nFind the <b>SMELTER</b> under the <b>INDUSTRY</b> tab and add one to the order.,"Budeme také potřebovat další <b>HUŤ</b>, abychom mohli tyto <b>METALICKÉ MINERÁLY</b> začít zpracovávat.\n\nNajděte <b>HUŤ</b> v záložce <b>PRŮMYSL</b> a přidejte jeden kus do objednávky."
+CURRENT,tutorial_tradebuyminerals,2886,<b>METALLIC MINERALS</b> can be smelted into <b>METAL INGOTS</b> just like <b>SCRAP METAL</b>.\n\nAdd all the <b>METALLIC MINERALS</b> to the trade.,<b>KOVNATÉ MINERÁLY</b> lze přetavit na <b>KOVOVÉ INGOTY</b> stejně jako <b>KOVOVÝ ŠROT</b>.\n\nPřidejte do obchodu všechny <b>KOVNATÉ MINERÁLY</b>.
+CURRENT,tutorial_tradebuysmelter,2886,We will also need another <b>SMELTER</b> to begin processing those <b>METALLIC MINERALS</b>.\n\nFind the <b>SMELTER</b> under the <b>INDUSTRY</b> tab and add one to the order.,"Budeme také potřebovat další <b>HUŤ</b>, abychom mohli tyto <b>KOVNATÉ MINERÁLY</b> začít zpracovávat.\n\nNajděte <b>HUŤ</b> v záložce <b>PRŮMYSL</b> a přidejte jeden kus do objednávky."
 CURRENT,tutorial_tradebuymore,2886,This is a good opportunity to stock up on some other resources that are critical for life support.\n\nWe'd recommend you purchase:\n\n - 2x <b>FUEL</b>\n - 2x <b>OXYGEN</b>\n - 2x <b>WATER</b>\n - 2x <b>FOOD</b>\n\n- <b>HIRE</b> 5 <b>MORE CREW</b>\n\nCONFIRM the order when you are done.,"Toto je dobrá příležitost k předzásobení dalšími zdroji, které jsou klíčové pro podporu života.\n\nDoporučujeme zakoupit:\n\n - 2x <b>PALIVO</b>\n - 2x <b>KYSLÍK</b>\n - 2x <b>VODA</b>\n - 2x <b>JÍDLO</b>\n\n- <b>NAJMĚTE</b> dalších 5 <b>ČLENŮ POSÁDKY</b>\n\nPo dokončení objednávku POTVRĎTE."
 CURRENT,tutorial_tradeinstallsmelter,2886,"Once those goods have arrived, you should install your second <b>SMELTER</b> somewhere near the first.","Jakmile zboží dorazí, měli byste svou druhou <b>HUŤ</b> nainstalovat někde poblíž té první."
-CURRENT,tutorial_tradesmeltmetallicminerals,2886,Set the <b>SMELTER</b> to process those <b>METALLIC MINERALS</b> you bought into more <b>METAL INGOTS</b>.,"Nastavte <b>HUŤ</b> na zpracování <b>METALICKÝCH MINERÁLŮ</b>, které jste koupili, na další <b>KOVOVÉ INGOTY</b>."
+CURRENT,tutorial_tradesmeltmetallicminerals,2886,Set the <b>SMELTER</b> to process those <b>METALLIC MINERALS</b> you bought into more <b>METAL INGOTS</b>.,"Nastavte <b>HUŤ</b> na zpracování <b>KOVNATÝCH MINERÁLŮ</b>, které jste koupili, na další <b>KOVOVÉ INGOTY</b>."
 CURRENT,tutorial_productionsuccess,2886,"Well done, you are now all set to produce <b>STARGATE FRAMES</b>.","Výborně, nyní jste připraveni vyrábět <b>RÁMY BRÁNY</b>."
 CURRENT,tutorial_fleettrade,2886,The ship is fitted with engines and an <b>FTL</b> drive for Interstellar Travel! But it does need a crew.\n\nOpen the <b>TRADE</b> screen.,Loď je vybavena motory a <b>FTL</b> pohonem pro mezihvězdné cestování! Potřebuje však posádku.\n\nOtevřete obrazovku <b>OBCHODU</b>.
 CURRENT,tutorial_fleetcrew,2886,We will need a crew. Hire five <b>CREW MEMBERS</b> from the <b>TRADE</b> screen.,Budeme potřebovat posádku. Najměte pět <b>ČLENŮ POSÁDKY</b> na obrazovce <b>OBCHODU</b>.
@@ -2904,7 +2904,7 @@ CURRENT,dsi_part1_manufactureframes3,2448,"Once they're installed, set the Fabri
 CURRENT,dsi_part1_objective_installfabricator,2448,Install Fabricator,Nainstalujte fabrikátor
 CURRENT,dsi_part1_objective_setfabricator,2448,Set Fabricator to Frames,Nastavte fabrikátor na polotovary (Frames)
 CURRENT,dsi_part1_objective_installassemblytab,2448,Install Assembly Table,Nainstalujte montážní stůl
-CURRENT,dsi_part1_objective_setassemblytab,2448,Set Assembly Table to Stargate Frames,Nastavte montážní stůl na rámy Hvězdné brány
+CURRENT,dsi_part1_objective_setassemblytab,2448,Set Assembly Table to Stargate Frames,Nastavte montážní stůl na konstrukci hvězdné brány
 CURRENT,dsi_part1_manufactureframes4,2448,"They want us to provide an initial batch of 10 Stargate Frames, for certification.  They'll inspect our work and we'll be approved as official partners in the Andromeda Project.",Chtějí po nás první várku 10 kusů rámů Hvězdné brány pro certifikaci. Zkontrolují naši práci a my budeme schváleni jako oficiální partneři projektu Andromeda.
 CURRENT,dsi_part1_manufactureframes5,2448,"It shouldn't take too long.  If you run out of metal, remember you can recycle more of the ruined equipment around the facility.","Nemělo by to trvat dlouho. Pokud vám dojde kov, nezapomeňte, že můžete recyklovat další zničené vybavení v okolí."
 CURRENT,dsi_part1_objective_manufactureframes,2448,Manufacture Stargate Frames [*X/10],Vyrobte rámy Hvězdné brány [*X/10]
