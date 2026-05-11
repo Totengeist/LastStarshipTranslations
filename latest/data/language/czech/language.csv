@@ -392,7 +392,7 @@ CURRENT,newmainmenu_slowcombat,2448,Slow during combat,Zpomalit během boje
 CURRENT,newmainmenu_slowcombat_description,3563,Switch to slow game speed after taking damage during combat.,Přepne na pomalou rychlost hry po utržení poškození během boje.
 CURRENT,newmainmenu_instantshipswitch,3400,Switch instantly between ships,Okamžité přepínání mezi loděmi
 CURRENT,newmainmenu_exitsaves,3054,Auto-save on exit,Automatické uložení při ukončení
-CURRENT,newmainmenu_autosavewarning,2886,Auto-save load warning,Varování při načítání Automatického uložení
+CURRENT,newmainmenu_autosavewarning,2886,Auto-save load warning,Varování při načítání automatického uložení
 CURRENT,newmainmenu_filter,2448,SEARCH...,HLEDAT...
 CURRENT,newmainmenu_newgameoptions,3054,Game Options,Možnosti hry
 CURRENT,newmainmenu_saveoptions,3149,Save Options,Možnosti ukládání
@@ -1976,8 +1976,8 @@ CURRENT,alert_type_autotradeinactive_tooltip,2501,One or more of your auto-order
 CURRENT,alert_type_stargatelosingpower,2624,STARGATE LOSING POWER,BRÁNA ZTRÁCÍ ENERGII
 CURRENT,alert_type_stargatelosingpower_caption,2624,*X MW / *Y MW Supplied,Dodáváno *X MW / *Y MW
 CURRENT,alert_type_stargatelosingpower_tooltip,2624,The stargate isn't being supplied with enough power. Use energy transmitters to supply the Stargate with power.,Hvězdná brána není zásobována dostatkem energie. K napájení brány použijte vysílače energie.
-CURRENT,alert_type_abouttoautosave,3054,AUTOSAVE,AUTOUKLÁDÁNÍ
-CURRENT,alert_type_abouttoautosave_caption,3054,Autosaving in *X...,Autoukládání za *X...
+CURRENT,alert_type_abouttoautosave,3054,AUTOSAVE,AUTOMATICKÉ UKLÁDÁNÍ
+CURRENT,alert_type_abouttoautosave_caption,3054,Autosaving in *X...,Automatické ukládání za *X...
 CURRENT,alert_type_emp,3054,EMP,EMP (Elektromagnetický puls)
 CURRENT,alert_type_emp_caption,3054,*X piece(s) disabled,*X zařízení vyřazeno
 CURRENT,alert_type_emp_tooltip,3054,"Your ship has been struck by lightning, temporarily disabling some of your equipment.","Vaši loď zasáhl blesk, což dočasně vyřadilo část vašeho vybavení."
@@ -3203,30 +3203,30 @@ CURRENT,translationeditor_previoustranslation_tooltip1,3561,Previous Translation
 CURRENT,translationeditor_previoustranslation_tooltip2,3561,Formatted Previous Translation phrase,Formátovaná předchozí přeložená fráze
 CURRENT,translationeditor_previoustranslation_tooltip3,3561,Translation of the English phrase that was used in the previous version of the game.,"Překlad anglické fráze, která byla použita v předchozí verzi hry."
 CURRENT,credits_0,3054,The Last Starship,The Last Starship
-CURRENT,credits_1,3054,Created by\nIntroversion Software,Created by\nIntroversion Software
-CURRENT,credits_2,3054,Creative Director\nChris Delay,Creative Director\nChris Delay
-CURRENT,credits_3,3054,Managing Director\nMARK MORRIS,Managing Director\nMARK MORRIS
-CURRENT,credits_4,3054,Technical Director\nJOHN KNOTTENBELT,Technical Director\nJOHN KNOTTENBELT
-CURRENT,credits_5,3054,Financial Director\nTHOMAS ARUNDEL,Financial Director\nTHOMAS ARUNDEL
-CURRENT,credits_6,3054,Art\nJesse Riggle,Art\nJesse Riggle
+CURRENT,credits_1,3054,Created by\nIntroversion Software,Vytvořilo studio\nIntroversion Software
+CURRENT,credits_2,3054,Creative Director\nChris Delay,Kreativní ředitel\nChris Delay
+CURRENT,credits_3,3054,Managing Director\nMARK MORRIS,Výkonný ředitel\nMARK MORRIS
+CURRENT,credits_4,3054,Technical Director\nJOHN KNOTTENBELT,Technický ředitel\nJOHN KNOTTENBELT
+CURRENT,credits_5,3054,Financial Director\nTHOMAS ARUNDEL,Finanční ředitel\nTHOMAS ARUNDEL
+CURRENT,credits_6,3054,Art\nJesse Riggle,Grafika\nJesse Riggle
 CURRENT,credits_7,3054,Audio\nAlistair Lindsay,Audio\nAlistair Lindsay
-CURRENT,credits_8,3054,Programming\nLouis Aldous,Programming\nLouis Aldous
-CURRENT,credits_9,3054,Programming\nAlfie Chenery,Programming\nAlfie Chenery
-CURRENT,credits_10,3054,Programming\nJim Buck,Programming\nJim Buck
-CURRENT,credits_11,3054,Programming\nToby O’Donoghue,Programming\nToby O’Donoghue
-CURRENT,credits_12,3054,Programming\nRaphael Tasseel,Programming\nRaphael Tasseel
-CURRENT,credits_13,3054,Programming\nThomas White,Programming\nThomas White
-CURRENT,credits_14,3054,Programming\nJacob Hill,Programming\nJacob Hill
+CURRENT,credits_8,3054,Programming\nLouis Aldous,Programování\nLouis Aldous
+CURRENT,credits_9,3054,Programming\nAlfie Chenery,Programování\nAlfie Chenery
+CURRENT,credits_10,3054,Programming\nJim Buck,Programování\nJim Buck
+CURRENT,credits_11,3054,Programming\nToby O’Donoghue,Programování\nToby O’Donoghue
+CURRENT,credits_12,3054,Programming\nRaphael Tasseel,Programování\nRaphael Tasseel
+CURRENT,credits_13,3054,Programming\nThomas White,Programování\nThomas White
+CURRENT,credits_14,3054,Programming\nJacob Hill,Programování\nJacob Hill
 CURRENT,credits_15,3054,Marketing\nOliver Arundel,Marketing\nOliver Arundel
 CURRENT,credits_16,3054,Ship Builders\nJohnny Struggles,Ship Builders\nJohnny Struggles
 CURRENT,credits_17,3054,Ship Builders\nJoseph Abboud,Ship Builders\nJoseph Abboud
 CURRENT,credits_18,3054,Ship Builders\nLindsay Fleay (DRx),Ship Builders\nLindsay Fleay (DRx)
-CURRENT,credits_19,3054,Thanks to everyone\nwho contributed ship designs,Thanks to everyone\nwho contributed ship designs
-CURRENT,credits_20,3054,Thank you for playing!,Thank you for playing!
-CURRENT,creditstitle_builders,3149,Ship Builders,Ship Builders
-CURRENT,creditstitle_testers,3149,Early Play Testing,Early Play Testing
-CURRENT,creditstitle_special,3511,Special Thanks,Special Thanks
-CURRENT,creditstitle_translators,3149,Translation,Translation
+CURRENT,credits_19,3054,Thanks to everyone\nwho contributed ship designs,Děkujeme všem\nkteří přispěli svými návrhy lodí
+CURRENT,credits_20,3054,Thank you for playing!,Děkujeme za hraní!
+CURRENT,creditstitle_builders,3149,Ship Builders,Stavitelé lodí
+CURRENT,creditstitle_testers,3149,Rané testování hry,Rané testování hry
+CURRENT,creditstitle_special,3511,Special Thanks,Zvláštní poděkování
+CURRENT,creditstitle_translators,3149,Translation,Překlad
 CURRENT,ftl_galacticjump,3054,"This will be the final journey of your fleet.\nBe prepared for a long journey to the Andromeda galaxy, and save as many as you can!","Toto bude poslední cesta vaší flotily.\nBuďte připraveni na dlouhou pouť do galaxie Andromeda a zachraňte jich tolik, kolik jen dokážete!"
 CURRENT,credits_survivors,3054,Survivors,Přeživší
 CURRENT,credits_playtime,3054,Playtime,Doba hraní
