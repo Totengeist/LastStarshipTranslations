@@ -1,4 +1,4 @@
-﻿state,key,svn,english,translation
+state,key,svn,english,translation
 NEW,settings_language_category,3511,LANGUAGE,
 NEW,settings_communicator_speed,3511,Character text speed,
 NEW,settings_camerapan_speed,3511,Camera pan speed,
@@ -79,7 +79,7 @@ NEW,translationeditor_previoustranslation_tooltip1,3561,Previous Translation Phr
 NEW,translationeditor_previoustranslation_tooltip2,3561,Formatted Previous Translation phrase,
 NEW,translationeditor_previoustranslation_tooltip3,3561,Translation of the English phrase that was used in the previous version of the game.,
 NEW,settings_userinterface,3563,UI & GAME,
-NEW,settings_graphics,3563,GRAPHICS,
+CURRENT,settings_graphics,3563,GRAPHICS,GRAFISCHE INSTELLINGEN
 NEW,settings_uibounce_description,3563,Enlarges GUI elements such as buttons on mouse over.,
 NEW,settings_opentranslationeditor,3563,TRANSLATION EDITOR ({TranslatorWindow}),
 NEW,settings_communicator_speed_description,3563,The speed at which character dialogue text is revealed in the communicator.,
@@ -308,7 +308,7 @@ CURRENT,thefinalstand_boss_harken2,3248,This is the Andromeda Navy's flagship! Y
 CURRENT,bravenewsector_part4_rep9,3244,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy and the Andromeda galaxy.,Hallo Kapitein. De pas voltooide Sterrenpoort heeft het Andromeda Project in een machtige positie gebracht om de stroom van grondstoffen en mensen tussen dit sterrenstelsel en het Andromeda sterrenstelsel te controleren.
 CURRENT,thefinalstand_battleprep_1,3244,"Hello Captain, it's good to see you. These are all of the ships I control in this sector, the rest are on the other side of the Stargate, unable to reach us.","Hallo kapitein, goed je te zien. Dit zijn alle schepen die ik controleer in deze sector, de rest is aan de andere kant van de Sterrenpoort en kan ons niet bereiken."
 CURRENT,thefinalstand_battle_rep1,3244,Commander Harken! I see that my first fleet has failed to deal with you. I suppose if I want something done properly I should do it myself.,"Commandant Harken! Ik zie dat mijn eerste vloot er niet in is geslaagd om met u af te rekenen. Ik neem aan dat als ik iets goed wil doen, ik het zelf moet doen."
-CURRENT,newmainmenu_continue,3239,CONTINUE GAME,SPEL VOORTZETTEN
+CURRENT,newmainmenu_continue,3239,CONTINUE GAME,DOORGAAN MET SPELEN
 CURRENT,hud_ftlshipblockedfromftl,3239,Ship cannot enter hyperspace with your fleet,Schip kan niet de hyperruimte in met je vloot
 CURRENT,hud_window_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,INTERSTELLAIRE LOGISTIEK
 CURRENT,andromeda_travel,3239,ANDROMEDA JOURNEY,ANDROMEDAREIS
@@ -531,7 +531,7 @@ CURRENT,settings_autosaveonftl,3054,Auto-save when leaving FTL,Automatisch opsla
 CURRENT,settings_autosaveontimeinterval,3054,Auto-save on time interval,Automatisch opslaan op tijdsinterval
 CURRENT,settings_autosaveinterval,3054,Auto-save Interval,Interval voor automatisch opslaan
 CURRENT,settings_minutes_shortened,3054,Mins.,Min.
-CURRENT,newmainmenu_returntomainmenu,3054,RETURN TO MAIN MENU,TERUGKEREN NAAR HOOFDMENU
+CURRENT,newmainmenu_returntomainmenu,3054,RETURN TO MAIN MENU,TERUG NAAR HOOFDMENU
 CURRENT,newmainmenu_mainmenu,3054,MAIN MENU,HOOFDMENU
 CURRENT,newmainmenu_showautosaves,3054,AUTOSAVES,AUTOMATIECH OPSLAAN
 CURRENT,newmainmenu_newgameoptions,3054,Game Options,Spel Opties
@@ -867,7 +867,7 @@ CURRENT,tutorial_tradeinstallsmelter,2886,"Once those goods have arrived, you sh
 CURRENT,tutorial_tradesmeltmetallicminerals,2886,Set the <b>SMELTER</b> to process those <b>METALLIC MINERALS</b> you bought into more <b>METAL INGOTS</b>.,Stel de <b>SMELTER</b> in om de <b>METALISCHE MINERALEN</b> die je hebt gekocht te verwerken tot meer <b>METALEN</b>.
 CURRENT,tutorial_productionsuccess,2886,"Well done, you are now all set to produce <b>STARGATE FRAMES</b>.","Goed gedaan, je bent nu helemaal klaar om <b>STARGATE FRAMES</b> te produceren."
 CURRENT,tutorial_fleettrade,2886,The ship is fitted with engines and an <b>FTL</b> drive for Interstellar Travel! But it does need a crew.\n\nOpen the <b>TRADE</b> screen.,Het schip is uitgerust met motoren en een <b>FTL</b> aandrijving voor interstellaire reizen! Maar het heeft wel een bemanning nodig.\n\nOpen het scherm <b>TRADE</b>.
-CURRENT,tutorial_fleetcrew,2886,We will need a crew. Hire five <b>CREW MEMBERS</b> from the <b>TRADE</b> screen.,We hebben een bemanning nodig. Neem vijf <b>CREW MEMBERS</b> aan in het scherm <b>TRADE</b>.
+CURRENT,tutorial_fleetcrew,2886,We will need a crew. Hire five <b>CREW MEMBERS</b> from the <b>TRADE</b> screen.,We hebben een bemanning nodig. Neem vijf <b>BEMANNINGSLEDEN</b> aan in het scherm <b>TRADE</b>.
 CURRENT,tutorial_fleetcrew_shiftclick,2886,<b>NOTE</b>: You can <b>SHIFT CLICK</b> to hire in multiples of 5.,<b>OPMERKING</b>: Je kunt <b>SHIFT CLICK</b> om in veelvouden van 5 te huren.
 CURRENT,tutorial_fleetspacesuits,2886,Those crew will also need <b>SPACESUITS</b> as there is no atmosphere onboard our ship yet.\n\nOrder five <b>SPACESUITS</b> for the new crew.,"Die bemanning heeft ook <b>SPACESUITS</b> nodig, want er is nog geen atmosfeer aan boord van ons schip.\n\nBestel vijf <b>SPACESUITS</b> voor de nieuwe bemanning."
 CURRENT,tutorial_fleettradeconfirm,2886,<b>CONFIRM</b> the trade.,<b>BEVESTIG</b> de handel.
@@ -909,7 +909,7 @@ CURRENT,tutorial_dockingopenmaneuver,2886,Open the <b>MANEUVERING THRUSTER</b> c
 CURRENT,tutorial_dockingmaneuverkeys,2886,"Use the Maneuvering controls to move the ship into position.\n\nYou can also use the keys <b>{ManoeuvreUp}</b>, <b>{ManoeuvreLeft}</b>, <b>{ManoeuvreDown}</b>, <b>{ManoeuvreRight}</b> to move, and <b>{ManoeuvreClockwise}</b> and <b>{ManoeuvreCounterClockwise}</b> to rotate the ship.","Gebruik de manoeuvreerbesturing om het schip in positie te brengen.\n\nJe kunt ook de toetsen <b>{ManoeuvreUp}</b>, <b>{ManoeuvreLeft}</b>, <b>{ManoeuvreDown}</b>, <b>{ManoeuvreRight}</b> gebruiken om te bewegen en <b>{ManoeuvreClockwise}</b> en <b>{ManoeuvreCounterClockwise}</b> om het schip te roteren."
 CURRENT,tutorial_dockingmaneuver,2886,"Use your <b>THRUSTERS</b> to maneuver your ship so that <b>RED</b> diamonds of your docking ports align with the docking port of the *X.\n\nWhen aligned correctly, they will both turn <b>YELLOW</b>.\n\nKeep the ships aligned until the docking bridge is fully extended.","Gebruikt u <b>STUURRAKET</b> om Uw schip zo te manoeuvreren dat de <b>RODE</b> ruiten van uw koppelpoorten op één lijn liggen met de koppelpoort van de *X.\n\nAls ze goed zijn uitgelijnd, worden ze allebei <b>GEEL</b>.\n\nHoud de schepen op één lijn totdat de landingsbrug volledig is uitgeschoven."
 CURRENT,tutorial_logisticscrewselectfrom,2886,Select the <b>SOURCE</b> ship that the crew will come <b>FROM</b>.,Selecteer het <b>BRON</b>schip waar de bemanning vandaan <b>komt</b>.
-CURRENT,tutorial_logisticscrewclicktarget,2886,Click in the <b>CREW</b> cell of the <b>DESTINATION</b> ship to request 5 crew to transfer.,Klik in de <b>CREW</b>-cel van het <b>BESTEMMINGS</b>schip om 5 bemanningsleden over te laten plaatsen.
+CURRENT,tutorial_logisticscrewclicktarget,2886,Click in the <b>CREW</b> cell of the <b>DESTINATION</b> ship to request 5 crew to transfer.,Klik in de <b>BEMANNING</b>-cel van het <b>BESTEMMINGS</b>schip om 5 bemanningsleden over te laten plaatsen.
 CURRENT,tutorial_logisticscrewclicktarget_shiftclick,2886,<b>NOTE</b>: You can <b>SHIFT CLICK</b> to request transfer in multiples of 5.,<b>OPMERKING</b>: Je kunt <b>SHIFT CLICK</b> gebruiken om een transfer in veelvouden van 5 aan te vragen.
 CURRENT,tutorial_combatselectcannon,2886,"Your guns can also target specific points on enemy ships.\n\nFirst, select which guns you would like to use.\n\nYou can <b>SHIFT CLICK</b> to select multiple guns.",Je kanonnen kunnen ook richten op specifieke punten op vijandelijke schepen.\n\nSelecteer eerst welke kanonnen je wilt gebruiken.\n\nJe kunt <b>SHIFT CLICK</b> om meerdere kanonnen te selecteren.
 CURRENT,tutorial_combatbattlestations,2886,The effect of the <b>EMP</b> is wearing off!\n\nDeploy your weapons and make your crew ready to fight by clicking on <b>BATTLE STATIONS</b>.,Het effect van de <b>EMP</b> is aan het verdwijnen!\n\nZet je wapens in en maak je bemanning gevechtsklaar door op <b>BATTLE STATIONS</b> te klikken.
@@ -1074,7 +1074,7 @@ CURRENT,dialog_y,2593,Y,Y
 CURRENT,dialog_z,2593,Z,Z
 CURRENT,dialog_w,2593,W,W
 CURRENT,dialog_h,2593,H,H
-CURRENT,dialog_exit,2593,Exit,Ga naar
+CURRENT,dialog_exit,2593,Exit,Afsluiten
 CURRENT,dialog_cancel,2593,Cancel,Annuleren
 CURRENT,dialog_ok,2593,Ok,Ok
 CURRENT,dialog_open,2593,Open,Open
@@ -1197,12 +1197,12 @@ CURRENT,mainmenu_gamemode_unlocked_survival,2593,Game Mode: Survival,Spelwijze: 
 CURRENT,mainmenu_createship,2593,DEVELOPER Create Ship,ONTWIKKELAAR Maak schip
 CURRENT,mainmenu_loadship,2593,DEVELOPER Load Ship,ONTWIKKELAAR Laad Schip
 CURRENT,mainmenu_loadgamedev,2593,DEVELOPER Load Test Game,ONTWIKKELAAR Laad testspel
-CURRENT,mainmenu_exportship,2593,Export Ship,Export Schip
+CURRENT,mainmenu_exportship,2593,Export Ship,Schip exporteren
 CURRENT,mainmenu_importship,2593,Import Ship,Import Schip
 CURRENT,mainmenu_importfriendly,2593,Import Friendly Ship,Importvriendelijk schip
 CURRENT,mainmenu_importhostile,2593,Import Hostile Ship,Vijandig schip importeren
 CURRENT,mainmenu_tools,2593,Developer Tools,Gereedschap voor ontwikkelaars
-CURRENT,mainmenu_quit,2593,Quit,Stoppen met
+CURRENT,mainmenu_quit,2593,Quit,Afsluiten
 CURRENT,settings_analytics,2593,Analytics,Analytics
 CURRENT,settings_analytics_tooltip,2593,We need to collect usage data to help us to better understand how people are playing and to help us to improve the game. \n\nWe do not collect any personally identifiable information.\n\nTo find out more visit Legal Information (bottom of the screen),We moeten gebruiksgegevens verzamelen om beter te begrijpen hoe mensen spelen en om ons te helpen het spel te verbeteren.\n\nWe verzamelen geen persoonlijk identificeerbare informatie.\n\nGa voor meer informatie naar Wettelijke informatie (onderaan het scherm)
 CURRENT,settings_hud,2593,Show HUD,HUD weergeven
@@ -1260,7 +1260,7 @@ CURRENT,newmainmenu_savegame,2593,SAVE GAME,SPEL OPSLAAN
 CURRENT,newmainmenu_confirm,2593,CONFIRM,BEVESTIGEN
 CURRENT,newmainmenu_cancel,2593,CANCEL,ANNULEREN
 CURRENT,newmainmenu_settings,2593,SETTINGS,INSTELLINGEN
-CURRENT,newmainmenu_quit,2593,QUIT,STOP
+CURRENT,newmainmenu_quit,2593,QUIT,AFSLUITEN
 CURRENT,newmainmenu_abandon,2593,ABANDON GAME,SPEL VERLATEN
 CURRENT,newmainmenu_resume,2593,RESUME,GA VERDER
 CURRENT,newmainmenu_chooseship,2593,CHOOSE STARTING SHIP,STARTSCHIP KIEZEN
@@ -1514,10 +1514,10 @@ CURRENT,speed_paused,2593,PAUSED,GEPAUZEERD
 CURRENT,speed_slow,2593,SLOW,TRAAG
 CURRENT,welfare_overlay_severely_dehydrated,2593,CREW SEVERELY DEHYDRATED,BEMANNING ERNSTIG UITGEDROOGD
 CURRENT,welfare_overlay_dehydrated,2593,CREW DEHYDRATED,BEMANNING UITGEDROOGD
-CURRENT,welfare_overlay_thirsty,2593,CREW THIRSTY,CREW DORDRECHT
-CURRENT,welfare_overlay_famished,2593,CREW FAMISHED,CREW GEFAMILISEERD
-CURRENT,welfare_overlay_starving,2593,CREW STARVING,CREW HONGERT
-CURRENT,welfare_overlay_hungry,2593,CREW HUNGRY,CREW HONGRY
+CURRENT,welfare_overlay_thirsty,2593,CREW THIRSTY,BEMANNING DORSTIG
+CURRENT,welfare_overlay_famished,2593,CREW FAMISHED,BEMANNING UITGEHONGERD
+CURRENT,welfare_overlay_starving,2593,CREW STARVING,BEMANNING VERHONGERD
+CURRENT,welfare_overlay_hungry,2593,CREW HUNGRY,BEMANNING HONGERIG
 CURRENT,equipment_temperature_short,2593,TEMP,TEMP
 CURRENT,equipment_power,2593,POWER,KRACHT
 CURRENT,equipment_output,2593,OUTPUT,UITGANG
@@ -2410,10 +2410,10 @@ CURRENT,alert_type_heavydamage,2593,HEAVY DAMAGE,ZWARE SCHADE
 CURRENT,alert_type_heavydamage_caption,2593,Damage *X%,Schade *X%
 CURRENT,alert_type_suffocating,2593,CREW SUFFOCATING,BEMANNING VERSTIKKEND
 CURRENT,alert_type_suffocating_caption,2593,*X suffocating,*X verstikkend
-CURRENT,alert_type_hungry,2593,CREW HUNGRY,CREW HONGRY
-CURRENT,alert_type_starving,2593,CREW STARVING,CREW HONGERT
-CURRENT,alert_type_famished,2593,CREW FAMISHED,CREW GEFAMILISEERD
-CURRENT,alert_type_thirsty,2593,CREW THIRSTY,CREW DORDRECHT
+CURRENT,alert_type_hungry,2593,CREW HUNGRY,BEMANNING HONGERIG
+CURRENT,alert_type_starving,2593,CREW STARVING,BEMANNING VERHONGERD
+CURRENT,alert_type_famished,2593,CREW FAMISHED,BEMANNING UITGEHONGERD
+CURRENT,alert_type_thirsty,2593,CREW THIRSTY,BEMANNING DORSTIG
 CURRENT,alert_type_dehydrated,2593,CREW DEHYDRATED,BEMANNING UITGEDROOGD
 CURRENT,alert_type_severely_dehydrated,2593,CREW SEVERELY DEHYDRATED,BEMANNING ERNSTIG UITGEDROOGD
 CURRENT,alert_type_dead,2593,DEATHS,STERFGEVALLEN
@@ -2523,7 +2523,7 @@ CURRENT,tutorial_docking_title,2593,DOCKING,AANLEGEN
 CURRENT,tutorial_dockingstart,2593,We are now going to learn how to dock your ship to another ship.,We gaan nu leren hoe je je schip aan een ander schip kunt koppelen.
 CURRENT,tutorial_dockingapproachship_x,2593,Use your main ship engines to get close to the *X.,Gebruik de motoren van je hoofdschip om dicht bij de *X te komen.
 CURRENT,tutorial_dockingsuccess,2593,Well done. You have docked successfully!,Goed gedaan. U bent succesvol aangekopeld!
-CURRENT,tutorial_logistics_crew_title,2593,CREW LOGISTICS,CREW LOGISTIEK
+CURRENT,tutorial_logistics_crew_title,2593,CREW LOGISTICS,BEMANNINGSLOGISTIEK
 CURRENT,tutorial_logisticscrewstart,2593,We are now going to learn how to transfer crew from one ship to another.\n\nThe two ships must be docked so that the crew can walk from one ship to another.,We gaan nu leren hoe we bemanning van het ene schip naar het andere kunnen overplaatsen.\n\nDe twee schepen moeten worden aangemeerd zodat de bemanning van het ene schip naar het andere kan lopen.
 CURRENT,tutorial_logisticscrewswitchtonormalview,2593,"First, switch back to normal view by leaving tactical mode.",Schakel eerst terug naar de normale weergave door de tactische modus te verlaten.
 CURRENT,tutorial_logisticscrewopen,2593,Open the Fleet Logistics window.,Open het venster Vlootlogistiek.
@@ -3400,7 +3400,7 @@ OBSOLETE,tutorial_tradeinstallsmelter,2593,"Once those goods have arrived, you s
 OBSOLETE,tutorial_tradesmeltmetallicminerals,2593,Set the SMELTER to process those METALLIC MINERALS you bought into more METAL INGOTS.,Stel de SMELTER in om de METALISCHE MINERALEN die je hebt gekocht te verwerken tot meer METALEN.
 OBSOLETE,tutorial_productionsuccess,2593,"Well done, you are now all set to produce STARGATE FRAMES.","Goed gedaan, je bent nu helemaal klaar om STARGATE FRAMES te produceren."
 OBSOLETE,tutorial_fleettrade,2593,The ship is fitted with engines and an FTL drive for Interstellar Travel! But it does need a crew.\n\nOpen the TRADE screen.,Het schip is uitgerust met motoren en een FTL aandrijving voor interstellaire reizen! Maar het heeft wel een bemanning nodig.\n\nOpen het scherm TRADE.
-OBSOLETE,tutorial_fleetcrew,2593,We will need a crew. Hire five CREW MEMBERS from the TRADE screen.,We hebben een bemanning nodig. Neem vijf CREW MEMBERS aan in het scherm TRADE.
+OBSOLETE,tutorial_fleetcrew,2593,We will need a crew. Hire five CREW MEMBERS from the TRADE screen.,We hebben een bemanning nodig. Neem vijf <b>BEMANNINGSLEDEN</b> aan in het scherm <b>TRADE</b>.
 OBSOLETE,tutorial_fleetcrew_shiftclick,2593,NOTE: You can SHIFT CLICK to hire in multiples of 5.,OPMERKING: Je kunt SHIFT CLICK om in veelvouden van 5 te huren.
 OBSOLETE,tutorial_fleetspacesuits,2593,Those crew will also need SPACESUITS as there is no atmosphere onboard our ship yet.\n\nOrder five SPACESUITS for the new crew.,"Die bemanning heeft ook SPACESUITS nodig, want er is nog geen atmosfeer aan boord van ons schip.\n\nBestel vijf SPACESUITS voor de nieuwe bemanning."
 OBSOLETE,tutorial_fleettradeconfirm,2593,CONFIRM the trade.,BEVESTIG de handel.
@@ -3442,7 +3442,7 @@ OBSOLETE,tutorial_dockingopenmaneuver,2593,Open the MANEUVERING THRUSTER control
 OBSOLETE,tutorial_dockingmaneuverkeys,2593,"Use the Maneuvering controls to move the ship into position.\n\nYou can also use the keys {ManoeuvreUp}, {ManoeuvreLeft}, {ManoeuvreDown}, {ManoeuvreRight} to move, and {ManoeuvreClockwise} and {ManoeuvreCounterClockwise} to rotate the ship.","Gebruik de manoeuvreerbesturing om het schip in positie te brengen.\n\nJe kunt ook de toetsen {ManoeuvreUp}, {ManoeuvreLeft}, {ManoeuvreDown}, {ManoeuvreRight} gebruiken om te bewegen en {ManoeuvreClockwise} en {ManoeuvreCounterClockwise} om het schip te roteren."
 OBSOLETE,tutorial_dockingmaneuver,2593,"Use your THRUSTERS to maneuver your ship so that RED diamonds of your docking ports align with the docking port of the *X.\n\nWhen aligned correctly, they will both turn YELLOW.\n\nKeep the ships aligned until the docking bridge is fully extended.","Gebruik je THRUSTERS om je schip zo te manoeuvreren dat de RODE ruiten van je koppelpoorten op één lijn liggen met de koppelpoort van de *X.\n\nAls ze goed zijn uitgelijnd, worden ze allebei GEEL.\n\nHoud de schepen op één lijn totdat de landingsbrug volledig is uitgeschoven."
 OBSOLETE,tutorial_logisticscrewselectfrom,2593,Select the SOURCE ship that the crew will come FROM.,Selecteer het BRONschip waar de bemanning vandaan komt.
-OBSOLETE,tutorial_logisticscrewclicktarget,2593,Click in the CREW cell of the DESTINATION ship to request 5 crew to transfer.,Klik in de CREW-cel van het BESTEMMINGSschip om 5 bemanningsleden over te laten plaatsen.
+OBSOLETE,tutorial_logisticscrewclicktarget,2593,Click in the CREW cell of the DESTINATION ship to request 5 crew to transfer.,Klik in de <b>BEMANNING</b>-cel van het <b>BESTEMMINGS</b>schip om 5 bemanningsleden over te laten plaatsen.
 OBSOLETE,tutorial_logisticscrewclicktarget_shiftclick,2593,NOTE: You can SHIFT CLICK to request transfer in multiples of 5.,OPMERKING: Je kunt SHIFT CLICK gebruiken om een transfer in veelvouden van 5 aan te vragen.
 OBSOLETE,tutorial_combatselectcannon,2593,"Your guns can also target specific points on enemy ships.\n\nFirst, select which guns you would like to use.\n\nYou can SHIFT CLICK to select multiple guns.",Je kanonnen kunnen ook richten op specifieke punten op vijandelijke schepen.\n\nSelecteer eerst welke kanonnen je wilt gebruiken.\n\nJe kunt SHIFT CLICK om meerdere kanonnen te selecteren.
 OBSOLETE,tutorial_combatbattlestations,2593,The effect of the EMP is wearing off!\n\nDeploy your weapons and make your crew ready to fight by clicking on BATTLE STATIONS.,Het effect van de EMP is aan het verdwijnen!\n\nZet je wapens in en maak je bemanning gevechtsklaar door op BATTLE STATIONS te klikken.
