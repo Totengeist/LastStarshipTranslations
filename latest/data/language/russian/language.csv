@@ -117,8 +117,8 @@ NEW,equipment_multiple_recipes,3629,MULTIPLE RECIPES,
 NEW,equipment_multiple_fluids,3629,MULTIPLE FLUIDS,
 NEW,equipment_multiple_types,3629,MULTIPLE TYPES,
 NEW,equipment_multiple_names,3629,MULTIPLE NAMES,
-NEW,equipment_on,3629,ON,
-NEW,equipment_off,3629,OFF,
+NEW,equipment_on,3629,ON,ВКЛ
+NEW,equipment_off,3629,OFF,ВЫКЛ
 NEW,equipment_on_amount,3629,ON(*X),
 NEW,equipment_off_amount,3629,OFF(*X),
 NEW,equipment_on_off_amount,3629,ON(*X) OFF(*Y),
