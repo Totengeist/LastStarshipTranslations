@@ -14,8 +14,8 @@ CURRENT,equipment_multiple_recipes,3629,MULTIPLE RECIPES,FLERA RECEPT
 CURRENT,equipment_multiple_fluids,3629,MULTIPLE FLUIDS,FLERA VÄTSKOR
 CURRENT,equipment_multiple_types,3629,MULTIPLE TYPES,FLERA TYPER
 CURRENT,equipment_multiple_names,3629,MULTIPLE NAMES,FLERA NAMN
-CURRENT,equipment_on,3629,ON,ON
-CURRENT,equipment_off,3629,OFF,OFF
+CURRENT,equipment_on,3629,ON,PÅ
+CURRENT,equipment_off,3629,OFF,AV
 CURRENT,equipment_on_amount,3629,ON(*X),ON(*X)
 CURRENT,equipment_off_amount,3629,OFF(*X),OFF(*X)
 CURRENT,equipment_on_off_amount,3629,ON(*X) OFF(*Y),ON(*X) OFF(*Y)
