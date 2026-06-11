@@ -82,7 +82,7 @@ CURRENT,settings_mousesize_medium,3561,Medium,Media
 CURRENT,settings_mousesize_large,3561,Large,Grande
 CURRENT,settings_mousesize_huge,3561,Huge,Enorme
 CURRENT,settings_opengamefolder,3561,OPEN GAME FOLDER,APRI LA CARTELLA DEL GIOCO
-CURRENT,hud_tooltip_selectequipment,3561,[LMB/RMB] Select,seleziona [LMB/RMB]
+CURRENT,hud_tooltip_selectequipment,3561,[LMB/RMB] Select,Seleziona [LMB/RMB]
 CURRENT,hud_tooltip_selectequipmentadd,3561,[SHIFT + LMB/RMB] Toggle select,[MAIUSC + LMB/RMB] Selezione alternata
 CURRENT,hud_tooltip_selectequipmentnearby,3561,[LMB x2] Select all nearby,[LMB x2] Seleziona tutte le persone vicine
 CURRENT,hud_tooltip_selectequipmentdrag,3561,[LMB Drag] Box select,[Trascinamento LMB] Selezione Scatola

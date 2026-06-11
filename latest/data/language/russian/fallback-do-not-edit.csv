@@ -82,7 +82,7 @@ CURRENT,settings_mousesize_medium,3561,Medium,Средний
 CURRENT,settings_mousesize_large,3561,Large,Большой
 CURRENT,settings_mousesize_huge,3561,Huge,Огромный
 CURRENT,settings_opengamefolder,3561,OPEN GAME FOLDER,ОТКРОЙ ПАПКУ С ИГРОЙ
-CURRENT,hud_tooltip_selectequipment,3561,[LMB/RMB] Select,выбор [LMB/RMB]
+CURRENT,hud_tooltip_selectequipment,3561,[LMB/RMB] Select,Выбор [LMB/RMB]
 CURRENT,hud_tooltip_selectequipmentadd,3561,[SHIFT + LMB/RMB] Toggle select,[SHIFT + LMB/RMB] Выбор переключения
 CURRENT,hud_tooltip_selectequipmentnearby,3561,[LMB x2] Select all nearby,[LMB x2] Выбрать все близлежащие
 CURRENT,hud_tooltip_selectequipmentdrag,3561,[LMB Drag] Box select,[LMB Drag] Выбор упаковано

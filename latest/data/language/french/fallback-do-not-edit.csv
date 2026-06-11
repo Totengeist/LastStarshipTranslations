@@ -82,7 +82,7 @@ CURRENT,settings_mousesize_medium,3561,Medium,Moyen
 CURRENT,settings_mousesize_large,3561,Large,Grandes
 CURRENT,settings_mousesize_huge,3561,Huge,Énorme
 CURRENT,settings_opengamefolder,3561,OPEN GAME FOLDER,OUVRE LE DOSSIER DU JEU
-CURRENT,hud_tooltip_selectequipment,3561,[LMB/RMB] Select,sélection [LMB/RMB]
+CURRENT,hud_tooltip_selectequipment,3561,[LMB/RMB] Select,Sélection [LMB/RMB]
 CURRENT,hud_tooltip_selectequipmentadd,3561,[SHIFT + LMB/RMB] Toggle select,[MAJ + LMB/RMB] Sélection par basculement
 CURRENT,hud_tooltip_selectequipmentnearby,3561,[LMB x2] Select all nearby,[LMB x2] Sélectionne tout ce qui se trouve à proximité
 CURRENT,hud_tooltip_selectequipmentdrag,3561,[LMB Drag] Box select,[LMB Drag] Sélection de la boîte

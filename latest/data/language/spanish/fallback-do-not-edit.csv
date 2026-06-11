@@ -82,7 +82,7 @@ CURRENT,settings_mousesize_medium,3561,Medium,Medio
 CURRENT,settings_mousesize_large,3561,Large,Grande
 CURRENT,settings_mousesize_huge,3561,Huge,Enorme
 CURRENT,settings_opengamefolder,3561,OPEN GAME FOLDER,ABRE LA CARPETA DEL JUEGO
-CURRENT,hud_tooltip_selectequipment,3561,[LMB/RMB] Select,seleccionar [LMB/RMB]
+CURRENT,hud_tooltip_selectequipment,3561,[LMB/RMB] Select,Seleccionar [LMB/RMB]
 CURRENT,hud_tooltip_selectequipmentadd,3561,[SHIFT + LMB/RMB] Toggle select,[SHIFT + LMB/RMB] Alternar selección
 CURRENT,hud_tooltip_selectequipmentnearby,3561,[LMB x2] Select all nearby,[LMB x2] Seleccionar todo lo cercano
 CURRENT,hud_tooltip_selectequipmentdrag,3561,[LMB Drag] Box select,[LMB Arrastrar] Selección de Caja
