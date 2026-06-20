@@ -720,6 +720,11 @@ hud_tooltip_separatepipes               [LMB] Separate Pipes
 hud_tooltip_rotate                      [{RotateObject}] Rotate
 hud_tooltip_boxed                       [BOXED]
 hud_tooltip_charge                      Charge
+hud_tooltip_drone_filterwarning         WARNING: This type is excluded in the ship-wide gather filter.
+hud_tooltip_drone_permitlaunch          Allow drones to launch from this drone bay. \n\nIf disabled, will prevent drones from being loaded.
+hud_tooltip_drone_permitreturn          Allow drones to return to this drone bay. \n\nIf disabled, will allow drones to drop items off but not dock at this bay.
+hud_tooltip_drone_selecttype            The types that can be dropped off.
+hud_tooltip_robotarm_selecttype         The types that can be picked up.
 hud_totalproduction                     TOTAL PRODUCTION
 hud_totalconsumption                    TOTAL CONSUMPTION
 
@@ -778,8 +783,18 @@ hud_last_ftl_charge                     WARNING - LAST FTL CHARGE\nCANNOT BUY AT
 hud_surveyinprogress                    WARNING - SURVEY WILL BE CANCELLED
 
 hud_invalidplacement                    INVALID PLACEMENT
-hud_invalidplacement_tooltip            This equipment can not function properly when installed in this position.
+hud_invalidplacement_tooltip            This equipment can not function properly when installed in this position:
 hud_removefromtrack                     [RMB] Remove from track
+
+brokenconstraint_none                   INVALID PLACEMENT
+brokenconstraint_interior               NOT ENOUGH INTERIOR SPACE
+brokenconstraint_exterior               NOT ENOUGH EXTERIOR SPACE
+brokenconstraint_wall                   REQUIRES WALL
+brokenconstraint_nowall                 OBSTRUCTED BY A WALL
+brokenconstraint_unobstructed           AREA NOT CLEAR 
+brokenconstraint_wallscaffold           REQUIRES WALL OR SCAFFOLDING
+brokenconstraint_unobstructedontop      TOP OF SHIP NOT CLEAR
+brokenconstraint_habitationontop        NO HABITATION ABOVE
 
 hud_converttracktosplitter              [CTRL + RMB] Convert to splitter
 hud_convertsplittertotrack              [CTRL + RMB] Convert to track
@@ -830,6 +845,7 @@ equipment_power                         POWER
 equipment_output                        OUTPUT
 equipment_blocked                       BLOCKED
 
+equipment_factory_idle                  IDLE
 equipment_factory_stop                  STOP
 equipment_factory_stopped               STOPPED
 equipment_factory_refine                Refine *X
@@ -838,6 +854,7 @@ equipment_factory_make                  Make *X
 equipment_robotarm_nopickup             SELECT TYPE
 equipment_robotarm_pickupnone           NONE
 equipment_robotarm_forcedrop            FORCE DROP
+equipment_robotarm_numtypes             *X types
 
 equipment_weaponsconsole_noselection       SELECT WEAPON
 equipment_weaponsconsole_deselect          NONE
@@ -855,16 +872,28 @@ equipment_storagecrate_refill_mixed        MIXED PRIORITIES
 equipment_storagecrate_permitcrewload      CREW LOADING
 equipment_storagecrate_permitcrewunload    CREW UNLOADING
 
+equipment_dronebay_permitlaunch            PERMIT LAUNCH
+equipment_dronebay_permitreturn            PERMIT RETURN
+
 equipment_multiple_recipes                 MULTIPLE RECIPES
 equipment_multiple_fluids                  MULTIPLE FLUIDS
 equipment_multiple_types                   MULTIPLE TYPES
 equipment_multiple_names                   MULTIPLE NAMES
+
+equipment_typefilter_none                  SELECT PERMITTED
+equipment_typefilter_multiple              MULTIPLE PERMITTED
+equipment_typefilter_all                   ALL PERMITTED
+equipment_typefilter_extras                AND *X MORE
+equipment_typefilter_invert                ALL PERMITTED EXCEPT:
 
 equipment_on                               ON
 equipment_off                              OFF
 equipment_on_amount                        ON(*X)
 equipment_off_amount                       OFF(*X)
 equipment_on_off_amount                    ON(*X) OFF(*Y)
+
+equipment_selectall                        SELECT ALL
+equipment_deselectall                      DESELECT ALL
 
 factory_stockpileoutput                 STOCKPILE
 factory_stockpileoutput_tooltip         STOCKPILE\n\nWhen ticked, the produced items will be immediately unloaded into any cargo storage area, stockpiling the item.\n\nIf unticked, the produced item will remain until it is used somewhere, or until there is specific cargo space available.
@@ -935,7 +964,7 @@ shipeditor_equipment_title              Missing Equipment
 shipeditor_equipment_autobuy            AUTO BUY
 
 shipeditor_equipment_autoproduce            AUTO-PRODUCE
-shipeditor_equipment_autoproduce_tooltip    Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to "STOP" will be used. They will be set back to "STOP" when production has finished.
+shipeditor_equipment_autoproduce_tooltip    Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to "IDLE" will be used. They will be set back to "IDLE" when production has finished.
 shipeditor_equipment_buymissing             AUTO-BUY MATERIALS
 shipeditor_equipment_buymissing_tooltip     Automatically buy missing materials for production.\nThis includes ingots as well as components such as frames.
 
@@ -1194,6 +1223,9 @@ trade_disembark                         DISEMBARK
 trade_buy                               BUY
 trade_buy_quantity                      BUY *X
 trade_sell                              SELL
+trade_schematics                        BLUEPRINTS
+trade_schematic                         Blueprint
+trade_schematic_warning                 This is a blueprint. Purchasing this will unlock the schematic but will not deliver any equipment.\n\nAssembly tables and fabricators are required to produce the equipment.
 trade_tooltip_canceltrade               [LMB] Cancel
 trade_tooltip_cancelalltrade            [RMB] Cancel All
 trade_tooltip_reset                     [RMB] Reset
@@ -1251,7 +1283,7 @@ techtree_researchpercent                *X% Complete
 researchcredit_hint                     Load into a Science Station for analysis
 
 techtree_node_title_Logistics1                   Logistics
-techtree_node_caption_Logistics1                 Unlocks schematics for small logistics storage
+techtree_node_caption_Logistics1                 Unlocks schematics for small logistics storage. Unlocks smart drone bays allowing to filter which items are dropped off and whether drones should launch from and return to it
 techtree_node_title_Logistics2                   Logistics Level 2
 techtree_node_caption_Logistics2                 Unlocks schematics for Medium sized storage
 techtree_node_title_Logistics3                   Logistics Level 3
@@ -1380,13 +1412,15 @@ special_stargatepart3                   Andromeda Project Phases 4, 5
 
 special_sectorsurvey                    Sector Surveying
 special_tracksplitter                   Splitter Tracks
-
 special_advancedlogistics               Interstellar Logistics
+special_smartdronebays                  Smart Drone Bays
 
 techtree_editor_save                    SAVE CHANGES
 techtree_editor_reset                   RELOAD TREE
 techtree_award_title                    RESEARCH COMPLETED
 techtree_available_title                RESEARCH AVAILABLE
+techtree_blueprintunlocked_title        BLUEPRINT UNLOCKED
+techtree_alreadyunlocked                ALREADY UNLOCKED
 award_rewards                           Rewards
 
 # =============================================================================
@@ -1450,6 +1484,8 @@ logistics_tooltip_cancel                [RMB] Cancel
 logistics_tooltip_shift                 [SHIFT] x5
 logistics_tooltip_control               [CTRL] x50
 
+logistics_window_tanks                  [STORED IN TANKS]
+
 
 # =============================================================================
 # Interstellar Logistics Window
@@ -1477,7 +1513,7 @@ logistics_condition_quantity            Quantity
 logistics_condition_stacks              Stacks
 logistics_condition_containers          Containers
 logistics_condition_allbut              All But
-logistics_condition_untilstorage        Quantity on board
+logistics_condition_untilstorage        Until on board
 logistics_condition_all                 All Available
 logistics_condition_time                Minutes
 
@@ -1488,7 +1524,11 @@ logistics_transferto_none               DESTINATION SHIP
 logistics_transferfrom_none             SOURCE SHIP
 logistics_item_none                     SELECT ITEM
 
-logistics_extras_anycargo               USE ANY CARGO STORAGE
+logistics_extras_anycargo               INCLUDE GENERAL STORAGE ZONES
+logistics_extras_anycargo_tooltip       If this is checked, general storage zones will be considered alongside type specific storage zones when determining whether storage is full.
+
+logistics_extras_preventdocking         PREVENT DOCKING
+logistics_extras_preventdocking_tooltip If this is checked, the two ships won't dock. Otherwise, this ship will try to dock if the transfer is large or not enough drones are available.
 
 logistics_stuck_default                 Orders stuck
 logistics_stuck_invalidsystem           System S*X does not exist
@@ -1501,9 +1541,12 @@ logistics_stuck_gas                     System S*X does not have any R*Y to coll
 logistics_stuck_tradingpost             System S*X does not have a trading post
 logistics_stuck_stargate                Stargate is not ready for jump
 
+logistics_status_default                Order running
 logistics_status_notrunning             No order currently running
 logistics_status_travelling             Travelling to system S*X
-logistics_status_default                Order running
+logistics_status_travellingaligning     Aligning for jump
+logistics_status_travellingdrones       Waiting for *X deployed drones
+logistics_status_travellingtrade        Waiting for trade to complete
 
 logistics_status_mining                 Mined *X R*Y
 logistics_status_miningstacks           Mined *X R*Y (*Z stacks)
@@ -1527,6 +1570,7 @@ logistics_status_transferto             Transferring *X R*Y to L*Z
 logistics_status_transferfrom           Transferring *X R*Y from L*Z
 logistics_status_transfertonosupply     Transferring *X R*Y to L*Z out of the *P desired - insufficient cargo
 logistics_status_transferfromnosupply   Transferring *X R*Y from L*Z out of the *P desired - insufficient cargo
+logistics_status_transferdocking        Docking with L*X to transfer R*Y through docking port
 
 logistics_status_buy                    Bought *X R*Y for $*Z
 logistics_status_buynomoney             Bought *X R*Y for $*Z out of the *P desired - insufficient funds
@@ -1559,7 +1603,7 @@ logistics_log_waited                    Waited for T*X
 logistics_log_skipped                   Skipped order
 
 logistics_tooltip_skiporder             Skip currently executing order
-logistics_tooltip_loop                  Loop execution
+logistics_tooltip_loop                  Loop execution. If off, will stop after completing the last order.
 logistics_tooltip_controlall            [CTRL] ALL
 logistics_tooltip_controlfull           [CTRL] FULL
 logistics_tooltip_noitemrequired        This order does not require an item
@@ -1577,8 +1621,7 @@ orders_layerscope                       SHIP-SPECIFIC ORDERS
 orders_systemscope                      SYSTEM-WIDE ORDERS
 
 order_none                              None
-order_salvage                           Gather Salvage
-order_gather                            Gather Materials
+order_gather                            Gather
 order_repairhull                        Repair Hull
 order_suitson                           Suits On
 order_exteriorwork                      Exterior Work
@@ -1589,8 +1632,7 @@ order_mining                            Mining
 order_autotradeactive                   Auto Trade
 order_advancedlogistics                 Interstellar Logistics
 
-order_tooltip_salvage                   Allow drones to gather salvage
-order_tooltip_gather                    Allow drones to gather raw and refined materials (ores, minerals, ingots)
+order_tooltip_gather                    Allow drones to gather
 order_tooltip_repairhull                Allow drones to repair ship hull
 order_tooltip_suitson                   Make crew put on spacesuits if available
 order_tooltip_exteriorwork              Allow crew to perform jobs in freespace
@@ -1600,9 +1642,13 @@ order_tooltip_battlestations            Battle Stations
 order_tooltip_mining                    Allow mining lasers to fire
 order_tooltip_autotradeactive           Allow auto trades to execute
 order_tooltip_advancedlogistics         Allow interstellar logistics to execute
+order_tooltip_dronegatherfilter         Edit which items drones from this ship should pick up or ignore
 
 action_opendoors                        Open All Doors
 action_closedoors                       Close All Doors
+
+orders_drones_alltoggle                 ALL RESOURCES
+orders_drones_materialstoggle           MATERIALS
 
 
 # =============================================================================
@@ -2135,6 +2181,10 @@ object_motorcomponent                   Motor
 object_coilcomponent                    Energy Coil
 object_lenscomponent                    Lens
 object_processorcomponent               Processor
+object_superconductorcomponent          Superconductor
+object_reactorcorecomponent             Reactor Core
+object_computegridcomponent             Compute Grid
+object_thermalstabilisercomponent       Heat Exchanger
 object_stargatestructure                Stargate Frame
 object_stargateresin                    Stargate Resin
 object_stargateactuator                 Stargate Actuator
@@ -2394,6 +2444,9 @@ alert_type_interstellarlogistics        INTERSTELLAR LOGISTICS
 alert_type_interstellarlogistics_caption Orders stuck
 alert_type_failedtofindsuit             SPACESUITS REQUIRED
 alert_type_failedtofindsuit_caption     *X crew members need spacesuits.
+alert_type_noreturndronebay             DRONES STUCK
+alert_type_noreturndronebay_caption1    No drone bay to return to.
+alert_type_noreturndronebay_caption2    No drone bay permits return.
 
 warning_unbreathable                    UNBREATHABLE
 warning_suitsrequired                   SPACESUITS REQUIRED
@@ -2720,7 +2773,7 @@ tutorial_miningselectlaser            You can also target specific mineral patch
 tutorial_miningselecttarget           Target a Tilium Ore patch by clicking on one while having a mining laser selected.
 tutorial_mininggetinrange             Move your ship until the mineral patch is in the range of fire.
 tutorial_mininginstalldronebay        Drones will collect mined resources.\n\nInstall a <b>DRONE BAY</b> so your drones can collect the Tilium Ore.
-tutorial_miningfleetorders            You also need to make sure that <b>GATHER MATERIALS</b> is enabled in <b>FLEET ORDERS</b>.
+tutorial_miningfleetorders            You also need to make sure that <b>GATHER</b> is enabled in <b>FLEET ORDERS</b>.
 tutorial_mininginstallsmelter         You will need to smelt the raw Tilium Ore to crystals.\n\nInstall a <b>SMELTER</b>.
 tutorial_miningsetsmelter             Right click on the <b>SMELTER</b> and select <b>TILIUM ORE</b> to smelt it into Tilium Crystals.
 tutorial_miningwaitsmelter            Perfect! Now wait for your smelter to smelt the Tilium Ore.

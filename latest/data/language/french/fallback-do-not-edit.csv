@@ -1,6 +1,63 @@
 ﻿state,key,svn,english,translation
-NEW,powergrid_category_industry,3632,INDUSTRY,INDUSTRIE
-NEW,powergrid_category_mining,3632,MINING,LE MIEN
+CURRENT,alert_type_noreturndronebay,3718,DRONES STUCK,DRONES COINCÉS
+CURRENT,alert_type_noreturndronebay_caption1,3718,No drone bay to return to.,Pas de baie des drones où rentrer.
+CURRENT,alert_type_noreturndronebay_caption2,3718,No drone bay permits return.,Aucun drone n'est autorisé à revenir.
+CURRENT,hud_tooltip_drone_filterwarning,3708,WARNING: This type is excluded in the ship-wide gather filter.,ATTENTION : ce type est exclu du filtre de collecte à l'échelle du navire.
+CURRENT,hud_tooltip_drone_permitlaunch,3708,"Allow drones to launch from this drone bay. \n\nIf disabled, will prevent drones from being loaded.","Permet aux drones de se lancer à partir de cette baie des drones. \n\nSi elle est désactivée, elle empêchera le chargement des drones."
+CURRENT,hud_tooltip_drone_permitreturn,3708,"Allow drones to return to this drone bay. \n\nIf disabled, will allow drones to drop items off but not dock at this bay.","Permet aux drones de revenir à cette baie des drones. \n\nSi désactivé, autorisera les drones à déposer des objets mais pas à s'amarrer à cette baie."
+CURRENT,hud_tooltip_drone_selecttype,3708,The types that can be dropped off.,Les types qui peuvent être déposés.
+CURRENT,hud_tooltip_robotarm_selecttype,3708,The types that can be picked up.,Les types qui peuvent être ramassés.
+CURRENT,brokenconstraint_none,3708,INVALID PLACEMENT,PLACEMENT NON VALIDE
+CURRENT,brokenconstraint_interior,3708,NOT ENOUGH INTERIOR SPACE,PAS ASSEZ D'ESPACE INTÉRIEUR
+CURRENT,brokenconstraint_exterior,3708,NOT ENOUGH EXTERIOR SPACE,PAS ASSEZ D'ESPACE EXTÉRIEUR
+CURRENT,brokenconstraint_wall,3708,REQUIRES WALL,REQUIS MURALE
+CURRENT,brokenconstraint_nowall,3708,OBSTRUCTED BY A WALL,OBSTRUÉ PAR UN MUR
+CURRENT,brokenconstraint_unobstructed,3708,AREA NOT CLEAR,ZONE NON CLAIRE
+CURRENT,brokenconstraint_wallscaffold,3708,REQUIRES WALL OR SCAFFOLDING,NÉCESSITE UN MUR OU UN ÉCHAFAUDAGE
+CURRENT,brokenconstraint_unobstructedontop,3708,TOP OF SHIP NOT CLEAR,LE HAUT DU BATEAU N'EST PAS CLAIR
+CURRENT,brokenconstraint_habitationontop,3708,NO HABITATION ABOVE,PAS D'HABITATION AU-DESSUS
+CURRENT,equipment_factory_idle,3708,IDLE,IDLE
+CURRENT,equipment_robotarm_numtypes,3708,*X types,*X types
+CURRENT,equipment_dronebay_permitlaunch,3708,PERMIT LAUNCH,LANCEMENT DU PERMIS
+CURRENT,equipment_dronebay_permitreturn,3708,PERMIT RETURN,RETOUR DE PERMIS
+CURRENT,equipment_typefilter_none,3708,SELECT PERMITTED,SÉLECTIONNE CE QUI EST AUTORISÉ
+CURRENT,equipment_typefilter_multiple,3708,MULTIPLE PERMITTED,PLUSIEURS AUTORISÉS
+CURRENT,equipment_typefilter_all,3708,ALL PERMITTED,TOUS PERMIS
+CURRENT,equipment_typefilter_extras,3708,AND *X MORE,ET *X PLUS
+CURRENT,equipment_typefilter_invert,3708,ALL PERMITTED EXCEPT:,TOUS AUTORISÉS SAUF :
+CURRENT,equipment_selectall,3708,SELECT ALL,SELECT ALL
+CURRENT,equipment_deselectall,3708,DESELECT ALL,DÉSÉLECTIONNER TOUT
+CURRENT,trade_schematics,3708,BLUEPRINTS,BLUEPRINTS
+CURRENT,trade_schematic,3708,Blueprint,Plan d'action
+CURRENT,trade_schematic_warning,3708,This is a blueprint. Purchasing this will unlock the schematic but will not deliver any equipment.\n\nAssembly tables and fabricators are required to produce the equipment.,"Il s'agit d'un plan. En l'achetant, tu débloqueras le schéma mais tu ne recevras aucun équipement.\n\nDes tables d'assemblage et des assembleurs sont nécessaires pour produire l'équipement."
+CURRENT,special_smartdronebays,3708,Smart Drone Bays,Baie des drones intelligents
+CURRENT,techtree_blueprintunlocked_title,3708,BLUEPRINT UNLOCKED,PLAN DÉVERROUILLÉ
+CURRENT,techtree_alreadyunlocked,3708,ALREADY UNLOCKED,DÉJÀ DÉVERROUILLÉ
+CURRENT,logistics_window_tanks,3708,[STORED IN TANKS],[STOCKÉS DANS DES RÉSERVOIRS]
+CURRENT,logistics_extras_anycargo_tooltip,3708,"If this is checked, general storage zones will be considered alongside type specific storage zones when determining whether storage is full.","Si cette case est cochée, les zones de stockage générales seront prises en compte en même temps que les zones de stockage spécifiques au type pour déterminer si le stockage est plein."
+CURRENT,logistics_extras_preventdocking,3708,PREVENT DOCKING,EMPÊCHER L'AMARRAGE
+CURRENT,logistics_extras_preventdocking_tooltip,3708,"If this is checked, the two ships won't dock. Otherwise, this ship will try to dock if the transfer is large or not enough drones are available.","Si cette case est cochée, les deux vaisseaux ne s'amarreront pas. Sinon, ce vaisseau essaiera de s'amarrer si le transfert est important ou s'il n'y a pas assez de drones disponibles."
+CURRENT,logistics_status_travellingaligning,3708,Aligning for jump,S'aligner pour sauter
+CURRENT,logistics_status_travellingdrones,3708,Waiting for *X deployed drones,En attendant les drones déployés sur *X 
+CURRENT,logistics_status_travellingtrade,3708,Waiting for trade to complete,Attente de la fin de l'échange
+CURRENT,logistics_status_transferdocking,3708,Docking with L*X to transfer R*Y through docking port,Accroche-toi à L*X pour transférer R*Y par l'intermédiaire du port d'accueil
+CURRENT,order_tooltip_dronegatherfilter,3708,Edit which items drones from this ship should pick up or ignore,Modifie les éléments que les drones de ce vaisseau doivent ramasser ou ignorer
+CURRENT,orders_drones_alltoggle,3708,ALL RESOURCES,TOUTES LES RESSOURCES
+CURRENT,orders_drones_materialstoggle,3708,MATERIALS,MATÉRIAUX
+CURRENT,object_superconductorcomponent,3708,Superconductor,Supraconducteur
+CURRENT,object_reactorcorecomponent,3708,Reactor Core,Cœur du réacteur
+CURRENT,object_computegridcomponent,3708,Compute Grid,Grille de calcul
+CURRENT,object_thermalstabilisercomponent,3708,Heat Exchanger,Échangeur de chaleur
+CURRENT,shipeditor_equipment_autoproduce_tooltip,3708,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""IDLE"" will be used. They will be set back to ""IDLE"" when production has finished.","Produit automatiquement l'équipement manquant en utilisant les tables d'assemblage et les assembleurs disponibles.\nToute table d'assemblage ou tout assembleur qui est réglé sur ""IDLE"" sera utilisé. Ils seront remis sur ""IDLE"" lorsque la production sera terminée."
+CURRENT,order_tooltip_gather,3708,Allow drones to gather,Permets aux drones de se rassembler
+CURRENT,logistics_condition_untilstorage,3708,Until on board,Jusqu'à l'embarquement
+CURRENT,logistics_extras_anycargo,3708,INCLUDE GENERAL STORAGE ZONES,INCLURE DES ZONES DE STOCKAGE GÉNÉRAL
+CURRENT,logistics_tooltip_loop,3708,"Loop execution. If off, will stop after completing the last order.","Exécution en boucle. Si elle est désactivée, elle s'arrêtera après avoir terminé la dernière commande."
+CURRENT,tutorial_miningfleetorders,3708,You also need to make sure that <b>GATHER</b> is enabled in <b>FLEET ORDERS</b>.,Tu dois également t'assurer que l'option <b>GATHER</b> est activée dans <b>FLEET ORDERS</b>.
+CURRENT,techtree_node_caption_logistics1,3708,Unlocks schematics for small logistics storage. Unlocks smart drone bays allowing to filter which items are dropped off and whether drones should launch from and return to it,Débloque des schémas pour un petit stockage logistique. Débloque des baies de drones intelligentes permettant de filtrer quels articles sont déposés et si les drones doivent en décoller et y revenir
+CURRENT,order_gather,3708,Gather,Rassembler
+CURRENT,powergrid_category_industry,3632,INDUSTRY,INDUSTRIE
+CURRENT,powergrid_category_mining,3632,MINING,LE MIEN
 CURRENT,hud_tooltip_leftclickboxplace,3629,[SHIFT + LMB Drag] Box place,[MAJ + LMB Glisser] Place de la Boîte
 CURRENT,hud_tooltip_leftclickboxdismantle,3629,[SHIFT + LMB Drag] Box dismantle,[MAJ + LMB Glisser] Démontage de la boîte
 CURRENT,hud_tooltip_rightclickboxdelete,3629,[SHIFT + RMB Drag] Box delete,[MAJ + Glisser RMB] Suppression de boîte
@@ -20,7 +77,6 @@ CURRENT,equipment_on_amount,3629,ON(*X),ON(*X)
 CURRENT,equipment_off_amount,3629,OFF(*X),OFF(*X)
 CURRENT,equipment_on_off_amount,3629,ON(*X) OFF(*Y),ON(*X) OFF(*Y)
 CURRENT,shipeditor_equipment_autoproduce,3629,AUTO-PRODUCE,AUTO-PRODUIRE
-CURRENT,shipeditor_equipment_autoproduce_tooltip,3629,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""STOP"" will be used. They will be set back to ""STOP"" when production has finished.","Produit automatiquement l'équipement manquant en utilisant les tables d'assemblage et les assembleurs disponibles.\nToute table d'assemblage ou tout assembleur qui est réglé sur ""STOP"" sera utilisé. Ils seront remis sur ""STOP"" lorsque la production sera terminée."
 CURRENT,shipeditor_equipment_buymissing,3629,AUTO-BUY MATERIALS,MATÉRIAUX D'ACHAT AUTOMATIQUE
 CURRENT,shipeditor_equipment_buymissing_tooltip,3629,Automatically buy missing materials for production.\nThis includes ingots as well as components such as frames.,Achète automatiquement les matériaux manquants pour la production.\nCela comprend les lingots ainsi que les composants tels que les cadres.
 CURRENT,shipeditor_equipment_inboundonshuttle,3629,*X INBOUND ON SHUTTLE,*X EN ROUTE POUR LA NAVETTE
@@ -88,8 +144,6 @@ CURRENT,hud_tooltip_selectequipmentnearby,3561,[LMB x2] Select all nearby,[LMB x
 CURRENT,hud_tooltip_selectequipmentdrag,3561,[LMB Drag] Box select,[LMB Drag] Sélection de la boîte
 CURRENT,orders_layerscope,3561,SHIP-SPECIFIC ORDERS,COMMANDES SPÉCIFIQUES AUX NAVIRES
 CURRENT,orders_systemscope,3561,SYSTEM-WIDE ORDERS,COMMANDES À L'ÉCHELLE DU SYSTÈME
-CURRENT,order_tooltip_salvage,3561,Allow drones to gather salvage,Autorise les drones à collecter des objets de récupération
-CURRENT,order_tooltip_gather,3561,"Allow drones to gather raw and refined materials (ores, minerals, ingots)","Permets aux drones de collecter des matières premières et raffinées (minerais, minéraux, lingots)"
 CURRENT,order_tooltip_repairhull,3561,Allow drones to repair ship hull,Autorise les drones à réparer la coque des navires
 CURRENT,order_tooltip_suitson,3561,Make crew put on spacesuits if available,Fais enfiler à l'équipage des combinaisons spatiales si elles sont disponibles
 CURRENT,order_tooltip_exteriorwork,3561,Allow crew to perform jobs in freespace,Permettre à l'équipage d'effectuer des travaux dans le freespace
@@ -209,10 +263,8 @@ CURRENT,hud_layer_neutralexpandtooltip,3400,Show neutral ships,Montre les navire
 CURRENT,power_unit,3400,*X MW,*X MW
 CURRENT,tactical_focuslayer,3400,FOCUS LAYER,COUCHE DE FOCALISATION
 CURRENT,tactical_tooltip_focuslayer,3400,"When enabled, the camera's rotation and position track the currently selected layer.","Lorsqu'elles sont activées, la rotation et la position de la caméra suivent le calque actuellement sélectionné."
-CURRENT,logistics_condition_untilstorage,3400,Quantity on board,Quantité à bord
 CURRENT,logistics_quantity_all,3400,ALL,TOUS
 CURRENT,logistics_quantity_full,3400,FULL,PLEIN
-CURRENT,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,UTILISE N'IMPORTE QUEL ESPACE DE STOCKAGE DE CARGAISON
 CURRENT,logistics_stuck_layernotours,3400,Ship L*X is not friendly,Le bateau L*X n'est pas amical
 CURRENT,logistics_tooltip_controlall,3400,[CTRL] ALL,[CTRL] ALL
 CURRENT,logistics_tooltip_controlfull,3400,[CTRL] FULL,[CTRL] PLEIN
@@ -279,7 +331,6 @@ CURRENT,tutorial_logisticscrewselectship,3329,Select the <b>UMC Astral Temptress
 CURRENT,dsi_x_canceldeal2,3329,"You will lose access to all the ships I've provided, are you sure you want to do this?","Tu perdras l'accès à tous les vaisseaux que j'ai fournis, es-tu sûr de vouloir faire cela ?"
 CURRENT,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,"Chaque composant que tu dois fabriquer se trouve à droite.\nEn plaçant ta souris sur l'icône d'un composant, tu verras comment le produire."
 CURRENT,logistics_tooltip_skiporder,3248,Skip currently executing order,Sauter l'ordre en cours d'exécution
-CURRENT,logistics_tooltip_loop,3248,Loop execution,Exécution de la boucle
 CURRENT,thefinalstand_artemis1,3248,Hello again Captain!,Re-bonjour Capitaine !
 CURRENT,thefinalstand_artemis2,3248,"After some careful analysis of the Stargate's blueprints, I have found the backdoor that the late Alexander James Elistar has left you.","Après une analyse minutieuse des plans de la porte des étoiles, j'ai trouvé la porte dérobée que feu Alexander James Elistar vous a laissée."
 CURRENT,thefinalstand_artemis3,3248,You will use this backdoor to upload a small virus that I have written to their command centre within the HQ. It will disable the station's offensive capabilities and place itself under your command.,Tu utiliseras cette porte dérobée pour télécharger un petit virus que j'ai écrit dans leur centre de commandement au sein du QG. Il désactivera les capacités offensives de la station et se placera sous ton commandement.
@@ -906,7 +957,6 @@ CURRENT,tutorial_miningundock,2886,Make sure to <b>UNDOCK</b> from any other shi
 CURRENT,tutorial_miningflytosystem,2886,"Look at the rocks on the map, these indicate <b>ASTEROID BELTS</b>. \n\nFly to a system in an asteroid belt, it will probably contain Tilium Ore.","Regardez les rochers sur la carte, ils indiquent des <b>CEINTURES D'ASTÉROÏDES</b>. \n\nVolez vers un système dans une ceinture d'astéroïdes, il contiendra probablement du minerai de Tilium."
 CURRENT,tutorial_miningselectlaser,2886,"You can also target specific mineral patches.\n\nFirst, select which laser you would like to use.\n\nYou can <b>SHIFT CLICK</b> to select multiple lasers.","Vous pouvez également cibler des zones minérales spécifiques.\n\nTout d'abord, sélectionnez le laser que vous souhaitez utiliser.\n\nVous pouvez <b>MAJ-CLIC</b> pour sélectionner plusieurs lasers."
 CURRENT,tutorial_mininginstalldronebay,2886,Drones will collect mined resources.\n\nInstall a <b>DRONE BAY</b> so your drones can collect the Tilium Ore.,Les drones collecteront les ressources minées.\n\nInstallez une <b>BAIE DE DRONE</b> pour que vos drones puissent collecter le minerai de Tilium.
-CURRENT,tutorial_miningfleetorders,2886,You also need to make sure that <b>GATHER MATERIALS</b> is enabled in <b>FLEET ORDERS</b>.,Vous devez également vous assurer que <b>GATHER MATERIALS</b> est activé dans <b>FLEET ORDERS</b>.
 CURRENT,tutorial_mininginstallsmelter,2886,You will need to smelt the raw Tilium Ore to crystals.\n\nInstall a <b>SMELTER</b>.,Vous devrez fondre le minerai de tilium brut en cristaux.\n\nInstaller une <b>FONDERIE</b>.
 CURRENT,tutorial_miningsetsmelter,2886,Right click on the <b>SMELTER</b> and select <b>TILIUM ORE</b> to smelt it into Tilium Crystals.,Faites un clic droit sur la <b>FONDERIE</b> et sélectionnez <b>MINERAI DE TILIUM</b> pour le fondre en cristaux de Tilium.
 CURRENT,tutorial_buyshipinspect,2886,"Click on the <b>JMC MINING STATION</b>, an old unused industrial station for sale.","Cliquez sur la <b>JMC MINING STATION</b>, une ancienne station industrielle inutilisée à vendre."
@@ -1849,7 +1899,6 @@ CURRENT,techtree_lose_progress,2448,Starting a new research project will lose al
 CURRENT,techtree_stargate_warning,2448,Completing Andromeda Project phases ahead of the Deep Space Industrialists storyline will bypass those episodes.,Terminer les phases du projet Andromeda avant le scénario de Deep Space Industrialists contournera ces épisodes.
 CURRENT,techtree_missing_equipment,2448,This research project requires a *X to be completed,Ce projet de recherche nécessite un *X pour être complété
 CURRENT,techtree_node_title_logistics1,2448,Logistics,Logistique
-CURRENT,techtree_node_caption_logistics1,2448,Unlocks schematics for small logistics storage,Déverrouille les schémas pour le petit stockage logistique
 CURRENT,techtree_node_title_logistics2,2448,Logistics Level 2,Logistique Niveau 2
 CURRENT,techtree_node_caption_logistics2,2448,Unlocks schematics for Medium sized storage,Déverrouille les schémas pour le stockage de taille moyenne
 CURRENT,techtree_node_title_logistics3,2448,Logistics Level 3,Logistique Niveau 3
@@ -1932,8 +1981,6 @@ CURRENT,logistics_tooltip_cancel_transfer,2448,[RMB] Cancel 1 from *X,[RMB] Annu
 CURRENT,logistics_tooltip_modifiers,2448,Modifiers:,Modificateurs :
 CURRENT,orders_doors,2448,DOORS,PORTES
 CURRENT,order_none,2448,None,Aucun
-CURRENT,order_salvage,2448,Gather Salvage,Récupérer les cargaissons
-CURRENT,order_gather,2448,Gather Materials,Rassembler des matériaux
 CURRENT,order_repairhull,2448,Repair Hull,Réparer la coque
 CURRENT,order_suitson,2448,Suits On,Combinaisons obligatoire
 CURRENT,order_exteriorwork,2448,Exterior Work,Travaux extérieurs
@@ -3232,6 +3279,15 @@ CURRENT,dsi_part2_scene_z4,2448,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2448,THERE WILL BE NO FURTHER WARNING.,IL N'Y AURA AUCUN AUTRE AVERTISSEMENT.
 CURRENT,dsi_part2_scene_y7,2448,You've left me no choice.,Vous ne m'avez pas laissé le choix.
 CURRENT,dsi_part2_scene_y8,2448,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Je viendrai te chercher Alexandre, et cette fois je ne demande pas 10 %. Je veux tout."
+OBSOLETE,shipeditor_equipment_autoproduce_tooltip,3629,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""STOP"" will be used. They will be set back to ""STOP"" when production has finished.","Produit automatiquement l'équipement manquant en utilisant les tables d'assemblage et les assembleurs disponibles.\nToute table d'assemblage ou tout assembleur qui est réglé sur ""STOP"" sera utilisé. Ils seront remis sur ""STOP"" lorsque la production sera terminée."
+OBSOLETE,order_tooltip_gather,3561,"Allow drones to gather raw and refined materials (ores, minerals, ingots)","Permets aux drones de collecter des matières premières et raffinées (minerais, minéraux, lingots)"
+OBSOLETE,logistics_condition_untilstorage,3400,Quantity on board,Quantité à bord
+OBSOLETE,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,UTILISE N'IMPORTE QUEL ESPACE DE STOCKAGE DE CARGAISON
+OBSOLETE,logistics_tooltip_loop,3248,Loop execution,Exécution de la boucle
+OBSOLETE,tutorial_miningfleetorders,2886,You also need to make sure that <b>GATHER MATERIALS</b> is enabled in <b>FLEET ORDERS</b>.,Vous devez également vous assurer que <b>GATHER MATERIALS</b> est activé dans <b>FLEET ORDERS</b>.
+OBSOLETE,tutorial_miningfleetorders,2448,You also need to make sure that GATHER MATERIALS is enabled in FLEET ORDERS.,Vous devez également vous assurer que GATHER MATERIALS est activé dans FLEET ORDERS.
+OBSOLETE,techtree_node_caption_logistics1,2448,Unlocks schematics for small logistics storage,Déverrouille les schémas pour le petit stockage logistique
+OBSOLETE,order_gather,2448,Gather Materials,Rassembler des matériaux
 OBSOLETE,shipeditor_equipment_autobuy,2886,Enable Auto Buy,Activer l'achat automatique
 OBSOLETE,equipment_storagecrate_capacity,2448,CAPACITY,CAPACITÉ
 OBSOLETE,settings_uibounce_description,3563,Enlarges Buttons On Mouse Over,Agrandit les boutons au passage de la souris
@@ -3465,7 +3521,6 @@ OBSOLETE,tutorial_miningundock,2448,Make sure to UNDOCK from any other ship (fro
 OBSOLETE,tutorial_miningflytosystem,2448,"Look at the rocks on the map, these indicate ASTEROID BELTS. \n\nFly to a system in an asteroid belt, it will probably contain Tilium Ore.","Regardez les rochers sur la carte, ils indiquent des CEINTURES D'ASTÉROÏDES. \n\nVolez vers un système dans une ceinture d'astéroïdes, il contiendra probablement du minerai de Tilium."
 OBSOLETE,tutorial_miningselectlaser,2448,"You can also target specific mineral patches.\n\nFirst, select which laser you would like to use.\n\nYou can SHIFT CLICK to select multiple lasers.","Vous pouvez également cibler des zones minérales spécifiques.\n\nTout d'abord, sélectionnez le laser que vous souhaitez utiliser.\n\nVous pouvez MAJ-CLIC pour sélectionner plusieurs lasers."
 OBSOLETE,tutorial_mininginstalldronebay,2448,Drones will collect mined resources.\n\nInstall a DRONE BAY so your drones can collect the Tilium Ore.,Les drones collecteront les ressources minées.\n\nInstallez une BAIE DE DRONE pour que vos drones puissent collecter le minerai de Tilium.
-OBSOLETE,tutorial_miningfleetorders,2448,You also need to make sure that GATHER MATERIALS is enabled in FLEET ORDERS.,Vous devez également vous assurer que GATHER MATERIALS est activé dans FLEET ORDERS.
 OBSOLETE,tutorial_mininginstallsmelter,2448,You will need to smelt the raw Tilium Ore to crystals.\n\nInstall a SMELTER.,Vous devrez fondre le minerai de tilium brut en cristaux.\n\nInstaller une FONDERIE.
 OBSOLETE,tutorial_miningsetsmelter,2448,Right click on the SMELTER and select TILIUM ORE to smelt it into Tilium Crystals.,Faites un clic droit sur la FONDERIE et sélectionnez MINERAI DE TILIUM pour le fondre en cristaux de Tilium.
 OBSOLETE,tutorial_buyshipinspect,2448,"Click on the JMC MINING STATION, an old unused industrial station for sale.","Cliquez sur la JMC MINING STATION, une ancienne station industrielle inutilisée à vendre."

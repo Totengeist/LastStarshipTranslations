@@ -1,6 +1,63 @@
 ﻿state,key,svn,english,translation
-NEW,powergrid_category_industry,3632,INDUSTRY,ENDÜSTRİ
-NEW,powergrid_category_mining,3632,MINING,MADENCİLİK
+CURRENT,alert_type_noreturndronebay,3718,DRONES STUCK,SIKIŞMIŞ İHA'LAR
+CURRENT,alert_type_noreturndronebay_caption1,3718,No drone bay to return to.,Geri dönebileceği bir Drone Körfezi yok.
+CURRENT,alert_type_noreturndronebay_caption2,3718,No drone bay permits return.,Hiçbir Drone Körfezi geri dönüşe izin vermez.
+CURRENT,hud_tooltip_drone_filterwarning,3708,WARNING: This type is excluded in the ship-wide gather filter.,"UYARI: Bu tür, gemi çapında toplama filtresinde hariç tutulmuştur."
+CURRENT,hud_tooltip_drone_permitlaunch,3708,"Allow drones to launch from this drone bay. \n\nIf disabled, will prevent drones from being loaded.","Dronların bu Drone Körfezinden fırlatılmasına izin ver. \n\nDevre dışı bırakılırsa, dronların yüklenmesini engeller."
+CURRENT,hud_tooltip_drone_permitreturn,3708,"Allow drones to return to this drone bay. \n\nIf disabled, will allow drones to drop items off but not dock at this bay.","Dronların bu Drone Körfezi'ne dönmesine izin ver. \n\nDevre dışı bırakılırsa, dronların öğeleri bırakmasına izin verir, ancak bu bölmeye yanaşmaz."
+CURRENT,hud_tooltip_drone_selecttype,3708,The types that can be dropped off.,Bırakılabilecek türler.
+CURRENT,hud_tooltip_robotarm_selecttype,3708,The types that can be picked up.,Alınabilecek türler.
+CURRENT,brokenconstraint_none,3708,INVALID PLACEMENT,GEÇERSİZ YERLEŞTİRME
+CURRENT,brokenconstraint_interior,3708,NOT ENOUGH INTERIOR SPACE,YETERLI IÇ ALAN YOK
+CURRENT,brokenconstraint_exterior,3708,NOT ENOUGH EXTERIOR SPACE,YETERLI DIŞ ALAN YOK
+CURRENT,brokenconstraint_wall,3708,REQUIRES WALL,DUVAR GEREKTİRİR
+CURRENT,brokenconstraint_nowall,3708,OBSTRUCTED BY A WALL,BIR DUVAR TARAFINDAN ENGELLENMIŞ
+CURRENT,brokenconstraint_unobstructed,3708,AREA NOT CLEAR,ALAN TEMİZ DEĞİL
+CURRENT,brokenconstraint_wallscaffold,3708,REQUIRES WALL OR SCAFFOLDING,DUVAR VEYA ISKELE GEREKTIRIR
+CURRENT,brokenconstraint_unobstructedontop,3708,TOP OF SHIP NOT CLEAR,GEMININ ÜSTÜ NET DEĞIL
+CURRENT,brokenconstraint_habitationontop,3708,NO HABITATION ABOVE,ÜZERINDE YERLEŞIM YOK
+CURRENT,equipment_factory_idle,3708,IDLE,IDLE
+CURRENT,equipment_robotarm_numtypes,3708,*X types,*X türleri
+CURRENT,equipment_dronebay_permitlaunch,3708,PERMIT LAUNCH,İZİN BAŞLATMA
+CURRENT,equipment_dronebay_permitreturn,3708,PERMIT RETURN,İZİN İADESİ
+CURRENT,equipment_typefilter_none,3708,SELECT PERMITTED,IZIN VERILENLERI SEÇIN
+CURRENT,equipment_typefilter_multiple,3708,MULTIPLE PERMITTED,ÇOKLU IZINLI
+CURRENT,equipment_typefilter_all,3708,ALL PERMITTED,TÜMÜ İZİNLİ
+CURRENT,equipment_typefilter_extras,3708,AND *X MORE,VE *X DAHA FAZLASI
+CURRENT,equipment_typefilter_invert,3708,ALL PERMITTED EXCEPT:,HARIÇ HEPSINE IZIN VERILIR:
+CURRENT,equipment_selectall,3708,SELECT ALL,TÜMÜNÜ SEÇ
+CURRENT,equipment_deselectall,3708,DESELECT ALL,TÜMÜNÜ SEÇ
+CURRENT,trade_schematics,3708,BLUEPRINTS,BLUEPRINTS
+CURRENT,trade_schematic,3708,Blueprint,Blueprint
+CURRENT,trade_schematic_warning,3708,This is a blueprint. Purchasing this will unlock the schematic but will not deliver any equipment.\n\nAssembly tables and fabricators are required to produce the equipment.,Bu bir taslaktır. Bunu satın almak şemanın kilidini açacak ancak herhangi bir ekipman teslim etmeyecektir.\n\nEkipmanı üretmek için Montaj Masaları ve Fabrikatörler gereklidir.
+CURRENT,special_smartdronebays,3708,Smart Drone Bays,Akıllı Drone Körfezleri
+CURRENT,techtree_blueprintunlocked_title,3708,BLUEPRINT UNLOCKED,BLUEPRINT KILIDI AÇILDI
+CURRENT,techtree_alreadyunlocked,3708,ALREADY UNLOCKED,ZATEN KILITLI DEĞIL
+CURRENT,logistics_window_tanks,3708,[STORED IN TANKS],[TANKLARDA DEPOLANMIŞ]
+CURRENT,logistics_extras_anycargo_tooltip,3708,"If this is checked, general storage zones will be considered alongside type specific storage zones when determining whether storage is full.","Bu işaretlenirse, deponun dolu olup olmadığı belirlenirken türe özel depolama bölgelerinin yanı sıra genel depolama bölgeleri de dikkate alınacaktır."
+CURRENT,logistics_extras_preventdocking,3708,PREVENT DOCKING,KENETLENMEYI ÖNLEMEK
+CURRENT,logistics_extras_preventdocking_tooltip,3708,"If this is checked, the two ships won't dock. Otherwise, this ship will try to dock if the transfer is large or not enough drones are available.","Bu işaretlenirse, iki gemi yanaşmayacaktır. Aksi takdirde, transfer büyükse veya yeterli dron mevcut değilse bu gemi yanaşmaya çalışacaktır."
+CURRENT,logistics_status_travellingaligning,3708,Aligning for jump,Sıçrama için hizalama
+CURRENT,logistics_status_travellingdrones,3708,Waiting for *X deployed drones,*X konuşlandırılmış insansız hava araçlarını bekliyorum
+CURRENT,logistics_status_travellingtrade,3708,Waiting for trade to complete,İşlemin tamamlanmasını bekliyorum
+CURRENT,logistics_status_transferdocking,3708,Docking with L*X to transfer R*Y through docking port,Yanaşma Limanı aracılığıyla R*Y aktarmak için L*X ile yanaşma
+CURRENT,order_tooltip_dronegatherfilter,3708,Edit which items drones from this ship should pick up or ignore,Bu gemideki dronların hangi öğeleri alması veya yok sayması gerektiğini düzenleyin
+CURRENT,orders_drones_alltoggle,3708,ALL RESOURCES,TÜM KAYNAKLAR
+CURRENT,orders_drones_materialstoggle,3708,MATERIALS,MALZEMELER
+CURRENT,object_superconductorcomponent,3708,Superconductor,Süperiletken
+CURRENT,object_reactorcorecomponent,3708,Reactor Core,Reaktör Çekirdeği
+CURRENT,object_computegridcomponent,3708,Compute Grid,Hesaplama Izgarası
+CURRENT,object_thermalstabilisercomponent,3708,Heat Exchanger,Isı Eşanjörü
+CURRENT,shipeditor_equipment_autoproduce_tooltip,3708,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""IDLE"" will be used. They will be set back to ""IDLE"" when production has finished.","Mevcut montaj masalarını ve fabrikatörleri kullanarak eksik ekipmanı otomatik olarak üretin.\n""IDLE"" olarak ayarlanmış herhangi bir montaj masası veya fabrikatör kullanılacaktır. Üretim bittiğinde tekrar ""IDLE"" konumuna getirileceklerdir."
+CURRENT,order_tooltip_gather,3708,Allow drones to gather,Dronların toplanmasına izin verin
+CURRENT,logistics_condition_untilstorage,3708,Until on board,Gemiye binene kadar
+CURRENT,logistics_extras_anycargo,3708,INCLUDE GENERAL STORAGE ZONES,GENEL DEPOLAMA BÖLGELERINI IÇERIR
+CURRENT,logistics_tooltip_loop,3708,"Loop execution. If off, will stop after completing the last order.","Döngü yürütme. Kapalı ise, son emir tamamlandıktan sonra duracaktır."
+CURRENT,tutorial_miningfleetorders,3708,You also need to make sure that <b>GATHER</b> is enabled in <b>FLEET ORDERS</b>.,Ayrıca <b>FİLO EMİRLERİ</b>'nde <b>TOPLA'nın etkinleştirildiğinden</b> emin olmanız gerekir <b>.</b>
+CURRENT,techtree_node_caption_logistics1,3708,Unlocks schematics for small logistics storage. Unlocks smart drone bays allowing to filter which items are dropped off and whether drones should launch from and return to it,Küçük lojistik depolama için şemaların kilidini açar. Hangi öğelerin bırakılacağını ve dronların buradan kalkıp kalkmayacağını filtrelemeye olanak tanıyan akıllı Drone Körfezlerinin kilidini açar
+CURRENT,order_gather,3708,Gather,Toplanın
+CURRENT,powergrid_category_industry,3632,INDUSTRY,ENDÜSTRİ
+CURRENT,powergrid_category_mining,3632,MINING,MADENCİLİK
 CURRENT,hud_tooltip_leftclickboxplace,3629,[SHIFT + LMB Drag] Box place,[SHIFT + LMB Sürükle] Kutu yeri
 CURRENT,hud_tooltip_leftclickboxdismantle,3629,[SHIFT + LMB Drag] Box dismantle,[SHIFT + LMB Sürükle] Kutu sökme
 CURRENT,hud_tooltip_rightclickboxdelete,3629,[SHIFT + RMB Drag] Box delete,[SHIFT + RMB Sürükle] Kutu silme
@@ -20,7 +77,6 @@ CURRENT,equipment_on_amount,3629,ON(*X),AÇIK (*X)
 CURRENT,equipment_off_amount,3629,OFF(*X),KAPALI (*X)
 CURRENT,equipment_on_off_amount,3629,ON(*X) OFF(*Y),AÇIK(*X) KAPALI(*Y)
 CURRENT,shipeditor_equipment_autoproduce,3629,AUTO-PRODUCE,OTO-ÜRETİM
-CURRENT,shipeditor_equipment_autoproduce_tooltip,3629,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""STOP"" will be used. They will be set back to ""STOP"" when production has finished.","Mevcut montaj masalarını ve fabrikatörleri kullanarak eksik ekipmanı otomatik olarak üretin.\n""STOP"" olarak ayarlanmış herhangi bir montaj masası veya fabrikatör kullanılacaktır. Üretim bittiğinde tekrar ""DURDUR"" olarak ayarlanacaktır."
 CURRENT,shipeditor_equipment_buymissing,3629,AUTO-BUY MATERIALS,OTOMATIK SATIN ALINAN MALZEMELER
 CURRENT,shipeditor_equipment_buymissing_tooltip,3629,Automatically buy missing materials for production.\nThis includes ingots as well as components such as frames.,"Üretim için eksik malzemeleri otomatik olarak satın alın.\nBu, külçelerin yanı sıra çerçeveler gibi bileşenleri de içerir."
 CURRENT,shipeditor_equipment_inboundonshuttle,3629,*X INBOUND ON SHUTTLE,*X MEKIKLE GELEN
@@ -88,8 +144,6 @@ CURRENT,hud_tooltip_selectequipmentnearby,3561,[LMB x2] Select all nearby,[LMB x
 CURRENT,hud_tooltip_selectequipmentdrag,3561,[LMB Drag] Box select,[LMB Sürükle] Kutu seçimi
 CURRENT,orders_layerscope,3561,SHIP-SPECIFIC ORDERS,GEMIYE ÖZEL SIPARIŞLER
 CURRENT,orders_systemscope,3561,SYSTEM-WIDE ORDERS,SİSTEM GENELİNDE SİPARİŞLER
-CURRENT,order_tooltip_salvage,3561,Allow drones to gather salvage,Dronların hurda toplamasına izin verin
-CURRENT,order_tooltip_gather,3561,"Allow drones to gather raw and refined materials (ores, minerals, ingots)","Dronların ham ve rafine malzemeler (cevherler, mineraller, külçeler) toplamasına izin verin"
 CURRENT,order_tooltip_repairhull,3561,Allow drones to repair ship hull,Dronların gemi gövdesini tamir etmesine izin ver
 CURRENT,order_tooltip_suitson,3561,Make crew put on spacesuits if available,Mümkünse mürettebata uzay giysisi giydirin
 CURRENT,order_tooltip_exteriorwork,3561,Allow crew to perform jobs in freespace,Mürettebatın serbest uzayda iş yapmasına izin verin
@@ -209,10 +263,8 @@ CURRENT,hud_layer_neutralexpandtooltip,3400,Show neutral ships,Tarafsız gemiler
 CURRENT,power_unit,3400,*X MW,*X MW
 CURRENT,tactical_focuslayer,3400,FOCUS LAYER,ODAK KATMANI
 CURRENT,tactical_tooltip_focuslayer,3400,"When enabled, the camera's rotation and position track the currently selected layer.","Etkinleştirildiğinde, kameranın dönüşü ve konumu o anda seçili olan katmanı izler."
-CURRENT,logistics_condition_untilstorage,3400,Quantity on board,Gemideki miktar
 CURRENT,logistics_quantity_all,3400,ALL,TÜMÜ
 CURRENT,logistics_quantity_full,3400,FULL,TAM
-CURRENT,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,HERHANGI BIR KARGO DEPOSUNU KULLANIN
 CURRENT,logistics_stuck_layernotours,3400,Ship L*X is not friendly,Gemi L*X dostça değil
 CURRENT,logistics_tooltip_controlall,3400,[CTRL] ALL,[CTRL] TÜMÜ
 CURRENT,logistics_tooltip_controlfull,3400,[CTRL] FULL,[CTRL] TAM
@@ -279,7 +331,6 @@ CURRENT,tutorial_logisticscrewselectship,3329,Select the <b>UMC Astral Temptress
 CURRENT,dsi_x_canceldeal2,3329,"You will lose access to all the ships I've provided, are you sure you want to do this?","Sağladığım tüm gemilere erişiminizi kaybedeceksiniz, bunu yapmak istediğinizden emin misiniz?"
 CURRENT,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,"Üretmeniz gereken her bir bileşen sağ tarafta yer almaktadır.\nFarenizi bir bileşenin simgesinin üzerine getirdiğinizde, o bileşenin nasıl üretileceği gösterilir."
 CURRENT,logistics_tooltip_skiporder,3248,Skip currently executing order,Yürütülmekte olan emri atla
-CURRENT,logistics_tooltip_loop,3248,Loop execution,Döngü yürütme
 CURRENT,thefinalstand_artemis1,3248,Hello again Captain!,Tekrar merhaba Kaptan!
 CURRENT,thefinalstand_artemis2,3248,"After some careful analysis of the Stargate's blueprints, I have found the backdoor that the late Alexander James Elistar has left you.","Yıldız Geçidi'nin planları üzerinde yaptığım dikkatli bir analizden sonra, merhum Alexander James Elistar'ın size bıraktığı arka kapıyı buldum."
 CURRENT,thefinalstand_artemis3,3248,You will use this backdoor to upload a small virus that I have written to their command centre within the HQ. It will disable the station's offensive capabilities and place itself under your command.,Bu arka kapıyı kullanarak benim yazdığım küçük bir virüsü merkezdeki komuta merkezine yükleyeceksiniz. İstasyonun saldırı yeteneklerini devre dışı bırakacak ve kendisini sizin komutanız altına sokacak.
@@ -907,7 +958,6 @@ CURRENT,tutorial_combatselectcannon,2886,"Your guns can also target specific poi
 CURRENT,tutorial_combatkeepmoving,2886,"Make sure to keep moving during combat, this increases your <b>EVASION</b> and makes you a harder target to hit.","Çatışma sırasında hareket etmeye devam ettiğinizden emin olun, bu <b>ETKİNLİĞİNİZİ</b> artırır ve sizi vurulması daha zor bir hedef haline getirir."
 CURRENT,tutorial_miningundock,2886,Make sure to <b>UNDOCK</b> from any other ship (from the <b>TACTICAL</b> screen).,Diğer gemilerden <b>KİLİT AÇTIĞINIZDAN</b> emin olun (<b>TAKTİK</b> ekranından).
 CURRENT,tutorial_miningopenmap,2886,Now open the sector map (<b>{ToggleMap}</b>).,Şimdi sektör haritasını açın (<b>{ToggleMap}</b>).
-CURRENT,tutorial_miningfleetorders,2886,You also need to make sure that <b>GATHER MATERIALS</b> is enabled in <b>FLEET ORDERS</b>.,Ayrıca <b>FİLO EMİRLERİ</b>'nde <b>MALZEME TOPLA</b>'nın etkinleştirildiğinden emin olmanız gerekir.
 CURRENT,tutorial_buyshipinspect,2886,"Click on the <b>JMC MINING STATION</b>, an old unused industrial station for sale.",Satılık kullanılmayan eski bir endüstriyel istasyon olan <b>JMC MADEN İSTASYONU</b>'na tıklayın.
 CURRENT,tutorial_buyshipbuy,2886,Click on the <b>BUY</b> button to purchase the <b>JMC MINING STATION</b>.,JMC <b>MADEN İSTASYONU</b>'nu satın almak için <b>SATIN AL</b> butonuna tıklayın.
 CURRENT,tutorial_buyshipsuccess,2886,"Well done, you have purchased the <b>JMC MINING STATION</b>.","Aferin, <b>JMC MADEN İSTASYONU</b>'nu satın aldınız."
@@ -2143,7 +2193,6 @@ CURRENT,techtree_lose_progress,2803,Starting a new research project will lose al
 CURRENT,techtree_stargate_warning,2803,Completing Andromeda Project phases ahead of the Deep Space Industrialists storyline will bypass those episodes.,Andromeda Projesi aşamalarını Derin Uzay Sanayicileri hikayesinden önce tamamlamak bu bölümleri atlayacaktır.
 CURRENT,techtree_missing_equipment,2803,This research project requires a *X to be completed,Bu araştırma projesi *X adresinin tamamlanmasını gerektirmektedir
 CURRENT,techtree_node_title_logistics1,2803,Logistics,Lojistik
-CURRENT,techtree_node_caption_logistics1,2803,Unlocks schematics for small logistics storage,Küçük lojistik deposu için şemaların kilidini açar
 CURRENT,techtree_node_title_logistics2,2803,Logistics Level 2,Lojistik Seviye 2
 CURRENT,techtree_node_caption_logistics2,2803,Unlocks schematics for Medium sized storage,Orta ölçekli depolama için şemaların kilidini açar
 CURRENT,techtree_node_title_logistics3,2803,Logistics Level 3,Lojistik Seviye 3
@@ -2210,8 +2259,6 @@ CURRENT,logistics_tooltip_transfer,2803,[LMB] Transfer 1 from *X,[LMB] 1'den tra
 CURRENT,logistics_tooltip_cancel_transfer,2803,[RMB] Cancel 1 from *X,[RMB] 1'den iptal *X
 CURRENT,logistics_tooltip_modifiers,2803,Modifiers:,Değiştiriciler:
 CURRENT,order_none,2803,None,Hiçbiri
-CURRENT,order_salvage,2803,Gather Salvage,Gather Salvage
-CURRENT,order_gather,2803,Gather Materials,Malzemeleri Toplayın
 CURRENT,order_repairhull,2803,Repair Hull,Gövde Onarımı
 CURRENT,order_suitson,2803,Suits On,Takım Elbiseler
 CURRENT,order_exteriorwork,2803,Exterior Work,Dış Cephe Çalışmaları
@@ -3232,6 +3279,15 @@ CURRENT,dsi_part2_scene_z4,2803,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2803,THERE WILL BE NO FURTHER WARNING.,BAŞKA BIR UYARI YAPILMAYACAKTIR.
 CURRENT,dsi_part2_scene_y7,2803,You've left me no choice.,Bana başka seçenek bırakmadın.
 CURRENT,dsi_part2_scene_y8,2803,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Senin için geleceğim Alexander, ve bu sefer %10 istemiyorum. Hepsini istiyorum."
+OBSOLETE,shipeditor_equipment_autoproduce_tooltip,3629,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""STOP"" will be used. They will be set back to ""STOP"" when production has finished.","Mevcut montaj masalarını ve fabrikatörleri kullanarak eksik ekipmanı otomatik olarak üretin.\n""STOP"" olarak ayarlanmış herhangi bir montaj masası veya fabrikatör kullanılacaktır. Üretim bittiğinde tekrar ""DURDUR"" olarak ayarlanacaktır."
+OBSOLETE,order_tooltip_gather,3561,"Allow drones to gather raw and refined materials (ores, minerals, ingots)","Dronların ham ve rafine malzemeler (cevherler, mineraller, külçeler) toplamasına izin verin"
+OBSOLETE,logistics_condition_untilstorage,3400,Quantity on board,Gemideki miktar
+OBSOLETE,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,HERHANGI BIR KARGO DEPOSUNU KULLANIN
+OBSOLETE,logistics_tooltip_loop,3248,Loop execution,Döngü yürütme
+OBSOLETE,tutorial_miningfleetorders,2886,You also need to make sure that <b>GATHER MATERIALS</b> is enabled in <b>FLEET ORDERS</b>.,Ayrıca <b>FİLO EMİRLERİ</b>'nde <b>MALZEME TOPLA</b>'nın etkinleştirildiğinden emin olmanız gerekir.
+OBSOLETE,tutorial_miningfleetorders,2803,You also need to make sure that GATHER MATERIALS is enabled in FLEET ORDERS.,Ayrıca FİLO EMİRLERİ'nde MALZEME TOPLA'nın etkinleştirildiğinden emin olmanız gerekir.
+OBSOLETE,techtree_node_caption_logistics1,2803,Unlocks schematics for small logistics storage,Küçük lojistik deposu için şemaların kilidini açar
+OBSOLETE,order_gather,2803,Gather Materials,Malzemeleri Toplayın
 OBSOLETE,shipeditor_equipment_autobuy,2886,Enable Auto Buy,Otomatik Satın Almayı Etkinleştir
 OBSOLETE,equipment_storagecrate_capacity,2803,CAPACITY,KAPASİTE
 OBSOLETE,settings_arraytextures,2803,Use Array Textures,Dizi Dokularını Kullanma
@@ -3454,7 +3510,6 @@ OBSOLETE,tutorial_combatselectcannon,2803,"Your guns can also target specific po
 OBSOLETE,tutorial_combatkeepmoving,2803,"Make sure to keep moving during combat, this increases your EVASION and makes you a harder target to hit.","Çatışma sırasında hareket etmeye devam ettiğinizden emin olun, bu ETKİNLİĞİNİZİ artırır ve sizi vurulması daha zor bir hedef haline getirir."
 OBSOLETE,tutorial_miningundock,2803,Make sure to UNDOCK from any other ship (from the TACTICAL screen).,Diğer gemilerden KİLİT AÇTIĞINIZDAN emin olun (TAKTİK ekranından).
 OBSOLETE,tutorial_miningopenmap,2803,Now open the sector map ({ToggleMap}).,Şimdi sektör haritasını açın ({ToggleMap}).
-OBSOLETE,tutorial_miningfleetorders,2803,You also need to make sure that GATHER MATERIALS is enabled in FLEET ORDERS.,Ayrıca FİLO EMİRLERİ'nde MALZEME TOPLA'nın etkinleştirildiğinden emin olmanız gerekir.
 OBSOLETE,tutorial_buyshipinspect,2803,"Click on the JMC MINING STATION, an old unused industrial station for sale.",Satılık kullanılmayan eski bir endüstriyel istasyon olan JMC MADEN İSTASYONU'na tıklayın.
 OBSOLETE,tutorial_buyshipbuy,2803,Click on the BUY button to purchase the JMC MINING STATION.,JMC MADEN İSTASYONU'nu satın almak için SATIN AL butonuna tıklayın.
 OBSOLETE,tutorial_buyshipsuccess,2803,"Well done, you have purchased the JMC MINING STATION.","Aferin, JMC MADEN İSTASYONU'nu satın aldınız."

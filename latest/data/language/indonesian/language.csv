@@ -1,136 +1,239 @@
-state,key,svn,english,translation
-NEW,settings_language_category,3511,LANGUAGE,BAHASA
-NEW,settings_communicator_speed,3511,Character text speed,Kecepatan ketik text
-NEW,settings_camerapan_speed,3511,Camera pan speed,Kecepatan kamera pan
-NEW,settings_slowest,3511,Slowest,Paling lambat
-NEW,settings_slow,3511,Slow,Lambat
-NEW,settings_normal,3511,Normal,Normal
-NEW,settings_fast,3511,Fast,Cepat
-NEW,settings_fastest,3511,Fastest,Paling cepat
-NEW,hud_atmosphere_no_oxygen,3511,NO OXYGEN,TIDAK ADA OKSIGEN
-NEW,hud_habitation_info_title,3511,HABITATION,HABITAT
-NEW,hud_habitation_info_cabins,3511,*X / *Y CABINS,*X / *Y KABIN
-NEW,hud_habitation_info_sewage,3511,*X SEWAGE,*X KOTORAN
-NEW,tactical_dockingnotpossible,3511,DOCKING IMPOSSIBLE,TIDAK MEMUNGKINKAN PERKAITAN
-NEW,tactical_thrustersrequired,3511,THRUSTERS REQUIRED,DIBUTUHKAN PENDORONG
-NEW,creditstitle_special,3511,Special Thanks,Terima Kasih Khusus
-NEW,settings_softwarecursor,3561,Software Mouse Cursor,Software Kursor Mouse
-NEW,settings_softwarecursor_tooltip,3561,The game renders the mouse cursor instead of the operating system.,Game akan merender kursor bukan OS
-NEW,settings_softwarecursorsize,3561,Software Mouse Size,Ukuran Mouse Software
-NEW,settings_mousesize_small,3561,Small,Kecil
-NEW,settings_mousesize_medium,3561,Medium,Sedang
-NEW,settings_mousesize_large,3561,Large,Besar
-NEW,settings_mousesize_huge,3561,Huge,Sangat Besar
-NEW,settings_opengamefolder,3561,OPEN GAME FOLDER,BUKA FOLDER GAME
-NEW,hud_tooltip_selectequipment,3561,[LMB/RMB] Select,Pilih [LMB/RMB]
-NEW,hud_tooltip_selectequipmentadd,3561,[SHIFT + LMB/RMB] Toggle select,Alihkan Pilihan [SHIFT + LMB/RMB]
-NEW,hud_tooltip_selectequipmentnearby,3561,[LMB x2] Select all nearby,Pilih sekitar [LMB x2]
-NEW,hud_tooltip_selectequipmentdrag,3561,[LMB Drag] Box select,Pilih kotak [LMB Tarik]
-NEW,equipment_multiple_selected,3561,MULTIPLE RECIPES,RESEP-RESEP
-NEW,orders_layerscope,3561,SHIP-SPECIFIC ORDERS,PERINTAH KAPAL TERTENTU
-NEW,orders_systemscope,3561,SYSTEM-WIDE ORDERS,PERINTAH SISTEM MENYEBAR
-NEW,order_tooltip_salvage,3561,Allow drones to gather salvage,Memperbolehkan drone mengambil puing
-NEW,order_tooltip_gather,3561,"Allow drones to gather raw and refined materials (ores, minerals, ingots)","Memperbolehkan drone mengambil material mentah dan jadi (bijih, mineral, batangan)"
-NEW,order_tooltip_repairhull,3561,Allow drones to repair ship hull,Memperbolehkan drone untuk memperbaiki lambung kapal
-NEW,order_tooltip_suitson,3561,Make crew put on spacesuits if available,Buat awak kapal memakai baju luar angkasa jika tersedia
-NEW,order_tooltip_exteriorwork,3561,Allow crew to perform jobs in freespace,Memperbolehkan awak kapal melakukan pekerjaan di waktu bebas
-NEW,order_tooltip_weaponsactive,3561,Allow weapons to fire,Memperbolehkan senjata untuk ditembakkan
-NEW,order_tooltip_fleetlogistics,3561,Allow logistics transfers between ships,Memperbolehkan transfer logistik antar kapal
-NEW,order_tooltip_battlestations,3561,Battle Stations,Stasiun Pertempuran
-NEW,order_tooltip_mining,3561,Allow mining lasers to fire,Memeperbolehkan laser tambak untuk menembak
-NEW,order_tooltip_autotradeactive,3561,Allow auto trades to execute,Memperbolehkan barter otomatis berjalan
-NEW,order_tooltip_advancedlogistics,3561,Allow interstellar logistics to execute,Memperbolehkan logistik antar bintang berjalan
-NEW,object_fighterbay,3561,Fighter Bay,Teluk Pesawat Tempur
-NEW,object_fighterbay_description,3561,"Install on the inside of your ship and provide materials to produce fighters. The fighter will launch from the top of the ship and return to the bay once the battle is over. If it dies, a new one can be built.","Pasang dalam kapal untuk memproduksi kapal tempur. Kapal tempur akan diluncurkan dari atas kapal dan kembali ketika pertempuran sudah selesai. Jika mati, bisa dibuat lagi yang baru."
-NEW,fighter_fuel,3561,FUEL: *X%,BAHAN BAKAR: *X%
-NEW,fighter_ammo,3561,BULLETS: *X,PELURU: *X
-NEW,fighter_quantity,3561,*X / *Y,*X / *Y
-NEW,fighter_health_text,3561,HULL,LAMBUNG KAPAL
-NEW,fighter_ammo_text,3561,BULLETS,PELURU
-NEW,fighter_fuel_text,3561,FUEL,BAHAN BAKAR
-NEW,fighter_refuelling_text,3561,REFUELLING...,MENGISI ULANG...
-NEW,fighter_create,3561,CREATE FIGHTER,BUAT PESAWAT TEMPUR
-NEW,fighter_state_attackinglayer,3561,ATTACKING *X,MENYERANG *X
-NEW,fighter_state_attackingfighter,3561,ATTACKING ENEMY FIGHTER,MENYERANG PESAWAT TEMPUR MUSUH
-NEW,fighter_state_returningtobay,3561,RETURNING TO BAY,KEMBALI KE TELUK
-NEW,fighter_state_idleinfreespace,3561,SEARCHING FOR BAY,MENCARI TELUK
-NEW,translationeditor_usethistranslation,3561,Use This Translation,Gunakan Terjemahan Ini
-NEW,translationeditor_none,3561,None,Tidak Ada
-NEW,translationeditor_yourchanges,3561,Your Changes,Perubahanmu
-NEW,translationeditor_new,3561,New,Baru
-NEW,translationeditor_updated,3561,Updated,Terbaru
-NEW,translationeditor_showpreview,3561,Show Preview,tunjukkan pratinjau
-NEW,translationeditor_english,3561,English,Inggris
-NEW,translationeditor_nenglish,3561,New English,Inggris Baru
-NEW,translationeditor_previous,3561,Previous,Sebelumnya
-NEW,translationeditor_fallback,3561,Suggestion,Saran
-NEW,translationeditor_youredit,3561,Your Change,Perubahanmu
-NEW,translationeditor_original,3561,Approved,Disetujui
-NEW,translationeditor_empty,3561,No Manually Approved Translation Yet,Belum Ada Terjemahan Manual Yang Disetujui
-NEW,translationeditor_empty_original_tooltip1,3561,Unformatted Approved translation,Tak Ter-format Terjemahan Yang Disetujui
-NEW,translationeditor_empty_original_tooltip2,3561,Formatted Approved translation,Format Terjemahan Yang Disetujui
-NEW,translationeditor_empty_original_tooltip3,3561,"As there is no currently approved translation, the game is using the suggested translation above.\n\nIf you think the suggested translation is good, you should copy it into your changes with the ""Use This Translation"" button.\n\nAfter you submit your changes to us, your translation will then appear as approved in the next game update.","Karena tidak ada terjemahan yang disetujui, maka game ini menggunakan saran terjemahan di atas.\n\nJika terjemahan di atas bagus, maka kamu salin ke perubahanmu dengan tombol ""Gunakan Terjemahan Ini"".\n\nSetelah kamu mengirimkan perubahan kepada kami, terjemahanmu akan muncul sebagai disetujui pada pembaruan game berikutnya."
-NEW,translationeditor_fallback_tooltip1,3561,Suggested Translation,Saran Terjemahan
-NEW,translationeditor_fallback_tooltip2,3561,Formatted Suggested Translation,Format Saran Terjemahan
-NEW,translationeditor_fallback_tooltip3,3561,"This suggestion needs to be checked that it correctly matches the context of the game.\n\nIt will only be used if there is no ""approved"" translation.","Saran ini akan di-cek kebenarannya untuk menyesuaikan konteks game.\n\nHanya akan digunakan jika ""Tidak Ada"" terjemahan yang disetujui."
-NEW,translationeditor_previousenglish_tooltip1,3561,Previous English Phrase,Ungkapan Bahasa Inggris Sebelumnya
-NEW,translationeditor_previousenglish_tooltip2,3561,Formatted Previous English phrase,Format Ungkapan Bahasa Inggris Sebelumnya
-NEW,translationeditor_previousenglish_tooltip3,3561,The English phrase that was used in the previous version of the game.,Ungkapan Bahasa Inggris Yang Digunakan Versi Sebelumnya
-NEW,translationeditor_previoustranslation_tooltip1,3561,Previous Translation Phrase,Ungkapan Terjemahan Sebelumnya
-NEW,translationeditor_previoustranslation_tooltip2,3561,Formatted Previous Translation phrase,Format Ungkapan Terjemahan Sebelumnya
-NEW,translationeditor_previoustranslation_tooltip3,3561,Translation of the English phrase that was used in the previous version of the game.,Ungkapan Terjemahan Yang Digunakan Versi Game Sebelumnya
-NEW,settings_userinterface,3563,UI & GAME,UI & GAME
-NEW,settings_graphics,3563,GRAPHICS,GRAFIK
-NEW,settings_uibounce_description,3563,Enlarges GUI elements such as buttons on mouse over.,Memperbesar elemen GUI untuk tombol mouse diatasnya
-NEW,settings_opentranslationeditor,3563,TRANSLATION EDITOR ({TranslatorWindow}),EDIT TERJEMAHAN ({TranslatorWindow})
-NEW,settings_communicator_speed_description,3563,The speed at which character dialogue text is revealed in the communicator.,Kecepatan text dialog karakter dalam komunikator
-NEW,newmainmenu_parallax_description,3563,Use a parallax effect to give an impression of depth,Gunakan efek paralaks untuh menambah kedalaman perasaan
-NEW,newmainmenu_slowcombat_description,3563,Switch to slow game speed after taking damage during combat.,Ubah ke kecepatan lambat setelah terkena serangan dalam pertempuran
-NEW,trade_tooltip_expandautotrade,3565,[LMB] Show Auto Trade Options,[LMB] Tunjukkan Opsi Barter Otomatis
-NEW,trade_tooltip_collapseautotrade,3565,[LMB] Hide Auto Trade Options,[LMB] Sembunyikan Opsi Barter Otomatis
-NEW,techtree_node_title_fighters1,3565,Fighters,Pesawat Tempur
-NEW,techtree_node_caption_fighters1,3565,Improve the survivability and agility of fighters. Armour mitigates damage received.,Mempebagus ketahanan dan kelincahan pesawat tempur. Pelindung mengurangi serangan yang diterima
-NEW,techtree_node_title_fighterarmour1,3565,Fighter Survivability 1,Ketahanan Pesawat Tempur 1
-NEW,techtree_node_caption_fighterarmour1,3565,Increase armour damage mitigation.,Meningkatkan pelindung pengurangan serangan
-NEW,techtree_node_title_fighterarmour2,3565,Fighter Survivability 2,Ketahanan Pesawat Tempur 3
-NEW,techtree_node_caption_fighterarmour2,3565,Increase armour damage mitigation.,Meningkatkan pelindung pengurangan serangan
-NEW,techtree_node_title_fighterarmour3,3565,Fighter Survivability 3,Ketahanan Pesawat Tempur 3
-NEW,techtree_node_caption_fighterarmour3,3565,Increase armour damage mitigation.,Meningkatkan pelindung pengurangan serangan
-NEW,techtree_node_title_fighterspeed1,3565,Fighter Agility 1,Kelincahan Pesawat Tempur 1
-NEW,techtree_node_caption_fighterspeed1,3565,Improve the fuel usage and speed of your fighters.,Meningkatkan penggunaan bahan bakar dan kecepatan pesawat tempur
-NEW,techtree_node_title_fighterspeed2,3565,Fighter Agility 2,Kelincahan Pesawat Tempur 2
-NEW,techtree_node_caption_fighterspeed2,3565,Improve the fuel usage and speed of your fighters.,Meningkatkan penggunaan bahan bakar dan kecepatan pesawat tempur
-NEW,techtree_node_title_fighterspeed3,3565,Fighter Agility 3,Kelincahan Pesawat Tempur 3
-NEW,techtree_node_caption_fighterspeed3,3565,Improve the fuel usage and speed of your fighters.,Meningkatkan penggunaan bahan bakar dan kecepatan pesawat tempur
-NEW,boost_fighterarmour,3565,Fighter Armour +*X%,Pelindung Pesawat Tempur +*X%
-NEW,boost_fighterspeed,3565,Fighter Speed +*X%,Kecepatan Pesawat Tempur+*X%
-NEW,boost_fighterfuel,3565,Fighter Fuel Efficiency +*X%,Efisiensi Bahan Bakar Pesawat Tempur+*X%
-UPDATED,translationeditor_copytoclipboard,3561,Copy,Salin
-PREVIOUS,translationeditor_copytoclipboard,3511,Copy To Clipboard,Salin Ke Papan
-UPDATED,settings_instantshipswitch_description,3511,Skip rotation and panning effect when switching between ships.,Lewati efek Rotasi dan Pan ketika berpindah kapal
-PREVIOUS,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition","Ketika berpindah kapal, lewati transisi"
-UPDATED,newmainmenu_parallax,3511,Parallax,Paralaks
-PREVIOUS,newmainmenu_parallax,2448,Parallax effect,Efek Paralaks
-UPDATED,wolf_part1_completion3,3511,So far they haven't left a single living witness. But the sensor data tells the full story. We've managed to extract another sensor image of the attacker.,Sejauh ini mereka tidak meninggalkan saksi. Tapi data sensor menceritakan semuanya. Kita mampu mengambil gambar sensor lainnya dari penyerang.
-PREVIOUS,wolf_part1_completion3,2448,So far they haven't left a single living witness. But the sensor data tells the full story. We've manged to extract another sensor image of the attacker.,Sejauh ini mereka tidak meninggalkan saksi. Tapi data sensor menceritakan semuanya. Kita mampu mengambil gambar sensor lainnya dari penyerang.
-UPDATED,translationeditor_unmodified,3561,Unmodified,Belum Termodifikasi
-PREVIOUS,translationeditor_unmodified,3054,Unmodified Phrases,Ungkapan Belum Termodifikasi
-UPDATED,translationeditor_original_tooltip1,3561,Unformatted Approved Translation,Tak Ter-format Terjemahan Yang Disetujui
-PREVIOUS,translationeditor_original_tooltip1,3054,Unformatted original translation,Tak Ter-format Terjemahan Asli
-UPDATED,translationeditor_original_tooltip2,3561,Formatted Approved Translation,Format Terjemahan Yang Disetujui
-PREVIOUS,translationeditor_original_tooltip2,3054,Formatted original translation,Format Terjemahan Asli
-UPDATED,translationeditor_original_tooltip3,3561,"This is what is currently used in the game. Even though the translation is ""Approved"" you can still submit changes to improve it further.","Ini yang sedang digunakan dalam game. Walaupun ""Disetujui"" tapi kamu bisa memasukkan perbaikan"
-PREVIOUS,translationeditor_original_tooltip3,3054,This is what is currently used in the game.,Ini yang sedang digunakan dalam game.
-UPDATED,translationeditor_new_tooltip1,3561,Unformatted New Translation,Tak Ter-format Terjemahan Baru
-PREVIOUS,translationeditor_new_tooltip1,3054,Unformatted new translation,Tak Ter-format Terjemahan Baru
-UPDATED,translationeditor_new_tooltip2,3561,Formatted New Translation,Format Terjemahan Baru
-PREVIOUS,translationeditor_new_tooltip2,3054,Formatted new translation,Format Terjemahan Baru
-UPDATED,mainmenu_gamemode_freeroam_tooltip,3561,"You are free to pursue any career at your own pace. No anomaly, no stargate.","Kamu bebas mengejar karir apapun dalam kemampuanmu. Tidak ada Anomali, ataupun Stargate."
-PREVIOUS,mainmenu_gamemode_freeroam_tooltip,2448,"You are free to persue any career at your own pace. No anomaly, no stargate.","Kamu bebas mengejar karir apapun dalam kemampuanmu. Tidak ada Anomali, ataupun Stargate."
-UPDATED,settings_dynamiclighting,3563,Dynamic Lighting,Pencahayaan Dinamis
-PREVIOUS,settings_dynamiclighting,2675,Use Dynamic Lighting,Gunakan Pencahayaan Dinamis
-UPDATED,settings_arraytextures,3563,Smooth Tiles,Ubin Mulus
-PREVIOUS,settings_arraytextures,2624,Use Array Textures,Gunakan Susunan Tekstur
+﻿state,key,svn,english,translation
+NEW,hud_tooltip_leftclickboxplace,3708,[SHIFT + LMB Drag] Box place,
+NEW,hud_tooltip_leftclickboxdismantle,3708,[SHIFT + LMB Drag] Box dismantle,
+NEW,hud_tooltip_rightclickboxdelete,3708,[SHIFT + RMB Drag] Box delete,
+NEW,hud_tooltip_drone_filterwarning,3708,WARNING: This type is excluded in the ship-wide gather filter.,
+NEW,hud_tooltip_drone_permitlaunch,3708,"Allow drones to launch from this drone bay. \n\nIf disabled, will prevent drones from being loaded.",
+NEW,hud_tooltip_drone_permitreturn,3708,"Allow drones to return to this drone bay. \n\nIf disabled, will allow drones to drop items off but not dock at this bay.",
+NEW,hud_tooltip_drone_selecttype,3708,The types that can be dropped off.,
+NEW,hud_tooltip_robotarm_selecttype,3708,The types that can be picked up.,
+NEW,brokenconstraint_none,3708,INVALID PLACEMENT,
+NEW,brokenconstraint_interior,3708,NOT ENOUGH INTERIOR SPACE,
+NEW,brokenconstraint_exterior,3708,NOT ENOUGH EXTERIOR SPACE,
+NEW,brokenconstraint_wall,3708,REQUIRES WALL,
+NEW,brokenconstraint_nowall,3708,OBSTRUCTED BY A WALL,
+NEW,brokenconstraint_unobstructed,3708,AREA NOT CLEAR,
+NEW,brokenconstraint_wallscaffold,3708,REQUIRES WALL OR SCAFFOLDING,
+NEW,brokenconstraint_unobstructedontop,3708,TOP OF SHIP NOT CLEAR,
+NEW,brokenconstraint_habitationontop,3708,NO HABITATION ABOVE,
+NEW,hud_installqueue_inproduction,3708,QUEUED FOR PRODUCTION,
+NEW,hud_installqueue_waitingforbox,3708,NONE AVAILABLE,
+NEW,hud_workqueue_waitingforcrew,3708,WAITING FOR CREW,
+NEW,hud_workqueue_installinprogress,3708,INSTALL IN PROGRESS,
+NEW,equipment_factory_idle,3708,IDLE,
+NEW,equipment_robotarm_numtypes,3708,*X types,
+NEW,equipment_storagecrate_capacity_mixed,3708,CAPACITY: MIXED,
+NEW,equipment_storagecrate_refill_mixed,3708,MIXED PRIORITIES,
+NEW,equipment_dronebay_permitlaunch,3708,PERMIT LAUNCH,
+NEW,equipment_dronebay_permitreturn,3708,PERMIT RETURN,
+NEW,equipment_multiple_recipes,3708,MULTIPLE RECIPES,
+NEW,equipment_multiple_fluids,3708,MULTIPLE FLUIDS,
+NEW,equipment_multiple_types,3708,MULTIPLE TYPES,
+NEW,equipment_multiple_names,3708,MULTIPLE NAMES,
+NEW,equipment_typefilter_none,3708,SELECT PERMITTED,
+NEW,equipment_typefilter_multiple,3708,MULTIPLE PERMITTED,
+NEW,equipment_typefilter_all,3708,ALL PERMITTED,
+NEW,equipment_typefilter_extras,3708,AND *X MORE,
+NEW,equipment_typefilter_invert,3708,ALL PERMITTED EXCEPT:,
+NEW,equipment_on,3708,ON,
+NEW,equipment_off,3708,OFF,
+NEW,equipment_on_amount,3708,ON(*X),
+NEW,equipment_off_amount,3708,OFF(*X),
+NEW,equipment_on_off_amount,3708,ON(*X) OFF(*Y),
+NEW,equipment_selectall,3708,SELECT ALL,
+NEW,equipment_deselectall,3708,DESELECT ALL,
+NEW,shipeditor_equipment_autoproduce,3708,AUTO-PRODUCE,
+NEW,shipeditor_equipment_autoproduce_tooltip,3708,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""IDLE"" will be used. They will be set back to ""IDLE"" when production has finished.",
+NEW,shipeditor_equipment_buymissing,3708,AUTO-BUY MATERIALS,
+NEW,shipeditor_equipment_buymissing_tooltip,3708,Automatically buy missing materials for production.\nThis includes ingots as well as components such as frames.,
+NEW,shipeditor_equipment_inboundonshuttle,3708,*X INBOUND ON SHUTTLE,
+NEW,shipeditor_equipment_inproduction,3708,*X IN PRODUCTION (*Y MORE QUEUED),
+NEW,shipeditor_equipment_queuedforproduction,3708,*X QUEUED FOR PRODUCTION,
+NEW,shipeditor_equipment_availablecount,3708,*X AVAILABLE TO BUY,
+NEW,shipeditor_equipment_waitingforstock,3708,WAITING FOR STOCK,
+NEW,powergrid_category_industry,3708,INDUSTRY,
+NEW,powergrid_category_mining,3708,MINING,
+NEW,trade_buy_quantity,3708,BUY *X,
+NEW,trade_schematics,3708,BLUEPRINTS,
+NEW,trade_schematic,3708,Blueprint,
+NEW,trade_schematic_warning,3708,This is a blueprint. Purchasing this will unlock the schematic but will not deliver any equipment.\n\nAssembly tables and fabricators are required to produce the equipment.,
+NEW,special_smartdronebays,3708,Smart Drone Bays,
+NEW,techtree_blueprintunlocked_title,3708,BLUEPRINT UNLOCKED,
+NEW,techtree_alreadyunlocked,3708,ALREADY UNLOCKED,
+NEW,tactical_fighterdeployment_alert,3708,FIGHTER MODE: ALERT,
+NEW,tactical_fighterdeployment_stow,3708,FIGHTER MODE: STOW,
+NEW,tactical_tooltip_fighter_title,3708,Fighter Modes,
+NEW,tactical_tooltip_fighter_alertcaption,3708,ALERT,
+NEW,tactical_tooltip_fighter_alert,3708,Fighters will automatically deploy and engage hostile targets when battlestations is enabled.,
+NEW,tactical_tooltip_fighter_stowcaption,3708,STOW,
+NEW,tactical_tooltip_fighter_stow,3708,Fighters will remain stowed. Currently deployed fighters will return.,
+NEW,logistics_window_tanks,3708,[STORED IN TANKS],
+NEW,logistics_extras_anycargo_tooltip,3708,"If this is checked, general storage zones will be considered alongside type specific storage zones when determining whether storage is full.",
+NEW,logistics_extras_preventdocking,3708,PREVENT DOCKING,
+NEW,logistics_extras_preventdocking_tooltip,3708,"If this is checked, the two ships won't dock. Otherwise, this ship will try to dock if the transfer is large or not enough drones are available.",
+NEW,logistics_status_travellingaligning,3708,Aligning for jump,
+NEW,logistics_status_travellingdrones,3708,Waiting for *X deployed drones,
+NEW,logistics_status_travellingtrade,3708,Waiting for trade to complete,
+NEW,logistics_status_transferdocking,3708,Docking with L*X to transfer R*Y through docking port,
+NEW,order_tooltip_dronegatherfilter,3708,Edit which items drones from this ship should pick up or ignore,
+NEW,orders_drones_alltoggle,3708,ALL RESOURCES,
+NEW,orders_drones_materialstoggle,3708,MATERIALS,
+NEW,object_powerswitch,3708,Power Switch,
+NEW,object_powerswitch_description,3708,Install along a cable and toggle on and off to control power flow. Can be given a name to be easily toggled from the powergrid window.,
+NEW,object_superconductorcomponent,3708,Superconductor,
+NEW,object_reactorcorecomponent,3708,Reactor Core,
+NEW,object_computegridcomponent,3708,Compute Grid,
+NEW,object_thermalstabilisercomponent,3708,Heat Exchanger,
+NEW,loader_auto_multiple_fluids,3708,AUTO (MULTIPLE FLUIDS),
+NEW,loader_auto_resource,3708,AUTO (R*X),
+NEW,fighter_lowfuel,3708,LOW FUEL,
+NEW,fighter_noammo,3708,NO AMMO,
+NEW,alert_type_novalidfactory,3708,NO VALID FACTORY,
+NEW,alert_type_novalidfactory_tooltip,3708,"Your ship is trying to produce something, but there are no valid factories.\n\nThis could be due to missing pipe inputs or because a particular factory is missing (e.g. a fabricator).\n\nCheck the recipe using the recipe window and check what equipment is needed or if there are any pipe inputs.",
+NEW,alert_type_noreturndronebay,3718,DRONES STUCK,
+NEW,alert_type_noreturndronebay_caption1,3718,No drone bay to return to.,
+NEW,alert_type_noreturndronebay_caption2,3718,No drone bay permits return.,
+UPDATED,order_tooltip_gather,3708,Allow drones to gather,
+PREVIOUS,order_tooltip_gather,3561,"Allow drones to gather raw and refined materials (ores, minerals, ingots)","Memperbolehkan drone mengambil material mentah dan jadi (bijih, mineral, batangan)"
+UPDATED,logistics_condition_untilstorage,3708,Until on board,
+PREVIOUS,logistics_condition_untilstorage,3400,Quantity on board,Jumlah penumpang di atas kapal
+UPDATED,logistics_extras_anycargo,3708,INCLUDE GENERAL STORAGE ZONES,
+PREVIOUS,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,GUNAKAN PENYIMPANAN KARGO APA PUN
+UPDATED,logistics_tooltip_loop,3708,"Loop execution. If off, will stop after completing the last order.",
+PREVIOUS,logistics_tooltip_loop,3248,Loop execution,Eksekusi perulangan
+UPDATED,shipeditor_equipment_autobuy,3708,AUTO BUY,
+PREVIOUS,shipeditor_equipment_autobuy,2886,Enable Auto Buy,Aktifkan Pembelian Otomatis
+UPDATED,tutorial_miningfleetorders,3708,You also need to make sure that <b>GATHER</b> is enabled in <b>FLEET ORDERS</b>.,
+PREVIOUS,tutorial_miningfleetorders,2886,You also need to make sure that <b>GATHER MATERIALS</b> is enabled in <b>FLEET ORDERS</b>.,Anda juga perlu memastikan bahwa <b>KUMPULKAN BAHAN</b> diaktifkan di <b>PESANAN ARMADA</b>.
+PREVIOUS,tutorial_miningfleetorders,2448,You also need to make sure that GATHER MATERIALS is enabled in FLEET ORDERS.,Anda juga perlu memastikan bahwa GATHER MATERIALS diaktifkan di FLEET ORDERS.
+UPDATED,equipment_storagecrate_capacity,3708,CAPACITY: *X,
+PREVIOUS,equipment_storagecrate_capacity,2448,CAPACITY,KAPASITAS
+UPDATED,trade_equipment_size,3708,- Size *X x *Y,
+PREVIOUS,trade_equipment_size,2448,#NAME?,#NAME?
+UPDATED,trade_equipment_rotatable,3708,- Rotatable,
+PREVIOUS,trade_equipment_rotatable,2448,#NAME?,#NAME?
+UPDATED,trade_equipment_powered,3708,- Powered,
+PREVIOUS,trade_equipment_powered,2448,#NAME?,#NAME?
+UPDATED,techtree_node_caption_logistics1,3708,Unlocks schematics for small logistics storage. Unlocks smart drone bays allowing to filter which items are dropped off and whether drones should launch from and return to it,
+PREVIOUS,techtree_node_caption_logistics1,2448,Unlocks schematics for small logistics storage,Membuka skema untuk penyimpanan logistik kecil.
+UPDATED,order_gather,3708,Gather,
+PREVIOUS,order_gather,2448,Gather Materials,Kumpulkan Bahan-Bahan
+CURRENT,settings_language_category,3511,LANGUAGE,BAHASA
+CURRENT,settings_communicator_speed,3511,Character text speed,Kecepatan ketik text
+CURRENT,settings_camerapan_speed,3511,Camera pan speed,Kecepatan kamera pan
+CURRENT,settings_slowest,3511,Slowest,Paling lambat
+CURRENT,settings_slow,3511,Slow,Lambat
+CURRENT,settings_normal,3511,Normal,Normal
+CURRENT,settings_fast,3511,Fast,Cepat
+CURRENT,settings_fastest,3511,Fastest,Paling cepat
+CURRENT,hud_atmosphere_no_oxygen,3511,NO OXYGEN,TIDAK ADA OKSIGEN
+CURRENT,hud_habitation_info_title,3511,HABITATION,HABITAT
+CURRENT,hud_habitation_info_cabins,3511,*X / *Y CABINS,*X / *Y KABIN
+CURRENT,hud_habitation_info_sewage,3511,*X SEWAGE,*X KOTORAN
+CURRENT,tactical_dockingnotpossible,3511,DOCKING IMPOSSIBLE,TIDAK MEMUNGKINKAN PERKAITAN
+CURRENT,tactical_thrustersrequired,3511,THRUSTERS REQUIRED,DIBUTUHKAN PENDORONG
+CURRENT,creditstitle_special,3511,Special Thanks,Terima Kasih Khusus
+CURRENT,settings_softwarecursor,3561,Software Mouse Cursor,Software Kursor Mouse
+CURRENT,settings_softwarecursor_tooltip,3561,The game renders the mouse cursor instead of the operating system.,Game akan merender kursor bukan OS
+CURRENT,settings_softwarecursorsize,3561,Software Mouse Size,Ukuran Mouse Software
+CURRENT,settings_mousesize_small,3561,Small,Kecil
+CURRENT,settings_mousesize_medium,3561,Medium,Sedang
+CURRENT,settings_mousesize_large,3561,Large,Besar
+CURRENT,settings_mousesize_huge,3561,Huge,Sangat Besar
+CURRENT,settings_opengamefolder,3561,OPEN GAME FOLDER,BUKA FOLDER GAME
+CURRENT,hud_tooltip_selectequipment,3561,[LMB/RMB] Select,Pilih [LMB/RMB]
+CURRENT,hud_tooltip_selectequipmentadd,3561,[SHIFT + LMB/RMB] Toggle select,Alihkan Pilihan [SHIFT + LMB/RMB]
+CURRENT,hud_tooltip_selectequipmentnearby,3561,[LMB x2] Select all nearby,Pilih sekitar [LMB x2]
+CURRENT,hud_tooltip_selectequipmentdrag,3561,[LMB Drag] Box select,Pilih kotak [LMB Tarik]
+CURRENT,orders_layerscope,3561,SHIP-SPECIFIC ORDERS,PERINTAH KAPAL TERTENTU
+CURRENT,orders_systemscope,3561,SYSTEM-WIDE ORDERS,PERINTAH SISTEM MENYEBAR
+CURRENT,order_tooltip_repairhull,3561,Allow drones to repair ship hull,Memperbolehkan drone untuk memperbaiki lambung kapal
+CURRENT,order_tooltip_suitson,3561,Make crew put on spacesuits if available,Buat awak kapal memakai baju luar angkasa jika tersedia
+CURRENT,order_tooltip_exteriorwork,3561,Allow crew to perform jobs in freespace,Memperbolehkan awak kapal melakukan pekerjaan di waktu bebas
+CURRENT,order_tooltip_weaponsactive,3561,Allow weapons to fire,Memperbolehkan senjata untuk ditembakkan
+CURRENT,order_tooltip_fleetlogistics,3561,Allow logistics transfers between ships,Memperbolehkan transfer logistik antar kapal
+CURRENT,order_tooltip_battlestations,3561,Battle Stations,Stasiun Pertempuran
+CURRENT,order_tooltip_mining,3561,Allow mining lasers to fire,Memeperbolehkan laser tambak untuk menembak
+CURRENT,order_tooltip_autotradeactive,3561,Allow auto trades to execute,Memperbolehkan barter otomatis berjalan
+CURRENT,order_tooltip_advancedlogistics,3561,Allow interstellar logistics to execute,Memperbolehkan logistik antar bintang berjalan
+CURRENT,object_fighterbay,3561,Fighter Bay,Teluk Pesawat Tempur
+CURRENT,object_fighterbay_description,3561,"Install on the inside of your ship and provide materials to produce fighters. The fighter will launch from the top of the ship and return to the bay once the battle is over. If it dies, a new one can be built.","Pasang dalam kapal untuk memproduksi kapal tempur. Kapal tempur akan diluncurkan dari atas kapal dan kembali ketika pertempuran sudah selesai. Jika mati, bisa dibuat lagi yang baru."
+CURRENT,fighter_fuel,3561,FUEL: *X%,BAHAN BAKAR: *X%
+CURRENT,fighter_ammo,3561,BULLETS: *X,PELURU: *X
+CURRENT,fighter_quantity,3561,*X / *Y,*X / *Y
+CURRENT,fighter_health_text,3561,HULL,LAMBUNG KAPAL
+CURRENT,fighter_ammo_text,3561,BULLETS,PELURU
+CURRENT,fighter_fuel_text,3561,FUEL,BAHAN BAKAR
+CURRENT,fighter_refuelling_text,3561,REFUELLING...,MENGISI ULANG...
+CURRENT,fighter_create,3561,CREATE FIGHTER,BUAT PESAWAT TEMPUR
+CURRENT,fighter_state_attackinglayer,3561,ATTACKING *X,MENYERANG *X
+CURRENT,fighter_state_attackingfighter,3561,ATTACKING ENEMY FIGHTER,MENYERANG PESAWAT TEMPUR MUSUH
+CURRENT,fighter_state_returningtobay,3561,RETURNING TO BAY,KEMBALI KE TELUK
+CURRENT,fighter_state_idleinfreespace,3561,SEARCHING FOR BAY,MENCARI TELUK
+CURRENT,translationeditor_usethistranslation,3561,Use This Translation,Gunakan Terjemahan Ini
+CURRENT,translationeditor_none,3561,None,Tidak Ada
+CURRENT,translationeditor_yourchanges,3561,Your Changes,Perubahanmu
+CURRENT,translationeditor_new,3561,New,Baru
+CURRENT,translationeditor_updated,3561,Updated,Terbaru
+CURRENT,translationeditor_showpreview,3561,Show Preview,tunjukkan pratinjau
+CURRENT,translationeditor_english,3561,English,Inggris
+CURRENT,translationeditor_nenglish,3561,New English,Inggris Baru
+CURRENT,translationeditor_previous,3561,Previous,Sebelumnya
+CURRENT,translationeditor_fallback,3561,Suggestion,Saran
+CURRENT,translationeditor_youredit,3561,Your Change,Perubahanmu
+CURRENT,translationeditor_original,3561,Approved,Disetujui
+CURRENT,translationeditor_empty,3561,No Manually Approved Translation Yet,Belum Ada Terjemahan Manual Yang Disetujui
+CURRENT,translationeditor_empty_original_tooltip1,3561,Unformatted Approved translation,Tak Ter-format Terjemahan Yang Disetujui
+CURRENT,translationeditor_empty_original_tooltip2,3561,Formatted Approved translation,Format Terjemahan Yang Disetujui
+CURRENT,translationeditor_empty_original_tooltip3,3561,"As there is no currently approved translation, the game is using the suggested translation above.\n\nIf you think the suggested translation is good, you should copy it into your changes with the ""Use This Translation"" button.\n\nAfter you submit your changes to us, your translation will then appear as approved in the next game update.","Karena tidak ada terjemahan yang disetujui, maka game ini menggunakan saran terjemahan di atas.\n\nJika terjemahan di atas bagus, maka kamu salin ke perubahanmu dengan tombol ""Gunakan Terjemahan Ini"".\n\nSetelah kamu mengirimkan perubahan kepada kami, terjemahanmu akan muncul sebagai disetujui pada pembaruan game berikutnya."
+CURRENT,translationeditor_fallback_tooltip1,3561,Suggested Translation,Saran Terjemahan
+CURRENT,translationeditor_fallback_tooltip2,3561,Formatted Suggested Translation,Format Saran Terjemahan
+CURRENT,translationeditor_fallback_tooltip3,3561,"This suggestion needs to be checked that it correctly matches the context of the game.\n\nIt will only be used if there is no ""approved"" translation.","Saran ini akan di-cek kebenarannya untuk menyesuaikan konteks game.\n\nHanya akan digunakan jika ""Tidak Ada"" terjemahan yang disetujui."
+CURRENT,translationeditor_previousenglish_tooltip1,3561,Previous English Phrase,Ungkapan Bahasa Inggris Sebelumnya
+CURRENT,translationeditor_previousenglish_tooltip2,3561,Formatted Previous English phrase,Format Ungkapan Bahasa Inggris Sebelumnya
+CURRENT,translationeditor_previousenglish_tooltip3,3561,The English phrase that was used in the previous version of the game.,Ungkapan Bahasa Inggris Yang Digunakan Versi Sebelumnya
+CURRENT,translationeditor_previoustranslation_tooltip1,3561,Previous Translation Phrase,Ungkapan Terjemahan Sebelumnya
+CURRENT,translationeditor_previoustranslation_tooltip2,3561,Formatted Previous Translation phrase,Format Ungkapan Terjemahan Sebelumnya
+CURRENT,translationeditor_previoustranslation_tooltip3,3561,Translation of the English phrase that was used in the previous version of the game.,Ungkapan Terjemahan Yang Digunakan Versi Game Sebelumnya
+CURRENT,settings_userinterface,3563,UI & GAME,UI & GAME
+CURRENT,settings_graphics,3563,GRAPHICS,GRAFIK
+CURRENT,settings_uibounce_description,3563,Enlarges GUI elements such as buttons on mouse over.,Memperbesar elemen GUI untuk tombol mouse diatasnya
+CURRENT,settings_opentranslationeditor,3563,TRANSLATION EDITOR ({TranslatorWindow}),EDIT TERJEMAHAN ({TranslatorWindow})
+CURRENT,settings_communicator_speed_description,3563,The speed at which character dialogue text is revealed in the communicator.,Kecepatan text dialog karakter dalam komunikator
+CURRENT,newmainmenu_parallax_description,3563,Use a parallax effect to give an impression of depth,Gunakan efek paralaks untuh menambah kedalaman perasaan
+CURRENT,newmainmenu_slowcombat_description,3563,Switch to slow game speed after taking damage during combat.,Ubah ke kecepatan lambat setelah terkena serangan dalam pertempuran
+CURRENT,trade_tooltip_expandautotrade,3565,[LMB] Show Auto Trade Options,[LMB] Tunjukkan Opsi Barter Otomatis
+CURRENT,trade_tooltip_collapseautotrade,3565,[LMB] Hide Auto Trade Options,[LMB] Sembunyikan Opsi Barter Otomatis
+CURRENT,techtree_node_title_fighters1,3565,Fighters,Pesawat Tempur
+CURRENT,techtree_node_caption_fighters1,3565,Improve the survivability and agility of fighters. Armour mitigates damage received.,Mempebagus ketahanan dan kelincahan pesawat tempur. Pelindung mengurangi serangan yang diterima
+CURRENT,techtree_node_title_fighterarmour1,3565,Fighter Survivability 1,Ketahanan Pesawat Tempur 1
+CURRENT,techtree_node_caption_fighterarmour1,3565,Increase armour damage mitigation.,Meningkatkan pelindung pengurangan serangan
+CURRENT,techtree_node_title_fighterarmour2,3565,Fighter Survivability 2,Ketahanan Pesawat Tempur 3
+CURRENT,techtree_node_caption_fighterarmour2,3565,Increase armour damage mitigation.,Meningkatkan pelindung pengurangan serangan
+CURRENT,techtree_node_title_fighterarmour3,3565,Fighter Survivability 3,Ketahanan Pesawat Tempur 3
+CURRENT,techtree_node_caption_fighterarmour3,3565,Increase armour damage mitigation.,Meningkatkan pelindung pengurangan serangan
+CURRENT,techtree_node_title_fighterspeed1,3565,Fighter Agility 1,Kelincahan Pesawat Tempur 1
+CURRENT,techtree_node_caption_fighterspeed1,3565,Improve the fuel usage and speed of your fighters.,Meningkatkan penggunaan bahan bakar dan kecepatan pesawat tempur
+CURRENT,techtree_node_title_fighterspeed2,3565,Fighter Agility 2,Kelincahan Pesawat Tempur 2
+CURRENT,techtree_node_caption_fighterspeed2,3565,Improve the fuel usage and speed of your fighters.,Meningkatkan penggunaan bahan bakar dan kecepatan pesawat tempur
+CURRENT,techtree_node_title_fighterspeed3,3565,Fighter Agility 3,Kelincahan Pesawat Tempur 3
+CURRENT,techtree_node_caption_fighterspeed3,3565,Improve the fuel usage and speed of your fighters.,Meningkatkan penggunaan bahan bakar dan kecepatan pesawat tempur
+CURRENT,boost_fighterarmour,3565,Fighter Armour +*X%,Pelindung Pesawat Tempur +*X%
+CURRENT,boost_fighterspeed,3565,Fighter Speed +*X%,Kecepatan Pesawat Tempur+*X%
+CURRENT,boost_fighterfuel,3565,Fighter Fuel Efficiency +*X%,Efisiensi Bahan Bakar Pesawat Tempur+*X%
+CURRENT,translationeditor_copytoclipboard,3561,Copy,Salin
+CURRENT,settings_instantshipswitch_description,3511,Skip rotation and panning effect when switching between ships.,Lewati efek Rotasi dan Pan ketika berpindah kapal
+CURRENT,newmainmenu_parallax,3511,Parallax,Paralaks
+CURRENT,wolf_part1_completion3,3511,So far they haven't left a single living witness. But the sensor data tells the full story. We've managed to extract another sensor image of the attacker.,Sejauh ini mereka tidak meninggalkan saksi. Tapi data sensor menceritakan semuanya. Kita mampu mengambil gambar sensor lainnya dari penyerang.
+CURRENT,translationeditor_unmodified,3561,Unmodified,Belum Termodifikasi
+CURRENT,translationeditor_original_tooltip1,3561,Unformatted Approved Translation,Tak Ter-format Terjemahan Yang Disetujui
+CURRENT,translationeditor_original_tooltip2,3561,Formatted Approved Translation,Format Terjemahan Yang Disetujui
+CURRENT,translationeditor_original_tooltip3,3561,"This is what is currently used in the game. Even though the translation is ""Approved"" you can still submit changes to improve it further.","Ini yang sedang digunakan dalam game. Walaupun ""Disetujui"" tapi kamu bisa memasukkan perbaikan"
+CURRENT,translationeditor_new_tooltip1,3561,Unformatted New Translation,Tak Ter-format Terjemahan Baru
+CURRENT,translationeditor_new_tooltip2,3561,Formatted New Translation,Format Terjemahan Baru
+CURRENT,mainmenu_gamemode_freeroam_tooltip,3561,"You are free to pursue any career at your own pace. No anomaly, no stargate.","Kamu bebas mengejar karir apapun dalam kemampuanmu. Tidak ada Anomali, ataupun Stargate."
+CURRENT,settings_dynamiclighting,3563,Dynamic Lighting,Pencahayaan Dinamis
+CURRENT,settings_arraytextures,3563,Smooth Tiles,Ubin Mulus
 CURRENT,logistics_log_transfertonosupply,3492,Transferred *X R*Y to L*Z out of the *P desired - insufficient cargo,Transfer *X R*Y ke L*Z dari *P yang diinginkan - kargo kurang
 CURRENT,logistics_log_transferfromnosupply,3492,Transferred *X R*Y from L*Z out of the *P desired - insufficient cargo,Transfer *X R*Y dari L*Z dari *P yang diinginkan - kargo kurang
 CURRENT,trade_paymentperjump,3472,*X (+*Y) per sector jump,*X(*Y) sektor per lompatan
@@ -176,10 +279,8 @@ CURRENT,hud_layer_neutralexpandtooltip,3400,Show neutral ships,Tampilkan kapal n
 CURRENT,power_unit,3400,*X MW,*X MW
 CURRENT,tactical_focuslayer,3400,FOCUS LAYER,LAPISAN FOKUS
 CURRENT,tactical_tooltip_focuslayer,3400,"When enabled, the camera's rotation and position track the currently selected layer.","Saat diaktifkan, rotasi dan posisi kamera akan mengikuti lapisan yang saat ini dipilih."
-CURRENT,logistics_condition_untilstorage,3400,Quantity on board,Jumlah penumpang di atas kapal
 CURRENT,logistics_quantity_all,3400,ALL,SEMUA
 CURRENT,logistics_quantity_full,3400,FULL,PENUH
-CURRENT,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,GUNAKAN PENYIMPANAN KARGO APA PUN
 CURRENT,logistics_stuck_layernotours,3400,Ship L*X is not friendly,Kapal L*X tidak ramah
 CURRENT,logistics_tooltip_controlall,3400,[CTRL] ALL,[CTRL] SEMUA
 CURRENT,logistics_tooltip_controlfull,3400,[CTRL] FULL,[CTRL] PENUH
@@ -246,7 +347,6 @@ CURRENT,tutorial_logisticscrewselectship,3329,Select the <b>UMC Astral Temptress
 CURRENT,dsi_x_canceldeal2,3329,"You will lose access to all the ships I've provided, are you sure you want to do this?","Anda akan kehilangan akses ke semua kapal yang telah saya sediakan, apakah Anda yakin ingin melakukan ini?"
 CURRENT,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,Setiap komponen yang perlu Anda produksi berada di sebelah kanan.\nArahkan kursor mouse Anda ke ikon komponen untuk melihat cara memproduksinya.
 CURRENT,logistics_tooltip_skiporder,3248,Skip currently executing order,Lewati pesanan yang sedang dieksekusi
-CURRENT,logistics_tooltip_loop,3248,Loop execution,Eksekusi perulangan
 CURRENT,thefinalstand_artemis1,3248,Hello again Captain!,"Halo lagi, Kapten!"
 CURRENT,thefinalstand_artemis2,3248,"After some careful analysis of the Stargate's blueprints, I have found the backdoor that the late Alexander James Elistar has left you.","Setelah melakukan analisis cermat terhadap cetak biru Stargate, saya telah menemukan jalan pintas yang ditinggalkan oleh mendiang Alexander James Elistar untuk Anda."
 CURRENT,thefinalstand_artemis3,3248,You will use this backdoor to upload a small virus that I have written to their command centre within the HQ. It will disable the station's offensive capabilities and place itself under your command.,Anda akan menggunakan pintu belakang ini untuk mengunggah virus kecil yang telah saya tulis ke pusat komando mereka di dalam markas besar. Virus ini akan menonaktifkan kemampuan ofensif stasiun dan menempatkan dirinya di bawah kendali Anda.
@@ -709,7 +809,6 @@ CURRENT,shipeditor_mode_equipment,2886,Equipment,Peralatan
 CURRENT,shipeditor_tooltip_equipment,2886,Queue the installation of equipment inside your ship.,Antrekan pemasangan peralatan di dalam kapal Anda.
 CURRENT,shipeditor_brush_oval,2886,OVAL TOOL,ALAT OVAL
 CURRENT,shipeditor_equipment_title,2886,Missing Equipment,Peralatan yang Hilang
-CURRENT,shipeditor_equipment_autobuy,2886,Enable Auto Buy,Aktifkan Pembelian Otomatis
 CURRENT,shipeditor_equipment_autobuyconfirm,2886,Confirm Auto Buy Changes,Konfirmasi Perubahan Pembelian Otomatis
 CURRENT,shipeditor_equipment_manualbuy,2886,Buy All Available,Beli Semua yang Tersedia
 CURRENT,shipeditor_equipment_autobuyenable,2886,Auto Buy *X,Pembelian Otomatis *X
@@ -874,7 +973,6 @@ CURRENT,tutorial_miningundock,2886,Make sure to <b>UNDOCK</b> from any other shi
 CURRENT,tutorial_miningflytosystem,2886,"Look at the rocks on the map, these indicate <b>ASTEROID BELTS</b>. \n\nFly to a system in an asteroid belt, it will probably contain Tilium Ore.","Lihatlah batuan-batuan di peta, ini menunjukkan <b>SABUK ASTEROID</b>. \n\nTerbanglah ke suatu sistem di sabuk asteroid, kemungkinan besar akan terdapat Bijih Tilium di sana."
 CURRENT,tutorial_miningselectlaser,2886,"You can also target specific mineral patches.\n\nFirst, select which laser you would like to use.\n\nYou can <b>SHIFT CLICK</b> to select multiple lasers.","Anda juga dapat menargetkan area mineral tertentu.\n\nPertama, pilih laser mana yang ingin Anda gunakan.\n\nAnda dapat <b>KLIK SHIFT</b> untuk memilih beberapa laser."
 CURRENT,tutorial_mininginstalldronebay,2886,Drones will collect mined resources.\n\nInstall a <b>DRONE BAY</b> so your drones can collect the Tilium Ore.,Drone akan mengumpulkan sumber daya yang ditambang.\n\nPasang <b>DRONE BAY</b> agar drone Anda dapat mengumpulkan Bijih Tilium.
-CURRENT,tutorial_miningfleetorders,2886,You also need to make sure that <b>GATHER MATERIALS</b> is enabled in <b>FLEET ORDERS</b>.,Anda juga perlu memastikan bahwa <b>KUMPULKAN BAHAN</b> diaktifkan di <b>PESANAN ARMADA</b>.
 CURRENT,tutorial_mininginstallsmelter,2886,You will need to smelt the raw Tilium Ore to crystals.\n\nInstall a <b>SMELTER</b>.,Anda perlu melebur Bijih Tilium mentah menjadi kristal.\n\nPasang <b>MELEBUR</b>.
 CURRENT,tutorial_miningsetsmelter,2886,Right click on the <b>SMELTER</b> and select <b>TILIUM ORE</b> to smelt it into Tilium Crystals.,Klik kanan pada <b>PELEBUR</b> dan pilih <b>BIJIH TILIUM</b> untuk meleburkannya menjadi Kristal Tilium.
 CURRENT,tutorial_buyshipinspect,2886,"Click on the <b>JMC MINING STATION</b>, an old unused industrial station for sale.","Klik pada <b>JMC MINING STATION</b>, sebuah stasiun industri tua yang tidak terpakai dan dijual."
@@ -1404,27 +1502,27 @@ CURRENT,toolsmenu_dialogeditor,2448,Dialog Editor,Editor Dialog
 CURRENT,toolsmenu_spriteeditor,2448,Sprite Editor,Editor Sprite
 CURRENT,toolsmenu_close,2448,Close,Menutup
 CURRENT,steamworkshopmenu_title,2448,Steam Workshop Menu,Menu Steam Workshop
-CURRENT,steamworkshopmenu_savegamesectionlabel,2448, ========================== Save Games ==========================,========================== Simpan Permainan ==========================
+CURRENT,steamworkshopmenu_savegamesectionlabel,2448, ========================== Save Games ==========================, ========================== Simpan Permainan ==========================
 CURRENT,steamworkshopmenu_uploadsavegametitlelabel,2448,Title,Judul
 CURRENT,steamworkshopmenu_uploadsavegamedesclabel,2448,Description,Keterangan
 CURRENT,steamworkshopmenu_uploadsavegame,2448,Upload,Mengunggah
 CURRENT,steamworkshopmenu_updateselectedsavegame,2448,Update Selected,Perbarui yang Dipilih
 CURRENT,steamworkshopmenu_savegamelegalagreementtext,2448,"By submitting this item, you agree to the","Dengan mengirimkan item ini, Anda menyetujui hal-hal berikut:"
 CURRENT,steamworkshopmenu_savegamelegalagreementbutton,2448,workshop terms of service,ketentuan layanan bengkel
-CURRENT,steamworkshopmenu_uploadsavegameprogress,2448, =,=
+CURRENT,steamworkshopmenu_uploadsavegameprogress,2448, =, =
 CURRENT,steamworkshopmenu_publishedsavegamelistlabel,2448,Published Save Games,File Penyimpanan Game yang Dipublikasikan
 CURRENT,steamworkshopmenu_refreshpublishedsavegamelist,2448,Refresh List,Perbarui Daftar
 CURRENT,steamworkshopmenu_subscribedsavegamelistlabel,2448,Subscribed Save Games,Berlangganan Simpan Game
 CURRENT,steamworkshopmenu_refreshsubscribedsavegamelist,2448,Refresh List,Perbarui Daftar
 CURRENT,steamworkshopmenu_loadselectedsavegame,2448,Load,Memuat
-CURRENT,steamworkshopmenu_shipsectionlabel,2448, =============================== Ships ===============================,=============================== Kapal ===============================
+CURRENT,steamworkshopmenu_shipsectionlabel,2448, =============================== Ships ===============================, =============================== Kapal ===============================
 CURRENT,steamworkshopmenu_uploadshiptitlelabel,2448,Title,Judul
 CURRENT,steamworkshopmenu_uploadshipdesclabel,2448,Description,Keterangan
 CURRENT,steamworkshopmenu_uploadship,2448,Upload,Mengunggah
 CURRENT,steamworkshopmenu_updateselectedship,2448,Update Selected,Perbarui yang Dipilih
 CURRENT,steamworkshopmenu_shiplegalagreementtext,2448,"By submitting this item, you agree to the","Dengan mengirimkan item ini, Anda menyetujui hal-hal berikut:"
 CURRENT,steamworkshopmenu_shiplegalagreementbutton,2448,workshop terms of service,ketentuan layanan bengkel
-CURRENT,steamworkshopmenu_uploadshipprogress,2448, =,=
+CURRENT,steamworkshopmenu_uploadshipprogress,2448, =, =
 CURRENT,steamworkshopmenu_publishedshiplistlabel,2448,Published Ships,Kapal yang Dipublikasikan
 CURRENT,steamworkshopmenu_refreshpublishedshiplist,2448,Refresh List,Perbarui Daftar
 CURRENT,steamworkshopmenu_subscribedshiplistlabel,2448,Subscribed Ships,Kapal yang Berlangganan
@@ -1679,7 +1777,6 @@ CURRENT,equipment_weaponsconsole_locked,2448,SLOT *X LOCKED,SLOT *X TERKUNCI
 CURRENT,equipment_weaponsconsole_extradescription,2448,*X Connected weapons,*X Senjata yang terhubung
 CURRENT,equipment_weaponsconsole_connected,2448,Controlled by Weapons Console,Dikendalikan oleh Konsol Senjata
 CURRENT,equipment_storagecrate_quantity,2448,STORED: *X/*Y,TERSIMPAN: *X/*Y
-CURRENT,equipment_storagecrate_capacity,2448,CAPACITY,KAPASITAS
 CURRENT,equipment_storagecrate_dumping,2448,DUMPING,DUMPING
 CURRENT,equipment_storagecrate_refill_enable,2448,PRIORITISE ZONES,ZONA PRIORITAS
 CURRENT,equipment_storagecrate_refill_disable,2448,PRIORITISE CRATE,PRIORITASKAN PETI
@@ -1787,9 +1884,6 @@ CURRENT,trade_window_science,2448,Science,Sains
 CURRENT,trade_window_resources,2448,Resources,Sumber daya
 CURRENT,trade_window_components,2448,Components,Komponen
 CURRENT,trade_window_crew,2448,Crew,Awak kapal
-CURRENT,trade_equipment_size,2448,#NAME?,#NAME?
-CURRENT,trade_equipment_rotatable,2448,#NAME?,#NAME?
-CURRENT,trade_equipment_powered,2448,#NAME?,#NAME?
 CURRENT,trade_equipment_charge,2448,- Charge (per use) : *X MW,- Biaya (per penggunaan): *X MW
 CURRENT,trade_stack,2448,Stack of *X,Tumpukan *X
 CURRENT,trade_boxed,2448,Boxed,Kemas
@@ -1834,7 +1928,6 @@ CURRENT,techtree_lose_progress,2448,Starting a new research project will lose al
 CURRENT,techtree_stargate_warning,2448,Completing Andromeda Project phases ahead of the Deep Space Industrialists storyline will bypass those episodes.,Menyelesaikan fase Proyek Andromeda sebelum alur cerita Deep Space Industrialists akan melewati episode-episode tersebut.
 CURRENT,techtree_missing_equipment,2448,This research project requires a *X to be completed,Proyek penelitian ini memerlukan *X untuk diselesaikan
 CURRENT,techtree_node_title_logistics1,2448,Logistics,Logistik
-CURRENT,techtree_node_caption_logistics1,2448,Unlocks schematics for small logistics storage,Membuka skema untuk penyimpanan logistik kecil.
 CURRENT,techtree_node_title_logistics2,2448,Logistics Level 2,Logistik Tingkat 2
 CURRENT,techtree_node_caption_logistics2,2448,Unlocks schematics for Medium sized storage,Membuka skema untuk penyimpanan berukuran sedang.
 CURRENT,techtree_node_title_logistics3,2448,Logistics Level 3,Logistik Tingkat 3
@@ -1907,8 +2000,6 @@ CURRENT,logistics_tooltip_cancel_transfer,2448,[RMB] Cancel 1 from *X,[RMB] Bata
 CURRENT,logistics_tooltip_modifiers,2448,Modifiers:,Pengubah:
 CURRENT,orders_doors,2448,DOORS,PINTU
 CURRENT,order_none,2448,None,Tidak ada
-CURRENT,order_salvage,2448,Gather Salvage,Kumpulkan Barang Bekas
-CURRENT,order_gather,2448,Gather Materials,Kumpulkan Bahan-Bahan
 CURRENT,order_repairhull,2448,Repair Hull,Perbaikan Lambung
 CURRENT,order_suitson,2448,Suits On,Jas Pada
 CURRENT,order_exteriorwork,2448,Exterior Work,Pekerjaan Eksterior
@@ -2066,7 +2157,7 @@ CURRENT,mission_industry_return,2448,Return to a colony or shipyard system to de
 CURRENT,mission_industry_received,2448,We have received *X Tilium out of a total of *Y. Total payment due $*Z.,Kami telah menerima *X Tilium dari total *Y. Total pembayaran yang harus dibayar adalah $*Z.
 CURRENT,mission_industry_meteorshower,2448,WARNING: There are reports of a meteor shower in that system. (+50% pay).,PERINGATAN: Terdapat laporan tentang hujan meteor di sistem tersebut. (+50% bayaran).
 CURRENT,mission_industry_hostiles,2448,WARNING: There are hostile forces camped out near the asteroid belt. (+50% pay),PERINGATAN: Terdapat pasukan musuh yang berkem? di dekat sabuk asteroid. (+50% bayaran)
-CURRENT,mission_industry_refined,2448, ==> The Tilium must first be refined in a Smelter prior to delivery. <==,==> Tilium harus dimurnikan terlebih dahulu di Pabrik Peleburan sebelum dikirim. <==
+CURRENT,mission_industry_refined,2448, ==> The Tilium must first be refined in a Smelter prior to delivery. <==, ==> Tilium harus dimurnikan terlebih dahulu di Pabrik Peleburan sebelum dikirim. <==
 CURRENT,mission_industry_shuttle,2448,We've dispatched a shuttle to collect the Tilium Ore.,Kami telah mengirimkan pesawat ulang-alik untuk mengambil Bijih Tilium.
 CURRENT,mission_industry_lost,2448,There is no more Tilium on board your ship.,Tidak ada lagi Tilium di atas kapal Anda.
 CURRENT,mission_industry_success,2448,Extracted *X/*Y Ore,Bijih *X/*Y yang diekstraksi
@@ -3201,6 +3292,19 @@ CURRENT,dsi_part2_scene_z4,2448,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2448,THERE WILL BE NO FURTHER WARNING.,TIDAK AKAN ADA PERINGATAN LEBIH LANJUT.
 CURRENT,dsi_part2_scene_y7,2448,You've left me no choice.,Kau tidak memberi aku pilihan lain.
 CURRENT,dsi_part2_scene_y8,2448,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Aku akan datang mencarimu, Alexander, dan kali ini aku tidak meminta 10%. Aku menginginkan semuanya."
+OBSOLETE,translationeditor_copytoclipboard,3511,Copy To Clipboard,Salin Ke Papan
+OBSOLETE,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition","Ketika berpindah kapal, lewati transisi"
+OBSOLETE,newmainmenu_parallax,2448,Parallax effect,Efek Paralaks
+OBSOLETE,wolf_part1_completion3,2448,So far they haven't left a single living witness. But the sensor data tells the full story. We've manged to extract another sensor image of the attacker.,Sejauh ini mereka tidak meninggalkan saksi. Tapi data sensor menceritakan semuanya. Kita mampu mengambil gambar sensor lainnya dari penyerang.
+OBSOLETE,translationeditor_unmodified,3054,Unmodified Phrases,Ungkapan Belum Termodifikasi
+OBSOLETE,translationeditor_original_tooltip1,3054,Unformatted original translation,Tak Ter-format Terjemahan Asli
+OBSOLETE,translationeditor_original_tooltip2,3054,Formatted original translation,Format Terjemahan Asli
+OBSOLETE,translationeditor_original_tooltip3,3054,This is what is currently used in the game.,Ini yang sedang digunakan dalam game.
+OBSOLETE,translationeditor_new_tooltip1,3054,Unformatted new translation,Tak Ter-format Terjemahan Baru
+OBSOLETE,translationeditor_new_tooltip2,3054,Formatted new translation,Format Terjemahan Baru
+OBSOLETE,mainmenu_gamemode_freeroam_tooltip,2448,"You are free to persue any career at your own pace. No anomaly, no stargate.","Kamu bebas mengejar karir apapun dalam kemampuanmu. Tidak ada Anomali, ataupun Stargate."
+OBSOLETE,settings_dynamiclighting,2675,Use Dynamic Lighting,Gunakan Pencahayaan Dinamis
+OBSOLETE,settings_arraytextures,2624,Use Array Textures,Gunakan Susunan Tekstur
 OBSOLETE,logistics_status_buynomoney,3400,out of the *X desired (not enough money),dari *X yang diinginkan (uang tidak cukup)
 OBSOLETE,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),dari *X yang dipesan (uang tidak cukup)
 OBSOLETE,logistics_status_buynosupply,3400,out of the *X desired (not enough available),dari *X yang diinginkan (tidak cukup tersedia)
@@ -3418,7 +3522,6 @@ OBSOLETE,tutorial_miningundock,2448,Make sure to UNDOCK from any other ship (fro
 OBSOLETE,tutorial_miningflytosystem,2448,"Look at the rocks on the map, these indicate ASTEROID BELTS. \n\nFly to a system in an asteroid belt, it will probably contain Tilium Ore.","Perhatikan batuan-batuan di peta, ini menunjukkan SABUK ASTEROID. \n\nTerbanglah ke suatu sistem di sabuk asteroid, kemungkinan besar akan mengandung Bijih Tilium."
 OBSOLETE,tutorial_miningselectlaser,2448,"You can also target specific mineral patches.\n\nFirst, select which laser you would like to use.\n\nYou can SHIFT CLICK to select multiple lasers.","Anda juga dapat menargetkan area mineral tertentu.\n\nPertama, pilih laser mana yang ingin Anda gunakan.\n\nAnda dapat menekan SHIFT DAN KLIK untuk memilih beberapa laser."
 OBSOLETE,tutorial_mininginstalldronebay,2448,Drones will collect mined resources.\n\nInstall a DRONE BAY so your drones can collect the Tilium Ore.,Drone akan mengumpulkan sumber daya yang ditambang.\n\nPasang DRONE BAY agar drone Anda dapat mengumpulkan Bijih Tilium.
-OBSOLETE,tutorial_miningfleetorders,2448,You also need to make sure that GATHER MATERIALS is enabled in FLEET ORDERS.,Anda juga perlu memastikan bahwa GATHER MATERIALS diaktifkan di FLEET ORDERS.
 OBSOLETE,tutorial_mininginstallsmelter,2448,You will need to smelt the raw Tilium Ore to crystals.\n\nInstall a SMELTER.,Anda perlu melebur bijih Tilium mentah menjadi kristal.\n\nPasang MELEBUR.
 OBSOLETE,tutorial_miningsetsmelter,2448,Right click on the SMELTER and select TILIUM ORE to smelt it into Tilium Crystals.,Klik kanan pada SMELTER dan pilih TILIUM ORE untuk meleburkannya menjadi Kristal Tilium.
 OBSOLETE,tutorial_buyshipinspect,2448,"Click on the JMC MINING STATION, an old unused industrial station for sale.","Klik pada JMC MINING STATION, sebuah stasiun industri tua yang tidak terpakai dan dijual."

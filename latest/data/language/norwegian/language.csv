@@ -28,8 +28,6 @@ NEW,hud_tooltip_selectequipmentnearby,3561,[LMB x2] Select all nearby,
 NEW,hud_tooltip_selectequipmentdrag,3561,[LMB Drag] Box select,
 NEW,orders_layerscope,3561,SHIP-SPECIFIC ORDERS,
 NEW,orders_systemscope,3561,SYSTEM-WIDE ORDERS,
-NEW,order_tooltip_salvage,3561,Allow drones to gather salvage,
-NEW,order_tooltip_gather,3561,"Allow drones to gather raw and refined materials (ores, minerals, ingots)",
 NEW,order_tooltip_repairhull,3561,Allow drones to repair ship hull,
 NEW,order_tooltip_suitson,3561,Make crew put on spacesuits if available,
 NEW,order_tooltip_exteriorwork,3561,Allow crew to perform jobs in freespace,
@@ -123,7 +121,6 @@ NEW,equipment_on_amount,3629,ON(*X),
 NEW,equipment_off_amount,3629,OFF(*X),
 NEW,equipment_on_off_amount,3629,ON(*X) OFF(*Y),
 NEW,shipeditor_equipment_autoproduce,3629,AUTO-PRODUCE,
-NEW,shipeditor_equipment_autoproduce_tooltip,3629,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""STOP"" will be used. They will be set back to ""STOP"" when production has finished.",
 NEW,shipeditor_equipment_buymissing,3629,AUTO-BUY MATERIALS,
 NEW,shipeditor_equipment_buymissing_tooltip,3629,Automatically buy missing materials for production.\nThis includes ingots as well as components such as frames.,
 NEW,shipeditor_equipment_inboundonshuttle,3629,*X INBOUND ON SHUTTLE,
@@ -149,6 +146,59 @@ NEW,alert_type_novalidfactory,3629,NO VALID FACTORY,
 NEW,alert_type_novalidfactory_tooltip,3629,"Your ship is trying to produce something, but there are no valid factories.\n\nThis could be due to missing pipe inputs or because a particular factory is missing (e.g. a fabricator).\n\nCheck the recipe using the recipe window and check what equipment is needed or if there are any pipe inputs.",
 NEW,powergrid_category_industry,3632,INDUSTRY,
 NEW,powergrid_category_mining,3632,MINING,
+NEW,hud_tooltip_drone_filterwarning,3708,WARNING: This type is excluded in the ship-wide gather filter.,
+NEW,hud_tooltip_drone_permitlaunch,3708,"Allow drones to launch from this drone bay. \n\nIf disabled, will prevent drones from being loaded.",
+NEW,hud_tooltip_drone_permitreturn,3708,"Allow drones to return to this drone bay. \n\nIf disabled, will allow drones to drop items off but not dock at this bay.",
+NEW,hud_tooltip_drone_selecttype,3708,The types that can be dropped off.,
+NEW,hud_tooltip_robotarm_selecttype,3708,The types that can be picked up.,
+NEW,brokenconstraint_none,3708,INVALID PLACEMENT,
+NEW,brokenconstraint_interior,3708,NOT ENOUGH INTERIOR SPACE,
+NEW,brokenconstraint_exterior,3708,NOT ENOUGH EXTERIOR SPACE,
+NEW,brokenconstraint_wall,3708,REQUIRES WALL,
+NEW,brokenconstraint_nowall,3708,OBSTRUCTED BY A WALL,
+NEW,brokenconstraint_unobstructed,3708,AREA NOT CLEAR,
+NEW,brokenconstraint_wallscaffold,3708,REQUIRES WALL OR SCAFFOLDING,
+NEW,brokenconstraint_unobstructedontop,3708,TOP OF SHIP NOT CLEAR,
+NEW,brokenconstraint_habitationontop,3708,NO HABITATION ABOVE,
+NEW,equipment_factory_idle,3708,IDLE,
+NEW,equipment_robotarm_numtypes,3708,*X types,
+NEW,equipment_dronebay_permitlaunch,3708,PERMIT LAUNCH,
+NEW,equipment_dronebay_permitreturn,3708,PERMIT RETURN,
+NEW,equipment_typefilter_none,3708,SELECT PERMITTED,
+NEW,equipment_typefilter_multiple,3708,MULTIPLE PERMITTED,
+NEW,equipment_typefilter_all,3708,ALL PERMITTED,
+NEW,equipment_typefilter_extras,3708,AND *X MORE,
+NEW,equipment_typefilter_invert,3708,ALL PERMITTED EXCEPT:,
+NEW,equipment_selectall,3708,SELECT ALL,
+NEW,equipment_deselectall,3708,DESELECT ALL,
+NEW,trade_schematics,3708,BLUEPRINTS,
+NEW,trade_schematic,3708,Blueprint,
+NEW,trade_schematic_warning,3708,This is a blueprint. Purchasing this will unlock the schematic but will not deliver any equipment.\n\nAssembly tables and fabricators are required to produce the equipment.,
+NEW,special_smartdronebays,3708,Smart Drone Bays,
+NEW,techtree_blueprintunlocked_title,3708,BLUEPRINT UNLOCKED,
+NEW,techtree_alreadyunlocked,3708,ALREADY UNLOCKED,
+NEW,logistics_window_tanks,3708,[STORED IN TANKS],
+NEW,logistics_extras_anycargo_tooltip,3708,"If this is checked, general storage zones will be considered alongside type specific storage zones when determining whether storage is full.",
+NEW,logistics_extras_preventdocking,3708,PREVENT DOCKING,
+NEW,logistics_extras_preventdocking_tooltip,3708,"If this is checked, the two ships won't dock. Otherwise, this ship will try to dock if the transfer is large or not enough drones are available.",
+NEW,logistics_status_travellingaligning,3708,Aligning for jump,
+NEW,logistics_status_travellingdrones,3708,Waiting for *X deployed drones,
+NEW,logistics_status_travellingtrade,3708,Waiting for trade to complete,
+NEW,logistics_status_transferdocking,3708,Docking with L*X to transfer R*Y through docking port,
+NEW,order_tooltip_dronegatherfilter,3708,Edit which items drones from this ship should pick up or ignore,
+NEW,orders_drones_alltoggle,3708,ALL RESOURCES,
+NEW,orders_drones_materialstoggle,3708,MATERIALS,
+NEW,object_superconductorcomponent,3708,Superconductor,
+NEW,object_reactorcorecomponent,3708,Reactor Core,
+NEW,object_computegridcomponent,3708,Compute Grid,
+NEW,object_thermalstabilisercomponent,3708,Heat Exchanger,
+NEW,alert_type_noreturndronebay,3718,DRONES STUCK,
+NEW,alert_type_noreturndronebay_caption1,3718,No drone bay to return to.,
+NEW,alert_type_noreturndronebay_caption2,3718,No drone bay permits return.,
+UPDATED,order_tooltip_gather,3708,Allow drones to gather,
+PREVIOUS,order_tooltip_gather,3561,"Allow drones to gather raw and refined materials (ores, minerals, ingots)",
+UPDATED,shipeditor_equipment_autoproduce_tooltip,3708,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""IDLE"" will be used. They will be set back to ""IDLE"" when production has finished.",
+PREVIOUS,shipeditor_equipment_autoproduce_tooltip,3629,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""STOP"" will be used. They will be set back to ""STOP"" when production has finished.",
 UPDATED,translationeditor_copytoclipboard,3561,Copy,
 PREVIOUS,translationeditor_copytoclipboard,3511,Copy To Clipboard,
 UPDATED,settings_instantshipswitch_description,3511,Skip rotation and panning effect when switching between ships.,
@@ -179,6 +229,19 @@ UPDATED,shipeditor_equipment_autobuy,3629,AUTO BUY,
 PREVIOUS,shipeditor_equipment_autobuy,2886,Enable Auto Buy,Aktiver automatisk kjøp
 UPDATED,equipment_storagecrate_capacity,3629,CAPACITY: *X,
 PREVIOUS,equipment_storagecrate_capacity,2803,CAPACITY,KAPASITET
+UPDATED,logistics_condition_untilstorage,3708,Until on board,
+PREVIOUS,logistics_condition_untilstorage,3400,Quantity on board,Mengde om bord
+UPDATED,logistics_extras_anycargo,3708,INCLUDE GENERAL STORAGE ZONES,
+PREVIOUS,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,BRUKE ALL LAGRING AV LAST
+UPDATED,logistics_tooltip_loop,3708,"Loop execution. If off, will stop after completing the last order.",
+PREVIOUS,logistics_tooltip_loop,3248,Loop execution,Utførelse av løkker
+UPDATED,tutorial_miningfleetorders,3708,You also need to make sure that <b>GATHER</b> is enabled in <b>FLEET ORDERS</b>.,
+PREVIOUS,tutorial_miningfleetorders,2886,You also need to make sure that <b>GATHER MATERIALS</b> is enabled in <b>FLEET ORDERS</b>.,Du må også sørge for at <b>GATHER MATERIALS</b> er aktivert i <b>FLEET ORDERS</b>.
+PREVIOUS,tutorial_miningfleetorders,2803,You also need to make sure that GATHER MATERIALS is enabled in FLEET ORDERS.,Du må også sørge for at GATHER MATERIALS er aktivert i FLEET ORDERS.
+UPDATED,techtree_node_caption_logistics1,3708,Unlocks schematics for small logistics storage. Unlocks smart drone bays allowing to filter which items are dropped off and whether drones should launch from and return to it,
+PREVIOUS,techtree_node_caption_logistics1,2803,Unlocks schematics for small logistics storage,Låser opp skjemaer for små logistikklagre
+UPDATED,order_gather,3708,Gather,
+PREVIOUS,order_gather,2803,Gather Materials,Samle inn materialer
 CURRENT,logistics_log_transfertonosupply,3492,Transferred *X R*Y to L*Z out of the *P desired - insufficient cargo,Overført *X R*Y til L*Z ut av *P ønsket - utilstrekkelig last
 CURRENT,logistics_log_transferfromnosupply,3492,Transferred *X R*Y from L*Z out of the *P desired - insufficient cargo,Overført *X R*Y fra L*Z ut av *P ønsket - utilstrekkelig last
 CURRENT,trade_paymentperjump,3472,*X (+*Y) per sector jump,*X (+*Y) per sektorhopp
@@ -224,10 +287,8 @@ CURRENT,hud_layer_neutralexpandtooltip,3400,Show neutral ships,Vis nøytrale ski
 CURRENT,power_unit,3400,*X MW,*X MW
 CURRENT,tactical_focuslayer,3400,FOCUS LAYER,FOKUSLAG
 CURRENT,tactical_tooltip_focuslayer,3400,"When enabled, the camera's rotation and position track the currently selected layer.","Når denne funksjonen er aktivert, sporer kameraets rotasjon og posisjon det valgte laget."
-CURRENT,logistics_condition_untilstorage,3400,Quantity on board,Mengde om bord
 CURRENT,logistics_quantity_all,3400,ALL,ALLE
 CURRENT,logistics_quantity_full,3400,FULL,FULL
-CURRENT,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,BRUKE ALL LAGRING AV LAST
 CURRENT,logistics_stuck_layernotours,3400,Ship L*X is not friendly,Skipet L*X er ikke vennlig
 CURRENT,logistics_tooltip_controlall,3400,[CTRL] ALL,[CTRL] ALL
 CURRENT,logistics_tooltip_controlfull,3400,[CTRL] FULL,[CTRL] FULL
@@ -294,7 +355,6 @@ CURRENT,tutorial_logisticscrewselectship,3329,Select the <b>UMC Astral Temptress
 CURRENT,dsi_x_canceldeal2,3329,"You will lose access to all the ships I've provided, are you sure you want to do this?",Du vil miste tilgangen til alle skipene jeg har gitt deg. Er du sikker på at du vil gjøre dette?
 CURRENT,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,"Hver komponent du trenger for å produsere, vises til høyre.\nNår du holder musen over ikonet for en komponent, ser du hvordan du produserer den."
 CURRENT,logistics_tooltip_skiporder,3248,Skip currently executing order,Hopp over gjeldende ordre
-CURRENT,logistics_tooltip_loop,3248,Loop execution,Utførelse av løkker
 CURRENT,thefinalstand_artemis1,3248,Hello again Captain!,"Hallo igjen, kaptein!"
 CURRENT,thefinalstand_artemis2,3248,"After some careful analysis of the Stargate's blueprints, I have found the backdoor that the late Alexander James Elistar has left you.",Etter nøye analyse av stjerneportens tegninger har jeg funnet bakdøren som avdøde Alexander James Elistar har etterlatt deg.
 CURRENT,thefinalstand_artemis3,3248,You will use this backdoor to upload a small virus that I have written to their command centre within the HQ. It will disable the station's offensive capabilities and place itself under your command.,Du skal bruke denne bakdøren til å laste opp et lite virus som jeg har skrevet til kommandosenteret i hovedkvarteret. Det vil deaktivere stasjonens offensive evner og plassere seg selv under din kommando.
@@ -922,7 +982,6 @@ CURRENT,tutorial_combatselectcannon,2886,"Your guns can also target specific poi
 CURRENT,tutorial_combatkeepmoving,2886,"Make sure to keep moving during combat, this increases your <b>EVASION</b> and makes you a harder target to hit.","Sørg for å holde deg i bevegelse under kamp, dette øker din <b>EVASION</b> og gjør deg til et vanskeligere mål å treffe."
 CURRENT,tutorial_miningundock,2886,Make sure to <b>UNDOCK</b> from any other ship (from the <b>TACTICAL</b> screen).,Sørg for å <b>UNDOCK</b> fra alle andre skip (fra <b>TACTICAL</b>-skjermen).
 CURRENT,tutorial_miningopenmap,2886,Now open the sector map (<b>{ToggleMap}</b>).,Åpne nå sektorkartet (<b>{ToggleMap}</b>).
-CURRENT,tutorial_miningfleetorders,2886,You also need to make sure that <b>GATHER MATERIALS</b> is enabled in <b>FLEET ORDERS</b>.,Du må også sørge for at <b>GATHER MATERIALS</b> er aktivert i <b>FLEET ORDERS</b>.
 CURRENT,tutorial_buyshipinspect,2886,"Click on the <b>JMC MINING STATION</b>, an old unused industrial station for sale.","Klikk på <b>JMC MINING STATION</b>, en gammel ubrukt industristasjon som er til salgs."
 CURRENT,tutorial_buyshipbuy,2886,Click on the <b>BUY</b> button to purchase the <b>JMC MINING STATION</b>.,Klikk på <b>KJØP</b>-knappen for å kjøpe <b>JMC MINING STATION</b>.
 CURRENT,tutorial_buyshipsuccess,2886,"Well done, you have purchased the <b>JMC MINING STATION</b>.","Godt gjort, du har kjøpt <b>JMC MINING STATION</b>."
@@ -2158,7 +2217,6 @@ CURRENT,techtree_lose_progress,2803,Starting a new research project will lose al
 CURRENT,techtree_stargate_warning,2803,Completing Andromeda Project phases ahead of the Deep Space Industrialists storyline will bypass those episodes.,"Hvis du fullfører fasene i Andromeda-prosjektet før Deep Space Industrialists-historien, går du utenom disse episodene."
 CURRENT,techtree_missing_equipment,2803,This research project requires a *X to be completed,Dette forskningsprosjektet krever at *X fylles ut
 CURRENT,techtree_node_title_logistics1,2803,Logistics,Logistikk
-CURRENT,techtree_node_caption_logistics1,2803,Unlocks schematics for small logistics storage,Låser opp skjemaer for små logistikklagre
 CURRENT,techtree_node_title_logistics2,2803,Logistics Level 2,Logistikk nivå 2
 CURRENT,techtree_node_caption_logistics2,2803,Unlocks schematics for Medium sized storage,Låser opp skjemaer for mellomstor lagringsplass
 CURRENT,techtree_node_title_logistics3,2803,Logistics Level 3,Logistikk nivå 3
@@ -2225,8 +2283,6 @@ CURRENT,logistics_tooltip_transfer,2803,[LMB] Transfer 1 from *X,[LMB] Overfør 
 CURRENT,logistics_tooltip_cancel_transfer,2803,[RMB] Cancel 1 from *X,[RMB] Avbryt 1 fra *X
 CURRENT,logistics_tooltip_modifiers,2803,Modifiers:,Modifikatorer:
 CURRENT,order_none,2803,None,Ingen
-CURRENT,order_salvage,2803,Gather Salvage,Samle berging
-CURRENT,order_gather,2803,Gather Materials,Samle inn materialer
 CURRENT,order_repairhull,2803,Repair Hull,Reparasjon av skrog
 CURRENT,order_suitson,2803,Suits On,Dresser på
 CURRENT,order_exteriorwork,2803,Exterior Work,Utvendig arbeid
@@ -3454,7 +3510,6 @@ OBSOLETE,tutorial_combatselectcannon,2803,"Your guns can also target specific po
 OBSOLETE,tutorial_combatkeepmoving,2803,"Make sure to keep moving during combat, this increases your EVASION and makes you a harder target to hit.","Sørg for å holde deg i bevegelse under kamp, dette øker din EVASION og gjør deg til et vanskeligere mål å treffe."
 OBSOLETE,tutorial_miningundock,2803,Make sure to UNDOCK from any other ship (from the TACTICAL screen).,Sørg for å UNDOCK fra alle andre skip (fra TACTICAL-skjermen).
 OBSOLETE,tutorial_miningopenmap,2803,Now open the sector map ({ToggleMap}).,Åpne nå sektorkartet ({ToggleMap}).
-OBSOLETE,tutorial_miningfleetorders,2803,You also need to make sure that GATHER MATERIALS is enabled in FLEET ORDERS.,Du må også sørge for at GATHER MATERIALS er aktivert i FLEET ORDERS.
 OBSOLETE,tutorial_buyshipinspect,2803,"Click on the JMC MINING STATION, an old unused industrial station for sale.","Klikk på JMC MINING STATION, en gammel ubrukt industristasjon som er til salgs."
 OBSOLETE,tutorial_buyshipbuy,2803,Click on the BUY button to purchase the JMC MINING STATION.,Klikk på KJØP-knappen for å kjøpe JMC MINING STATION.
 OBSOLETE,tutorial_buyshipsuccess,2803,"Well done, you have purchased the JMC MINING STATION.","Godt gjort, du har kjøpt JMC MINING STATION."
