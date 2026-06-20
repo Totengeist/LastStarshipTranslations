@@ -1,54 +1,54 @@
-﻿state,key,svn,english,translation
-NEW,hud_tooltip_drone_filterwarning,3708,WARNING: This type is excluded in the ship-wide gather filter.,
-NEW,hud_tooltip_drone_permitlaunch,3708,"Allow drones to launch from this drone bay. \n\nIf disabled, will prevent drones from being loaded.",
-NEW,hud_tooltip_drone_permitreturn,3708,"Allow drones to return to this drone bay. \n\nIf disabled, will allow drones to drop items off but not dock at this bay.",
-NEW,hud_tooltip_drone_selecttype,3708,The types that can be dropped off.,
-NEW,hud_tooltip_robotarm_selecttype,3708,The types that can be picked up.,
-NEW,brokenconstraint_none,3708,INVALID PLACEMENT,
-NEW,brokenconstraint_interior,3708,NOT ENOUGH INTERIOR SPACE,
-NEW,brokenconstraint_exterior,3708,NOT ENOUGH EXTERIOR SPACE,
-NEW,brokenconstraint_wall,3708,REQUIRES WALL,
-NEW,brokenconstraint_nowall,3708,OBSTRUCTED BY A WALL,
-NEW,brokenconstraint_unobstructed,3708,AREA NOT CLEAR,
-NEW,brokenconstraint_wallscaffold,3708,REQUIRES WALL OR SCAFFOLDING,
-NEW,brokenconstraint_unobstructedontop,3708,TOP OF SHIP NOT CLEAR,
-NEW,brokenconstraint_habitationontop,3708,NO HABITATION ABOVE,
-NEW,equipment_factory_idle,3708,IDLE,
-NEW,equipment_robotarm_numtypes,3708,*X types,
-NEW,equipment_dronebay_permitlaunch,3708,PERMIT LAUNCH,
-NEW,equipment_dronebay_permitreturn,3708,PERMIT RETURN,
-NEW,equipment_typefilter_none,3708,SELECT PERMITTED,
-NEW,equipment_typefilter_multiple,3708,MULTIPLE PERMITTED,
-NEW,equipment_typefilter_all,3708,ALL PERMITTED,
-NEW,equipment_typefilter_extras,3708,AND *X MORE,
-NEW,equipment_typefilter_invert,3708,ALL PERMITTED EXCEPT:,
-NEW,equipment_selectall,3708,SELECT ALL,
-NEW,equipment_deselectall,3708,DESELECT ALL,
-NEW,trade_schematics,3708,BLUEPRINTS,
-NEW,trade_schematic,3708,Blueprint,
-NEW,trade_schematic_warning,3708,This is a blueprint. Purchasing this will unlock the schematic but will not deliver any equipment.\n\nAssembly tables and fabricators are required to produce the equipment.,
-NEW,special_smartdronebays,3708,Smart Drone Bays,
-NEW,techtree_blueprintunlocked_title,3708,BLUEPRINT UNLOCKED,
-NEW,techtree_alreadyunlocked,3708,ALREADY UNLOCKED,
-NEW,logistics_window_tanks,3708,[STORED IN TANKS],
-NEW,logistics_extras_anycargo_tooltip,3708,"If this is checked, general storage zones will be considered alongside type specific storage zones when determining whether storage is full.",
-NEW,logistics_extras_preventdocking,3708,PREVENT DOCKING,
-NEW,logistics_extras_preventdocking_tooltip,3708,"If this is checked, the two ships won't dock. Otherwise, this ship will try to dock if the transfer is large or not enough drones are available.",
-NEW,logistics_status_travellingaligning,3708,Aligning for jump,
-NEW,logistics_status_travellingdrones,3708,Waiting for *X deployed drones,
-NEW,logistics_status_travellingtrade,3708,Waiting for trade to complete,
-NEW,logistics_status_transferdocking,3708,Docking with L*X to transfer R*Y through docking port,
-NEW,order_tooltip_dronegatherfilter,3708,Edit which items drones from this ship should pick up or ignore,
-NEW,orders_drones_alltoggle,3708,ALL RESOURCES,
-NEW,orders_drones_materialstoggle,3708,MATERIALS,
-NEW,object_superconductorcomponent,3708,Superconductor,
-NEW,object_reactorcorecomponent,3708,Reactor Core,
-NEW,object_computegridcomponent,3708,Compute Grid,
-NEW,object_thermalstabilisercomponent,3708,Heat Exchanger,
-NEW,object_wastewater,3708,Waste Water,
-NEW,alert_type_noreturndronebay,3718,DRONES STUCK,
-NEW,alert_type_noreturndronebay_caption1,3718,No drone bay to return to.,
-NEW,alert_type_noreturndronebay_caption2,3718,No drone bay permits return.,
+state,key,svn,english,translation
+NEW,hud_tooltip_drone_filterwarning,3708,WARNING: This type is excluded in the ship-wide gather filter.,VAROVÁNÍ: Tento typ je ve sběrném filtru pro celou loď vyloučen.
+NEW,hud_tooltip_drone_permitlaunch,3708,"Allow drones to launch from this drone bay. \n\nIf disabled, will prevent drones from being loaded.","Povolit dronům start z tohoto hangáru. \n\nPokud je funkce zakázána, zabrání startu dronů."
+NEW,hud_tooltip_drone_permitreturn,3708,"Allow drones to return to this drone bay. \n\nIf disabled, will allow drones to drop items off but not dock at this bay.","Povolit dronům návrat do tohoto hangáru. \n\nPokud je funkce zakázána, dronům bude umožněno vyložit náklad, ale ne v hangáru přistát."
+NEW,hud_tooltip_drone_selecttype,3708,The types that can be dropped off.,"Typy,  které lze vyložit."
+NEW,hud_tooltip_robotarm_selecttype,3708,The types that can be picked up.,"Typy,  které lze vyzvednout."
+NEW,brokenconstraint_none,3708,INVALID PLACEMENT,NEPLATNÉ UMÍSTĚNÍ
+NEW,brokenconstraint_interior,3708,NOT ENOUGH INTERIOR SPACE,NEDOSTATEK VNITŘNÍHO PROSTORU
+NEW,brokenconstraint_exterior,3708,NOT ENOUGH EXTERIOR SPACE,NEDOSTATEK VNĚJŠÍHO PROSTORU
+NEW,brokenconstraint_wall,3708,REQUIRES WALL,VYŽADUJE STĚNU
+NEW,brokenconstraint_nowall,3708,OBSTRUCTED BY A WALL,BLOKOVÁNO STĚNOU
+NEW,brokenconstraint_unobstructed,3708,AREA NOT CLEAR,PROSTOR NENÍ VOLNÝ
+NEW,brokenconstraint_wallscaffold,3708,REQUIRES WALL OR SCAFFOLDING,VYŽADUJE STĚNU NEBO LEŠENÍ
+NEW,brokenconstraint_unobstructedontop,3708,TOP OF SHIP NOT CLEAR,HORNÍ ČÁST LODI NENÍ VOLNÁ
+NEW,brokenconstraint_habitationontop,3708,NO HABITATION ABOVE,NAD TÍMTO MÍSTEM NENÍ OBYTNÝ PROSTOR.
+NEW,equipment_factory_idle,3708,IDLE,NEČINNOST
+NEW,equipment_robotarm_numtypes,3708,*X types,*X typů
+NEW,equipment_dronebay_permitlaunch,3708,PERMIT LAUNCH,POVOLIT START
+NEW,equipment_dronebay_permitreturn,3708,PERMIT RETURN,POVOLIT NÁVRAT
+NEW,equipment_typefilter_none,3708,SELECT PERMITTED,VYBRAT POVOLENÉ
+NEW,equipment_typefilter_multiple,3708,MULTIPLE PERMITTED,NĚKOLIK POVOLENO
+NEW,equipment_typefilter_all,3708,ALL PERMITTED,VŠE POVOLENO
+NEW,equipment_typefilter_extras,3708,AND *X MORE,A DALŠÍ *X
+NEW,equipment_typefilter_invert,3708,ALL PERMITTED EXCEPT:,VŠE POVOLENO KROMĚ:
+NEW,equipment_selectall,3708,SELECT ALL,VYBRAT VŠE
+NEW,equipment_deselectall,3708,DESELECT ALL,ZRUŠIT VÝBĚR VŠE
+NEW,trade_schematics,3708,BLUEPRINTS,PLÁNY
+NEW,trade_schematic,3708,Blueprint,Plán
+NEW,trade_schematic_warning,3708,This is a blueprint. Purchasing this will unlock the schematic but will not deliver any equipment.\n\nAssembly tables and fabricators are required to produce the equipment.,Toto je výrobní plán. Jeho zakoupením odemknete schéma.  Nedostanete žádné vybavení.\n\nK výrobě vybavení je potřeba montážní stůl a fabrikátor.
+NEW,special_smartdronebays,3708,Smart Drone Bays,Chytré hangáry pro drony
+NEW,techtree_blueprintunlocked_title,3708,BLUEPRINT UNLOCKED,PLÁN ODEMKNUT
+NEW,techtree_alreadyunlocked,3708,ALREADY UNLOCKED,JIŽ ODEMKNUTO
+NEW,logistics_window_tanks,3708,[STORED IN TANKS],[ULOŽENO V NÁDRŽÍCH]
+NEW,logistics_extras_anycargo_tooltip,3708,"If this is checked, general storage zones will be considered alongside type specific storage zones when determining whether storage is full.","Pokud je zaškrtnuto, budou se při zjišťování, zda je sklad plný, brát v úvahu obecné skladovací zóny spolu se zónami specifickými pro daný typ."
+NEW,logistics_extras_preventdocking,3708,PREVENT DOCKING,ZABRÁNIT PŘISTÁNÍ
+NEW,logistics_extras_preventdocking_tooltip,3708,"If this is checked, the two ships won't dock. Otherwise, this ship will try to dock if the transfer is large or not enough drones are available.","Pokud je zaškrtnuto, lodě se nespojí. V opačném případě se loď pokusí spojit, pokud je přesun velký nebo není k dispozici dostatek dronů."
+NEW,logistics_status_travellingaligning,3708,Aligning for jump,Zarovnávání pro skok
+NEW,logistics_status_travellingdrones,3708,Waiting for *X deployed drones,Čeká se na *X nasazených dronů
+NEW,logistics_status_travellingtrade,3708,Waiting for trade to complete,Čeká se na dokončení obchodu
+NEW,logistics_status_transferdocking,3708,Docking with L*X to transfer R*Y through docking port,Probíhá spojení s L*X za účelem přenosu R*Y přes spojovací port
+NEW,order_tooltip_dronegatherfilter,3708,Edit which items drones from this ship should pick up or ignore,"Upravit, Jaké položky by drony z této lodi měly sbírat nebo ignorovat"
+NEW,orders_drones_alltoggle,3708,ALL RESOURCES,VŠECHNY ZDROJE
+NEW,orders_drones_materialstoggle,3708,MATERIALS,MATERIÁLY
+NEW,object_superconductorcomponent,3708,Superconductor,Supravodič
+NEW,object_reactorcorecomponent,3708,Reactor Core,Reaktorové jádro
+NEW,object_computegridcomponent,3708,Compute Grid,Výpočetní mřížka
+NEW,object_thermalstabilisercomponent,3708,Heat Exchanger,Tepelný výměník
+NEW,object_wastewater,3708,Waste Water,Odpadní voda
+NEW,alert_type_noreturndronebay,3718,DRONES STUCK,Drony jsou zaseknuté
+NEW,alert_type_noreturndronebay_caption1,3718,No drone bay to return to.,Žádný hangár pro návrat dronů.
+NEW,alert_type_noreturndronebay_caption2,3718,No drone bay permits return.,Žádný hangár pro drony nepovoluje návrat.
 UPDATED,logistics_condition_untilstorage,3708,Until on board,
 PREVIOUS,logistics_condition_untilstorage,3400,Quantity on board,Množství na palubě
 UPDATED,logistics_extras_anycargo,3708,INCLUDE GENERAL STORAGE ZONES,
