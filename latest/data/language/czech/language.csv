@@ -2,15 +2,15 @@ state,key,svn,english,translation
 NEW,hud_tooltip_drone_filterwarning,3708,WARNING: This type is excluded in the ship-wide gather filter.,VAROVÁNÍ: Tento typ je ve sběrném filtru pro celou loď vyloučen.
 NEW,hud_tooltip_drone_permitlaunch,3708,"Allow drones to launch from this drone bay. \n\nIf disabled, will prevent drones from being loaded.","Povolit dronům start z tohoto hangáru. \n\nPokud je funkce zakázána, zabrání startu dronů."
 NEW,hud_tooltip_drone_permitreturn,3708,"Allow drones to return to this drone bay. \n\nIf disabled, will allow drones to drop items off but not dock at this bay.","Povolit dronům návrat do tohoto hangáru. \n\nPokud je funkce zakázána, dronům bude umožněno vyložit náklad, ale ne v hangáru přistát."
-NEW,hud_tooltip_drone_selecttype,3708,The types that can be dropped off.,"Typy,  které lze vyložit."
-NEW,hud_tooltip_robotarm_selecttype,3708,The types that can be picked up.,"Typy,  které lze vyzvednout."
+NEW,hud_tooltip_drone_selecttype,3708,The types that can be dropped off.,"Typy, které lze vyložit."
+NEW,hud_tooltip_robotarm_selecttype,3708,The types that can be picked up.,"Typy, které lze vyzvednout."
 NEW,brokenconstraint_none,3708,INVALID PLACEMENT,NEPLATNÉ UMÍSTĚNÍ
 NEW,brokenconstraint_interior,3708,NOT ENOUGH INTERIOR SPACE,NEDOSTATEK VNITŘNÍHO PROSTORU
 NEW,brokenconstraint_exterior,3708,NOT ENOUGH EXTERIOR SPACE,NEDOSTATEK VNĚJŠÍHO PROSTORU
 NEW,brokenconstraint_wall,3708,REQUIRES WALL,VYŽADUJE STĚNU
 NEW,brokenconstraint_nowall,3708,OBSTRUCTED BY A WALL,BLOKOVÁNO STĚNOU
 NEW,brokenconstraint_unobstructed,3708,AREA NOT CLEAR,PROSTOR NENÍ VOLNÝ
-NEW,brokenconstraint_wallscaffold,3708,REQUIRES WALL OR SCAFFOLDING,VYŽADUJE STĚNU NEBO LEŠENÍ
+NEW,brokenconstraint_wallscaffold,3708,REQUIRES WALL OR SCAFFOLDING,VYŽADUJE STĚNU NEBO KONSTRUKCI
 NEW,brokenconstraint_unobstructedontop,3708,TOP OF SHIP NOT CLEAR,HORNÍ ČÁST LODI NENÍ VOLNÁ
 NEW,brokenconstraint_habitationontop,3708,NO HABITATION ABOVE,NAD TÍMTO MÍSTEM NENÍ OBYTNÝ PROSTOR.
 NEW,equipment_factory_idle,3708,IDLE,NEČINNOST
@@ -23,22 +23,22 @@ NEW,equipment_typefilter_all,3708,ALL PERMITTED,VŠE POVOLENO
 NEW,equipment_typefilter_extras,3708,AND *X MORE,A DALŠÍ *X
 NEW,equipment_typefilter_invert,3708,ALL PERMITTED EXCEPT:,VŠE POVOLENO KROMĚ:
 NEW,equipment_selectall,3708,SELECT ALL,VYBRAT VŠE
-NEW,equipment_deselectall,3708,DESELECT ALL,ZRUŠIT VÝBĚR VŠE
+NEW,equipment_deselectall,3708,DESELECT ALL,ODZNAČIT VŠE
 NEW,trade_schematics,3708,BLUEPRINTS,PLÁNY
 NEW,trade_schematic,3708,Blueprint,Plán
-NEW,trade_schematic_warning,3708,This is a blueprint. Purchasing this will unlock the schematic but will not deliver any equipment.\n\nAssembly tables and fabricators are required to produce the equipment.,Toto je výrobní plán. Jeho zakoupením odemknete schéma.  Nedostanete žádné vybavení.\n\nK výrobě vybavení je potřeba montážní stůl a fabrikátor.
+NEW,trade_schematic_warning,3708,This is a blueprint. Purchasing this will unlock the schematic but will not deliver any equipment.\n\nAssembly tables and fabricators are required to produce the equipment.,Toto je výrobní plán. Jeho zakoupením odemkneš schéma.  Nedostaneš žádné vybavení.\n\nK výrobě vybavení je potřeba montážní stůl a fabrikátor.
 NEW,special_smartdronebays,3708,Smart Drone Bays,Chytré hangáry pro drony
 NEW,techtree_blueprintunlocked_title,3708,BLUEPRINT UNLOCKED,PLÁN ODEMKNUT
 NEW,techtree_alreadyunlocked,3708,ALREADY UNLOCKED,JIŽ ODEMKNUTO
 NEW,logistics_window_tanks,3708,[STORED IN TANKS],[ULOŽENO V NÁDRŽÍCH]
 NEW,logistics_extras_anycargo_tooltip,3708,"If this is checked, general storage zones will be considered alongside type specific storage zones when determining whether storage is full.","Pokud je zaškrtnuto, budou se při zjišťování, zda je sklad plný, brát v úvahu obecné skladovací zóny spolu se zónami specifickými pro daný typ."
-NEW,logistics_extras_preventdocking,3708,PREVENT DOCKING,ZABRÁNIT PŘISTÁNÍ
+NEW,logistics_extras_preventdocking,3708,PREVENT DOCKING,ZABRÁNIT DOKOVÁNÍ
 NEW,logistics_extras_preventdocking_tooltip,3708,"If this is checked, the two ships won't dock. Otherwise, this ship will try to dock if the transfer is large or not enough drones are available.","Pokud je zaškrtnuto, lodě se nespojí. V opačném případě se loď pokusí spojit, pokud je přesun velký nebo není k dispozici dostatek dronů."
 NEW,logistics_status_travellingaligning,3708,Aligning for jump,Zarovnávání pro skok
 NEW,logistics_status_travellingdrones,3708,Waiting for *X deployed drones,Čeká se na *X nasazených dronů
 NEW,logistics_status_travellingtrade,3708,Waiting for trade to complete,Čeká se na dokončení obchodu
 NEW,logistics_status_transferdocking,3708,Docking with L*X to transfer R*Y through docking port,Probíhá spojení s L*X za účelem přenosu R*Y přes spojovací port
-NEW,order_tooltip_dronegatherfilter,3708,Edit which items drones from this ship should pick up or ignore,"Upravit, Jaké položky by drony z této lodi měly sbírat nebo ignorovat"
+NEW,order_tooltip_dronegatherfilter,3708,Edit which items drones from this ship should pick up or ignore,"Upravit, jaké položky by drony z této lodi měly sbírat nebo ignorovat"
 NEW,orders_drones_alltoggle,3708,ALL RESOURCES,VŠECHNY ZDROJE
 NEW,orders_drones_materialstoggle,3708,MATERIALS,MATERIÁLY
 NEW,object_superconductorcomponent,3708,Superconductor,Supravodič
@@ -49,41 +49,41 @@ NEW,object_wastewater,3708,Waste Water,Odpadní voda
 NEW,alert_type_noreturndronebay,3718,DRONES STUCK,Drony jsou zaseknuté
 NEW,alert_type_noreturndronebay_caption1,3718,No drone bay to return to.,Žádný hangár pro návrat dronů.
 NEW,alert_type_noreturndronebay_caption2,3718,No drone bay permits return.,Žádný hangár pro drony nepovoluje návrat.
-UPDATED,logistics_condition_untilstorage,3708,Until on board,
+UPDATED,logistics_condition_untilstorage,3708,Until on board,Dokud není na palubě
 PREVIOUS,logistics_condition_untilstorage,3400,Quantity on board,Množství na palubě
-UPDATED,logistics_extras_anycargo,3708,INCLUDE GENERAL STORAGE ZONES,
+UPDATED,logistics_extras_anycargo,3708,INCLUDE GENERAL STORAGE ZONES,ZAHRNOUT OBECNÉ SKLADOVACÍ ZÓNY
 PREVIOUS,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,POUŽÍT LIBOVOLNÝ SKLAD NÁKLADU
-UPDATED,logistics_tooltip_loop,3708,"Loop execution. If off, will stop after completing the last order.",
+UPDATED,logistics_tooltip_loop,3708,"Loop execution. If off, will stop after completing the last order.",Provádění smyčky. Pokud je vypnuto, zastaví se po dokončení posledního rozkazu.
 PREVIOUS,logistics_tooltip_loop,3248,Loop execution,Provedení smyčky
-UPDATED,order_gather,3708,Gather,
+UPDATED,order_gather,3708,Gather,Sbírat
 PREVIOUS,order_gather,2448,Gather Materials,Sběr materiálů
-UPDATED,order_tooltip_gather,3708,Allow drones to gather,
+UPDATED,order_tooltip_gather,3708,Allow drones to gather,Povolí dronům sběr
 PREVIOUS,order_tooltip_gather,3639,"Allow drones to gather raw and refined materials (ores, minerals, ingots)","Povolí dronům sbírat surové a rafinované materiály (rudy, minerály, ingoty)"
-UPDATED,shipeditor_equipment_autoproduce_tooltip,3708,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""IDLE"" will be used. They will be set back to ""IDLE"" when production has finished.",
+UPDATED,shipeditor_equipment_autoproduce_tooltip,3708,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""IDLE"" will be used. They will be set back to ""IDLE"" when production has finished.",Automaticky vyrobí chybějící vybavení pomocí dostupných montážních stolů a fabrikátorů.\nPoužit bude jakýkoli montážní stůl nebo fabrikátor, který je nastaven na „VOLNO“. Po dokončení výroby budou opět přepnuty do režimu „VOLNO“."
 PREVIOUS,shipeditor_equipment_autoproduce_tooltip,3639,Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to STOP will be used. They will be set back to STOP when production has finished.,"Automaticky vyrobí chybějící vybavení pomocí dostupných montážních stolů a fabrikátorů.\nPoužit bude jakýkoli montážní stůl nebo fabrikátor, který je nastaven na „STOP“. Po dokončení výroby budou opět přepnuty do režimu „STOP“."
-UPDATED,techtree_node_caption_logistics1,3708,Unlocks schematics for small logistics storage. Unlocks smart drone bays allowing to filter which items are dropped off and whether drones should launch from and return to it,
+UPDATED,techtree_node_caption_logistics1,3708,Unlocks schematics for small logistics storage. Unlocks smart drone bays allowing to filter which items are dropped off and whether drones should launch from and return to it,Odemkne plány pro malé logistické sklady. Odemkne chytré hangáry pro drony umožňující filtrovat vyložené položky a určovat zda z nich mají drony startovat a vracet se do nich
 PREVIOUS,techtree_node_caption_logistics1,2448,Unlocks schematics for small logistics storage,Odemkne plány pro malé logistické sklady
-UPDATED,tutorial_miningfleetorders,3708,You also need to make sure that <b>GATHER</b> is enabled in <b>FLEET ORDERS</b>.,
+UPDATED,tutorial_miningfleetorders,3708,You also need to make sure that <b>GATHER</b> is enabled in <b>FLEET ORDERS</b>.,"Také se musíš ujistit, že v <b>ROZKAZECH FLOTILY</b> je povolena položka <b>SBÍRAT</b>."
 PREVIOUS,tutorial_miningfleetorders,2886,You also need to make sure that <b>GATHER MATERIALS</b> is enabled in <b>FLEET ORDERS</b>.,"Také se musíš ujistit, že v <b>ROZKAZECH FLOTILY</b> je povolena položka <b>SBÍRAT MATERIÁLY</b>."
-UPDATED,equipment_storagecrate_capacity,3708,CAPACITY: *X,
+UPDATED,equipment_storagecrate_capacity,3708,CAPACITY: *X,KAPACITA: *X
 PREVIOUS,equipment_storagecrate_capacity,2448,CAPACITY,KAPACITA
-UPDATED,mainmenu_gamemode_freeroam_tooltip,3708,"You are free to pursue any career at your own pace. No anomaly, no stargate.",
+UPDATED,mainmenu_gamemode_freeroam_tooltip,3708,"You are free to pursue any career at your own pace. No anomaly, no stargate.","Můžeš se svobodně věnovat jakékoli kariéře svým vlastním tempem. Žádné anomálie, žádné hvězdné brány."
 PREVIOUS,mainmenu_gamemode_freeroam_tooltip,2448,"You are free to persue any career at your own pace. No anomaly, no stargate.","Můžeš se svobodně věnovat jakékoli kariéře svým vlastním tempem. Žádné anomálie, žádné hvězdné brány."
-UPDATED,shipeditor_equipment_autobuy,3708,AUTO BUY,
+UPDATED,shipeditor_equipment_autobuy,3708,AUTO BUY,AUTO NÁKUP
 PREVIOUS,shipeditor_equipment_autobuy,2886,Enable Auto Buy,Povolit auto. nákup
-UPDATED,translationeditor_new_tooltip1,3708,Unformatted New Translation,
+UPDATED,translationeditor_new_tooltip1,3708,Unformatted New Translation,Neformátovaný nový překlad
 PREVIOUS,translationeditor_new_tooltip1,3054,Unformatted new translation,Neformátovaný nový překlad
-UPDATED,translationeditor_new_tooltip2,3708,Formatted New Translation,
+UPDATED,translationeditor_new_tooltip2,3708,Formatted New Translation,Formátovaný nový překlad
 PREVIOUS,translationeditor_new_tooltip2,3054,Formatted new translation,Formátovaný nový překlad
-UPDATED,translationeditor_original_tooltip1,3708,Unformatted Approved Translation,
+UPDATED,translationeditor_original_tooltip1,3708,Unformatted Approved Translation,Neformátovaný schválený překlad
 PREVIOUS,translationeditor_original_tooltip1,3054,Unformatted original translation,Neformátovaný původní překlad
-UPDATED,translationeditor_original_tooltip2,3708,Formatted Approved Translation,
+UPDATED,translationeditor_original_tooltip2,3708,Formatted Approved Translation,Formátovaný schválený překlad
 PREVIOUS,translationeditor_original_tooltip2,3054,Formatted original translation,Formátovaný původní překlad
-UPDATED,translationeditor_original_tooltip3,3708,"This is what is currently used in the game. Even though the translation is ""Approved"" you can still submit changes to improve it further.",
+UPDATED,translationeditor_original_tooltip3,3708,"This is what is currently used in the game. Even though the translation is ""Approved"" you can still submit changes to improve it further.","Tato verze se aktuálně používá ve hře. Přestože je překlad „Schválen“, stále můžete posílat změny pro jeho další vylepšení."
 PREVIOUS,translationeditor_original_tooltip3,3054,This is what is currently used in the game.,"Toto je verze, která se aktuálně používá ve hře."
-UPDATED,translationeditor_unmodified,3708,Unmodified,
+UPDATED,translationeditor_unmodified,3708,Unmodified,Nezměněné
 PREVIOUS,translationeditor_unmodified,3054,Unmodified Phrases,Nezměněné fráze
-UPDATED,wolf_part1_completion3,3708,So far they haven't left a single living witness. But the sensor data tells the full story. We've managed to extract another sensor image of the attacker.,
+UPDATED,wolf_part1_completion3,3708,So far they haven't left a single living witness. But the sensor data tells the full story. We've managed to extract another sensor image of the attacker.,Zatím nenechali ani jednoho živého svědka. Data ze senzorů však odhalují celý příběh. Podařilo se nám extrahovat další snímek útočníka ze senzorů.
 PREVIOUS,wolf_part1_completion3,2448,So far they haven't left a single living witness. But the sensor data tells the full story. We've manged to extract another sensor image of the attacker.,Zatím nenechali jediného živého svědka. Data ze senzorů ale mluví jasně. Podařilo se nám z nich extrahovat další snímek útočníka.
 CURRENT,action_closedoors,2448,Close All Doors,Uzavřít dveře (vše)
 CURRENT,action_opendoors,2448,Open All Doors,Otevřít dveře (vše)
