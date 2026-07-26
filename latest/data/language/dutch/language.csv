@@ -1,4 +1,4 @@
-﻿state,key,svn,english,translation
+state,key,svn,english,translation
 NEW,settings_language_category,3511,LANGUAGE,
 NEW,settings_communicator_speed,3511,Character text speed,
 NEW,settings_camerapan_speed,3511,Camera pan speed,
@@ -7,7 +7,7 @@ NEW,settings_slow,3511,Slow,
 NEW,settings_normal,3511,Normal,
 NEW,settings_fast,3511,Fast,
 NEW,settings_fastest,3511,Fastest,
-NEW,hud_atmosphere_no_oxygen,3511,NO OXYGEN,
+NEW,hud_atmosphere_no_oxygen,3511,NO OXYGEN,GEEN ZUURSTOF
 NEW,hud_habitation_info_title,3511,HABITATION,
 NEW,hud_habitation_info_cabins,3511,*X / *Y CABINS,
 NEW,hud_habitation_info_sewage,3511,*X SEWAGE,
@@ -922,7 +922,7 @@ CURRENT,tutorial_tradewaitforsellable,2886,Your crew will now use the equipment 
 CURRENT,tutorial_tradeothersupplies,2886,"We can use the <b>TRADE</b> system to buy raw materials to produce more <b>STARGATE FRAMES</b>, as well as resources we will need to survive.\n\nReopen the <b>TRADE</b> screen.","We kunnen het <b>HANDELS</b>systeem gebruiken om grondstoffen te kopen om meer <b>STARGATE FRAMES</b> te produceren, maar ook grondstoffen die we nodig hebben om te overleven.\n\nHeropen het <b>HANDELSCHERM</b>."
 CURRENT,tutorial_tradebuyminerals,2886,<b>METALLIC MINERALS</b> can be smelted into <b>METAL INGOTS</b> just like <b>SCRAP METAL</b>.\n\nAdd all the <b>METALLIC MINERALS</b> to the trade.,"<b>METALISCHE MINERALEN</b> kunnen worden omgesmolten tot <b>METAL INGOTS</b>, net als <b>SCRAP METAL</b>.\n\nVoeg alle <b>METAALMINERALEN</b> toe aan de handel."
 CURRENT,tutorial_tradebuysmelter,2886,We will also need another <b>SMELTER</b> to begin processing those <b>METALLIC MINERALS</b>.\n\nFind the <b>SMELTER</b> under the <b>INDUSTRY</b> tab and add one to the order.,We hebben ook nog een <b>SMELTER</b> nodig om te beginnen met het verwerken van die <b>METALLISCHE MINERALEN</b>.\n\nZoek de <b>SMELTER</b> onder het tabblad <b>INDUSTRIE</b> en voeg er een toe aan de bestelling.
-CURRENT,tutorial_tradebuymore,2886,This is a good opportunity to stock up on some other resources that are critical for life support.\n\nWe'd recommend you purchase:\n\n - 2x <b>FUEL</b>\n - 2x <b>OXYGEN</b>\n - 2x <b>WATER</b>\n - 2x <b>FOOD</b>\n\n- <b>HIRE</b> 5 <b>MORE CREW</b>\n\nCONFIRM the order when you are done.,Dit is een goede gelegenheid om wat andere bronnen in te slaan die cruciaal zijn voor levensonderhoud.\n\nWe raden je aan om aan te schaffen:\n\n - 2x <b>BRANDSTOF</b>\n - 2x <b>OXYGEN</b>\n - 2x <b>WATER</b>\n - 2x <b>VOEDSEL</b>\n\n- <b>HUUR</b> 5 <b>EXTRA BEMANNINGSLEDEN</b>\n\nBEVESTIG de bestelling als je klaar bent.
+CURRENT,tutorial_tradebuymore,2886,This is a good opportunity to stock up on some other resources that are critical for life support.\n\nWe'd recommend you purchase:\n\n - 2x <b>FUEL</b>\n - 2x <b>OXYGEN</b>\n - 2x <b>WATER</b>\n - 2x <b>FOOD</b>\n\n- <b>HIRE</b> 5 <b>MORE CREW</b>\n\nCONFIRM the order when you are done.,Dit is een goede gelegenheid om wat andere bronnen in te slaan die cruciaal zijn voor levensonderhoud.\n\nWe raden je aan om aan te schaffen:\n\n - 2x <b>BRANDSTOF</b>\n - 2x <b>ZUURSTOF</b>\n - 2x <b>WATER</b>\n - 2x <b>VOEDSEL</b>\n\n- <b>HUUR</b> 5 <b>EXTRA BEMANNINGSLEDEN</b>\n\nBEVESTIG de bestelling als je klaar bent.
 CURRENT,tutorial_tradeinstallsmelter,2886,"Once those goods have arrived, you should install your second <b>SMELTER</b> somewhere near the first.","Zodra deze goederen zijn aangekomen, moet je je tweede <b>SMELTER</b> ergens in de buurt van de eerste installeren."
 CURRENT,tutorial_tradesmeltmetallicminerals,2886,Set the <b>SMELTER</b> to process those <b>METALLIC MINERALS</b> you bought into more <b>METAL INGOTS</b>.,Stel de <b>SMELTER</b> in om de <b>METALISCHE MINERALEN</b> die je hebt gekocht te verwerken tot meer <b>METALEN</b>.
 CURRENT,tutorial_productionsuccess,2886,"Well done, you are now all set to produce <b>STARGATE FRAMES</b>.","Goed gedaan, je bent nu helemaal klaar om <b>STARGATE FRAMES</b> te produceren."
@@ -931,7 +931,7 @@ CURRENT,tutorial_fleetcrew,2886,We will need a crew. Hire five <b>CREW MEMBERS</
 CURRENT,tutorial_fleetcrew_shiftclick,2886,<b>NOTE</b>: You can <b>SHIFT CLICK</b> to hire in multiples of 5.,<b>OPMERKING</b>: Je kunt <b>SHIFT CLICK</b> om in veelvouden van 5 te huren.
 CURRENT,tutorial_fleetspacesuits,2886,Those crew will also need <b>SPACESUITS</b> as there is no atmosphere onboard our ship yet.\n\nOrder five <b>SPACESUITS</b> for the new crew.,"Die bemanning heeft ook <b>SPACESUITS</b> nodig, want er is nog geen atmosfeer aan boord van ons schip.\n\nBestel vijf <b>SPACESUITS</b> voor de nieuwe bemanning."
 CURRENT,tutorial_fleettradeconfirm,2886,<b>CONFIRM</b> the trade.,<b>BEVESTIG</b> de handel.
-CURRENT,tutorial_fleetresources,2886,We also need resources for the ship to function.\n\nUse the <b>TRADE</b> screen to buy:\n- 5x <b>FUEL</b>\n- 5x <b>OXYGEN</b>\n- 5x <b>FTL CHARGE</b>\n- 2x <b>FOOD</b>\n- 2x <b>WATER</b>.\n\nCONFIRM the trade when you are done.,We hebben ook bronnen nodig om het schip te laten functioneren.\n\nGebruik het <b>HANDELSCHERM</b> om te kopen:\n- 5x <b>BRANDSTOF</b>\n- 5x <b>OXYGEN</b>\n- 5x <b>FTL CHARGE</b>\n- 2x <b>VOEDSEL</b>\n- 2x <b>WATER</b>.\n\nBEVESTIG de ruil als je klaar bent.
+CURRENT,tutorial_fleetresources,2886,We also need resources for the ship to function.\n\nUse the <b>TRADE</b> screen to buy:\n- 5x <b>FUEL</b>\n- 5x <b>OXYGEN</b>\n- 5x <b>FTL CHARGE</b>\n- 2x <b>FOOD</b>\n- 2x <b>WATER</b>.\n\nCONFIRM the trade when you are done.,We hebben ook bronnen nodig om het schip te laten functioneren.\n\nGebruik het <b>HANDELSCHERM</b> om te kopen:\n- 5x <b>BRANDSTOF</b>\n- 5x <b>ZUURSTOF</b>\n- 5x <b>FTL CHARGE</b>\n- 2x <b>VOEDSEL</b>\n- 2x <b>WATER</b>.\n\nBEVESTIG de ruil als je klaar bent.
 CURRENT,tutorial_flighttactical,2886,"We should give our engines a small test flight.  To maneuver our ship, switch into <b>TACTICAL</b> mode by clicking the highlighted button, or pressing <b>{ToggleTactical}</b>.","We moeten onze motoren een kleine testvlucht geven. Om met ons schip te manoeuvreren, schakel je over naar de <b>TACTISCHE</b> modus door op de gemarkeerde knop te klikken of door op <b>{ToggleTactical}</b> te drukken."
 CURRENT,tutorial_flightengines,2886,We can directly control our engine <b>THROTTLE</b> from here.\n\nTry increasing your engine throttle with this control.,We kunnen onze motor <b>GASHENDEL</b> rechtstreeks vanaf hier besturen.\n\nProbeer de gashendel van uw motor te verhogen met deze regelaar.
 CURRENT,tutorial_flightturning,2886,"We can also turn the ship by left clicking in <b>TACTICAL</b> mode, in the direction we wish to travel.",We kunnen het schip ook draaien door in de <b>TACTISCHE</b> modus met de linkermuisknop te klikken in de richting waarin we willen reizen.
@@ -2477,7 +2477,7 @@ CURRENT,alert_type_dead_caption,2593,*X dead,*X dood
 CURRENT,alert_type_lowresource_caption,2593,*X,*X
 CURRENT,alert_type_lowfuel,2593,LOW FUEL,BRANDSTOF BIJNA OP
 CURRENT,alert_type_lowftl,2593,FTL CHARGES,FTL LADING
-CURRENT,alert_type_lowoxygen,2593,LOW OXYGEN,LAGE OXYGEN
+CURRENT,alert_type_lowoxygen,2593,LOW OXYGEN,WEINIG ZUURSTOF
 CURRENT,alert_type_lowbattery,2593,BATTERY LOW,BATTERIJ LAAG
 CURRENT,alert_type_lowfood,2593,LOW FOOD,LAAG VOEDSEL
 CURRENT,alert_type_lowwater,2593,LOW WATER,LAAG WATER
