@@ -1,4 +1,4 @@
-﻿state,key,svn,english,translation
+state,key,svn,english,translation
 NEW,settings_language_category,3511,LANGUAGE,
 NEW,settings_communicator_speed,3511,Character text speed,
 NEW,settings_camerapan_speed,3511,Camera pan speed,
@@ -229,8 +229,6 @@ UPDATED,shipeditor_equipment_autobuy,3629,AUTO BUY,
 PREVIOUS,shipeditor_equipment_autobuy,2886,Enable Auto Buy,Ativar a compra automática
 UPDATED,equipment_storagecrate_capacity,3629,CAPACITY: *X,
 PREVIOUS,equipment_storagecrate_capacity,2624,CAPACITY,CAPACIDADE
-UPDATED,logistics_condition_untilstorage,3708,Until on board,
-PREVIOUS,logistics_condition_untilstorage,3400,Quantity on board,Quantidade a bordo
 UPDATED,logistics_extras_anycargo,3708,INCLUDE GENERAL STORAGE ZONES,
 PREVIOUS,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,USAR QUALQUER ARMAZENAMENTO DE CARGA
 UPDATED,logistics_tooltip_loop,3708,"Loop execution. If off, will stop after completing the last order.",
@@ -242,6 +240,7 @@ UPDATED,techtree_node_caption_logistics1,3708,Unlocks schematics for small logis
 PREVIOUS,techtree_node_caption_logistics1,2624,Unlocks schematics for small logistics storage,Desbloqueia esquemas para pequeno armazenamento logístico
 UPDATED,order_gather,3708,Gather,
 PREVIOUS,order_gather,2624,Gather Materials,Coletar Materiais
+CURRENT,logistics_condition_untilstorage,3708,Until on board,Até ter a bordo
 CURRENT,logistics_log_transfertonosupply,3492,Transferred *X R*Y to L*Z out of the *P desired - insufficient cargo,Transferido *X R*Y para L*Z fora do *P desejado - carga insuficiente
 CURRENT,logistics_log_transferfromnosupply,3492,Transferred *X R*Y from L*Z out of the *P desired - insufficient cargo,Transferido *X R*Y de L*Z para fora do *P desejado - carga insuficiente
 CURRENT,trade_paymentperjump,3472,*X (+*Y) per sector jump,*X (+*Y) por salto de setor
@@ -424,7 +423,7 @@ CURRENT,logistics_condition_none,3239,Amount,Valor
 CURRENT,logistics_condition_quantity,3239,Quantity,Quantidade
 CURRENT,logistics_condition_stacks,3239,Stacks,Pilhas
 CURRENT,logistics_condition_containers,3239,Containers,Contêineres
-CURRENT,logistics_condition_allbut,3239,All But,"Todos, mas"
+CURRENT,logistics_condition_allbut,3239,All But,"Todos, menos"
 CURRENT,logistics_condition_all,3239,All Available,Todos disponíveis
 CURRENT,logistics_condition_time,3239,Minutes,Minutos
 CURRENT,logistics_transferto_none,3239,DESTINATION SHIP,NAVIO DE DESTINO
@@ -3303,6 +3302,7 @@ CURRENT,dsi_part2_scene_z4,2624,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2624,THERE WILL BE NO FURTHER WARNING.,NÃO HAVERÁ MAIS AVISOS.
 CURRENT,dsi_part2_scene_y7,2624,You've left me no choice.,Você não me deixou escolha.
 CURRENT,dsi_part2_scene_y8,2624,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Eu vou atrás de você, Alexander, e desta vez não estou pedindo 10%. Eu quero tudo."
+OBSOLETE,logistics_condition_untilstorage,3400,Quantity on board,Quantidade a bordo
 OBSOLETE,logistics_status_buynomoney,3400,out of the *X desired (not enough money),fora do *X desejado (não há dinheiro suficiente)
 OBSOLETE,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),fora do *X pedido (não há dinheiro suficiente)
 OBSOLETE,logistics_status_buynosupply,3400,out of the *X desired (not enough available),fora do *X desejado (não há disponibilidade suficiente)
