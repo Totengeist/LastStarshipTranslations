@@ -1,69 +1,61 @@
 ﻿state,key,svn,english,translation
-NEW,hud_tooltip_drone_filterwarning,3708,WARNING: This type is excluded in the ship-wide gather filter.,
-NEW,hud_tooltip_drone_permitlaunch,3708,"Allow drones to launch from this drone bay. \n\nIf disabled, will prevent drones from being loaded.",
-NEW,hud_tooltip_drone_permitreturn,3708,"Allow drones to return to this drone bay. \n\nIf disabled, will allow drones to drop items off but not dock at this bay.",
-NEW,hud_tooltip_drone_selecttype,3708,The types that can be dropped off.,
-NEW,hud_tooltip_robotarm_selecttype,3708,The types that can be picked up.,
-NEW,brokenconstraint_none,3708,INVALID PLACEMENT,
-NEW,brokenconstraint_interior,3708,NOT ENOUGH INTERIOR SPACE,
-NEW,brokenconstraint_exterior,3708,NOT ENOUGH EXTERIOR SPACE,
-NEW,brokenconstraint_wall,3708,REQUIRES WALL,
-NEW,brokenconstraint_nowall,3708,OBSTRUCTED BY A WALL,
-NEW,brokenconstraint_unobstructed,3708,AREA NOT CLEAR,
-NEW,brokenconstraint_wallscaffold,3708,REQUIRES WALL OR SCAFFOLDING,
-NEW,brokenconstraint_unobstructedontop,3708,TOP OF SHIP NOT CLEAR,
-NEW,brokenconstraint_habitationontop,3708,NO HABITATION ABOVE,
-NEW,equipment_factory_idle,3708,IDLE,
-NEW,equipment_robotarm_numtypes,3708,*X types,
-NEW,equipment_dronebay_permitlaunch,3708,PERMIT LAUNCH,
-NEW,equipment_dronebay_permitreturn,3708,PERMIT RETURN,
-NEW,equipment_typefilter_none,3708,SELECT PERMITTED,
-NEW,equipment_typefilter_multiple,3708,MULTIPLE PERMITTED,
-NEW,equipment_typefilter_all,3708,ALL PERMITTED,
-NEW,equipment_typefilter_extras,3708,AND *X MORE,
-NEW,equipment_typefilter_invert,3708,ALL PERMITTED EXCEPT:,
-NEW,equipment_selectall,3708,SELECT ALL,
-NEW,equipment_deselectall,3708,DESELECT ALL,
-NEW,trade_schematics,3708,BLUEPRINTS,
-NEW,trade_schematic,3708,Blueprint,
 NEW,trade_schematic_warning,3708,This is a blueprint. Purchasing this will unlock the schematic but will not deliver any equipment.\n\nAssembly tables and fabricators are required to produce the equipment.,
-NEW,special_smartdronebays,3708,Smart Drone Bays,
-NEW,techtree_blueprintunlocked_title,3708,BLUEPRINT UNLOCKED,
-NEW,techtree_alreadyunlocked,3708,ALREADY UNLOCKED,
-NEW,logistics_window_tanks,3708,[STORED IN TANKS],
-NEW,logistics_extras_anycargo_tooltip,3708,"If this is checked, general storage zones will be considered alongside type specific storage zones when determining whether storage is full.",
-NEW,logistics_extras_preventdocking,3708,PREVENT DOCKING,
-NEW,logistics_extras_preventdocking_tooltip,3708,"If this is checked, the two ships won't dock. Otherwise, this ship will try to dock if the transfer is large or not enough drones are available.",
-NEW,logistics_status_travellingaligning,3708,Aligning for jump,
-NEW,logistics_status_travellingdrones,3708,Waiting for *X deployed drones,
-NEW,logistics_status_travellingtrade,3708,Waiting for trade to complete,
-NEW,logistics_status_transferdocking,3708,Docking with L*X to transfer R*Y through docking port,
-NEW,order_tooltip_dronegatherfilter,3708,Edit which items drones from this ship should pick up or ignore,
-NEW,orders_drones_alltoggle,3708,ALL RESOURCES,
-NEW,orders_drones_materialstoggle,3708,MATERIALS,
-NEW,object_superconductorcomponent,3708,Superconductor,
-NEW,object_reactorcorecomponent,3708,Reactor Core,
-NEW,object_computegridcomponent,3708,Compute Grid,
-NEW,object_thermalstabilisercomponent,3708,Heat Exchanger,
-NEW,alert_type_noreturndronebay,3718,DRONES STUCK,
-NEW,alert_type_noreturndronebay_caption1,3718,No drone bay to return to.,
-NEW,alert_type_noreturndronebay_caption2,3718,No drone bay permits return.,
-UPDATED,shipeditor_equipment_autoproduce_tooltip,3708,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""IDLE"" will be used. They will be set back to ""IDLE"" when production has finished.",
-PREVIOUS,shipeditor_equipment_autoproduce_tooltip,3629,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""STOP"" will be used. They will be set back to ""STOP"" when production has finished.","Producer automatisk manglende udstyr ved hjælp af tilgængelige samleborde og fabrikatorer.\nAlle samleborde eller fabrikatorer, der er sat til ""STOP"", vil blive brugt. De bliver sat tilbage til ""STOP"", når produktionen er færdig."
-UPDATED,order_tooltip_gather,3708,Allow drones to gather,
-PREVIOUS,order_tooltip_gather,3561,"Allow drones to gather raw and refined materials (ores, minerals, ingots)","Tillad droner at indsamle rå og raffinerede materialer (malm, mineraler, bar)"
-UPDATED,logistics_condition_untilstorage,3708,Until on board,
-PREVIOUS,logistics_condition_untilstorage,3400,Quantity on board,Antal ombord
-UPDATED,logistics_extras_anycargo,3708,INCLUDE GENERAL STORAGE ZONES,
-PREVIOUS,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,BRUG ENHVER LAST OPBEVARING
-UPDATED,logistics_tooltip_loop,3708,"Loop execution. If off, will stop after completing the last order.",
-PREVIOUS,logistics_tooltip_loop,3248,Loop execution,Gentag udførelse
-UPDATED,order_gather,3708,Gather,
-PREVIOUS,order_gather,2448,Gather Materials,Indsaml materialer
-UPDATED,techtree_node_caption_logistics1,3708,Unlocks schematics for small logistics storage. Unlocks smart drone bays allowing to filter which items are dropped off and whether drones should launch from and return to it,
-PREVIOUS,techtree_node_caption_logistics1,2448,Unlocks schematics for small logistics storage,Låser op for tegninger til lille logistisk lager
-UPDATED,tutorial_miningfleetorders,3708,You also need to make sure that <b>GATHER</b> is enabled in <b>FLEET ORDERS</b>.,
-PREVIOUS,tutorial_miningfleetorders,2886,You also need to make sure that <b>GATHER MATERIALS</b> is enabled in <b>FLEET ORDERS</b>.,Du skal også sikre dig at <b>INDSAML MATERIALER</b> er aktiveret i <b>FLÅDEORDRER</b>.
+CURRENT,hud_tooltip_drone_filterwarning,3708,WARNING: This type is excluded in the ship-wide gather filter.,ADVARSEL: Denne type er udelukket i skibets fælles opsamlingsfilter.
+CURRENT,hud_tooltip_drone_permitlaunch,3708,"Allow drones to launch from this drone bay. \n\nIf disabled, will prevent drones from being loaded.","Tillad droner at starte fra denne dronehangar. \n\nHvis funktionen deaktiveres, kan der ikke indlæses droner."
+CURRENT,hud_tooltip_drone_permitreturn,3708,"Allow drones to return to this drone bay. \n\nIf disabled, will allow drones to drop items off but not dock at this bay.","Tillad droner at vende tilbage til denne dronehangar. \n\nHvis funktionen deaktiveres, kan droner stadig aflevere genstande, men ikke lande i denne hangar."
+CURRENT,hud_tooltip_drone_selecttype,3708,The types that can be dropped off.,"De typer, der kan afleveres."
+CURRENT,hud_tooltip_robotarm_selecttype,3708,The types that can be picked up.,"De typer, der kan samles op."
+CURRENT,brokenconstraint_none,3708,INVALID PLACEMENT,UGYLDIG PLACERING
+CURRENT,brokenconstraint_interior,3708,NOT ENOUGH INTERIOR SPACE,IKKE NOK INDVENDIG PLADS
+CURRENT,brokenconstraint_exterior,3708,NOT ENOUGH EXTERIOR SPACE,IKKE NOK UDVENDIG PLADS
+CURRENT,brokenconstraint_wall,3708,REQUIRES WALL,KRÆVER VÆG
+CURRENT,brokenconstraint_nowall,3708,OBSTRUCTED BY A WALL,BLOKERET AF EN VÆG
+CURRENT,brokenconstraint_unobstructed,3708,AREA NOT CLEAR,OMRÅDET ER IKKE FRIT
+CURRENT,brokenconstraint_wallscaffold,3708,REQUIRES WALL OR SCAFFOLDING,KRÆVER VÆG ELLER STILLADS
+CURRENT,brokenconstraint_unobstructedontop,3708,TOP OF SHIP NOT CLEAR,TOPPEN AF SKIBET ER IKKE FRI
+CURRENT,brokenconstraint_habitationontop,3708,NO HABITATION ABOVE,INGEN BEBOELSE OVENOVER
+CURRENT,equipment_factory_idle,3708,IDLE,INAKTIV
+CURRENT,equipment_robotarm_numtypes,3708,*X types,*X typer
+CURRENT,equipment_dronebay_permitlaunch,3708,PERMIT LAUNCH,TILLAD START
+CURRENT,equipment_dronebay_permitreturn,3708,PERMIT RETURN,TILLAD TILBAGEVENDEN
+CURRENT,equipment_typefilter_none,3708,SELECT PERMITTED,VÆLG TILLADTE
+CURRENT,equipment_typefilter_multiple,3708,MULTIPLE PERMITTED,FLERE TILLADTE
+CURRENT,equipment_typefilter_all,3708,ALL PERMITTED,ALLE TILLADTE
+CURRENT,equipment_typefilter_extras,3708,AND *X MORE,OG *X FLERE
+CURRENT,equipment_typefilter_invert,3708,ALL PERMITTED EXCEPT:,ALLE TILLADTE UNDTAGEN:
+CURRENT,equipment_selectall,3708,SELECT ALL,VÆLG ALLE
+CURRENT,equipment_deselectall,3708,DESELECT ALL,FRAVÆLG ALLE
+CURRENT,trade_schematics,3708,BLUEPRINTS,TEGNINGER
+CURRENT,trade_schematic,3708,Blueprint,Tegning
+CURRENT,special_smartdronebays,3708,Smart Drone Bays,Smarte dronehangarer
+CURRENT,techtree_blueprintunlocked_title,3708,BLUEPRINT UNLOCKED,TEGNING LÅST OP
+CURRENT,techtree_alreadyunlocked,3708,ALREADY UNLOCKED,ALLEREDE LÅST OP
+CURRENT,logistics_window_tanks,3708,[STORED IN TANKS],[OPBEVARET I TANKE]
+CURRENT,logistics_extras_anycargo_tooltip,3708,"If this is checked, general storage zones will be considered alongside type specific storage zones when determining whether storage is full.","Hvis dette er markeret, vil generelle lagerområder blive medregnet sammen med typespecifikke lagerområder ved vurderingen af, om lageret er fyldt."
+CURRENT,logistics_extras_preventdocking,3708,PREVENT DOCKING,FORHINDR DOKNING
+CURRENT,logistics_extras_preventdocking_tooltip,3708,"If this is checked, the two ships won't dock. Otherwise, this ship will try to dock if the transfer is large or not enough drones are available.","Hvis dette er markeret, vil de to skibe ikke dokke. Ellers vil dette skib forsøge at dokke, hvis overførslen er stor, eller der ikke er nok droner til rådighed."
+CURRENT,logistics_status_travellingaligning,3708,Aligning for jump,Justerer position til spring
+CURRENT,logistics_status_travellingdrones,3708,Waiting for *X deployed drones,Venter på *X udsendte droner
+CURRENT,logistics_status_travellingtrade,3708,Waiting for trade to complete,Venter på at handlen afsluttes
+CURRENT,logistics_status_transferdocking,3708,Docking with L*X to transfer R*Y through docking port,Dokker med L*X for at overføre R*Y gennem dokningsporten
+CURRENT,order_tooltip_dronegatherfilter,3708,Edit which items drones from this ship should pick up or ignore,Rediger hvilke genstande droner fra dette skib skal samle op eller ignorere
+CURRENT,orders_drones_alltoggle,3708,ALL RESOURCES,ALLE RESSOURCER
+CURRENT,orders_drones_materialstoggle,3708,MATERIALS,MATERIALER
+CURRENT,object_superconductorcomponent,3708,Superconductor,Superleder
+CURRENT,object_reactorcorecomponent,3708,Reactor Core,Reaktorkerne
+CURRENT,object_computegridcomponent,3708,Compute Grid,Beregningsnet
+CURRENT,object_thermalstabilisercomponent,3708,Heat Exchanger,Varmeveksler
+CURRENT,alert_type_noreturndronebay,3718,DRONES STUCK,DRONER SIDDER FAST
+CURRENT,alert_type_noreturndronebay_caption1,3718,No drone bay to return to.,Ingen dronehangar at vende tilbage til.
+CURRENT,alert_type_noreturndronebay_caption2,3718,No drone bay permits return.,Ingen dronehangar tillader tilbagevenden.
+CURRENT,shipeditor_equipment_autoproduce_tooltip,3708,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""IDLE"" will be used. They will be set back to ""IDLE"" when production has finished.","Producer automatisk manglende udstyr ved hjælp af tilgængelige samleborde og fremstillingsmaskiner.\nAlle samleborde og fremstillingsmaskiner, der er indstillet til ""INAKTIV"", vil blive brugt. De sættes tilbage til ""INAKTIV"", når produktionen er færdig."
+CURRENT,order_tooltip_gather,3708,Allow drones to gather,Tillad droner at samle op
+CURRENT,logistics_condition_untilstorage,3708,Until on board,Indtil om bord
+CURRENT,logistics_extras_anycargo,3708,INCLUDE GENERAL STORAGE ZONES,MEDREGN GENERELLE LAGEROMRÅDER
+CURRENT,logistics_tooltip_loop,3708,"Loop execution. If off, will stop after completing the last order.","Gentag udførelsen. Hvis funktionen er slået fra, stoppes der efter den sidste ordre."
+CURRENT,order_gather,3708,Gather,Saml op
+CURRENT,techtree_node_caption_logistics1,3708,Unlocks schematics for small logistics storage. Unlocks smart drone bays allowing to filter which items are dropped off and whether drones should launch from and return to it,"Låser konstruktionstegninger til små logistiklagre op. Låser smarte dronehangarer op, hvor du kan filtrere, hvilke genstande der afleveres, og bestemme, om droner må starte fra og vende tilbage til hangaren"
+CURRENT,tutorial_miningfleetorders,3708,You also need to make sure that <b>GATHER</b> is enabled in <b>FLEET ORDERS</b>.,"Du skal også sikre dig, at <b>SAML OP</b> er aktiveret i <b>FLÅDEORDRER</b>."
 CURRENT,hud_tooltip_leftclickboxplace,3629,[SHIFT + LMB Drag] Box place,[SHIFT + VENSTREKLIK OG TRÆK] PLACÉR BOKS
 CURRENT,hud_tooltip_leftclickboxdismantle,3629,[SHIFT + LMB Drag] Box dismantle,[SHIFT + VENSTREKLIK OG TRÆK] AFMONTÉR BOKS
 CURRENT,hud_tooltip_rightclickboxdelete,3629,[SHIFT + RMB Drag] Box delete,[SHIFT + HØJREKLIK OG TRÆK] SLET BOKS
@@ -3287,6 +3279,14 @@ CURRENT,wolf_shipname_scavenger,2448,Scavenger Wraith,Skrothandler Wraith
 CURRENT,wolf_shipname_wolf1,2448,Interstellar Prospector,Interstellar Prospector
 CURRENT,wolf_shipname_wolf2,2448,Infinite Horizon,Infinite Horizon
 CURRENT,wolf_shipname_wolf3,2448,Celestial Hauler,Celestial Hauler
+OBSOLETE,shipeditor_equipment_autoproduce_tooltip,3629,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""STOP"" will be used. They will be set back to ""STOP"" when production has finished.","Producer automatisk manglende udstyr ved hjælp af tilgængelige samleborde og fabrikatorer.\nAlle samleborde eller fabrikatorer, der er sat til ""STOP"", vil blive brugt. De bliver sat tilbage til ""STOP"", når produktionen er færdig."
+OBSOLETE,order_tooltip_gather,3561,"Allow drones to gather raw and refined materials (ores, minerals, ingots)","Tillad droner at indsamle rå og raffinerede materialer (malm, mineraler, bar)"
+OBSOLETE,logistics_condition_untilstorage,3400,Quantity on board,Antal ombord
+OBSOLETE,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,BRUG ENHVER LAST OPBEVARING
+OBSOLETE,logistics_tooltip_loop,3248,Loop execution,Gentag udførelse
+OBSOLETE,order_gather,2448,Gather Materials,Indsaml materialer
+OBSOLETE,techtree_node_caption_logistics1,2448,Unlocks schematics for small logistics storage,Låser op for tegninger til lille logistisk lager
+OBSOLETE,tutorial_miningfleetorders,2886,You also need to make sure that <b>GATHER MATERIALS</b> is enabled in <b>FLEET ORDERS</b>.,Du skal også sikre dig at <b>INDSAML MATERIALER</b> er aktiveret i <b>FLÅDEORDRER</b>.
 OBSOLETE,equipment_storagecrate_capacity,2448,CAPACITY,KAPACITET
 OBSOLETE,shipeditor_equipment_autobuy,2886,Enable Auto Buy,Aktivér Auto-køb
 OBSOLETE,mainmenu_gamemode_freeroam_tooltip,2448,"You are free to persue any career at your own pace. No anomaly, no stargate.",Du er fri til at forfølge enhver karriere i dit eget tempo. Ingen anomali ingen stargate.
